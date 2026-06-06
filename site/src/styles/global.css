@@ -62,8 +62,28 @@ a:hover { text-decoration: underline; text-underline-offset: 2px; }
 .intro h1 { font-family: var(--serif); font-weight: 400; font-size: clamp(2rem, 5vw, 3rem); line-height: 1.08; letter-spacing: -0.02em; margin: 0 0 1rem; max-width: 16ch; }
 .intro p { color: var(--muted); margin: 0; max-width: 56ch; font-size: 1.02rem; }
 
+/* View tabs */
+.views { display: flex; flex-wrap: wrap; gap: 1.6rem; align-items: baseline; border-bottom: 1px solid var(--line); padding-bottom: .8rem; margin-bottom: 1.2rem; }
+.view-tab { border: 0; background: none; cursor: pointer; font: inherit; color: var(--muted); padding: 0 0 2px; font-size: 1rem; font-family: var(--serif); border-bottom: 2px solid transparent; }
+.view-tab:hover { color: var(--text); text-decoration: none; }
+.view-tab[aria-pressed="true"] { color: var(--text); border-bottom-color: var(--accent); }
+
+/* Venue-type view */
+.venue-group { margin-bottom: 2rem; }
+.venue-group h2 { font-family: var(--serif); font-weight: 400; font-size: 1.3rem; margin: 0 0 .4rem; }
+
+/* Calendar view */
+.day-detail { border-bottom: 1px solid var(--line); }
+.day-detail > summary { cursor: pointer; list-style: none; padding: .9rem .1rem; font-family: var(--serif); font-size: 1.15rem; text-transform: capitalize; display: flex; align-items: baseline; gap: .6rem; }
+.day-detail > summary::-webkit-details-marker { display: none; }
+.day-detail > summary::before { content: "+"; color: var(--accent); font-family: var(--sans); width: 1ch; }
+.day-detail[open] > summary::before { content: "–"; }
+.day-detail .day-n { color: var(--faint); font-size: .8rem; font-family: var(--sans); }
+.day-body { padding: 0 0 1rem 1.6rem; }
+
 /* Filters — understated, editorial */
-.filters { display: flex; flex-wrap: wrap; gap: 1.2rem 1.6rem; align-items: center; margin: 0 0 .6rem; padding-bottom: 1.2rem; border-bottom: 1px solid var(--line); }
+.filters { display: flex; flex-wrap: wrap; gap: 1rem 1.6rem; align-items: center; margin: 0 0 1.6rem; }
+.filters .count { margin: 0; }
 .chips { display: inline-flex; gap: 1.1rem; }
 .chip {
   border: 0; background: none; cursor: pointer; font: inherit; padding: 0;
