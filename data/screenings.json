@@ -1,15 +1,5 @@
 [
   {
-    "cinema_id": "cineteca-mic",
-    "tmdb_id": 1211442,
-    "raw_title": "REBUILDING",
-    "start": "2026-06-06T20:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/86377",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
     "cinema_id": "anteo",
     "tmdb_id": null,
     "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
@@ -80,6 +70,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-06T21:30:00",
+    "hall": "Zenit",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/9c8806b2-71bb-44e3-a4e9-0162ef8d2aa3#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": null,
     "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
@@ -120,6 +120,36 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 936075,
+    "raw_title": "MICHAEL",
+    "start": "2026-06-06T21:50:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/bffd6922-442c-4cb7-9285-410493617018#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1228710,
+    "raw_title": "THE MANDALORIAN AND GROGU",
+    "start": "2026-06-06T21:50:00",
+    "hall": "Mignon",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79941/fefbbd4b-8887-474f-861c-87bb92d674a6#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 128,
+    "raw_title": "V. O. SOTT ITA PRINCIPESSA MONONOKE",
+    "start": "2026-06-06T21:50:00",
+    "hall": "Capitol",
+    "language": "original_subbed",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85982/8f9dca4b-1390-48e3-be39-b278b962e89a#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1088548,
     "raw_title": "V. O. SOTT. ITA AMARGA NAVIDAD",
@@ -128,6 +158,46 @@
     "language": "original_subbed",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/80865/d5564fe6-ad8d-42ea-82dc-42257c4dc434#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-07T10:00:00",
+    "hall": "Ariston",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/195fc8b9-c1b9-4659-b700-bfd8fdc0dc42#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "NOI DUE SCONOSCIUTI (SOLOMAMMA)",
+    "start": "2026-06-07T10:00:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79714/ee8fb1b5-1736-4163-8084-0906a7374fa7#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1462322,
+    "raw_title": "LE CITTÀ DI PIANURA",
+    "start": "2026-06-07T10:10:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/31221/2ba0328b-fdfd-4362-8a01-77805a1565ea#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "V.O. SOTT. ITA- IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "start": "2026-06-07T10:30:00",
+    "hall": "Zenit",
+    "language": "original_subbed",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/61725/23658fbe-6818-4cc8-8f93-9511b1c1d105#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "beltrade",
@@ -140,6 +210,46 @@
     "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 936075,
+    "raw_title": "MICHAEL",
+    "start": "2026-06-07T11:30:00",
+    "hall": "Maestoso",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/7bc5bd59-f097-4280-8f0c-cd4c19d01780#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1228710,
+    "raw_title": "V.O.SOTT.ITA. - THE MANDALORIAN AND GROGU",
+    "start": "2026-06-07T11:50:00",
+    "hall": "Aurora",
+    "language": "original_subbed",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79908/64cac2e8-8b37-4e8c-9ae1-2b7f34622209#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-07T12:15:00",
+    "hall": "Ariston",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/8da304a6-f901-41bc-a9ea-811832750462#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1462322,
+    "raw_title": "LE CITTÀ DI PIANURA",
+    "start": "2026-06-07T12:20:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/31221/8476e439-25d0-4db2-a398-6f44b23f6a8f#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": null,
     "raw_title": "MABOROSI NO HIKARI - LA LUCE DELLE ILLUSIONI",
@@ -150,6 +260,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "PRINCIPESSA MONONOKE 4K (RIED. 2026)",
+    "start": "2026-06-07T12:50:00",
+    "hall": "Zenit",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85981/fbc614c5-af3e-4055-8916-b06a8b210d32#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1314738,
     "raw_title": "V.O. SOTT. ITA THE SEA",
@@ -158,6 +278,16 @@
     "language": "original_subbed",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/78258/e3ab0b4b-80aa-4395-9f9d-4912f47ae49c#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 936075,
+    "raw_title": "MICHAEL",
+    "start": "2026-06-07T14:30:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/d3b4c6a1-9a4c-40d3-b36e-17a557daf218#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "anteo",
@@ -220,6 +350,16 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "start": "2026-06-07T15:00:00",
+    "hall": "Maestoso",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/75686/8f1de221-54b1-4470-9845-c66c984c8f46#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "cineteca-metropolis",
     "tmdb_id": 1382513,
     "raw_title": "HEN - STORIA DI UNA GALLINA",
@@ -248,6 +388,16 @@
     "language": "unknown",
     "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/73474",
     "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1228710,
+    "raw_title": "THE MANDALORIAN AND GROGU",
+    "start": "2026-06-07T16:50:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79941/02f0c0a6-c2d5-4de3-a78b-468a8656980b#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "anteo",
@@ -300,6 +450,16 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 936075,
+    "raw_title": "MICHAEL",
+    "start": "2026-06-07T17:00:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/8a5b8fb7-373d-4af9-9d6e-0a81546dcdb4#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "ariosto",
     "tmdb_id": 1088548,
     "raw_title": "AMARGA NAVIDAD",
@@ -328,6 +488,26 @@
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/61626/8cf850b0-2b36-40a0-89e9-a98c8ba5e585#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-07T17:20:00",
+    "hall": "Mignon",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/ef174dda-5574-482b-8aa1-20ea1f0f61ff#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "start": "2026-06-07T17:20:00",
+    "hall": "Maestoso",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/75686/16292647-8414-4a66-8b8f-47feab8537fe#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "beltrade",
@@ -380,6 +560,26 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 936075,
+    "raw_title": "MICHAEL",
+    "start": "2026-06-07T19:20:00",
+    "hall": "Mignon",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/441ec5f3-8e16-4712-88c2-ce595d07601c#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1228710,
+    "raw_title": "THE MANDALORIAN AND GROGU",
+    "start": "2026-06-07T19:20:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79941/7234f3e7-2e8b-469b-a16d-7ab3fcdd3e70#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 936075,
     "raw_title": "MICHAEL",
@@ -408,6 +608,16 @@
     "language": "dubbed",
     "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/86377",
     "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "start": "2026-06-07T19:30:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/61659/eb72ce0d-43dd-4164-84be-12b3c46dca19#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "anteo",
@@ -470,6 +680,16 @@
     "source_url": "https://ariosto.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-07T21:30:00",
+    "hall": "Zenit",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/48a18cfd-1c31-49ff-ac00-9e585401a081#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1088548,
     "raw_title": "V. O. SOTT. ITA AMARGA NAVIDAD",
@@ -520,6 +740,66 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 936075,
+    "raw_title": "MICHAEL",
+    "start": "2026-06-07T21:50:00",
+    "hall": "Mignon",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/96555bae-e7e1-4c08-b482-8647756a009e#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1228710,
+    "raw_title": "THE MANDALORIAN AND GROGU",
+    "start": "2026-06-07T21:50:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79941/3ab8eeb1-bf85-48c0-bd0b-9f9ce2fc0478#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 128,
+    "raw_title": "V. O. SOTT ITA PRINCIPESSA MONONOKE",
+    "start": "2026-06-07T21:50:00",
+    "hall": "Capitol",
+    "language": "original_subbed",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85982/f8607651-bad5-4ba5-a4ae-a456c3e3421b#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-08T10:00:00",
+    "hall": "Ariston",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/6e925ad1-ec50-45e5-98a2-5fe67ce9a4b3#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1462322,
+    "raw_title": "LE CITTÀ DI PIANURA",
+    "start": "2026-06-08T10:15:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/31221/7c37844e-ca81-4397-99b0-6aef90a0ef33#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "V.O. SOTT. ITA- IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "start": "2026-06-08T10:30:00",
+    "hall": "Aurora",
+    "language": "original_subbed",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/61725/1fa4cab9-ce30-4de6-80bd-8c63ade2d05f#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 1083381,
     "raw_title": "BACKROOMS",
@@ -530,6 +810,26 @@
     "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-08T12:15:00",
+    "hall": "Ariston",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/d57d0936-de2f-4c0d-b680-f39494cf0725#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "PRINCIPESSA MONONOKE 4K (RIED. 2026)",
+    "start": "2026-06-08T12:20:00",
+    "hall": "Mignon",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85981/32e61a5f-82a2-4217-b238-404a3a32cf29#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1314738,
     "raw_title": "V.O. SOTT. ITA THE SEA",
@@ -538,6 +838,16 @@
     "language": "original_subbed",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/78258/b6ceb6bb-7fdd-43f2-80fd-6cae65aaf63c#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1228710,
+    "raw_title": "V.O.SOTT.ITA. - THE MANDALORIAN AND GROGU",
+    "start": "2026-06-08T12:30:00",
+    "hall": "Zenit",
+    "language": "original_subbed",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79908/9c3594e6-c282-45a2-a62e-4ca60245b3aa#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "anteo",
@@ -558,6 +868,16 @@
     "language": "original_subbed",
     "booking_url": "https://bandhi.it/bah/beltrade/production/principessa-mononoke/",
     "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "NOI DUE SCONOSCIUTI (SOLOMAMMA)",
+    "start": "2026-06-08T13:00:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79714/57076b58-0bbe-4adc-97d9-13e00e1f0711#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "cineteca-arlecchino",
@@ -600,6 +920,36 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "start": "2026-06-08T15:00:00",
+    "hall": "Maestoso",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/75686/0499625d-9fbe-4d9d-83b7-51b7238b6de0#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "NOI DUE SCONOSCIUTI (SOLOMAMMA)",
+    "start": "2026-06-08T15:00:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79714/42ce21ae-60b0-42ce-973e-9ddbde95a6b4#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 936075,
+    "raw_title": "MICHAEL",
+    "start": "2026-06-08T15:10:00",
+    "hall": "Zenit",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/c2135261-3910-4bdb-9dbc-47c3b8dadf29#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 1339713,
     "raw_title": "OBSESSION",
@@ -628,6 +978,16 @@
     "language": "dubbed",
     "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/86475",
     "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 936075,
+    "raw_title": "MICHAEL",
+    "start": "2026-06-08T16:50:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/1387d625-b650-4331-ad10-ff6395ba6180#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "anteo",
@@ -680,6 +1040,16 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1228710,
+    "raw_title": "THE MANDALORIAN AND GROGU",
+    "start": "2026-06-08T17:00:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79941/71f55f7e-7d82-488c-a71a-f6f40551727c#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 414419,
     "raw_title": "KILL BILL - THE WHOLE BLOODY AFFAIR",
@@ -698,6 +1068,26 @@
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/61626/f6cceac7-8bb3-47d0-b053-0dc264154d85#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-08T17:20:00",
+    "hall": "Mignon",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/b97e395f-0cb8-4f98-a778-32f48f1ab7da#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "start": "2026-06-08T17:20:00",
+    "hall": "Maestoso",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/75686/a65094de-7d4b-42fd-83bd-8330056c8a70#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "cineteca-metropolis",
@@ -758,6 +1148,26 @@
     "language": "unknown",
     "booking_url": "https://ariosto.spaziocinema.18tickets.it/film/81822/ee508a7f-9f2e-499c-9cc5-adba426e22e0#theater-init",
     "source_url": "https://ariosto.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 936075,
+    "raw_title": "MICHAEL",
+    "start": "2026-06-08T19:20:00",
+    "hall": "Mignon",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/b5b76259-5999-4538-97cc-16c2e6094748#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "start": "2026-06-08T19:20:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/61659/e445f4b9-d06e-42f3-b0a8-0552638858e1#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "anteo",
@@ -840,6 +1250,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1228710,
+    "raw_title": "THE MANDALORIAN AND GROGU",
+    "start": "2026-06-08T21:30:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79941/d266f076-144f-4b8c-9042-8763172b038a#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": null,
     "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
@@ -860,6 +1280,16 @@
     "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-08T21:40:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/068830e0-93c9-4e69-84e3-c0c48b792887#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 936075,
     "raw_title": "V.O.SOTT.ITA. - MICHAEL",
@@ -870,6 +1300,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 128,
+    "raw_title": "V. O. SOTT ITA PRINCIPESSA MONONOKE",
+    "start": "2026-06-08T21:50:00",
+    "hall": "Mignon",
+    "language": "original_subbed",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85982/b299d24d-117d-452a-8e57-3769c3ed1694#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1088548,
     "raw_title": "AMARGA NAVIDAD",
@@ -878,6 +1318,56 @@
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/80832/21370eb9-cd89-49bf-aeaf-156541b41821#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1462322,
+    "raw_title": "LE CITTÀ DI PIANURA",
+    "start": "2026-06-09T10:10:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/31221/fa53e718-690a-416a-b527-c6aeae52cb57#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-09T10:30:00",
+    "hall": "Ariston",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/03558ce9-9e13-4d32-bea5-3ad29ccfde7c#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 936075,
+    "raw_title": "V.O.SOTT.ITA. - MICHAEL",
+    "start": "2026-06-09T10:30:00",
+    "hall": "Corallo",
+    "language": "original_subbed",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/72714/e630c6be-bd91-4bc8-a3a7-7d4f92890c5b#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "V.O. SOTT. ITA- IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "start": "2026-06-09T10:30:00",
+    "hall": "Zenit",
+    "language": "original_subbed",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/61725/9a9b0d9a-c221-436b-a095-5abee3ae8f27#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "NOI DUE SCONOSCIUTI (SOLOMAMMA)",
+    "start": "2026-06-09T10:30:00",
+    "hall": "Mignon",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79714/93e844ca-758a-478d-8ac9-63cc8704a62a#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "beltrade",
@@ -900,6 +1390,26 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1228710,
+    "raw_title": "V.O.SOTT.ITA. - THE MANDALORIAN AND GROGU",
+    "start": "2026-06-09T12:20:00",
+    "hall": "Aurora",
+    "language": "original_subbed",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79908/4445e0cd-078b-4088-865c-5d8693cd6cf1#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1462322,
+    "raw_title": "LE CITTÀ DI PIANURA",
+    "start": "2026-06-09T12:20:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/31221/5468f921-e176-4f43-b0a3-8eaa5f0b9a03#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": null,
     "raw_title": "MABOROSI NO HIKARI - LA LUCE DELLE ILLUSIONI",
@@ -910,6 +1420,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-09T12:45:00",
+    "hall": "Ariston",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/ffdd5537-f0ba-4933-808e-783e983f1623#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 1382513,
     "raw_title": "HEN - STORIA DI UNA GALLINA",
@@ -918,6 +1438,26 @@
     "language": "original_subbed",
     "booking_url": "https://bandhi.it/bah/beltrade/production/hen-storia-di-una-gallina/",
     "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "PRINCIPESSA MONONOKE 4K (RIED. 2026)",
+    "start": "2026-06-09T12:50:00",
+    "hall": "Zenit",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85981/2a217f26-19ca-4746-ac12-defe49538f4d#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 936075,
+    "raw_title": "MICHAEL",
+    "start": "2026-06-09T14:30:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/be49b8b0-9942-4355-bade-d08759b8eb1b#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "beltrade",
@@ -970,6 +1510,16 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "IL DIAVOLO VESTE PRADA (THE DEVIL WEARS PRADA)",
+    "start": "2026-06-09T15:00:00",
+    "hall": "Mignon",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85387/e9530a16-e9a8-41be-9fa4-cb70b0ab5943#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "cineteca-metropolis",
     "tmdb_id": 1382513,
     "raw_title": "HEN - STORIA DI UNA GALLINA",
@@ -1010,6 +1560,16 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1228710,
+    "raw_title": "THE MANDALORIAN AND GROGU",
+    "start": "2026-06-09T16:50:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79941/f562f48d-3214-4308-9016-0c18408734c2#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1088548,
     "raw_title": "V. O. SOTT. ITA AMARGA NAVIDAD",
@@ -1040,6 +1600,16 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 936075,
+    "raw_title": "MICHAEL",
+    "start": "2026-06-09T17:00:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/9f0be1b0-126e-418c-a900-80d451bae476#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": null,
     "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
@@ -1048,6 +1618,26 @@
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/61626/35a74eaa-28bd-4eb5-8051-4b78615fee1c#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-09T17:20:00",
+    "hall": "Mignon",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/c678c9ae-b332-45b4-a679-2057db421e7a#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "start": "2026-06-09T17:20:00",
+    "hall": "Maestoso",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/75686/52d1d902-7e39-487d-bc9c-b6d513ffe465#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "cineteca-metropolis",
@@ -1110,6 +1700,36 @@
     "source_url": "https://ariosto.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 936075,
+    "raw_title": "MICHAEL",
+    "start": "2026-06-09T19:20:00",
+    "hall": "Mignon",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/69c4353e-6d69-4564-80ed-9fd80a8089c7#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1228710,
+    "raw_title": "THE MANDALORIAN AND GROGU",
+    "start": "2026-06-09T19:20:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79941/3d826495-a2d4-4434-9699-010e79a38388#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "start": "2026-06-09T19:30:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/61659/a2e12e94-a2ae-48aa-a09b-330583a7eb55#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 1083381,
     "raw_title": "BACKROOMS",
@@ -1170,6 +1790,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-09T21:30:00",
+    "hall": "Zenit",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/7b4a0908-40ff-4525-b5c9-f5de2fc12e8f#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1088548,
     "raw_title": "V. O. SOTT. ITA AMARGA NAVIDAD",
@@ -1190,6 +1820,26 @@
     "source_url": "https://ariosto.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1228710,
+    "raw_title": "THE MANDALORIAN AND GROGU",
+    "start": "2026-06-09T21:50:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79941/300ae8c8-4689-42bd-9bff-3da2aa143bf8#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 128,
+    "raw_title": "V. O. SOTT ITA PRINCIPESSA MONONOKE",
+    "start": "2026-06-09T21:50:00",
+    "hall": "Capitol",
+    "language": "original_subbed",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85982/bc285555-5cd5-465b-852c-1d2754ffa425#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 1339713,
     "raw_title": "OBSESSION",
@@ -1208,6 +1858,46 @@
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/80832/59ea3d21-5305-40a1-a38f-92088b796f87#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1275779,
+    "raw_title": "DISCLOSURE DAY",
+    "start": "2026-06-10T10:00:00",
+    "hall": "Zenit",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85518/3523998b-107a-4e4d-9217-517798b9eb41#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-10T10:00:00",
+    "hall": "Ariston",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/3201e1ae-a352-4233-bb90-e35a9d599cb4#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1228710,
+    "raw_title": "V.O.SOTT.ITA. - THE MANDALORIAN AND GROGU",
+    "start": "2026-06-10T10:00:00",
+    "hall": "Corallo",
+    "language": "original_subbed",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79908/bedb65f0-8a4c-4fd3-bcb7-11ae4a4de43f#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1462322,
+    "raw_title": "LE CITTÀ DI PIANURA",
+    "start": "2026-06-10T10:00:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/31221/b49a756c-67d5-4b3d-be03-f86f34b08281#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "anteo",
@@ -1240,6 +1930,46 @@
     "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "NOI DUE SCONOSCIUTI (SOLOMAMMA)",
+    "start": "2026-06-10T11:00:00",
+    "hall": "Mignon",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79714/cf52d0bf-facf-47a4-a4f6-a317e000f0bb#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1275779,
+    "raw_title": "V.O.SOTT. ITA. - DISCLOSURE DAY",
+    "start": "2026-06-10T12:10:00",
+    "hall": "Maestoso",
+    "language": "original_subbed",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85487/cd07a9c1-23f5-44af-bbe9-2832486da2ab#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "LO STRANIERO (L'ÉTRANGER)",
+    "start": "2026-06-10T12:10:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85388/a2aa5343-93cc-497b-8f71-a28e74fb1a25#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-10T12:15:00",
+    "hall": "Ariston",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/7d0cda42-7189-4bd4-a9c2-734933bc78c2#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1088548,
     "raw_title": "V. O. SOTT. ITA AMARGA NAVIDAD",
@@ -1248,6 +1978,16 @@
     "language": "original_subbed",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/80865/b605cef2-af2e-4929-9c79-3ed461aa00f8#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "start": "2026-06-10T12:40:00",
+    "hall": "Corallo",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/61659/f36ee1e4-407a-4101-aebd-195eda3ff02d#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "beltrade",
@@ -1300,6 +2040,16 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "LO STRANIERO (L'ÉTRANGER)",
+    "start": "2026-06-10T14:30:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85388/ed93815c-f8e2-4439-9ae6-95c4c069df53#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1088548,
     "raw_title": "AMARGA NAVIDAD",
@@ -1308,6 +2058,26 @@
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/80832/55ff9c67-c423-4e6e-8377-885d90f61343#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 936075,
+    "raw_title": "MICHAEL",
+    "start": "2026-06-10T14:45:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/9b0d0d1e-2208-497c-ae79-c58d189f2ddc#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-10T14:50:00",
+    "hall": "Zenit",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/549ebb34-a356-4586-a193-fc719db5c2ca#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "beltrade",
@@ -1380,6 +2150,26 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1228710,
+    "raw_title": "THE MANDALORIAN AND GROGU",
+    "start": "2026-06-10T16:50:00",
+    "hall": "Corallo",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79941/d61e8ea2-3420-4cd2-9a90-dc083227e32a#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "LO STRANIERO (L'ÉTRANGER)",
+    "start": "2026-06-10T16:50:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85388/da268a18-618a-4429-aba6-657e941a5dfc#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1088548,
     "raw_title": "V. O. SOTT. ITA AMARGA NAVIDAD",
@@ -1428,6 +2218,16 @@
     "language": "dubbed",
     "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/86377",
     "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 128,
+    "raw_title": "V. O. SOTT ITA PRINCIPESSA MONONOKE",
+    "start": "2026-06-10T17:00:00",
+    "hall": "Mignon",
+    "language": "original_subbed",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85982/9b99c9b7-406f-4b2f-b726-ac1f43c5c803#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "cineteca-metropolis",
@@ -1490,6 +2290,26 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1275779,
+    "raw_title": "V.O.SOTT. ITA. - DISCLOSURE DAY",
+    "start": "2026-06-10T19:00:00",
+    "hall": "Zenit",
+    "language": "original_subbed",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85487/e9118a6e-18e7-4650-b698-1ea05aaf1227#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "LO STRANIERO (L'ÉTRANGER)",
+    "start": "2026-06-10T19:10:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85388/e1ae414a-0c29-412b-9f30-71dc9649a349#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1088548,
     "raw_title": "AMARGA NAVIDAD",
@@ -1498,6 +2318,16 @@
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/80832/6b1f4d77-30ed-4484-a06c-9b1c689a1009#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "start": "2026-06-10T19:20:00",
+    "hall": "Corallo",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/61659/d62d3cbe-a40e-492f-a752-cc4110e0e477#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "anteo",
@@ -1570,6 +2400,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "LO STRANIERO (L'ÉTRANGER)",
+    "start": "2026-06-10T21:30:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85388/dd6c7432-e783-4df3-a95b-abefe9791190#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1088548,
     "raw_title": "V. O. SOTT. ITA AMARGA NAVIDAD",
@@ -1590,6 +2430,16 @@
     "source_url": "https://ariosto.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1228710,
+    "raw_title": "THE MANDALORIAN AND GROGU",
+    "start": "2026-06-10T21:40:00",
+    "hall": "Corallo",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79941/7b929165-1dff-45b5-b386-2ef9a3b8f350#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1275779,
     "raw_title": "V.O.SOTT. ITA. - DISCLOSURE DAY",
@@ -1608,6 +2458,16 @@
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/31221/625ac69c-9c9f-4dce-8203-dcb91033dc76#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 936075,
+    "raw_title": "MICHAEL",
+    "start": "2026-06-10T21:50:00",
+    "hall": "Mignon",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/169d470e-0fc3-4885-94a2-814588455c21#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "cineteca-arlecchino",

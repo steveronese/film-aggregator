@@ -36,6 +36,8 @@ class Cinema(BaseModel):
     lng: float | None = None
     website: str | None = None
     neighborhood: str | None = None
+    # arthouse / museum / openair / multiplex — used for map markers & grouping.
+    category: str | None = None
 
 
 class RawScreening(BaseModel):

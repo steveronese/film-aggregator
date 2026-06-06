@@ -6,7 +6,8 @@
     "lat": 45.4928,
     "lng": 9.2196,
     "website": "https://www.cinemabeltrade.net/",
-    "neighborhood": "NoLo"
+    "neighborhood": "NoLo",
+    "category": "arthouse"
   },
   {
     "id": "cineteca-arlecchino",
@@ -15,7 +16,8 @@
     "lat": 45.4659,
     "lng": 9.1969,
     "website": "https://www.cinetecamilano.it/",
-    "neighborhood": "Centro"
+    "neighborhood": "Centro",
+    "category": "arthouse"
   },
   {
     "id": "cineteca-mic",
@@ -24,7 +26,8 @@
     "lat": 45.5167,
     "lng": 9.2003,
     "website": "https://www.cinetecamilano.it/",
-    "neighborhood": "Bicocca"
+    "neighborhood": "Bicocca",
+    "category": "museum"
   },
   {
     "id": "cineteca-metropolis",
@@ -33,7 +36,8 @@
     "lat": 45.4836,
     "lng": 9.2426,
     "website": "https://www.cinetecamilano.it/",
-    "neighborhood": "Città Studi"
+    "neighborhood": "Città Studi",
+    "category": "arthouse"
   },
   {
     "id": "mexico",
@@ -42,7 +46,8 @@
     "lat": 45.4533,
     "lng": 9.1583,
     "website": "https://www.cinemamexico.it/",
-    "neighborhood": "Solari"
+    "neighborhood": "Solari",
+    "category": "arthouse"
   },
   {
     "id": "anteo",
@@ -51,7 +56,8 @@
     "lat": 45.481,
     "lng": 9.1869,
     "website": "https://anteospaziocinema.com/",
-    "neighborhood": "Moscova"
+    "neighborhood": "Moscova",
+    "category": "arthouse"
   },
   {
     "id": "ariosto",
@@ -60,7 +66,18 @@
     "lat": 45.4709,
     "lng": 9.1648,
     "website": "https://anteospaziocinema.com/",
-    "neighborhood": "Conciliazione"
+    "neighborhood": "Conciliazione",
+    "category": "arthouse"
+  },
+  {
+    "id": "citylife-anteo",
+    "name": "CityLife Anteo",
+    "address": "Piazza Tre Torri 1, 20145 Milano",
+    "lat": 45.4787,
+    "lng": 9.1561,
+    "website": "https://anteospaziocinema.com/",
+    "neighborhood": "CityLife",
+    "category": "arthouse"
   },
   {
     "id": "centrale",
@@ -69,6 +86,47 @@
     "lat": 45.4615,
     "lng": 9.1857,
     "website": "https://www.multisalacentrale.it/",
-    "neighborhood": "Centro"
+    "neighborhood": "Centro",
+    "category": "multiplex"
+  },
+  {
+    "id": "arianteo-incoronata",
+    "name": "AriAnteo Incoronata",
+    "address": "Corso Garibaldi 116, 20121 Milano",
+    "lat": 45.483,
+    "lng": 9.1855,
+    "website": "https://anteospaziocinema.com/",
+    "neighborhood": "Garibaldi",
+    "category": "openair"
+  },
+  {
+    "id": "arianteo-palazzoreale",
+    "name": "AriAnteo Palazzo Reale",
+    "address": "Piazza del Duomo 12, 20122 Milano",
+    "lat": 45.4628,
+    "lng": 9.1916,
+    "website": "https://anteospaziocinema.com/",
+    "neighborhood": "Duomo",
+    "category": "openair"
+  },
+  {
+    "id": "arianteo-villareale",
+    "name": "AriAnteo Villa Reale",
+    "address": "Via Palestro 16, 20121 Milano",
+    "lat": 45.4725,
+    "lng": 9.2008,
+    "website": "https://anteospaziocinema.com/",
+    "neighborhood": "Porta Venezia",
+    "category": "openair"
+  },
+  {
+    "id": "arianteo-fabbricadelvapore",
+    "name": "AriAnteo Fabbrica del Vapore",
+    "address": "Via Giulio Cesare Procaccini 4, 20154 Milano",
+    "lat": 45.4869,
+    "lng": 9.1707,
+    "website": "https://anteospaziocinema.com/",
+    "neighborhood": "Chinatown",
+    "category": "openair"
   }
 ]

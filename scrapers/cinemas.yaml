@@ -1,6 +1,7 @@
 # Milan cinema registry — niche / original-version venues first.
 # `id` is referenced by scrapers (cinema_id) and by data/*.json.
-# Addresses/coords are best-effort; verify when implementing each scraper in Phase 2.
+# `category`: arthouse | museum | openair | multiplex (used for map markers & grouping).
+# Addresses/coords are best-effort; refined for the map in workstream B.
 
 - id: beltrade
   name: Cinema Beltrade
@@ -9,6 +10,7 @@
   lng: 9.2196
   website: https://www.cinemabeltrade.net/
   neighborhood: NoLo
+  category: arthouse
 
 - id: cineteca-arlecchino
   name: Cineteca Milano Arlecchino
@@ -17,6 +19,7 @@
   lng: 9.1969
   website: https://www.cinetecamilano.it/
   neighborhood: Centro
+  category: arthouse
 
 - id: cineteca-mic
   name: Cineteca Milano MIC (Museo Interattivo del Cinema)
@@ -25,6 +28,7 @@
   lng: 9.2003
   website: https://www.cinetecamilano.it/
   neighborhood: Bicocca
+  category: museum
 
 - id: cineteca-metropolis
   name: Cineteca Milano Metropolis
@@ -33,6 +37,7 @@
   lng: 9.2426
   website: https://www.cinetecamilano.it/
   neighborhood: Città Studi
+  category: arthouse
 
 - id: mexico
   name: Cinema Mexico
@@ -41,6 +46,7 @@
   lng: 9.1583
   website: https://www.cinemamexico.it/
   neighborhood: Solari
+  category: arthouse
 
 - id: anteo
   name: Anteo Palazzo del Cinema
@@ -49,6 +55,7 @@
   lng: 9.1869
   website: https://anteospaziocinema.com/
   neighborhood: Moscova
+  category: arthouse
 
 - id: ariosto
   name: Ariosto Anteo spazioCinema
@@ -57,6 +64,16 @@
   lng: 9.1648
   website: https://anteospaziocinema.com/
   neighborhood: Conciliazione
+  category: arthouse
+
+- id: citylife-anteo
+  name: CityLife Anteo
+  address: Piazza Tre Torri 1, 20145 Milano
+  lat: 45.4787
+  lng: 9.1561
+  website: https://anteospaziocinema.com/
+  neighborhood: CityLife
+  category: arthouse
 
 - id: centrale
   name: Multisala Centrale
@@ -65,3 +82,41 @@
   lng: 9.1857
   website: https://www.multisalacentrale.it/
   neighborhood: Centro
+  category: multiplex
+
+# Seasonal AriAnteo open-air venues (summer).
+- id: arianteo-incoronata
+  name: AriAnteo Incoronata
+  address: Corso Garibaldi 116, 20121 Milano
+  lat: 45.4830
+  lng: 9.1855
+  website: https://anteospaziocinema.com/
+  neighborhood: Garibaldi
+  category: openair
+
+- id: arianteo-palazzoreale
+  name: AriAnteo Palazzo Reale
+  address: Piazza del Duomo 12, 20122 Milano
+  lat: 45.4628
+  lng: 9.1916
+  website: https://anteospaziocinema.com/
+  neighborhood: Duomo
+  category: openair
+
+- id: arianteo-villareale
+  name: AriAnteo Villa Reale
+  address: Via Palestro 16, 20121 Milano
+  lat: 45.4725
+  lng: 9.2008
+  website: https://anteospaziocinema.com/
+  neighborhood: Porta Venezia
+  category: openair
+
+- id: arianteo-fabbricadelvapore
+  name: AriAnteo Fabbrica del Vapore
+  address: Via Giulio Cesare Procaccini 4, 20154 Milano
+  lat: 45.4869
+  lng: 9.1707
+  website: https://anteospaziocinema.com/
+  neighborhood: Chinatown
+  category: openair

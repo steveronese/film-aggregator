@@ -140,3 +140,29 @@ class AnteoScraper(EighteenTicketsScraper):
 class AriostoScraper(EighteenTicketsScraper):
     cinema_id = "ariosto"
     subdomain = "ariosto.spaziocinema"
+
+
+class CityLifeAnteoScraper(EighteenTicketsScraper):
+    cinema_id = "citylife-anteo"
+    subdomain = "citylife.spaziocinema"
+
+
+# Seasonal AriAnteo open-air venues (summer); empty off-season, which is harmless.
+class AriAnteoIncoronataScraper(EighteenTicketsScraper):
+    cinema_id = "arianteo-incoronata"
+    subdomain = "incoronata.spaziocinema"
+
+
+class AriAnteoPalazzoRealeScraper(EighteenTicketsScraper):
+    cinema_id = "arianteo-palazzoreale"
+    subdomain = "palazzoreale.spaziocinema"
+
+
+class AriAnteoVillaRealeScraper(EighteenTicketsScraper):
+    cinema_id = "arianteo-villareale"
+    subdomain = "villareale.spaziocinema"
+
+
+class AriAnteoFabbricaDelVaporeScraper(EighteenTicketsScraper):
+    cinema_id = "arianteo-fabbricadelvapore"
+    subdomain = "fabbricadelvapore.spaziocinema"

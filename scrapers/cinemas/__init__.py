@@ -9,12 +9,26 @@ from __future__ import annotations
 from ..base import BaseScraper
 from .bandhi import BeltradeScraper
 from .cineteca import CinetecaScraper
-from .eighteentickets import AnteoScraper, AriostoScraper
+from .eighteentickets import (
+    AnteoScraper,
+    AriAnteoFabbricaDelVaporeScraper,
+    AriAnteoIncoronataScraper,
+    AriAnteoPalazzoRealeScraper,
+    AriAnteoVillaRealeScraper,
+    AriostoScraper,
+    CityLifeAnteoScraper,
+)
 
 SCRAPERS: list[type[BaseScraper]] = [
     BeltradeScraper,
     CinetecaScraper,
     AnteoScraper,
     AriostoScraper,
-    # Still to add: mexico (site currently down), AriAnteo (seasonal, summer), ...
+    CityLifeAnteoScraper,
+    # Seasonal open-air (empty off-season):
+    AriAnteoIncoronataScraper,
+    AriAnteoPalazzoRealeScraper,
+    AriAnteoVillaRealeScraper,
+    AriAnteoFabbricaDelVaporeScraper,
+    # Still to add: Cinenauta (Arcobaleno+Ducale), Il Cinemino, Webtic venues, mexico (down), ...
 ]
