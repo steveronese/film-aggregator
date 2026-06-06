@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
+from ..ai_matcher import AIMatcher
 from ..matching import FilmMatcher, normalize_title
 from ..tmdb import TMDBClient
 
@@ -35,7 +36,10 @@ def test_unmatched_returns_none(matcher: FilmMatcher) -> None:
 def _run() -> None:
     # Hermetic: forced offline against the committed test fixture, never touches the network
     # or the production cache, regardless of whether TMDB_ACCESS_TOKEN is set.
-    matcher = FilmMatcher(TMDBClient(cache_path=FIXTURE_CACHE, offline=True))
+    matcher = FilmMatcher(
+        TMDBClient(cache_path=FIXTURE_CACHE, offline=True),
+        ai=AIMatcher(offline=True),
+    )
     test_normalize_strips_noise_and_accents()
     test_override_path(matcher)
     test_fuzzy_search_path(matcher)

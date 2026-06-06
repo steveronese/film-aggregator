@@ -10,11 +10,13 @@ from __future__ import annotations
 import logging
 import re
 import unicodedata
+from dataclasses import dataclass
 from pathlib import Path
 
 import yaml
 from rapidfuzz import fuzz
 
+from .ai_matcher import AIMatcher
 from .models import Film
 from .tmdb import TMDBClient
 
@@ -22,8 +24,17 @@ log = logging.getLogger(__name__)
 
 OVERRIDES_PATH = Path(__file__).parent / "overrides.yaml"
 
-# Accept a fuzzy match only at/above this score (0-100).
+# Accept a fuzzy match (with no AI) at/above this score (0-100).
 MATCH_THRESHOLD = 85
+# At/above this score a fuzzy match is trusted outright (AI not consulted).
+HIGH_CONFIDENCE = 90
+
+
+@dataclass
+class MatchResult:
+    film: Film | None
+    method: str  # 'override' | 'fuzzy' | 'ai' | 'none'
+    confidence: float | None = None
 
 # Noise commonly appended to Italian listings that should not affect matching.
 _NOISE = re.compile(
@@ -76,10 +87,16 @@ def _film_from_details(details: dict) -> Film:
 
 
 class FilmMatcher:
-    def __init__(self, tmdb: TMDBClient, overrides_path: Path = OVERRIDES_PATH) -> None:
+    def __init__(
+        self,
+        tmdb: TMDBClient,
+        overrides_path: Path = OVERRIDES_PATH,
+        ai: AIMatcher | None = None,
+    ) -> None:
         self.tmdb = tmdb
+        self.ai = ai if ai is not None else AIMatcher()
         self.overrides = self._load_overrides(overrides_path)
-        self._cache: dict[tuple[str, int | None], Film | None] = {}
+        self._cache: dict[tuple[str, int | None], MatchResult] = {}
 
     @staticmethod
     def _load_overrides(path: Path) -> dict[str, int]:
@@ -90,25 +107,29 @@ class FilmMatcher:
         return {normalize_title(str(k)): int(v) for k, v in raw.items()}
 
     def match(self, raw_title: str, year: int | None = None) -> Film | None:
+        return self.match_detailed(raw_title, year).film
+
+    def match_detailed(self, raw_title: str, year: int | None = None) -> MatchResult:
         norm = normalize_title(raw_title)
         if not norm:
-            return None
+            return MatchResult(None, "none")
         cache_key = (norm, year)
-        if cache_key in self._cache:
-            return self._cache[cache_key]
+        if cache_key not in self._cache:
+            self._cache[cache_key] = self._resolve(raw_title, norm, year)
+        return self._cache[cache_key]
 
-        film = self._match_uncached(raw_title, norm, year)
-        self._cache[cache_key] = film
-        return film
+    def _film(self, tmdb_id: int) -> Film | None:
+        details = self.tmdb.movie_details(tmdb_id)
+        return _film_from_details(details) if details else None
 
-    def _match_uncached(self, raw_title: str, norm: str, year: int | None) -> Film | None:
+    def _resolve(self, raw_title: str, norm: str, year: int | None) -> MatchResult:
         # 1. Manual override always wins.
         if norm in self.overrides:
-            details = self.tmdb.movie_details(self.overrides[norm])
-            if details:
-                return _film_from_details(details)
-            log.warning("Override for %r -> %s but no details available", raw_title, self.overrides[norm])
-            return None
+            film = self._film(self.overrides[norm])
+            if film:
+                return MatchResult(film, "override", 100.0)
+            log.warning("Override for %r -> %s but no details", raw_title, self.overrides[norm])
+            return MatchResult(None, "none")
 
         # 2. Fuzzy search against TMDB.
         candidates = self.tmdb.search_movie(norm, year)
@@ -122,8 +143,24 @@ class FilmMatcher:
                 if score > best_score:
                     best_score, best_id = score, cand["id"]
 
+        # High-confidence fuzzy is trusted outright (no AI call needed).
+        if best_id is not None and best_score >= HIGH_CONFIDENCE:
+            film = self._film(best_id)
+            if film:
+                return MatchResult(film, "fuzzy", best_score)
+
+        # 3. AI adjudicates the uncertain middle band and rescues misses with candidates.
+        if candidates and self.ai.enabled:
+            ai_id, ai_conf = self.ai.pick(norm, candidates)
+            if ai_id is not None:
+                film = self._film(ai_id)
+                if film:
+                    return MatchResult(film, "ai", ai_conf)
+            return MatchResult(None, "none")  # AI saw the candidates and rejected them
+
+        # 4. No AI: fall back to the plain fuzzy threshold (original behaviour).
         if best_id is not None and best_score >= MATCH_THRESHOLD:
-            details = self.tmdb.movie_details(best_id)
-            if details:
-                return _film_from_details(details)
-        return None
+            film = self._film(best_id)
+            if film:
+                return MatchResult(film, "fuzzy", best_score)
+        return MatchResult(None, "none")

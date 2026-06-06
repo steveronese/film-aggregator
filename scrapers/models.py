@@ -88,3 +88,13 @@ class UnmatchedTitle(BaseModel):
     raw_year: int | None = None
     cinema_id: str
     occurrences: int = 1
+
+
+class ReviewEntry(BaseModel):
+    """A match worth a human glance — AI-picked or borderline-confidence. Catches false positives."""
+
+    raw_title: str
+    tmdb_id: int
+    matched_title: str
+    method: str  # 'fuzzy' | 'ai'
+    confidence: float | None = None

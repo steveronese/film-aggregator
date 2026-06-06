@@ -14,8 +14,8 @@ from pathlib import Path
 import yaml
 
 from .cinemas import SCRAPERS
-from .matching import FilmMatcher
-from .models import Cinema, Film, RawScreening, Screening, UnmatchedTitle
+from .matching import HIGH_CONFIDENCE, FilmMatcher
+from .models import Cinema, Film, RawScreening, ReviewEntry, Screening, UnmatchedTitle
 from .tmdb import TMDBClient
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
@@ -43,17 +43,25 @@ def is_upcoming(s: RawScreening, now: datetime) -> bool:
 
 
 def build(raw_screenings: list[RawScreening], matcher: FilmMatcher):
-    """Resolve raw screenings to TMDB films. Returns (screenings, films, unmatched)."""
+    """Resolve raw screenings to TMDB films. Returns (screenings, films, unmatched, review)."""
     films: dict[int, Film] = {}
     unmatched: "OrderedDict[tuple[str, int | None, str], UnmatchedTitle]" = OrderedDict()
+    review: dict[tuple[str, int], ReviewEntry] = {}
     screenings: list[Screening] = []
 
     for rs in raw_screenings:
-        film = matcher.match(rs.raw_title, rs.raw_year)
+        result = matcher.match_detailed(rs.raw_title, rs.raw_year)
+        film = result.film
         tmdb_id = None
         if film is not None:
             tmdb_id = film.tmdb_id
             films[film.tmdb_id] = film
+            # Flag AI-picked or borderline-confidence matches for a human glance.
+            if result.method == "ai" or (result.confidence is not None and result.confidence < HIGH_CONFIDENCE + 5):
+                review[(rs.raw_title, film.tmdb_id)] = ReviewEntry(
+                    raw_title=rs.raw_title, tmdb_id=film.tmdb_id, matched_title=film.title,
+                    method=result.method, confidence=result.confidence,
+                )
         else:
             key = (rs.raw_title, rs.raw_year, rs.cinema_id)
             if key in unmatched:
@@ -75,7 +83,7 @@ def build(raw_screenings: list[RawScreening], matcher: FilmMatcher):
             )
         )
 
-    return screenings, list(films.values()), list(unmatched.values())
+    return screenings, list(films.values()), list(unmatched.values()), list(review.values())
 
 
 def write_json(path: Path, models) -> None:
@@ -97,8 +105,9 @@ def main() -> None:
 
     tmdb = TMDBClient()
     matcher = FilmMatcher(tmdb)
-    screenings, films, unmatched = build(raw, matcher)
+    screenings, films, unmatched, review = build(raw, matcher)
     tmdb.save_cache()
+    matcher.ai.save()
 
     screenings.sort(key=lambda s: (s.start, s.cinema_id))
 
@@ -107,12 +116,16 @@ def main() -> None:
     write_json(DATA_DIR / "screenings.json", screenings)
     write_json(DATA_DIR / "films.json", films)
     write_json(DATA_DIR / "unmatched.json", unmatched)
+    write_json(DATA_DIR / "review.json", review)
 
     matched = sum(1 for s in screenings if s.tmdb_id is not None)
     log.info(
-        "Wrote %d screenings (%d matched, %d unmatched titles), %d films, %d cinemas.",
-        len(screenings), matched, len(unmatched), len(films), len(cinemas),
+        "Wrote %d screenings (%d matched, %d unmatched titles, %d to review), %d films, %d cinemas.",
+        len(screenings), matched, len(unmatched), len(review), len(films), len(cinemas),
     )
+    if review:
+        log.info("AI/borderline matches to review: %s",
+                 ", ".join(f"{r.raw_title!r}→{r.matched_title!r}({r.method})" for r in review[:10]))
     if unmatched:
         log.info("Unmatched (triage into overrides.yaml): %s",
                  ", ".join(f"{u.raw_title!r}" for u in unmatched))
