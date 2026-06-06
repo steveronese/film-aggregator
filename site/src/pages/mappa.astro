@@ -1,0 +1,111 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCinemas, screeningsByCinema } from '../lib/data';
+
+const byCinema = screeningsByCinema();
+const cinemas = getCinemas()
+  .filter((c) => c.lat != null && c.lng != null)
+  .map((c) => ({
+    id: c.id,
+    name: c.name,
+    address: c.address,
+    neighborhood: c.neighborhood,
+    category: c.category,
+    lat: c.lat,
+    lng: c.lng,
+    count: (byCinema.get(c.id) ?? []).length,
+  }))
+  // active venues first, then alphabetical
+  .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+
+const CATEGORY_LABEL: Record<string, string> = {
+  arthouse: "Sala d'essai", museum: 'Museo', openair: "All'aperto", multiplex: 'Multisala',
+};
+---
+
+<Layout title="Mappa dei cinema — SchermoMilano" description="I cinema di Milano sulla mappa, con quelli più vicini a te.">
+  <section class="intro">
+    <h1>I cinema sulla mappa</h1>
+    <p>Tutte le sale di Milano. Premi “Trova i cinema vicino a te” per ordinarle per distanza.</p>
+  </section>
+
+  <button class="control" id="locate">📍 Trova i cinema vicino a te</button>
+  <p class="count" id="geo-status"></p>
+
+  <div id="map"></div>
+
+  <ul class="cinema-list" id="cinema-list">
+    {cinemas.map((c) => (
+      <li class="cinema-row" data-id={c.id} data-lat={c.lat} data-lng={c.lng}>
+        <a href={`/cinema/${c.id}`}>
+          <span class="name">{c.name}</span>
+          <span class="meta">
+            {[c.category ? CATEGORY_LABEL[c.category] ?? c.category : null, c.neighborhood]
+              .filter(Boolean).join(' · ')}
+            {c.count > 0 ? ` · ${c.count} proiezioni` : ' · nessuna proiezione'}
+          </span>
+        </a>
+        <span class="dist" hidden></span>
+      </li>
+    ))}
+  </ul>
+
+  <script type="application/json" id="cinema-data" set:html={JSON.stringify(cinemas)} />
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script is:inline src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script is:inline>
+    (function () {
+      const MILAN = [45.4642, 9.19];
+      const cinemas = JSON.parse(document.getElementById('cinema-data').textContent);
+      const map = L.map('map').setView(MILAN, 12);
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+      }).addTo(map);
+
+      for (const c of cinemas) {
+        const popup =
+          `<strong>${c.name}</strong><br>` +
+          (c.count > 0 ? `${c.count} proiezioni in programma<br>` : 'Nessuna proiezione in programma<br>') +
+          `<a href="/cinema/${c.id}">Vedi programmazione →</a>`;
+        L.marker([c.lat, c.lng]).addTo(map).bindPopup(popup);
+      }
+
+      function haversine(a, b, c, d) {
+        const R = 6371, toRad = (x) => (x * Math.PI) / 180;
+        const dLat = toRad(c - a), dLng = toRad(d - b);
+        const s = Math.sin(dLat / 2) ** 2 +
+          Math.cos(toRad(a)) * Math.cos(toRad(c)) * Math.sin(dLng / 2) ** 2;
+        return 2 * R * Math.asin(Math.sqrt(s));
+      }
+
+      const status = document.getElementById('geo-status');
+      document.getElementById('locate').addEventListener('click', () => {
+        if (!navigator.geolocation) { status.textContent = 'Geolocalizzazione non disponibile.'; return; }
+        status.textContent = 'Cerco la tua posizione…';
+        navigator.geolocation.getCurrentPosition(
+          (pos) => {
+            const { latitude: lat, longitude: lng } = pos.coords;
+            L.circleMarker([lat, lng], { radius: 8, color: '#e7b008', fillOpacity: 0.9 })
+              .addTo(map).bindPopup('Sei qui');
+            map.setView([lat, lng], 13);
+            const list = document.getElementById('cinema-list');
+            const rows = Array.from(list.querySelectorAll('.cinema-row'));
+            rows.forEach((row) => {
+              const d = haversine(lat, lng, parseFloat(row.dataset.lat), parseFloat(row.dataset.lng));
+              row.dataset.distance = String(d);
+              const el = row.querySelector('.dist');
+              el.textContent = d < 1 ? `${Math.round(d * 1000)} m` : `${d.toFixed(1)} km`;
+              el.hidden = false;
+            });
+            rows.sort((a, b) => parseFloat(a.dataset.distance) - parseFloat(b.dataset.distance));
+            rows.forEach((r) => list.appendChild(r));
+            status.textContent = 'Cinema ordinati per distanza.';
+          },
+          () => { status.textContent = 'Non riesco ad accedere alla posizione.'; }
+        );
+      });
+    })();
+  </script>
+</Layout>
