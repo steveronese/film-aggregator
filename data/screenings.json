@@ -1,6 +1,46 @@
 [
   {
     "cinema_id": "uci-bicocca",
+    "tmdb_id": 1083381,
+    "raw_title": "Backrooms",
+    "start": "2026-06-06T22:50:00",
+    "hall": "7",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1273221,
+    "raw_title": "Scary Movie (2026)",
+    "start": "2026-06-06T22:50:00",
+    "hall": "10",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1273221,
+    "raw_title": "Scary Movie (2026)",
+    "start": "2026-06-06T23:05:00",
+    "hall": "12",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1083381,
+    "raw_title": "Backrooms",
+    "start": "2026-06-06T23:10:00",
+    "hall": "16",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "uci-bicocca",
     "tmdb_id": 1273221,
     "raw_title": "Scary Movie (2026)",
     "start": "2026-06-06T23:30:00",
@@ -398,16 +438,6 @@
     "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 39210,
-    "raw_title": "SOMEWHERE",
-    "start": "2026-06-07T14:15:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -1008,16 +1038,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 1258509,
-    "raw_title": "L’AMORE CHE RIMANE",
-    "start": "2026-06-07T16:15:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -1630,16 +1650,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 1887,
-    "raw_title": "MARIE ANTOINETTE",
-    "start": "2026-06-07T18:15:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1667198,
     "raw_title": "(O.V.) The Amazing Digital Circus",
@@ -2248,16 +2258,6 @@
     "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": null,
-    "raw_title": "NO GOOD MEN",
-    "start": "2026-06-07T20:45:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -9460,16 +9460,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 1182861,
-    "raw_title": "ROMERÍA - IL MARE DEI RICORDI",
-    "start": "2026-06-12T18:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": null,
     "raw_title": "(Sala XL) Disclosure Day",
@@ -9590,16 +9580,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 1184941,
-    "raw_title": "BLUE HERON",
-    "start": "2026-06-12T20:45:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "colosseo",
     "tmdb_id": 1275779,
     "raw_title": "Disclosure Day",
@@ -9698,16 +9678,6 @@
     "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 96936,
-    "raw_title": "BLING RING",
-    "start": "2026-06-13T14:15:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "cinelandia-certosa",
@@ -9810,16 +9780,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": null,
-    "raw_title": "LO ZIO BOONMEE CHE SI RICORDA DELLE SUE VITE PRECEDENTI",
-    "start": "2026-06-13T16:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "orfeo",
     "tmdb_id": 1275779,
     "raw_title": "Disclosure Day",
@@ -9868,16 +9828,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": null,
-    "raw_title": "NO GOOD MEN",
-    "start": "2026-06-13T18:15:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "notorious-gloria",
@@ -9948,16 +9898,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 503919,
-    "raw_title": "THE LIGHTHOUSE",
-    "start": "2026-06-13T20:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "colosseo",
@@ -10038,16 +9978,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 1182861,
-    "raw_title": "ROMERÍA - IL MARE DEI RICORDI",
-    "start": "2026-06-14T14:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "cinelandia-certosa",
@@ -10150,16 +10080,6 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": null,
-    "raw_title": "IL LAVORO DEI GIORNI E DELLE NOTTI TALK CON FABRICE ARAGNO",
-    "start": "2026-06-14T17:15:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "cinelandia-certosa",
     "tmdb_id": null,
     "raw_title": "Atmos - Disclosure Day",
@@ -10258,16 +10178,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": null,
-    "raw_title": "LE LAC + TALK CON FABRICE ARAGNO",
-    "start": "2026-06-14T20:15:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "cinelandia-certosa",
@@ -11200,16 +11110,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 1182861,
-    "raw_title": "ROMERÍA - IL MARE DEI RICORDI",
-    "start": "2026-06-19T16:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": null,
     "raw_title": "(Sala XL) Toy Story 5",
@@ -11270,16 +11170,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": null,
-    "raw_title": "L'INGANNO",
-    "start": "2026-06-19T18:45:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "cineteca-arlecchino",
     "tmdb_id": null,
     "raw_title": "UGO LA PIETRA. SISTEMA DISEQUILIBRANTE",
@@ -11338,16 +11228,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 1571485,
-    "raw_title": "BOWIE: THE FINAL ACT",
-    "start": "2026-06-19T20:45:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -11428,16 +11308,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": null,
-    "raw_title": "NO GOOD MEN",
-    "start": "2026-06-20T14:45:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -11530,16 +11400,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": null,
-    "raw_title": "MASTERCLASS SOFIA COPPOLA",
-    "start": "2026-06-20T18:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1084244,
     "raw_title": "Toy Story 5",
@@ -11598,16 +11458,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 1517069,
-    "raw_title": "MARC BY SOFIA",
-    "start": "2026-06-20T20:15:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -11800,16 +11650,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 524635,
-    "raw_title": "LA CRONOLOGIA DELL'ACQUA",
-    "start": "2026-06-21T18:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": null,
     "raw_title": "(Sala XL) Toy Story 5",
@@ -11858,16 +11698,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 1020006,
-    "raw_title": "PRISCILLA",
-    "start": "2026-06-21T21:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -12650,16 +12480,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 92990,
-    "raw_title": "TERRA GIALLA",
-    "start": "2026-06-26T18:45:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 9651,
     "raw_title": "(O.V.) Supergirl",
@@ -12698,16 +12518,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": null,
-    "raw_title": "LO ZIO BOONMEE CHE SI RICORDA DELLE SUE VITE PRECEDENTI",
-    "start": "2026-06-26T20:45:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "notorious-gloria",
@@ -12760,16 +12570,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 1258509,
-    "raw_title": "L’AMORE CHE RIMANE",
-    "start": "2026-06-27T14:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "notorious-gloria",
     "tmdb_id": 9651,
     "raw_title": "Supergirl",
@@ -12788,16 +12588,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 524635,
-    "raw_title": "LA CRONOLOGIA DELL'ACQUA",
-    "start": "2026-06-27T16:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -12840,16 +12630,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 1443,
-    "raw_title": "IL GIARDINO DELLE VERGINI SUICIDE",
-    "start": "2026-06-27T18:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 9651,
     "raw_title": "(O.V.) Supergirl",
@@ -12888,16 +12668,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": null,
-    "raw_title": "ITALIA: ULTIMO ATTO? + TALK CON LUC MERENDA",
-    "start": "2026-06-27T20:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "notorious-gloria",
@@ -12950,16 +12720,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 58089,
-    "raw_title": "GENTE DI ROMA",
-    "start": "2026-06-28T14:15:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "notorious-gloria",
     "tmdb_id": 9651,
     "raw_title": "Supergirl",
@@ -12990,16 +12750,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 153,
-    "raw_title": "LOST IN TRANSLATION – L'AMORE TRADOTTO",
-    "start": "2026-06-28T16:15:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 9651,
     "raw_title": "Supergirl",
@@ -13028,16 +12778,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 503919,
-    "raw_title": "THE LIGHTHOUSE",
-    "start": "2026-06-28T18:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -13078,16 +12818,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 1887,
-    "raw_title": "MARIE ANTOINETTE",
-    "start": "2026-06-28T20:45:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "notorious-gloria",
@@ -14190,16 +13920,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 1456349,
-    "raw_title": "UN SEMPLICE INCIDENTE",
-    "start": "2026-07-03T16:15:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": null,
     "raw_title": "(Sala XL) Minions & Monsters",
@@ -14280,16 +14000,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 1124566,
-    "raw_title": "SENTIMENTAL VALUE",
-    "start": "2026-07-03T18:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": null,
     "raw_title": "(Sala XL) Minions & Monsters",
@@ -14368,16 +14078,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 36685,
-    "raw_title": "THE ROCKY HORROR PICTURE SHOW",
-    "start": "2026-07-03T21:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -14478,16 +14178,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 47199,
-    "raw_title": "L'AGENTE SEGRETO",
-    "start": "2026-07-04T14:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -14640,16 +14330,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 1317288,
-    "raw_title": "MARTY SUPREME",
-    "start": "2026-07-04T17:45:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": null,
     "raw_title": "(Sala XL) Minions & Monsters",
@@ -14728,16 +14408,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 1151272,
-    "raw_title": "SIRÂT",
-    "start": "2026-07-04T20:45:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -14840,16 +14510,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 1480382,
-    "raw_title": "LA VOCE DI HIND RAJAB",
-    "start": "2026-07-05T14:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": null,
     "raw_title": "3d - Minions & Monsters",
@@ -14918,16 +14578,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 1325734,
-    "raw_title": "THE DRAMA – UN SEGRETO È PER SEMPRE",
-    "start": "2026-07-05T16:15:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -15010,16 +14660,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 1287141,
-    "raw_title": "PILLION – AMORE SENZA FRENI",
-    "start": "2026-07-05T18:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": null,
     "raw_title": "(Sala XL) Minions & Monsters",
@@ -15098,16 +14738,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 1462322,
-    "raw_title": "LE CITTÀ DI PIANURA",
-    "start": "2026-07-05T20:45:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -15850,16 +15480,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 1033148,
-    "raw_title": "DIE MY LOVE",
-    "start": "2026-07-10T16:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": null,
     "raw_title": "(Sala XL) Minions & Monsters",
@@ -15868,16 +15488,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 1442922,
-    "raw_title": "UN ANNO DI SCUOLA",
-    "start": "2026-07-10T18:45:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -15890,16 +15500,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 858024,
-    "raw_title": "HAMNET - NEL NOME DEL FIGLIO",
-    "start": "2026-07-10T21:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": null,
     "raw_title": "(Sala XL) Minions & Monsters",
@@ -15908,16 +15508,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 1379266,
-    "raw_title": "KOKUHO - IL MAESTRO DI KABUKI",
-    "start": "2026-07-11T14:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -15940,16 +15530,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 1159206,
-    "raw_title": "FATHER MOTHER SISTER BROTHER",
-    "start": "2026-07-11T18:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": null,
     "raw_title": "(Sala XL) Minions & Monsters",
@@ -15958,16 +15538,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 38,
-    "raw_title": "SE MI LASCI TI CANCELLO",
-    "start": "2026-07-11T20:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -15990,26 +15560,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
-    "cinema_id": "godard",
-    "tmdb_id": 1254808,
-    "raw_title": "NOUVELLE VAGUE",
-    "start": "2026-07-12T15:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 1054867,
-    "raw_title": "UNA BATTAGLIA DOPO L'ALTRA",
-    "start": "2026-07-12T17:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": null,
     "raw_title": "(Sala XL) Minions & Monsters",
@@ -16028,16 +15578,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 269,
-    "raw_title": "FINO ALL’ULTIMO RESPIRO",
-    "start": "2026-07-12T20:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
