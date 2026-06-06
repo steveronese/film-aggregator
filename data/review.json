@@ -7,11 +7,39 @@
     "confidence": 91.89189189189189
   },
   {
+    "raw_title": "IL MISTERO DELLE 12 SEDIE",
+    "tmdb_id": 24918,
+    "matched_title": "Il mistero delle dodici sedie",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "tmdb_id": 1314481,
+    "matched_title": "Il diavolo veste Prada 2",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "V.O. SOTT. ITA - ALLORA BALLIAMO (PARTIR UN JOUR)",
+    "tmdb_id": 1277884,
+    "matched_title": "Allora balliamo",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA)",
     "tmdb_id": 1303613,
     "matched_title": "Il silenzio degli altri",
-    "method": "fuzzy",
-    "confidence": 88.46153846153845
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "V.O. SOTT. ITA- IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "tmdb_id": 1314481,
+    "matched_title": "Il diavolo veste Prada 2",
+    "method": "ai",
+    "confidence": 95.0
   },
   {
     "raw_title": "V. O. SOTT ITA PRINCIPESSA MONONOKE",
@@ -19,5 +47,40 @@
     "matched_title": "Princess Mononoke",
     "method": "fuzzy",
     "confidence": 91.89189189189189
+  },
+  {
+    "raw_title": "LO STRANIERO (L'ÉTRANGER)",
+    "tmdb_id": 31332,
+    "matched_title": "Lo straniero",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "NOI DUE SCONOSCIUTI (SOLOMAMMA)",
+    "tmdb_id": 1471537,
+    "matched_title": "Noi due sconosciuti",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "IL DIAVOLO VESTE PRADA (THE DEVIL WEARS PRADA)",
+    "tmdb_id": 350,
+    "matched_title": "Il diavolo veste Prada",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "LE TIGRI DI MOMPRACEM (LOS TIGRES)",
+    "tmdb_id": 1464374,
+    "matched_title": "Le tigri di Mompracem",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "E I FIGLI DOPO DI LORO (LEURS ENFANTS APRÈS EUX) - V. O.",
+    "tmdb_id": 1103678,
+    "matched_title": "E i figli dopo di loro",
+    "method": "ai",
+    "confidence": 95.0
   }
 ]
