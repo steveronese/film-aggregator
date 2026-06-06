@@ -51,7 +51,8 @@ class AIMatcher:
         )
         self._dirty = False
 
-    def pick(self, norm_title: str, candidates: list[dict]) -> tuple[int | None, float | None]:
+    def pick(self, norm_title: str, candidates: list[dict],
+             raw_title: str | None = None) -> tuple[int | None, float | None]:
         """Return (tmdb_id, confidence) for the best matching candidate, or (None, None).
         Cached by normalized title."""
         if norm_title in self._cache:
@@ -61,7 +62,7 @@ class AIMatcher:
             return None, None
 
         valid_ids = {c["id"] for c in candidates}
-        result = self._ask(norm_title, candidates)
+        result = self._ask(raw_title or norm_title, candidates)
         tmdb_id = result.get("tmdb_id") if result else None
         conf = result.get("confidence") if result else None
         if tmdb_id not in valid_ids:  # reject anything not grounded in the candidates
@@ -70,21 +71,27 @@ class AIMatcher:
         self._dirty = True
         return tmdb_id, conf
 
-    def _ask(self, norm_title: str, candidates: list[dict]) -> dict | None:
+    def _ask(self, listing_title: str, candidates: list[dict]) -> dict | None:
         lines = []
         for c in candidates[:8]:
             year = (c.get("release_date") or "")[:4]
             lines.append(
                 f"- id={c['id']} | \"{c.get('title')}\" / original \"{c.get('original_title')}\""
-                f" ({year or '?'})"
+                f" ({year or '?'}, popularity {round(c.get('popularity') or 0, 1)})"
             )
         prompt = (
-            "Match a cinema listing to The Movie Database (TMDB).\n"
-            f'Listing title (Italian, may contain extra words): "{norm_title}"\n\n'
+            "Match a cinema listing to the correct The Movie Database (TMDB) film.\n"
+            f'Cinema listing title (Italian; a foreign original title often appears in parentheses): '
+            f'"{listing_title}"\n\n'
             "Candidate TMDB films:\n" + "\n".join(lines) + "\n\n"
-            'Reply with JSON {"tmdb_id": <id of the same film, or null>, '
-            '"confidence": <0-100>}. Choose a candidate only if you are confident it is the '
-            "same film; otherwise use null."
+            "Rules:\n"
+            "- If the listing shows a foreign original title in parentheses, pick the candidate whose "
+            "ORIGINAL title matches it (not merely the Italian title — several different films can share "
+            "the same Italian title).\n"
+            "- These are CURRENT cinema screenings, so when titles tie, prefer the most recent release / "
+            "higher popularity, UNLESS the listing clearly marks a restored classic or retrospective.\n"
+            '- Reply ONLY with JSON {"tmdb_id": <id, or null>, "confidence": <0-100>}. '
+            "Use null if no candidate is clearly the same film."
         )
         body = {
             "model": MODEL,

@@ -131,36 +131,44 @@ class FilmMatcher:
             log.warning("Override for %r -> %s but no details", raw_title, self.overrides[norm])
             return MatchResult(None, "none")
 
-        # 2. Fuzzy search against TMDB.
+        # 2. Fuzzy search against TMDB. Score each candidate (best over Italian/original title);
+        #    break ties by TMDB popularity, which favours the current release over same-titled
+        #    older films (the classic "Lo straniero" Visconti-vs-Ozon problem).
         candidates = self.tmdb.search_movie(norm, year)
-        best_id, best_score = None, 0.0
+        scored: list[tuple[float, float, dict]] = []
         for cand in candidates:
-            for field in ("title", "original_title"):
-                value = cand.get(field)
-                if not value:
-                    continue
-                score = fuzz.token_sort_ratio(norm, normalize_title(value))
-                if score > best_score:
-                    best_score, best_id = score, cand["id"]
+            score = max(
+                (fuzz.token_sort_ratio(norm, normalize_title(cand.get(f) or ""))
+                 for f in ("title", "original_title") if cand.get(f)),
+                default=0,
+            )
+            if score > 0:
+                scored.append((score, cand.get("popularity") or 0.0, cand))
+        scored.sort(key=lambda t: (-t[0], -t[1]))
+        best_score = scored[0][0] if scored else 0.0
+        best_cand = scored[0][2] if scored else None
+        # Same-title collision: several candidates match the title strongly → don't trust fuzzy.
+        ambiguous = sum(1 for s, _, _ in scored if s >= HIGH_CONFIDENCE) >= 2
 
-        # High-confidence fuzzy is trusted outright (no AI call needed).
-        if best_id is not None and best_score >= HIGH_CONFIDENCE:
-            film = self._film(best_id)
+        # Trust an *unambiguous* high-confidence fuzzy match outright (no AI call needed).
+        if best_cand is not None and best_score >= HIGH_CONFIDENCE and not ambiguous:
+            film = self._film(best_cand["id"])
             if film:
                 return MatchResult(film, "fuzzy", best_score)
 
-        # 3. AI adjudicates the uncertain middle band and rescues misses with candidates.
+        # 3. AI disambiguates collisions / the uncertain band, using the raw title (which keeps the
+        #    foreign original title in parentheses) and the candidates' original titles & popularity.
         if candidates and self.ai.enabled:
-            ai_id, ai_conf = self.ai.pick(norm, candidates)
+            ai_id, ai_conf = self.ai.pick(norm, candidates, raw_title=raw_title)
             if ai_id is not None:
                 film = self._film(ai_id)
                 if film:
                     return MatchResult(film, "ai", ai_conf)
             return MatchResult(None, "none")  # AI saw the candidates and rejected them
 
-        # 4. No AI: fall back to the plain fuzzy threshold (original behaviour).
-        if best_id is not None and best_score >= MATCH_THRESHOLD:
-            film = self._film(best_id)
+        # 4. No AI: accept the best (popularity-tiebroken) fuzzy match above threshold.
+        if best_cand is not None and best_score >= MATCH_THRESHOLD:
+            film = self._film(best_cand["id"])
             if film:
                 return MatchResult(film, "fuzzy", best_score)
         return MatchResult(None, "none")
