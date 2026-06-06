@@ -88,6 +88,36 @@ def build(raw_screenings: list[RawScreening], matcher: FilmMatcher):
     return screenings, list(films.values()), list(unmatched.values()), list(review.values())
 
 
+def preserve_last_known(screenings: list[Screening], films: list[Film], now: datetime) -> None:
+    """For any venue that returned NO screenings this run (a transient failure, or a venue that
+    can only be scraped from a residential IP like Godard), carry over its still-upcoming
+    screenings from the previously committed data instead of dropping the venue entirely.
+    Mutates `screenings` and `films` in place."""
+    prev_path = DATA_DIR / "screenings.json"
+    if not prev_path.exists():
+        return
+    prev_screenings = json.loads(prev_path.read_text(encoding="utf-8"))
+    prev_films = {f["tmdb_id"]: f for f in json.loads((DATA_DIR / "films.json").read_text("utf-8"))}
+
+    fresh_cinemas = {s.cinema_id for s in screenings}
+    film_ids = {f.tmdb_id for f in films}
+    carried = 0
+    for ps in prev_screenings:
+        if ps["cinema_id"] in fresh_cinemas:
+            continue  # venue scraped successfully this run
+        if datetime.fromisoformat(ps["start"]) < now:
+            continue  # drop past showings
+        screenings.append(Screening(**ps))
+        carried += 1
+        tid = ps.get("tmdb_id")
+        if tid and tid not in film_ids and tid in prev_films:
+            films.append(Film(**prev_films[tid]))
+            film_ids.add(tid)
+    if carried:
+        stale = {s.cinema_id for s in screenings if s.cinema_id not in fresh_cinemas}
+        log.info("Preserved %d upcoming screenings for non-scraped venues: %s", carried, ", ".join(sorted(stale)))
+
+
 def write_json(path: Path, models) -> None:
     path.write_text(
         json.dumps([m.model_dump(mode="json") for m in models], ensure_ascii=False, indent=2),
@@ -110,6 +140,8 @@ def main() -> None:
     screenings, films, unmatched, review = build(raw, matcher)
     tmdb.save_cache()
     matcher.ai.save()
+
+    preserve_last_known(screenings, films, now)
 
     screenings.sort(key=lambda s: (s.start, s.cinema_id))
 
