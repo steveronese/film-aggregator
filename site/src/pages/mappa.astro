@@ -59,9 +59,10 @@ const CATEGORY_LABEL: Record<string, string> = {
       const MILAN = [45.4642, 9.19];
       const cinemas = JSON.parse(document.getElementById('cinema-data').textContent);
       const map = L.map('map').setView(MILAN, 12);
-      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      // Light, minimal greyscale tiles (CARTO Positron) to match the editorial aesthetic.
+      L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
         maxZoom: 19,
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
       }).addTo(map);
 
       for (const c of cinemas) {
