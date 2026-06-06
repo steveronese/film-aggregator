@@ -38,6 +38,9 @@ class EighteenTicketsScraper(BaseScraper):
 
     subdomain: str = ""  # e.g. "anteo.spaziocinema"
     default_language: Language = Language.UNKNOWN
+    # "landing": the homepage carries the full dated schedule (Anteo theme).
+    # "filmpages": homepage only lists films; dates/times live on each /film/<id> (Cinemino theme).
+    mode: str = "landing"
 
     def __init__(self, client=None) -> None:
         super().__init__(client)
@@ -83,58 +86,94 @@ class EighteenTicketsScraper(BaseScraper):
             raise ValueError(f"{type(self).__name__} must set subdomain")
         from bs4 import BeautifulSoup
 
-        soup = BeautifulSoup(self.get(f"{self.base_url}/").text, "html.parser")
+        landing = BeautifulSoup(self.get(f"{self.base_url}/").text, "html.parser")
         screenings: list[RawScreening] = []
-        seen: set[tuple[str, str]] = set()
+        seen: set[tuple] = set()
 
-        for block in soup.select(".schedule-section-show"):
-            any_link = block.select_one('a[href*="/film/"]')
-            if not any_link:
-                continue
-            fid_m = _FILM_ID.search(any_link.get("href") or "")
-            if not fid_m:
-                continue
-            film_id = fid_m.group(1)
-            title = self.title_for(film_id)
-            if not title:
-                continue
-
-            current_date: date | None = None
-            for el in block.descendants:
-                if not getattr(el, "get", None):
+        if self.mode == "landing":
+            for block in landing.select(".schedule-section-show"):
+                link = block.select_one('a[href*="/film/"]')
+                m = _FILM_ID.search(link.get("href") or "") if link else None
+                if not m:
                     continue
-                cls = el.get("class") or []
-                if "time-select__place" in cls:
-                    current_date = parse_dmy(el.get_text(" ", strip=True))
-                elif el.name == "a" and "/film/" in (el.get("href") or "") and current_date:
-                    txt = el.get_text(" ", strip=True)
-                    t = parse_time(txt)
-                    if t is None:
-                        continue
-                    hall = re.sub(r"\d{1,2}[:.]\d{2}", "", txt).strip() or None
-                    key = (current_date.isoformat() + str(t), hall or "")
-                    dedup = (title, key[0] + key[1])
-                    if dedup in seen:
-                        continue
-                    seen.add(dedup)
-                    screenings.append(
-                        RawScreening(
-                            cinema_id=self.cinema_id,
-                            raw_title=title,
-                            start=combine(current_date, t),
-                            hall=hall,
-                            language=detect_language(title, self.default_language),
-                            booking_url=el.get("href"),
-                            source_url=f"{self.base_url}/",
-                        )
-                    )
+                title = self.title_for(m.group(1))
+                if title:
+                    self._parse_block(block, title, seen, screenings)
+        else:  # filmpages: homepage lists films; each /film/<id> holds the dated schedule
+            film_ids: list[str] = []
+            for a in landing.select('a[href*="/film/"]'):
+                m = _FILM_ID.search(a.get("href") or "")
+                if m and m.group(1) not in film_ids:
+                    film_ids.append(m.group(1))
+            for fid in film_ids:
+                try:
+                    fsoup = BeautifulSoup(self.get(f"{self.base_url}/film/{fid}").text, "html.parser")
+                except Exception:  # noqa: BLE001 - one broken film page shouldn't sink the run
+                    continue
+                title = fsoup.title.get_text(strip=True) if fsoup.title else None
+                if not title:
+                    continue
+                for block in fsoup.select(".schedule-section-show"):
+                    self._parse_block(block, title, seen, screenings)
+
         self._save_titles()
         return screenings
+
+    def _parse_block(self, block, title: str, seen: set, screenings: list) -> None:
+        """Walk one .schedule-section-show, tracking the current date header and emitting a
+        screening per showtime. Times are either a-links ("HH:MM <screen>", landing theme) or
+        `.time-select__item` buttons ("<screen> HH:MM", film-page theme)."""
+        has_items = block.select_one(".time-select__item") is not None
+
+        def is_node(t) -> bool:
+            cls = t.get("class") or []
+            if "time-select__place" in cls:
+                return True
+            if has_items:
+                return "time-select__item" in cls
+            return t.name == "a" and "/film/" in (t.get("href") or "")
+
+        current_date: date | None = None
+        for el in block.find_all(is_node):
+            if "time-select__place" in (el.get("class") or []):
+                current_date = parse_dmy(el.get_text(" ", strip=True))
+                continue
+            if current_date is None:
+                continue
+            txt = el.get_text(" ", strip=True)
+            t = parse_time(txt)
+            if t is None:
+                continue
+            hall = re.sub(r"\d{1,2}[:.]\d{2}", "", txt).strip(" -·") or None
+            booking = el.get("href") if el.name == "a" else (
+                el.find("a").get("href") if el.find("a") else None
+            )
+            dedup = (title, current_date.isoformat(), str(t), hall or "")
+            if dedup in seen:
+                continue
+            seen.add(dedup)
+            screenings.append(
+                RawScreening(
+                    cinema_id=self.cinema_id,
+                    raw_title=title,
+                    start=combine(current_date, t),
+                    hall=hall,
+                    language=detect_language(title, self.default_language),
+                    booking_url=booking or f"{self.base_url}/",
+                    source_url=f"{self.base_url}/",
+                )
+            )
 
 
 class AnteoScraper(EighteenTicketsScraper):
     cinema_id = "anteo"
     subdomain = "anteo.spaziocinema"
+
+
+class IlCineminoScraper(EighteenTicketsScraper):
+    cinema_id = "cinemino"
+    subdomain = "ilcinemino.ilcinemino"
+    mode = "filmpages"  # homepage is a carousel; schedule is on each film page
 
 
 class AriostoScraper(EighteenTicketsScraper):

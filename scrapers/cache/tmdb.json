@@ -20178,6 +20178,695 @@
       "vote_average": 7.2,
       "vote_count": 5
     },
+    "1407548": {
+      "adult": false,
+      "backdrop_path": "/lM1g1QORjaPcYE0zqrWxIXUgLOK.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 3,
+            "character": "Cristina Caponeschi",
+            "credit_id": "67c6d953c73f199f6a907d6b",
+            "gender": 1,
+            "id": 69489,
+            "known_for_department": "Acting",
+            "name": "Jasmine Trinca",
+            "order": 0,
+            "original_name": "Jasmine Trinca",
+            "popularity": 0.9383,
+            "profile_path": "/idxRGFkuTwxKZZNtDBTY84UzAPd.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 4,
+            "character": "Stefano Mangiaboschi",
+            "credit_id": "67c6d95cc73f199f6a907d70",
+            "gender": 2,
+            "id": 124754,
+            "known_for_department": "Acting",
+            "name": "Michele Riondino",
+            "order": 1,
+            "original_name": "Michele Riondino",
+            "popularity": 0.3737,
+            "profile_path": "/9ipWrqJVYjZk0c2j2yDAEKZd2Fu.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 5,
+            "character": "Susanna Bormioli",
+            "credit_id": "67c6d96451cd5e32f1c08918",
+            "gender": 1,
+            "id": 53422,
+            "known_for_department": "Acting",
+            "name": "Vittoria Puccini",
+            "order": 2,
+            "original_name": "Vittoria Puccini",
+            "popularity": 0.8092,
+            "profile_path": "/hLqob2uBRLwA615Jx3QStD1dqzz.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 7,
+            "character": "Rosa Lazar",
+            "credit_id": "68f1ea5eeb42b147214d1e95",
+            "gender": 0,
+            "id": 5754491,
+            "known_for_department": "Acting",
+            "name": "Angelina Andrei",
+            "order": 3,
+            "original_name": "Angelina Andrei",
+            "popularity": 0.0552,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 6,
+            "character": "Lavincentiis",
+            "credit_id": "67c6d96e5b1d8d48c504e2a8",
+            "gender": 1,
+            "id": 134541,
+            "known_for_department": "Acting",
+            "name": "Francesca Reggiani",
+            "order": 4,
+            "original_name": "Francesca Reggiani",
+            "popularity": 0.1676,
+            "profile_path": "/yjkupdiiZ0e5hLgApIIwLQ6Z2a2.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 9,
+            "character": "Vicequestore Pizzirò",
+            "credit_id": "68f1ea7d670bae9c2b591008",
+            "gender": 2,
+            "id": 105868,
+            "known_for_department": "Acting",
+            "name": "Filippo Timi",
+            "order": 5,
+            "original_name": "Filippo Timi",
+            "popularity": 0.3147,
+            "profile_path": "/jfb21HPkVokFmzOE2kT1vnlOgAa.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 8,
+            "character": "Suor Lucia",
+            "credit_id": "68f1ea6fd3dbea8cb0df71e3",
+            "gender": 1,
+            "id": 20589,
+            "known_for_department": "Acting",
+            "name": "Aurora Quattrocchi",
+            "order": 6,
+            "original_name": "Aurora Quattrocchi",
+            "popularity": 0.4456,
+            "profile_path": "/zC91BHbtJMOaNM0zuo5kVeeDrXD.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 10,
+            "character": "",
+            "credit_id": "69040872fb87192302e11f1f",
+            "gender": 0,
+            "id": 5785630,
+            "known_for_department": "Acting",
+            "name": "Giulia Rebecca Chiari",
+            "order": 7,
+            "original_name": "Giulia Rebecca Chiari",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 11,
+            "character": "",
+            "credit_id": "69040877022e519fe12fdbbc",
+            "gender": 0,
+            "id": 5785631,
+            "known_for_department": "Acting",
+            "name": "Claudia Erhahon",
+            "order": 8,
+            "original_name": "Claudia Erhahon",
+            "popularity": 0.0214,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 32,
+            "character": "Assistente Pizzirò Porena",
+            "credit_id": "69f8b938b0d655ce0ca435df",
+            "gender": 0,
+            "id": 2189058,
+            "known_for_department": "Acting",
+            "name": "Alessandro Bertollini",
+            "order": 9,
+            "original_name": "Alessandro Bertollini",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 33,
+            "character": "Dragan",
+            "credit_id": "69f8b944bcc13eeb8788a4ec",
+            "gender": 2,
+            "id": 936509,
+            "known_for_department": "Acting",
+            "name": "Marius Bizau",
+            "order": 10,
+            "original_name": "Marius Bizău",
+            "popularity": 0.1545,
+            "profile_path": "/jzzOfIPddQgf9727lGVW9OzATLE.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 34,
+            "character": "Doanna",
+            "credit_id": "69f8b94f20f19bc6753b36c9",
+            "gender": 1,
+            "id": 4035855,
+            "known_for_department": "Acting",
+            "name": "Anastasia Doaga",
+            "order": 11,
+            "original_name": "Anastasia Doaga",
+            "popularity": 0.1929,
+            "profile_path": "/2ncFV1TcJ6Ce3LlrVi0BFwiKguL.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 35,
+            "character": "Oncle",
+            "credit_id": "69f8b95d1102dd28d63380bc",
+            "gender": 0,
+            "id": 1345654,
+            "known_for_department": "Acting",
+            "name": "Miko Jarry",
+            "order": 12,
+            "original_name": "Miko Jarry",
+            "popularity": 0.116,
+            "profile_path": "/xLN90LlPJDVIzoIxDEwn8ZHFpCS.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 36,
+            "character": "Nik",
+            "credit_id": "69f8b9764338c6b5fa3b376e",
+            "gender": 0,
+            "id": 2126805,
+            "known_for_department": "Acting",
+            "name": "Aleksandros Memetaj",
+            "order": 13,
+            "original_name": "Aleksandros Memetaj",
+            "popularity": 0.0297,
+            "profile_path": "/42e3lq1EzbilynaVvenmwYx3Cw6.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 37,
+            "character": "Mama",
+            "credit_id": "69f8b98513ad99bf7df52015",
+            "gender": 0,
+            "id": 2654960,
+            "known_for_department": "Acting",
+            "name": "Adriana Papana",
+            "order": 14,
+            "original_name": "Adriana Papana",
+            "popularity": 0.0505,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 38,
+            "character": "Guardia del corpo",
+            "credit_id": "69f8b99befb95916d33b36c5",
+            "gender": 2,
+            "id": 5180021,
+            "known_for_department": "Acting",
+            "name": "Joshua Gabriel Liège",
+            "order": 15,
+            "original_name": "Joshua Gabriel Liège",
+            "popularity": 0.0168,
+            "profile_path": "/f6VbHQIluorJ4QNjWwM4e3YDFLb.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 39,
+            "character": "Presentatore",
+            "credit_id": "69f8b9ab607c6c91ab3381f5",
+            "gender": 0,
+            "id": 6188979,
+            "known_for_department": "Acting",
+            "name": "Michele Mihai Prisacari",
+            "order": 16,
+            "original_name": "Michele Mihai Prisacari",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 40,
+            "character": "Procuratore",
+            "credit_id": "69f8b9b907c632614332732f",
+            "gender": 2,
+            "id": 1193753,
+            "known_for_department": "Acting",
+            "name": "Francesco Rossini",
+            "order": 17,
+            "original_name": "Francesco Rossini",
+            "popularity": 0.2086,
+            "profile_path": "/aaZrqMg9kipOwY1mNQY8kNE13y9.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 41,
+            "character": "Adriatik",
+            "credit_id": "69f8b9c4d409a49a6988a4ee",
+            "gender": 2,
+            "id": 2175958,
+            "known_for_department": "Acting",
+            "name": "Antonio Scarpa",
+            "order": 18,
+            "original_name": "Antonio Scarpa",
+            "popularity": 0.1836,
+            "profile_path": "/22blF3nIZD29FYMNhCInpSSPrE9.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 42,
+            "character": "",
+            "credit_id": "69f8b9d1034fc9f9e1327270",
+            "gender": 0,
+            "id": 2558512,
+            "known_for_department": "Acting",
+            "name": "Marco Trotta",
+            "order": 19,
+            "original_name": "Marco Trotta",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 43,
+            "character": "Louis",
+            "credit_id": "69f8b9e013ad99bf7df52024",
+            "gender": 2,
+            "id": 1414501,
+            "known_for_department": "Acting",
+            "name": "Alain Van Goethem",
+            "order": 20,
+            "original_name": "Alain Van Goethem",
+            "popularity": 0.3113,
+            "profile_path": "/aCNTUVx8u4rtxmjye2TS9hFYTsr.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 44,
+            "character": "",
+            "credit_id": "69f8b9f2b0d655ce0ca435e3",
+            "gender": 1,
+            "id": 1778568,
+            "known_for_department": "Acting",
+            "name": "Carole Weyers",
+            "order": 21,
+            "original_name": "Carole Weyers",
+            "popularity": 0.4047,
+            "profile_path": "/x0AMwBYXFv2XkLPnp8rNDYoIpLc.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "676c33f1eeb74c2ed97eb172",
+            "department": "Directing",
+            "gender": 1,
+            "id": 224114,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Francesca Archibugi",
+            "original_name": "Francesca Archibugi",
+            "popularity": 0.2569,
+            "profile_path": "/xlTfaZcwEX4bJrgxvPItJ6gwICU.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "676c33fa2c4f0a5ad264a36c",
+            "department": "Writing",
+            "gender": 1,
+            "id": 224114,
+            "job": "Screenplay",
+            "known_for_department": "Directing",
+            "name": "Francesca Archibugi",
+            "original_name": "Francesca Archibugi",
+            "popularity": 0.2569,
+            "profile_path": "/xlTfaZcwEX4bJrgxvPItJ6gwICU.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1eaddb9ed04aac999b793",
+            "department": "Writing",
+            "gender": 1,
+            "id": 224114,
+            "job": "Story",
+            "known_for_department": "Directing",
+            "name": "Francesca Archibugi",
+            "original_name": "Francesca Archibugi",
+            "popularity": 0.2569,
+            "profile_path": "/xlTfaZcwEX4bJrgxvPItJ6gwICU.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1eaf2f0de80d81599b7b0",
+            "department": "Writing",
+            "gender": 1,
+            "id": 373757,
+            "job": "Story",
+            "known_for_department": "Production",
+            "name": "Laura Paolucci",
+            "original_name": "Laura Paolucci",
+            "popularity": 0.4088,
+            "profile_path": "/z7kV6BLJqXOaVPJMef8YOr25Jc.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1eafcaf00704217a10d35",
+            "department": "Writing",
+            "gender": 1,
+            "id": 373757,
+            "job": "Screenplay",
+            "known_for_department": "Production",
+            "name": "Laura Paolucci",
+            "original_name": "Laura Paolucci",
+            "popularity": 0.4088,
+            "profile_path": "/z7kV6BLJqXOaVPJMef8YOr25Jc.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1eb0bdcf2301862f979de",
+            "department": "Writing",
+            "gender": 2,
+            "id": 73855,
+            "job": "Story",
+            "known_for_department": "Writing",
+            "name": "Francesco Piccolo",
+            "original_name": "Francesco Piccolo",
+            "popularity": 0.3371,
+            "profile_path": "/iNFgWkFhuJReYwHSnJhOyHjoYNk.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1eb1382df015f3c99b6c4",
+            "department": "Writing",
+            "gender": 2,
+            "id": 73855,
+            "job": "Screenplay",
+            "known_for_department": "Writing",
+            "name": "Francesco Piccolo",
+            "original_name": "Francesco Piccolo",
+            "popularity": 0.3371,
+            "profile_path": "/iNFgWkFhuJReYwHSnJhOyHjoYNk.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1eb3c2c0c4312ae99b777",
+            "department": "Sound",
+            "gender": 2,
+            "id": 66818,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "Battista Lena",
+            "original_name": "Battista Lena",
+            "popularity": 0.1291,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1ef3757a2c2e18d3d114c",
+            "department": "Editing",
+            "gender": 1,
+            "id": 52424,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "Esmeralda Calabria",
+            "original_name": "Esmeralda Calabria",
+            "popularity": 0.1851,
+            "profile_path": "/5lhgMAt9AJbpff931qAkv5qSOC.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1ef52d5bca968e99a64a9",
+            "department": "Costume & Make-Up",
+            "gender": 1,
+            "id": 1924207,
+            "job": "Costume Design",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Catherine Buyse Dian",
+            "original_name": "Catherine Buyse Dian",
+            "popularity": 0.5944,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1ef7ccce57acf1ca10dcb",
+            "department": "Art",
+            "gender": 1,
+            "id": 31014,
+            "job": "Production Design",
+            "known_for_department": "Art",
+            "name": "Giada Calabria",
+            "original_name": "Giada Calabria",
+            "popularity": 0.1355,
+            "profile_path": "/uidT1GUF5cFBKTfAUxCig0zon8f.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1ef96fbf66b5921f97958",
+            "department": "Camera",
+            "gender": 2,
+            "id": 1122717,
+            "job": "Director of Photography",
+            "known_for_department": "Camera",
+            "name": "Francesco Di Giacomo",
+            "original_name": "Francesco Di Giacomo",
+            "popularity": 1.4884,
+            "profile_path": "/933Crk4tT8CxjRvGTT7H11H18tc.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1eff9fbf66b5921f9795c",
+            "department": "Sound",
+            "gender": 0,
+            "id": 2380341,
+            "job": "Sound",
+            "known_for_department": "Sound",
+            "name": "Alessandro Bianchi",
+            "original_name": "Alessandro Bianchi",
+            "popularity": 0.1509,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1f016c735dff3c9bcb6fa",
+            "department": "Production",
+            "gender": 0,
+            "id": 1178418,
+            "job": "Casting",
+            "known_for_department": "Production",
+            "name": "Dario Ceruti",
+            "original_name": "Dario Ceruti",
+            "popularity": 0.1481,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1f02a250bf80329bcb838",
+            "department": "Directing",
+            "gender": 0,
+            "id": 1540925,
+            "job": "Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Elisabetta Boni",
+            "original_name": "Elisabetta Boni",
+            "popularity": 0.1798,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1f044d08222631d99b790",
+            "department": "Production",
+            "gender": 2,
+            "id": 72051,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Domenico Procacci",
+            "original_name": "Domenico Procacci",
+            "popularity": 0.291,
+            "profile_path": "/zZYhgBDgVc39Jmjz11vajaWW06b.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1f054323e07b35cbcb790",
+            "department": "Production",
+            "gender": 1,
+            "id": 373757,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Laura Paolucci",
+            "original_name": "Laura Paolucci",
+            "popularity": 0.4088,
+            "profile_path": "/z7kV6BLJqXOaVPJMef8YOr25Jc.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1f05feef48a4dcff978e0",
+            "department": "Production",
+            "gender": 0,
+            "id": 71493,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Joseph Rouschop",
+            "original_name": "Joseph Rouschop",
+            "popularity": 0.2052,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1f07957a2c2e18d3d116e",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 3596745,
+            "job": "Hair Department Head",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Rodolfo Sifari",
+            "original_name": "Rodolfo Sifari",
+            "popularity": 0.0911,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1f093a0da4d8bc6fc7744",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 1339884,
+            "job": "Makeup Department Head",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Maurizio Fazzini",
+            "original_name": "Maurizio Fazzini",
+            "popularity": 0.0996,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1f0b7c151f12f65d57d3d",
+            "department": "Production",
+            "gender": 0,
+            "id": 3571143,
+            "job": "Production Director",
+            "known_for_department": "Production",
+            "name": "Roberto Giliberto",
+            "original_name": "Roberto Giliberto",
+            "popularity": 0.1577,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69f1f0cab9ed04aac999b7c2",
+            "department": "Production",
+            "gender": 0,
+            "id": 1416810,
+            "job": "Executive Producer",
+            "known_for_department": "Production",
+            "name": "Ivan Fiorini",
+            "original_name": "Ivan Fiorini",
+            "popularity": 0.2582,
+            "profile_path": null
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 18,
+          "name": "Dramma"
+        },
+        {
+          "id": 9648,
+          "name": "Mistero"
+        }
+      ],
+      "homepage": "",
+      "id": 1407548,
+      "imdb_id": "tt35627549",
+      "origin_country": [
+        "IT"
+      ],
+      "original_language": "it",
+      "original_title": "Illusione",
+      "overview": "Periferia di Perugia. In un fosso viene ritrovata una ragazzina. Indossa un completo d'alta moda ed è bellissima. La polizia sta per portare via il corpo, quando un sospiro la svela ancora viva: si chiama Rosa Lazar, è moldava e non ha nemmeno 16 anni. La sostituta procuratrice Cristina Camponeschi e lo psicologo Stefano Mangiaboschi sono immediatamente chiamati a occuparsi del caso. L'indagine è più complicata del previsto, perché Rosa non sembra avere coscienza delle brutali violenze subite e copre la verità dei fatti. Dietro la maschera di un'incessante gioiosità emerge un profilo psicologico molto disturbato. Come è arrivata a Perugia questa lolita che non sembra una normale prostituta e che si comporta come una bambina? Per la sostituta procuratrice Rosa diventerà la chiave per un'indagine internazionale su scenari inquietanti. Per lo psicologo sarà un altro tipo di indagine, interiore, che lo porterà a scoprire il vero enigma di Rosa Lazar",
+      "popularity": 0.8165,
+      "poster_path": "/rxDFV66LmAtvz61JeFwdUJGG7dv.jpg",
+      "production_companies": [
+        {
+          "id": 2441,
+          "logo_path": "/7Vutdea75apwXkRyfQ4Ne6j0KcN.png",
+          "name": "Fandango",
+          "origin_country": "IT"
+        },
+        {
+          "id": 155990,
+          "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+          "name": "RAI Cinema",
+          "origin_country": "IT"
+        },
+        {
+          "id": 8471,
+          "logo_path": "/rfmlWuH9lxt9pgQetWbNwZKSXvZ.png",
+          "name": "Tarantula",
+          "origin_country": "BE"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        },
+        {
+          "iso_3166_1": "BE",
+          "name": "Belgium"
+        }
+      ],
+      "release_date": "2026-05-07",
+      "revenue": 0,
+      "runtime": 110,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Bulgarian",
+          "iso_639_1": "bg",
+          "name": "български език"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Illusione",
+      "video": false,
+      "vote_average": 5.833,
+      "vote_count": 3
+    },
     "1460931": {
       "adult": false,
       "backdrop_path": "/ujbDje30NsoSIEtXXA5lAQFW1Io.jpg",
@@ -23094,6 +23783,524 @@
       "video": false,
       "vote_average": 0.0,
       "vote_count": 0
+    },
+    "18872": {
+      "adult": false,
+      "backdrop_path": "/bk8RQN88Hh5jusTKydxCJfDlDNg.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 2,
+            "character": "Yumiko",
+            "credit_id": "52fe47a49251416c750a088d",
+            "gender": 1,
+            "id": 83746,
+            "known_for_department": "Acting",
+            "name": "江角マキコ",
+            "order": 0,
+            "original_name": "江角マキコ",
+            "popularity": 0.7128,
+            "profile_path": "/svfSzV4ktZDAqh2jntnCP6fa1sv.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 16,
+            "character": "Ikuo",
+            "credit_id": "52fe47a49251416c750a08dd",
+            "gender": 2,
+            "id": 13275,
+            "known_for_department": "Acting",
+            "name": "Tadanobu Asano",
+            "order": 1,
+            "original_name": "浅野忠信",
+            "popularity": 3.044,
+            "profile_path": "/3CBpfGRcPq1jEeYr51TiOiNbZzT.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 15,
+            "character": "Tamio",
+            "credit_id": "52fe47a49251416c750a08d9",
+            "gender": 2,
+            "id": 19590,
+            "known_for_department": "Acting",
+            "name": "内藤剛志",
+            "order": 2,
+            "original_name": "内藤剛志",
+            "popularity": 1.6797,
+            "profile_path": "/xwsm0ygjG79jLIogutwo6r64igy.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 19,
+            "character": "Michiko",
+            "credit_id": "52fe47a49251416c750a08e9",
+            "gender": 1,
+            "id": 553121,
+            "known_for_department": "Acting",
+            "name": "木内みどり",
+            "order": 3,
+            "original_name": "木内みどり",
+            "popularity": 0.3858,
+            "profile_path": "/2qEITDqDbtYvySAVCnkuSVsQxcj.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 20,
+            "character": "Yoshihiro",
+            "credit_id": "52fe47a49251416c750a08ed",
+            "gender": 2,
+            "id": 13283,
+            "known_for_department": "Acting",
+            "name": "Akira Emoto",
+            "order": 4,
+            "original_name": "柄本明",
+            "popularity": 1.4279,
+            "profile_path": "/qQHdGgAL7idxy79oWHjYON6bYQm.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 21,
+            "character": "Tomeno",
+            "credit_id": "52fe47a49251416c750a08f1",
+            "gender": 1,
+            "id": 115655,
+            "known_for_department": "Acting",
+            "name": "桜むつ子",
+            "order": 5,
+            "original_name": "桜むつ子",
+            "popularity": 0.3201,
+            "profile_path": "/loS4ReGSj0rJU9LzdUPXMJxtswg.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 22,
+            "character": "Master",
+            "credit_id": "52fe47a49251416c750a08f5",
+            "gender": 2,
+            "id": 553122,
+            "known_for_department": "Acting",
+            "name": "赤井英和",
+            "order": 6,
+            "original_name": "赤井英和",
+            "popularity": 0.5686,
+            "profile_path": "/iyOWLfVdRu73vxwwf51lj0G0Evy.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 23,
+            "character": "Hatsuko",
+            "credit_id": "52fe47a49251416c750a08f9",
+            "gender": 1,
+            "id": 553123,
+            "known_for_department": "Acting",
+            "name": "市田ひろみ",
+            "order": 7,
+            "original_name": "市田ひろみ",
+            "popularity": 0.2695,
+            "profile_path": "/r2HEX22deae0H6kWcLnom80eOLZ.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 24,
+            "character": "Detective",
+            "credit_id": "52fe47a49251416c750a08fd",
+            "gender": 2,
+            "id": 65511,
+            "known_for_department": "Acting",
+            "name": "寺田農",
+            "order": 8,
+            "original_name": "寺田農",
+            "popularity": 1.7056,
+            "profile_path": "/sMgy1Gn24zHOyy82ksabfZHaWcv.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 25,
+            "character": "Hiroshi",
+            "credit_id": "52fe47a49251416c750a0901",
+            "gender": 2,
+            "id": 137029,
+            "known_for_department": "Acting",
+            "name": "Ren Osugi",
+            "order": 9,
+            "original_name": "大杉漣",
+            "popularity": 1.2996,
+            "profile_path": "/49BL0p9gni4ERgnEciMJIXbJZDk.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 26,
+            "character": "Kiyo",
+            "credit_id": "52fe47a49251416c750a0905",
+            "gender": 0,
+            "id": 553124,
+            "known_for_department": "Acting",
+            "name": "Kikuko Hashimoto",
+            "order": 10,
+            "original_name": "Kikuko Hashimoto",
+            "popularity": 0.089,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 29,
+            "character": "Young Yumiko",
+            "credit_id": "52fe47a49251416c750a0911",
+            "gender": 1,
+            "id": 145913,
+            "known_for_department": "Acting",
+            "name": "吉野紗香",
+            "order": 11,
+            "original_name": "吉野紗香",
+            "popularity": 0.5134,
+            "profile_path": "/2rN3VRJ7uJJNgz91xRQ0ie4QMis.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 32,
+            "character": "Tomoko",
+            "credit_id": "5b6e071692514103410590a1",
+            "gender": 0,
+            "id": 2104306,
+            "known_for_department": "Acting",
+            "name": "Naomi Watanabe",
+            "order": 12,
+            "original_name": "Naomi Watanabe",
+            "popularity": 0.0286,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 17,
+            "character": "Yuichi",
+            "credit_id": "52fe47a49251416c750a08e1",
+            "gender": 0,
+            "id": 553119,
+            "known_for_department": "Acting",
+            "name": "Gohki Kashiyama",
+            "order": 13,
+            "original_name": "Gohki Kashiyama",
+            "popularity": 0.0995,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 27,
+            "character": "Cop",
+            "credit_id": "52fe47a49251416c750a0909",
+            "gender": 0,
+            "id": 553125,
+            "known_for_department": "Acting",
+            "name": "Shuichi Harada",
+            "order": 14,
+            "original_name": "Shuichi Harada",
+            "popularity": 0.0214,
+            "profile_path": null
+          },
+          {
+            "adult": true,
+            "cast_id": 34,
+            "character": "Driver",
+            "credit_id": "5fd7980562f3350040ff52d6",
+            "gender": 2,
+            "id": 2892397,
+            "known_for_department": "Acting",
+            "name": "井之上隆志",
+            "order": 15,
+            "original_name": "井之上隆志",
+            "popularity": 0.0,
+            "profile_path": "/uVqoV4MksMwoyiLFijEL4qaoZ4u.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "52fe47a49251416c750a08ab",
+            "department": "Sound",
+            "gender": 2,
+            "id": 553116,
+            "job": "Original Music Composer",
+            "known_for_department": "Sound",
+            "name": "陳明章",
+            "original_name": "陳明章",
+            "popularity": 0.1275,
+            "profile_path": "/Ak8fh6tc2bpsBWZqMtwmphnzyk1.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe47a49251416c750a089f",
+            "department": "Production",
+            "gender": 1,
+            "id": 553114,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "合津直枝",
+            "original_name": "合津直枝",
+            "popularity": 0.1012,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe47a49251416c750a0893",
+            "department": "Writing",
+            "gender": 2,
+            "id": 553112,
+            "job": "Novel",
+            "known_for_department": "Writing",
+            "name": "Teru Miyamoto",
+            "original_name": "宮本輝",
+            "popularity": 0.2765,
+            "profile_path": "/vLNHl9CUbdGJOkbgAUrFUDDpxrc.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe47a49251416c750a08c3",
+            "department": "Art",
+            "gender": 1,
+            "id": 551587,
+            "job": "Art Direction",
+            "known_for_department": "Art",
+            "name": "部谷京子",
+            "original_name": "部谷京子",
+            "popularity": 0.1354,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe47a49251416c750a08bd",
+            "department": "Art",
+            "gender": 1,
+            "id": 551587,
+            "job": "Production Design",
+            "known_for_department": "Art",
+            "name": "部谷京子",
+            "original_name": "部谷京子",
+            "popularity": 0.1354,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe47a49251416c750a08c9",
+            "department": "Art",
+            "gender": 0,
+            "id": 553118,
+            "job": "Set Decoration",
+            "known_for_department": "Art",
+            "name": "Keiji Akatsuka",
+            "original_name": "Keiji Akatsuka",
+            "popularity": 0.0327,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe47a49251416c750a08a5",
+            "department": "Production",
+            "gender": 2,
+            "id": 553115,
+            "job": "Executive Producer",
+            "known_for_department": "Production",
+            "name": "Yutaka Shigenobu",
+            "original_name": "Yutaka Shigenobu",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe47a49251416c750a0889",
+            "department": "Directing",
+            "gender": 2,
+            "id": 25645,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "是枝裕和",
+            "original_name": "是枝裕和",
+            "popularity": 2.099,
+            "profile_path": "/9Quu2Jo5ItVgs8V1YPCaLEHc8y1.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe47a49251416c750a0899",
+            "department": "Writing",
+            "gender": 2,
+            "id": 553113,
+            "job": "Screenplay",
+            "known_for_department": "Writing",
+            "name": "荻田芳久",
+            "original_name": "荻田芳久",
+            "popularity": 0.179,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe47a49251416c750a08cf",
+            "department": "Art",
+            "gender": 0,
+            "id": 17117,
+            "job": "Set Decoration",
+            "known_for_department": "Art",
+            "name": "赤塚佳仁",
+            "original_name": "赤塚佳仁",
+            "popularity": 0.3728,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe47a49251416c750a08b7",
+            "department": "Editing",
+            "gender": 1,
+            "id": 71015,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "大島ともよ",
+            "original_name": "大島ともよ",
+            "popularity": 0.3043,
+            "profile_path": "/6ZtB8avRTRwz25E6CaY9S4L5B10.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe47a49251416c750a08d5",
+            "department": "Costume & Make-Up",
+            "gender": 1,
+            "id": 132802,
+            "job": "Costume Design",
+            "known_for_department": "Costume & Make-Up",
+            "name": "北村道子",
+            "original_name": "北村道子",
+            "popularity": 0.278,
+            "profile_path": "/7deTGeTpweaifistN91rsVtDiO8.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "625cac63229ae219c9284e60",
+            "department": "Production",
+            "gender": 2,
+            "id": 25645,
+            "job": "Producer",
+            "known_for_department": "Directing",
+            "name": "是枝裕和",
+            "original_name": "是枝裕和",
+            "popularity": 2.099,
+            "profile_path": "/9Quu2Jo5ItVgs8V1YPCaLEHc8y1.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5717ca969251417a22007562",
+            "department": "Camera",
+            "gender": 2,
+            "id": 553117,
+            "job": "Director of Photography",
+            "known_for_department": "Camera",
+            "name": "中堀正夫",
+            "original_name": "中堀正夫",
+            "popularity": 0.2299,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5b43bc35c3a36840b3023639",
+            "department": "Directing",
+            "gender": 2,
+            "id": 1066211,
+            "job": "Assistant Director",
+            "known_for_department": "Directing",
+            "name": "高橋巖",
+            "original_name": "高橋巖",
+            "popularity": 0.4042,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5c8038b50e0a26430a5d198d",
+            "department": "Camera",
+            "gender": 2,
+            "id": 1123086,
+            "job": "Assistant Camera",
+            "known_for_department": "Camera",
+            "name": "石井勲",
+            "original_name": "石井勲",
+            "popularity": 0.0596,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69665aa1c8bb944fd1192c58",
+            "department": "Sound",
+            "gender": 2,
+            "id": 1161185,
+            "job": "Sound Recordist",
+            "known_for_department": "Sound",
+            "name": "横溝正俊",
+            "original_name": "横溝正俊",
+            "popularity": 0.2204,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69665afb6fc2bdd4b7a4324a",
+            "department": "Directing",
+            "gender": 2,
+            "id": 1389629,
+            "job": "Assistant Director",
+            "known_for_department": "Production",
+            "name": "森井輝",
+            "original_name": "森井輝",
+            "popularity": 0.5056,
+            "profile_path": "/1Wt5S8urMtwHpe0tjGMuGSHHcBO.jpg"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 18,
+          "name": "Dramma"
+        }
+      ],
+      "homepage": "",
+      "id": 18872,
+      "imdb_id": "tt0113725",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_title": "幻の光",
+      "overview": "Yumiko non si rassegna in seguito alla perdita di due tra gli esseri viventi a lei più cari: la nonna ed il primo marito, entrambi scomparsi in circostanze misteriose di cui ella si sente parte in causa. La vita, la famiglia, la morte, i bambini.",
+      "popularity": 1.5664,
+      "poster_path": "/zi7lbih371fRlKw2VJnJIlJIy5V.jpg",
+      "production_companies": [
+        {
+          "id": 12424,
+          "logo_path": "/nBer3gCkrK5yCG3Q0sJhFSuwZIk.png",
+          "name": "TV Man Union",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "1995-10-01",
+      "revenue": 0,
+      "runtime": 110,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Maborosi - I bagliori dell'anima",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 203
     },
     "242262": {
       "adult": false,
@@ -43584,6 +44791,27 @@
         "vote_count": 9
       }
     ],
+    "e i figli dopo di loro leurs enfants apres eux|": [
+      {
+        "adult": false,
+        "backdrop_path": "/r3xfgPr2eUyYTTVcwjYqn6lDzRL.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1103678,
+        "original_language": "fr",
+        "original_title": "Leurs enfants après eux",
+        "overview": "Agosto 1992. Un pomeriggio di un caldo soffocante in una valle sperduta da qualche parte nell’est della Francia. Il quattordicenne Anthony e suo cugino ammazzano il tempo in riva al lago insieme a Steph e Clem. Per Anthony sarà l’estate del primo amore, quello che dà un senso a ogni cosa. Il momento agrodolce della vita che segna la fine dell’infanzia e il passaggio alla maturità. Ma c’è anche Hacine, un giovane ribelle del quartiere. E una motocicletta che ruba ad Anthony, sconvolgendo la vita di tutti. Nel corso di quattro estati cruciali, i destini di Anthony, Steph e Hacine si attraversano, si scontrano e s’intrecciano. E in mezzo a tutto questo tumulto, l’amore cercherà di trovare la propria strada...",
+        "popularity": 1.0333,
+        "poster_path": "/vPHVVs6VTrsR69sBrU656gUeDoU.jpg",
+        "release_date": "2026-05-14",
+        "softcore": false,
+        "title": "E i figli dopo di loro",
+        "video": false,
+        "vote_average": 6.303,
+        "vote_count": 145
+      }
+    ],
     "frankenstein junior|": [
       {
         "adult": false,
@@ -44182,6 +45410,405 @@
         "vote_count": 100
       }
     ],
+    "illusione|": [
+      {
+        "adult": false,
+        "backdrop_path": "/lM1g1QORjaPcYE0zqrWxIXUgLOK.jpg",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 1407548,
+        "original_language": "it",
+        "original_title": "Illusione",
+        "overview": "Periferia di Perugia. In un fosso viene ritrovata una ragazzina. Indossa un completo d'alta moda ed è bellissima. La polizia sta per portare via il corpo, quando un sospiro la svela ancora viva: si chiama Rosa Lazar, è moldava e non ha nemmeno 16 anni. La sostituta procuratrice Cristina Camponeschi e lo psicologo Stefano Mangiaboschi sono immediatamente chiamati a occuparsi del caso. L'indagine è più complicata del previsto, perché Rosa non sembra avere coscienza delle brutali violenze subite e copre la verità dei fatti. Dietro la maschera di un'incessante gioiosità emerge un profilo psicologico molto disturbato. Come è arrivata a Perugia questa lolita che non sembra una normale prostituta e che si comporta come una bambina? Per la sostituta procuratrice Rosa diventerà la chiave per un'indagine internazionale su scenari inquietanti. Per lo psicologo sarà un altro tipo di indagine, interiore, che lo porterà a scoprire il vero enigma di Rosa Lazar",
+        "popularity": 0.8165,
+        "poster_path": "/rxDFV66LmAtvz61JeFwdUJGG7dv.jpg",
+        "release_date": "2026-05-07",
+        "softcore": false,
+        "title": "Illusione",
+        "video": false,
+        "vote_average": 5.833,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/v4qYzIO4qMyfUKuno37D6VUiLCp.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1049171,
+        "original_language": "it",
+        "original_title": "Perfetta illusione",
+        "overview": "Toni conduce con la moglie Paola una vita normale ma piena di entusiasmo e di passione. L'incontro casuale con la giovane e facoltosa Chiara riaccenderà in lui la voglia di riscattarsi e costruire una nuova vita realizzando il suo sogno segreto di diventare un artista. Le vite dei tre si intrecceranno in un pericoloso triangolo amoroso che cambierà per sempre il corso delle loro vite.",
+        "popularity": 0.5457,
+        "poster_path": "/8ccC602WlexR43eoCscwIySfKVZ.jpg",
+        "release_date": "2022-12-15",
+        "softcore": false,
+        "title": "Perfetta illusione",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 33
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zeigZ6ZoTfXXbMikWoZSDF5sH05.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 742973,
+        "original_language": "it",
+        "original_title": "Illusione",
+        "overview": "",
+        "popularity": 0.0868,
+        "poster_path": "/r3xx63oOtUh6rs9CCs1tIAd4W1H.jpg",
+        "release_date": "2020-09-24",
+        "softcore": false,
+        "title": "Illusione",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "id": 425274,
+        "original_language": "en",
+        "original_title": "Now You See Me: Now You Don't",
+        "overview": "I maghi del crimine sono tornati! Al loro fianco, una nuova generazione di illusionisti riscrive le regole dello spettacolo con numeri mozzafiato, colpi di scena e sorprese che sfidano l’immaginazione. Un'esperienza visiva che sul grande schermo si trasforma in spettacolo puro.",
+        "popularity": 30.4638,
+        "poster_path": "/cZRWBcAIfln9PpmSE6wCwf4KGLB.jpg",
+        "release_date": "2025-11-13",
+        "softcore": false,
+        "title": "L'illusione perfetta - Now You See Me: Now You Don't",
+        "video": false,
+        "vote_average": 6.502,
+        "vote_count": 1542
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 689887,
+        "original_language": "en",
+        "original_title": "Illusione",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": "/fwiuOIqhBnqG9fWpRScbJb0dZNR.jpg",
+        "release_date": "1984-09-07",
+        "softcore": false,
+        "title": "Illusione",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "id": 1682436,
+        "original_language": "it",
+        "original_title": "Illusione",
+        "overview": "Una breve storia di come a volte ci si illuda di avere ragione",
+        "popularity": 0.0634,
+        "poster_path": null,
+        "release_date": "2024-09-15",
+        "softcore": false,
+        "title": "Illusione",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 962485,
+        "original_language": "it",
+        "original_title": "Ultima illusione",
+        "overview": "",
+        "popularity": 0.0762,
+        "poster_path": null,
+        "release_date": "1955-01-01",
+        "softcore": false,
+        "title": "Ultima illusione",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9AipaFT9nb0NYMlAy6TzTbCiV2v.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 37340,
+        "original_language": "en",
+        "original_title": "The Man Who Watched Trains Go By",
+        "overview": "",
+        "popularity": 0.4725,
+        "poster_path": "/uuCWsTC1UXjpAelhQCGpvNskJL7.jpg",
+        "release_date": "1952-12-01",
+        "softcore": false,
+        "title": "Illusione",
+        "video": false,
+        "vote_average": 5.875,
+        "vote_count": 24
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9eHg5qX7LkjW2Zrejvap2RmFGlD.jpg",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "id": 777,
+        "original_language": "fr",
+        "original_title": "La Grande Illusion",
+        "overview": "Scene da un campo di prigionia tedesco durante la Grande Guerra. Un ufficiale francese di origine aristocratica si sacrifica per favorire la fuga di due suoi subalterni di origine popolare. Specchio del francese è il tedesco comandante del campo, anch'egli di vecchio stampo, minato nel fisico e nel morale. Entrambi incarnano un mondo destinato a scomparire mentre i fuggiaschi sono metafora della nuova società. Capolavoro del cinema antimilitarista, manifesto malinconico e pacifista di una generazione in via di estinzione.",
+        "popularity": 1.272,
+        "poster_path": "/otvWDn5lTa1VyzXuC0GTfXbr70O.jpg",
+        "release_date": "1937-08-17",
+        "softcore": false,
+        "title": "La grande illusione",
+        "video": false,
+        "vote_average": 7.859,
+        "vote_count": 779
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pwqmkIMbqgb3D1k3GjBeZpFajuq.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648,
+          53
+        ],
+        "id": 112518,
+        "original_language": "en",
+        "original_title": "Deadly Illusion",
+        "overview": "",
+        "popularity": 1.0915,
+        "poster_path": "/iUJzTiq00GxWotu1kcA8KXTwAzl.jpg",
+        "release_date": "1987-10-16",
+        "softcore": false,
+        "title": "Illusione mortale",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/As4GJO5V3SxbSDW8ZEWPnYtSZIg.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 34106,
+        "original_language": "en",
+        "original_title": "You Can't Take It with You",
+        "overview": "Alice, l'unico membro relativamente normale della eccentrica famiglia Sycamore, si innamora di Tony Kirby. Il suo ricco padre, un banchiere, e la madre snob disapprovano l'unione. Quando i Kirby sono invitati a cena per conoscere i futuri suoceri, le cose non vanno come Alice avrebbe sperato...",
+        "popularity": 1.5023,
+        "poster_path": "/dxZlIL9GQI3oECkCKNHJdNpkJtn.jpg",
+        "release_date": "1938-09-01",
+        "softcore": false,
+        "title": "L'eterna illusione",
+        "video": false,
+        "vote_average": 7.515,
+        "vote_count": 452
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k38uEFijy5ONeCc5vWAGoyxBvD2.jpg",
+        "genre_ids": [
+          878,
+          9648,
+          53,
+          28
+        ],
+        "id": 1067820,
+        "original_language": "es",
+        "original_title": "Awareness",
+        "overview": "Ian è un adolescente che vive con il padre ai margini della società. Sopravvivono realizzando piccole truffe grazie alla capacità di Ian di proiettare illusioni visive nella mente degli altri. Dopo aver rivelato, senza volere, i suoi poteri in pubblico, un’agenzia segreta inizia a dargli la caccia. Mentre cerca di fuggire, Ian scopre di non essere l'unico e che la sua vita è stata una menzogna.",
+        "popularity": 2.3201,
+        "poster_path": "/yOLwkWkYhJjlioR7Jm1bbM1wWGb.jpg",
+        "release_date": "2023-03-16",
+        "softcore": false,
+        "title": "Awareness - La realtà è un'illusione",
+        "video": false,
+        "vote_average": 5.996,
+        "vote_count": 228
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jcQNEKYoQ8ZL5ctwxpbYJ9b6NcT.jpg",
+        "genre_ids": [
+          53,
+          10770
+        ],
+        "id": 1266392,
+        "original_language": "en",
+        "original_title": "My Son's Deception",
+        "overview": "Quando le richieste del nuovo lavoro di Jackson, 18 anni, diventano pericolosamente fuori controllo, sua madre Maria deve liberarlo da una rete di sfruttamento radicata nella loro comunità, prima che venga ucciso.",
+        "popularity": 0.2522,
+        "poster_path": "/9RmDudxUgRwfqTXPV6MJYjYNwl9.jpg",
+        "release_date": "2024-08-15",
+        "softcore": false,
+        "title": "Una pericolosa illusione",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qUSjd4yL19mJyW8zVGeoNacV20.jpg",
+        "genre_ids": [
+          18,
+          36,
+          10749
+        ],
+        "id": 643492,
+        "original_language": "it",
+        "original_title": "I cavalieri dell'illusione",
+        "overview": "Liala è la prima attrice di una squinternata compagnia di guitti. Da lei dipendono le magre fortune che le recite ottengono. Liala alla fine sacrificherà il suo amore per assicurare l'avvenire dei compagni.",
+        "popularity": 0.2744,
+        "poster_path": "/5qbfqVkTX7lHS7n150cNg88lH1E.jpg",
+        "release_date": "1954-12-24",
+        "softcore": false,
+        "title": "I cavalieri dell'illusione",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dNBhaPgOo6i241T6GK5kp4jl75o.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 65580,
+        "original_language": "en",
+        "original_title": "Four's a Crowd",
+        "overview": "",
+        "popularity": 0.3094,
+        "poster_path": "/gt5IEbj6lDj0sx4og78t0tXzhyc.jpg",
+        "release_date": "1938-08-04",
+        "softcore": false,
+        "title": "La quadriglia dell'illusione",
+        "video": false,
+        "vote_average": 5.531,
+        "vote_count": 16
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6P5gBlKgvQRRtL0rfZqyyUGykQW.jpg",
+        "genre_ids": [
+          53,
+          10770
+        ],
+        "id": 498945,
+        "original_language": "en",
+        "original_title": "Deadly Delusion",
+        "overview": "Sperando in un nuovo inizio, la tormentata Julia si trasferisce a Los Angeles con il nuovo fidanzato Shane. Dopo essersi sistemata in una nuova abitazione, cominciano a verificarsi strane cose che le impediscono di dormire e la tormentano. Non passa molto tempo prima che Julia si convinca che i suoi demoni l'abbiano seguita.",
+        "popularity": 0.4184,
+        "poster_path": "/i7KhubOMwYG7xSUyH431uOMSca4.jpg",
+        "release_date": "2018-08-25",
+        "softcore": false,
+        "title": "Il gioco dell'illusione",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 19
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1258739,
+        "original_language": "it",
+        "original_title": "Abbandonate ogni illusione, preparatevi alla lotta primavera",
+        "overview": "",
+        "popularity": 0.0363,
+        "poster_path": null,
+        "release_date": "1969-06-06",
+        "softcore": false,
+        "title": "Abbandonate ogni illusione, preparatevi alla lotta primavera",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1btUYcOIfh5JrKPhLh2HlbzsgCa.jpg",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 497727,
+        "original_language": "ru",
+        "original_title": "За гранью реальности",
+        "overview": "Michael è uno dei migliori bari in circolazione. Da mesi prepara un piano per sbancare un casinò avvalendosi di tutte le tecniche di sua conoscenza. Sembra andare tutto bene, fino a quando al tavolo da gioco non si siede un uomo misterioso, Alex, che vince quaranta milioni di euro. Alex riesce a sparire e nel frattempo Michael scopre che ha utilizzato dei poteri magici per poterlo battere al casinò…",
+        "popularity": 1.3607,
+        "poster_path": "/ukfsxWAOmg9AAeMFC3SobhW7k2L.jpg",
+        "release_date": "2018-03-01",
+        "softcore": false,
+        "title": "Beyond the Edge - I maestri dell'illusione",
+        "video": false,
+        "vote_average": 5.519,
+        "vote_count": 189
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 1297731,
+        "original_language": "it",
+        "original_title": "L'abisso dell'illusione",
+        "overview": "Un giovane fotografo riflette sul concerto di bellezza e di attimo nel medium fotografico. Una ragazza gli chiede di catturare un determinato momento in una foto. Poco dopo il ragazzo si ritrova ad impressionare un altro momento di violenza ai danni di uno strambo individuo che aveva sfiorato poco prima. Alla visione della scena ne viene sconvolto ma anche attratto, soprattutto da una valigia presente sul luogo",
+        "popularity": 0.094,
+        "poster_path": "/3Jolit6HfqMpEZUlQrgDD7zc5Tc.jpg",
+        "release_date": "2024-05-31",
+        "softcore": false,
+        "title": "L'abisso dell'illusione",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 963483,
+        "original_language": "en",
+        "original_title": "Venezia É Un'Illusione Cosmica",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": null,
+        "release_date": "1978-04-16",
+        "softcore": false,
+        "title": "Venezia É Un'Illusione Cosmica",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
     "keep calm|": [
       {
         "adult": false,
@@ -44336,6 +45963,27 @@
         "video": false,
         "vote_average": 6.105,
         "vote_count": 57
+      }
+    ],
+    "la festa e finita the party s over|": [
+      {
+        "adult": false,
+        "backdrop_path": "/zLwnREvYKyG5XY1gqDWmfziXbhr.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1313211,
+        "original_language": "fr",
+        "original_title": "Classe moyenne",
+        "overview": "Mehdi, un giovane avvocato in erba, passa l’estate nella sontuosa villa dei genitori della fidanzata. Appena arrivato, scoppia un conflitto tra la famiglia della sua ragazza e la coppia di custodi della villa. Mehdi, per impressionare il suocero, tenta di condurre i negoziati tra le due parti e riportare tutti alla ragione. La situazione gli sfuggirà di mano...",
+        "popularity": 0.6062,
+        "poster_path": "/eXeNLAnk9sUjS0M6F2BdOdMm42c.jpg",
+        "release_date": "2026-05-14",
+        "softcore": false,
+        "title": "La festa è finita!",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 67
       }
     ],
     "la goccia|": [
@@ -44547,6 +46195,47 @@
         "vote_count": 230
       }
     ],
+    "le tigri di mompracem los tigres|": [
+      {
+        "adult": false,
+        "backdrop_path": "/ebRgQx5uLavQdK5GTha3zk1sRIC.jpg",
+        "genre_ids": [
+          53,
+          80
+        ],
+        "id": 1464374,
+        "original_language": "es",
+        "original_title": "Los Tigres",
+        "overview": "Antonio ed Estrella sono fratelli. Loro padre era un sommozzatore. Hanno trascorso tutta la vita in mare. Antonio è il Tigre, un sommozzatore imbattibile, il compagno che tutti vorrebbero avere quando si rischia la vita ogni giorno. Estrella lo assiste sulla chiatta su cui lavorano. Lei lo tiene legato alla terraferma; fuori dall’acqua è un disastro. Ma, dopo un incidente, il futuro si presenta cupo. Una situazione che può cambiare quando trovano il nascondiglio di alcuni spacciatori per la cocaina. Antonio non vede altra possibilità, Estrella non è convinta. Come sempre.",
+        "popularity": 4.4727,
+        "poster_path": "/cRDQth0Y7ARFGscnBuZDrxwYBpI.jpg",
+        "release_date": "2026-05-14",
+        "softcore": false,
+        "title": "Le tigri di Mompracem",
+        "video": false,
+        "vote_average": 6.161,
+        "vote_count": 84
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A7flm9QwNnicIcCA4r91F3JbzDw.jpg",
+        "genre_ids": [
+          12
+        ],
+        "id": 317162,
+        "original_language": "it",
+        "original_title": "Le tigri di Mompracem",
+        "overview": "Pellicola basata sui romanzi di Emilio Salgari",
+        "popularity": 0.2909,
+        "poster_path": "/uZ2xZeeyeg9IXYvenQNgJ1bBxSp.jpg",
+        "release_date": "1970-12-11",
+        "softcore": false,
+        "title": "Le tigri di Mompracem",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 5
+      }
+    ],
     "lo straniero l etranger|": [
       {
         "adult": false,
@@ -44665,6 +46354,27 @@
         "video": false,
         "vote_average": 5.545,
         "vote_count": 33
+      }
+    ],
+    "maborosi i bagliori dell anima|": [
+      {
+        "adult": false,
+        "backdrop_path": "/bk8RQN88Hh5jusTKydxCJfDlDNg.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 18872,
+        "original_language": "ja",
+        "original_title": "幻の光",
+        "overview": "Yumiko non si rassegna in seguito alla perdita di due tra gli esseri viventi a lei più cari: la nonna ed il primo marito, entrambi scomparsi in circostanze misteriose di cui ella si sente parte in causa. La vita, la famiglia, la morte, i bambini.",
+        "popularity": 1.5664,
+        "poster_path": "/zi7lbih371fRlKw2VJnJIlJIy5V.jpg",
+        "release_date": "2026-05-14",
+        "softcore": false,
+        "title": "Maborosi - I bagliori dell'anima",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 203
       }
     ],
     "maborosi no hikari la luce delle illusioni|": [],

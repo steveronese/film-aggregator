@@ -75,6 +75,15 @@
   neighborhood: CityLife
   category: arthouse
 
+- id: cinemino
+  name: Il Cinemino
+  address: Via Seneca 6, 20137 Milano
+  lat: 45.4561
+  lng: 9.2123
+  website: https://www.ilcinemino.it/
+  neighborhood: Porta Romana
+  category: arthouse
+
 - id: centrale
   name: Multisala Centrale
   address: Via Torino 30/32, 20123 Milano

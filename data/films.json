@@ -1,20 +1,5 @@
 [
   {
-    "tmdb_id": 1339713,
-    "title": "Obsession",
-    "original_title": "Obsession",
-    "italian_title": "Obsession",
-    "year": 2026,
-    "poster_path": "/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
-    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
-    "runtime": 108,
-    "director": "Curry Barker",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ]
-  },
-  {
     "tmdb_id": 414419,
     "title": "Kill Bill: The Whole Bloody Affair",
     "original_title": "Kill Bill: The Whole Bloody Affair",
@@ -58,6 +43,21 @@
     "genres": [
       "Dramma",
       "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1339713,
+    "title": "Obsession",
+    "original_title": "Obsession",
+    "italian_title": "Obsession",
+    "year": 2026,
+    "poster_path": "/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
+    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
+    "runtime": 108,
+    "director": "Curry Barker",
+    "genres": [
+      "Horror",
+      "Thriller"
     ]
   },
   {
@@ -617,6 +617,35 @@
       "Azione",
       "Avventura",
       "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 1407548,
+    "title": "Illusione",
+    "original_title": "Illusione",
+    "italian_title": "Illusione",
+    "year": 2026,
+    "poster_path": "/rxDFV66LmAtvz61JeFwdUJGG7dv.jpg",
+    "overview": "Periferia di Perugia. In un fosso viene ritrovata una ragazzina. Indossa un completo d'alta moda ed è bellissima. La polizia sta per portare via il corpo, quando un sospiro la svela ancora viva: si chiama Rosa Lazar, è moldava e non ha nemmeno 16 anni. La sostituta procuratrice Cristina Camponeschi e lo psicologo Stefano Mangiaboschi sono immediatamente chiamati a occuparsi del caso. L'indagine è più complicata del previsto, perché Rosa non sembra avere coscienza delle brutali violenze subite e copre la verità dei fatti. Dietro la maschera di un'incessante gioiosità emerge un profilo psicologico molto disturbato. Come è arrivata a Perugia questa lolita che non sembra una normale prostituta e che si comporta come una bambina? Per la sostituta procuratrice Rosa diventerà la chiave per un'indagine internazionale su scenari inquietanti. Per lo psicologo sarà un altro tipo di indagine, interiore, che lo porterà a scoprire il vero enigma di Rosa Lazar",
+    "runtime": 110,
+    "director": "Francesca Archibugi",
+    "genres": [
+      "Dramma",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 18872,
+    "title": "Maborosi - I bagliori dell'anima",
+    "original_title": "幻の光",
+    "italian_title": "Maborosi - I bagliori dell'anima",
+    "year": 1995,
+    "poster_path": "/zi7lbih371fRlKw2VJnJIlJIy5V.jpg",
+    "overview": "Yumiko non si rassegna in seguito alla perdita di due tra gli esseri viventi a lei più cari: la nonna ed il primo marito, entrambi scomparsi in circostanze misteriose di cui ella si sente parte in causa. La vita, la famiglia, la morte, i bambini.",
+    "runtime": 110,
+    "director": "是枝裕和",
+    "genres": [
+      "Dramma"
     ]
   }
 ]

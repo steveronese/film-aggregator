@@ -1,156 +1,6 @@
 [
   {
     "cinema_id": "anteo",
-    "tmdb_id": null,
-    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
-    "start": "2026-06-06T20:45:00",
-    "hall": "Nobel",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/69810/0b74cbe3-e3ad-4e46-8f31-2cc14717c9e1#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": 1211442,
-    "raw_title": "REBUILDING",
-    "start": "2026-06-06T21:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/86343",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1088548,
-    "raw_title": "AMARGA NAVIDAD",
-    "start": "2026-06-06T21:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/80997",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "ariosto",
-    "tmdb_id": 1088548,
-    "raw_title": "AMARGA NAVIDAD",
-    "start": "2026-06-06T21:15:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://ariosto.spaziocinema.18tickets.it/film/80832/52469bab-ae46-4adc-962e-050701e87817#theater-init",
-    "source_url": "https://ariosto.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": null,
-    "raw_title": "NO GOOD MEN",
-    "start": "2026-06-06T21:15:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/83604",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1088548,
-    "raw_title": "V. O. SOTT. ITA AMARGA NAVIDAD",
-    "start": "2026-06-06T21:30:00",
-    "hall": "Excelsior",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/80865/ddc843e9-e25d-497b-87ee-343fe2992156#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": null,
-    "raw_title": "MABOROSI NO HIKARI - LA LUCE DELLE ILLUSIONI",
-    "start": "2026-06-06T21:30:00",
-    "hall": "De amicis",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/79281/e2605a0e-78a9-4063-937b-03ab551900a2#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1088548,
-    "raw_title": "AMARGA NAVIDAD",
-    "start": "2026-06-06T21:30:00",
-    "hall": "Zenit",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/9c8806b2-71bb-44e3-a4e9-0162ef8d2aa3#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": null,
-    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
-    "start": "2026-06-06T21:40:00",
-    "hall": "Obraz",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/61626/3e6dfc9c-85cc-4695-b9f3-42f03e06f651#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1462322,
-    "raw_title": "LE CITTÀ DI PIANURA",
-    "start": "2026-06-06T21:40:00",
-    "hall": "Abanella",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/31221/a6d9df36-a0b1-43f4-9b89-5fd772cca209#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1339713,
-    "raw_title": "OBSESSION",
-    "start": "2026-06-06T21:40:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/obsession/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 936075,
-    "raw_title": "V.O.SOTT.ITA. - MICHAEL",
-    "start": "2026-06-06T21:50:00",
-    "hall": "Abadan",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/71460/1dc0ff7a-5162-47a4-aade-402e56fad626#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 936075,
-    "raw_title": "MICHAEL",
-    "start": "2026-06-06T21:50:00",
-    "hall": "Aurora",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/bffd6922-442c-4cb7-9285-410493617018#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1228710,
-    "raw_title": "THE MANDALORIAN AND GROGU",
-    "start": "2026-06-06T21:50:00",
-    "hall": "Mignon",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79941/fefbbd4b-8887-474f-861c-87bb92d674a6#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 128,
-    "raw_title": "V. O. SOTT ITA PRINCIPESSA MONONOKE",
-    "start": "2026-06-06T21:50:00",
-    "hall": "Capitol",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85982/8f9dca4b-1390-48e3-be39-b278b962e89a#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
     "tmdb_id": 1088548,
     "raw_title": "V. O. SOTT. ITA AMARGA NAVIDAD",
     "start": "2026-06-07T10:00:00",
@@ -320,6 +170,16 @@
     "source_url": "https://ariosto.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "cinemino",
+    "tmdb_id": null,
+    "raw_title": "LE TIGRI DI MOMPRACEM (LOS TIGRES)",
+    "start": "2026-06-07T15:00:00",
+    "hall": "Sala",
+    "language": "unknown",
+    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
+    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
+  },
+  {
     "cinema_id": "cineteca-arlecchino",
     "tmdb_id": 1211442,
     "raw_title": "REBUILDING",
@@ -418,6 +278,16 @@
     "language": "original_subbed",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/71460/e71184e1-dfaf-46dd-9748-f36e1be64b1f#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "cinemino",
+    "tmdb_id": 1407548,
+    "raw_title": "illusione",
+    "start": "2026-06-07T17:00:00",
+    "hall": "Sala",
+    "language": "unknown",
+    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
+    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
   },
   {
     "cinema_id": "cineteca-arlecchino",
@@ -530,6 +400,16 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
+    "cinema_id": "cinemino",
+    "tmdb_id": null,
+    "raw_title": "LA FESTA È FINITA (THE PARTY'S OVER!)",
+    "start": "2026-06-07T19:00:00",
+    "hall": "Sala",
+    "language": "unknown",
+    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
+    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
+  },
+  {
     "cinema_id": "cineteca-metropolis",
     "tmdb_id": 1382513,
     "raw_title": "HEN - STORIA DI UNA GALLINA",
@@ -638,6 +518,16 @@
     "language": "original_subbed",
     "booking_url": "https://bandhi.it/bah/beltrade/production/obsession/",
     "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "cinemino",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD - V. O.",
+    "start": "2026-06-07T21:00:00",
+    "hall": "Sala",
+    "language": "original_subbed",
+    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
+    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
   },
   {
     "cinema_id": "cineteca-arlecchino",
@@ -920,6 +810,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "cinemino",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-08T15:00:00",
+    "hall": "Sala",
+    "language": "unknown",
+    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
+    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
+  },
+  {
     "cinema_id": "citylife-anteo",
     "tmdb_id": null,
     "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
@@ -1028,6 +928,16 @@
     "language": "unknown",
     "booking_url": "https://ariosto.spaziocinema.18tickets.it/film/85749/38230a67-12e7-482a-9db5-ad56d0b1a635#theater-init",
     "source_url": "https://ariosto.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "cinemino",
+    "tmdb_id": null,
+    "raw_title": "E I FIGLI DOPO DI LORO (LEURS ENFANTS APRÈS EUX) - V. O.",
+    "start": "2026-06-08T17:00:00",
+    "hall": "Sala",
+    "language": "original_subbed",
+    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
+    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
   },
   {
     "cinema_id": "cineteca-arlecchino",
@@ -1248,6 +1158,16 @@
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/31221/1486a271-0615-4e8c-8a70-c663aaf9eaba#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "cinemino",
+    "tmdb_id": 18872,
+    "raw_title": "MABOROSI - I BAGLIORI DELL'ANIMA",
+    "start": "2026-06-08T21:30:00",
+    "hall": "Sala",
+    "language": "unknown",
+    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
+    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
   },
   {
     "cinema_id": "citylife-anteo",

@@ -17,6 +17,7 @@ from .eighteentickets import (
     AriAnteoVillaRealeScraper,
     AriostoScraper,
     CityLifeAnteoScraper,
+    IlCineminoScraper,
 )
 
 SCRAPERS: list[type[BaseScraper]] = [
@@ -25,6 +26,7 @@ SCRAPERS: list[type[BaseScraper]] = [
     AnteoScraper,
     AriostoScraper,
     CityLifeAnteoScraper,
+    IlCineminoScraper,
     # Seasonal open-air (empty off-season):
     AriAnteoIncoronataScraper,
     AriAnteoPalazzoRealeScraper,
