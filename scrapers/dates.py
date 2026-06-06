@@ -14,24 +14,31 @@ _DAY_MONTH = re.compile(r"(\d{1,2})\s+([A-Za-zàèéìòù]+)", re.IGNORECASE)
 _TIME = re.compile(r"(\d{1,2})[:.](\d{2})")
 
 
+def _month_num(token: str) -> int | None:
+    """Italian month name or abbreviation (e.g. 'giugno' or 'Giu') → 1-12."""
+    t = token.lower()
+    if t in IT_MONTHS:
+        return IT_MONTHS[t]
+    # 3-letter prefixes are unique among Italian months ("giu", "mag", "mar", ...).
+    return next((num for name, num in IT_MONTHS.items() if name.startswith(t[:3])), None)
+
+
 def parse_italian_date(text: str, today: date | None = None) -> date | None:
-    """Parse a header like 'OGGI, sabato 06 Giugno' → date. Infers the year (headers omit it)
-    by choosing the soonest plausible occurrence on/after yesterday."""
+    """Parse the first 'DD <month>' in text (e.g. 'sabato 06 Giugno', '06 Giu') → date.
+    Infers the omitted year by choosing the soonest plausible occurrence on/after yesterday."""
     today = today or date.today()
-    m = _DAY_MONTH.search(text)
-    if not m:
-        return None
-    day = int(m.group(1))
-    month = IT_MONTHS.get(m.group(2).lower())
-    if not month:
-        return None
-    for year in (today.year, today.year + 1, today.year - 1):
-        try:
-            cand = date(year, month, day)
-        except ValueError:
+    for m in _DAY_MONTH.finditer(text):  # scan past false matches (e.g. a time's minutes)
+        month = _month_num(m.group(2))
+        if not month:
             continue
-        if cand >= today - timedelta(days=1):
-            return cand
+        day = int(m.group(1))
+        for year in (today.year, today.year + 1, today.year - 1):
+            try:
+                cand = date(year, month, day)
+            except ValueError:
+                continue
+            if cand >= today - timedelta(days=1):
+                return cand
     return None
 
 

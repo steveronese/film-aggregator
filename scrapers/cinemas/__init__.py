@@ -9,6 +9,7 @@ from __future__ import annotations
 from ..base import BaseScraper
 from .bandhi import BeltradeScraper
 from .cineteca import CinetecaScraper
+from .godard import GodardScraper
 from .eighteentickets import (
     AnteoScraper,
     AriAnteoFabbricaDelVaporeScraper,
@@ -27,6 +28,7 @@ SCRAPERS: list[type[BaseScraper]] = [
     AriostoScraper,
     CityLifeAnteoScraper,
     IlCineminoScraper,
+    GodardScraper,  # headless (Playwright) — Fondazione Prada
     # Seasonal open-air (empty off-season):
     AriAnteoIncoronataScraper,
     AriAnteoPalazzoRealeScraper,

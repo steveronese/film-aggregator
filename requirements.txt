@@ -3,3 +3,4 @@ beautifulsoup4>=4.12
 pydantic>=2.6
 rapidfuzz>=3.6
 PyYAML>=6.0
+playwright>=1.40   # headless Chromium for WAF-protected (Godard) & SPA (Webtic) venues

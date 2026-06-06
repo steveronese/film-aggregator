@@ -84,6 +84,15 @@
   neighborhood: Porta Romana
   category: arthouse
 
+- id: godard
+  name: Cinema Godard – Fondazione Prada
+  address: Largo Isarco 2, 20139 Milano
+  lat: 45.4452
+  lng: 9.2236
+  website: https://www.fondazioneprada.org/cinema-godard/
+  neighborhood: Scalo Romana
+  category: museum
+
 - id: centrale
   name: Multisala Centrale
   address: Via Torino 30/32, 20123 Milano
