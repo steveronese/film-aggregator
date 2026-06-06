@@ -1,0 +1,49 @@
+---
+import type { Cinema, Film, Screening } from '../lib/data';
+import { fmtDate, fmtTime, langLabel, groupByDay } from '../lib/data';
+
+interface Props {
+  screenings: Screening[];
+  cinemas: Map<string, Cinema>;
+  films: Map<number, Film>;
+  // 'film' page → primary label is the cinema; 'cinema' page → primary label is the film.
+  show: 'film' | 'cinema';
+}
+const { screenings, cinemas, films, show } = Astro.props;
+const days = groupByDay(screenings);
+
+function primary(s: Screening): { ttl: string; href: string | null } {
+  if (show === 'film') {
+    const c = cinemas.get(s.cinema_id);
+    return { ttl: c?.name ?? s.cinema_id, href: `/cinema/${s.cinema_id}` };
+  }
+  const f = s.tmdb_id != null ? films.get(s.tmdb_id) : undefined;
+  return f ? { ttl: f.title, href: `/film/${f.tmdb_id}` } : { ttl: s.raw_title, href: null };
+}
+---
+
+<div class="sched">
+  {days.length === 0 && <p class="empty">Nessuna proiezione in programma al momento.</p>}
+  {days.map(([day, list]) => (
+    <div class="day-group">
+      <div class="day-head">{fmtDate(day + 'T00:00:00')}</div>
+      {list.map((s) => {
+        const p = primary(s);
+        const lbl = langLabel(s.language);
+        return (
+          <div class="show-row">
+            <span class="time">{fmtTime(s.start)}</span>
+            <span class="where">
+              {p.href ? <a class="ttl" href={p.href}>{p.ttl}</a> : <span class="ttl">{p.ttl}</span>}
+              {(s.hall || (show === 'cinema' && s.tmdb_id == null)) && (
+                <span class="sub">{[s.hall, s.tmdb_id == null ? 'non riconosciuto' : null].filter(Boolean).join(' · ')}</span>
+              )}
+            </span>
+            {lbl && <span class={`pill ${s.language === 'dubbed' ? 'dub' : ''}`}>{lbl}</span>}
+            {s.booking_url && <a class="book" href={s.booking_url} target="_blank" rel="noopener">Biglietti</a>}
+          </div>
+        );
+      })}
+    </div>
+  ))}
+</div>

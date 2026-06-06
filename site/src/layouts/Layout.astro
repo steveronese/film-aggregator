@@ -1,0 +1,36 @@
+---
+import '../styles/global.css';
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description } = Astro.props;
+---
+
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>🎬</text></svg>" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="inner">
+        <a class="brand" href="/"><b>Schermo</b>Milano <span>· i film nelle sale di Milano</span></a>
+      </div>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <p>
+        Dati dei film da <a href="https://www.themoviedb.org/">TMDB</a>. Questo prodotto
+        usa le API di TMDB ma non è approvato né certificato da TMDB.
+      </p>
+      <p>Orari e programmazione possono cambiare: verifica sempre sul sito della sala prima di andare.</p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,40 @@
+---
+import type { Cinema, Film, Screening } from '../lib/data';
+import { posterUrl, fmtDayTime, isOriginal, sortByStart } from '../lib/data';
+
+interface Props {
+  film: Film;
+  screenings: Screening[];
+  cinemas: Map<string, Cinema>;
+}
+const { film, screenings, cinemas } = Astro.props;
+
+const sorted = sortByStart(screenings);
+const next = sorted[0];
+const dates = [...new Set(sorted.map((s) => s.start.slice(0, 10)))].join(',');
+const cins = [...new Set(sorted.map((s) => s.cinema_id))].join(',');
+const hasVO = sorted.some((s) => isOriginal(s.language)) ? '1' : '0';
+const poster = posterUrl(film.poster_path, 'w342');
+const nextCinema = next ? cinemas.get(next.cinema_id)?.name ?? next.cinema_id : '';
+const n = sorted.length;
+---
+
+<a
+  class="film-card"
+  href={`/film/${film.tmdb_id}`}
+  data-dates={dates}
+  data-cinemas={cins}
+  data-vo={hasVO}
+>
+  <div class="poster">
+    {poster
+      ? <img src={poster} alt={`Locandina di ${film.title}`} loading="lazy" />
+      : <div class="poster-fallback">{film.title}</div>}
+    {hasVO === '1' && <span class="badge">VO</span>}
+  </div>
+  <h3>{film.title}</h3>
+  <p class="sub">{[film.year, film.director].filter(Boolean).join(' · ')}</p>
+  {next && (
+    <p class="next">{n} proiezion{n === 1 ? 'e' : 'i'} · <b>{fmtDayTime(next.start)}</b> · {nextCinema}</p>
+  )}
+</a>

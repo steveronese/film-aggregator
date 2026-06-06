@@ -1,0 +1,52 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ScreeningList from '../../components/ScreeningList.astro';
+import {
+  getFilms, screeningsByFilm, cinemasById, filmsById, posterUrl, sortByStart,
+} from '../../lib/data';
+
+export function getStaticPaths() {
+  return getFilms().map((film) => ({ params: { id: String(film.tmdb_id) }, props: { film } }));
+}
+
+const { film } = Astro.props;
+const scr = sortByStart(screeningsByFilm().get(film.tmdb_id) ?? []);
+const cinemas = cinemasById();
+const films = filmsById();
+const poster = posterUrl(film.poster_path, 'w500');
+
+const meta = [
+  film.year,
+  film.runtime ? `${film.runtime} min` : null,
+  film.director ? `regia di ${film.director}` : null,
+].filter(Boolean).join(' · ');
+
+const showsOriginal = film.original_title && film.original_title !== film.title;
+---
+
+<Layout title={`${film.title} — SchermoMilano`} description={film.overview ?? undefined}>
+  <div class="detail">
+    <div class="poster">
+      {poster
+        ? <img src={poster} alt={`Locandina di ${film.title}`} />
+        : <div class="poster-fallback">{film.title}</div>}
+    </div>
+    <div>
+      <h1>{film.title}</h1>
+      {showsOriginal && <p class="tagline">Titolo originale: {film.original_title}</p>}
+      <p class="tagline">{meta}</p>
+      {film.genres.length > 0 && (
+        <div class="chiprow">{film.genres.map((g) => <span class="tag">{g}</span>)}</div>
+      )}
+      {film.overview && <p class="overview">{film.overview}</p>}
+      <p><a class="backlink" href={`https://www.themoviedb.org/movie/${film.tmdb_id}`} target="_blank" rel="noopener">Scheda su TMDB ↗</a></p>
+    </div>
+  </div>
+
+  <section class="sched">
+    <h2>Proiezioni a Milano</h2>
+    <ScreeningList screenings={scr} cinemas={cinemas} films={films} show="film" />
+  </section>
+
+  <a class="backlink" href="/">← Tutti i film</a>
+</Layout>
