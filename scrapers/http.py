@@ -46,3 +46,11 @@ def get(client: httpx.Client, url: str, **kwargs) -> httpx.Response:
     resp = client.get(url, **kwargs)
     resp.raise_for_status()
     return resp
+
+
+def post(client: httpx.Client, url: str, **kwargs) -> httpx.Response:
+    """POST with per-host throttling. Raises for HTTP errors."""
+    _throttle(url)
+    resp = client.post(url, **kwargs)
+    resp.raise_for_status()
+    return resp

@@ -8,8 +8,10 @@ from __future__ import annotations
 
 from ..base import BaseScraper
 from .bandhi import BeltradeScraper
+from .cineteca import CinetecaScraper
 
 SCRAPERS: list[type[BaseScraper]] = [
     BeltradeScraper,
-    # More venues added in Phase 2/5: cineteca (WordPress), mexico (site currently down), ...
+    CinetecaScraper,
+    # Still to add: mexico (site currently down), Anteo circuit (spaziocinema.info), ...
 ]

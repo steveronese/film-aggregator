@@ -7,7 +7,7 @@ from abc import ABC, abstractmethod
 
 import httpx
 
-from .http import get, make_client
+from .http import get, make_client, post
 from .models import RawScreening
 
 log = logging.getLogger(__name__)
@@ -32,6 +32,9 @@ class BaseScraper(ABC):
 
     def get(self, url: str, **kwargs) -> httpx.Response:
         return get(self._client, url, **kwargs)
+
+    def post(self, url: str, **kwargs) -> httpx.Response:
+        return post(self._client, url, **kwargs)
 
     @abstractmethod
     def fetch(self) -> list[RawScreening]:

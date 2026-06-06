@@ -10,6 +10,46 @@
     "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": 1211442,
+    "raw_title": "REBUILDING",
+    "start": "2026-06-06T20:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/86377",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 1211442,
+    "raw_title": "REBUILDING",
+    "start": "2026-06-06T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/86343",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-06T21:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/80997",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": null,
+    "raw_title": "NO GOOD MEN",
+    "start": "2026-06-06T21:15:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/83604",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 1339713,
     "raw_title": "OBSESSION",
@@ -30,6 +70,46 @@
     "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 1211442,
+    "raw_title": "REBUILDING",
+    "start": "2026-06-07T15:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/86343",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-07T15:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/83769",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": 1211442,
+    "raw_title": "REBUILDING",
+    "start": "2026-06-07T15:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/86377",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1382513,
+    "raw_title": "HEN - STORIA DI UNA GALLINA",
+    "start": "2026-06-07T15:15:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/86475",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 128,
     "raw_title": "PRINCIPESSA MONONOKE",
@@ -38,6 +118,56 @@
     "language": "original_subbed",
     "booking_url": "https://bandhi.it/bah/beltrade/production/principessa-mononoke/",
     "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": null,
+    "raw_title": "CHAPLIN FOR KIDS",
+    "start": "2026-06-07T15:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/73474",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 1211442,
+    "raw_title": "REBUILDING",
+    "start": "2026-06-07T17:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/86343",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-07T17:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/80997",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-07T17:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/86376",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": null,
+    "raw_title": "NO GOOD MEN",
+    "start": "2026-06-07T17:15:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/83604",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
     "cinema_id": "beltrade",
@@ -50,6 +180,46 @@
     "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 1367791,
+    "raw_title": "TRE DONNE",
+    "start": "2026-06-07T18:45:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/72321",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1382513,
+    "raw_title": "HEN - STORIA DI UNA GALLINA",
+    "start": "2026-06-07T19:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/86475",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-07T19:15:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/83769",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": 1211442,
+    "raw_title": "REBUILDING",
+    "start": "2026-06-07T19:30:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/86377",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 1339713,
     "raw_title": "OBSESSION",
@@ -58,6 +228,36 @@
     "language": "original_subbed",
     "booking_url": "https://bandhi.it/bah/beltrade/production/obsession/",
     "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-07T21:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/83736",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-07T21:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/80997",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": null,
+    "raw_title": "NO GOOD MEN",
+    "start": "2026-06-07T21:15:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/83604",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
     "cinema_id": "beltrade",
@@ -90,6 +290,16 @@
     "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-08T14:30:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/83736",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 1339713,
     "raw_title": "OBSESSION",
@@ -100,6 +310,36 @@
     "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-08T16:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/83769",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1382513,
+    "raw_title": "HEN - STORIA DI UNA GALLINA",
+    "start": "2026-06-08T16:15:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/86475",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 1211442,
+    "raw_title": "REBUILDING",
+    "start": "2026-06-08T17:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/86343",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 414419,
     "raw_title": "KILL BILL - THE WHOLE BLOODY AFFAIR",
@@ -108,6 +348,66 @@
     "language": "original_subbed",
     "booking_url": "https://bandhi.it/bah/beltrade/production/kill-bill-the-whole-bloody-affair/",
     "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1382513,
+    "raw_title": "HEN - STORIA DI UNA GALLINA",
+    "start": "2026-06-08T18:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/86475",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-08T18:15:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/80997",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 1571485,
+    "raw_title": "BOWIE - THE FINAL ACT",
+    "start": "2026-06-08T19:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": " https://arlecchino.cinetecadimilano.18tickets.it/film/81162",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 1211442,
+    "raw_title": "REBUILDING",
+    "start": "2026-06-08T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/86343",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": null,
+    "raw_title": "LA GOCCIA",
+    "start": "2026-06-08T21:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/78819",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-08T21:15:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/80997",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
     "cinema_id": "beltrade",
@@ -150,6 +450,46 @@
     "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 1211442,
+    "raw_title": "REBUILDING",
+    "start": "2026-06-09T15:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/86343",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": 1211442,
+    "raw_title": "REBUILDING",
+    "start": "2026-06-09T15:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/86377",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1382513,
+    "raw_title": "HEN - STORIA DI UNA GALLINA",
+    "start": "2026-06-09T16:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/86475",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-09T16:15:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/80997",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 1370210,
     "raw_title": "YALLA PARKOUR",
@@ -158,6 +498,36 @@
     "language": "original_subbed",
     "booking_url": "https://bandhi.it/bah/beltrade/production/yalla-parkour/",
     "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-09T16:45:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/83736",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-09T17:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/86376",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-09T18:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/83769",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
     "cinema_id": "beltrade",
@@ -170,6 +540,26 @@
     "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": null,
+    "raw_title": "NO GOOD MEN",
+    "start": "2026-06-09T18:15:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/83604",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 1211442,
+    "raw_title": "REBUILDING",
+    "start": "2026-06-09T19:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/86343",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 1083381,
     "raw_title": "BACKROOMS",
@@ -178,6 +568,36 @@
     "language": "original_subbed",
     "booking_url": "https://bandhi.it/bah/beltrade/production/backrooms/",
     "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 3034,
+    "raw_title": "FRANKENSTEIN JUNIOR",
+    "start": "2026-06-09T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/18157",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 36685,
+    "raw_title": "THE ROCKY HORROR PICTURE SHOW",
+    "start": "2026-06-09T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/30403",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-09T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/86442",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
     "cinema_id": "beltrade",
@@ -210,6 +630,26 @@
     "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-10T14:30:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/83736",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-10T14:30:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/86376",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 15014,
     "raw_title": "BIANCA",
@@ -218,6 +658,26 @@
     "language": "original_subbed",
     "booking_url": "https://bandhi.it/bah/beltrade/production/bianca-2/",
     "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1382513,
+    "raw_title": "HEN - STORIA DI UNA GALLINA",
+    "start": "2026-06-10T16:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/86475",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-10T16:15:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/80997",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
     "cinema_id": "beltrade",
@@ -230,6 +690,46 @@
     "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 1211442,
+    "raw_title": "REBUILDING",
+    "start": "2026-06-10T17:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/86343",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": 1211442,
+    "raw_title": "REBUILDING",
+    "start": "2026-06-10T17:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/86377",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-10T18:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/83769",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-10T18:15:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/80997",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 128,
     "raw_title": "PRINCIPESSA MONONOKE",
@@ -240,6 +740,46 @@
     "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 1211442,
+    "raw_title": "REBUILDING",
+    "start": "2026-06-10T19:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/86343",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 5279,
+    "raw_title": "GOSFORD PARK",
+    "start": "2026-06-10T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/72328",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-10T21:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/83769",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1382513,
+    "raw_title": "HEN - STORIA DI UNA GALLINA",
+    "start": "2026-06-10T21:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/86475",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 1275779,
     "raw_title": "DISCLOSURE DAY",
@@ -248,6 +788,66 @@
     "language": "original_subbed",
     "booking_url": "https://bandhi.it/bah/beltrade/production/disclosure-day/",
     "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 110740,
+    "raw_title": "SAN CLEMENTE",
+    "start": "2026-06-11T19:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/79413",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": null,
+    "raw_title": "IL MISTERO DELLE 12 SEDIE",
+    "start": "2026-06-12T19:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/18090",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 3004,
+    "raw_title": "UNA SU 13",
+    "start": "2026-06-13T15:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/84033",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": null,
+    "raw_title": "CHAPLIN FOR KIDS",
+    "start": "2026-06-13T15:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/73474",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": null,
+    "raw_title": "CHAPLIN FOR KIDS",
+    "start": "2026-06-14T15:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/73474",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 242262,
+    "raw_title": "LA SEDIA DELLA FELICITÀ",
+    "start": "2026-06-14T17:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/84034",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
     "cinema_id": "beltrade",
@@ -270,6 +870,16 @@
     "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 37477,
+    "raw_title": "PROFILS PAYSANS: L'APPROCHE",
+    "start": "2026-06-15T19:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/79414",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 1182861,
     "raw_title": "ROMERÍA - IL MARE DEI RICORDI",
@@ -278,5 +888,85 @@
     "language": "original_subbed",
     "booking_url": "https://bandhi.it/bah/beltrade/production/romeria-il-mare-dei-ricordi/",
     "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": null,
+    "raw_title": "SOFTNESS. I-MESH DESIGNING THE CITY",
+    "start": "2026-06-15T21:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/83835",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 1000879,
+    "raw_title": "GRAND CIEL",
+    "start": "2026-06-15T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/57997",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 30197,
+    "raw_title": "PER FAVORE, NON TOCCATE LE VECCHIETTE",
+    "start": "2026-06-16T19:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/18220",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 5691,
+    "raw_title": "I RACCONTI DI CANTERBURY",
+    "start": "2026-06-16T21:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/13576",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-metropolis",
+    "tmdb_id": 16149,
+    "raw_title": "LA GRANDE TRUFFA DEL ROCK 'N' ROLL",
+    "start": "2026-06-16T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/83670",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 827,
+    "raw_title": "I DIABOLICI",
+    "start": "2026-06-17T19:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/78589",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 125742,
+    "raw_title": "10E CHAMBRE, INSTANTS D'AUDIENCE",
+    "start": "2026-06-18T19:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/79446",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": null,
+    "raw_title": "UGO LA PIETRA. SISTEMA DISEQUILIBRANTE",
+    "start": "2026-06-19T19:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/83844",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
   }
 ]
