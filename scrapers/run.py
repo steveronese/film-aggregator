@@ -33,8 +33,10 @@ def load_cinemas() -> list[Cinema]:
 
 def collect_raw() -> list[RawScreening]:
     raw: list[RawScreening] = []
-    for scraper_cls in SCRAPERS:
-        raw.extend(scraper_cls().fetch_safe())
+    for scraper in SCRAPERS:
+        # SCRAPERS holds both classes (instantiated here) and pre-configured instances.
+        instance = scraper() if isinstance(scraper, type) else scraper
+        raw.extend(instance.fetch_safe())
     return raw
 
 

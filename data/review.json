@@ -82,5 +82,54 @@
     "matched_title": "E i figli dopo di loro",
     "method": "ai",
     "confidence": 95.0
+  },
+  {
+    "raw_title": "(O.V.) Bts - World Tour Arirang In Busan",
+    "tmdb_id": 1701849,
+    "matched_title": "BTS World Tour ‘Arirang’ in Busan: Live Viewing",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "(O.V.) Principessa Mononoke",
+    "tmdb_id": 128,
+    "matched_title": "Princess Mononoke",
+    "method": "fuzzy",
+    "confidence": 91.89189189189189
+  },
+  {
+    "raw_title": "Principessa Mononoke",
+    "tmdb_id": 128,
+    "matched_title": "Princess Mononoke",
+    "method": "fuzzy",
+    "confidence": 91.89189189189189
+  },
+  {
+    "raw_title": "Scary Movie 6",
+    "tmdb_id": 1273221,
+    "matched_title": "Scary Movie",
+    "method": "fuzzy",
+    "confidence": 91.66666666666666
+  },
+  {
+    "raw_title": "Star Wars: The Mandalorian And Grogu",
+    "tmdb_id": 1228710,
+    "matched_title": "The Mandalorian and Grogu",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "Rufus - Il Draghetto Marino",
+    "tmdb_id": 1512207,
+    "matched_title": "Rufus - Il draghetto marino che non sapeva nuotare",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "The Mandalorian & Grogu",
+    "tmdb_id": 1228710,
+    "matched_title": "The Mandalorian and Grogu",
+    "method": "fuzzy",
+    "confidence": 91.30434782608697
   }
 ]

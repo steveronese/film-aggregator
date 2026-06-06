@@ -138,3 +138,94 @@
   website: https://anteospaziocinema.com/
   neighborhood: Chinatown
   category: openair
+
+# --- Webtic venues ---
+- id: arcobaleno
+  name: Arcobaleno Filmcenter
+  address: Viale Tunisia 11, 20124 Milano
+  lat: 45.4772
+  lng: 9.2052
+  website: https://cinenauta.it/
+  neighborhood: Porta Venezia
+  category: arthouse
+
+- id: ducale
+  name: Cinema Ducale
+  address: Piazza Napoli 27, 20146 Milano
+  lat: 45.4561
+  lng: 9.1469
+  website: https://cinenauta.it/
+  neighborhood: Porta Genova
+  category: arthouse
+
+- id: plinius
+  name: Multisala Plinius
+  address: Viale Abruzzi 28/30, 20131 Milano
+  lat: 45.4839
+  lng: 9.2178
+  website: https://www.multisalaplinius.com/
+  neighborhood: Loreto
+  category: multiplex
+
+- id: orfeo
+  name: Cinema Orfeo
+  address: Viale Coni Zugna 50, 20144 Milano
+  lat: 45.4536
+  lng: 9.1722
+  website: https://www.cinemaorfeo.it/
+  neighborhood: Tortona
+  category: multiplex
+
+- id: colosseo
+  name: Cinema Colosseo
+  address: Viale Monte Nero 84, 20135 Milano
+  lat: 45.4533
+  lng: 9.2083
+  website: https://www.cinemacolosseo.it/
+  neighborhood: Porta Romana
+  category: arthouse
+
+- id: eliseo
+  name: Cinema Eliseo Multisala
+  address: Via Torino 64, 20123 Milano
+  lat: 45.4609
+  lng: 9.1840
+  website: https://www.cinemaeliseo.com/
+  neighborhood: Centro
+  category: multiplex
+
+- id: san-fedele
+  name: Cinema San Fedele
+  address: Via Hoepli 3, 20121 Milano
+  lat: 45.4665
+  lng: 9.1936
+  website: https://www.sanfedele.net/
+  neighborhood: Centro
+  category: museum
+
+- id: notorious-gloria
+  name: Notorious Cinemas Gloria
+  address: Corso Vercelli 18, 20144 Milano
+  lat: 45.4663
+  lng: 9.1577
+  website: https://www.notoriouscinemas.it/
+  neighborhood: Corso Vercelli
+  category: multiplex
+
+- id: uci-bicocca
+  name: UCI Cinemas Bicocca
+  address: Viale Sarca 336, 20126 Milano
+  lat: 45.5215
+  lng: 9.2106
+  website: https://www.ucicinemas.it/
+  neighborhood: Bicocca
+  category: multiplex
+
+- id: cinelandia-certosa
+  name: Cinelandia Milano Certosa
+  address: Via Giovanni Gentile 3, 20157 Milano
+  lat: 45.5101
+  lng: 9.1530
+  website: https://www.webtic.it/
+  neighborhood: Certosa
+  category: multiplex

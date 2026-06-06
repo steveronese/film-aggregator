@@ -10,6 +10,7 @@ from ..base import BaseScraper
 from .bandhi import BeltradeScraper
 from .cineteca import CinetecaScraper
 from .godard import GodardScraper
+from .webtic import webtic_scrapers
 from .eighteentickets import (
     AnteoScraper,
     AriAnteoFabbricaDelVaporeScraper,
@@ -34,5 +35,7 @@ SCRAPERS: list[type[BaseScraper]] = [
     AriAnteoPalazzoRealeScraper,
     AriAnteoVillaRealeScraper,
     AriAnteoFabbricaDelVaporeScraper,
-    # Still to add: Cinenauta (Arcobaleno+Ducale), Il Cinemino, Webtic venues, mexico (down), ...
+    # Webtic venues (Arcobaleno, Ducale, Plinius, Orfeo, Colosseo, Eliseo, Centrale, San Fedele,
+    # Notorious Gloria, UCI Bicocca, Cinelandia Certosa) — pre-configured instances:
+    *webtic_scrapers(),
 ]
