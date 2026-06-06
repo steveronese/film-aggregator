@@ -135,3 +135,8 @@ class EighteenTicketsScraper(BaseScraper):
 class AnteoScraper(EighteenTicketsScraper):
     cinema_id = "anteo"
     subdomain = "anteo.spaziocinema"
+
+
+class AriostoScraper(EighteenTicketsScraper):
+    cinema_id = "ariosto"
+    subdomain = "ariosto.spaziocinema"

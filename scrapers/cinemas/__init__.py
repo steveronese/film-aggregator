@@ -9,11 +9,12 @@ from __future__ import annotations
 from ..base import BaseScraper
 from .bandhi import BeltradeScraper
 from .cineteca import CinetecaScraper
-from .eighteentickets import AnteoScraper
+from .eighteentickets import AnteoScraper, AriostoScraper
 
 SCRAPERS: list[type[BaseScraper]] = [
     BeltradeScraper,
     CinetecaScraper,
     AnteoScraper,
-    # Still to add: mexico (site currently down), Ariosto/AriAnteo, ...
+    AriostoScraper,
+    # Still to add: mexico (site currently down), AriAnteo (seasonal, summer), ...
 ]
