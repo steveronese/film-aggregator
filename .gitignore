@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node / Astro
+site/node_modules/
+site/dist/
+site/.astro/
+
+# Local env
+.env
+*.local
+
+# OS
+.DS_Store

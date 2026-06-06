@@ -1,0 +1,11 @@
+# Manual title -> TMDB id overrides.
+#
+# When automated matching gets a niche / restored / retrospective title wrong (or misses it),
+# add it here. The left side is the raw screening title (it is normalized internally, so case,
+# accents, and "(v.o. sub ita)" noise don't matter). The right side is the TMDB movie id.
+#
+# Find the id at https://www.themoviedb.org/movie/<id>-slug.
+#
+# Triage candidates appear in data/unmatched.json after each run.
+
+"Perfect Days": 976893

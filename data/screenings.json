@@ -1,0 +1,32 @@
+[
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 976893,
+    "raw_title": "Perfect Days (v.o. sub ita)",
+    "start": "2026-06-07T21:00:00",
+    "hall": "Sala 1",
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://www.cinemabeltrade.net/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1042171,
+    "raw_title": "La Chimera",
+    "start": "2026-06-08T21:00:00",
+    "hall": "Sala 1",
+    "language": "original",
+    "booking_url": null,
+    "source_url": "https://www.cinemabeltrade.net/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": null,
+    "raw_title": "Retrospettiva: Un Film Introvabile",
+    "start": "2026-06-09T21:00:00",
+    "hall": null,
+    "language": "original",
+    "booking_url": null,
+    "source_url": "https://www.cinemabeltrade.net/"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "movie": {
+    "976893": {
+      "id": 976893,
+      "title": "Perfect Days",
+      "original_title": "Perfect Days",
+      "release_date": "2023-12-27",
+      "poster_path": "/cmkc1pISIQDfexb6CYZRcWQQqAU.jpg",
+      "overview": "Hirayama sembra pienamente soddisfatto della sua vita semplice come addetto alle pulizie dei bagni pubblici di Tokyo.",
+      "runtime": 124,
+      "genres": [
+        { "id": 18, "name": "Dramma" }
+      ],
+      "credits": {
+        "crew": [
+          { "job": "Director", "name": "Wim Wenders" }
+        ]
+      }
+    },
+    "1042171": {
+      "id": 1042171,
+      "title": "La chimera",
+      "original_title": "La Chimera",
+      "release_date": "2023-05-26",
+      "poster_path": "/h32Jr1uPI8jZIvTm9OZkU1WTfHd.jpg",
+      "overview": "Un gruppo di tombaroli e un archeologo inglese sono accomunati dal traffico illecito di reperti archeologici.",
+      "runtime": 130,
+      "genres": [
+        { "id": 18, "name": "Dramma" },
+        { "id": 14, "name": "Fantasy" }
+      ],
+      "credits": {
+        "crew": [
+          { "job": "Director", "name": "Alice Rohrwacher" }
+        ]
+      }
+    }
+  },
+  "search": {
+    "la chimera|": [
+      { "id": 1042171, "title": "La chimera", "original_title": "La Chimera" }
+    ]
+  }
+}

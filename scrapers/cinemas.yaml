@@ -1,0 +1,51 @@
+# Milan cinema registry — niche / original-version venues first.
+# `id` is referenced by scrapers (cinema_id) and by data/*.json.
+# Addresses/coords are best-effort; verify when implementing each scraper in Phase 2.
+
+- id: beltrade
+  name: Cinema Beltrade
+  address: Via Nino Oxilia 10, 20127 Milano
+  lat: 45.4928
+  lng: 9.2196
+  website: https://www.cinemabeltrade.net/
+  neighborhood: NoLo
+
+- id: cineteca-arlecchino
+  name: Cineteca Milano Arlecchino
+  address: Via San Pietro all'Orto 9, 20121 Milano
+  lat: 45.4659
+  lng: 9.1969
+  website: https://www.cinetecamilano.it/
+  neighborhood: Centro
+
+- id: cineteca-mic
+  name: Cineteca Milano MIC (Museo Interattivo del Cinema)
+  address: Viale Fulvio Testi 121, 20162 Milano
+  lat: 45.5167
+  lng: 9.2003
+  website: https://www.cinetecamilano.it/
+  neighborhood: Bicocca
+
+- id: mexico
+  name: Cinema Mexico
+  address: Via Savona 57, 20144 Milano
+  lat: 45.4533
+  lng: 9.1583
+  website: https://www.cinemamexico.it/
+  neighborhood: Solari
+
+- id: anteo
+  name: Anteo Palazzo del Cinema
+  address: Via Milazzo 9, 20121 Milano
+  lat: 45.4810
+  lng: 9.1869
+  website: https://anteospaziocinema.com/
+  neighborhood: Moscova
+
+- id: centrale
+  name: Multisala Centrale
+  address: Via Torino 30/32, 20123 Milano
+  lat: 45.4615
+  lng: 9.1857
+  website: https://www.multisalacentrale.it/
+  neighborhood: Centro
