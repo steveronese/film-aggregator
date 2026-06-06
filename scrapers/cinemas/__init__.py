@@ -9,9 +9,11 @@ from __future__ import annotations
 from ..base import BaseScraper
 from .bandhi import BeltradeScraper
 from .cineteca import CinetecaScraper
+from .eighteentickets import AnteoScraper
 
 SCRAPERS: list[type[BaseScraper]] = [
     BeltradeScraper,
     CinetecaScraper,
-    # Still to add: mexico (site currently down), Anteo circuit (spaziocinema.info), ...
+    AnteoScraper,
+    # Still to add: mexico (site currently down), Ariosto/AriAnteo, ...
 ]

@@ -35,6 +35,21 @@ def parse_italian_date(text: str, today: date | None = None) -> date | None:
     return None
 
 
+_DMY = re.compile(r"(\d{1,2})/(\d{1,2})/(\d{4})")
+
+
+def parse_dmy(text: str) -> date | None:
+    """Parse a 'DD/MM/YYYY' date (the format 18tickets uses)."""
+    m = _DMY.search(text)
+    if not m:
+        return None
+    d, mo, y = (int(g) for g in m.groups())
+    try:
+        return date(y, mo, d)
+    except ValueError:
+        return None
+
+
 def parse_time(text: str) -> time | None:
     """Parse 'ORE 19:40' / '19.40' → time."""
     m = _TIME.search(text)
