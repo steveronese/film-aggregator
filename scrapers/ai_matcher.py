@@ -2,11 +2,13 @@
 
 It's free because it's invoked *only* on the handful of titles the fuzzy matcher can't resolve
 confidently, and every answer is cached. That's a few calls per day — trivially inside a provider's
-free tier. Default provider is Google Gemini (free API key, no card). When GEMINI_API_KEY is unset
-the matcher is disabled and the pipeline behaves exactly as before.
+free tier. Provider is Mistral (EU-based, free API tier — works from Italy, unlike Gemini's
+EU-excluded free tier). When MISTRAL_API_KEY is unset the matcher is disabled and the pipeline
+behaves exactly as before.
 
-The model never invents ids: it's given the real TMDB search candidates and must pick one (by id) or
-say none, so it grounds, rather than hallucinates, the answer.
+The endpoint is OpenAI-compatible, so MISTRAL_BASE_URL/MISTRAL_MODEL can point it at Groq, a local
+Ollama, or any compatible API instead. The model never invents ids: it's given the real TMDB search
+candidates and must pick one (by id) or say none.
 """
 
 from __future__ import annotations
@@ -22,8 +24,8 @@ import httpx
 log = logging.getLogger(__name__)
 
 CACHE_PATH = Path(__file__).parent / "cache" / "ai_matches.json"
-DEFAULT_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
-ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+BASE_URL = os.environ.get("MISTRAL_BASE_URL", "https://api.mistral.ai/v1")
+MODEL = os.environ.get("MISTRAL_MODEL", "mistral-small-latest")
 
 
 class AIMatcher:
@@ -31,7 +33,7 @@ class AIMatcher:
         self.cache_path = cache_path
         self._cache: dict[str, Any] = self._load()
         self._dirty = False
-        self.api_key = None if offline else os.environ.get("GEMINI_API_KEY")
+        self.api_key = None if offline else os.environ.get("MISTRAL_API_KEY")
         self.enabled = bool(self.api_key)
         self._client = httpx.Client(timeout=30.0)
 
@@ -51,9 +53,7 @@ class AIMatcher:
 
     def pick(self, norm_title: str, candidates: list[dict]) -> tuple[int | None, float | None]:
         """Return (tmdb_id, confidence) for the best matching candidate, or (None, None).
-
-        `candidates` are raw TMDB search results. Cached by normalized title.
-        """
+        Cached by normalized title."""
         if norm_title in self._cache:
             c = self._cache[norm_title]
             return c.get("tmdb_id"), c.get("confidence")
@@ -82,22 +82,24 @@ class AIMatcher:
             "Match a cinema listing to The Movie Database (TMDB).\n"
             f'Listing title (Italian, may contain extra words): "{norm_title}"\n\n'
             "Candidate TMDB films:\n" + "\n".join(lines) + "\n\n"
-            "Reply with JSON {\"tmdb_id\": <id of the same film, or null>, "
-            "\"confidence\": <0-100>}. Choose a candidate only if you are confident it is the "
+            'Reply with JSON {"tmdb_id": <id of the same film, or null>, '
+            '"confidence": <0-100>}. Choose a candidate only if you are confident it is the '
             "same film; otherwise use null."
         )
         body = {
-            "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0, "responseMimeType": "application/json"},
+            "model": MODEL,
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0,
+            "response_format": {"type": "json_object"},
         }
         try:
             resp = self._client.post(
-                ENDPOINT.format(model=DEFAULT_MODEL),
-                params={"key": self.api_key},
+                f"{BASE_URL}/chat/completions",
+                headers={"Authorization": f"Bearer {self.api_key}"},
                 json=body,
             )
             resp.raise_for_status()
-            text = resp.json()["candidates"][0]["content"]["parts"][0]["text"]
+            text = resp.json()["choices"][0]["message"]["content"]
             return json.loads(text)
         except (httpx.HTTPError, KeyError, IndexError, json.JSONDecodeError) as exc:
             log.warning("AI match failed for %r: %s", norm_title, exc)
