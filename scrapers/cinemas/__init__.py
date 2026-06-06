@@ -7,9 +7,9 @@ class to SCRAPERS. The orchestrator (scrapers.run) instantiates and runs each on
 from __future__ import annotations
 
 from ..base import BaseScraper
-from .stub import StubScraper
+from .bandhi import BeltradeScraper
 
-# Real per-cinema scrapers get added here in Phase 2 (beltrade, cineteca, mexico, ...).
 SCRAPERS: list[type[BaseScraper]] = [
-    StubScraper,
+    BeltradeScraper,
+    # More venues added in Phase 2/5: cineteca (WordPress), mexico (site currently down), ...
 ]

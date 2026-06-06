@@ -2,8 +2,12 @@
 
 from __future__ import annotations
 
+from pathlib import Path
+
 from ..matching import FilmMatcher, normalize_title
 from ..tmdb import TMDBClient
+
+FIXTURE_CACHE = Path(__file__).parent / "fixtures" / "tmdb.json"
 
 
 def test_normalize_strips_noise_and_accents() -> None:
@@ -29,8 +33,9 @@ def test_unmatched_returns_none(matcher: FilmMatcher) -> None:
 
 
 def _run() -> None:
-    # Offline: uses the committed cache, no TMDB key required.
-    matcher = FilmMatcher(TMDBClient())
+    # Hermetic: forced offline against the committed test fixture, never touches the network
+    # or the production cache, regardless of whether TMDB_ACCESS_TOKEN is set.
+    matcher = FilmMatcher(TMDBClient(cache_path=FIXTURE_CACHE, offline=True))
     test_normalize_strips_noise_and_accents()
     test_override_path(matcher)
     test_fuzzy_search_path(matcher)

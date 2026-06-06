@@ -1,32 +1,282 @@
 [
   {
     "cinema_id": "beltrade",
-    "tmdb_id": 976893,
-    "raw_title": "Perfect Days (v.o. sub ita)",
-    "start": "2026-06-07T21:00:00",
-    "hall": "Sala 1",
+    "tmdb_id": 1083381,
+    "raw_title": "BACKROOMS",
+    "start": "2026-06-06T19:40:00",
+    "hall": null,
     "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://www.cinemabeltrade.net/"
+    "booking_url": "https://bandhi.it/bah/beltrade/production/backrooms/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "beltrade",
-    "tmdb_id": 1042171,
-    "raw_title": "La Chimera",
-    "start": "2026-06-08T21:00:00",
-    "hall": "Sala 1",
-    "language": "original",
-    "booking_url": null,
-    "source_url": "https://www.cinemabeltrade.net/"
+    "tmdb_id": 1339713,
+    "raw_title": "OBSESSION",
+    "start": "2026-06-06T21:40:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/obsession/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 414419,
+    "raw_title": "KILL BILL - THE WHOLE BLOODY AFFAIR",
+    "start": "2026-06-07T11:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/kill-bill-the-whole-bloody-affair/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-07T15:20:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/principessa-mononoke/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-07T17:40:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/amarga-navidad/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1339713,
+    "raw_title": "OBSESSION",
+    "start": "2026-06-07T19:40:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/obsession/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1083381,
+    "raw_title": "BACKROOMS",
+    "start": "2026-06-07T21:40:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/backrooms/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1083381,
+    "raw_title": "BACKROOMS",
+    "start": "2026-06-08T11:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/backrooms/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-08T13:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/principessa-mononoke/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1339713,
+    "raw_title": "OBSESSION",
+    "start": "2026-06-08T15:20:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/obsession/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 414419,
+    "raw_title": "KILL BILL - THE WHOLE BLOODY AFFAIR",
+    "start": "2026-06-08T17:10:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/kill-bill-the-whole-bloody-affair/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 15014,
+    "raw_title": "BIANCA",
+    "start": "2026-06-08T21:40:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/bianca-2/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 15014,
+    "raw_title": "BIANCA",
+    "start": "2026-06-09T11:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/bianca-2/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1382513,
+    "raw_title": "HEN - STORIA DI UNA GALLINA",
+    "start": "2026-06-09T12:50:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/hen-storia-di-una-gallina/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-09T14:40:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/amarga-navidad/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1370210,
+    "raw_title": "YALLA PARKOUR",
+    "start": "2026-06-09T16:40:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/yalla-parkour/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-09T18:10:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/principessa-mononoke/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1083381,
+    "raw_title": "BACKROOMS",
+    "start": "2026-06-09T20:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/backrooms/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1339713,
+    "raw_title": "OBSESSION",
+    "start": "2026-06-09T22:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/obsession/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1275779,
+    "raw_title": "DISCLOSURE DAY",
+    "start": "2026-06-10T10:40:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/disclosure-day/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1083381,
+    "raw_title": "BACKROOMS",
+    "start": "2026-06-10T13:10:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/backrooms/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 15014,
+    "raw_title": "BIANCA",
+    "start": "2026-06-10T15:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/bianca-2/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1275779,
+    "raw_title": "DISCLOSURE DAY",
+    "start": "2026-06-10T16:40:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/disclosure-day/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-10T19:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/principessa-mononoke/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1275779,
+    "raw_title": "DISCLOSURE DAY",
+    "start": "2026-06-10T21:20:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/disclosure-day/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "beltrade",
     "tmdb_id": null,
-    "raw_title": "Retrospettiva: Un Film Introvabile",
-    "start": "2026-06-09T21:00:00",
+    "raw_title": "KEEP CALM",
+    "start": "2026-06-15T06:00:00",
     "hall": null,
-    "language": "original",
-    "booking_url": null,
-    "source_url": "https://www.cinemabeltrade.net/"
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/keep-calm-2/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 60732,
+    "raw_title": "LA MESSA È FINITA - orario da definire",
+    "start": "2026-06-15T07:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/la-messa-e-finita/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1182861,
+    "raw_title": "ROMERÍA - IL MARE DEI RICORDI",
+    "start": "2026-06-15T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/romeria-il-mare-dei-ricordi/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
   }
 ]

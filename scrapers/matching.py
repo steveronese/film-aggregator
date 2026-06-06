@@ -29,7 +29,8 @@ MATCH_THRESHOLD = 85
 _NOISE = re.compile(
     r"\b(v\.?o\.?(s\.?(it\.?)?)?|versione\s+originale(\s+sottotitolata)?|"
     r"sub\.?\s*ita(liano)?|original\s+version|o\.?v\.?|in\s+lingua\s+originale|"
-    r"\d{4}\s*restaurato|restaurato|edizione\s+restaurata|replica)\b",
+    r"\d{4}\s*restaurato|restaurato|edizione\s+restaurata|replica|"
+    r"(orario|data)\s+da\s+(definire|confermare)|posti\s+esauriti|sold\s*out|anteprima)\b",
     re.IGNORECASE,
 )
 

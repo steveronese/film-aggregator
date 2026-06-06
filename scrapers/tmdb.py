@@ -25,7 +25,7 @@ DEFAULT_CACHE = Path(__file__).parent / "cache" / "tmdb.json"
 
 
 class TMDBClient:
-    def __init__(self, cache_path: Path = DEFAULT_CACHE) -> None:
+    def __init__(self, cache_path: Path = DEFAULT_CACHE, offline: bool = False) -> None:
         self.cache_path = cache_path
         self._cache: dict[str, Any] = self._load_cache()
         self._dirty = False
@@ -34,7 +34,9 @@ class TMDBClient:
         api_key = os.environ.get("TMDB_API_KEY")
         self._params: dict[str, str] = {}
         headers = {"Accept": "application/json"}
-        if token:
+        if offline:
+            self._online = False
+        elif token:
             headers["Authorization"] = f"Bearer {token}"
             self._online = True
         elif api_key:
