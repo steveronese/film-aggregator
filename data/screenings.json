@@ -1,65 +1,5 @@
 [
   {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 567609,
-    "raw_title": "Finche' Morte Non Ci Separi",
-    "start": "2026-06-07T00:05:00",
-    "hall": "14",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1273221,
-    "raw_title": "Scary Movie (2026)",
-    "start": "2026-06-07T00:10:00",
-    "hall": "13",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1088548,
-    "raw_title": "V. O. SOTT. ITA AMARGA NAVIDAD",
-    "start": "2026-06-07T10:00:00",
-    "hall": "Obraz",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/80865/d5564fe6-ad8d-42ea-82dc-42257c4dc434#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1088548,
-    "raw_title": "AMARGA NAVIDAD",
-    "start": "2026-06-07T10:00:00",
-    "hall": "Ariston",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/195fc8b9-c1b9-4659-b700-bfd8fdc0dc42#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1471537,
-    "raw_title": "NOI DUE SCONOSCIUTI (SOLOMAMMA)",
-    "start": "2026-06-07T10:00:00",
-    "hall": "Aurora",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79714/ee8fb1b5-1736-4163-8084-0906a7374fa7#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1462322,
-    "raw_title": "LE CITTÀ DI PIANURA",
-    "start": "2026-06-07T10:10:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/31221/2ba0328b-fdfd-4362-8a01-77805a1565ea#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
     "cinema_id": "citylife-anteo",
     "tmdb_id": 1314481,
     "raw_title": "V.O. SOTT. ITA- IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
@@ -3590,16 +3530,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1512207,
-    "raw_title": "Rufus - Il Draghetto Marino",
-    "start": "2026-06-08T16:50:00",
-    "hall": "14",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
     "cinema_id": "colosseo",
     "tmdb_id": 936075,
     "raw_title": "Michael",
@@ -3608,6 +3538,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1512207,
+    "raw_title": "Rufus - Il Draghetto Marino",
+    "start": "2026-06-08T16:55:00",
+    "hall": "14",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "anteo",
@@ -4061,20 +4001,20 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": 11649,
-    "raw_title": "Masters Of The Universe (2026)",
-    "start": "2026-06-08T18:10:00",
-    "hall": "9",
-    "language": "unknown",
+    "tmdb_id": 1273221,
+    "raw_title": "(O.V.) Scary Movie (2026)",
+    "start": "2026-06-08T18:00:00",
+    "hall": "15",
+    "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": 936075,
-    "raw_title": "Michael",
+    "tmdb_id": 11649,
+    "raw_title": "Masters Of The Universe (2026)",
     "start": "2026-06-08T18:10:00",
-    "hall": "16",
+    "hall": "9",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
@@ -4098,6 +4038,16 @@
     "language": "dubbed",
     "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/80997",
     "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 936075,
+    "raw_title": "Michael",
+    "start": "2026-06-08T18:15:00",
+    "hall": "16",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -4291,16 +4241,6 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": 1088548,
-    "raw_title": "Amarga Navidad",
-    "start": "2026-06-08T19:15:00",
-    "hall": "8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
     "tmdb_id": 1273221,
     "raw_title": "Scary Movie (2026)",
     "start": "2026-06-08T19:15:00",
@@ -4398,6 +4338,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1088548,
+    "raw_title": "Amarga Navidad",
+    "start": "2026-06-08T19:20:00",
+    "hall": "8",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -4600,6 +4550,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1273221,
+    "raw_title": "(O.V.) Scary Movie (2026)",
+    "start": "2026-06-08T20:20:00",
+    "hall": "15",
+    "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
     "cinema_id": "cinelandia-certosa",
     "tmdb_id": 1083381,
     "raw_title": "(O.V.) Backrooms",
@@ -4755,16 +4715,6 @@
     "raw_title": "Backrooms",
     "start": "2026-06-08T21:15:00",
     "hall": "14",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 11649,
-    "raw_title": "Masters Of The Universe (2026)",
-    "start": "2026-06-08T21:20:00",
-    "hall": "9",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
@@ -4990,6 +4940,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
   },
   {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 11649,
+    "raw_title": "Masters Of The Universe (2026)",
+    "start": "2026-06-08T21:30:00",
+    "hall": "9",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
     "cinema_id": "colosseo",
     "tmdb_id": null,
     "raw_title": "(O.V.) Backrooms Vm14",
@@ -5101,20 +5061,20 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": 1224440,
-    "raw_title": "Smart Working",
+    "tmdb_id": 1228710,
+    "raw_title": "The Mandalorian & Grogu",
     "start": "2026-06-08T21:50:00",
-    "hall": "8",
+    "hall": "1",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": 1228710,
-    "raw_title": "The Mandalorian & Grogu",
-    "start": "2026-06-08T21:50:00",
-    "hall": "1",
+    "tmdb_id": 1224440,
+    "raw_title": "Smart Working",
+    "start": "2026-06-08T21:55:00",
+    "hall": "8",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
@@ -5141,20 +5101,20 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": 1314481,
-    "raw_title": "Il Diavolo Veste Prada 2",
+    "tmdb_id": 1273221,
+    "raw_title": "Scary Movie (2026)",
     "start": "2026-06-08T22:15:00",
-    "hall": "12",
+    "hall": "3",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": 1273221,
-    "raw_title": "Scary Movie (2026)",
-    "start": "2026-06-08T22:15:00",
-    "hall": "3",
+    "tmdb_id": 1314481,
+    "raw_title": "Il Diavolo Veste Prada 2",
+    "start": "2026-06-08T22:20:00",
+    "hall": "12",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
@@ -5218,6 +5178,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 567609,
+    "raw_title": "Finche' Morte Non Ci Separi",
+    "start": "2026-06-08T22:40:00",
+    "hall": "15",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -11430,6 +11400,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
   },
   {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": null,
+    "raw_title": "CHAPLIN FOR KIDS",
+    "start": "2026-06-20T15:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/73474",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1084244,
     "raw_title": "Toy Story 5",
@@ -11448,6 +11428,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 71822,
+    "raw_title": "IL MISTERO PICASSO",
+    "start": "2026-06-20T17:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/78590",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -11508,6 +11498,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 957,
+    "raw_title": "BALLE SPAZIALI",
+    "start": "2026-06-20T19:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/18089",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
     "cinema_id": "uci-bicocca",

@@ -7,20 +7,6 @@
     "confidence": 91.89189189189189
   },
   {
-    "raw_title": "OBSESSION",
-    "tmdb_id": 1339713,
-    "matched_title": "Obsession",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
-    "raw_title": "BIANCA",
-    "tmdb_id": 15014,
-    "matched_title": "Bianca",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "REBUILDING",
     "tmdb_id": 1211442,
     "matched_title": "Rebuilding",
@@ -77,9 +63,44 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "BIANCA",
+    "tmdb_id": 15014,
+    "matched_title": "Bianca",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA)",
     "tmdb_id": 1303613,
     "matched_title": "Il silenzio degli altri",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "V.O. SOTT. ITA- IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "tmdb_id": 1314481,
+    "matched_title": "Il diavolo veste Prada 2",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "V. O. SOTT ITA PRINCIPESSA MONONOKE",
+    "tmdb_id": 128,
+    "matched_title": "Princess Mononoke",
+    "method": "fuzzy",
+    "confidence": 91.89189189189189
+  },
+  {
+    "raw_title": "NOI DUE SCONOSCIUTI (SOLOMAMMA)",
+    "tmdb_id": 1471537,
+    "matched_title": "Noi due sconosciuti",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "IL DIAVOLO VESTE PRADA (THE DEVIL WEARS PRADA)",
+    "tmdb_id": 350,
+    "matched_title": "Il diavolo veste Prada",
     "method": "ai",
     "confidence": 100.0
   },
