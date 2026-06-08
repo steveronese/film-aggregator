@@ -35,6 +35,13 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "ALTA TENSIONE",
+    "tmdb_id": 10226,
+    "matched_title": "Alta tensione",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
     "tmdb_id": 1314481,
     "matched_title": "Il diavolo veste Prada 2",
@@ -70,13 +77,6 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA)",
-    "tmdb_id": 1303613,
-    "matched_title": "Il silenzio degli altri",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "V.O. SOTT. ITA- IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
     "tmdb_id": 1314481,
     "matched_title": "Il diavolo veste Prada 2",
@@ -105,18 +105,18 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "E I FIGLI DOPO DI LORO (LEURS ENFANTS APRÈS EUX) - V. O.",
+    "tmdb_id": 1103678,
+    "matched_title": "E i figli dopo di loro",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "LE TIGRI DI MOMPRACEM (LOS TIGRES)",
     "tmdb_id": 1464374,
     "matched_title": "Le tigri di Mompracem",
     "method": "ai",
     "confidence": 95.0
-  },
-  {
-    "raw_title": "illusione",
-    "tmdb_id": 1407548,
-    "matched_title": "Illusione",
-    "method": "ai",
-    "confidence": 100.0
   },
   {
     "raw_title": "LA FESTA È FINITA (THE PARTY'S OVER!)",
@@ -126,9 +126,9 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "E I FIGLI DOPO DI LORO (LEURS ENFANTS APRÈS EUX) - V. O.",
-    "tmdb_id": 1103678,
-    "matched_title": "E i figli dopo di loro",
+    "raw_title": "illusione",
+    "tmdb_id": 1407548,
+    "matched_title": "Illusione",
     "method": "ai",
     "confidence": 100.0
   },
@@ -236,13 +236,6 @@
     "matched_title": "Supergirl - La ragazza d'acciaio",
     "method": "ai",
     "confidence": 95.0
-  },
-  {
-    "raw_title": "Finche' Morte Non Ci Separi",
-    "tmdb_id": 567609,
-    "matched_title": "Finché morte non ci separi",
-    "method": "ai",
-    "confidence": 100.0
   },
   {
     "raw_title": "Il Prigioniero",
