@@ -33,7 +33,27 @@ Save & deploy. Cloudflare gives you a `*.pages.dev` URL; add a custom domain lat
 Repo → **Actions → "Scrape & publish" → Run workflow**. It scrapes, commits data, and the push
 triggers a Cloudflare deploy. After that it runs automatically every morning (~07:00 Italy).
 
+## Keeping Cinema Godard & museums fresh (fully automated)
+
+Cinema Godard (Fondazione Prada) and museum film screenings can't be auto-scraped from the cloud
+(WAF blocks datacenter IPs; museums have no API). Instead, use the **manual-entry YAML**:
+
+1. Go to **GitHub** → your repo → `scrapers/manual_screenings.yaml`
+2. Click the **pencil (edit)** icon
+3. Add screenings in the format shown (copy-paste from Godard's ticketing page):
+   ```yaml
+   screenings:
+     - cinema_id: godard
+       raw_title: "Priscilla"
+       start: "2026-06-15T20:30:00"
+       language: "original_subbed"
+   ```
+4. Click **Commit changes** → GitHub auto-commits & triggers a deploy
+
+That's it. No terminal, no local setup. The build merges your entries into the live site within
+minutes. Repeat whenever Godard/museums update their programmes.
+
 ## Notes
-- The daily job installs headless Chromium (`playwright install chromium`) for the WAF-protected
-  Cinema Godard scraper — already handled in the workflow.
+- The daily cloud job **skips headless Chromium** (Godard only works from residential IPs anyway).
+  Manual entries in `manual_screenings.yaml` keep Godard live forever.
 - TMDB/AI lookups are cached in `scrapers/cache/` (committed), so daily runs stay well within free tiers.

@@ -10,6 +10,7 @@ from ..base import BaseScraper
 from .bandhi import BeltradeScraper
 from .cineteca import CinetecaScraper
 from .godard import GodardScraper
+from .manual import ManualScraper
 from .webtic import webtic_scrapers
 from .eighteentickets import (
     AnteoScraper,
@@ -30,6 +31,7 @@ SCRAPERS: list[type[BaseScraper]] = [
     CityLifeAnteoScraper,
     IlCineminoScraper,
     GodardScraper,  # headless (Playwright) — Fondazione Prada
+    ManualScraper,  # manual entries from manual_screenings.yaml (Cinema Godard, museums, ...)
     # Seasonal open-air (empty off-season):
     AriAnteoIncoronataScraper,
     AriAnteoPalazzoRealeScraper,

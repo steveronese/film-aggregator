@@ -1,0 +1,15 @@
+# Manual film screenings for venues that can't be auto-scraped:
+# - Cinema Godard (Fondazione Prada) — WAF blocks datacenter IPs
+# - Museum film events (Triennale, MUDEC, PAC, HangarBicocca) — irregular, no API
+#
+# Format: list of screenings, each with cinema_id, raw_title, start (ISO datetime), and optional language.
+# Edit this file on GitHub.com (click the pencil icon) or locally via `git push`. The daily build
+# will merge these into screenings.json automatically.
+#
+# Example:
+# - cinema_id: godard
+#   raw_title: "Priscilla"
+#   start: "2026-06-15T20:30:00"
+#   language: "original_subbed"
+
+screenings: []
