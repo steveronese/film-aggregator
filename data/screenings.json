@@ -1,15 +1,5 @@
 [
   {
-    "cinema_id": "mexico",
-    "tmdb_id": 1303613,
-    "raw_title": "IL SILENZIO DEGLI ALTRI",
-    "start": "2026-06-08T15:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
-    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
-  },
-  {
     "cinema_id": "notorious-merlata",
     "tmdb_id": 1083381,
     "raw_title": "BACKROOMS",
@@ -8130,6 +8120,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1083381,
+    "raw_title": "BACKROOMS",
+    "start": "2026-06-14T19:40:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/backrooms/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
     "cinema_id": "plinius",
     "tmdb_id": 1273221,
     "raw_title": "Scary Movie 6",
@@ -8138,16 +8138,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1083381,
-    "raw_title": "BACKROOMS",
-    "start": "2026-06-14T20:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/backrooms/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "godard",
