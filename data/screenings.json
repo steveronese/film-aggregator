@@ -40,16 +40,6 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 11649,
-    "raw_title": "Masters Of The Universe (2026)",
-    "start": "2026-06-08T16:10:00",
-    "hall": "4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
     "cinema_id": "cineteca-metropolis",
     "tmdb_id": 1382513,
     "raw_title": "HEN - STORIA DI UNA GALLINA",
@@ -7310,6 +7300,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "beltrade",
+    "tmdb_id": 128,
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "start": "2026-06-13T11:10:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/principessa-mononoke/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1275779,
     "raw_title": "Disclosure Day",
@@ -7450,6 +7450,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
   },
   {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-13T15:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/amarga-navidad/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
     "cinema_id": "cineteca-mic",
     "tmdb_id": null,
     "raw_title": "CHAPLIN FOR KIDS",
@@ -7508,6 +7518,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1083381,
+    "raw_title": "BACKROOMS",
+    "start": "2026-06-13T17:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/backrooms/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "cinelandia-certosa",
@@ -7828,6 +7848,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-14T13:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/amarga-navidad/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "godard",
