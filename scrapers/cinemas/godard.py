@@ -46,10 +46,10 @@ class GodardScraper(BaseScraper):
         if key:
             import httpx
             try:
-                # ultra_premium = residential IPs, needed to clear Fondazione Prada's Cloudflare.
+                # premium proxies + JS render to clear Fondazione Prada's Cloudflare.
                 r = httpx.get("https://api.scraperapi.com/", timeout=120, params={
                     "api_key": key, "url": TICKETING_URL, "render": "true",
-                    "ultra_premium": "true", "country_code": "it"})
+                    "premium": "true", "country_code": "it"})
                 r.raise_for_status()
                 return r.text
             except httpx.HTTPError as e:
