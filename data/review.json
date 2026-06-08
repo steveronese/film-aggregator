@@ -63,14 +63,14 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "V.O.SOTT.ITA. - MICHAEL",
+    "raw_title": "MICHAEL",
     "tmdb_id": 936075,
     "matched_title": "Michael",
     "method": "ai",
     "confidence": 95.0
   },
   {
-    "raw_title": "MICHAEL",
+    "raw_title": "V.O.SOTT.ITA. - MICHAEL",
     "tmdb_id": 936075,
     "matched_title": "Michael",
     "method": "ai",
@@ -112,13 +112,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "E I FIGLI DOPO DI LORO (LEURS ENFANTS APRÈS EUX) - V. O.",
-    "tmdb_id": 1103678,
-    "matched_title": "E i figli dopo di loro",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "LE TIGRI DI MOMPRACEM (LOS TIGRES)",
     "tmdb_id": 1464374,
     "matched_title": "Le tigri di Mompracem",
@@ -140,6 +133,13 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "E I FIGLI DOPO DI LORO (LEURS ENFANTS APRÈS EUX) - V. O.",
+    "tmdb_id": 1103678,
+    "matched_title": "E i figli dopo di loro",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA) - V. O.",
     "tmdb_id": 1303613,
     "matched_title": "Il silenzio degli altri",
@@ -154,62 +154,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "THE LIGHTHOUSE",
-    "tmdb_id": 503919,
-    "matched_title": "The Lighthouse",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "MARIE ANTOINETTE",
-    "tmdb_id": 1887,
-    "matched_title": "Marie Antoinette",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
-    "raw_title": "SENTIMENTAL VALUE",
-    "tmdb_id": 1124566,
-    "matched_title": "Sentimental Value",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
-    "raw_title": "L'AGENTE SEGRETO",
-    "tmdb_id": 47199,
-    "matched_title": "L'agente segreto",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
-    "raw_title": "SIRÂT",
-    "tmdb_id": 1151272,
-    "matched_title": "Sirāt",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
-    "raw_title": "UN ANNO DI SCUOLA",
-    "tmdb_id": 1442922,
-    "matched_title": "Un anno di scuola",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
-    "raw_title": "FATHER MOTHER SISTER BROTHER",
-    "tmdb_id": 1159206,
-    "matched_title": "Father Mother Sister Brother",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "NOUVELLE VAGUE",
-    "tmdb_id": 1254808,
-    "matched_title": "Nouvelle Vague",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "cime tempestose.",
     "tmdb_id": 25095,
     "matched_title": "Cime tempestose",
@@ -222,6 +166,13 @@
     "matched_title": "Tutto quello che resta di te",
     "method": "ai",
     "confidence": 95.0
+  },
+  {
+    "raw_title": "FATHER MOTHER SISTER BROTHER",
+    "tmdb_id": 1159206,
+    "matched_title": "Father Mother Sister Brother",
+    "method": "ai",
+    "confidence": 100.0
   },
   {
     "raw_title": "GIOVANI MADRI (JEUNES MÈRES)",
