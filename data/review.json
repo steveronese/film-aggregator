@@ -1,24 +1,10 @@
 [
   {
-    "raw_title": "BIANCA",
-    "tmdb_id": 15014,
-    "matched_title": "Bianca",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "PRINCIPESSA MONONOKE",
     "tmdb_id": 128,
     "matched_title": "Princess Mononoke",
     "method": "fuzzy",
     "confidence": 91.89189189189189
-  },
-  {
-    "raw_title": "OBSESSION",
-    "tmdb_id": 1339713,
-    "matched_title": "Obsession",
-    "method": "ai",
-    "confidence": 95.0
   },
   {
     "raw_title": "REBUILDING",
@@ -82,6 +68,13 @@
     "matched_title": "Allora balliamo",
     "method": "ai",
     "confidence": 100.0
+  },
+  {
+    "raw_title": "BIANCA",
+    "tmdb_id": 15014,
+    "matched_title": "Bianca",
+    "method": "ai",
+    "confidence": 95.0
   },
   {
     "raw_title": "V.O. SOTT. ITA- IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
@@ -390,5 +383,12 @@
     "matched_title": "The Mandalorian and Grogu",
     "method": "ai",
     "confidence": 100.0
+  },
+  {
+    "raw_title": "OBSESSION",
+    "tmdb_id": 1339713,
+    "matched_title": "Obsession",
+    "method": "ai",
+    "confidence": 95.0
   }
 ]
