@@ -6,8 +6,8 @@
 - id: beltrade
   name: Cinema Beltrade
   address: Via Nino Oxilia 10, 20127 Milano
-  lat: 45.49234
-  lng: 9.21485
+  lat: 45.49247
+  lng: 9.21489
   website: https://www.cinemabeltrade.net/
   neighborhood: NoLo
   category: arthouse
@@ -15,8 +15,8 @@
 - id: cineteca-arlecchino
   name: Cineteca Milano Arlecchino
   address: Via San Pietro all'Orto 9, 20121 Milano
-  lat: 45.4659
-  lng: 9.1969
+  lat: 45.46646
+  lng: 9.19532
   website: https://www.cinetecamilano.it/
   neighborhood: Centro
   category: arthouse
@@ -24,8 +24,8 @@
 - id: cineteca-mic
   name: Cineteca Milano MIC (Museo Interattivo del Cinema)
   address: Viale Fulvio Testi 121, 20162 Milano
-  lat: 45.5167
-  lng: 9.2003
+  lat: 45.51342
+  lng: 9.20404
   website: https://www.cinetecamilano.it/
   neighborhood: Bicocca
   category: museum
@@ -33,8 +33,8 @@
 - id: cineteca-metropolis
   name: Cineteca Milano Metropolis
   address: Via Oslavia 8, 20134 Milano
-  lat: 45.4836
-  lng: 9.2426
+  lat: 45.56868
+  lng: 9.16019
   website: https://www.cinetecamilano.it/
   neighborhood: Città Studi
   category: arthouse
@@ -42,8 +42,8 @@
 - id: mexico
   name: Cinema Mexico
   address: Via Savona 57, 20144 Milano
-  lat: 45.4533
-  lng: 9.1583
+  lat: 45.45292
+  lng: 9.16036
   website: https://www.cinemamexico.it/
   neighborhood: Solari
   category: arthouse
@@ -51,8 +51,8 @@
 - id: anteo
   name: Anteo Palazzo del Cinema
   address: Via Milazzo 9, 20121 Milano
-  lat: 45.4810
-  lng: 9.1869
+  lat: 45.47945
+  lng: 9.18756
   website: https://anteospaziocinema.com/
   neighborhood: Moscova
   category: arthouse
@@ -60,8 +60,8 @@
 - id: ariosto
   name: Ariosto Anteo spazioCinema
   address: Via Ludovico Ariosto 16, 20145 Milano
-  lat: 45.4709
-  lng: 9.1648
+  lat: 45.46906
+  lng: 9.16602
   website: https://anteospaziocinema.com/
   neighborhood: Conciliazione
   category: arthouse
@@ -69,8 +69,8 @@
 - id: citylife-anteo
   name: CityLife Anteo
   address: Piazza Tre Torri 1, 20145 Milano
-  lat: 45.4787
-  lng: 9.1561
+  lat: 45.47846
+  lng: 9.15458
   website: https://anteospaziocinema.com/
   neighborhood: CityLife
   category: arthouse
@@ -78,8 +78,8 @@
 - id: cinemino
   name: Il Cinemino
   address: Via Seneca 6, 20137 Milano
-  lat: 45.4561
-  lng: 9.2123
+  lat: 45.45412
+  lng: 9.20833
   website: https://www.ilcinemino.it/
   neighborhood: Porta Romana
   category: arthouse
@@ -87,8 +87,8 @@
 - id: godard
   name: Cinema Godard – Fondazione Prada
   address: Largo Isarco 2, 20139 Milano
-  lat: 45.4452
-  lng: 9.2236
+  lat: 45.444
+  lng: 9.20541
   website: https://www.fondazioneprada.org/cinema-godard/
   neighborhood: Scalo Romana
   category: museum
@@ -96,8 +96,8 @@
 - id: centrale
   name: Multisala Centrale
   address: Via Torino 30/32, 20123 Milano
-  lat: 45.4615
-  lng: 9.1857
+  lat: 45.46095
+  lng: 9.18444
   website: https://www.multisalacentrale.it/
   neighborhood: Centro
   category: multiplex
@@ -106,8 +106,8 @@
 - id: arianteo-incoronata
   name: AriAnteo Incoronata
   address: Corso Garibaldi 116, 20121 Milano
-  lat: 45.4830
-  lng: 9.1855
+  lat: 45.47254
+  lng: 9.18383
   website: https://anteospaziocinema.com/
   neighborhood: Garibaldi
   category: openair
@@ -115,8 +115,8 @@
 - id: arianteo-palazzoreale
   name: AriAnteo Palazzo Reale
   address: Piazza del Duomo 12, 20122 Milano
-  lat: 45.4628
-  lng: 9.1916
+  lat: 45.46317
+  lng: 9.19112
   website: https://anteospaziocinema.com/
   neighborhood: Duomo
   category: openair
@@ -124,8 +124,8 @@
 - id: arianteo-villareale
   name: AriAnteo Villa Reale
   address: Via Palestro 16, 20121 Milano
-  lat: 45.4725
-  lng: 9.2008
+  lat: 45.47253
+  lng: 9.19968
   website: https://anteospaziocinema.com/
   neighborhood: Porta Venezia
   category: openair
@@ -133,8 +133,8 @@
 - id: arianteo-fabbricadelvapore
   name: AriAnteo Fabbrica del Vapore
   address: Via Giulio Cesare Procaccini 4, 20154 Milano
-  lat: 45.4869
-  lng: 9.1707
+  lat: 45.48399
+  lng: 9.17538
   website: https://anteospaziocinema.com/
   neighborhood: Chinatown
   category: openair
@@ -143,8 +143,8 @@
 - id: arcobaleno
   name: Arcobaleno Filmcenter
   address: Viale Tunisia 11, 20124 Milano
-  lat: 45.47720
-  lng: 9.20525
+  lat: 45.47725
+  lng: 9.20531
   website: https://cinenauta.it/
   neighborhood: Porta Venezia
   category: arthouse
@@ -152,8 +152,8 @@
 - id: ducale
   name: Cinema Ducale
   address: Piazza Napoli 27, 20146 Milano
-  lat: 45.45225
-  lng: 9.15473
+  lat: 45.45245
+  lng: 9.15467
   website: https://cinenauta.it/
   neighborhood: Piazza Napoli
   category: arthouse
@@ -161,8 +161,8 @@
 - id: plinius
   name: Multisala Plinius
   address: Viale Abruzzi 28/30, 20131 Milano
-  lat: 45.47762
-  lng: 9.21739
+  lat: 45.47438
+  lng: 9.21732
   website: https://www.multisalaplinius.com/
   neighborhood: Loreto
   category: multiplex
@@ -170,8 +170,8 @@
 - id: orfeo
   name: Cinema Orfeo
   address: Viale Coni Zugna 50, 20144 Milano
-  lat: 45.45688
-  lng: 9.16908
+  lat: 45.45695
+  lng: 9.16933
   website: https://www.cinemaorfeo.it/
   neighborhood: Tortona
   category: multiplex
@@ -180,7 +180,7 @@
   name: Cinema Colosseo
   address: Viale Monte Nero 84, 20135 Milano
   lat: 45.46164
-  lng: 9.20788
+  lng: 9.20794
   website: https://www.cinemacolosseo.it/
   neighborhood: Porta Romana
   category: arthouse
@@ -189,7 +189,7 @@
   name: Cinema Eliseo Multisala
   address: Via Torino 64, 20123 Milano
   lat: 45.46077
-  lng: 9.18264
+  lng: 9.18254
   website: https://www.cinemaeliseo.com/
   neighborhood: Centro
   category: multiplex
@@ -197,8 +197,8 @@
 - id: san-fedele
   name: Cinema San Fedele
   address: Via Hoepli 3, 20121 Milano
-  lat: 45.46626
-  lng: 9.19220
+  lat: 45.46634
+  lng: 9.19223
   website: https://www.sanfedele.net/
   neighborhood: Centro
   category: museum
@@ -206,8 +206,8 @@
 - id: notorious-gloria
   name: Notorious Cinemas Gloria
   address: Corso Vercelli 18, 20144 Milano
-  lat: 45.46648
-  lng: 9.16175
+  lat: 45.46655
+  lng: 9.16186
   website: https://www.notoriouscinemas.it/
   neighborhood: Corso Vercelli
   category: multiplex
@@ -215,8 +215,8 @@
 - id: uci-bicocca
   name: UCI Cinemas Bicocca
   address: Viale Sarca 336, 20126 Milano
-  lat: 45.52194
-  lng: 9.21614
+  lat: 45.52185
+  lng: 9.21579
   website: https://www.ucicinemas.it/
   neighborhood: Bicocca
   category: multiplex
@@ -224,8 +224,27 @@
 - id: cinelandia-certosa
   name: Cinelandia Milano Certosa
   address: Via Giovanni Gentile 3, 20157 Milano
-  lat: 45.5101
-  lng: 9.1530
+  lat: 45.50964
+  lng: 9.12815
   website: https://www.webtic.it/
   neighborhood: Certosa
+  category: multiplex
+
+# --- mymovies fallback venues (today-only showtimes) ---
+- id: gregorianum
+  name: Cinema Gregorianum
+  address: Via Settala 27, 20124 Milano
+  lat: 45.47646
+  lng: 9.20245
+  website: https://www.mymovies.it/cinema/milano/6483/
+  neighborhood: Stazione Centrale
+  category: arthouse
+
+- id: notorious-merlata
+  name: Notorious Cinemas Merlata Bloom
+  address: Via Cesare Cantù, Merlata Bloom, 20157 Milano
+  lat: 45.51180
+  lng: 9.10860
+  website: https://www.notoriouscinemas.it/
+  neighborhood: Merlata Bloom
   category: multiplex

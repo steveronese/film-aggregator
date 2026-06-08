@@ -28,15 +28,35 @@ class GodardScraper(BaseScraper):
     default_language = Language.ORIGINAL_SUBBED
 
     def fetch(self) -> list[RawScreening]:
-        # Fondazione Prada's WAF blocks datacenter IPs (e.g. GitHub Actions), so this scraper only
-        # runs where ENABLE_HEADLESS is set (a residential IP, like a local machine). On the daily
-        # cloud cron it is skipped and run.py preserves Godard's last-known-good screenings instead.
-        if not os.environ.get("ENABLE_HEADLESS"):
-            log.info("godard: headless disabled (ENABLE_HEADLESS unset) — skipping")
+        # Fondazione Prada's WAF blocks datacenter IPs and no free aggregator carries Godard's
+        # showtimes, so we fetch the real ticketing page one of two ways:
+        #  - locally (ENABLE_HEADLESS): a real headless browser on a residential IP;
+        #  - in the cloud (SCRAPERAPI_KEY): via ScraperAPI, which renders JS through residential IPs.
+        # With neither, we skip and run.py preserves Godard's last-known-good screenings.
+        html = self._fetch_html()
+        if html is None:
             return []
-        from ..headless import render_html
+        return self._parse(BeautifulSoup(html, "html.parser"))
 
-        soup = BeautifulSoup(render_html(TICKETING_URL, wait_ms=4000), "html.parser")
+    def _fetch_html(self) -> str | None:
+        if os.environ.get("ENABLE_HEADLESS"):
+            from ..headless import render_html
+            return render_html(TICKETING_URL, wait_ms=4000)
+        key = os.environ.get("SCRAPERAPI_KEY")
+        if key:
+            import httpx
+            try:
+                r = httpx.get("https://api.scraperapi.com/", timeout=80, params={
+                    "api_key": key, "url": TICKETING_URL, "render": "true", "country_code": "it"})
+                r.raise_for_status()
+                return r.text
+            except httpx.HTTPError as e:
+                log.warning("godard: ScraperAPI fetch failed: %s", e)
+                return None
+        log.info("godard: no ENABLE_HEADLESS or SCRAPERAPI_KEY — skipping (preserved from prior run)")
+        return None
+
+    def _parse(self, soup: BeautifulSoup) -> list[RawScreening]:
         screenings: list[RawScreening] = []
         seen: set[tuple[str, str]] = set()
 

@@ -68,9 +68,8 @@ a:hover { text-decoration: underline; text-underline-offset: 2px; }
 .view-tab:hover { color: var(--text); text-decoration: none; }
 .view-tab[aria-pressed="true"] { color: var(--text); border-bottom-color: var(--accent); }
 
-/* Venue-type view */
-.venue-group { margin-bottom: 2rem; }
-.venue-group h2 { font-family: var(--serif); font-weight: 400; font-size: 1.3rem; margin: 0 0 .4rem; }
+/* Venue-type view (collapsible, reuses .day-detail summary styling) */
+.venue-group .cinema-list { padding: 0 0 1rem 1.6rem; }
 
 /* Calendar view */
 .day-detail { border-bottom: 1px solid var(--line); }

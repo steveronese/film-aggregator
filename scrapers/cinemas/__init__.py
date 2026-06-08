@@ -11,6 +11,7 @@ from .bandhi import BeltradeScraper
 from .cineteca import CinetecaScraper
 from .godard import GodardScraper
 from .manual import ManualScraper
+from .mymovies import mymovies_scrapers
 from .webtic import webtic_scrapers
 from .eighteentickets import (
     AnteoScraper,
@@ -40,4 +41,6 @@ SCRAPERS: list[type[BaseScraper]] = [
     # Webtic venues (Arcobaleno, Ducale, Plinius, Orfeo, Colosseo, Eliseo, Centrale, San Fedele,
     # Notorious Gloria, UCI Bicocca, Cinelandia Certosa) — pre-configured instances:
     *webtic_scrapers(),
+    # mymovies fallback (today-only) for gap venues: Mexico, Gregorianum, Notorious Merlata Bloom:
+    *mymovies_scrapers(),
 ]

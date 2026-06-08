@@ -80,8 +80,8 @@ const todayKey = days[0]?.[0];
   {/* VIEW: by venue type */}
   <div data-panel="venues" hidden>
     {venuesByCategory.map((cat) => (
-      <section class="venue-group">
-        <h2>{cat.label}</h2>
+      <details class="venue-group day-detail" open>
+        <summary>{cat.label} <span class="day-n">{cat.venues.length}</span></summary>
         <ul class="cinema-list">
           {cat.venues.map((v) => (
             <li class="cinema-row">
@@ -95,7 +95,7 @@ const todayKey = days[0]?.[0];
             </li>
           ))}
         </ul>
-      </section>
+      </details>
     ))}
   </div>
 

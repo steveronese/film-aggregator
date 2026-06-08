@@ -1,10 +1,24 @@
 [
   {
+    "raw_title": "BIANCA",
+    "tmdb_id": 15014,
+    "matched_title": "Bianca",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "PRINCIPESSA MONONOKE",
     "tmdb_id": 128,
     "matched_title": "Princess Mononoke",
     "method": "fuzzy",
     "confidence": 91.89189189189189
+  },
+  {
+    "raw_title": "OBSESSION",
+    "tmdb_id": 1339713,
+    "matched_title": "Obsession",
+    "method": "ai",
+    "confidence": 95.0
   },
   {
     "raw_title": "REBUILDING",
@@ -70,13 +84,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "BIANCA",
-    "tmdb_id": 15014,
-    "matched_title": "Bianca",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "V.O. SOTT. ITA- IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
     "tmdb_id": 1314481,
     "matched_title": "Il diavolo veste Prada 2",
@@ -133,6 +140,118 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA) - V. O.",
+    "tmdb_id": 1303613,
+    "matched_title": "Il silenzio degli altri",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA)",
+    "tmdb_id": 1303613,
+    "matched_title": "Il silenzio degli altri",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "THE LIGHTHOUSE",
+    "tmdb_id": 503919,
+    "matched_title": "The Lighthouse",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "MARIE ANTOINETTE",
+    "tmdb_id": 1887,
+    "matched_title": "Marie Antoinette",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "SENTIMENTAL VALUE",
+    "tmdb_id": 1124566,
+    "matched_title": "Sentimental Value",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "L'AGENTE SEGRETO",
+    "tmdb_id": 47199,
+    "matched_title": "L'agente segreto",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "SIRÂT",
+    "tmdb_id": 1151272,
+    "matched_title": "Sirāt",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "UN ANNO DI SCUOLA",
+    "tmdb_id": 1442922,
+    "matched_title": "Un anno di scuola",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "FATHER MOTHER SISTER BROTHER",
+    "tmdb_id": 1159206,
+    "matched_title": "Father Mother Sister Brother",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "NOUVELLE VAGUE",
+    "tmdb_id": 1254808,
+    "matched_title": "Nouvelle Vague",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "cime tempestose.",
+    "tmdb_id": 25095,
+    "matched_title": "Cime tempestose",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "TUTTO QUELLO CHE RESTA DI TE (ALL THAT'S LEFT OF YOU)",
+    "tmdb_id": 1219620,
+    "matched_title": "Tutto quello che resta di te",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "GIOVANI MADRI (JEUNES MÈRES)",
+    "tmdb_id": 1242015,
+    "matched_title": "Giovani madri",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "LA MIA FAMIGLIA A TAIPEI (LEFT-HANDED GIRL)",
+    "tmdb_id": 999075,
+    "matched_title": "La mia famiglia a Taipei",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "C'ERA UNA VOLTA MIA MADRE (MA MÈRE, DIEU ET SYLVIE VARTAN)",
+    "tmdb_id": 1107215,
+    "matched_title": "C'era una volta mia madre",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "VITA PRIVATA",
+    "tmdb_id": 1290432,
+    "matched_title": "Vita privata",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "(O.V.) Bts - World Tour Arirang In Busan",
     "tmdb_id": 1701849,
     "matched_title": "BTS World Tour ‘Arirang’ in Busan: Live Viewing",
@@ -180,6 +299,13 @@
     "matched_title": "Scary Movie",
     "method": "fuzzy",
     "confidence": 91.66666666666666
+  },
+  {
+    "raw_title": "Tra Amore & Inganni",
+    "tmdb_id": 1455079,
+    "matched_title": "Tra amore e inganni",
+    "method": "fuzzy",
+    "confidence": 94.44444444444444
   },
   {
     "raw_title": "Star Wars: The Mandalorian And Grogu",
@@ -238,6 +364,13 @@
     "confidence": 95.0
   },
   {
+    "raw_title": "Finche' Morte Non Ci Separi",
+    "tmdb_id": 567609,
+    "matched_title": "Finché morte non ci separi",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "Il Prigioniero",
     "tmdb_id": 617743,
     "matched_title": "Il prigioniero",
@@ -283,6 +416,27 @@
     "raw_title": "Masters Of The Universe",
     "tmdb_id": 11649,
     "matched_title": "I dominatori dell'universo",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "SCARY MOVIE",
+    "tmdb_id": 1273221,
+    "matched_title": "Scary Movie",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "MASTERS OF THE UNIVERSE",
+    "tmdb_id": 11649,
+    "matched_title": "I dominatori dell'universo",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "STAR WARS - THE MANDALORIAN AND GROGU",
+    "tmdb_id": 1228710,
+    "matched_title": "The Mandalorian and Grogu",
     "method": "ai",
     "confidence": 100.0
   }
