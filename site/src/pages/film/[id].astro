@@ -15,12 +15,6 @@ const cinemas = cinemasById();
 const films = filmsById();
 const poster = posterUrl(film.poster_path, 'w500');
 
-const meta = [
-  film.year,
-  film.runtime ? `${film.runtime} min` : null,
-  film.director ? `regia di ${film.director}` : null,
-].filter(Boolean).join(' · ');
-
 const showsOriginal = film.original_title && film.original_title !== film.title;
 ---
 
@@ -32,21 +26,25 @@ const showsOriginal = film.original_title && film.original_title !== film.title;
         : <div class="poster-fallback">{film.title}</div>}
     </div>
     <div>
-      <h1>{film.title}</h1>
-      {showsOriginal && <p class="tagline">Titolo originale: {film.original_title}</p>}
-      <p class="tagline">{meta}</p>
+      <h1 data-it={film.title} data-en={film.title_en ?? film.title}>{film.title}</h1>
+      {showsOriginal && <p class="tagline"><span data-i18n="film.originalTitle">Titolo originale:</span> {film.original_title}</p>}
+      <p class="tagline">
+        {film.year}{film.runtime != null && <> · {film.runtime} <span data-i18n="unit.min">min</span></>}{film.director && <> · <span data-i18n="film.directedBy">regia di</span> {film.director}</>}
+      </p>
       {film.genres.length > 0 && (
         <div class="chiprow">{film.genres.map((g) => <span class="tag">{g}</span>)}</div>
       )}
-      {film.overview && <p class="overview">{film.overview}</p>}
-      <p><a class="backlink" href={`https://www.themoviedb.org/movie/${film.tmdb_id}`} target="_blank" rel="noopener">Scheda su TMDB ↗</a></p>
+      {(film.overview || film.overview_en) && (
+        <p class="overview" data-it={film.overview ?? ''} data-en={film.overview_en ?? film.overview ?? ''}>{film.overview ?? film.overview_en}</p>
+      )}
+      <p><a class="backlink" href={`https://www.themoviedb.org/movie/${film.tmdb_id}`} target="_blank" rel="noopener" data-i18n="film.tmdb">Scheda su TMDB ↗</a></p>
     </div>
   </div>
 
   <section class="sched">
-    <h2>Proiezioni a Milano</h2>
+    <h2 data-i18n="film.screeningsInMilan">Proiezioni a Milano</h2>
     <ScreeningList screenings={scr} cinemas={cinemas} films={films} show="film" />
   </section>
 
-  <a class="backlink" href="/">← Tutti i film</a>
+  <a class="backlink" href="/" data-i18n="back.films">← Tutti i film</a>
 </Layout>

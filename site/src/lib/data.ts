@@ -25,6 +25,8 @@ export interface Film {
   year?: number | null;
   poster_path?: string | null;
   overview?: string | null;
+  title_en?: string | null;
+  overview_en?: string | null;
   runtime?: number | null;
   director?: string | null;
   genres: string[];

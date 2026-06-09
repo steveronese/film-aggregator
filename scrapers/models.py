@@ -63,6 +63,8 @@ class Film(BaseModel):
     year: int | None = None
     poster_path: str | None = None  # TMDB image path, e.g. "/abc.jpg"
     overview: str | None = None
+    title_en: str | None = None      # English title + overview, for the EN version of the site
+    overview_en: str | None = None
     runtime: int | None = None
     director: str | None = None
     genres: list[str] = Field(default_factory=list)

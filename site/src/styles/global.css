@@ -50,6 +50,11 @@ a:hover { text-decoration: underline; text-underline-offset: 2px; }
   text-transform: uppercase; letter-spacing: .12em;
 }
 .site-nav a:hover { color: var(--text); text-decoration: none; }
+.lang-switch { display: inline-flex; align-items: center; }
+.lang-switch button { border: 0; background: none; cursor: pointer; font: inherit; color: var(--faint); font-size: .72rem; font-weight: 600; letter-spacing: .1em; padding: 0 .25rem; }
+.lang-switch button + button { border-left: 1px solid var(--line-strong); }
+.lang-switch button[aria-pressed="true"] { color: var(--text); }
+.lang-switch button:hover { color: var(--text); }
 
 .site-footer {
   border-top: 1px solid var(--line); color: var(--muted); font-size: .8rem;

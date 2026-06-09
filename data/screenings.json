@@ -1,25 +1,5 @@
 [
   {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1088548,
-    "raw_title": "Amarga Navidad",
-    "start": "2026-06-09T14:00:00",
-    "hall": "13",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1215532,
-    "raw_title": "Hopper E Il Segreto Della Marmotta",
-    "start": "2026-06-09T14:00:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
     "cinema_id": "notorious-merlata",
     "tmdb_id": 1325734,
     "raw_title": "THE DRAMA - UN SEGRETO È PER SEMPRE",
@@ -7210,6 +7190,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1275779,
+    "raw_title": "Disclosure Day",
+    "start": "2026-06-13T13:10:00",
+    "hall": "16",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 1182861,
     "raw_title": "ROMERÍA - IL MARE DEI RICORDI",
@@ -7518,6 +7508,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1275779,
+    "raw_title": "Disclosure Day",
+    "start": "2026-06-13T16:20:00",
+    "hall": "16",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "cineteca-arlecchino",
@@ -8310,6 +8310,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1273221,
+    "raw_title": "Scary Movie (2026)",
+    "start": "2026-06-13T22:50:00",
+    "hall": "16",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1275779,
     "raw_title": "DISCLOSURE DAY",
@@ -8388,6 +8398,16 @@
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/88324/7f125dd4-f64a-437d-8f57-e8a208534642#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1275779,
+    "raw_title": "Disclosure Day",
+    "start": "2026-06-14T10:30:00",
+    "hall": "16",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "beltrade",
@@ -8470,6 +8490,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1275779,
+    "raw_title": "(Sala XL) Disclosure Day",
+    "start": "2026-06-14T12:30:00",
+    "hall": "SALA 2 XL",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1462322,
     "raw_title": "LE CITTÀ DI PIANURA",
@@ -8518,6 +8548,16 @@
     "language": "original_subbed",
     "booking_url": null,
     "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1275779,
+    "raw_title": "Disclosure Day",
+    "start": "2026-06-14T14:00:00",
+    "hall": "16",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "cinelandia-certosa",
@@ -8928,6 +8968,16 @@
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/88138/9ffc6ac3-65bf-4535-a3e2-6dba93119a49#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1273221,
+    "raw_title": "Scary Movie (2026)",
+    "start": "2026-06-14T17:10:00",
+    "hall": "16",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "anteo",
@@ -9565,6 +9615,16 @@
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-14T22:20:00",
     "hall": "SALA 2 XL",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1273221,
+    "raw_title": "Scary Movie (2026)",
+    "start": "2026-06-14T22:50:00",
+    "hall": "16",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"

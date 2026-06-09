@@ -30,11 +30,11 @@ const n = sorted.length;
     {poster
       ? <img src={poster} alt={`Locandina di ${film.title}`} loading="lazy" />
       : <div class="poster-fallback">{film.title}</div>}
-    {hasVO === '1' && <span class="badge">VO</span>}
+    {hasVO === '1' && <span class="badge" data-i18n="lang.ov">VO</span>}
   </div>
-  <h3>{film.title}</h3>
+  <h3 data-it={film.title} data-en={film.title_en ?? film.title}>{film.title}</h3>
   <p class="sub">{[film.year, film.director].filter(Boolean).join(' · ')}</p>
   {next && (
-    <p class="next">{n} proiezion{n === 1 ? 'e' : 'i'} · <b>{fmtDayTime(next.start)}</b> · {nextCinema}</p>
+    <p class="next"><span data-count="screening" data-n={n}>{n} proiezion{n === 1 ? 'e' : 'i'}</span> · <b data-dt={next.start}>{fmtDayTime(next.start)}</b> · {nextCinema}</p>
   )}
 </a>

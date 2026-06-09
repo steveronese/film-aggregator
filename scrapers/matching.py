@@ -95,7 +95,15 @@ def _director_of(details: dict) -> str | None:
     return ", ".join(directors) or None
 
 
+def _translation(details: dict, lang: str) -> dict:
+    for t in ((details.get("translations") or {}).get("translations") or []):
+        if t.get("iso_639_1") == lang:
+            return t.get("data") or {}
+    return {}
+
+
 def _film_from_details(details: dict) -> Film:
+    en = _translation(details, "en")
     return Film(
         tmdb_id=details["id"],
         title=details.get("title") or details.get("original_title") or "",
@@ -104,6 +112,8 @@ def _film_from_details(details: dict) -> Film:
         year=_year_of(details),
         poster_path=details.get("poster_path"),
         overview=details.get("overview") or None,
+        title_en=(en.get("title") or details.get("original_title") or details.get("title") or None),
+        overview_en=(en.get("overview") or None),
         runtime=details.get("runtime") or None,
         director=_director_of(details),
         genres=[g["name"] for g in (details.get("genres") or [])],

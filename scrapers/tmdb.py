@@ -96,7 +96,7 @@ class TMDBClient:
         if cached is not None:
             return cached
         data = self._request(
-            f"/movie/{tmdb_id}", {"language": "it-IT", "append_to_response": "credits"}
+            f"/movie/{tmdb_id}", {"language": "it-IT", "append_to_response": "credits,translations"}
         )
         if data is not None:
             self._cache["movie"][key] = data

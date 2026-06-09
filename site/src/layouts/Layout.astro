@@ -27,8 +27,12 @@ const { title, description } = Astro.props;
       <div class="inner">
         <a class="brand" href="/"><b>Schermo</b>Milano <span>· i film nelle sale di Milano</span></a>
         <nav class="site-nav">
-          <a href="/">Film</a>
-          <a href="/mappa">Mappa</a>
+          <a href="/" data-i18n="nav.films">Film</a>
+          <a href="/mappa" data-i18n="nav.map">Mappa</a>
+          <span class="lang-switch">
+            <button type="button" data-lang-btn="it">IT</button>
+            <button type="button" data-lang-btn="en">EN</button>
+          </span>
         </nav>
       </div>
     </header>
@@ -36,11 +40,51 @@ const { title, description } = Astro.props;
       <slot />
     </main>
     <footer class="site-footer">
-      <p>
-        Dati dei film da <a href="https://www.themoviedb.org/">TMDB</a>. Questo prodotto
-        usa le API di TMDB ma non è approvato né certificato da TMDB.
-      </p>
-      <p>Orari e programmazione possono cambiare: verifica sempre sul sito della sala prima di andare.</p>
+      <p><span data-i18n="footer.tmdb">Dati dei film da TMDB. Questo prodotto usa le API di TMDB ma non è approvato né certificato da TMDB.</span> <a href="https://www.themoviedb.org/">TMDB</a></p>
+      <p data-i18n="footer.disclaimer">Orari e programmazione possono cambiare: verifica sempre sul sito della sala prima di andare.</p>
     </footer>
+
+    <script>
+      import { UI } from '../lib/i18n';
+      type Lang = 'it' | 'en';
+      const dateFmt: Record<Lang, Intl.DateTimeFormat> = {
+        it: new Intl.DateTimeFormat('it-IT', { weekday: 'long', day: 'numeric', month: 'long' }),
+        en: new Intl.DateTimeFormat('en-GB', { weekday: 'long', day: 'numeric', month: 'long' }),
+      };
+      const dtFmt: Record<Lang, Intl.DateTimeFormat> = {
+        it: new Intl.DateTimeFormat('it-IT', { weekday: 'short', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' }),
+        en: new Intl.DateTimeFormat('en-GB', { weekday: 'short', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' }),
+      };
+      function apply(lang: Lang) {
+        const dict = UI[lang];
+        localStorage.setItem('lang', lang);
+        document.documentElement.lang = lang;
+        document.querySelectorAll<HTMLElement>('[data-i18n]').forEach((el) => {
+          const v = dict[el.dataset.i18n!];
+          if (v != null) el.textContent = v;
+        });
+        document.querySelectorAll<HTMLElement>('[data-en]').forEach((el) => {
+          el.textContent = (lang === 'en' && el.dataset.en) ? el.dataset.en : (el.dataset.it ?? el.textContent ?? '');
+        });
+        document.querySelectorAll<HTMLElement>('[data-date]').forEach((el) => {
+          el.textContent = dateFmt[lang].format(new Date(el.dataset.date! + 'T00:00:00'));
+        });
+        document.querySelectorAll<HTMLElement>('[data-dt]').forEach((el) => {
+          el.textContent = dtFmt[lang].format(new Date(el.dataset.dt!));
+        });
+        document.querySelectorAll<HTMLElement>('[data-count]').forEach((el) => {
+          const n = Number(el.dataset.n || '0');
+          el.textContent = `${n} ${dict[`unit.${el.dataset.count}${n === 1 ? '' : 's'}`] ?? ''}`;
+        });
+        document.querySelectorAll<HTMLElement>('[data-lang-btn]').forEach((b) =>
+          b.setAttribute('aria-pressed', String(b.dataset.langBtn === lang)));
+        (window as any).__lang = lang;
+        document.dispatchEvent(new CustomEvent('langchange', { detail: lang }));
+      }
+      const saved = localStorage.getItem('lang');
+      document.querySelectorAll<HTMLElement>('[data-lang-btn]').forEach((b) =>
+        b.addEventListener('click', () => apply(b.dataset.langBtn as Lang)));
+      apply(saved === 'en' ? 'en' : 'it');
+    </script>
   </body>
 </html>

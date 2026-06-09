@@ -15,7 +15,7 @@ const cinemas = getCinemas()
     lng: c.lng,
     count: (byCinema.get(c.id) ?? []).length,
   }))
-  // active venues first, then alphabetical
+  .filter((c) => c.count > 0) // only venues with upcoming screenings (hide closed/off-season)
   .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
 
 const CATEGORY_LABEL: Record<string, string> = {
@@ -25,11 +25,11 @@ const CATEGORY_LABEL: Record<string, string> = {
 
 <Layout title="Mappa dei cinema — SchermoMilano" description="I cinema di Milano sulla mappa, con quelli più vicini a te.">
   <section class="intro">
-    <h1>I cinema sulla mappa</h1>
-    <p>Tutte le sale di Milano. Premi “Trova i cinema vicino a te” per ordinarle per distanza.</p>
+    <h1 data-i18n="map.title">I cinema sulla mappa</h1>
+    <p data-i18n="map.intro">Tutte le sale di Milano. Premi “Trova i cinema vicino a te” per ordinarle per distanza.</p>
   </section>
 
-  <button class="control" id="locate">📍 Trova i cinema vicino a te</button>
+  <button class="control" id="locate">📍 <span data-i18n="map.locate">Trova i cinema vicino a te</span></button>
   <p class="count" id="geo-status"></p>
 
   <div id="map"></div>
@@ -40,9 +40,9 @@ const CATEGORY_LABEL: Record<string, string> = {
         <a href={`/cinema/${c.id}`}>
           <span class="name">{c.name}</span>
           <span class="meta">
-            {[c.category ? CATEGORY_LABEL[c.category] ?? c.category : null, c.neighborhood]
-              .filter(Boolean).join(' · ')}
-            {c.count > 0 ? ` · ${c.count} proiezioni` : ' · nessuna proiezione'}
+            {c.category && <span data-i18n={`cat.${c.category}`}>{CATEGORY_LABEL[c.category] ?? c.category}</span>}
+            {c.neighborhood && <>{' · '}{c.neighborhood}</>}
+            {' · '}<span data-count="screening" data-n={c.count}>{c.count} proiezioni</span>
           </span>
         </a>
         <span class="dist" hidden></span>

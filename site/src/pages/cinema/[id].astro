@@ -25,16 +25,16 @@ const mapsUrl = cinema.address
       <h1>{cinema.name}</h1>
       <p class="tagline">{[cinema.neighborhood, cinema.address].filter(Boolean).join(' · ')}</p>
       <div class="chiprow">
-        {cinema.website && <a class="tag" href={cinema.website} target="_blank" rel="noopener">Sito ufficiale ↗</a>}
-        {mapsUrl && <a class="tag" href={mapsUrl} target="_blank" rel="noopener">Mappa ↗</a>}
+        {cinema.website && <a class="tag" href={cinema.website} target="_blank" rel="noopener" data-i18n="cinema.website">Sito ufficiale ↗</a>}
+        {mapsUrl && <a class="tag" href={mapsUrl} target="_blank" rel="noopener" data-i18n="cinema.map">Mappa ↗</a>}
       </div>
     </div>
   </div>
 
   <section class="sched">
-    <h2>In programmazione</h2>
+    <h2 data-i18n="cinema.nowShowing">In programmazione</h2>
     <ScreeningList screenings={scr} cinemas={cinemas} films={films} show="cinema" />
   </section>
 
-  <a class="backlink" href="/">← Tutti i film</a>
+  <a class="backlink" href="/" data-i18n="back.films">← Tutti i film</a>
 </Layout>
