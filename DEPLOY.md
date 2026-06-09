@@ -53,6 +53,21 @@ Cinema Godard (Fondazione Prada) and museum film screenings can't be auto-scrape
 That's it. No terminal, no local setup. The build merges your entries into the live site within
 minutes. Repeat whenever Godard/museums update their programmes.
 
+## Cinema Godard auto-refresh (launchd, on this Mac)
+
+Fondazione Prada blocks Godard from all cloud/datacenter IPs, so it's refreshed by a weekly job on
+this Mac (residential IP), set up once and hands-off thereafter:
+
+- **Script:** `scripts/weekly_refresh.sh` — scrapes every venue incl. Godard (Playwright, via
+  `ENABLE_HEADLESS=1` in `.env`), commits, and pushes through an SSH **deploy key**
+  (`~/.ssh/schermomilano_deploy`, registered on the repo) → Cloudflare redeploys.
+- **Schedule:** `~/Library/LaunchAgents/com.schermomilano.refresh.plist` (copy in `scripts/`),
+  Sundays 13:00. launchd runs missed jobs on next wake, so it works whenever the Mac is on.
+- **Logs:** `/tmp/schermomilano-refresh.log`. Manage with
+  `launchctl unload/load ~/Library/LaunchAgents/com.schermomilano.refresh.plist`.
+
+Between refreshes, `run.py`'s last-known-good preservation keeps Godard's existing screenings live.
+
 ## Notes
 - The daily cloud job **skips headless Chromium** (Godard only works from residential IPs anyway).
   Manual entries in `manual_screenings.yaml` keep Godard live forever.
