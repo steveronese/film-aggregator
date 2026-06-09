@@ -1,17 +1,5 @@
 [
   {
-    "raw_title": "KEEP CALM",
-    "raw_year": null,
-    "cinema_id": "beltrade",
-    "occurrences": 8
-  },
-  {
-    "raw_title": "LA GOCCIA",
-    "raw_year": null,
-    "cinema_id": "cineteca-metropolis",
-    "occurrences": 1
-  },
-  {
     "raw_title": "NO GOOD MEN",
     "raw_year": null,
     "cinema_id": "cineteca-metropolis",
@@ -30,9 +18,21 @@
     "occurrences": 1
   },
   {
+    "raw_title": "DIAZ - NON PULITE QUESTO SANGUE",
+    "raw_year": null,
+    "cinema_id": "cineteca-mic",
+    "occurrences": 2
+  },
+  {
     "raw_title": "UGO LA PIETRA. SISTEMA DISEQUILIBRANTE",
     "raw_year": null,
     "cinema_id": "cineteca-arlecchino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "PER UNA PACE POSSIBILE",
+    "raw_year": null,
+    "cinema_id": "cineteca-metropolis",
     "occurrences": 1
   },
   {
@@ -48,13 +48,13 @@
     "occurrences": 1
   },
   {
-    "raw_title": "V.O.SOTT.ITA CLARA",
+    "raw_title": "V.O. SOTT.ITA - ROMERÌA - IL MARE DI RICORDI",
     "raw_year": null,
     "cinema_id": "anteo",
-    "occurrences": 1
+    "occurrences": 11
   },
   {
-    "raw_title": "V.O. SOTT.ITA - ROMERÌA - IL MARE DI RICORDI",
+    "raw_title": "V.O.SOTT.ITA CLARA",
     "raw_year": null,
     "cinema_id": "anteo",
     "occurrences": 1
@@ -66,21 +66,81 @@
     "occurrences": 1
   },
   {
-    "raw_title": "UN SEMPLICE INCIDENTE (A SIMPLE ACCIDENT)",
-    "raw_year": null,
-    "cinema_id": "ariosto",
-    "occurrences": 1
-  },
-  {
     "raw_title": "NO GOOD MEN",
     "raw_year": null,
     "cinema_id": "ariosto",
-    "occurrences": 1
+    "occurrences": 4
   },
   {
     "raw_title": "PRINCIPESSA MONONOKE 4K (RIED. 2026)",
     "raw_year": null,
     "cinema_id": "citylife-anteo",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "NO GOOD MEN",
+    "raw_year": null,
+    "cinema_id": "citylife-anteo",
+    "occurrences": 7
+  },
+  {
+    "raw_title": "NO GOOD MEN - V. O.",
+    "raw_year": null,
+    "cinema_id": "cinemino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "DIAZ - NON PULIRE QUESTO SANGUE (RIED. 2026)",
+    "raw_year": null,
+    "cinema_id": "cinemino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "A QUALCUNO PIACE CALDO (ED. REST.)",
+    "raw_year": null,
+    "cinema_id": "cinemino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "LO ZIO BOONMEE CHE SI RICORDA DELLE SUE VITE PRECEDENTI",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 2
+  },
+  {
+    "raw_title": "NO GOOD MEN",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 2
+  },
+  {
+    "raw_title": "IL LAVORO DEI GIORNI E DELLE NOTTI INCONTRO CON FABRICE ARAGNO",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "LE LAC + TALK CON FABRICE ARAGNO",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "L'INGANNO",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "MASTERCLASS SOFIA COPPOLA",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "ITALIA: ULTIMO ATTO? + TALK CON LUC MERENDA",
+    "raw_year": null,
+    "cinema_id": "godard",
     "occurrences": 1
   },
   {
@@ -93,7 +153,7 @@
     "raw_title": "Backrooms Vm14",
     "raw_year": null,
     "cinema_id": "arcobaleno",
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "raw_title": "La Cronologia Dell'Acqua + Live",
@@ -105,19 +165,19 @@
     "raw_title": "Obsession Vm14",
     "raw_year": null,
     "cinema_id": "arcobaleno",
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "raw_title": "(O.V.) Principessa Mononoke (Ried. 2026)",
     "raw_year": null,
     "cinema_id": "ducale",
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "raw_title": "Obsession Vm14",
     "raw_year": null,
     "cinema_id": "ducale",
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "raw_title": "Principessa Mononoke (Ried. 2026) 4k",
@@ -135,25 +195,25 @@
     "raw_title": "Backrooms (Vm14)",
     "raw_year": null,
     "cinema_id": "orfeo",
-    "occurrences": 4
+    "occurrences": 2
   },
   {
     "raw_title": "(O.V.) Backrooms Vm14",
     "raw_year": null,
     "cinema_id": "colosseo",
-    "occurrences": 3
+    "occurrences": 2
   },
   {
     "raw_title": "(O.V.) Obsession V.M.14",
     "raw_year": null,
     "cinema_id": "colosseo",
-    "occurrences": 9
+    "occurrences": 7
   },
   {
     "raw_title": "Backrooms Vm14",
     "raw_year": null,
     "cinema_id": "colosseo",
-    "occurrences": 8
+    "occurrences": 6
   },
   {
     "raw_title": "La Storia Della Principessa - Comics",
@@ -165,7 +225,7 @@
     "raw_title": "No Good Men",
     "raw_year": null,
     "cinema_id": "eliseo",
-    "occurrences": 3
+    "occurrences": 2
   },
   {
     "raw_title": "Notorious Cult - Disclosure Day",
@@ -183,7 +243,7 @@
     "raw_title": "(O.V.) Stand By Me 40° Ann.",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 3
+    "occurrences": 2
   },
   {
     "raw_title": "(O.V.) The Doors (Ried. 2026)",
@@ -195,7 +255,7 @@
     "raw_title": "(Sala XL) Backrooms",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 7
+    "occurrences": 4
   },
   {
     "raw_title": "(Sala XL) Disclosure Day",
@@ -219,7 +279,7 @@
     "raw_title": "(Sala XL) Scary Movie (2026)",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 5
+    "occurrences": 3
   },
   {
     "raw_title": "(Sala XL) Supergirl",
@@ -267,13 +327,13 @@
     "raw_title": "Principessa Mononoke (Ried. 2026)",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 5
+    "occurrences": 3
   },
   {
     "raw_title": "Stand By Me - Ricordo Di Un'Estate 40°",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 6
+    "occurrences": 4
   },
   {
     "raw_title": "The Doors (Ried. 2026)",
@@ -291,7 +351,7 @@
     "raw_title": "Atmos - Masters Of The Universe",
     "raw_year": null,
     "cinema_id": "cinelandia-certosa",
-    "occurrences": 4
+    "occurrences": 2
   },
   {
     "raw_title": "Atmos - Supergirl",
@@ -303,22 +363,22 @@
     "raw_title": "Obsession Vm14",
     "raw_year": null,
     "cinema_id": "cinelandia-certosa",
-    "occurrences": 6
+    "occurrences": 4
   },
   {
     "raw_title": "Principessa Mononoke 4k",
     "raw_year": null,
     "cinema_id": "cinelandia-certosa",
-    "occurrences": 6
+    "occurrences": 4
   },
   {
     "raw_title": "Stand By Me - Ricordo Di Un'Estate 40°",
     "raw_year": null,
     "cinema_id": "cinelandia-certosa",
-    "occurrences": 6
+    "occurrences": 4
   },
   {
-    "raw_title": "NO GOOD MEN",
+    "raw_title": "MANAS - SORELLE",
     "raw_year": null,
     "cinema_id": "mexico",
     "occurrences": 1
