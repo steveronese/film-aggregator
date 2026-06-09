@@ -71,6 +71,43 @@ class AIMatcher:
         self._dirty = True
         return tmdb_id, conf
 
+    def extract_title(self, raw_title: str) -> dict | None:
+        """Robust fallback: have the LLM strip a messy listing down to the film's canonical title
+        (+ year) so we can re-search TMDB. Returns {"title", "year"} (title="" if it's not a film),
+        or None on error. Cached."""
+        key = "::extract::" + raw_title.lower()
+        if key in self._cache:
+            return self._cache[key]
+        if not self.enabled:
+            return None
+        prompt = (
+            "A raw cinema listing title (Italian) is given. Extract ONLY the film's canonical title, "
+            "removing hall/format/edition/event tags such as 'Sala XL', '3D', 'IMAX', 'Vm14', 'Ried.', "
+            "'4K', 'Ed. Rest.', anniversary marks ('40°'), and add-ons ('+ Talk con …', '+ Live', "
+            "'Masterclass …', 'Incontro con …'). Keep any foreign original title shown in parentheses. "
+            "If the listing is NOT a film (an exhibition, masterclass, or talk), return an empty title.\n"
+            f'Listing: "{raw_title}"\n'
+            'Reply ONLY JSON {"title": "<clean title or empty>", "year": <year shown or null>}.'
+        )
+        try:
+            resp = self._client.post(
+                f"{BASE_URL}/chat/completions",
+                headers={"Authorization": f"Bearer {self.api_key}"},
+                json={"model": MODEL, "messages": [{"role": "user", "content": prompt}],
+                      "temperature": 0, "response_format": {"type": "json_object"}},
+            )
+            resp.raise_for_status()
+            data = json.loads(resp.json()["choices"][0]["message"]["content"])
+            title = (data.get("title") or "").strip()
+            year = data.get("year")
+            result = {"title": title, "year": year if isinstance(year, int) else None}
+        except (httpx.HTTPError, KeyError, IndexError, json.JSONDecodeError) as exc:
+            log.warning("AI extract failed for %r: %s", raw_title, exc)
+            return None
+        self._cache[key] = result
+        self._dirty = True
+        return result
+
     def _ask(self, listing_title: str, candidates: list[dict]) -> dict | None:
         lines = []
         for c in candidates[:8]:
