@@ -47,6 +47,15 @@ _NOISE = re.compile(
     re.IGNORECASE,
 )
 
+# Hall / projection-format tags that get prepended to titles (e.g. "(Sala XL) Backrooms",
+# "3d - Supergirl", "Atmos - Disclosure Day", "(Xl - Kor) BTS ..."). Stripped before matching.
+# Kept narrow so it never eats a real title word.
+_FORMAT = re.compile(
+    r"\b(sala\s+\w+|schermo\s+\w+|imax|4dx|screenx|3d|2d|hfr|atmos|dolby(\s+atmos)?|"
+    r"vip|gold|\bxl\b|\bkor\b|\borig\b)\b",
+    re.IGNORECASE,
+)
+
 
 def normalize_title(title: str) -> str:
     """Lowercase, strip accents and listing noise, drop trailing year, collapse punctuation."""
@@ -54,6 +63,7 @@ def normalize_title(title: str) -> str:
     text = "".join(c for c in text if not unicodedata.combining(c))
     text = text.lower()
     text = _NOISE.sub(" ", text)
+    text = _FORMAT.sub(" ", text)
     text = re.sub(r"[\(\[]\s*\d{4}\s*[\)\]]", " ", text)  # "(2023)"
     text = re.sub(r"\b(19|20)\d{2}\b", " ", text)          # bare year
     text = re.sub(r"[^a-z0-9]+", " ", text)
