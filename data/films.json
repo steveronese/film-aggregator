@@ -1,14 +1,123 @@
 [
   {
-    "tmdb_id": 1211442,
-    "title": "Rebuilding",
-    "original_title": "Rebuilding",
-    "italian_title": "Rebuilding",
-    "year": 2025,
-    "poster_path": "/jBRtwR4m0CQRKrSyYT0NHhSKFlv.jpg",
-    "overview": "Un incendio ha appena distrutto il suo ranch familiare di duecento settanta acri: tutte le sue amate mucche vanno vendute. Il giovane Dusty, strappato al suo amato allevamento, vive come un reduce di sé stesso, arrangiandosi con lavoretti a giornata. Cowboy malinconico e solitario, dorme in una piccola roulotte allestita in un campo emergenze dove, giorno dopo giorno, combattendo l'iniziale ritrosia, inizia a solidarizzare con le altre persone sfollate. Nel frattempo, intanto, è chiamato a ricucire i rapporti con la piccola Callie-Rose avuta dall'ex compagna Ruby, senza smettere di sognare, però, di riaprire un giorno la sua fattoria, ripiantare tutti gli alberi e lasciarci pascolare di nuovo gli animali.",
+    "tmdb_id": 1088548,
+    "title": "Amarga Navidad",
+    "original_title": "Amarga Navidad",
+    "italian_title": "Amarga Navidad",
+    "year": 2026,
+    "poster_path": "/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
+    "overview": "Il film racconta lo stretto legame tra realtà e finzione, tra ispirazione e vita, e apre una riflessione sui limiti dell’autofinzione.",
+    "runtime": 112,
+    "director": "Pedro Almodóvar",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1370210,
+    "title": "Yalla Parkour",
+    "original_title": "يلّا باركور",
+    "italian_title": "Yalla Parkour",
+    "year": 2024,
+    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
+    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
+    "runtime": 89,
+    "director": "Areeb Zuaiter",
+    "genres": [
+      "Documentario",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 128,
+    "title": "Princess Mononoke",
+    "original_title": "もののけ姫",
+    "italian_title": "Princess Mononoke",
+    "year": 1997,
+    "poster_path": "/3alL6upCn0GX9Rp1RXtGzmJbEQa.jpg",
+    "overview": "In seguito allo scontro con un animale posseduto da un demone il principe Ashitaka viene contaminato da una maledizione mortale. Si mette dunque in viaggio per scoprirne l'origine e chiedere una cura al grande Dio Bestia, l'unico in grado di guarirlo. Arrivato nelle regioni da cui proveniva la bestia scopre una guerra tra uomini e una forma primitiva di animali della foresta, giganti, senzienti e aiutati da quella che chiamano la Principessa Spettro, una ragazza cresciuta dai lupi che ha rinnegato gli uomini. Dall'altra parte gli uomini, capitanati da Lady Eboshi che gestisce con amore, giustizia e pietà il suo villaggio di fabbri, vogliono lavorare la montagna e abbattere gli alberi per poter estrarre il ferro (fonte di ricchezza). In mezzo un gruppo di monaci cerca di fomentare gli uomini ad uccidere il Dio Bestia e rubarne la testa perchè, si dice, fornisca l'eterna giovinezza.",
+    "runtime": 134,
+    "director": "Hayao Miyazaki",
+    "genres": [
+      "Avventura",
+      "Fantasy",
+      "Animazione"
+    ]
+  },
+  {
+    "tmdb_id": 1083381,
+    "title": "Backrooms",
+    "original_title": "Backrooms",
+    "italian_title": "Backrooms",
+    "year": 2026,
+    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
+    "runtime": 111,
+    "director": "Kane Parsons",
+    "genres": [
+      "Horror",
+      "Mistero",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 1339713,
+    "title": "Obsession",
+    "original_title": "Obsession",
+    "italian_title": "Obsession",
+    "year": 2026,
+    "poster_path": "/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
+    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
+    "runtime": 108,
+    "director": "Curry Barker",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1275779,
+    "title": "Disclosure Day",
+    "original_title": "Disclosure Day",
+    "italian_title": "Disclosure Day",
+    "year": 2026,
+    "poster_path": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
+    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
+    "runtime": 146,
+    "director": "Steven Spielberg",
+    "genres": [
+      "Mistero",
+      "Fantascienza",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 15014,
+    "title": "Bianca",
+    "original_title": "Bianca",
+    "italian_title": "Bianca",
+    "year": 1984,
+    "poster_path": "/lnXZLkJ3MFgAFAiyVJGfTUykNkU.jpg",
+    "overview": "Michele è un insegnante di matematica, paranoico e solitario, vive spiando la vita di coppia dei suoi amici e conoscenti. Quando una vicina di casa verrà trovata uccisa, Michele sarà considerato tra i sospettati. Nel frattempo Michele si innamora di una collega, Bianca, che per un breve ma intenso periodo gli regalerà un po' di gioia e un certo equilibrio mentale.",
     "runtime": 96,
-    "director": "Max Walker-Silverman",
+    "director": "Nanni Moretti",
+    "genres": [
+      "Dramma",
+      "Commedia",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 1182861,
+    "title": "Romería - Il mare dei ricordi",
+    "original_title": "Romería",
+    "italian_title": "Romería - Il mare dei ricordi",
+    "year": 2025,
+    "poster_path": "/slGOQOlGlY3wnP4Vmuf4nmZUwuH.jpg",
+    "overview": "Marina, 18 anni, rimasta orfana in tenerissima età, giunge in Galizia sulle tracce della famiglia del padre biologico. Qui, mentre incontra zii, cugini e parenti mai conosciuti prima, cercherà di ricomporre i ricordi, talvolta contraddittori, dei suoi genitori e del loro amore travolgente, riportando alla luce emozioni familiari a lungo sepolte, verità non dette e ferite mai del tutto rimarginate. La regista Orso d’Oro Carla Simón gira con il ritmo dolce di una placida marea un film intenso, intimo e personale, una storia sulle radici ritrovate, sui legami familiari e su ciò che non abbiamo il coraggio di dire ad alta voce, neanche quando ce ne sarebbe un enorme bisogno.",
+    "runtime": 112,
+    "director": "Carla Simón",
     "genres": [
       "Dramma"
     ]
@@ -29,34 +138,46 @@
     ]
   },
   {
-    "tmdb_id": 1088548,
-    "title": "Amarga Navidad",
-    "original_title": "Amarga Navidad",
-    "italian_title": "Amarga Navidad",
-    "year": 2026,
-    "poster_path": "/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
-    "overview": "Il film racconta lo stretto legame tra realtà e finzione, tra ispirazione e vita, e apre una riflessione sui limiti dell’autofinzione.",
-    "runtime": 112,
-    "director": "Pedro Almodóvar",
+    "tmdb_id": 25050,
+    "title": "Still Walking - Camminando in un giorno d'estate",
+    "original_title": "歩いても 歩いても",
+    "italian_title": "Still Walking - Camminando in un giorno d'estate",
+    "year": 2008,
+    "poster_path": "/8ubHo1bokxUKHZxOAUTYzK65CbR.jpg",
+    "overview": "Fratello e sorella vanno in visita dagli anziani genitori nella casa nella quale hanno vissuto per decenni, per commemorare la tragica morte del fratello più vecchio avvenuta in un incidente quindici anni prima. A dispetto della comodità della grande casa che ospita tutti, i cambiamenti intervenuti nella vita dei familiari riuniti ridefiniscono le relazioni facendo emergere un caleidoscopio di sentimenti che vanno dall'amore al risentimento.",
+    "runtime": 114,
+    "director": "是枝裕和",
     "genres": [
       "Dramma",
-      "Commedia"
+      "Famiglia"
     ]
   },
   {
-    "tmdb_id": 128,
-    "title": "Princess Mononoke",
-    "original_title": "もののけ姫",
-    "italian_title": "Princess Mononoke",
-    "year": 1997,
-    "poster_path": "/3alL6upCn0GX9Rp1RXtGzmJbEQa.jpg",
-    "overview": "In seguito allo scontro con un animale posseduto da un demone il principe Ashitaka viene contaminato da una maledizione mortale. Si mette dunque in viaggio per scoprirne l'origine e chiedere una cura al grande Dio Bestia, l'unico in grado di guarirlo. Arrivato nelle regioni da cui proveniva la bestia scopre una guerra tra uomini e una forma primitiva di animali della foresta, giganti, senzienti e aiutati da quella che chiamano la Principessa Spettro, una ragazza cresciuta dai lupi che ha rinnegato gli uomini. Dall'altra parte gli uomini, capitanati da Lady Eboshi che gestisce con amore, giustizia e pietà il suo villaggio di fabbri, vogliono lavorare la montagna e abbattere gli alberi per poter estrarre il ferro (fonte di ricchezza). In mezzo un gruppo di monaci cerca di fomentare gli uomini ad uccidere il Dio Bestia e rubarne la testa perchè, si dice, fornisca l'eterna giovinezza.",
-    "runtime": 134,
-    "director": "Hayao Miyazaki",
+    "tmdb_id": 60732,
+    "title": "La messa è finita",
+    "original_title": "La messa è finita",
+    "italian_title": "La messa è finita",
+    "year": 1985,
+    "poster_path": "/eCdfHMyFRc5uDG2cdIOlc5rBGUd.jpg",
+    "overview": "Tornato a Roma dopo anni, don Giulio, un giovane sacerdote, viene messo a capo di una chiesa di periferia, dove ritrova famigliari e amici. I rapporti con tutti loro e con i parrocchiani, che il sacerdote non riesce ad aiutare, metteranno a dura prova la propria vocazione e la sua fede.",
+    "runtime": 94,
+    "director": "Nanni Moretti",
     "genres": [
-      "Avventura",
-      "Fantasy",
-      "Animazione"
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1211442,
+    "title": "Rebuilding",
+    "original_title": "Rebuilding",
+    "italian_title": "Rebuilding",
+    "year": 2025,
+    "poster_path": "/jBRtwR4m0CQRKrSyYT0NHhSKFlv.jpg",
+    "overview": "Un incendio ha appena distrutto il suo ranch familiare di duecento settanta acri: tutte le sue amate mucche vanno vendute. Il giovane Dusty, strappato al suo amato allevamento, vive come un reduce di sé stesso, arrangiandosi con lavoretti a giornata. Cowboy malinconico e solitario, dorme in una piccola roulotte allestita in un campo emergenze dove, giorno dopo giorno, combattendo l'iniziale ritrosia, inizia a solidarizzare con le altre persone sfollate. Nel frattempo, intanto, è chiamato a ricucire i rapporti con la piccola Callie-Rose avuta dall'ex compagna Ruby, senza smettere di sognare, però, di riaprire un giorno la sua fattoria, ripiantare tutti gli alberi e lasciarci pascolare di nuovo gli animali.",
+    "runtime": 96,
+    "director": "Max Walker-Silverman",
+    "genres": [
+      "Dramma"
     ]
   },
   {
@@ -87,22 +208,6 @@
     "director": "Mel Brooks",
     "genres": [
       "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1275779,
-    "title": "Disclosure Day",
-    "original_title": "Disclosure Day",
-    "italian_title": "Disclosure Day",
-    "year": 2026,
-    "poster_path": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
-    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
-    "runtime": 146,
-    "director": "Steven Spielberg",
-    "genres": [
-      "Mistero",
-      "Fantascienza",
-      "Thriller"
     ]
   },
   {
@@ -151,20 +256,6 @@
     ]
   },
   {
-    "tmdb_id": 1182861,
-    "title": "Romería - Il mare dei ricordi",
-    "original_title": "Romería",
-    "italian_title": "Romería - Il mare dei ricordi",
-    "year": 2025,
-    "poster_path": "/slGOQOlGlY3wnP4Vmuf4nmZUwuH.jpg",
-    "overview": "Marina, 18 anni, rimasta orfana in tenerissima età, giunge in Galizia sulle tracce della famiglia del padre biologico. Qui, mentre incontra zii, cugini e parenti mai conosciuti prima, cercherà di ricomporre i ricordi, talvolta contraddittori, dei suoi genitori e del loro amore travolgente, riportando alla luce emozioni familiari a lungo sepolte, verità non dette e ferite mai del tutto rimarginate. La regista Orso d’Oro Carla Simón gira con il ritmo dolce di una placida marea un film intenso, intimo e personale, una storia sulle radici ritrovate, sui legami familiari e su ciò che non abbiamo il coraggio di dire ad alta voce, neanche quando ce ne sarebbe un enorme bisogno.",
-    "runtime": 112,
-    "director": "Carla Simón",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1510300,
     "title": "Le bambine",
     "original_title": "Le bambine",
@@ -205,6 +296,37 @@
     "director": "Nicolas Gessner",
     "genres": [
       "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 254320,
+    "title": "The Lobster",
+    "original_title": "The Lobster",
+    "italian_title": "The Lobster",
+    "year": 2015,
+    "poster_path": "/8vW5UY7ksIphLTqEUj46ly5Wclh.jpg",
+    "overview": "Una surreale commedia romantica a tinte sci-fi che ci porta in un prossimo futuro dispotico, dove il solo fatto di essere \"single\" diventa motivo di fermo da parte delle autorità con tanto di trasferimento in una apposita struttura \"riabilitativa\" e la potenziale conseguenza di essere trasformati in animali se non si ottempererà all'obbligo di avere un partner.",
+    "runtime": 118,
+    "director": "Yórgos Lánthimos",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 120467,
+    "title": "Grand Budapest Hotel",
+    "original_title": "The Grand Budapest Hotel",
+    "italian_title": "Grand Budapest Hotel",
+    "year": 2014,
+    "poster_path": "/tY8gmrOOzhJxfBLQNOxjbuSR52b.jpg",
+    "overview": "Una ragazza depone una chiave di una stanza d'hotel ai piedi del busto dedicato a uno scrittore scomparso. Lo stesso scrittore racconta delle origini del suo romanzo. Un uomo oramai anziano e stanco racconta in un albergo semi deserto ad un giovane scrittore la storia di Gustave H., il leggendario concierge del Grand Budapest Hotel, e del suo giovane protetto Zero, alle prese con il furto e il recupero di un dipinto rinascimentale inestimabile e la battaglia per un enorme patrimonio di famiglia.",
+    "runtime": 99,
+    "director": "Wes Anderson",
+    "genres": [
+      "Commedia",
+      "Dramma"
     ]
   },
   {
@@ -326,6 +448,36 @@
     ]
   },
   {
+    "tmdb_id": 11104,
+    "title": "Hong Kong Express",
+    "original_title": "重慶森林",
+    "italian_title": "Hong Kong Express",
+    "year": 1994,
+    "poster_path": "/8DHAlTUes6fMWMqQlEeZ7CH3Wa9.jpg",
+    "overview": "Chungking Mansions, Hong Kong, 1994. L'agente 223 non riesce a dimenticare Ah Mei, la ragazza che l'ha lasciato, e arriva ad abbrutirsi mangiando ananas scaduto. Incontra una donna misteriosa con una parrucca bionda e se ne innamora. L'agente 663 frequenta assiduamente un chiosco dove lavora Ah Fei, la quale si innamora di 663 senza che questi se ne renda conto.",
+    "runtime": 102,
+    "director": "Wong Kar-Wai",
+    "genres": [
+      "Dramma",
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 5,
+    "title": "Four Rooms",
+    "original_title": "Four Rooms",
+    "italian_title": "Four Rooms",
+    "year": 1995,
+    "poster_path": "/s25J2oTcV7QcMNU1bD3s3F6yhtZ.jpg",
+    "overview": "Quattro camere, quattro episodi comico-grotteschi tenuti insieme da un luogo (il Mon Signor, vecchio albergo di Los Angeles), un tempo (la notte di San Silvestro) e un fattorino (T. Roth). 1) “Strano intruglio” di A. Anders: una squadra di streghe cerca sperma fresco per evocare la loro dea; 2) “L'uomo sbagliato” di A. Rockwell: una coppia sadomaso coinvolge il fattorino d'albergo nei suoi esercizi; 3) “I cattivi” di R. Rodriguez: due bambini burrascosi si ribellano al baby-sitter, scoprono un cadavere, incendiano la stanza; 4) “L'uomo di Hollywood” di Q. Tarantino: un attore scommette che riuscirà ad accendere uno Zippo dieci volte di seguito, vincerà una Chevrolet del '64 e salverà il proprio mignolo. Bischerrima scemenza e colluvie di sciocchezze comicarole, non priva di volgarità né di turpiloquio. Si va dal pessimo al mediocre. Il meglio del film è nel cartoon d'avvio, veicolo dei titoli di testa. Colonna sonora dei Combustible Edison.",
+    "runtime": 98,
+    "director": "Allison Anders, Alexandre Rockwell, Robert Rodriguez, Quentin Tarantino",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
     "tmdb_id": 2011,
     "title": "Persepolis",
     "original_title": "Persepolis",
@@ -399,6 +551,22 @@
       "Mistero",
       "Dramma",
       "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 539,
+    "title": "Psyco",
+    "original_title": "Psycho",
+    "italian_title": "Psyco",
+    "year": 1960,
+    "poster_path": "/tdqX0MWaFHuGwUygYn7j6eluOdP.jpg",
+    "overview": "Marion Crane, impiegata in una società immobiliare, scappa con 40.000$ rubati dalle casse della ditta. Durante la fuga verso casa del fidanzato però, decide di fermarsi nel Motel gestito dal giovane Norman Bates e dalla madre, che però vive rintanata nella casa attigua al Motel stesso.  Il capolavoro di Alfred Hitchcock.",
+    "runtime": 109,
+    "director": "Alfred Hitchcock",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mistero"
     ]
   },
   {
@@ -526,22 +694,6 @@
       "Dramma",
       "Commedia",
       "Musica"
-    ]
-  },
-  {
-    "tmdb_id": 15014,
-    "title": "Bianca",
-    "original_title": "Bianca",
-    "italian_title": "Bianca",
-    "year": 1984,
-    "poster_path": "/lnXZLkJ3MFgAFAiyVJGfTUykNkU.jpg",
-    "overview": "Michele è un insegnante di matematica, paranoico e solitario, vive spiando la vita di coppia dei suoi amici e conoscenti. Quando una vicina di casa verrà trovata uccisa, Michele sarà considerato tra i sospettati. Nel frattempo Michele si innamora di una collega, Bianca, che per un breve ma intenso periodo gli regalerà un po' di gioia e un certo equilibrio mentale.",
-    "runtime": 96,
-    "director": "Nanni Moretti",
-    "genres": [
-      "Dramma",
-      "Commedia",
-      "Mistero"
     ]
   },
   {
@@ -734,6 +886,21 @@
     "director": "David Frankel",
     "genres": [
       "Dramma",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1455079,
+    "title": "Tra amore e inganni",
+    "original_title": "You, Me & Tuscany",
+    "italian_title": "Tra amore e inganni",
+    "year": 2026,
+    "poster_path": "/ymyrJJ4mRBYLcBXXOkm7qe3fnee.jpg",
+    "overview": "Anna è una giovane donna che ha rinunciato al sogno di diventare chef e ora vaga nei suoi vent’anni tra una serie di scelte sbagliate. Quando Anna perde in un colpo solo il lavoro di house-sitter e l’alloggio, un incontro casuale con Matteo, un affascinante italiano che ha una villa vuota in Toscana, la spinge a partire per l’Italia, contro il parere della sua migliore amica sempre sincera, Claire. Ma il piano di Anna di intrufolarsi nella villa di Matteo, senza permesso e solo per una notte, va in pezzi quando la madre di Matteo, Gabriella, si presenta inaspettatamente. Presa dal panico, Anna lascia che Gabriella creda che lei sia la fidanzata di Matteo. Quella piccola bugia diventa però un grande problema quando arriva Michael, il cugino di Matteo, e Anna scopre che il fuoco che si sta accendendo tra di loro potrebbe trasformarsi in un incendio capace di cambiarle la vita.",
+    "runtime": 105,
+    "director": "Kat Coiro",
+    "genres": [
+      "Romance",
       "Commedia"
     ]
   },
@@ -1572,21 +1739,6 @@
     ]
   },
   {
-    "tmdb_id": 1455079,
-    "title": "Tra amore e inganni",
-    "original_title": "You, Me & Tuscany",
-    "italian_title": "Tra amore e inganni",
-    "year": 2026,
-    "poster_path": "/ymyrJJ4mRBYLcBXXOkm7qe3fnee.jpg",
-    "overview": "Anna è una giovane donna che ha rinunciato al sogno di diventare chef e ora vaga nei suoi vent’anni tra una serie di scelte sbagliate. Quando Anna perde in un colpo solo il lavoro di house-sitter e l’alloggio, un incontro casuale con Matteo, un affascinante italiano che ha una villa vuota in Toscana, la spinge a partire per l’Italia, contro il parere della sua migliore amica sempre sincera, Claire. Ma il piano di Anna di intrufolarsi nella villa di Matteo, senza permesso e solo per una notte, va in pezzi quando la madre di Matteo, Gabriella, si presenta inaspettatamente. Presa dal panico, Anna lascia che Gabriella creda che lei sia la fidanzata di Matteo. Quella piccola bugia diventa però un grande problema quando arriva Michael, il cugino di Matteo, e Anna scopre che il fuoco che si sta accendendo tra di loro potrebbe trasformarsi in un incendio capace di cambiarle la vita.",
-    "runtime": 105,
-    "director": "Kat Coiro",
-    "genres": [
-      "Romance",
-      "Commedia"
-    ]
-  },
-  {
     "tmdb_id": 1667198,
     "title": "The Amazing Digital Circus: The Last Act",
     "original_title": "The Amazing Digital Circus: The Last Act",
@@ -1681,22 +1833,6 @@
     ]
   },
   {
-    "tmdb_id": 1083381,
-    "title": "Backrooms",
-    "original_title": "Backrooms",
-    "italian_title": "Backrooms",
-    "year": 2026,
-    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
-    "runtime": 111,
-    "director": "Kane Parsons",
-    "genres": [
-      "Horror",
-      "Mistero",
-      "Fantascienza"
-    ]
-  },
-  {
     "tmdb_id": 22679,
     "title": "Arion",
     "original_title": "アリオン",
@@ -1711,21 +1847,6 @@
       "Azione",
       "Animazione",
       "Fantasy"
-    ]
-  },
-  {
-    "tmdb_id": 1339713,
-    "title": "Obsession",
-    "original_title": "Obsession",
-    "italian_title": "Obsession",
-    "year": 2026,
-    "poster_path": "/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
-    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
-    "runtime": 108,
-    "director": "Curry Barker",
-    "genres": [
-      "Horror",
-      "Thriller"
     ]
   },
   {
@@ -1787,35 +1908,6 @@
     "genres": [
       "Commedia",
       "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1370210,
-    "title": "Yalla Parkour",
-    "original_title": "يلّا باركور",
-    "italian_title": "Yalla Parkour",
-    "year": 2024,
-    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
-    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
-    "runtime": 89,
-    "director": "Areeb Zuaiter",
-    "genres": [
-      "Documentario",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 60732,
-    "title": "La messa è finita",
-    "original_title": "La messa è finita",
-    "italian_title": "La messa è finita",
-    "year": 1985,
-    "poster_path": "/eCdfHMyFRc5uDG2cdIOlc5rBGUd.jpg",
-    "overview": "Tornato a Roma dopo anni, don Giulio, un giovane sacerdote, viene messo a capo di una chiesa di periferia, dove ritrova famigliari e amici. I rapporti con tutti loro e con i parrocchiani, che il sacerdote non riesce ad aiutare, metteranno a dura prova la propria vocazione e la sua fede.",
-    "runtime": 94,
-    "director": "Nanni Moretti",
-    "genres": [
-      "Dramma"
     ]
   }
 ]

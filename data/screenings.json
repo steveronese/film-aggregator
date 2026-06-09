@@ -1,85 +1,5 @@
 [
   {
-    "cinema_id": "beltrade",
-    "tmdb_id": 15014,
-    "raw_title": "BIANCA",
-    "start": "2026-06-09T11:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/bianca-2/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1088548,
-    "raw_title": "V. O. SOTT. ITA AMARGA NAVIDAD",
-    "start": "2026-06-09T12:20:00",
-    "hall": "Abanella",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/80865/820f49ef-6709-4583-8c6d-3e0b061d58c0#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1228710,
-    "raw_title": "V.O.SOTT.ITA. - THE MANDALORIAN AND GROGU",
-    "start": "2026-06-09T12:20:00",
-    "hall": "Aurora",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79908/4445e0cd-078b-4088-865c-5d8693cd6cf1#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1462322,
-    "raw_title": "LE CITTÀ DI PIANURA",
-    "start": "2026-06-09T12:20:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/31221/5468f921-e176-4f43-b0a3-8eaa5f0b9a03#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": null,
-    "raw_title": "MABOROSI NO HIKARI - LA LUCE DELLE ILLUSIONI",
-    "start": "2026-06-09T12:45:00",
-    "hall": "Astra",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/79281/9dc2c854-6b3f-4831-b284-d46a99617645#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1088548,
-    "raw_title": "AMARGA NAVIDAD",
-    "start": "2026-06-09T12:45:00",
-    "hall": "Ariston",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/80832/ffdd5537-f0ba-4933-808e-783e983f1623#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1382513,
-    "raw_title": "HEN - STORIA DI UNA GALLINA",
-    "start": "2026-06-09T12:50:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/hen-storia-di-una-gallina/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": null,
-    "raw_title": "PRINCIPESSA MONONOKE 4K (RIED. 2026)",
-    "start": "2026-06-09T12:50:00",
-    "hall": "Zenit",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85981/2a217f26-19ca-4746-ac12-defe49538f4d#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1088548,
     "raw_title": "Amarga Navidad",
@@ -251,7 +171,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1083381,
     "raw_title": "(Sala XL) Backrooms",
     "start": "2026-06-09T14:40:00",
     "hall": "SALA 17 XL",
@@ -661,7 +581,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1273221,
     "raw_title": "(Sala XL) Scary Movie (2026)",
     "start": "2026-06-09T16:00:00",
     "hall": "SALA 2 XL",
@@ -1081,7 +1001,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1083381,
     "raw_title": "(Sala XL) Backrooms",
     "start": "2026-06-09T17:10:00",
     "hall": "SALA 17 XL",
@@ -1181,7 +1101,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 11649,
     "raw_title": "Atmos - Masters Of The Universe",
     "start": "2026-06-09T17:30:00",
     "hall": "SALA 1",
@@ -1411,7 +1331,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1273221,
     "raw_title": "(Sala XL) Scary Movie (2026)",
     "start": "2026-06-09T18:30:00",
     "hall": "SALA 2 XL",
@@ -1841,7 +1761,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1083381,
     "raw_title": "(Sala XL) Backrooms",
     "start": "2026-06-09T19:40:00",
     "hall": "SALA 17 XL",
@@ -2011,7 +1931,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 11649,
     "raw_title": "Atmos - Masters Of The Universe",
     "start": "2026-06-09T20:30:00",
     "hall": "SALA 1",
@@ -2121,7 +2041,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1273221,
     "raw_title": "(Sala XL) Scary Movie (2026)",
     "start": "2026-06-09T21:00:00",
     "hall": "SALA 2 XL",
@@ -2551,7 +2471,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1083381,
     "raw_title": "(Sala XL) Backrooms",
     "start": "2026-06-09T22:10:00",
     "hall": "SALA 17 XL",
@@ -3251,7 +3171,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-10T16:00:00",
     "hall": "SALA 2 XL",
@@ -3551,7 +3471,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-10T17:30:00",
     "hall": "SALA 1",
@@ -3881,7 +3801,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-10T19:10:00",
     "hall": "SALA 2 XL",
@@ -4141,7 +4061,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-10T20:30:00",
     "hall": "SALA 1",
@@ -4281,7 +4201,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-10T21:20:00",
     "hall": "SALA 17 XL",
@@ -4621,7 +4541,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-10T22:20:00",
     "hall": "SALA 2 XL",
@@ -4708,16 +4628,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": null,
-    "raw_title": "KEEP CALM",
-    "start": "2026-06-11T06:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/keep-calm-2/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "anteo",
@@ -5111,7 +5021,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-11T15:00:00",
     "hall": "SALA 17 XL",
@@ -5230,6 +5140,16 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1455079,
+    "raw_title": "TRA AMORE E INGANNI (YOU, ME & TUSCANY)",
+    "start": "2026-06-11T17:00:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/88325/5300e13d-baa2-4f0b-9516-906c188baaf7#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "notorious-gloria",
     "tmdb_id": 936075,
     "raw_title": "Michael",
@@ -5271,7 +5191,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-11T17:30:00",
     "hall": "SALA 1",
@@ -5321,7 +5241,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-11T18:10:00",
     "hall": "SALA 17 XL",
@@ -5561,7 +5481,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-11T20:30:00",
     "hall": "SALA 1",
@@ -5641,7 +5561,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-11T21:20:00",
     "hall": "SALA 17 XL",
@@ -5668,6 +5588,16 @@
     "language": "original_subbed",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/81294/1adaebdd-d3e9-49ed-9217-f679f9f52afe#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1455079,
+    "raw_title": "TRA AMORE E INGANNI (YOU, ME & TUSCANY)",
+    "start": "2026-06-11T21:30:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/88325/38bc14c0-c448-48ec-982a-18918e669c87#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "notorious-gloria",
@@ -5780,6 +5710,16 @@
     "source_url": "https://incoronata.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "arianteo-incoronata",
+    "tmdb_id": 524635,
+    "raw_title": "V.O. SOTT. ITA - LA CRONOLOGIA DELL'ACQUA",
+    "start": "2026-06-11T21:45:00",
+    "hall": "Sala 1",
+    "language": "original_subbed",
+    "booking_url": "https://incoronata.spaziocinema.18tickets.it/film/87432/0276d852-f475-4b5a-88e2-b8324d031ea5#theater-init",
+    "source_url": "https://incoronata.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 936075,
     "raw_title": "MICHAEL",
@@ -5810,16 +5750,6 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
-    "cinema_id": "beltrade",
-    "tmdb_id": null,
-    "raw_title": "KEEP CALM",
-    "start": "2026-06-12T06:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/keep-calm-2/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
     "cinema_id": "anteo",
     "tmdb_id": 1275779,
     "raw_title": "DISCLOSURE DAY",
@@ -5834,7 +5764,7 @@
     "tmdb_id": null,
     "raw_title": "V.O. SOTT.ITA - ROMERÌA - IL MARE DI RICORDI",
     "start": "2026-06-12T10:00:00",
-    "hall": "President",
+    "hall": "Astoria",
     "language": "original_subbed",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/88175/5e537f8b-0221-4855-87d2-8fee676db317#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
@@ -5930,11 +5860,21 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1275779,
+    "raw_title": "V.O.SOTT. ITA. - DISCLOSURE DAY",
+    "start": "2026-06-12T12:10:00",
+    "hall": "Mignon",
+    "language": "original_subbed",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85487/a3a8e2c7-99f5-486c-b9e7-93a4f2b8bc87#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1182861,
     "raw_title": "ROMERÍA - IL MARE DEI RICORDI",
     "start": "2026-06-12T12:15:00",
-    "hall": "President",
+    "hall": "Astoria",
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/88130/a02ab1ba-4d30-4821-8033-e72af99c9a92#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
@@ -6014,7 +5954,7 @@
     "tmdb_id": null,
     "raw_title": "V.O. SOTT.ITA - ROMERÌA - IL MARE DI RICORDI",
     "start": "2026-06-12T14:30:00",
-    "hall": "President",
+    "hall": "Astoria",
     "language": "original_subbed",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/88175/4db8f4fa-00b3-4cde-bc7f-6a7d4756f0fb#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
@@ -6070,16 +6010,6 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1370210,
-    "raw_title": "YALLA PARKOUR",
-    "start": "2026-06-12T14:40:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/yalla-parkour/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
     "cinema_id": "citylife-anteo",
     "tmdb_id": 1314481,
     "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
@@ -6108,6 +6038,16 @@
     "language": "dubbed",
     "booking_url": null,
     "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1370210,
+    "raw_title": "YALLA PARKOUR",
+    "start": "2026-06-12T14:50:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/yalla-parkour/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "anteo",
@@ -6201,7 +6141,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-12T15:00:00",
     "hall": "SALA 17 XL",
@@ -6253,7 +6193,7 @@
     "cinema_id": "beltrade",
     "tmdb_id": 1382513,
     "raw_title": "HEN - STORIA DI UNA GALLINA",
-    "start": "2026-06-12T16:20:00",
+    "start": "2026-06-12T16:30:00",
     "hall": null,
     "language": "original_subbed",
     "booking_url": "https://bandhi.it/bah/beltrade/production/hen-storia-di-una-gallina/",
@@ -6264,7 +6204,7 @@
     "tmdb_id": 1182861,
     "raw_title": "ROMERÍA - IL MARE DEI RICORDI",
     "start": "2026-06-12T16:45:00",
-    "hall": "President",
+    "hall": "Astoria",
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/88130/80b86aa5-fb7e-4fcf-8bad-f1374fb609d5#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
@@ -6350,6 +6290,16 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1455079,
+    "raw_title": "TRA AMORE E INGANNI (YOU, ME & TUSCANY)",
+    "start": "2026-06-12T17:00:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/88325/b1b6b8f2-ea79-4f9e-b900-f3f63e418a4f#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "notorious-gloria",
     "tmdb_id": 1340206,
     "raw_title": "Tuner - L'Accordatore",
@@ -6401,7 +6351,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-12T17:30:00",
     "hall": "SALA 1",
@@ -6471,7 +6421,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-12T18:10:00",
     "hall": "SALA 17 XL",
@@ -6537,6 +6487,16 @@
     "hall": "Astra",
     "language": "original_subbed",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/85487/5dc8835e-907b-4fb5-b7f6-03688bc50d3a#theater-init",
+    "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "anteo",
+    "tmdb_id": null,
+    "raw_title": "V.O. SOTT.ITA - ROMERÌA - IL MARE DI RICORDI",
+    "start": "2026-06-12T19:00:00",
+    "hall": "Astoria",
+    "language": "original_subbed",
+    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/86739/a0ef2e61-fb31-4875-bb4c-894e58714c50#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
@@ -6731,7 +6691,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-12T20:30:00",
     "hall": "SALA 1",
@@ -6831,7 +6791,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-12T21:20:00",
     "hall": "SALA 17 XL",
@@ -6854,7 +6814,7 @@
     "tmdb_id": 1182861,
     "raw_title": "ROMERÍA - IL MARE DEI RICORDI",
     "start": "2026-06-12T21:30:00",
-    "hall": "President",
+    "hall": "Astoria",
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/88130/829163ef-2453-453f-9eaf-f9e9a816999e#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
@@ -6868,6 +6828,16 @@
     "language": "original_subbed",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/88290/b94e6077-dcd6-4cf1-aa95-ffbad149689b#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1455079,
+    "raw_title": "TRA AMORE E INGANNI (YOU, ME & TUSCANY)",
+    "start": "2026-06-12T21:30:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/88325/5e71da0f-483c-462b-ad83-96860ed0280c#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "orfeo",
@@ -6934,9 +6904,9 @@
     "tmdb_id": 617743,
     "raw_title": "V. O. SOTT ITA IL PRIGIONIERO",
     "start": "2026-06-12T21:45:00",
-    "hall": "Astoria",
+    "hall": "President",
     "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/88170/6486cd69-9556-4946-8fe5-90f411b2379b#theater-init",
+    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/88170/e58e3d98-7b28-4040-9864-633cca0ae0d2#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
@@ -6997,16 +6967,6 @@
     "hall": null,
     "language": "original_subbed",
     "booking_url": "https://bandhi.it/bah/beltrade/production/obsession/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": null,
-    "raw_title": "KEEP CALM",
-    "start": "2026-06-13T06:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/keep-calm-2/",
     "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
@@ -7077,6 +7037,16 @@
     "hall": "Capitol",
     "language": "original_subbed",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/79908/98796d1b-f0c0-4345-a619-65b60e49b5e8#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": null,
+    "raw_title": "NO GOOD MEN",
+    "start": "2026-06-13T10:00:00",
+    "hall": "Maestoso",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/88324/eeedd3b4-4f85-4383-9165-5cfed59ff992#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -7261,7 +7231,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-13T14:30:00",
     "hall": "SALA 1",
@@ -7461,7 +7431,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-13T15:00:00",
     "hall": "SALA 17 XL",
@@ -7650,6 +7620,16 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1455079,
+    "raw_title": "TRA AMORE E INGANNI (YOU, ME & TUSCANY)",
+    "start": "2026-06-13T17:00:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/88325/2d51ed18-2729-4a03-b6ae-bb3788d2b2a6#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1314481,
     "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
@@ -7701,7 +7681,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-13T17:30:00",
     "hall": "SALA 1",
@@ -7771,7 +7751,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-13T18:10:00",
     "hall": "SALA 17 XL",
@@ -7871,7 +7851,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-13T19:10:00",
     "hall": "SALA 2 XL",
@@ -8020,6 +8000,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
   },
   {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": 254320,
+    "raw_title": "THE LOBSTER",
+    "start": "2026-06-13T20:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1275779,
     "raw_title": "V.O.SOTT. ITA. - DISCLOSURE DAY",
@@ -8031,7 +8021,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-13T20:30:00",
     "hall": "SALA 1",
@@ -8111,7 +8101,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-13T21:20:00",
     "hall": "SALA 17 XL",
@@ -8128,6 +8118,16 @@
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/61626/edd9d8f4-cf1d-49ea-b1bf-53dbddd1859e#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1455079,
+    "raw_title": "TRA AMORE E INGANNI (YOU, ME & TUSCANY)",
+    "start": "2026-06-13T21:30:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/88325/ebebe215-658b-4aa0-bd3e-68b2145c550e#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "notorious-gloria",
@@ -8301,23 +8301,13 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-13T22:20:00",
     "hall": "SALA 2 XL",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": null,
-    "raw_title": "KEEP CALM",
-    "start": "2026-06-14T06:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/keep-calm-2/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "anteo",
@@ -8400,8 +8390,18 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "beltrade",
+    "tmdb_id": 15014,
+    "raw_title": "BIANCA",
+    "start": "2026-06-14T11:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/bianca-2/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-14T11:30:00",
     "hall": "SALA 17 XL",
@@ -8521,7 +8521,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-14T14:30:00",
     "hall": "SALA 1",
@@ -8660,12 +8660,32 @@
     "source_url": "https://ariosto.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1182861,
+    "raw_title": "ROMERÍA - IL MARE DEI RICORDI",
+    "start": "2026-06-14T15:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/romeria-il-mare-dei-ricordi/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
     "cinema_id": "cineteca-metropolis",
     "tmdb_id": 1275779,
     "raw_title": "DISCLOSURE DAY",
     "start": "2026-06-14T15:00:00",
     "hall": null,
     "language": "dubbed",
+    "booking_url": null,
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": 120467,
+    "raw_title": "GRAND BUDAPEST HOTEL",
+    "start": "2026-06-14T15:00:00",
+    "hall": null,
+    "language": "original_subbed",
     "booking_url": null,
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
@@ -8711,7 +8731,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-14T15:00:00",
     "hall": "SALA 17 XL",
@@ -8761,7 +8781,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-14T16:00:00",
     "hall": "SALA 2 XL",
@@ -8820,6 +8840,16 @@
     "source_url": "https://ariosto.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1275779,
+    "raw_title": "DISCLOSURE DAY",
+    "start": "2026-06-14T17:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/disclosure-day/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
     "cinema_id": "cineteca-arlecchino",
     "tmdb_id": 242262,
     "raw_title": "LA SEDIA DELLA FELICITÀ",
@@ -8867,6 +8897,16 @@
     "hall": "Corallo",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/61659/2cc63669-7ed7-4c4b-b10e-4aee13f8d786#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1455079,
+    "raw_title": "TRA AMORE E INGANNI (YOU, ME & TUSCANY)",
+    "start": "2026-06-14T17:00:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/88325/b2082651-41a4-4b83-9e42-156e7bc8419b#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -8920,18 +8960,8 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1275779,
-    "raw_title": "DISCLOSURE DAY",
-    "start": "2026-06-14T17:20:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/disclosure-day/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-14T17:30:00",
     "hall": "SALA 1",
@@ -9001,7 +9031,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-14T18:10:00",
     "hall": "SALA 17 XL",
@@ -9101,7 +9131,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-14T19:10:00",
     "hall": "SALA 2 XL",
@@ -9261,7 +9291,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-14T20:30:00",
     "hall": "SALA 1",
@@ -9331,7 +9361,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-14T21:20:00",
     "hall": "SALA 17 XL",
@@ -9358,6 +9388,16 @@
     "language": "original_subbed",
     "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/86343",
     "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1455079,
+    "raw_title": "TRA AMORE E INGANNI (YOU, ME & TUSCANY)",
+    "start": "2026-06-14T21:30:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/88325/f55b9468-64d3-4b8e-837d-0cccdbad6450#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "notorious-gloria",
@@ -9521,23 +9561,13 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-14T22:20:00",
     "hall": "SALA 2 XL",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": null,
-    "raw_title": "KEEP CALM",
-    "start": "2026-06-15T06:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/keep-calm-2/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "citylife-anteo",
@@ -9580,6 +9610,16 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "beltrade",
+    "tmdb_id": 25050,
+    "raw_title": "STILL WALKING - camminando in un giorno d'estate",
+    "start": "2026-06-15T10:40:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/still-walking/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
     "cinema_id": "citylife-anteo",
     "tmdb_id": 11649,
     "raw_title": "V.O. SOTT. ITA - MASTERS OF THE UNIVERSE",
@@ -9598,6 +9638,16 @@
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/88159/1a937ca1-c7e0-4c5d-9a20-220b809414a1#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1370210,
+    "raw_title": "YALLA PARKOUR",
+    "start": "2026-06-15T12:40:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/yalla-parkour/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "citylife-anteo",
@@ -9628,6 +9678,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1275779,
+    "raw_title": "DISCLOSURE DAY",
+    "start": "2026-06-15T14:20:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/disclosure-day/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "notorious-gloria",
@@ -9721,7 +9781,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-15T15:00:00",
     "hall": "SALA 17 XL",
@@ -9771,7 +9831,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-15T16:00:00",
     "hall": "SALA 2 XL",
@@ -9808,6 +9868,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1339713,
+    "raw_title": "OBSESSION",
+    "start": "2026-06-15T17:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/obsession/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "citylife-anteo",
@@ -9861,7 +9931,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-15T17:30:00",
     "hall": "SALA 1",
@@ -9901,7 +9971,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-15T18:10:00",
     "hall": "SALA 17 XL",
@@ -9931,8 +10001,8 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": 1512207,
-    "raw_title": "Rufus - Il Draghetto Marino",
+    "tmdb_id": 1301421,
+    "raw_title": "Pecore Sotto Copertura",
     "start": "2026-06-15T18:20:00",
     "hall": "5",
     "language": "unknown",
@@ -9970,6 +10040,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1088548,
+    "raw_title": "AMARGA NAVIDAD",
+    "start": "2026-06-15T19:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/amarga-navidad/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
     "cinema_id": "cinemino",
     "tmdb_id": null,
     "raw_title": "DIAZ - NON PULIRE QUESTO SANGUE (RIED. 2026)",
@@ -9991,7 +10071,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-15T19:10:00",
     "hall": "SALA 2 XL",
@@ -10071,7 +10151,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-15T20:30:00",
     "hall": "SALA 1",
@@ -10141,7 +10221,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-15T21:20:00",
     "hall": "SALA 17 XL",
@@ -10241,7 +10321,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-15T22:20:00",
     "hall": "SALA 2 XL",
@@ -10258,16 +10338,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": null,
-    "raw_title": "KEEP CALM",
-    "start": "2026-06-16T06:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/keep-calm-2/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "citylife-anteo",
@@ -10340,6 +10410,16 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1182861,
+    "raw_title": "ROMERÍA - IL MARE DEI RICORDI",
+    "start": "2026-06-16T13:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/romeria-il-mare-dei-ricordi/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
     "cinema_id": "cineteca-arlecchino",
     "tmdb_id": 1275779,
     "raw_title": "DISCLOSURE DAY",
@@ -10400,6 +10480,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1083381,
+    "raw_title": "BACKROOMS",
+    "start": "2026-06-16T15:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/backrooms/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
     "cinema_id": "citylife-anteo",
     "tmdb_id": 1438958,
     "raw_title": "ANTARTICA - QUASI UNA FIABA",
@@ -10441,7 +10531,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-16T15:00:00",
     "hall": "SALA 17 XL",
@@ -10491,7 +10581,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-16T16:00:00",
     "hall": "SALA 2 XL",
@@ -10528,6 +10618,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1275779,
+    "raw_title": "DISCLOSURE DAY",
+    "start": "2026-06-16T17:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/disclosure-day/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "citylife-anteo",
@@ -10581,7 +10681,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-16T17:30:00",
     "hall": "SALA 1",
@@ -10621,7 +10721,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-16T18:10:00",
     "hall": "SALA 17 XL",
@@ -10651,8 +10751,8 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": 1512207,
-    "raw_title": "Rufus - Il Draghetto Marino",
+    "tmdb_id": 1301421,
+    "raw_title": "Pecore Sotto Copertura",
     "start": "2026-06-16T18:20:00",
     "hall": "5",
     "language": "unknown",
@@ -10711,7 +10811,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-16T19:10:00",
     "hall": "SALA 2 XL",
@@ -10811,7 +10911,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-16T20:30:00",
     "hall": "SALA 1",
@@ -10871,7 +10971,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-16T21:20:00",
     "hall": "SALA 17 XL",
@@ -10991,7 +11091,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-16T22:20:00",
     "hall": "SALA 2 XL",
@@ -11008,16 +11108,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": null,
-    "raw_title": "KEEP CALM",
-    "start": "2026-06-17T06:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/keep-calm-2/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "citylife-anteo",
@@ -11098,6 +11188,16 @@
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/88267/adb6efea-93a1-4e07-a6f8-a06435299708#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 60732,
+    "raw_title": "LA MESSA È FINITA",
+    "start": "2026-06-17T13:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/la-messa-e-finita/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "cineteca-arlecchino",
@@ -11201,7 +11301,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-17T15:00:00",
     "hall": "SALA 17 XL",
@@ -11228,6 +11328,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 25050,
+    "raw_title": "STILL WALKING - camminando in un giorno d'estate",
+    "start": "2026-06-17T15:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/still-walking/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "notorious-gloria",
@@ -11261,7 +11371,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-17T16:00:00",
     "hall": "SALA 2 XL",
@@ -11351,13 +11461,23 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-17T17:30:00",
     "hall": "SALA 1",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1083381,
+    "raw_title": "BACKROOMS",
+    "start": "2026-06-17T17:40:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/backrooms/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -11381,7 +11501,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-17T18:10:00",
     "hall": "SALA 17 XL",
@@ -11411,8 +11531,8 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": 1512207,
-    "raw_title": "Rufus - Il Draghetto Marino",
+    "tmdb_id": 1301421,
+    "raw_title": "Pecore Sotto Copertura",
     "start": "2026-06-17T18:20:00",
     "hall": "5",
     "language": "unknown",
@@ -11451,7 +11571,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-17T19:10:00",
     "hall": "SALA 2 XL",
@@ -11488,6 +11608,16 @@
     "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1339713,
+    "raw_title": "OBSESSION",
+    "start": "2026-06-17T19:40:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/obsession/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
   },
   {
     "cinema_id": "plinius",
@@ -11561,7 +11691,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "Atmos - Disclosure Day",
     "start": "2026-06-17T20:30:00",
     "hall": "SALA 1",
@@ -11601,8 +11731,8 @@
   },
   {
     "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1510300,
-    "raw_title": "LE BAMBINE",
+    "tmdb_id": 25050,
+    "raw_title": "STILL WALKING",
     "start": "2026-06-17T21:15:00",
     "hall": null,
     "language": "dubbed",
@@ -11621,7 +11751,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-17T21:20:00",
     "hall": "SALA 17 XL",
@@ -11700,6 +11830,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
   },
   {
+    "cinema_id": "beltrade",
+    "tmdb_id": 1275779,
+    "raw_title": "DISCLOSURE DAY",
+    "start": "2026-06-17T21:40:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/disclosure-day/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1273221,
     "raw_title": "Scary Movie (2026)",
@@ -11721,7 +11861,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1275779,
     "raw_title": "(Sala XL) Disclosure Day",
     "start": "2026-06-17T22:20:00",
     "hall": "SALA 2 XL",
@@ -11771,7 +11911,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-18T11:30:00",
     "hall": "SALA 2 XL",
@@ -11791,7 +11931,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-18T14:00:00",
     "hall": "SALA 2 XL",
@@ -11801,7 +11941,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "3d - Toy Story 5",
     "start": "2026-06-18T14:30:00",
     "hall": "5",
@@ -11821,7 +11961,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-18T15:00:00",
     "hall": "SALA 17 XL",
@@ -11851,7 +11991,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-18T16:30:00",
     "hall": "SALA 2 XL",
@@ -11861,7 +12001,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "3d - Toy Story 5",
     "start": "2026-06-18T17:00:00",
     "hall": "5",
@@ -11901,13 +12041,23 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-18T17:30:00",
     "hall": "SALA 17 XL",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "anteo",
+    "tmdb_id": null,
+    "raw_title": "UN POPOLO DI OMBRE",
+    "start": "2026-06-18T18:00:00",
+    "hall": "Abadan",
+    "language": "unknown",
+    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/88356/34511072-4026-4a8f-ac32-5c8535088d80#theater-init",
+    "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -11931,7 +12081,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-18T19:00:00",
     "hall": "SALA 2 XL",
@@ -11991,13 +12141,23 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-18T20:00:00",
     "hall": "SALA 17 XL",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 11104,
+    "raw_title": "HONG KONG EXPRESS",
+    "start": "2026-06-18T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/23532",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -12061,7 +12221,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-19T14:00:00",
     "hall": "SALA 2 XL",
@@ -12071,7 +12231,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "3d - Toy Story 5",
     "start": "2026-06-19T14:30:00",
     "hall": "5",
@@ -12081,7 +12241,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-19T15:00:00",
     "hall": "SALA 17 XL",
@@ -12121,7 +12281,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-19T16:30:00",
     "hall": "SALA 2 XL",
@@ -12131,7 +12291,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "3d - Toy Story 5",
     "start": "2026-06-19T17:00:00",
     "hall": "5",
@@ -12161,7 +12321,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-19T17:30:00",
     "hall": "SALA 17 XL",
@@ -12201,7 +12361,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-19T19:00:00",
     "hall": "SALA 2 XL",
@@ -12240,8 +12400,18 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": 5,
+    "raw_title": "FOUR ROOMS",
+    "start": "2026-06-19T20:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-19T20:00:00",
     "hall": "SALA 17 XL",
@@ -12311,7 +12481,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-20T11:30:00",
     "hall": "SALA 2 XL",
@@ -12331,7 +12501,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-20T14:00:00",
     "hall": "SALA 2 XL",
@@ -12341,7 +12511,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "3d - Toy Story 5",
     "start": "2026-06-20T14:30:00",
     "hall": "5",
@@ -12361,7 +12531,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-20T15:00:00",
     "hall": "SALA 17 XL",
@@ -12411,7 +12581,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-20T16:30:00",
     "hall": "SALA 2 XL",
@@ -12441,7 +12611,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "3d - Toy Story 5",
     "start": "2026-06-20T17:00:00",
     "hall": "5",
@@ -12471,7 +12641,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-20T17:30:00",
     "hall": "SALA 17 XL",
@@ -12511,7 +12681,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-20T19:00:00",
     "hall": "SALA 2 XL",
@@ -12551,7 +12721,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-20T20:00:00",
     "hall": "SALA 17 XL",
@@ -12641,7 +12811,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-21T11:30:00",
     "hall": "SALA 2 XL",
@@ -12661,7 +12831,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-21T14:00:00",
     "hall": "SALA 2 XL",
@@ -12671,7 +12841,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "3d - Toy Story 5",
     "start": "2026-06-21T14:30:00",
     "hall": "5",
@@ -12681,7 +12851,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-21T15:00:00",
     "hall": "SALA 17 XL",
@@ -12731,7 +12901,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-21T16:30:00",
     "hall": "SALA 2 XL",
@@ -12751,7 +12921,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "3d - Toy Story 5",
     "start": "2026-06-21T17:00:00",
     "hall": "5",
@@ -12781,7 +12951,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-21T17:30:00",
     "hall": "SALA 17 XL",
@@ -12811,7 +12981,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-21T19:00:00",
     "hall": "SALA 2 XL",
@@ -12850,8 +13020,18 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": 539,
+    "raw_title": "PSYCHO",
+    "start": "2026-06-21T20:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-21T20:00:00",
     "hall": "SALA 17 XL",
@@ -12911,7 +13091,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-22T14:00:00",
     "hall": "SALA 2 XL",
@@ -12921,7 +13101,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "3d - Toy Story 5",
     "start": "2026-06-22T14:30:00",
     "hall": "5",
@@ -12931,7 +13111,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-22T15:00:00",
     "hall": "SALA 17 XL",
@@ -12951,7 +13131,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-22T16:30:00",
     "hall": "SALA 2 XL",
@@ -12961,7 +13141,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "3d - Toy Story 5",
     "start": "2026-06-22T17:00:00",
     "hall": "5",
@@ -12981,7 +13161,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-22T17:30:00",
     "hall": "SALA 17 XL",
@@ -13021,7 +13201,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-22T19:00:00",
     "hall": "SALA 2 XL",
@@ -13051,7 +13231,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-22T20:00:00",
     "hall": "SALA 17 XL",
@@ -13121,7 +13301,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-23T14:00:00",
     "hall": "SALA 2 XL",
@@ -13131,7 +13311,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "3d - Toy Story 5",
     "start": "2026-06-23T14:30:00",
     "hall": "5",
@@ -13141,7 +13321,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-23T15:00:00",
     "hall": "SALA 17 XL",
@@ -13161,7 +13341,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-23T16:30:00",
     "hall": "SALA 2 XL",
@@ -13171,7 +13351,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "3d - Toy Story 5",
     "start": "2026-06-23T17:00:00",
     "hall": "5",
@@ -13191,7 +13371,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-23T17:30:00",
     "hall": "SALA 17 XL",
@@ -13221,7 +13401,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-23T19:00:00",
     "hall": "SALA 2 XL",
@@ -13251,7 +13431,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-23T20:00:00",
     "hall": "SALA 17 XL",
@@ -13311,7 +13491,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-24T14:00:00",
     "hall": "SALA 2 XL",
@@ -13321,7 +13501,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "3d - Toy Story 5",
     "start": "2026-06-24T14:30:00",
     "hall": "5",
@@ -13331,7 +13511,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-24T15:00:00",
     "hall": "SALA 17 XL",
@@ -13351,7 +13531,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-24T16:30:00",
     "hall": "SALA 2 XL",
@@ -13361,7 +13541,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "3d - Toy Story 5",
     "start": "2026-06-24T17:00:00",
     "hall": "5",
@@ -13381,7 +13561,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-24T17:30:00",
     "hall": "SALA 17 XL",
@@ -13411,7 +13591,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-24T19:00:00",
     "hall": "SALA 2 XL",
@@ -13441,7 +13621,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1084244,
     "raw_title": "(Sala XL) Toy Story 5",
     "start": "2026-06-24T20:00:00",
     "hall": "SALA 17 XL",
@@ -13521,7 +13701,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "3d - Supergirl",
     "start": "2026-06-25T16:10:00",
     "hall": "3",
@@ -13551,7 +13731,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-25T17:30:00",
     "hall": "SALA 1",
@@ -13591,7 +13771,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-25T20:00:00",
     "hall": "SALA 1",
@@ -13611,7 +13791,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "(Sala XL) Supergirl",
     "start": "2026-06-25T21:30:00",
     "hall": "SALA 2 XL",
@@ -13631,7 +13811,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-25T22:30:00",
     "hall": "SALA 1",
@@ -13671,7 +13851,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "3d - Supergirl",
     "start": "2026-06-26T16:10:00",
     "hall": "3",
@@ -13701,7 +13881,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-26T17:30:00",
     "hall": "SALA 1",
@@ -13751,7 +13931,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-26T20:00:00",
     "hall": "SALA 1",
@@ -13781,7 +13961,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "(Sala XL) Supergirl",
     "start": "2026-06-26T21:30:00",
     "hall": "SALA 2 XL",
@@ -13801,7 +13981,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-26T22:30:00",
     "hall": "SALA 1",
@@ -13851,7 +14031,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-27T15:00:00",
     "hall": "SALA 1",
@@ -13871,7 +14051,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "3d - Supergirl",
     "start": "2026-06-27T16:10:00",
     "hall": "3",
@@ -13901,7 +14081,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-27T17:30:00",
     "hall": "SALA 1",
@@ -13951,7 +14131,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-27T20:00:00",
     "hall": "SALA 1",
@@ -13981,7 +14161,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "(Sala XL) Supergirl",
     "start": "2026-06-27T21:30:00",
     "hall": "SALA 2 XL",
@@ -14001,7 +14181,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-27T22:30:00",
     "hall": "SALA 1",
@@ -14051,7 +14231,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-28T15:00:00",
     "hall": "SALA 1",
@@ -14061,7 +14241,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "3d - Supergirl",
     "start": "2026-06-28T16:10:00",
     "hall": "3",
@@ -14101,7 +14281,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-28T17:30:00",
     "hall": "SALA 1",
@@ -14151,7 +14331,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-28T20:00:00",
     "hall": "SALA 1",
@@ -14181,7 +14361,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "(Sala XL) Supergirl",
     "start": "2026-06-28T21:30:00",
     "hall": "SALA 2 XL",
@@ -14211,7 +14391,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-28T22:30:00",
     "hall": "SALA 1",
@@ -14251,7 +14431,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "3d - Supergirl",
     "start": "2026-06-29T16:10:00",
     "hall": "3",
@@ -14281,7 +14461,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-29T17:30:00",
     "hall": "SALA 1",
@@ -14321,7 +14501,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-29T20:00:00",
     "hall": "SALA 1",
@@ -14341,7 +14521,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "(Sala XL) Supergirl",
     "start": "2026-06-29T21:30:00",
     "hall": "SALA 2 XL",
@@ -14361,7 +14541,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-29T22:30:00",
     "hall": "SALA 1",
@@ -14401,7 +14581,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "3d - Supergirl",
     "start": "2026-06-30T16:10:00",
     "hall": "3",
@@ -14431,7 +14611,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-30T17:30:00",
     "hall": "SALA 1",
@@ -14471,7 +14651,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-30T20:00:00",
     "hall": "SALA 1",
@@ -14491,7 +14671,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "(Sala XL) Supergirl",
     "start": "2026-06-30T21:30:00",
     "hall": "SALA 2 XL",
@@ -14511,7 +14691,7 @@
   },
   {
     "cinema_id": "cinelandia-certosa",
-    "tmdb_id": null,
+    "tmdb_id": 9651,
     "raw_title": "Atmos - Supergirl",
     "start": "2026-06-30T22:30:00",
     "hall": "SALA 1",
@@ -14521,7 +14701,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-01T10:40:00",
     "hall": "SALA 2 XL",
@@ -14531,7 +14711,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-01T11:00:00",
     "hall": "5",
@@ -14551,7 +14731,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-01T14:10:00",
     "hall": "SALA 17 XL",
@@ -14561,7 +14741,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-01T14:30:00",
     "hall": "5",
@@ -14581,7 +14761,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-01T14:50:00",
     "hall": "SALA 2 XL",
@@ -14651,7 +14831,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-01T16:30:00",
     "hall": "SALA 17 XL",
@@ -14661,7 +14841,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-01T16:50:00",
     "hall": "5",
@@ -14681,7 +14861,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-01T17:10:00",
     "hall": "SALA 2 XL",
@@ -14751,7 +14931,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-01T18:40:00",
     "hall": "SALA 17 XL",
@@ -14811,7 +14991,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-01T19:30:00",
     "hall": "SALA 2 XL",
@@ -14851,7 +15031,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-01T21:00:00",
     "hall": "SALA 17 XL",
@@ -14921,7 +15101,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-01T21:50:00",
     "hall": "SALA 2 XL",
@@ -14941,7 +15121,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-02T10:40:00",
     "hall": "SALA 2 XL",
@@ -14951,7 +15131,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-02T11:00:00",
     "hall": "5",
@@ -14971,7 +15151,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-02T14:10:00",
     "hall": "SALA 17 XL",
@@ -14981,7 +15161,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-02T14:30:00",
     "hall": "5",
@@ -14991,7 +15171,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-02T14:50:00",
     "hall": "SALA 2 XL",
@@ -15031,7 +15211,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-02T16:30:00",
     "hall": "SALA 17 XL",
@@ -15041,7 +15221,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-02T16:50:00",
     "hall": "5",
@@ -15051,7 +15231,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-02T17:10:00",
     "hall": "SALA 2 XL",
@@ -15101,7 +15281,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-02T18:40:00",
     "hall": "SALA 17 XL",
@@ -15141,7 +15321,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-02T19:30:00",
     "hall": "SALA 2 XL",
@@ -15171,7 +15351,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-02T21:00:00",
     "hall": "SALA 17 XL",
@@ -15211,7 +15391,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-02T21:50:00",
     "hall": "SALA 2 XL",
@@ -15231,7 +15411,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-03T10:40:00",
     "hall": "SALA 2 XL",
@@ -15241,7 +15421,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-03T11:00:00",
     "hall": "5",
@@ -15261,7 +15441,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-03T14:10:00",
     "hall": "SALA 17 XL",
@@ -15271,7 +15451,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-03T14:30:00",
     "hall": "5",
@@ -15281,7 +15461,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-03T14:50:00",
     "hall": "SALA 2 XL",
@@ -15341,7 +15521,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-03T16:30:00",
     "hall": "SALA 17 XL",
@@ -15351,7 +15531,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-03T16:50:00",
     "hall": "5",
@@ -15361,7 +15541,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-03T17:10:00",
     "hall": "SALA 2 XL",
@@ -15431,7 +15611,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-03T18:40:00",
     "hall": "SALA 17 XL",
@@ -15481,7 +15661,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-03T19:30:00",
     "hall": "SALA 2 XL",
@@ -15521,7 +15701,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-03T21:00:00",
     "hall": "SALA 17 XL",
@@ -15581,7 +15761,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-03T21:50:00",
     "hall": "SALA 2 XL",
@@ -15601,7 +15781,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-04T10:40:00",
     "hall": "SALA 2 XL",
@@ -15611,7 +15791,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-04T11:00:00",
     "hall": "5",
@@ -15631,7 +15811,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-04T14:10:00",
     "hall": "SALA 17 XL",
@@ -15651,7 +15831,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-04T14:30:00",
     "hall": "5",
@@ -15661,7 +15841,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-04T14:50:00",
     "hall": "SALA 2 XL",
@@ -15721,7 +15901,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-04T16:30:00",
     "hall": "SALA 17 XL",
@@ -15731,7 +15911,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-04T16:50:00",
     "hall": "5",
@@ -15741,7 +15921,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-04T17:10:00",
     "hall": "SALA 2 XL",
@@ -15811,7 +15991,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-04T18:40:00",
     "hall": "SALA 17 XL",
@@ -15861,7 +16041,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-04T19:30:00",
     "hall": "SALA 2 XL",
@@ -15901,7 +16081,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-04T21:00:00",
     "hall": "SALA 17 XL",
@@ -15951,7 +16131,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-04T21:50:00",
     "hall": "SALA 2 XL",
@@ -15971,7 +16151,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-05T10:40:00",
     "hall": "SALA 2 XL",
@@ -15981,7 +16161,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-05T11:00:00",
     "hall": "5",
@@ -16001,7 +16181,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-05T14:10:00",
     "hall": "SALA 17 XL",
@@ -16021,7 +16201,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-05T14:30:00",
     "hall": "5",
@@ -16031,7 +16211,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-05T14:50:00",
     "hall": "SALA 2 XL",
@@ -16101,7 +16281,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-05T16:30:00",
     "hall": "SALA 17 XL",
@@ -16111,7 +16291,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-05T16:50:00",
     "hall": "5",
@@ -16121,7 +16301,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-05T17:10:00",
     "hall": "SALA 2 XL",
@@ -16191,7 +16371,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-05T18:40:00",
     "hall": "SALA 17 XL",
@@ -16241,7 +16421,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-05T19:30:00",
     "hall": "SALA 2 XL",
@@ -16281,7 +16461,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-05T21:00:00",
     "hall": "SALA 17 XL",
@@ -16341,7 +16521,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-05T21:50:00",
     "hall": "SALA 2 XL",
@@ -16361,7 +16541,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-06T14:10:00",
     "hall": "SALA 17 XL",
@@ -16371,7 +16551,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-06T14:30:00",
     "hall": "5",
@@ -16381,7 +16561,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-06T14:50:00",
     "hall": "SALA 2 XL",
@@ -16411,7 +16591,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-06T16:30:00",
     "hall": "SALA 17 XL",
@@ -16421,7 +16601,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-06T16:50:00",
     "hall": "5",
@@ -16431,7 +16611,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-06T17:10:00",
     "hall": "SALA 2 XL",
@@ -16471,7 +16651,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-06T18:40:00",
     "hall": "SALA 17 XL",
@@ -16501,7 +16681,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-06T19:30:00",
     "hall": "SALA 2 XL",
@@ -16531,7 +16711,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-06T21:00:00",
     "hall": "SALA 17 XL",
@@ -16551,7 +16731,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-06T21:50:00",
     "hall": "SALA 2 XL",
@@ -16571,7 +16751,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-07T14:10:00",
     "hall": "SALA 17 XL",
@@ -16581,7 +16761,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-07T14:30:00",
     "hall": "5",
@@ -16591,7 +16771,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-07T14:50:00",
     "hall": "SALA 2 XL",
@@ -16621,7 +16801,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-07T16:30:00",
     "hall": "SALA 17 XL",
@@ -16631,7 +16811,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-07T16:50:00",
     "hall": "5",
@@ -16641,7 +16821,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-07T17:10:00",
     "hall": "SALA 2 XL",
@@ -16681,7 +16861,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-07T18:40:00",
     "hall": "SALA 17 XL",
@@ -16711,7 +16891,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-07T19:30:00",
     "hall": "SALA 2 XL",
@@ -16741,7 +16921,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-07T21:00:00",
     "hall": "SALA 17 XL",
@@ -16771,7 +16951,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-07T21:50:00",
     "hall": "SALA 2 XL",
@@ -16791,7 +16971,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-08T14:10:00",
     "hall": "SALA 17 XL",
@@ -16801,7 +16981,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-08T14:30:00",
     "hall": "5",
@@ -16811,7 +16991,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-08T14:50:00",
     "hall": "SALA 2 XL",
@@ -16841,7 +17021,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-08T16:30:00",
     "hall": "SALA 17 XL",
@@ -16851,7 +17031,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "3d - Minions & Monsters",
     "start": "2026-07-08T16:50:00",
     "hall": "5",
@@ -16861,7 +17041,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-08T17:10:00",
     "hall": "SALA 2 XL",
@@ -16901,7 +17081,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-08T18:40:00",
     "hall": "SALA 17 XL",
@@ -16931,7 +17111,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-08T19:30:00",
     "hall": "SALA 2 XL",
@@ -16961,7 +17141,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-08T21:00:00",
     "hall": "SALA 17 XL",
@@ -17011,7 +17191,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-08T21:50:00",
     "hall": "SALA 2 XL",
@@ -17031,7 +17211,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-09T14:50:00",
     "hall": "SALA 2 XL",
@@ -17041,7 +17221,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-09T17:10:00",
     "hall": "SALA 2 XL",
@@ -17051,7 +17231,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-09T19:30:00",
     "hall": "SALA 2 XL",
@@ -17061,7 +17241,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-09T21:50:00",
     "hall": "SALA 2 XL",
@@ -17071,7 +17251,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-10T14:50:00",
     "hall": "SALA 2 XL",
@@ -17091,7 +17271,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-10T17:10:00",
     "hall": "SALA 2 XL",
@@ -17111,7 +17291,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-10T19:30:00",
     "hall": "SALA 2 XL",
@@ -17141,7 +17321,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-10T21:50:00",
     "hall": "SALA 2 XL",
@@ -17161,7 +17341,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-11T14:50:00",
     "hall": "SALA 2 XL",
@@ -17171,7 +17351,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-11T17:10:00",
     "hall": "SALA 2 XL",
@@ -17191,7 +17371,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-11T19:30:00",
     "hall": "SALA 2 XL",
@@ -17221,7 +17401,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-11T21:50:00",
     "hall": "SALA 2 XL",
@@ -17231,7 +17411,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-12T14:50:00",
     "hall": "SALA 2 XL",
@@ -17261,7 +17441,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-12T17:10:00",
     "hall": "SALA 2 XL",
@@ -17271,7 +17451,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-12T19:30:00",
     "hall": "SALA 2 XL",
@@ -17301,7 +17481,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-12T21:50:00",
     "hall": "SALA 2 XL",
@@ -17311,7 +17491,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-13T14:50:00",
     "hall": "SALA 2 XL",
@@ -17321,7 +17501,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-13T17:10:00",
     "hall": "SALA 2 XL",
@@ -17351,7 +17531,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-13T19:30:00",
     "hall": "SALA 2 XL",
@@ -17381,7 +17561,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-13T21:50:00",
     "hall": "SALA 2 XL",
@@ -17391,7 +17571,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-14T14:50:00",
     "hall": "SALA 2 XL",
@@ -17401,7 +17581,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-14T17:10:00",
     "hall": "SALA 2 XL",
@@ -17431,7 +17611,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-14T19:30:00",
     "hall": "SALA 2 XL",
@@ -17471,7 +17651,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-14T21:50:00",
     "hall": "SALA 2 XL",
@@ -17481,7 +17661,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-15T14:50:00",
     "hall": "SALA 2 XL",
@@ -17491,7 +17671,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-15T17:10:00",
     "hall": "SALA 2 XL",
@@ -17521,7 +17701,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-15T19:30:00",
     "hall": "SALA 2 XL",
@@ -17551,7 +17731,7 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
+    "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
     "start": "2026-07-15T21:50:00",
     "hall": "SALA 2 XL",
