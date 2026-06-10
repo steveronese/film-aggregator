@@ -1,57 +1,5 @@
 [
   {
-    "tmdb_id": 1088548,
-    "title": "Amarga Navidad",
-    "original_title": "Amarga Navidad",
-    "italian_title": "Amarga Navidad",
-    "year": 2026,
-    "poster_path": "/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
-    "overview": "Il film racconta lo stretto legame tra realtà e finzione, tra ispirazione e vita, e apre una riflessione sui limiti dell’autofinzione.",
-    "title_en": "Bitter Christmas",
-    "overview_en": "After her mother dies in December, advertising director Elsa immerses herself in work to cope. When a panic attack forces her to take a break, she decides to travel to Lanzarote with her friend Patricia. The story of these women run parallel to that of a screenwriter and film director, exploring how life and fiction are inseparably linked, sometimes painfully so.",
-    "runtime": 112,
-    "director": "Pedro Almodóvar",
-    "genres": [
-      "Dramma",
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1370210,
-    "title": "Yalla Parkour",
-    "original_title": "يلّا باركور",
-    "italian_title": "Yalla Parkour",
-    "year": 2024,
-    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
-    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
-    "title_en": "Yalla Parkour",
-    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
-    "runtime": 89,
-    "director": "Areeb Zuaiter",
-    "genres": [
-      "Documentario",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 128,
-    "title": "Princess Mononoke",
-    "original_title": "もののけ姫",
-    "italian_title": "Princess Mononoke",
-    "year": 1997,
-    "poster_path": "/3alL6upCn0GX9Rp1RXtGzmJbEQa.jpg",
-    "overview": "In seguito allo scontro con un animale posseduto da un demone il principe Ashitaka viene contaminato da una maledizione mortale. Si mette dunque in viaggio per scoprirne l'origine e chiedere una cura al grande Dio Bestia, l'unico in grado di guarirlo. Arrivato nelle regioni da cui proveniva la bestia scopre una guerra tra uomini e una forma primitiva di animali della foresta, giganti, senzienti e aiutati da quella che chiamano la Principessa Spettro, una ragazza cresciuta dai lupi che ha rinnegato gli uomini. Dall'altra parte gli uomini, capitanati da Lady Eboshi che gestisce con amore, giustizia e pietà il suo villaggio di fabbri, vogliono lavorare la montagna e abbattere gli alberi per poter estrarre il ferro (fonte di ricchezza). In mezzo un gruppo di monaci cerca di fomentare gli uomini ad uccidere il Dio Bestia e rubarne la testa perchè, si dice, fornisca l'eterna giovinezza.",
-    "title_en": "Princess Mononoke",
-    "overview_en": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
-    "runtime": 134,
-    "director": "Hayao Miyazaki",
-    "genres": [
-      "Avventura",
-      "Fantasy",
-      "Animazione"
-    ]
-  },
-  {
     "tmdb_id": 1083381,
     "title": "Backrooms",
     "original_title": "Backrooms",
@@ -67,41 +15,6 @@
       "Horror",
       "Mistero",
       "Fantascienza"
-    ]
-  },
-  {
-    "tmdb_id": 1339713,
-    "title": "Obsession",
-    "original_title": "Obsession",
-    "italian_title": "Obsession",
-    "year": 2026,
-    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
-    "title_en": "Obsession",
-    "overview_en": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "runtime": 108,
-    "director": "Curry Barker",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1275779,
-    "title": "Disclosure Day",
-    "original_title": "Disclosure Day",
-    "italian_title": "Disclosure Day",
-    "year": 2026,
-    "poster_path": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
-    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
-    "title_en": "Disclosure Day",
-    "overview_en": "A cybersecurity expert becomes a whistleblower to reveal secrets about aliens, putting him on the run from a corporation while a meteorologist experiences strange phenomena and joins forces with him to prove there's life beyond our knowledge.",
-    "runtime": 145,
-    "director": "Steven Spielberg",
-    "genres": [
-      "Mistero",
-      "Fantascienza",
-      "Thriller"
     ]
   },
   {
@@ -123,6 +36,59 @@
     ]
   },
   {
+    "tmdb_id": 1275779,
+    "title": "Disclosure Day",
+    "original_title": "Disclosure Day",
+    "italian_title": "Disclosure Day",
+    "year": 2026,
+    "poster_path": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
+    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
+    "title_en": "Disclosure Day",
+    "overview_en": "A cybersecurity expert becomes a whistleblower to reveal secrets about aliens, putting him on the run from a corporation while a meteorologist experiences strange phenomena and joins forces with him to prove there's life beyond our knowledge.",
+    "runtime": 145,
+    "director": "Steven Spielberg",
+    "genres": [
+      "Mistero",
+      "Fantascienza",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 128,
+    "title": "Princess Mononoke",
+    "original_title": "もののけ姫",
+    "italian_title": "Princess Mononoke",
+    "year": 1997,
+    "poster_path": "/3alL6upCn0GX9Rp1RXtGzmJbEQa.jpg",
+    "overview": "In seguito allo scontro con un animale posseduto da un demone il principe Ashitaka viene contaminato da una maledizione mortale. Si mette dunque in viaggio per scoprirne l'origine e chiedere una cura al grande Dio Bestia, l'unico in grado di guarirlo. Arrivato nelle regioni da cui proveniva la bestia scopre una guerra tra uomini e una forma primitiva di animali della foresta, giganti, senzienti e aiutati da quella che chiamano la Principessa Spettro, una ragazza cresciuta dai lupi che ha rinnegato gli uomini. Dall'altra parte gli uomini, capitanati da Lady Eboshi che gestisce con amore, giustizia e pietà il suo villaggio di fabbri, vogliono lavorare la montagna e abbattere gli alberi per poter estrarre il ferro (fonte di ricchezza). In mezzo un gruppo di monaci cerca di fomentare gli uomini ad uccidere il Dio Bestia e rubarne la testa perchè, si dice, fornisca l'eterna giovinezza.",
+    "title_en": "Princess Mononoke",
+    "overview_en": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+    "runtime": 134,
+    "director": "Hayao Miyazaki",
+    "genres": [
+      "Avventura",
+      "Fantasy",
+      "Animazione"
+    ]
+  },
+  {
+    "tmdb_id": 1088548,
+    "title": "Amarga Navidad",
+    "original_title": "Amarga Navidad",
+    "italian_title": "Amarga Navidad",
+    "year": 2026,
+    "poster_path": "/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
+    "overview": "Il film racconta lo stretto legame tra realtà e finzione, tra ispirazione e vita, e apre una riflessione sui limiti dell’autofinzione.",
+    "title_en": "Bitter Christmas",
+    "overview_en": "After her mother dies in December, advertising director Elsa immerses herself in work to cope. When a panic attack forces her to take a break, she decides to travel to Lanzarote with her friend Patricia. The story of these women run parallel to that of a screenwriter and film director, exploring how life and fiction are inseparably linked, sometimes painfully so.",
+    "runtime": 112,
+    "director": "Pedro Almodóvar",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
     "tmdb_id": 1182861,
     "title": "Romería - Il mare dei ricordi",
     "original_title": "Romería",
@@ -135,6 +101,40 @@
     "runtime": 112,
     "director": "Carla Simón",
     "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1339713,
+    "title": "Obsession",
+    "original_title": "Obsession",
+    "italian_title": "Obsession",
+    "year": 2026,
+    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
+    "title_en": "Obsession",
+    "overview_en": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "runtime": 108,
+    "director": "Curry Barker",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1370210,
+    "title": "Yalla Parkour",
+    "original_title": "يلّا باركور",
+    "italian_title": "Yalla Parkour",
+    "year": 2024,
+    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
+    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
+    "title_en": "Yalla Parkour",
+    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
+    "runtime": 89,
+    "director": "Areeb Zuaiter",
+    "genres": [
+      "Documentario",
       "Dramma"
     ]
   },
@@ -202,40 +202,6 @@
     "director": "Max Walker-Silverman",
     "genres": [
       "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 36685,
-    "title": "The Rocky Horror Picture Show",
-    "original_title": "The Rocky Horror Picture Show",
-    "italian_title": "The Rocky Horror Picture Show",
-    "year": 1975,
-    "poster_path": "/5ycpwyUkYBwm2VFoE3TkP3OtuFw.jpg",
-    "overview": "Janet e Brad, due fidanzati molto pudichi, trovano rifugio da un temporale in un castello inquietante. Il non meno inquietante maggiordomo Riff Raff li introduce al padrone di casa, il Dr. Frank-N-Furter, abbigliato solo di tacchi a spillo, calze a rete, baby doll e guanti di pizzo. Sono capitati in un'occasione molto speciale: la convention dei trans-vestiti della Transilvania, il fatidico momento in cui Frank-N-Furter darà vita a Rocky, la perfetta creatura sessuale. I due fidanzatini sono sconvolti dai bizzarri personaggi che abitano il castello ma sono costretti a rimanere per la notte, che segnerà la loro iniziazione al sesso.",
-    "title_en": "The Rocky Horror Picture Show",
-    "overview_en": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man.",
-    "runtime": 95,
-    "director": "Jim Sharman",
-    "genres": [
-      "Commedia",
-      "Fantascienza",
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 3034,
-    "title": "Frankenstein Junior",
-    "original_title": "Young Frankenstein",
-    "italian_title": "Frankenstein Junior",
-    "year": 1974,
-    "poster_path": "/z2kxkJeJkrHwJpSOpKcKiRqJeUW.jpg",
-    "overview": "Alla lettura del testamento del barone Victor Von Frankenstein, si scopre che l'eredità va tutta al nipote Frederick, un brillante chirurgo di New York. Il dottore, seccato dalla parentela con l'illustre antenato, tentenna prima di accettare di recarsi al castello del nonno per fare un sopralluogo, ma alla fine intraprende un viaggio che lo porterà sulla strada di famiglia.",
-    "title_en": "Young Frankenstein",
-    "overview_en": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
-    "runtime": 101,
-    "director": "Mel Brooks",
-    "genres": [
-      "Commedia"
     ]
   },
   {
@@ -680,6 +646,60 @@
     ]
   },
   {
+    "tmdb_id": 12110,
+    "title": "Dracula morto e contento",
+    "original_title": "Dracula: Dead and Loving It",
+    "italian_title": "Dracula morto e contento",
+    "year": 1995,
+    "poster_path": "/jRdvhPgULf566nbeEuFdEHekdr6.jpg",
+    "overview": "Il Conte Dracula riesce a raggiungere Londra e prende dimora accanto alla proprietà del Dottor Seward, direttore del manicomio. Il vampiro attrae Lucy, pupilla del dottore per poi spostare le sue attenzioni su Mina, la pudibonda figlia del medico. Mina si trasforma in una scatenata danzatrice e nulla possono fare le strategie messe in atto dal Dottor Van Helsing. Poteva Mel Brooks dimenticarsi di Dracula dopo essersi occupato di Frankenstein? Sicuramente no anche perché il vampiro più importante della letteratura ci sarebbe rimasto male. Ecco allora che Brooks rivista il mito alla sua maniera e si fa affiancare dal sorriso accattivante (con canini incorporati) di Leslie Nielsen che abbandona le pallottole spuntate per seguirlo in un tourbillon di citazioni che non si ispirano solo al romanzo ma, come è ovvio, a tutto il cinema che ha visto Dracula come protagonista....",
+    "title_en": "Dracula: Dead and Loving It",
+    "overview_en": "When a lawyer shows up at the vampire's doorstep, he falls prey to his charms and joins him in his search for fresh blood. Enter Professor Van Helsing, who may be the only one able to vanquish the Count.",
+    "runtime": 88,
+    "director": "Mel Brooks",
+    "genres": [
+      "Commedia",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 74402,
+    "title": "L'assassino abita al 21",
+    "original_title": "L'assassin habite au… 21",
+    "italian_title": "L'assassino abita al 21",
+    "year": 1942,
+    "poster_path": "/4YvB3s2SmYcgcaqtCr9EDB2qeTV.jpg",
+    "overview": "Parigi, Francia. Il commissario Wens segue le tracce di uno spietato assassino in un luogo inaspettato.",
+    "title_en": "The Murderer Lives at Number 21",
+    "overview_en": "Paris, France. Commissaire Wens follows the lead of a ruthless murderer to an unexpected place.",
+    "runtime": 83,
+    "director": "Henri-Georges Clouzot",
+    "genres": [
+      "Commedia",
+      "Mistero",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 22561,
+    "title": "Allegro non troppo",
+    "original_title": "Allegro non troppo",
+    "italian_title": "Allegro non troppo",
+    "year": 1976,
+    "poster_path": "/rKm1zFtwf9XVlxxHFHXe6g474ji.jpg",
+    "overview": "Allegro non troppo è un film a tecnica mista, in parte dal vero e in parte d'animazione, prodotto e diretto da Bruno Bozzetto.  Dichiaratamente ispirato al classico disneyano Fantasia, è composto da sei episodi animati (più un finale composto da diversi cortometraggi di pochi secondi), ciascuno accompagnato da un celebre brano di musica classica, inseriti in un film-cornice girato dal vero, in bianco e nero.  In un teatro vuoto, un pomposo presentatore introduce un insolito spettacolo: mentre un direttore d'orchestra fa eseguire i brani a un'improbabile orchestra improvvisata, formata da vecchiette in abiti belle époque prelevate da un ospizio, un disegnatore, tenuto incatenato per anni, ne realizza in tempo reale la versione animata.",
+    "title_en": "Allegro non troppo",
+    "overview_en": "An enterprising producer believes he has hit upon a winning concept: a program of original animated shorts set to classical music. Undeterred by warnings that this has already been done by an American named 'Prisney,' he rallies an orchestra of geriatric women, a bullish conductor, and an animator that he keeps locked in the dungeon. What could go wrong?",
+    "runtime": 85,
+    "director": "Bruno Bozzetto",
+    "genres": [
+      "Fantasy",
+      "Animazione",
+      "Commedia",
+      "Musica"
+    ]
+  },
+  {
     "tmdb_id": 1314481,
     "title": "Il diavolo veste Prada 2",
     "original_title": "The Devil Wears Prada 2",
@@ -730,22 +750,6 @@
     ]
   },
   {
-    "tmdb_id": 202986,
-    "title": "The Sea",
-    "original_title": "The Sea",
-    "italian_title": "The Sea",
-    "year": 2013,
-    "poster_path": "/ziOHwkdPuUFk1chLXgX8qXMm6W2.jpg",
-    "overview": null,
-    "title_en": "The Sea",
-    "overview_en": "A man returns to the sea where he spent his childhood summers in search of peace following the death of his wife.",
-    "runtime": 86,
-    "director": "Stephen Brown",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1462322,
     "title": "Le città di pianura",
     "original_title": "Le città di pianura",
@@ -790,6 +794,22 @@
     "overview_en": "Plagued by an abusive childhood, a woman finds escape in competitive swimming, sexual experimentation, toxic relationships, and addiction before ultimately finding her voice through writing.",
     "runtime": 129,
     "director": "Kristen Stewart",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1303613,
+    "title": "Il silenzio degli altri",
+    "original_title": "Sorda",
+    "italian_title": "Il silenzio degli altri",
+    "year": 2025,
+    "poster_path": "/19AayxcUE4ZSEs6nRc7BcHqE9Kq.jpg",
+    "overview": "Ángela, una donna sorda, aspetta un figlio dal suo partner Héctor, che invece ha un normale udito. L'arrivo della bambina sconvolge la loro relazione, costringendo Ángela ad affrontare le sfide poste dal crescere sua figlia in un mondo che non è fatto per madri come lei.",
+    "title_en": "Deaf",
+    "overview_en": "Angela's deafness raises concerns during her pregnancy regarding connecting with her daughter. Post-delivery, partner Héctor supports her as she learns to mother in a society lacking adequate accommodations for the hearing-impaired.",
+    "runtime": 100,
+    "director": "Eva Libertad",
     "genres": [
       "Dramma"
     ]
@@ -944,40 +964,6 @@
     ]
   },
   {
-    "tmdb_id": 858024,
-    "title": "Hamnet - Nel nome del figlio",
-    "original_title": "Hamnet",
-    "italian_title": "Hamnet - Nel nome del figlio",
-    "year": 2025,
-    "poster_path": "/ro2a5k5dx8RWXGY0TmhqxTAffaI.jpg",
-    "overview": "In un bosco, una giovane donna dorme rannicchiata nella culla formata dalla radice emersa di un albero secolare: è vestita di rosso cupo, accompagnata da un falco che risponde ai suoi richiami, conosce erbe e pozioni, si dice non sia nata da sua madre ma da una donna venuta da lontano. Si chiama Agnes e quando Will la vede se ne innamora subito. Will è il giovane William Shakespeare, che riesce a sposarla nonostante l’ostilità delle famiglie e ad avere con lei tre figli, Susannah e i gemelli Judith e Hamnet. Ma un lutto li colpisce, quando il drammaturgo lavora già a Londra, e Hamnet diventa Hamlet. Tratta dal romanzo del 2020 di Maggie O’Farrell, la storia di Agnes (più che di William), intessuta di magia e femminilità.",
-    "title_en": "Hamnet",
-    "overview_en": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-    "runtime": 126,
-    "director": "Chloé Zhao",
-    "genres": [
-      "Dramma",
-      "Romance",
-      "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1303613,
-    "title": "Il silenzio degli altri",
-    "original_title": "Sorda",
-    "italian_title": "Il silenzio degli altri",
-    "year": 2025,
-    "poster_path": "/19AayxcUE4ZSEs6nRc7BcHqE9Kq.jpg",
-    "overview": "Ángela, una donna sorda, aspetta un figlio dal suo partner Héctor, che invece ha un normale udito. L'arrivo della bambina sconvolge la loro relazione, costringendo Ángela ad affrontare le sfide poste dal crescere sua figlia in un mondo che non è fatto per madri come lei.",
-    "title_en": "Deaf",
-    "overview_en": "Angela's deafness raises concerns during her pregnancy regarding connecting with her daughter. Post-delivery, partner Héctor supports her as she learns to mother in a society lacking adequate accommodations for the hearing-impaired.",
-    "runtime": 100,
-    "director": "Eva Libertad",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1228710,
     "title": "The Mandalorian and Grogu",
     "original_title": "The Mandalorian and Grogu",
@@ -1064,23 +1050,6 @@
     ]
   },
   {
-    "tmdb_id": 350,
-    "title": "Il diavolo veste Prada",
-    "original_title": "The Devil Wears Prada",
-    "italian_title": "Il diavolo veste Prada",
-    "year": 2006,
-    "poster_path": "/2qyD1izvofdwFTX5CRLsSmjn98f.jpg",
-    "overview": "Dopo essersi laureata con successo nella cittadina di provincia nella quale ha sempre vissuto, Andy si trasferisce a New York dove riesce ad essere assunta come assistente di Miranda Priestly, direttrice di Runaway, rivista di moda per eccellenza, che detta legge anche agli stilisti. I modi dispotici di Miranda e la mancanza di feeling con le ambiziosissime colleghe impongono ad Andy di cambiare se stessa tanto nell'aspetto, quanto nell'animo, per poter sopravvivere alla giungla dell'ambiente di lavoro. Pian piano conquista la fiducia di Miranda, a scapito delle amicizie e dell'amore...",
-    "title_en": "The Devil Wears Prada",
-    "overview_en": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
-    "runtime": 109,
-    "director": "David Frankel",
-    "genres": [
-      "Dramma",
-      "Commedia"
-    ]
-  },
-  {
     "tmdb_id": 1455079,
     "title": "Tra amore e inganni",
     "original_title": "You, Me & Tuscany",
@@ -1151,39 +1120,6 @@
     ]
   },
   {
-    "tmdb_id": 1313211,
-    "title": "La festa è finita!",
-    "original_title": "Classe moyenne",
-    "italian_title": "La festa è finita!",
-    "year": 2025,
-    "poster_path": "/eXeNLAnk9sUjS0M6F2BdOdMm42c.jpg",
-    "overview": "Mehdi, un giovane avvocato in erba, passa l’estate nella sontuosa villa dei genitori della fidanzata. Appena arrivato, scoppia un conflitto tra la famiglia della sua ragazza e la coppia di custodi della villa. Mehdi, per impressionare il suocero, tenta di condurre i negoziati tra le due parti e riportare tutti alla ragione. La situazione gli sfuggirà di mano...",
-    "title_en": "The Party's Over!",
-    "overview_en": "Mehdi had planned to spend a quiet summer in his in-laws' sumptuous home. But as soon as he arrives, a conflict breaks out between his girfriend's family and the villa's janitor couple. As Mehdi comes from a modest background, he thinks he can lead the negotiations between the two parties and bring everyone back to their senses. But things start to escalate...",
-    "runtime": 95,
-    "director": "Antony Cordier",
-    "genres": [
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1407548,
-    "title": "Illusione",
-    "original_title": "Illusione",
-    "italian_title": "Illusione",
-    "year": 2026,
-    "poster_path": "/rxDFV66LmAtvz61JeFwdUJGG7dv.jpg",
-    "overview": "Periferia di Perugia. In un fosso viene ritrovata una ragazzina. Indossa un completo d'alta moda ed è bellissima. La polizia sta per portare via il corpo, quando un sospiro la svela ancora viva: si chiama Rosa Lazar, è moldava e non ha nemmeno 16 anni. La sostituta procuratrice Cristina Camponeschi e lo psicologo Stefano Mangiaboschi sono immediatamente chiamati a occuparsi del caso. L'indagine è più complicata del previsto, perché Rosa non sembra avere coscienza delle brutali violenze subite e copre la verità dei fatti. Dietro la maschera di un'incessante gioiosità emerge un profilo psicologico molto disturbato. Come è arrivata a Perugia questa lolita che non sembra una normale prostituta e che si comporta come una bambina? Per la sostituta procuratrice Rosa diventerà la chiave per un'indagine internazionale su scenari inquietanti. Per lo psicologo sarà un altro tipo di indagine, interiore, che lo porterà a scoprire il vero enigma di Rosa Lazar",
-    "title_en": "Illusione",
-    "overview_en": "Perugia. The police are carrying away the body of a young woman when they hear a sigh: Rosa Lazar is still alive. The assistant district attorney Cristina Camponeschi and psychologist Stefano Mangiaboschi investigate, but Rosa seems unaware of the attack she has endured and hides the truth. For Cristina, the girl is the key to an international crime ring; for Stefano, the start of an inner journey that will lead him to reveal the true enigma of Rosa Lazar.",
-    "runtime": 110,
-    "director": "Francesca Archibugi",
-    "genres": [
-      "Dramma",
-      "Mistero"
-    ]
-  },
-  {
     "tmdb_id": 1464374,
     "title": "Le tigri di Mompracem",
     "original_title": "Los Tigres",
@@ -1217,6 +1153,22 @@
     ]
   },
   {
+    "tmdb_id": 1313211,
+    "title": "La festa è finita!",
+    "original_title": "Classe moyenne",
+    "italian_title": "La festa è finita!",
+    "year": 2025,
+    "poster_path": "/eXeNLAnk9sUjS0M6F2BdOdMm42c.jpg",
+    "overview": "Mehdi, un giovane avvocato in erba, passa l’estate nella sontuosa villa dei genitori della fidanzata. Appena arrivato, scoppia un conflitto tra la famiglia della sua ragazza e la coppia di custodi della villa. Mehdi, per impressionare il suocero, tenta di condurre i negoziati tra le due parti e riportare tutti alla ragione. La situazione gli sfuggirà di mano...",
+    "title_en": "The Party's Over!",
+    "overview_en": "Mehdi had planned to spend a quiet summer in his in-laws' sumptuous home. But as soon as he arrives, a conflict breaks out between his girfriend's family and the villa's janitor couple. As Mehdi comes from a modest background, he thinks he can lead the negotiations between the two parties and bring everyone back to their senses. But things start to escalate...",
+    "runtime": 95,
+    "director": "Antony Cordier",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
     "tmdb_id": 239,
     "title": "A qualcuno piace caldo",
     "original_title": "Some Like It Hot",
@@ -1232,6 +1184,536 @@
       "Commedia",
       "Romance",
       "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 1184941,
+    "title": "Blue Heron",
+    "original_title": "Blue Heron",
+    "italian_title": "Blue Heron",
+    "year": 2026,
+    "poster_path": "/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
+    "overview": null,
+    "title_en": "Blue Heron",
+    "overview_en": "In the late 1990s, a family of six settles into their new home on Vancouver Island, as internal dynamics are slowly revealed through the experiences of the youngest child, Sasha. Their fresh start is interrupted by the increasingly dangerous behavior of Jeremy, the family's oldest child.",
+    "runtime": 91,
+    "director": "Sophy Romvari",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 96936,
+    "title": "Bling Ring",
+    "original_title": "The Bling Ring",
+    "italian_title": "Bling Ring",
+    "year": 2013,
+    "poster_path": "/6yh55qCcdgPRJweDWM2CiEubJCL.jpg",
+    "overview": "In una Los Angels tormentata dal successo, un gruppo di adolescenti ci mostra la frenesia criminale ed emozionante delle colline di Hollywood. L’ossessione per la vita delle star porta i ragazzi a rintracciare online gli indirizzi di molte celebrità, tra cui Paris Hiliton, Orlando Bloom, Rachel Bilson, Megan Fox e Lindsay Lohan. arrivando a sottrarre dalle loro abitazioni circa 3 milioni di euro in beni di lusso. Basato su un evento realmente accaduto, il film racconta la storia della banda più famosa di Hollywood, ribattezzata dai media \"Bling Ring”.",
+    "title_en": "The Bling Ring",
+    "overview_en": "Lured by stardom, a crew of aimless teens breaks into celebrity homes for a string of high-profile robberies and fame by appropriation.",
+    "runtime": 90,
+    "director": "Sofia Coppola",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 503919,
+    "title": "The Lighthouse",
+    "original_title": "The Lighthouse",
+    "italian_title": "The Lighthouse",
+    "year": 2019,
+    "poster_path": "/w8lnWLKBAEOT0o3GL1rpu9kZ6Q3.jpg",
+    "overview": "Sul finire dell’Ottocento, su una remota isola al largo della costa del New England, due guardiani del faro rimangono intrappolati e isolati a causa di una tempesta apparentemente senza fine. Finiscono così con l’ingaggiare una battaglia contro la propria volontà, mentre aumentano le tensioni a causa delle forze eccessive e misteriose (reali o meno) che li circondano…",
+    "title_en": "The Lighthouse",
+    "overview_en": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+    "runtime": 109,
+    "director": "Robert Eggers",
+    "genres": [
+      "Dramma",
+      "Fantasy",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 846580,
+    "title": "Le Lac",
+    "original_title": "Le Lac",
+    "italian_title": "Le Lac",
+    "year": 2026,
+    "poster_path": "/pqSsqg1xaI81C0ujOrvhRJCCBuQ.jpg",
+    "overview": null,
+    "title_en": "The Lake",
+    "overview_en": "With everything they've got, a couple throws themselves into a sailing race lasting several days and nights on a large lake.",
+    "runtime": 75,
+    "director": "Fabrice Aragno",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 399019,
+    "title": "L'inganno",
+    "original_title": "The Beguiled",
+    "italian_title": "L'inganno",
+    "year": 2017,
+    "poster_path": "/ihS5ghfmi4OCDbtL3T8YM7otmct.jpg",
+    "overview": "In piena Guerra di Secessione, nel profondo Sud, le donne di diverse età che sono rimaste in un internato per ragazze di buona famiglia danno ricovero ad un soldato ferito. Dopo averlo curato e rifocillato costui resta confinato nella sua camera attraendo però, in vario modo e misura, l'attenzione di tutte. La tensione aumenterà mutando profondamente i rapporti tra loro e l'ospite.",
+    "title_en": "The Beguiled",
+    "overview_en": "During the Civil War, at a Southern girls’ boarding school, young women take in an injured enemy soldier. As they provide refuge and tend to his wounds, the house is taken over with sexual tension and dangerous rivalries, and taboos are broken in an unexpected turn of events.",
+    "runtime": 91,
+    "director": "Sofia Coppola",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1517069,
+    "title": "Marc by Sofia",
+    "original_title": "Marc by Sofia",
+    "italian_title": "Marc by Sofia",
+    "year": 2026,
+    "poster_path": "/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
+    "overview": "Un ritratto intimo e anticonvenzionale di Marc Jacobs per restituire il genio e l’universo straordinario del leggendario stilista americano.",
+    "title_en": "Marc by Sofia",
+    "overview_en": "An intimate, unconventional portrait of Marc Jacobs, crafted by Sofia Coppola to capture the genius and singular universe of the iconic American designer.",
+    "runtime": 87,
+    "director": "Sofia Coppola",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1020006,
+    "title": "Priscilla",
+    "original_title": "Priscilla",
+    "italian_title": "Priscilla",
+    "year": 2023,
+    "poster_path": "/z8qrafMlOqZMqbtH9GUdsw6qcoO.jpg",
+    "overview": "Quando l’adolescente Priscilla Beaulieu incontra a una festa Elvis Presley, l’uomo, che è già una superstar del rock’n’roll, nel privato le si rivela come qualcuno di completamente diverso: un amore travolgente, un alleato nella solitudine e un amico vulnerabile. Attraverso gli occhi di Priscilla, Sofia Coppola ci racconta il lato nascosto di un grande mito americano, nel lungo corteggiamento e nel matrimonio turbolento con Elvis. Una storia iniziata in una base dell’esercito tedesco e proseguita nella sua tenuta da sogno a Graceland. Una storia fatta di amore, sogni e fama.",
+    "title_en": "Priscilla",
+    "overview_en": "When teenage Priscilla Beaulieu meets Elvis Presley at a party, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best friend.",
+    "runtime": 110,
+    "director": "Sofia Coppola",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 92990,
+    "title": "Terra gialla",
+    "original_title": "黄土地",
+    "italian_title": "Terra gialla",
+    "year": 1984,
+    "poster_path": "/ej07CkHAyExnxeVVTxN55smOo19.jpg",
+    "overview": null,
+    "title_en": "Yellow Earth",
+    "overview_en": "A communist soldier is sent to a remote region of China in order to collect folk songs. Staying with a peasant family (a widower with two small children), he discovers a community whose way of life is completely alien to him, but he gradually wins their trust.",
+    "runtime": 91,
+    "director": "Chen Kaige",
+    "genres": [
+      "Dramma",
+      "Musica",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1258509,
+    "title": "L'amore che rimane",
+    "original_title": "Ástin sem eftir er",
+    "italian_title": "L'amore che rimane",
+    "year": 2025,
+    "poster_path": "/7HUkyrptprlTludHPFST1vQhOwT.jpg",
+    "overview": "Anna e Magnus, detto Maggi, si stanno separando: è un processo graduale, che la coppia porta avanti trascorrendo ancora del tempo insieme ai tre figli, in escursioni o in cene a casa. Mentre l'unità coniugale si va sfaldando, Anna si concentra sul suo lavoro di artista, anche se i riconoscimenti tardano ad arrivare; Maggi, invece, lavora su un peschereccio ed è quasi sempre in mare aperto. Quando i genitori non ci sono, i figli si dedicano a passatempi curiosi: in particolare i due gemelli, che tendono a creare giochi bizzarri e talora pericolosi per la loro incolumità.",
+    "title_en": "The Love That Remains",
+    "overview_en": "Tenderly captures a year in the life of a family as the parents navigate their separation. Through both playful and heartfelt moments, the film portrays the bittersweet essence of faded love and shared memories amidst the changing seasons.",
+    "runtime": 109,
+    "director": "Hlynur Pálmason",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1443,
+    "title": "Il giardino delle vergini suicide",
+    "original_title": "The Virgin Suicides",
+    "italian_title": "Il giardino delle vergini suicide",
+    "year": 2000,
+    "poster_path": "/gp4sqRZfmx1NkFusXNcbQfWtT6Y.jpg",
+    "overview": "Cinque sorelle fra i quindici e i diciannove anni vivono infelici, tormentate da genitori che credono di fare il loro bene. La madre è integralista e cieca: costringe una delle sorelle, per punizione, a bruciare i dischi più cari. Il padre è molle e latitante, tutto preso a costruire i suoi modellini. Certo, ci sono i ragazzi che le corteggiano e le stimano, ma non basta. La prima muore gettandosi sulle punte del cancello di casa. Le altre quattro organizzano uno struggente suicidio collettivo.",
+    "title_en": "The Virgin Suicides",
+    "overview_en": "A group of male friends become obsessed with five mysterious sisters who are sheltered by their strict, religious parents.",
+    "runtime": 95,
+    "director": "Sofia Coppola",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 260886,
+    "title": "Italia: Ultimo atto?",
+    "original_title": "Italia: Ultimo atto?",
+    "italian_title": "Italia: Ultimo atto?",
+    "year": 1977,
+    "poster_path": "/bhBPyHHqmFm6pC4UuMWYrD2UrZn.jpg",
+    "overview": "Ferruccio, caporeparto di un'officina; Bruno, delinquente comune convertitosi alla lotta politica armata; Mara, di estrazione borghese, sono tre terroristi cui, nei piani della loro organizzazione spettava il compito di uccidere il ministro degli Interni. Giudicando però che nell'attuale situazione del nostro paese l'attentato farebbe il gioco della reazione, i capi decidono di differirlo. Trasgredendo ai loro ordini, Ferruccio e i suoi due compagni lo portano ugualmente a termine. Durante l'azione omicida di cui restano vittime, oltre al ministro, anche gli uomini della sua scorta.",
+    "title_en": "Could It Happen Here?",
+    "overview_en": "Three terrorists—a rebel girl from an upper-class family, a teacher who despises capitalism, and an ex-con with a taste for violence—come together to kill the Minister of the Interior and destabilise the government.",
+    "runtime": 90,
+    "director": "Massimo Pirri",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 58089,
+    "title": "Gente di Roma",
+    "original_title": "Gente di Roma",
+    "italian_title": "Gente di Roma",
+    "year": 2003,
+    "poster_path": "/fLziEgc6viePMk9swenNZUbMsA7.jpg",
+    "overview": "Una giornata qualunque nella città eterna. Tanti piccoli frammenti di vita si susseguono in una carrellata di personaggi attraverso le storie dei quali, dalla tragedia alla commedia, Scola ci racconta la sua amata Roma. Il filo conduttore dei tanti episodi slegati tra loro è un autobus che percorre le strade della città, dall'alba al tramonto. Per scrivere storie interessanti bisognerebbe tornare a prendere il tram (o,nel caso presente, l'autobus) come suggeriva Zavattini? Forse sì, ma di certo bisognerebbe avere interesse a narrare: interesse che Scola non sembra avere più.",
+    "title_en": "People of Rome",
+    "overview_en": "Rome 2003, the camera follows citizens of Rome. Night, in a flat, a woman prepares her husband's lunch. The man takes a bus, but the camera follow another bus ... a woman cleans the mayor's office... A man interviews passengers on a bus about immigration...... the owner of a bar is racist person... a survivor woman of Holocaust remembers the Ghetto deportation... deportation that is filmed by a director... Stefania Sandrelli plays with her grand daughter in a park a man tries to seduce the bus driver...gay night life... sunrise at Piazza Navona, a noble man and a tramp are sitting together. - - - Gente di Roma is a 2003 Italian comedy mockumentary film directed by Ettore Scola. It is close to Federico Fellini's Roma. The film is dedicated to Alberto Sordi, who Scola wanted to close the film, as a noble man, but he could not film him because he died. Scola's daughters helped to co-write the script. (From Wikipedia, the free encyclopedia)",
+    "runtime": 100,
+    "director": "Ettore Scola",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 153,
+    "title": "Lost in Translation - L'amore tradotto",
+    "original_title": "Lost in Translation",
+    "italian_title": "Lost in Translation - L'amore tradotto",
+    "year": 2003,
+    "poster_path": "/yGVhHMLgvPwXszMOxj1BLnInIZ7.jpg",
+    "overview": "Bob Harris e Charlotte sono due americani a Tokyo. Bob è una star del cinema ed è a Tokyo per girare uno spot pubblicitario per una marca di whisky, mentre Charlotte è una giovane donna che arranca dietro al marito fotografo instancabile. Colpiti entrambi da insonnia, Bob e Charlotte s'incontrano una notte per caso nel bar dell'hotel dove alloggiano.",
+    "title_en": "Lost in Translation",
+    "overview_en": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+    "runtime": 102,
+    "director": "Sofia Coppola",
+    "genres": [
+      "Dramma",
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1887,
+    "title": "Marie Antoinette",
+    "original_title": "Marie Antoinette",
+    "italian_title": "Marie Antoinette",
+    "year": 2006,
+    "poster_path": "/7pAO55Ygg03vzk8qZmqnVcKJo8b.jpg",
+    "overview": "Maria Antonietta, la figlia della regina d'Austria viene promessa in sposa appena quattordicenne a Luigi XVI, il futuro re di Francia. Nonostante la sua riluttanza, la giovane si trasferisce a Versailles, ma non riuscirà mai ad entrare in sintonia col popolo francese che in primis, non le perdona il fatto di essere straniera, così allo scoppio della Rivoluzione, quando Maria Antonietta si schiera dalla parte dell'aristocrazia, una volta catturata, sarà condannata dal tribunale rivoluzionario alla ghigliottina.",
+    "title_en": "Marie Antoinette",
+    "overview_en": "A retelling of the story of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles.",
+    "runtime": 123,
+    "director": "Sofia Coppola",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1456349,
+    "title": "Un semplice incidente",
+    "original_title": "Un simple accident",
+    "italian_title": "Un semplice incidente",
+    "year": 2025,
+    "poster_path": "/vrPr6OUKE7yzfti13pEnhx0RZ9O.jpg",
+    "overview": "Padre, madre e figlioletta percorrono di notte una strada in auto quando un cane finisce sotto le ruote. Ciò provoca un danneggiamento al veicolo che costringe ad una sosta per la riparazione temporanea. Un uomo che si trova sul posto cerca di non farsi vedere perché gli è parso di riconoscere nel conducente dell'auto un agente dei servizi segreti che lo ha sottoposto a violenza in carcere. Riesce successivamente a sequestrarlo ed è pronto a seppellirlo vivo quando gli viene il dubbio che si tratti di uno scambio di persona. Cercherà conferme in altri che, come lui seppure in misure diverse, hanno subito la ferocia dell'uomo.",
+    "title_en": "It Was Just an Accident",
+    "overview_en": "An unassuming mechanic is reminded of his time in an Iranian prison when he encounters a man he suspects to be his sadistic jailhouse captor.",
+    "runtime": 103,
+    "director": "Jafar Panahi",
+    "genres": [
+      "Dramma",
+      "Thriller",
+      "Crime",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 1124566,
+    "title": "Sentimental Value",
+    "original_title": "Affeksjonsverdi",
+    "italian_title": "Sentimental Value",
+    "year": 2025,
+    "poster_path": "/lk0Tfskd5V84AbpJs9M1ZXJjVPf.jpg",
+    "overview": "Nora e Agnes sono due sorelle profondamente unite. L’improvviso rientro nella loro vita del padre Gustav – regista carismatico e affascinante ma genitore cronicamente inaffidabile – riapre ferite mai del tutto rimarginate. Conoscendo il talento di attrice di Nora, Gustav vorrebbe che sua figlia interpretasse il ruolo principale nel film che dovrebbe rilanciare la sua carriera; lei rifiuta e quella parte finisce a una giovane star di Hollywood, Rachel Kemp. Il suo arrivo getta scompiglio nelle delicate dinamiche della famiglia: per le due sorelle sarà il momento di confrontarsi con il padre e con il loro passato.",
+    "title_en": "Sentimental Value",
+    "overview_en": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
+    "runtime": 133,
+    "director": "Joachim Trier",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 36685,
+    "title": "The Rocky Horror Picture Show",
+    "original_title": "The Rocky Horror Picture Show",
+    "italian_title": "The Rocky Horror Picture Show",
+    "year": 1975,
+    "poster_path": "/5ycpwyUkYBwm2VFoE3TkP3OtuFw.jpg",
+    "overview": "Janet e Brad, due fidanzati molto pudichi, trovano rifugio da un temporale in un castello inquietante. Il non meno inquietante maggiordomo Riff Raff li introduce al padrone di casa, il Dr. Frank-N-Furter, abbigliato solo di tacchi a spillo, calze a rete, baby doll e guanti di pizzo. Sono capitati in un'occasione molto speciale: la convention dei trans-vestiti della Transilvania, il fatidico momento in cui Frank-N-Furter darà vita a Rocky, la perfetta creatura sessuale. I due fidanzatini sono sconvolti dai bizzarri personaggi che abitano il castello ma sono costretti a rimanere per la notte, che segnerà la loro iniziazione al sesso.",
+    "title_en": "The Rocky Horror Picture Show",
+    "overview_en": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man.",
+    "runtime": 95,
+    "director": "Jim Sharman",
+    "genres": [
+      "Commedia",
+      "Fantascienza",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 1220564,
+    "title": "L'agente segreto",
+    "original_title": "O Agente Secreto",
+    "italian_title": "L'agente segreto",
+    "year": 2025,
+    "poster_path": "/hQWzqAQ798fBOzQZ7cuLjTOLqCI.jpg",
+    "overview": "Brasile, 1977. Marcelo è in fuga. Raggiunge Recife durante la settimana del Carnevale per riabbracciare il figlio, ma scopre presto che la città non è l’ameno rifugio che aveva immaginato: sotto la superficie festosa pulsa una realtà soffocante, carica di tensione, violenza e pericolo.",
+    "title_en": "The Secret Agent",
+    "overview_en": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
+    "runtime": 161,
+    "director": "Kleber Mendonça Filho",
+    "genres": [
+      "Thriller",
+      "Dramma",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 1317288,
+    "title": "Marty Supreme",
+    "original_title": "Marty Supreme",
+    "italian_title": "Marty Supreme",
+    "year": 2025,
+    "poster_path": "/et9WEOYIel2xTEPL1xwBkifgO2V.jpg",
+    "overview": "Marty Mauser (Timothée Chalamet) è un venditore di scarpe con un’irrefrenabile ossessione per il ping pong che si muove nella New York degli anni ’50 fra truffe, scommesse, passioni proibite e sogni di gloria. Un’esistenza rocambolesca per un personaggio larger than life, eccentrico e ambiziosissimo, smodato e leggendario.",
+    "title_en": "Marty Supreme",
+    "overview_en": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+    "runtime": 149,
+    "director": "Josh Safdie",
+    "genres": [
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1151272,
+    "title": "Sirāt",
+    "original_title": "Sirāt",
+    "italian_title": "Sirāt",
+    "year": 2025,
+    "poster_path": "/edEDZwU3kZerqdylZsyCn7feH23.jpg",
+    "overview": "Luis con il giovane figlio Esteban si aggira in un rave party mostrando una foto della figlia Mar della quale ha perso da alcuni mesi le tracce e che vorrebbe trovare. Nessuno la conosce ma, nel corso della ricerca, l'uomo fa delle conoscenze che, dopo la chiusura della festa da parte dei militari, lo indirizzano verso un altro rave. Il viaggio non sarà dei più facili e non solo per le asperità del terreno.",
+    "title_en": "Sirāt",
+    "overview_en": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
+    "runtime": 115,
+    "director": "Oliver Laxe",
+    "genres": [
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1480382,
+    "title": "La voce di Hind Rajab",
+    "original_title": "صوت هند رجب",
+    "italian_title": "La voce di Hind Rajab",
+    "year": 2025,
+    "poster_path": "/dxMJK7Ugfs7M0Ac9qFIHsmeX3k2.jpg",
+    "overview": "29 gennaio 2024. I volontari della Mezzaluna Rossa ricevono una chiamata di emergenza. Una bambina di sei anni è intrappolata in un’auto sotto attacco a Gaza, e implora di essere salvata. Mentre cercano di tenerla al telefono fanno tutto il possibile per farle arrivare un’ambulanza. Il suo nome era Hind Rajab.",
+    "title_en": "The Voice of Hind Rajab",
+    "overview_en": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
+    "runtime": 89,
+    "director": "Kaouther Ben Hania",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1287141,
+    "title": "Pillion - Amore senza freni",
+    "original_title": "Pillion",
+    "italian_title": "Pillion - Amore senza freni",
+    "year": 2025,
+    "poster_path": "/as93xiDvY1RwfLoNp4GRFmaOCjo.jpg",
+    "overview": "Colin, timido e introverso, vede la sua vita piacevolmente travolta dall’incontro con Ray, carismatico e fascinoso leader di un gruppo di bikers. Tra i due si instaura presto una relazione BDSM che vede Ray nel ruolo del padrone e Colin in quelli del suo devotissimo sottomesso. Sarà l’inizio di una storia d’amore inconsueta e travolgente, che cambierà profondamente entrambi.",
+    "title_en": "Pillion",
+    "overview_en": "Colin, a timid gay man, is swept off his feet when Ray, an enigmatic and impossibly handsome biker, takes him on as his submissive in a crazy and erotic BDSM-focused relationship.",
+    "runtime": 107,
+    "director": "Harry Lighton",
+    "genres": [
+      "Romance",
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1033148,
+    "title": "Die My Love",
+    "original_title": "Die My Love",
+    "italian_title": "Die My Love",
+    "year": 2025,
+    "poster_path": "/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
+    "overview": "Grace, madre e scrittrice, sta lentamente scivolando nella follia. Chiusa in una vecchia casa in Montana, diventa sempre più nervosa e imprevedibile, mentre il suo compagno Jackson assiste impotente.",
+    "title_en": "Die My Love",
+    "overview_en": "After inheriting a remote Montana house, Jackson moves there from New York with his partner Grace, and the couple soon welcome a child. As Jackson becomes increasingly absent and rural isolation sets in, Grace struggles with loneliness, creative frustration, and unresolved emotional wounds. What begins as an attempt at renewal gradually turns into an intense psychological descent, placing strain on their relationship and exposing the fragile balance between love, identity, and motherhood.",
+    "runtime": 119,
+    "director": "Lynne Ramsay",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1442922,
+    "title": "Un anno di scuola",
+    "original_title": "Un anno di scuola",
+    "italian_title": "Un anno di scuola",
+    "year": 2026,
+    "poster_path": "/8kGEfpIabMiaWpdMkTcNFclld5W.jpg",
+    "overview": "Settembre 2007, Trieste. Fred, diciottenne svedese esuberante e coraggiosa, arriva in città per frequentare l'ultimo anno di un Istituto Tecnico. Si ritrova ad essere l'unica ragazza in una classe di soli maschi e catalizza l'attenzione di tutti, in particolare quella di tre amici: Antero, affascinante e riservato; Pasini, seduttore istrionico; Mitis, bonaccione protettivo. I tre si appartengono da quando hanno memoria. L'arrivo di Fred sconvolge la loro omogeneità, mettendo a dura prova la loro amicizia. Mentre ognuno di loro la desidera segretamente per sé, Fred vuole essere ammessa nel gruppo, ma le viene chiesto continuamente di sacrificare qualcosa di sé per diventare una di loro.",
+    "title_en": "A Year of School",
+    "overview_en": "2007. Fred, a 17-year-old girl who just moved from Sweden to Northeast Italy, enrolls for her high school senior year—finding herself the only female student in an all-male class. Lively and good-looking, she quickly becomes the center of attention, especially for three classmates: Antero, charming and reserved; Pasini, a cocky womanizer; Mitis, gruff and sagacious. The three have been best friends for as long as they can remember, but Fred's arrival puts their longstanding bond to the test. As each of the guys secretly desires Fred for himself, she yearns to be accepted into the group and be considered 'one of them', but is asked to sacrifice more and more in order to belong.",
+    "runtime": 102,
+    "director": "Laura Samani",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 858024,
+    "title": "Hamnet - Nel nome del figlio",
+    "original_title": "Hamnet",
+    "italian_title": "Hamnet - Nel nome del figlio",
+    "year": 2025,
+    "poster_path": "/ro2a5k5dx8RWXGY0TmhqxTAffaI.jpg",
+    "overview": "In un bosco, una giovane donna dorme rannicchiata nella culla formata dalla radice emersa di un albero secolare: è vestita di rosso cupo, accompagnata da un falco che risponde ai suoi richiami, conosce erbe e pozioni, si dice non sia nata da sua madre ma da una donna venuta da lontano. Si chiama Agnes e quando Will la vede se ne innamora subito. Will è il giovane William Shakespeare, che riesce a sposarla nonostante l’ostilità delle famiglie e ad avere con lei tre figli, Susannah e i gemelli Judith e Hamnet. Ma un lutto li colpisce, quando il drammaturgo lavora già a Londra, e Hamnet diventa Hamlet. Tratta dal romanzo del 2020 di Maggie O’Farrell, la storia di Agnes (più che di William), intessuta di magia e femminilità.",
+    "title_en": "Hamnet",
+    "overview_en": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+    "runtime": 126,
+    "director": "Chloé Zhao",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1379266,
+    "title": "Kokuho - Il maestro di Kabuki",
+    "original_title": "国宝",
+    "italian_title": "Kokuho - Il maestro di Kabuki",
+    "year": 2025,
+    "poster_path": "/xxoJMdnlzWFenlCujMSqSdm7Bg1.jpg",
+    "overview": "Il giovane Kikuo (Soya Kurokawa), figlio di un boss della yakuza, si fa notare durante un banchetto a Nagasaki esibendosi in un ruolo femminile kabuki. Tra gli ospiti lo nota l'attore kabuki Hanjiro Hanai (Ken Watanabe), che riconosce immediatamente il talento del quattordicenne. Dopo la morte del padre di Kikuo, Hanjiro accoglie il ragazzo con sé e si trasferisce con lui a Osaka. Lì, Kikuo cresce insieme al figlio di Hanjiro, Shunsuke (Keitatsu Koshiyama). Nonostante le loro diverse origini, i due stringono una forte amicizia, mentre vengono formati insieme sotto la guida di Hanjiro. Solo uno di loro però diventerà il più grande maestro del kabuki della sua epoca.",
+    "title_en": "Kokuho",
+    "overview_en": "Nagasaki, 1964: Following the death of his yakuza father, 15-year-old Kikuo is taken under the wing of a famous kabuki actor. Alongside Shunsuke, the actor’s only son, he decides to dedicate himself to this traditional form of theatre. For decades, the two young men grow and evolve together – and one will become the greatest Japanese master of the art of kabuki.",
+    "runtime": 174,
+    "director": "李相日",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1159206,
+    "title": "Father Mother Sister Brother",
+    "original_title": "Father Mother Sister Brother",
+    "italian_title": "Father Mother Sister Brother",
+    "year": 2025,
+    "poster_path": "/elPU6bjZvsDhpzpwctjHykNozg1.jpg",
+    "overview": "Tre storie riguardanti i rapporti tra figli adulti, i loro genitori (o uno dei genitori) piuttosto distanti e tra loro stessi.",
+    "title_en": "Father Mother Sister Brother",
+    "overview_en": "Estranged siblings reunite after years apart, forced to confront unresolved tensions and reevaluate their strained relationships with their emotionally distant parents.",
+    "runtime": 110,
+    "director": "Jim Jarmusch",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 38,
+    "title": "Se mi lasci ti cancello",
+    "original_title": "Eternal Sunshine of the Spotless Mind",
+    "italian_title": "Se mi lasci ti cancello",
+    "year": 2004,
+    "poster_path": "/uDuAYpBfFQvFMnlt2w8xUUZiWrr.jpg",
+    "overview": "Joel e Clementine sono una coppia molto innamorata. Un giorno però, la ragazza, stanca della sua relazione ormai in fase di declino, decide, mediante un esperimento scientifico, di farsi asportare dalla mente la parte relativa alla storia con Joel. Il giovane, una volta venuto a conoscenza di questo fatto, sceglie di fare altrettanto ma durante il procedimento cambia idea.",
+    "title_en": "Eternal Sunshine of the Spotless Mind",
+    "overview_en": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+    "runtime": 108,
+    "director": "Michel Gondry",
+    "genres": [
+      "Fantascienza",
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1254808,
+    "title": "Nouvelle Vague",
+    "original_title": "Nouvelle Vague",
+    "italian_title": "Nouvelle Vague",
+    "year": 2025,
+    "poster_path": "/h2vLjnuZHC4LGqEodpzyNNMEios.jpg",
+    "overview": "1959. La nouvelle vague impazza a Parigi e i primi film girati dai suoi esponenti François Truffaut e Claude Chabrol raccolgono un plauso unanime. Manca solo a Jean-Luc Godard di passare dietro la macchina da presa, ma si convince a farlo e trova l'aiuto del produttore Beauregarde. Ne nascerà \"Fino all'ultimo respiro\", film-simbolo della corrente, destinato a cambiare per sempre la storia del cinema.",
+    "title_en": "Nouvelle Vague",
+    "overview_en": "After writing for Cahiers du cinéma, a young Jean-Luc Godard decides making films is the best film criticism. He convinces producer Georges de Beauregard to fund a low-budget feature, and creates a treatment with fellow New Wave filmmaker François Truffaut about a gangster couple. The result? Breathless, one of the first features of the Nouvelle Vague era of French cinema.",
+    "runtime": 106,
+    "director": "Richard Linklater",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1054867,
+    "title": "Una battaglia dopo l’altra",
+    "original_title": "One Battle After Another",
+    "italian_title": "Una battaglia dopo l’altra",
+    "year": 2025,
+    "poster_path": "/3TjxuSfBSkhB8OvBov7Dk4L0Bcd.jpg",
+    "overview": "Un gruppo di ex rivoluzionari si riunisce quando un loro perfido nemico riemerge dal loro passato, dopo sedici anni di silenzio. Il gruppo avrà il duro compito di salvare la figlia di uno di loro, prima che accada l'inevitabile.",
+    "title_en": "One Battle After Another",
+    "overview_en": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+    "runtime": 162,
+    "director": "Paul Thomas Anderson",
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 269,
+    "title": "Fino all'ultimo respiro",
+    "original_title": "À bout de souffle",
+    "italian_title": "Fino all'ultimo respiro",
+    "year": 1960,
+    "poster_path": "/nXVik3Lxeffyy1eqp6bmO9axB6r.jpg",
+    "overview": "Michel Poiccard, ladro d'automobili, uccide un motociclista della polizia stradale che lo inseguiva per un sorpasso proibito. Tornato a Parigi, ritrova Patrizia, un'amichetta americana di cui s'era innamorato. Intanto la polizia, che l'ha identificato, lo ricerca.",
+    "title_en": "Breathless",
+    "overview_en": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he attempts to persuade a girl to run away to Italy with him.",
+    "runtime": 90,
+    "director": "Jean-Luc Godard",
+    "genres": [
+      "Dramma",
+      "Crime",
+      "Romance"
     ]
   },
   {
@@ -1303,36 +1785,18 @@
     ]
   },
   {
-    "tmdb_id": 1317288,
-    "title": "Marty Supreme",
-    "original_title": "Marty Supreme",
-    "italian_title": "Marty Supreme",
+    "tmdb_id": 1269644,
+    "title": "L'isola dei ricordi",
+    "original_title": "Amrum",
+    "italian_title": "L'isola dei ricordi",
     "year": 2025,
-    "poster_path": "/et9WEOYIel2xTEPL1xwBkifgO2V.jpg",
-    "overview": "Marty Mauser (Timothée Chalamet) è un venditore di scarpe con un’irrefrenabile ossessione per il ping pong che si muove nella New York degli anni ’50 fra truffe, scommesse, passioni proibite e sogni di gloria. Un’esistenza rocambolesca per un personaggio larger than life, eccentrico e ambiziosissimo, smodato e leggendario.",
-    "title_en": "Marty Supreme",
-    "overview_en": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-    "runtime": 149,
-    "director": "Josh Safdie",
+    "poster_path": "/b6wIO2bEe1Y9dJ3vcK7dYnxz3FT.jpg",
+    "overview": "Negli ultimi e duri giorni della Seconda Guerra Mondiale, sull’isola di Amrum, il dodicenne Nanning intraprende un commovente e coraggioso percorso di crescita per aiutare la madre. Tra le onde, la sabbia e il silenzio, la sua infanzia si intreccia con la durezza del dopoguerra e con la fragile bellezza di un’umanità che tenta di sopravvivere. Ma la fine del conflitto porta con sé un’ombra inattesa, che costringerà Nanning a guardare oltre l’orizzonte dell’innocenza.",
+    "title_en": "Amrum",
+    "overview_en": "On Amrum Island in spring 1945, twelve-year-old Nanning hunts seals, fishes at night, and works the fields to help feed his family. When the war ends, his mother sinks into depression, and he must navigate new conflicts while struggling to find his own path.",
+    "runtime": 93,
+    "director": "Fatih Akin",
     "genres": [
-      "Dramma",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1159206,
-    "title": "Father Mother Sister Brother",
-    "original_title": "Father Mother Sister Brother",
-    "italian_title": "Father Mother Sister Brother",
-    "year": 2025,
-    "poster_path": "/elPU6bjZvsDhpzpwctjHykNozg1.jpg",
-    "overview": "Tre storie riguardanti i rapporti tra figli adulti, i loro genitori (o uno dei genitori) piuttosto distanti e tra loro stessi.",
-    "title_en": "Father Mother Sister Brother",
-    "overview_en": "Estranged siblings reunite after years apart, forced to confront unresolved tensions and reevaluate their strained relationships with their emotionally distant parents.",
-    "runtime": 110,
-    "director": "Jim Jarmusch",
-    "genres": [
-      "Commedia",
       "Dramma"
     ]
   },
@@ -1369,6 +1833,22 @@
     ]
   },
   {
+    "tmdb_id": 1291659,
+    "title": "Il mago del Cremlino - Le origini di Putin",
+    "original_title": "Le Mage du Kremlin",
+    "italian_title": "Il mago del Cremlino - Le origini di Putin",
+    "year": 2026,
+    "poster_path": "/6YilH8o9Y2ZJNdu2Ak5m6you8zL.jpg",
+    "overview": "Russia, primi anni Novanta. L’URSS è crollata. Nel caos di un Paese che cerca di ricostruirsi, Vadim Baranov, un giovane brillante, sta per trovare la propria strada. Prima artista d’avanguardia, poi produttore di reality show, diventa spin doctor di un ex agente del KGB in ascesa: Vladimir Putin. Immerso nel cuore del sistema, Baranov plasma la nuova Russia, confondendo i confini tra verità e menzogna, credenze e manipolazione. Ma c’è una figura che sfugge al suo controllo: Ksenia, donna libera e inafferrabile, che incarna la possibilità di fuga, lontano da questo gioco pericoloso. Quindici anni dopo, ritiratosi nel silenzio e avvolto nel mistero, Baranov accetta di parlare, rivelando i segreti occulti del regime che ha contribuito a costruire.",
+    "title_en": "The Wizard of the Kremlin",
+    "overview_en": "In the chaos of post-Soviet Russia, rising KGB officer Vladimir Putin joins forces with master manipulator Vadim Baranov to reshape life behind the Iron Curtain, using violence and deception to change the world forever.",
+    "runtime": 136,
+    "director": "Olivier Assayas",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 687163,
     "title": "L'ultima missione: Project Hail Mary",
     "original_title": "Project Hail Mary",
@@ -1386,22 +1866,6 @@
     ]
   },
   {
-    "tmdb_id": 1033148,
-    "title": "Die My Love",
-    "original_title": "Die My Love",
-    "italian_title": "Die My Love",
-    "year": 2025,
-    "poster_path": "/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
-    "overview": "Grace, madre e scrittrice, sta lentamente scivolando nella follia. Chiusa in una vecchia casa in Montana, diventa sempre più nervosa e imprevedibile, mentre il suo compagno Jackson assiste impotente.",
-    "title_en": "Die My Love",
-    "overview_en": "After inheriting a remote Montana house, Jackson moves there from New York with his partner Grace, and the couple soon welcome a child. As Jackson becomes increasingly absent and rural isolation sets in, Grace struggles with loneliness, creative frustration, and unresolved emotional wounds. What begins as an attempt at renewal gradually turns into an intense psychological descent, placing strain on their relationship and exposing the fragile balance between love, identity, and motherhood.",
-    "runtime": 119,
-    "director": "Lynne Ramsay",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1107215,
     "title": "C'era una volta mia madre",
     "original_title": "Ma mère, Dieu et Sylvie Vartan",
@@ -1416,24 +1880,6 @@
     "genres": [
       "Dramma",
       "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1171153,
-    "title": "Köln 75",
-    "original_title": "Köln 75",
-    "italian_title": "Köln 75",
-    "year": 2025,
-    "poster_path": "/oMeg1capgysYPHVOnZq7HfoIXzE.jpg",
-    "overview": null,
-    "title_en": "Köln 75",
-    "overview_en": "The true story of Vera Brandes, teenage patron saint of the 1970s Cologne music scene, who risked everything to organize the greatest solo concert in music history: Keith Jarrett’s legendary Köln Concert.",
-    "runtime": 116,
-    "director": "Ido Fluk",
-    "genres": [
-      "Dramma",
-      "Storia",
-      "Musica"
     ]
   },
   {
@@ -1508,6 +1954,22 @@
     ]
   },
   {
+    "tmdb_id": 1315657,
+    "title": "Yellow Letters",
+    "original_title": "Gelbe Briefe",
+    "italian_title": "Yellow Letters",
+    "year": 2026,
+    "poster_path": "/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
+    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
+    "title_en": "Yellow Letters",
+    "overview_en": "The marriage of Derya and Aziz is under pressure after losing their jobs because of state arbitrariness and moving to Istanbul to live with Aziz's parents. They and their 13-year-old daughter Ezgi have to redefine their way of life.",
+    "runtime": 128,
+    "director": "İlker Çatak",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1291202,
     "title": "Duse",
     "original_title": "Duse",
@@ -1522,24 +1984,6 @@
     "genres": [
       "Dramma",
       "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1054867,
-    "title": "Una battaglia dopo l’altra",
-    "original_title": "One Battle After Another",
-    "italian_title": "Una battaglia dopo l’altra",
-    "year": 2025,
-    "poster_path": "/3TjxuSfBSkhB8OvBov7Dk4L0Bcd.jpg",
-    "overview": "Un gruppo di ex rivoluzionari si riunisce quando un loro perfido nemico riemerge dal loro passato, dopo sedici anni di silenzio. Il gruppo avrà il duro compito di salvare la figlia di uno di loro, prima che accada l'inevitabile.",
-    "title_en": "One Battle After Another",
-    "overview_en": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
-    "runtime": 162,
-    "director": "Paul Thomas Anderson",
-    "genres": [
-      "Thriller",
-      "Crime",
-      "Commedia"
     ]
   },
   {
@@ -1628,6 +2072,25 @@
     ]
   },
   {
+    "tmdb_id": 22679,
+    "title": "Arion",
+    "original_title": "アリオン",
+    "italian_title": "Arion",
+    "year": 1986,
+    "poster_path": "/uTrabkXCh8nuMwRbu4UwGYSLEXp.jpg",
+    "overview": "Nell'antica Tracia Arion, figlio di Poseidone, è allevato dalla madre cieca Demetra fino al giorno in cui Hades si presenta per portarlo via con sé. Condotto con l'inganno nell'Ade, Arion viene addestrato per diventare un guerriero con lo scopo di vendicare la madre: Hades ha infatti convinto il giovane semidio che la cecità di Demetra è stata causata da Zeus, e che solo la morte di questi le ridarà la vista. Finito l'addestramento Arion torna nel mondo dei vivi insieme al gigante Gidon per uccidere Zeus. Durante l'inseguimento della piccola ladra Seneca, che gli ha sottratto la spada, Arion viene però catturato dai soldati di Atena, figlia di Zeus e comandante del suo esercito. Ridotto in catene viene liberato da Resfina, una giovane serva muta di Atena. Mentre Arion ritrova Seneca e Gidon, creduto morto dopo l'attacco dei soldati di Atena, le forze di Poseidone e Zeus intanto si preparano alla battaglia per la conquista del potere supremo. Ma alle loro spalle tramano Hades ed Apollo.",
+    "title_en": "Arion",
+    "overview_en": "The story follows Arion, a young man kidnapped by Hades as a child and raised to believe that his mother was blinded by Zeus and that killing the ruler of Mount Olympus will cure her.",
+    "runtime": 119,
+    "director": "安彦良和",
+    "genres": [
+      "Avventura",
+      "Azione",
+      "Animazione",
+      "Fantasy"
+    ]
+  },
+  {
     "tmdb_id": 1315772,
     "title": "Minions & Monsters",
     "original_title": "Minions & Monsters",
@@ -1701,41 +2164,6 @@
     ]
   },
   {
-    "tmdb_id": 149871,
-    "title": "La storia della principessa splendente",
-    "original_title": "かぐや姫の物語",
-    "italian_title": "La storia della principessa splendente",
-    "year": 2013,
-    "poster_path": "/xfOP0BrpIJsd0yToHzlCZ50GbCA.jpg",
-    "overview": "Un vecchio uomo vende bambù per sopravvivere. Un giorno, nelle canne di bambù, trova una piccola principessa, grande quanto un dito, di nome Kaguya. Quando Kaguya cresce, cinque uomini provenienti da altrettante prestigiose famiglie manifestano il desiderio di sposarla. Kaguya chiedere loro di trovare per lei cinque memorabili regali ma nessuno è in grado di portarle ciò che desidera veramente.",
-    "title_en": "The Tale of The Princess Kaguya",
-    "overview_en": "Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious young princess enthrals all who encounter her. But, ultimately, she must confront her fate.",
-    "runtime": 137,
-    "director": "高畑勲",
-    "genres": [
-      "Animazione",
-      "Dramma",
-      "Fantasy"
-    ]
-  },
-  {
-    "tmdb_id": 414419,
-    "title": "Kill Bill: The Whole Bloody Affair",
-    "original_title": "Kill Bill: The Whole Bloody Affair",
-    "italian_title": "Kill Bill: The Whole Bloody Affair",
-    "year": 2011,
-    "poster_path": "/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
-    "overview": "La Sposa (Uma Thurman) è un'ex killer prezzolata, la migliore in circolazione. Dopo un agguato ordinato dal suo ex mentore ed amante Bill (David Carradine) e perpetrato dalla squadra di assassini di cui faceva parte lei stessa - la Deadly Viper Assassination Squad - la Sposa rimane in coma per quattro lunghi anni e perde la bambina che aveva in grembo. Quando si risveglia all'improvviso, decide di vendicarsi di tutte le persone che le hanno rovinato la vita, lasciando per ultimo l'amato e odiato Bill.",
-    "title_en": "Kill Bill: The Whole Bloody Affair",
-    "overview_en": "A former assassin, known simply as The Bride, wakes from a coma four years after her jealous ex-lover Bill attempts to murder her on her wedding day. Fueled by an insatiable desire for revenge, she vows to get even with every person who contributed to the loss of her unborn child, her entire wedding party, and four years of her life.  After devising a hit list, The Bride sets off on her quest, enduring unspeakable injury and unscrupulous enemies.",
-    "runtime": 254,
-    "director": "Quentin Tarantino",
-    "genres": [
-      "Azione",
-      "Crime"
-    ]
-  },
-  {
     "tmdb_id": 1340206,
     "title": "Tuner - L’accordatore",
     "original_title": "Tuner",
@@ -1766,6 +2194,23 @@
     "director": "Dominik Moll",
     "genres": [
       "Crime",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1554542,
+    "title": "Il grande Boccia",
+    "original_title": "Il grande Boccia",
+    "italian_title": "Il grande Boccia",
+    "year": 2026,
+    "poster_path": "/qHByKrDpZEFNyQtpefriMCXM9HR.jpg",
+    "overview": "Per Tanio Boccia il 1964 sembra l'anno d'oro. Già allora considerato \"il peggior regista del cinema italiano\", irriso da tutti i suoi colleghi e perseguitato dai creditori, riesce a mettere in cantiere quattro film contemporaneamente, da Maciste alla corte dello zar a La valle dell'eco tonante. Ma gli scherzi del destino sono sempre alle porte.",
+    "title_en": "Il grande Boccia",
+    "overview_en": null,
+    "runtime": 82,
+    "director": "Karen Di Porto",
+    "genres": [
+      "Commedia",
       "Dramma"
     ]
   },
@@ -1805,22 +2250,21 @@
     ]
   },
   {
-    "tmdb_id": 22679,
-    "title": "Arion",
-    "original_title": "アリオン",
-    "italian_title": "Arion",
-    "year": 1986,
-    "poster_path": "/uTrabkXCh8nuMwRbu4UwGYSLEXp.jpg",
-    "overview": "Nell'antica Tracia Arion, figlio di Poseidone, è allevato dalla madre cieca Demetra fino al giorno in cui Hades si presenta per portarlo via con sé. Condotto con l'inganno nell'Ade, Arion viene addestrato per diventare un guerriero con lo scopo di vendicare la madre: Hades ha infatti convinto il giovane semidio che la cecità di Demetra è stata causata da Zeus, e che solo la morte di questi le ridarà la vista. Finito l'addestramento Arion torna nel mondo dei vivi insieme al gigante Gidon per uccidere Zeus. Durante l'inseguimento della piccola ladra Seneca, che gli ha sottratto la spada, Arion viene però catturato dai soldati di Atena, figlia di Zeus e comandante del suo esercito. Ridotto in catene viene liberato da Resfina, una giovane serva muta di Atena. Mentre Arion ritrova Seneca e Gidon, creduto morto dopo l'attacco dei soldati di Atena, le forze di Poseidone e Zeus intanto si preparano alla battaglia per la conquista del potere supremo. Ma alle loro spalle tramano Hades ed Apollo.",
-    "title_en": "Arion",
-    "overview_en": "The story follows Arion, a young man kidnapped by Hades as a child and raised to believe that his mother was blinded by Zeus and that killing the ruler of Mount Olympus will cure her.",
-    "runtime": 119,
-    "director": "安彦良和",
+    "tmdb_id": 1266127,
+    "title": "Finché morte non ci separi 2",
+    "original_title": "Ready or Not: Here I Come",
+    "italian_title": "Finché morte non ci separi 2",
+    "year": 2026,
+    "poster_path": "/fro6xA6STLdHJRyoleRGIerwKC.jpg",
+    "overview": "Poco dopo essere sopravvissuta ad un attacco senza esclusione di colpi da parte della famiglia Le Domas, Grace (Samara Weaving) scopre di aver raggiunto il livello successivo di questo gioco da incubo, questa volta con al suo fianco la sorella Faith (Kathryn Newton) con cui non aveva più rapporti. Grace ha una sola possibilità per sopravvivere, per salvare la vita della sorella e rivendicare il Posto D’Onore del Consiglio che controlla il mondo. Quattro famiglie rivali le stanno dando la caccia per il trono, e chi vincerà governerà su tutto.",
+    "title_en": "Ready or Not: Here I Come",
+    "overview_en": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+    "runtime": 108,
+    "director": "Matt Bettinelli-Olpin, Tyler Gillett",
     "genres": [
-      "Avventura",
-      "Azione",
-      "Animazione",
-      "Fantasy"
+      "Thriller",
+      "Horror",
+      "Commedia"
     ]
   },
   {
@@ -1858,6 +2302,23 @@
     ]
   },
   {
+    "tmdb_id": 467905,
+    "title": "Ricchi... da morire - Delitti in famiglia",
+    "original_title": "How to Make a Killing",
+    "italian_title": "Ricchi... da morire - Delitti in famiglia",
+    "year": 2026,
+    "poster_path": "/y8cYRikwfPbsSSa0Iv0aJaAXuVm.jpg",
+    "overview": "Becket Redfellow (Glen Powell) è un outsider cresciuto lontano dalla sua famiglia d'origine: una dinastia ricchissima che lo ha rinnegato alla nascita. Determinato a reclamare ciò che ritiene suo di diritto, Becket mette in atto un piano tanto ambizioso quanto spietato: eliminare, uno dopo l'altro, tutti i parenti che lo separano dall'eredità miliardaria. Ma l'incontro e lo scontro con Julia Steinway (Margaret Qualley) rimetterà in discussione tutto, fino al confronto finale con il temuto capo famiglia, Whitelaw Redfellow (Ed Harris).",
+    "title_en": "How to Make a Killing",
+    "overview_en": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
+    "runtime": 105,
+    "director": "John Patton Ford",
+    "genres": [
+      "Commedia",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 1512207,
     "title": "Rufus - Il draghetto marino che non sapeva nuotare",
     "original_title": "Ruffen: Sjøormen som ikke kunne svømme",
@@ -1872,6 +2333,60 @@
     "genres": [
       "Animazione",
       "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 1245859,
+    "title": "Savage House",
+    "original_title": "Savage House",
+    "italian_title": "Savage House",
+    "year": 2026,
+    "poster_path": "/vPBy6cDPYMcj35lpl3W5kPEc2OB.jpg",
+    "overview": null,
+    "title_en": "Savage House",
+    "overview_en": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life. It's not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.",
+    "runtime": 114,
+    "director": "Peter Glanz",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1226863,
+    "title": "Super Mario Galaxy Il Film",
+    "original_title": "The Super Mario Galaxy Movie",
+    "italian_title": "Super Mario Galaxy Il Film",
+    "year": 2026,
+    "poster_path": "/sTfdi7ZoiKiLVkvktoAlKKOTaaN.jpg",
+    "overview": "Mario e Luigi, i gemelli idraulici, applicano il loro motto \"Let's-a-go\" per risolvere i problemi di ogni giorno nella loro nuova casa del Regno dei Funghi. Mentre sono impegnati ad aiutare la Principessa Peach e a riportare sulla retta via Bowser, rimpicciolito e imprigionato, incontrano un nuovo compagno: Yoshi. La festa di compleanno della Principessa Peach dà luogo a un'avventura galattica, che vede i due fratelli lanciarsi nello spazio per fermare i loschi piani di Bowser Jr. e salvare la principessa Rosalinda.",
+    "title_en": "The Super Mario Galaxy Movie",
+    "overview_en": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+    "runtime": 98,
+    "director": "Michael Jelenic, Aaron Horvath",
+    "genres": [
+      "Famiglia",
+      "Commedia",
+      "Avventura",
+      "Fantasy",
+      "Animazione"
+    ]
+  },
+  {
+    "tmdb_id": 414419,
+    "title": "Kill Bill: The Whole Bloody Affair",
+    "original_title": "Kill Bill: The Whole Bloody Affair",
+    "italian_title": "Kill Bill: The Whole Bloody Affair",
+    "year": 2011,
+    "poster_path": "/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
+    "overview": "La Sposa (Uma Thurman) è un'ex killer prezzolata, la migliore in circolazione. Dopo un agguato ordinato dal suo ex mentore ed amante Bill (David Carradine) e perpetrato dalla squadra di assassini di cui faceva parte lei stessa - la Deadly Viper Assassination Squad - la Sposa rimane in coma per quattro lunghi anni e perde la bambina che aveva in grembo. Quando si risveglia all'improvviso, decide di vendicarsi di tutte le persone che le hanno rovinato la vita, lasciando per ultimo l'amato e odiato Bill.",
+    "title_en": "Kill Bill: The Whole Bloody Affair",
+    "overview_en": "A former assassin, known simply as The Bride, wakes from a coma four years after her jealous ex-lover Bill attempts to murder her on her wedding day. Fueled by an insatiable desire for revenge, she vows to get even with every person who contributed to the loss of her unborn child, her entire wedding party, and four years of her life.  After devising a hit list, The Bride sets off on her quest, enduring unspeakable injury and unscrupulous enemies.",
+    "runtime": 254,
+    "director": "Quentin Tarantino",
+    "genres": [
+      "Azione",
+      "Crime"
     ]
   },
   {
@@ -1906,431 +2421,6 @@
     "genres": [
       "Commedia",
       "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1184941,
-    "title": "Blue Heron",
-    "original_title": "Blue Heron",
-    "italian_title": "Blue Heron",
-    "year": 2026,
-    "poster_path": "/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
-    "overview": null,
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 91,
-    "director": "Sophy Romvari",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 96936,
-    "title": "Bling Ring",
-    "original_title": "The Bling Ring",
-    "italian_title": "Bling Ring",
-    "year": 2013,
-    "poster_path": "/6yh55qCcdgPRJweDWM2CiEubJCL.jpg",
-    "overview": "In una Los Angels tormentata dal successo, un gruppo di adolescenti ci mostra la frenesia criminale ed emozionante delle colline di Hollywood. L’ossessione per la vita delle star porta i ragazzi a rintracciare online gli indirizzi di molte celebrità, tra cui Paris Hiliton, Orlando Bloom, Rachel Bilson, Megan Fox e Lindsay Lohan. arrivando a sottrarre dalle loro abitazioni circa 3 milioni di euro in beni di lusso. Basato su un evento realmente accaduto, il film racconta la storia della banda più famosa di Hollywood, ribattezzata dai media \"Bling Ring”.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 90,
-    "director": "Sofia Coppola",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ]
-  },
-  {
-    "tmdb_id": 503919,
-    "title": "The Lighthouse",
-    "original_title": "The Lighthouse",
-    "italian_title": "The Lighthouse",
-    "year": 2019,
-    "poster_path": "/w8lnWLKBAEOT0o3GL1rpu9kZ6Q3.jpg",
-    "overview": "Sul finire dell’Ottocento, su una remota isola al largo della costa del New England, due guardiani del faro rimangono intrappolati e isolati a causa di una tempesta apparentemente senza fine. Finiscono così con l’ingaggiare una battaglia contro la propria volontà, mentre aumentano le tensioni a causa delle forze eccessive e misteriose (reali o meno) che li circondano…",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 109,
-    "director": "Robert Eggers",
-    "genres": [
-      "Dramma",
-      "Fantasy",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 846580,
-    "title": "Le Lac",
-    "original_title": "Le Lac",
-    "italian_title": "Le Lac",
-    "year": 2026,
-    "poster_path": "/pqSsqg1xaI81C0ujOrvhRJCCBuQ.jpg",
-    "overview": null,
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 75,
-    "director": "Fabrice Aragno",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 399019,
-    "title": "L'inganno",
-    "original_title": "The Beguiled",
-    "italian_title": "L'inganno",
-    "year": 2017,
-    "poster_path": "/ihS5ghfmi4OCDbtL3T8YM7otmct.jpg",
-    "overview": "In piena Guerra di Secessione, nel profondo Sud, le donne di diverse età che sono rimaste in un internato per ragazze di buona famiglia danno ricovero ad un soldato ferito. Dopo averlo curato e rifocillato costui resta confinato nella sua camera attraendo però, in vario modo e misura, l'attenzione di tutte. La tensione aumenterà mutando profondamente i rapporti tra loro e l'ospite.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 91,
-    "director": "Sofia Coppola",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1517069,
-    "title": "Marc by Sofia",
-    "original_title": "Marc by Sofia",
-    "italian_title": "Marc by Sofia",
-    "year": 2026,
-    "poster_path": "/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
-    "overview": "Un ritratto intimo e anticonvenzionale di Marc Jacobs per restituire il genio e l’universo straordinario del leggendario stilista americano.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 87,
-    "director": "Sofia Coppola",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 1020006,
-    "title": "Priscilla",
-    "original_title": "Priscilla",
-    "italian_title": "Priscilla",
-    "year": 2023,
-    "poster_path": "/z8qrafMlOqZMqbtH9GUdsw6qcoO.jpg",
-    "overview": "Quando l’adolescente Priscilla Beaulieu incontra a una festa Elvis Presley, l’uomo, che è già una superstar del rock’n’roll, nel privato le si rivela come qualcuno di completamente diverso: un amore travolgente, un alleato nella solitudine e un amico vulnerabile. Attraverso gli occhi di Priscilla, Sofia Coppola ci racconta il lato nascosto di un grande mito americano, nel lungo corteggiamento e nel matrimonio turbolento con Elvis. Una storia iniziata in una base dell’esercito tedesco e proseguita nella sua tenuta da sogno a Graceland. Una storia fatta di amore, sogni e fama.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 110,
-    "director": "Sofia Coppola",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 92990,
-    "title": "Terra gialla",
-    "original_title": "黄土地",
-    "italian_title": "Terra gialla",
-    "year": 1984,
-    "poster_path": "/ej07CkHAyExnxeVVTxN55smOo19.jpg",
-    "overview": null,
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 91,
-    "director": "Chen Kaige",
-    "genres": [
-      "Dramma",
-      "Musica",
-      "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1258509,
-    "title": "L'amore che rimane",
-    "original_title": "Ástin sem eftir er",
-    "italian_title": "L'amore che rimane",
-    "year": 2025,
-    "poster_path": "/7HUkyrptprlTludHPFST1vQhOwT.jpg",
-    "overview": "Anna e Magnus, detto Maggi, si stanno separando: è un processo graduale, che la coppia porta avanti trascorrendo ancora del tempo insieme ai tre figli, in escursioni o in cene a casa. Mentre l'unità coniugale si va sfaldando, Anna si concentra sul suo lavoro di artista, anche se i riconoscimenti tardano ad arrivare; Maggi, invece, lavora su un peschereccio ed è quasi sempre in mare aperto. Quando i genitori non ci sono, i figli si dedicano a passatempi curiosi: in particolare i due gemelli, che tendono a creare giochi bizzarri e talora pericolosi per la loro incolumità.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 109,
-    "director": "Hlynur Pálmason",
-    "genres": [
-      "Dramma",
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1443,
-    "title": "Il giardino delle vergini suicide",
-    "original_title": "The Virgin Suicides",
-    "italian_title": "Il giardino delle vergini suicide",
-    "year": 2000,
-    "poster_path": "/gp4sqRZfmx1NkFusXNcbQfWtT6Y.jpg",
-    "overview": "Cinque sorelle fra i quindici e i diciannove anni vivono infelici, tormentate da genitori che credono di fare il loro bene. La madre è integralista e cieca: costringe una delle sorelle, per punizione, a bruciare i dischi più cari. Il padre è molle e latitante, tutto preso a costruire i suoi modellini. Certo, ci sono i ragazzi che le corteggiano e le stimano, ma non basta. La prima muore gettandosi sulle punte del cancello di casa. Le altre quattro organizzano uno struggente suicidio collettivo.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 95,
-    "director": "Sofia Coppola",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 260886,
-    "title": "Italia: Ultimo atto?",
-    "original_title": "Italia: Ultimo atto?",
-    "italian_title": "Italia: Ultimo atto?",
-    "year": 1977,
-    "poster_path": "/bhBPyHHqmFm6pC4UuMWYrD2UrZn.jpg",
-    "overview": "Ferruccio, caporeparto di un'officina; Bruno, delinquente comune convertitosi alla lotta politica armata; Mara, di estrazione borghese, sono tre terroristi cui, nei piani della loro organizzazione spettava il compito di uccidere il ministro degli Interni. Giudicando però che nell'attuale situazione del nostro paese l'attentato farebbe il gioco della reazione, i capi decidono di differirlo. Trasgredendo ai loro ordini, Ferruccio e i suoi due compagni lo portano ugualmente a termine. Durante l'azione omicida di cui restano vittime, oltre al ministro, anche gli uomini della sua scorta.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 90,
-    "director": "Massimo Pirri",
-    "genres": [
-      "Crime"
-    ]
-  },
-  {
-    "tmdb_id": 58089,
-    "title": "Gente di Roma",
-    "original_title": "Gente di Roma",
-    "italian_title": "Gente di Roma",
-    "year": 2003,
-    "poster_path": "/fLziEgc6viePMk9swenNZUbMsA7.jpg",
-    "overview": "Una giornata qualunque nella città eterna. Tanti piccoli frammenti di vita si susseguono in una carrellata di personaggi attraverso le storie dei quali, dalla tragedia alla commedia, Scola ci racconta la sua amata Roma. Il filo conduttore dei tanti episodi slegati tra loro è un autobus che percorre le strade della città, dall'alba al tramonto. Per scrivere storie interessanti bisognerebbe tornare a prendere il tram (o,nel caso presente, l'autobus) come suggeriva Zavattini? Forse sì, ma di certo bisognerebbe avere interesse a narrare: interesse che Scola non sembra avere più.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 100,
-    "director": "Ettore Scola",
-    "genres": [
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 153,
-    "title": "Lost in Translation - L'amore tradotto",
-    "original_title": "Lost in Translation",
-    "italian_title": "Lost in Translation - L'amore tradotto",
-    "year": 2003,
-    "poster_path": "/yGVhHMLgvPwXszMOxj1BLnInIZ7.jpg",
-    "overview": "Bob Harris e Charlotte sono due americani a Tokyo. Bob è una star del cinema ed è a Tokyo per girare uno spot pubblicitario per una marca di whisky, mentre Charlotte è una giovane donna che arranca dietro al marito fotografo instancabile. Colpiti entrambi da insonnia, Bob e Charlotte s'incontrano una notte per caso nel bar dell'hotel dove alloggiano.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 102,
-    "director": "Sofia Coppola",
-    "genres": [
-      "Dramma",
-      "Commedia",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 1887,
-    "title": "Marie Antoinette",
-    "original_title": "Marie Antoinette",
-    "italian_title": "Marie Antoinette",
-    "year": 2006,
-    "poster_path": "/7pAO55Ygg03vzk8qZmqnVcKJo8b.jpg",
-    "overview": "Maria Antonietta, la figlia della regina d'Austria viene promessa in sposa appena quattordicenne a Luigi XVI, il futuro re di Francia. Nonostante la sua riluttanza, la giovane si trasferisce a Versailles, ma non riuscirà mai ad entrare in sintonia col popolo francese che in primis, non le perdona il fatto di essere straniera, così allo scoppio della Rivoluzione, quando Maria Antonietta si schiera dalla parte dell'aristocrazia, una volta catturata, sarà condannata dal tribunale rivoluzionario alla ghigliottina.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 123,
-    "director": "Sofia Coppola",
-    "genres": [
-      "Dramma",
-      "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1456349,
-    "title": "Un semplice incidente",
-    "original_title": "Un simple accident",
-    "italian_title": "Un semplice incidente",
-    "year": 2025,
-    "poster_path": "/vrPr6OUKE7yzfti13pEnhx0RZ9O.jpg",
-    "overview": "Padre, madre e figlioletta percorrono di notte una strada in auto quando un cane finisce sotto le ruote. Ciò provoca un danneggiamento al veicolo che costringe ad una sosta per la riparazione temporanea. Un uomo che si trova sul posto cerca di non farsi vedere perché gli è parso di riconoscere nel conducente dell'auto un agente dei servizi segreti che lo ha sottoposto a violenza in carcere. Riesce successivamente a sequestrarlo ed è pronto a seppellirlo vivo quando gli viene il dubbio che si tratti di uno scambio di persona. Cercherà conferme in altri che, come lui seppure in misure diverse, hanno subito la ferocia dell'uomo.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 103,
-    "director": "Jafar Panahi",
-    "genres": [
-      "Dramma",
-      "Thriller",
-      "Crime",
-      "Mistero"
-    ]
-  },
-  {
-    "tmdb_id": 1124566,
-    "title": "Sentimental Value",
-    "original_title": "Affeksjonsverdi",
-    "italian_title": "Sentimental Value",
-    "year": 2025,
-    "poster_path": "/lk0Tfskd5V84AbpJs9M1ZXJjVPf.jpg",
-    "overview": "Nora e Agnes sono due sorelle profondamente unite. L’improvviso rientro nella loro vita del padre Gustav – regista carismatico e affascinante ma genitore cronicamente inaffidabile – riapre ferite mai del tutto rimarginate. Conoscendo il talento di attrice di Nora, Gustav vorrebbe che sua figlia interpretasse il ruolo principale nel film che dovrebbe rilanciare la sua carriera; lei rifiuta e quella parte finisce a una giovane star di Hollywood, Rachel Kemp. Il suo arrivo getta scompiglio nelle delicate dinamiche della famiglia: per le due sorelle sarà il momento di confrontarsi con il padre e con il loro passato.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 133,
-    "director": "Joachim Trier",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1220564,
-    "title": "L'agente segreto",
-    "original_title": "O Agente Secreto",
-    "italian_title": "L'agente segreto",
-    "year": 2025,
-    "poster_path": "/hQWzqAQ798fBOzQZ7cuLjTOLqCI.jpg",
-    "overview": "Brasile, 1977. Marcelo è in fuga. Raggiunge Recife durante la settimana del Carnevale per riabbracciare il figlio, ma scopre presto che la città non è l’ameno rifugio che aveva immaginato: sotto la superficie festosa pulsa una realtà soffocante, carica di tensione, violenza e pericolo.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 161,
-    "director": "Kleber Mendonça Filho",
-    "genres": [
-      "Thriller",
-      "Dramma",
-      "Crime"
-    ]
-  },
-  {
-    "tmdb_id": 1151272,
-    "title": "Sirāt",
-    "original_title": "Sirāt",
-    "italian_title": "Sirāt",
-    "year": 2025,
-    "poster_path": "/edEDZwU3kZerqdylZsyCn7feH23.jpg",
-    "overview": "Luis con il giovane figlio Esteban si aggira in un rave party mostrando una foto della figlia Mar della quale ha perso da alcuni mesi le tracce e che vorrebbe trovare. Nessuno la conosce ma, nel corso della ricerca, l'uomo fa delle conoscenze che, dopo la chiusura della festa da parte dei militari, lo indirizzano verso un altro rave. Il viaggio non sarà dei più facili e non solo per le asperità del terreno.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 115,
-    "director": "Oliver Laxe",
-    "genres": [
-      "Dramma",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1480382,
-    "title": "La voce di Hind Rajab",
-    "original_title": "صوت هند رجب",
-    "italian_title": "La voce di Hind Rajab",
-    "year": 2025,
-    "poster_path": "/dxMJK7Ugfs7M0Ac9qFIHsmeX3k2.jpg",
-    "overview": "29 gennaio 2024. I volontari della Mezzaluna Rossa ricevono una chiamata di emergenza. Una bambina di sei anni è intrappolata in un’auto sotto attacco a Gaza, e implora di essere salvata. Mentre cercano di tenerla al telefono fanno tutto il possibile per farle arrivare un’ambulanza. Il suo nome era Hind Rajab.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 89,
-    "director": "Kaouther Ben Hania",
-    "genres": [
-      "Dramma",
-      "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1287141,
-    "title": "Pillion - Amore senza freni",
-    "original_title": "Pillion",
-    "italian_title": "Pillion - Amore senza freni",
-    "year": 2025,
-    "poster_path": "/as93xiDvY1RwfLoNp4GRFmaOCjo.jpg",
-    "overview": "Colin, timido e introverso, vede la sua vita piacevolmente travolta dall’incontro con Ray, carismatico e fascinoso leader di un gruppo di bikers. Tra i due si instaura presto una relazione BDSM che vede Ray nel ruolo del padrone e Colin in quelli del suo devotissimo sottomesso. Sarà l’inizio di una storia d’amore inconsueta e travolgente, che cambierà profondamente entrambi.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 107,
-    "director": "Harry Lighton",
-    "genres": [
-      "Romance",
-      "Dramma",
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1442922,
-    "title": "Un anno di scuola",
-    "original_title": "Un anno di scuola",
-    "italian_title": "Un anno di scuola",
-    "year": 2026,
-    "poster_path": "/8kGEfpIabMiaWpdMkTcNFclld5W.jpg",
-    "overview": "Settembre 2007, Trieste. Fred, diciottenne svedese esuberante e coraggiosa, arriva in città per frequentare l'ultimo anno di un Istituto Tecnico. Si ritrova ad essere l'unica ragazza in una classe di soli maschi e catalizza l'attenzione di tutti, in particolare quella di tre amici: Antero, affascinante e riservato; Pasini, seduttore istrionico; Mitis, bonaccione protettivo. I tre si appartengono da quando hanno memoria. L'arrivo di Fred sconvolge la loro omogeneità, mettendo a dura prova la loro amicizia. Mentre ognuno di loro la desidera segretamente per sé, Fred vuole essere ammessa nel gruppo, ma le viene chiesto continuamente di sacrificare qualcosa di sé per diventare una di loro.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 102,
-    "director": "Laura Samani",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1379266,
-    "title": "Kokuho - Il maestro di Kabuki",
-    "original_title": "国宝",
-    "italian_title": "Kokuho - Il maestro di Kabuki",
-    "year": 2025,
-    "poster_path": "/xxoJMdnlzWFenlCujMSqSdm7Bg1.jpg",
-    "overview": "Il giovane Kikuo (Soya Kurokawa), figlio di un boss della yakuza, si fa notare durante un banchetto a Nagasaki esibendosi in un ruolo femminile kabuki. Tra gli ospiti lo nota l'attore kabuki Hanjiro Hanai (Ken Watanabe), che riconosce immediatamente il talento del quattordicenne. Dopo la morte del padre di Kikuo, Hanjiro accoglie il ragazzo con sé e si trasferisce con lui a Osaka. Lì, Kikuo cresce insieme al figlio di Hanjiro, Shunsuke (Keitatsu Koshiyama). Nonostante le loro diverse origini, i due stringono una forte amicizia, mentre vengono formati insieme sotto la guida di Hanjiro. Solo uno di loro però diventerà il più grande maestro del kabuki della sua epoca.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 174,
-    "director": "李相日",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 38,
-    "title": "Se mi lasci ti cancello",
-    "original_title": "Eternal Sunshine of the Spotless Mind",
-    "italian_title": "Se mi lasci ti cancello",
-    "year": 2004,
-    "poster_path": "/uDuAYpBfFQvFMnlt2w8xUUZiWrr.jpg",
-    "overview": "Joel e Clementine sono una coppia molto innamorata. Un giorno però, la ragazza, stanca della sua relazione ormai in fase di declino, decide, mediante un esperimento scientifico, di farsi asportare dalla mente la parte relativa alla storia con Joel. Il giovane, una volta venuto a conoscenza di questo fatto, sceglie di fare altrettanto ma durante il procedimento cambia idea.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 108,
-    "director": "Michel Gondry",
-    "genres": [
-      "Fantascienza",
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 1254808,
-    "title": "Nouvelle Vague",
-    "original_title": "Nouvelle Vague",
-    "italian_title": "Nouvelle Vague",
-    "year": 2025,
-    "poster_path": "/h2vLjnuZHC4LGqEodpzyNNMEios.jpg",
-    "overview": "1959. La nouvelle vague impazza a Parigi e i primi film girati dai suoi esponenti François Truffaut e Claude Chabrol raccolgono un plauso unanime. Manca solo a Jean-Luc Godard di passare dietro la macchina da presa, ma si convince a farlo e trova l'aiuto del produttore Beauregarde. Ne nascerà \"Fino all'ultimo respiro\", film-simbolo della corrente, destinato a cambiare per sempre la storia del cinema.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 106,
-    "director": "Richard Linklater",
-    "genres": [
-      "Commedia",
-      "Dramma",
-      "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 269,
-    "title": "Fino all'ultimo respiro",
-    "original_title": "À bout de souffle",
-    "italian_title": "Fino all'ultimo respiro",
-    "year": 1960,
-    "poster_path": "/nXVik3Lxeffyy1eqp6bmO9axB6r.jpg",
-    "overview": "Michel Poiccard, ladro d'automobili, uccide un motociclista della polizia stradale che lo inseguiva per un sorpasso proibito. Tornato a Parigi, ritrova Patrizia, un'amichetta americana di cui s'era innamorato. Intanto la polizia, che l'ha identificato, lo ricerca.",
-    "title_en": null,
-    "overview_en": null,
-    "runtime": 90,
-    "director": "Jean-Luc Godard",
-    "genres": [
-      "Dramma",
-      "Crime"
     ]
   }
 ]
