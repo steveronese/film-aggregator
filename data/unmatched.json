@@ -1,11 +1,5 @@
 [
   {
-    "raw_title": "KEEP CALM",
-    "raw_year": null,
-    "cinema_id": "beltrade",
-    "occurrences": 1
-  },
-  {
     "raw_title": "CHAPLIN FOR KIDS",
     "raw_year": null,
     "cinema_id": "cineteca-mic",
@@ -36,16 +30,22 @@
     "occurrences": 1
   },
   {
+    "raw_title": "LE DONNE CHE HANNO DETTO DI NO",
+    "raw_year": null,
+    "cinema_id": "cineteca-arlecchino",
+    "occurrences": 1
+  },
+  {
     "raw_title": "MABOROSI NO HIKARI - LA LUCE DELLE ILLUSIONI",
     "raw_year": null,
     "cinema_id": "anteo",
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "raw_title": "V.O. SOTT.ITA - ROMERÌA - IL MARE DI RICORDI",
     "raw_year": null,
     "cinema_id": "anteo",
-    "occurrences": 20
+    "occurrences": 19
   },
   {
     "raw_title": "NO GOOD MEN",
@@ -69,7 +69,7 @@
     "raw_title": "NO GOOD MEN",
     "raw_year": null,
     "cinema_id": "citylife-anteo",
-    "occurrences": 8
+    "occurrences": 7
   },
   {
     "raw_title": "NO GOOD MEN - V. O.",
@@ -114,22 +114,40 @@
     "occurrences": 1
   },
   {
+    "raw_title": "CONCERTO LE QUATTRO STAGIONI DI VIVALDI",
+    "raw_year": null,
+    "cinema_id": "arianteo-incoronata",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "UN MONDO MERAVIGLIOSO",
+    "raw_year": null,
+    "cinema_id": "arianteo-incoronata",
+    "occurrences": 1
+  },
+  {
     "raw_title": "UN SEMPLICE INCIDENTE (A SIMPLE ACCIDENT)",
     "raw_year": null,
     "cinema_id": "arianteo-palazzoreale",
     "occurrences": 1
   },
   {
-    "raw_title": "(O.V.) The Amazing Digital Circus",
+    "raw_title": "CONCERTO STAR WARS: UN VIAGGIO SINFONICO",
     "raw_year": null,
-    "cinema_id": "colosseo",
+    "cinema_id": "arianteo-villareale",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "CONCERTO LE QUATTRO STAGIONI DI VIVALDI",
+    "raw_year": null,
+    "cinema_id": "arianteo-villareale",
     "occurrences": 1
   },
   {
     "raw_title": "No Good Men",
     "raw_year": null,
     "cinema_id": "eliseo",
-    "occurrences": 8
+    "occurrences": 7
   },
   {
     "raw_title": "Notorious Cult - Disclosure Day",
@@ -147,7 +165,7 @@
     "raw_title": "(O.V.) The Amazing Digital Circus",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 12
+    "occurrences": 9
   },
   {
     "raw_title": "(Sala XL) Sacro Cuore - Il Suo Regno",

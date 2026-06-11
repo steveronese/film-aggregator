@@ -1,12 +1,5 @@
 [
   {
-    "raw_title": "PRINCIPESSA MONONOKE",
-    "tmdb_id": 128,
-    "matched_title": "Princess Mononoke",
-    "method": "fuzzy",
-    "confidence": 91.89189189189189
-  },
-  {
     "raw_title": "IL MISTERO DELLE 12 SEDIE",
     "tmdb_id": 24918,
     "matched_title": "Il mistero delle dodici sedie",
@@ -70,37 +63,9 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "V. O. SOTT ITA PRINCIPESSA MONONOKE",
-    "tmdb_id": 128,
-    "matched_title": "Princess Mononoke",
-    "method": "fuzzy",
-    "confidence": 91.89189189189189
-  },
-  {
-    "raw_title": "NOI DUE SCONOSCIUTI (SOLOMAMMA)",
-    "tmdb_id": 1471537,
-    "matched_title": "Noi due sconosciuti",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "TRA AMORE E INGANNI (YOU, ME & TUSCANY)",
     "tmdb_id": 1455079,
     "matched_title": "Tra amore e inganni",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "LE TIGRI DI MOMPRACEM (LOS TIGRES)",
-    "tmdb_id": 1464374,
-    "matched_title": "Le tigri di Mompracem",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
-    "raw_title": "E I FIGLI DOPO DI LORO (LEURS ENFANTS APRÈS EUX) - V. O.",
-    "tmdb_id": 1103678,
-    "matched_title": "E i figli dopo di loro",
     "method": "ai",
     "confidence": 100.0
   },
@@ -117,6 +82,13 @@
     "matched_title": "La festa è finita!",
     "method": "ai",
     "confidence": 100.0
+  },
+  {
+    "raw_title": "LE TIGRI DI MOMPRACEM (LOS TIGRES)",
+    "tmdb_id": 1464374,
+    "matched_title": "Le tigri di Mompracem",
+    "method": "ai",
+    "confidence": 95.0
   },
   {
     "raw_title": "TUTTO QUELLO CHE RESTA DI TE (ALL THAT'S LEFT OF YOU)",
@@ -161,7 +133,14 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "(O.V.) Principessa Mononoke (Ried. 2026)",
+    "raw_title": "Principessa Mononoke",
+    "tmdb_id": 128,
+    "matched_title": "Princess Mononoke",
+    "method": "fuzzy",
+    "confidence": 91.89189189189189
+  },
+  {
+    "raw_title": "Principessa Mononoke (Ried. 2026) 4k",
     "tmdb_id": 128,
     "matched_title": "Princess Mononoke",
     "method": "fuzzy",
@@ -182,16 +161,16 @@
     "confidence": 94.44444444444444
   },
   {
-    "raw_title": "Star Wars: The Mandalorian And Grogu",
-    "tmdb_id": 1228710,
-    "matched_title": "The Mandalorian and Grogu",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "Still Walking",
     "tmdb_id": 25050,
     "matched_title": "Still Walking - Camminando in un giorno d'estate",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "Main Vaapas Aaunga",
+    "tmdb_id": 1431068,
+    "matched_title": "मैं वापस आऊंगा",
     "method": "ai",
     "confidence": 95.0
   },
@@ -217,7 +196,7 @@
     "confidence": 91.30434782608697
   },
   {
-    "raw_title": "Principessa Mononoke 4k",
+    "raw_title": "PRINCIPESSA MONONOKE",
     "tmdb_id": 128,
     "matched_title": "Princess Mononoke",
     "method": "fuzzy",
