@@ -49,6 +49,13 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "V.O. SOTT.ITA - ALICE NELLE CITTÀ (ALICE IN DEN STADTEN)",
+    "tmdb_id": 2204,
+    "matched_title": "Alice nelle città",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "SENZA PELLE (10 E LUCE)",
     "tmdb_id": 56397,
     "matched_title": "Senza pelle",
@@ -63,16 +70,23 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "TRA AMORE E INGANNI (YOU, ME & TUSCANY)",
-    "tmdb_id": 1455079,
-    "matched_title": "Tra amore e inganni",
+    "raw_title": "V.O. SOTT.ITA - L'AMICO AMERICANO (Der amerikanische Freund)",
+    "tmdb_id": 11222,
+    "matched_title": "L'amico americano",
     "method": "ai",
     "confidence": 100.0
   },
   {
-    "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA) - V. O.",
-    "tmdb_id": 1303613,
-    "matched_title": "Il silenzio degli altri",
+    "raw_title": "V.O. SOTT.ITA. -  NON BUSSARE ALLA MIA PORTA (Don't Come Knocking)",
+    "tmdb_id": 3527,
+    "matched_title": "Non bussare alla mia porta",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "TRA AMORE E INGANNI (YOU, ME & TUSCANY)",
+    "tmdb_id": 1455079,
+    "matched_title": "Tra amore e inganni",
     "method": "ai",
     "confidence": 100.0
   },
@@ -89,6 +103,13 @@
     "matched_title": "Le tigri di Mompracem",
     "method": "ai",
     "confidence": 95.0
+  },
+  {
+    "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA) - V. O.",
+    "tmdb_id": 1303613,
+    "matched_title": "Il silenzio degli altri",
+    "method": "ai",
+    "confidence": 100.0
   },
   {
     "raw_title": "TUTTO QUELLO CHE RESTA DI TE (ALL THAT'S LEFT OF YOU)",
@@ -194,13 +215,6 @@
     "matched_title": "The Mandalorian and Grogu",
     "method": "fuzzy",
     "confidence": 91.30434782608697
-  },
-  {
-    "raw_title": "PRINCIPESSA MONONOKE",
-    "tmdb_id": 128,
-    "matched_title": "Princess Mononoke",
-    "method": "fuzzy",
-    "confidence": 91.89189189189189
   },
   {
     "raw_title": "STAR WARS - THE MANDALORIAN AND GROGU",
