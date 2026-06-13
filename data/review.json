@@ -1,24 +1,10 @@
 [
   {
-    "raw_title": "IL MISTERO DELLE 12 SEDIE",
-    "tmdb_id": 24918,
-    "matched_title": "Il mistero delle dodici sedie",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "DIAZ - NON PULITE QUESTO SANGUE",
-    "tmdb_id": 96714,
-    "matched_title": "Diaz - Non pulire questo sangue",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "STILL WALKING",
-    "tmdb_id": 25050,
-    "matched_title": "Still Walking - Camminando in un giorno d'estate",
-    "method": "ai",
-    "confidence": 95.0
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "tmdb_id": 128,
+    "matched_title": "Princess Mononoke",
+    "method": "fuzzy",
+    "confidence": 91.89189189189189
   },
   {
     "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
@@ -84,16 +70,23 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "TRA AMORE E INGANNI (YOU, ME & TUSCANY)",
-    "tmdb_id": 1455079,
-    "matched_title": "Tra amore e inganni",
+    "raw_title": "L'AMICO AMERICANO (DER AMERIKANISCHE FREUND)",
+    "tmdb_id": 11222,
+    "matched_title": "L'amico americano",
     "method": "ai",
     "confidence": 100.0
   },
   {
-    "raw_title": "LA FESTA È FINITA (THE PARTY'S OVER!)",
-    "tmdb_id": 1313211,
-    "matched_title": "La festa è finita!",
+    "raw_title": "NON BUSSARE ALLA MIA PORTA (DON'T COME KNOCKING)",
+    "tmdb_id": 3527,
+    "matched_title": "Non bussare alla mia porta",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "TRA AMORE E INGANNI (YOU, ME & TUSCANY)",
+    "tmdb_id": 1455079,
+    "matched_title": "Tra amore e inganni",
     "method": "ai",
     "confidence": 100.0
   },
