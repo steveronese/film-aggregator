@@ -1,20 +1,37 @@
 [
   {
-    "tmdb_id": 128,
-    "title": "Princess Mononoke",
-    "original_title": "もののけ姫",
-    "italian_title": "Princess Mononoke",
-    "year": 1997,
-    "poster_path": "/3alL6upCn0GX9Rp1RXtGzmJbEQa.jpg",
-    "overview": "In seguito allo scontro con un animale posseduto da un demone il principe Ashitaka viene contaminato da una maledizione mortale. Si mette dunque in viaggio per scoprirne l'origine e chiedere una cura al grande Dio Bestia, l'unico in grado di guarirlo. Arrivato nelle regioni da cui proveniva la bestia scopre una guerra tra uomini e una forma primitiva di animali della foresta, giganti, senzienti e aiutati da quella che chiamano la Principessa Spettro, una ragazza cresciuta dai lupi che ha rinnegato gli uomini. Dall'altra parte gli uomini, capitanati da Lady Eboshi che gestisce con amore, giustizia e pietà il suo villaggio di fabbri, vogliono lavorare la montagna e abbattere gli alberi per poter estrarre il ferro (fonte di ricchezza). In mezzo un gruppo di monaci cerca di fomentare gli uomini ad uccidere il Dio Bestia e rubarne la testa perchè, si dice, fornisca l'eterna giovinezza.",
-    "title_en": "Princess Mononoke",
-    "overview_en": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
-    "runtime": 134,
-    "director": "Hayao Miyazaki",
+    "tmdb_id": 15014,
+    "title": "Bianca",
+    "original_title": "Bianca",
+    "italian_title": "Bianca",
+    "year": 1984,
+    "poster_path": "/lnXZLkJ3MFgAFAiyVJGfTUykNkU.jpg",
+    "overview": "Michele è un insegnante di matematica, paranoico e solitario, vive spiando la vita di coppia dei suoi amici e conoscenti. Quando una vicina di casa verrà trovata uccisa, Michele sarà considerato tra i sospettati. Nel frattempo Michele si innamora di una collega, Bianca, che per un breve ma intenso periodo gli regalerà un po' di gioia e un certo equilibrio mentale.",
+    "title_en": "Bianca",
+    "overview_en": "Michele, a young mathematics professor, moves into a new flat. Lonely, depressed, and neurotic, he spends his time obsessively monitoring the lives of the couples around him, especially his neighbors, a young pair struggling to make their relationship work. When Bianca, a new teacher at the local high school, enters his life, Michele finds himself falling in love. At the same time, a string of murders rocks the neighborhood, casting suspicion on him.",
+    "runtime": 96,
+    "director": "Nanni Moretti",
     "genres": [
-      "Avventura",
-      "Fantasy",
-      "Animazione"
+      "Dramma",
+      "Commedia",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 1088548,
+    "title": "Amarga Navidad",
+    "original_title": "Amarga Navidad",
+    "italian_title": "Amarga Navidad",
+    "year": 2026,
+    "poster_path": "/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
+    "overview": "Il film racconta lo stretto legame tra realtà e finzione, tra ispirazione e vita, e apre una riflessione sui limiti dell’autofinzione.",
+    "title_en": "Bitter Christmas",
+    "overview_en": "After her mother dies in December, advertising director Elsa immerses herself in work to cope. When a panic attack forces her to take a break, she decides to travel to Lanzarote with her friend Patricia. The story of these women run parallel to that of a screenwriter and film director, exploring how life and fiction are inseparably linked, sometimes painfully so.",
+    "runtime": 112,
+    "director": "Pedro Almodóvar",
+    "genres": [
+      "Dramma",
+      "Commedia"
     ]
   },
   {
@@ -34,20 +51,21 @@
     ]
   },
   {
-    "tmdb_id": 1088548,
-    "title": "Amarga Navidad",
-    "original_title": "Amarga Navidad",
-    "italian_title": "Amarga Navidad",
+    "tmdb_id": 1275779,
+    "title": "Disclosure Day",
+    "original_title": "Disclosure Day",
+    "italian_title": "Disclosure Day",
     "year": 2026,
-    "poster_path": "/oKq8IEhwVDybskSkAlWQhPawYaj.jpg",
-    "overview": "Il film racconta lo stretto legame tra realtà e finzione, tra ispirazione e vita, e apre una riflessione sui limiti dell’autofinzione.",
-    "title_en": "Bitter Christmas",
-    "overview_en": "After her mother dies in December, advertising director Elsa immerses herself in work to cope. When a panic attack forces her to take a break, she decides to travel to Lanzarote with her friend Patricia. The story of these women run parallel to that of a screenwriter and film director, exploring how life and fiction are inseparably linked, sometimes painfully so.",
-    "runtime": 112,
-    "director": "Pedro Almodóvar",
+    "poster_path": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
+    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
+    "title_en": "Disclosure Day",
+    "overview_en": "A cybersecurity expert becomes a whistleblower to reveal secrets about aliens, putting him on the run from a corporation while a meteorologist experiences strange phenomena and joins forces with him to prove there's life beyond our knowledge.",
+    "runtime": 145,
+    "director": "Steven Spielberg",
     "genres": [
-      "Dramma",
-      "Commedia"
+      "Mistero",
+      "Fantascienza",
+      "Thriller"
     ]
   },
   {
@@ -83,42 +101,6 @@
     "genres": [
       "Horror",
       "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1275779,
-    "title": "Disclosure Day",
-    "original_title": "Disclosure Day",
-    "italian_title": "Disclosure Day",
-    "year": 2026,
-    "poster_path": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
-    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
-    "title_en": "Disclosure Day",
-    "overview_en": "A cybersecurity expert becomes a whistleblower to reveal secrets about aliens, putting him on the run from a corporation while a meteorologist experiences strange phenomena and joins forces with him to prove there's life beyond our knowledge.",
-    "runtime": 145,
-    "director": "Steven Spielberg",
-    "genres": [
-      "Mistero",
-      "Fantascienza",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 15014,
-    "title": "Bianca",
-    "original_title": "Bianca",
-    "italian_title": "Bianca",
-    "year": 1984,
-    "poster_path": "/lnXZLkJ3MFgAFAiyVJGfTUykNkU.jpg",
-    "overview": "Michele è un insegnante di matematica, paranoico e solitario, vive spiando la vita di coppia dei suoi amici e conoscenti. Quando una vicina di casa verrà trovata uccisa, Michele sarà considerato tra i sospettati. Nel frattempo Michele si innamora di una collega, Bianca, che per un breve ma intenso periodo gli regalerà un po' di gioia e un certo equilibrio mentale.",
-    "title_en": "Bianca",
-    "overview_en": "Michele, a young mathematics professor, moves into a new flat. Lonely, depressed, and neurotic, he spends his time obsessively monitoring the lives of the couples around him, especially his neighbors, a young pair struggling to make their relationship work. When Bianca, a new teacher at the local high school, enters his life, Michele finds himself falling in love. At the same time, a string of murders rocks the neighborhood, casting suspicion on him.",
-    "runtime": 96,
-    "director": "Nanni Moretti",
-    "genres": [
-      "Dramma",
-      "Commedia",
-      "Mistero"
     ]
   },
   {
@@ -184,6 +166,619 @@
     "runtime": null,
     "director": "Alberto Valtellina",
     "genres": []
+  },
+  {
+    "tmdb_id": 120467,
+    "title": "Grand Budapest Hotel",
+    "original_title": "The Grand Budapest Hotel",
+    "italian_title": "Grand Budapest Hotel",
+    "year": 2014,
+    "poster_path": "/tY8gmrOOzhJxfBLQNOxjbuSR52b.jpg",
+    "overview": "Una ragazza depone una chiave di una stanza d'hotel ai piedi del busto dedicato a uno scrittore scomparso. Lo stesso scrittore racconta delle origini del suo romanzo. Un uomo oramai anziano e stanco racconta in un albergo semi deserto ad un giovane scrittore la storia di Gustave H., il leggendario concierge del Grand Budapest Hotel, e del suo giovane protetto Zero, alle prese con il furto e il recupero di un dipinto rinascimentale inestimabile e la battaglia per un enorme patrimonio di famiglia.",
+    "title_en": "The Grand Budapest Hotel",
+    "overview_en": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+    "runtime": 99,
+    "director": "Wes Anderson",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 242262,
+    "title": "La sedia della felicità",
+    "original_title": "La sedia della felicità",
+    "italian_title": "La sedia della felicità",
+    "year": 2014,
+    "poster_path": "/fUEC01kNzMkjICfIbxlldHeeGQw.jpg",
+    "overview": "Italia del Nord-Est. Dino di mestiere pratica tatuaggi, Bruna è un'estetista. I loro studi sono uno di fronte all'altro. Vengono a sapere di un misterioso tesoro nascosto in una sedia appartenuta ad un donna ormai morta. Gli affari non vanno molto bene perciò, insieme, iniziano la ricerca.",
+    "title_en": "La sedia della felicità",
+    "overview_en": "Dino craft practice tattoos, Bruna is a beautician; their studies are facing each other. They learn of a mysterious treasure hidden in a chair that belonged to a woman now dead.",
+    "runtime": 98,
+    "director": "Carlo Mazzacurati",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1382513,
+    "title": "Hen - Storia di una Gallina",
+    "original_title": "Κότα",
+    "italian_title": "Hen - Storia di una Gallina",
+    "year": 2026,
+    "poster_path": "/6VAHRoUQLfNXG8mYz3NVgT0ADFd.jpg",
+    "overview": "L’autore dell’indimenticato Taxidermia (Cannes 2006) racconta la storia di una gallina, a partire dall’uovo che viene deposto. E adotta il punto di vista del volatile con un effetto spiazzante, inquietante e postumano. Perché la gallina – che è ostinata, resiliente, determinata a crescere i propri cuccioli e a conservare la propria libertà – oltre ad altri animali (una volpe, un topo, un verme, un falco, un cane, dei dinosauri in un documentario televisivo), incrocia inevitabilmente anche gli uomini, la loro violenza, le loro tragedie e ingiustizie, grandi e piccole: a volte come ignara testimone, a volte come elemento involontariamente scatenante.",
+    "title_en": "Hen",
+    "overview_en": "Escaping from a chicken farm, a hen finds refuge in the courtyard of a crumbling restaurant. There, she discovers love, confronts the pecking order, and fights to protect her eggs from a greedy owner. Her droll yet touching quest for motherhood mirrors the messy compromises and silent struggles of human lives.",
+    "runtime": 97,
+    "director": "Pálfi György",
+    "genres": [
+      "Avventura",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1510300,
+    "title": "Le bambine",
+    "original_title": "Le bambine",
+    "italian_title": "Le bambine",
+    "year": 2026,
+    "poster_path": "/chRxIKKMnJabtSEt4BkT8clZFuT.jpg",
+    "overview": null,
+    "title_en": "Mosquitoes",
+    "overview_en": "1997: eight-year-old Linda drifts away from her wealthy grandmother's Swiss villa with her carefree mother Eva. In Italy, she meets Azzurra and Marta. A summer bond unites the three girls in a gang formed to protect each other, their youth, and their freedom. Around them swirl selfish parents chasing fragile dreams, gossiping neighbors, and a queer babysitter trying to find his place in a world that doesn’t want him either.",
+    "runtime": 105,
+    "director": "Nicole Bertani, Valentina Bertani",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1211442,
+    "title": "Rebuilding",
+    "original_title": "Rebuilding",
+    "italian_title": "Rebuilding",
+    "year": 2025,
+    "poster_path": "/jBRtwR4m0CQRKrSyYT0NHhSKFlv.jpg",
+    "overview": "Un incendio ha appena distrutto il suo ranch familiare di duecento settanta acri: tutte le sue amate mucche vanno vendute. Il giovane Dusty, strappato al suo amato allevamento, vive come un reduce di sé stesso, arrangiandosi con lavoretti a giornata. Cowboy malinconico e solitario, dorme in una piccola roulotte allestita in un campo emergenze dove, giorno dopo giorno, combattendo l'iniziale ritrosia, inizia a solidarizzare con le altre persone sfollate. Nel frattempo, intanto, è chiamato a ricucire i rapporti con la piccola Callie-Rose avuta dall'ex compagna Ruby, senza smettere di sognare, però, di riaprire un giorno la sua fattoria, ripiantare tutti gli alberi e lasciarci pascolare di nuovo gli animali.",
+    "title_en": "Rebuilding",
+    "overview_en": "After wildfires take his ranch, a cowboy named Dusty winds up in a FEMA camp, finding community with others who lost homes, including his daughter and ex-wife.",
+    "runtime": 96,
+    "director": "Max Walker-Silverman",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 37477,
+    "title": "Profils paysans : l'approche",
+    "original_title": "Profils paysans : l'approche",
+    "italian_title": "Profils paysans : l'approche",
+    "year": 2001,
+    "poster_path": "/lQEkAzieP4DB5MwSpKcVl8QfeAn.jpg",
+    "overview": null,
+    "title_en": "Profils paysans : l'approche",
+    "overview_en": "The first of a documentary serie about rural France.",
+    "runtime": 90,
+    "director": "Raymond Depardon",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1000879,
+    "title": "Grand Ciel",
+    "original_title": "Grand Ciel",
+    "italian_title": "Grand Ciel",
+    "year": 2026,
+    "poster_path": "/nCdIQGX9ox10a5vyekZddSxZbX6.jpg",
+    "overview": "Vincent lavora di notte nel cantiere di un quartiere futuristico. Quando un operaio scompare, Vincent e i suoi colleghi iniziano a sospettare che i loro superiori stiano insabbiando un incidente. Ma presto scompare un altro operaio.",
+    "title_en": "The Site",
+    "overview_en": "Vincent works the night shift on the construction site of a futuristic district. When a worker goes missing, Vincent and his colleagues suspect that their superiors are covering up an accident. But soon another worker disappears.",
+    "runtime": 91,
+    "director": "Akihiro Hata",
+    "genres": [
+      "Thriller",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 30197,
+    "title": "Per favore, non toccate le vecchiette!",
+    "original_title": "The Producers",
+    "italian_title": "Per favore, non toccate le vecchiette!",
+    "year": 1968,
+    "poster_path": "/A0o4t52OtdzIU0yhaxNlkZ6CJ1p.jpg",
+    "overview": "Un produttore di Broadway, per frodare il fisco, si fa finanziare da ricche vecchiette uno spettacolo, sicuro che sarà un fiasco. Film d'esordio di M. Brooks (che prese un Oscar per la sceneggiatura) è diventato un cult movie per la sgangherata forza satirica nella rappresentazione del mondo teatrale. Grande spasso nelle scene della commedia musicale. La voce della canzone “Springtime for Hitler” è di Brooks.",
+    "title_en": "The Producers",
+    "overview_en": "A conniving Broadway producer and his meek accountant plan to profit from charming wealthy old biddies to invest in an overbudget production, and then put on a sure-fire disaster, so nobody will ask for their money back — and what's more disastrous than a tasteless musical celebrating Adolf Hitler.",
+    "runtime": 89,
+    "director": "Mel Brooks",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 16149,
+    "title": "La grande truffa del rock'n'roll",
+    "original_title": "The Great Rock 'n' Roll Swindle",
+    "italian_title": "La grande truffa del rock'n'roll",
+    "year": 1980,
+    "poster_path": "/hbhcbYSVCSLOEOM3nFv0JLN3fCg.jpg",
+    "overview": "Il manager dei Sex Pistols racconta dove come quando mise su il famoso complesso rock (a sentir lui, formato, almeno all'inizio, da un branco di ragazzotti che la musica non sapevano nemmeno dove stesse di casa).",
+    "title_en": "The Great Rock 'n' Roll Swindle",
+    "overview_en": "A rather incoherent post-breakup Sex Pistols \"documentary\", told from the point of view of Pistols manager Malcolm McLaren, whose (arguable) position is that the Sex Pistols in particular and punk rock in general were an elaborate scam perpetrated by him in order to make \"a million pounds.\"",
+    "runtime": 103,
+    "director": "Julien Temple",
+    "genres": [
+      "Commedia",
+      "Documentario",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 5691,
+    "title": "I racconti di Canterbury",
+    "original_title": "I racconti di Canterbury",
+    "italian_title": "I racconti di Canterbury",
+    "year": 1972,
+    "poster_path": "/a6T2PYgMlDTG2uCofFJL941zd1M.jpg",
+    "overview": "Un gruppo di pellegrini diretti a Canterbury, si racconta delle storie durante il viaggio: lo studente Nicola concupisce la moglie del legnaiolo Giovanni, sfruttandone la superstizione; due studenti si vendicano di Simkin, ladro di farina; una donna di Bath, insaziabile e vorace ninfomane uccide ben cinque mariti ereditandone gli averi...",
+    "title_en": "The Canterbury Tales",
+    "overview_en": "Glimpses of Chaucer penning his famous work are sprinkled through this re-enactment of several of his stories.",
+    "runtime": 112,
+    "director": "Pier Paolo Pasolini",
+    "genres": [
+      "Commedia",
+      "Storia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 96714,
+    "title": "Diaz - Non pulire questo sangue",
+    "original_title": "Diaz - Don't Clean Up This Blood",
+    "italian_title": "Diaz - Non pulire questo sangue",
+    "year": 2012,
+    "poster_path": "/bQO6eKsccYaGiZxSVkf0RU58viE.jpg",
+    "overview": "Luca è un giornalista della Gazzetta di Bologna (giornale di centro destra) che il 20 luglio 2001 decide di andare a vedere di persona cosa sta accadendo a Genova dove, in seguito agli scontri per il G8, un ragazzo, Carlo Guliani, è stato ucciso. Alma è un'anarchica tedesca che ha partecipato agli scontri e ora, insieme a Marco (organizzatore del Social Forum) è alla ricerca dei dispersi. Nick è un manager francese giunto a Genova per seguire il seminario dell'economista Susan George. Anselmo è un anziano militante della CGIL che ha preso parte al corteo pacifico contro il G8. Bea e Ralf sono di passaggio ma cercano un luogo presso cui dormire prima di ripartire. Max è vicequestore aggiunto e, nel corso della giornata, ha già preso la decisione di non partecipare a una carica al fine di evitare una strage di pacifici manifestanti. Tutti costoro e molti altri si troveranno la notte del 21 luglio all'interno della scuola Diaz dove la polizia scatenerà l'inferno.",
+    "title_en": "Diaz - Don't Clean Up This Blood",
+    "overview_en": "On July 19–21, 2001, over 200,000 people took to the streets of Genoa to protest against the ongoing G8 summit. Anti-globalization activists clashed with the police, with 23-year-old protester Carlo Giuliani shot dead after confronting a police vehicle. In the aftermath, the police organized a night raid on the Diaz high school, where around a hundred people between unarmed protesters—mostly students—and independent reporters who documented the police brutality during the protests had took shelter. What happened next was called by Amnesty International \"the most serious breach of civil liberties in a democratic Western country since World War II.\"",
+    "runtime": 120,
+    "director": "Daniele Vicari",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 827,
+    "title": "I diabolici",
+    "original_title": "Les Diaboliques",
+    "italian_title": "I diabolici",
+    "year": 1955,
+    "poster_path": "/3LWWTQXmTYpzMjdZmvOKZrqVSeE.jpg",
+    "overview": "Moglie e amante di un direttore di collegio si mettono d'accordo e lo affogano nella vasca da bagno. Ma il cadavere scompare e i colpi di scena non si contano. Con un ottimo ritmo e una suspense ininterrotta, questo dramma criminale si srotola attorno alle due bravissime protagoniste, lo spettatore è con loro, attento e partecipe. Tratto dal romanzo Celle qui n'était plus (1952) di Pierre Boileau e Thomas Narcejac, ha il torto di puntare troppo sulla sorpresa. Il gioco è abile, ma il giocatore bara. Rifatto a Hollywood come Diabolique nel 1996. Premio Delluc 1955.AUTORE LETTERARIO: Pierre Boileau, Thomas Narcejac",
+    "title_en": "Diabolique",
+    "overview_en": "The cruel and abusive headmaster of a boarding school, Michel Delassalle, is murdered by an unlikely duo -- his meek wife and the mistress he brazenly flaunts. The women become increasingly unhinged by a series of odd occurrences after Delassalle's corpse mysteriously disappears.",
+    "runtime": 116,
+    "director": "Henri-Georges Clouzot",
+    "genres": [
+      "Thriller",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 125742,
+    "title": "10e chambre - Instants d'audience",
+    "original_title": "10e chambre - Instants d'audience",
+    "italian_title": "10e chambre - Instants d'audience",
+    "year": 2004,
+    "poster_path": "/2kykPNLRCxlM23EnVOpWLwUdAbH.jpg",
+    "overview": null,
+    "title_en": "The 10th District Court: Moments of Trial",
+    "overview_en": "The proceedings of a Paris courtroom are the grist for this documentary. Drawn from over 200 appearances before the same female judge, the director chooses a dozen or so varied misdemeanor and civil hearings to highlight the subtle details of human behavior. In the process he draws attention to issues of guilt, innocence, policing and ethnicity in France.",
+    "runtime": 105,
+    "director": "Raymond Depardon",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 11104,
+    "title": "Hong Kong Express",
+    "original_title": "重慶森林",
+    "italian_title": "Hong Kong Express",
+    "year": 1994,
+    "poster_path": "/8DHAlTUes6fMWMqQlEeZ7CH3Wa9.jpg",
+    "overview": "Chungking Mansions, Hong Kong, 1994. L'agente 223 non riesce a dimenticare Ah Mei, la ragazza che l'ha lasciato, e arriva ad abbrutirsi mangiando ananas scaduto. Incontra una donna misteriosa con una parrucca bionda e se ne innamora. L'agente 663 frequenta assiduamente un chiosco dove lavora Ah Fei, la quale si innamora di 663 senza che questi se ne renda conto.",
+    "title_en": "Chungking Express",
+    "overview_en": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
+    "runtime": 102,
+    "director": "Wong Kar-Wai",
+    "genres": [
+      "Dramma",
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 5,
+    "title": "Four Rooms",
+    "original_title": "Four Rooms",
+    "italian_title": "Four Rooms",
+    "year": 1995,
+    "poster_path": "/s25J2oTcV7QcMNU1bD3s3F6yhtZ.jpg",
+    "overview": "Quattro camere, quattro episodi comico-grotteschi tenuti insieme da un luogo (il Mon Signor, vecchio albergo di Los Angeles), un tempo (la notte di San Silvestro) e un fattorino (T. Roth). 1) “Strano intruglio” di A. Anders: una squadra di streghe cerca sperma fresco per evocare la loro dea; 2) “L'uomo sbagliato” di A. Rockwell: una coppia sadomaso coinvolge il fattorino d'albergo nei suoi esercizi; 3) “I cattivi” di R. Rodriguez: due bambini burrascosi si ribellano al baby-sitter, scoprono un cadavere, incendiano la stanza; 4) “L'uomo di Hollywood” di Q. Tarantino: un attore scommette che riuscirà ad accendere uno Zippo dieci volte di seguito, vincerà una Chevrolet del '64 e salverà il proprio mignolo. Bischerrima scemenza e colluvie di sciocchezze comicarole, non priva di volgarità né di turpiloquio. Si va dal pessimo al mediocre. Il meglio del film è nel cartoon d'avvio, veicolo dei titoli di testa. Colonna sonora dei Combustible Edison.",
+    "title_en": "Four Rooms",
+    "overview_en": "It's Ted the Bellhop's first night on the job...and the hotel's very unusual guests are about to place him in some outrageous predicaments. It seems that this evening's room service is serving up one unbelievable happening after another.",
+    "runtime": 98,
+    "director": "Allison Anders, Alexandre Rockwell, Robert Rodriguez, Quentin Tarantino",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 2011,
+    "title": "Persepolis",
+    "original_title": "Persepolis",
+    "italian_title": "Persepolis",
+    "year": 2007,
+    "poster_path": "/dUvdyb2rkChGjDJELiuMXpChsqg.jpg",
+    "overview": "La storia di Marjane, una ragazza precoce e ribelle che, cresciuta portando scarpe da ginnastica e giocando alla lotta con i maschietti, si trova costretta ad affrontare, dall'infanzia all'età adulta,  drastici cambiamenti delle proprie abitudini di vita imposti prima dalla monarchia dello Scià e poi dal regime degli ayatollah, fino alla sua partenza per l'Europa.",
+    "title_en": "Persepolis",
+    "overview_en": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
+    "runtime": 95,
+    "director": "Vincent Paronnaud, Marjane Satrapi",
+    "genres": [
+      "Animazione",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 71822,
+    "title": "Il mistero Picasso",
+    "original_title": "Le Mystère Picasso",
+    "italian_title": "Il mistero Picasso",
+    "year": 1956,
+    "poster_path": "/4oaaQWCvpaMhjHGklowwB5ednRL.jpg",
+    "overview": null,
+    "title_en": "The Mystery of Picasso",
+    "overview_en": "Using a specially designed transparent 'canvas' to provide an unobstructed view, Picasso creates as the camera rolls. He begins with simple works that take shape after only a single brush stroke. He then progresses to more complex paintings, in which he repeatedly adds and removes elements, transforming the entire scene at will, until at last the work is complete.",
+    "runtime": 78,
+    "director": "Henri-Georges Clouzot",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 957,
+    "title": "Balle spaziali",
+    "original_title": "Spaceballs",
+    "italian_title": "Balle spaziali",
+    "year": 1987,
+    "poster_path": "/nIkJClHiF1DBImRBnTJBDf2rbVK.jpg",
+    "overview": "Stella Solitaria, un eroe dello spazio senza paura e senza cervello, insieme al compagno Rutto, mezzo cane e mezzo uomo, intraprendono una guerra interstellare per liberare la principessa Vespa dalle grinfie del malvagio Casco Nero. Sulla loro strada dovranno affrontare l'enorme e appiccicosa Pizza Margherita, un robot impertinente chiamato Dot Matrix e una saggia piccola creatura, Yogurt, che insegnerà loro a usare il potere mistico dello Sforzo per portare la pace e ricche opportunità di commercio nella galassia. Parodiando senza pietà ogni film del genere epico-fantascentifico, da Star Wars a Star Trek, questo film vanta un cast di pazzi cosmici e offre un divertimento assicurato.",
+    "title_en": "Spaceballs",
+    "overview_en": "When the nefarious Dark Helmet hatches a plan to snatch Princess Vespa and steal her planet's air, space-bum-for-hire Lone Starr and his clueless sidekick fly to the rescue. Along the way, they meet Yogurt, who puts Lone Starr wise to the power of \"The Schwartz.\" Can he master it in time to save the day?",
+    "runtime": 96,
+    "director": "Mel Brooks",
+    "genres": [
+      "Commedia",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 10226,
+    "title": "Alta tensione",
+    "original_title": "Haute tension",
+    "italian_title": "Alta tensione",
+    "year": 2003,
+    "poster_path": "/f6k2jfvbn4XJwSW6tczcv3JQmF3.jpg",
+    "overview": "Aléx e Marie, due studentesse, vanno a preparare gli esami universitari in campagna, a casa dei genitori di Aléx. Dopo cena suona alla porta uno psicopatico che stermina la famiglia e rapisce Aléx, ma non si accorge della presenza di Marie, la quale lo segue per salvare l’amica, anche se...",
+    "title_en": "High Tension",
+    "overview_en": "Best friends Marie and Alexia decide to spend a quiet weekend at Alexia's parents' secluded farmhouse. But on the night of their arrival, the girls' idyllic getaway turns into an endless night of horror.",
+    "runtime": 91,
+    "director": "Alexandre Aja",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 29084,
+    "title": "Il corvo",
+    "original_title": "Le Corbeau",
+    "italian_title": "Il corvo",
+    "year": 1943,
+    "poster_path": "/jRlIteWZacu67uquoaD39zNMwEt.jpg",
+    "overview": "Un paesino della provincia francese viene sconvolto da una serie di lettere anonime che colpiscono uno stimato professionista. Si tratta del dottor Germain che viene accusato d'essere l'amante di Laura, la moglie del dottor Vorzet. Poi tutti si sentono chiamati in causa, mentre l'inchiesta langue.",
+    "title_en": "Le Corbeau",
+    "overview_en": "Remy Germain is a doctor in a French town who becomes the focus of a vicious smear campaign, as letters accusing him of having an affair and performing unlawful abortions are mailed to village leaders. The mysterious writer, who signs each letter as \"Le Corbeau\" (The Raven) soon targets the whole town, exposing everyone's dark secrets.",
+    "runtime": 93,
+    "director": "Henri-Georges Clouzot",
+    "genres": [
+      "Mistero",
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 539,
+    "title": "Psyco",
+    "original_title": "Psycho",
+    "italian_title": "Psyco",
+    "year": 1960,
+    "poster_path": "/tdqX0MWaFHuGwUygYn7j6eluOdP.jpg",
+    "overview": "Marion Crane, impiegata in una società immobiliare, scappa con 40.000$ rubati dalle casse della ditta. Durante la fuga verso casa del fidanzato però, decide di fermarsi nel Motel gestito dal giovane Norman Bates e dalla madre, che però vive rintanata nella casa attigua al Motel stesso.  Il capolavoro di Alfred Hitchcock.",
+    "title_en": "Psycho",
+    "overview_en": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+    "runtime": 109,
+    "director": "Alfred Hitchcock",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 96041,
+    "title": "La Vie moderne",
+    "original_title": "La Vie moderne",
+    "italian_title": "La Vie moderne",
+    "year": 2000,
+    "poster_path": "/2QOaIfdC3CFINeeQRJ0QBtjllRy.jpg",
+    "overview": null,
+    "title_en": "Modern Life",
+    "overview_en": "The lives of three people faced with an uncertain future.  Marguerite, 17, is uncomfortable with her family enviroment and turns to God.  Claire, who desperately wants a child, encounters again a former lover.  Eva asks the unemployed Jacques, who has been left by his wife and his daughter, to find a missing friend.",
+    "runtime": 123,
+    "director": "Laurence Ferreira Barbosa",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 12110,
+    "title": "Dracula morto e contento",
+    "original_title": "Dracula: Dead and Loving It",
+    "italian_title": "Dracula morto e contento",
+    "year": 1995,
+    "poster_path": "/jRdvhPgULf566nbeEuFdEHekdr6.jpg",
+    "overview": "Il Conte Dracula riesce a raggiungere Londra e prende dimora accanto alla proprietà del Dottor Seward, direttore del manicomio. Il vampiro attrae Lucy, pupilla del dottore per poi spostare le sue attenzioni su Mina, la pudibonda figlia del medico. Mina si trasforma in una scatenata danzatrice e nulla possono fare le strategie messe in atto dal Dottor Van Helsing. Poteva Mel Brooks dimenticarsi di Dracula dopo essersi occupato di Frankenstein? Sicuramente no anche perché il vampiro più importante della letteratura ci sarebbe rimasto male. Ecco allora che Brooks rivista il mito alla sua maniera e si fa affiancare dal sorriso accattivante (con canini incorporati) di Leslie Nielsen che abbandona le pallottole spuntate per seguirlo in un tourbillon di citazioni che non si ispirano solo al romanzo ma, come è ovvio, a tutto il cinema che ha visto Dracula come protagonista....",
+    "title_en": "Dracula: Dead and Loving It",
+    "overview_en": "When a lawyer shows up at the vampire's doorstep, he falls prey to his charms and joins him in his search for fresh blood. Enter Professor Van Helsing, who may be the only one able to vanquish the Count.",
+    "runtime": 88,
+    "director": "Mel Brooks",
+    "genres": [
+      "Commedia",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 74402,
+    "title": "L'assassino abita al 21",
+    "original_title": "L'assassin habite au… 21",
+    "italian_title": "L'assassino abita al 21",
+    "year": 1942,
+    "poster_path": "/4YvB3s2SmYcgcaqtCr9EDB2qeTV.jpg",
+    "overview": "Parigi, Francia. Il commissario Wens segue le tracce di uno spietato assassino in un luogo inaspettato.",
+    "title_en": "The Murderer Lives at Number 21",
+    "overview_en": "Paris, France. Commissaire Wens follows the lead of a ruthless murderer to an unexpected place.",
+    "runtime": 83,
+    "director": "Henri-Georges Clouzot",
+    "genres": [
+      "Commedia",
+      "Mistero",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 22561,
+    "title": "Allegro non troppo",
+    "original_title": "Allegro non troppo",
+    "italian_title": "Allegro non troppo",
+    "year": 1976,
+    "poster_path": "/rKm1zFtwf9XVlxxHFHXe6g474ji.jpg",
+    "overview": "Allegro non troppo è un film a tecnica mista, in parte dal vero e in parte d'animazione, prodotto e diretto da Bruno Bozzetto.  Dichiaratamente ispirato al classico disneyano Fantasia, è composto da sei episodi animati (più un finale composto da diversi cortometraggi di pochi secondi), ciascuno accompagnato da un celebre brano di musica classica, inseriti in un film-cornice girato dal vero, in bianco e nero.  In un teatro vuoto, un pomposo presentatore introduce un insolito spettacolo: mentre un direttore d'orchestra fa eseguire i brani a un'improbabile orchestra improvvisata, formata da vecchiette in abiti belle époque prelevate da un ospizio, un disegnatore, tenuto incatenato per anni, ne realizza in tempo reale la versione animata.",
+    "title_en": "Allegro non troppo",
+    "overview_en": "An enterprising producer believes he has hit upon a winning concept: a program of original animated shorts set to classical music. Undeterred by warnings that this has already been done by an American named 'Prisney,' he rallies an orchestra of geriatric women, a bullish conductor, and an animator that he keeps locked in the dungeon. What could go wrong?",
+    "runtime": 85,
+    "director": "Bruno Bozzetto",
+    "genres": [
+      "Fantasy",
+      "Animazione",
+      "Commedia",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 244458,
+    "title": "The Voices",
+    "original_title": "The Voices",
+    "italian_title": "The Voices",
+    "year": 2014,
+    "poster_path": "/mLhsRUmuXjIVsopd0xBZSJXamCm.jpg",
+    "overview": "Il film racconta di un uomo di nome Jerry Hickfang che, dopo aver accidentalmente ucciso una donna che è sua collega nella fabbrica di sanitari dove lavora, inizia a dialogare con il suo gatto e il suo cane – chiamati Mr. Whiskers e Bosco, il primo spregiudicato e senza scrupoli, il secondo buono e ottimista – ascoltando letteralmente i loro consigli sul come nascondere l’accaduto ed evitare ogni forma di guai.",
+    "title_en": "The Voices",
+    "overview_en": "A mentally unhinged factory worker must decide whether to listen to his talking cat and become a killer, or follow his dog's advice to keep striving for normalcy.",
+    "runtime": 104,
+    "director": "Marjane Satrapi",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Horror",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 1562984,
+    "title": "Catartis - Conservare il futuro",
+    "original_title": "Catartis - Conservare il futuro",
+    "italian_title": "Catartis - Conservare il futuro",
+    "year": 2025,
+    "poster_path": "/6vmkf9BvaoYtP8rApi1wrYuWfUs.jpg",
+    "overview": "Un viaggio nel mondo dell'arte contemporanea che raccoglie non solo le testimonianze degli artisti e degli addetti ai lavori, ma mostra un backstage inedito che unisce centinaia di ore di riprese con una logica emersa del materiale stesso, per assonanze e dissonanze, vasi comunicanti tra le maglie di oltre due decenni di incontri, programmati e casuali. I grandi protagonisti dell'arte ci svelano qualche segreto e ci mostrano nuovi punti di vista. Dalle complessità dell'arte concettuale con le analisi di Joseph Kosuth all'Arte Povera di Michelangelo Pistoletto, Jannis Kounellis e Giulio Paolini. Da Carla Accardi e Getulio Alviani alle rotture degli schemi di Alighiero Boetti, Luigi Ontani, Jimmie Durham e molti altri.",
+    "title_en": "Catartis - Conservare il futuro",
+    "overview_en": null,
+    "runtime": 90,
+    "director": "Ferdinando Vicentini Orgnani",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 8005,
+    "title": "Robin Hood - Un uomo in calzamaglia",
+    "original_title": "Robin Hood: Men in Tights",
+    "italian_title": "Robin Hood - Un uomo in calzamaglia",
+    "year": 1993,
+    "poster_path": "/zqPpJmTjgTjMwCjCqb4PaAZovom.jpg",
+    "overview": "Una parodia del mito di Robin Hood e del film Robin Hood - Principe dei Ladri di Kevin Reynolds.Fatto prigioniero nella crociata in Terra Santa, Robin di Loxley fugge col moro Starnì e torna in Inghilterra a nuoto. Qui il principe Giovanni Senza Terra e lo sceriffo di Ruttingham, con la complicità della strega Latrina, compiono efferatezze in serie, ma Robin, insieme con alcuni allegri compagni, sistemerà tutto per il meglio.",
+    "title_en": "Robin Hood: Men in Tights",
+    "overview_en": "Robin Hood comes home after fighting in the Crusades to learn that the noble King Richard is in exile and that the despotic King John now rules England, with the help of the Sheriff of Rottingham. Robin Hood assembles a band of fellow patriots to do battle with King John and the Sheriff.",
+    "runtime": 104,
+    "director": "Mel Brooks",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 8427,
+    "title": "Le spie",
+    "original_title": "I Spy",
+    "italian_title": "Le spie",
+    "year": 2002,
+    "poster_path": "/57R62oGBSOw7SyMEDJKFCrvjlN8.jpg",
+    "overview": "Che succede se un prototipo di bombardiere invisibile cade in mano a uno dei più loschi trafficanti d'armi del pianeta, l'ungherese Gundars, dispostissimo a venderlo al miglior offerente? Si cerca ovviamente l'aiuto di Alex, miglior spia statunitense in servizio. Ma per coprire l'operazione cosa di meglio di organizzare un incontro di boxe tra il campione del mondo dei medi Kelly e un avversario europeo? Peccato che spia e pugile all'inizio non possano soffrirsi. Ma l'amore per l'avventura e per l'America avrà la meglio di (quasi) ogni difficoltà. Se già la trama vi sembra piuttosto stupida, rassicuratevi: il film è anche peggio. Betty Thomas, che pure diresse il discreto \"Private Parts\", non ha assolutamente il polso per la commedia d'azione.",
+    "title_en": "I Spy",
+    "overview_en": "When the Switchblade, the most sophisticated prototype stealth fighter created yet, is stolen from the U.S. government, one of the United States' top spies, Alex Scott, is called to action. What he doesn't expect is to get teamed up with a cocky civilian, World Class Boxing Champion Kelly Robinson, on a dangerous top secret espionage mission. Their assignment: using equal parts skill and humor, catch Arnold Gundars, one of the world's most successful arms dealers.",
+    "runtime": 97,
+    "director": "Betty Thomas",
+    "genres": [
+      "Azione",
+      "Avventura",
+      "Commedia",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 11072,
+    "title": "Mezzogiorno e mezzo di fuoco",
+    "original_title": "Blazing Saddles",
+    "italian_title": "Mezzogiorno e mezzo di fuoco",
+    "year": 1974,
+    "poster_path": "/jT6qfcuuc48r32lCtCsTe0PGXIq.jpg",
+    "overview": "Gli abitanti di Rock Ridges sono vessati da una coppia di arroganti amministratori: il giudice Hedley Lamarr e l'inetto e corrotto governatore William De Petomane. Il giudice, per speculare su alcuni terreni, non esita a modificare il tracciato della ferrovia. Ai soprusi però si oppone il nero Bart, il nuovo sceriffo, che con il suo inguaribile e contagioso ottimismo salva il paese.",
+    "title_en": "Blazing Saddles",
+    "overview_en": "A town—where everyone seems to be named Johnson—stands in the way of the railroad. In order to grab their land, robber baron Hedley Lamarr sends his henchmen to make life in the town unbearable. After the sheriff is killed, the town demands a new sheriff from the Governor, so Hedley convinces him to send the town the first black sheriff in the west.",
+    "runtime": 93,
+    "director": "Mel Brooks",
+    "genres": [
+      "Western",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1400793,
+    "title": "Scalfire la roccia - Cutting Through Rocks",
+    "original_title": "Cutting Through Rocks",
+    "italian_title": "Scalfire la roccia - Cutting Through Rocks",
+    "year": 2025,
+    "poster_path": "/saZjdERctKAvQEQFcIo1EudI173.jpg",
+    "overview": "In un villaggio iraniano profondamente conservatore, Sara Shahverdi è la prima donna ad essere eletta consigliera. Divorziata, motociclista ed ex ostetrica, Sara non passa inosservata. Tenace e senza alcuna intenzione di lasciarsi scoraggiare, Sara è determinata a far progredire la sua comunità e a porre fine alle vane promesse e alla pigrizia perpetrate dai consiglieri locali nel corso degli anni. Ma è come sostenitrice delle ragazze e delle donne del suo villaggio che incontra la maggiore opposizione. Tra le altre cose, Sara mira a interrompere tradizioni patriarcali radicate da lungo tempo, insegnando alle adolescenti a guidare motociclette e fermando il fenomeno delle spose bambine. Quando emergono voci che insinuano dubbi sulle vere intenzioni di Sara nella sua azione di emancipazione delle ragazze, la sua identità viene messa in discussione.",
+    "title_en": "Cutting Through Rocks",
+    "overview_en": "37-year-old Sara Shahverdi, a motorcycle riding, land owning, former midwife-turned-fierce citizen advocate and recent divorcée, just won a landslide local election in her remote Iranian village and everyone has an opinion about it.",
+    "runtime": 95,
+    "director": "Sara Khaki, Mohammad Reza Eyni",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 694,
+    "title": "Shining",
+    "original_title": "The Shining",
+    "italian_title": "Shining",
+    "year": 1980,
+    "poster_path": "/shTUOizWjurXOl5Bp2riMvSNIbZ.jpg",
+    "overview": "L'aspirante scrittore Jack Torrance si trasferisce tra i monti per trovare il giusto isolamento che gli permetterà di completare il suo romanzo. L'uomo accetta quindi l'incarico di custode invernale di un enorme albergo tra le montagne, dove lo seguono la moglie e il figlioletto Danny, il quale possiede poteri paranormali che gli permettono di vedere nel passato e nel futuro.",
+    "title_en": "The Shining",
+    "overview_en": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+    "runtime": 142,
+    "director": "Stanley Kubrick",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 78206,
+    "title": "Pollo alle prugne",
+    "original_title": "Poulet aux Prunes",
+    "italian_title": "Pollo alle prugne",
+    "year": 2011,
+    "poster_path": "/vsoOw3uQXTmtRtJd0S2LBYBMC8a.jpg",
+    "overview": "Teheran, 1958. Nasser Ali Khan, celebre musicista, ha perso il gusto per la vita. Da quando il suo violino si è rotto a causa di un incidente, nessuno strumento musicale riesce più a dargli l'ispirazione. La sua tristezza si è accentuata da quando ha incontrato per caso il suo amore di gioventù all'angolo di una strada ma lei non lo ha riconosciuto. Dopo aver tentato invano di rimpiazzare lo strumento rotto che gli aveva regalato il suo maestro di musica, Nasser giunge all'unica soluzione possibile: visto che nessun altro violino riuscirà più a dargli la gioia di suonare, si metterà a letto e attendederà la morte.",
+    "title_en": "Chicken with Plums",
+    "overview_en": "Since his beloved violin was broken, Nasser-Ali Khan, one of the most renowned musicians of his day, has lost all taste for life. Finding no instrument worthy of replacing it, he decides to confine himself to bed to await death.",
+    "runtime": 93,
+    "director": "Marjane Satrapi, Vincent Paronnaud",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 6524,
+    "title": "Che vita da cani!",
+    "original_title": "Life Stinks",
+    "italian_title": "Che vita da cani!",
+    "year": 1991,
+    "poster_path": "/n05EqcmPLJwyCLW3puJp446WCQR.jpg",
+    "overview": "Goddard Bolt, un miliardario senza scrupoli, vuole costruire un centro industriale in un quartiere periferico di Los Angeles del quale è proprietario per metà. L’altra metà è di un altro miliardario, Vance Crasswell che propone a Bolt una scommessa: se riuscirà a vivere per trenta giorni in incognito come un barbone il terreno sarà suo; altrimenti tutta l’area andrà a Vance. Spinto dalla sua presunzione Bolt accetta l’ardua scommessa.",
+    "title_en": "Life Stinks",
+    "overview_en": "Affluent and arrogant businessman Goddard Bolt, feuding with rival Vance Crasswell over a land deal, makes a bet with Crasswell that he has the wits and street smarts to live penniless and anonymous on the rough streets of Los Angeles for thirty days. But Bolt has a rude awakening when the reality of homelessness hits him. Still, he finds a silver lining in a burgeoning romance with Molly, a former Broadway dancer who has fallen on hard times.",
+    "runtime": 92,
+    "director": "Mel Brooks",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 70496,
+    "title": "La prigioniera",
+    "original_title": "La Prisonnière",
+    "italian_title": "La prigioniera",
+    "year": 1968,
+    "poster_path": "/selIqsPGtHoyLCvYOALepI4NPcq.jpg",
+    "overview": "Joseée, giovane moglie di un artista, Gilbert, capitata in casa di Stanislas Hassler, mercante d'arte, scopre che questi, per riaffermare il suo dominio sulle donne, ama fotografarle in atteggiamenti provocanti, ma abietti...",
+    "title_en": "Woman in Chains",
+    "overview_en": "Gallery director Stanislas bolsters the development of modern art with his collection of surprising works. His newest acquisition is a sculpture by Gilbert, whose wife Josée is captivated by Stanislas. But unbeknownst to her, Stanislas is amassing photographs of a very perverse, disturbed nature.",
+    "runtime": 106,
+    "director": "Henri-Georges Clouzot",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 171061,
+    "title": "Below Sea Level",
+    "original_title": "Below Sea Level",
+    "italian_title": "Below Sea Level",
+    "year": 2008,
+    "poster_path": "/fdEIRKZMS6XJXwQnxN9BKYEeuGU.jpg",
+    "overview": "Quattro anni nelle vite di Ken e Lily, di Carol e Wayne, di Mike, Cindy e Sterling, un gruppo di emarginati che vive in una base militare dismessa, a 40 metri sotto il livello del mare e a 250 km a Sud Est di Los Angeles. La loro vita scorre in una situazione estrema ma ognuno cerca di condurre a suo modo un'esistenza 'normale'. Non si sentono dei senzatetto e non hanno rifiutato la società o le convenzioni. Semplicemente ciascuno di loro, per circostanze diverse, si è trovato in una condizione di estrema povertà.",
+    "title_en": "Below Sea Level",
+    "overview_en": "During a five year period an Italian filmmaker documents the world of down-on-their-luck individuals who live in a Californian desert trying to get by one day at a time. None of them has more than a vehicle, a dog and some clothes.",
+    "runtime": 105,
+    "director": "Gianfranco Rosi",
+    "genres": [
+      "Documentario"
+    ]
   },
   {
     "tmdb_id": 1314481,
@@ -269,39 +864,6 @@
     ]
   },
   {
-    "tmdb_id": 1382513,
-    "title": "Hen - Storia di una Gallina",
-    "original_title": "Κότα",
-    "italian_title": "Hen - Storia di una Gallina",
-    "year": 2026,
-    "poster_path": "/6VAHRoUQLfNXG8mYz3NVgT0ADFd.jpg",
-    "overview": "L’autore dell’indimenticato Taxidermia (Cannes 2006) racconta la storia di una gallina, a partire dall’uovo che viene deposto. E adotta il punto di vista del volatile con un effetto spiazzante, inquietante e postumano. Perché la gallina – che è ostinata, resiliente, determinata a crescere i propri cuccioli e a conservare la propria libertà – oltre ad altri animali (una volpe, un topo, un verme, un falco, un cane, dei dinosauri in un documentario televisivo), incrocia inevitabilmente anche gli uomini, la loro violenza, le loro tragedie e ingiustizie, grandi e piccole: a volte come ignara testimone, a volte come elemento involontariamente scatenante.",
-    "title_en": "Hen",
-    "overview_en": "Escaping from a chicken farm, a hen finds refuge in the courtyard of a crumbling restaurant. There, she discovers love, confronts the pecking order, and fights to protect her eggs from a greedy owner. Her droll yet touching quest for motherhood mirrors the messy compromises and silent struggles of human lives.",
-    "runtime": 97,
-    "director": "Pálfi György",
-    "genres": [
-      "Avventura",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1510300,
-    "title": "Le bambine",
-    "original_title": "Le bambine",
-    "italian_title": "Le bambine",
-    "year": 2026,
-    "poster_path": "/chRxIKKMnJabtSEt4BkT8clZFuT.jpg",
-    "overview": null,
-    "title_en": "Mosquitoes",
-    "overview_en": "1997: eight-year-old Linda drifts away from her wealthy grandmother's Swiss villa with her carefree mother Eva. In Italy, she meets Azzurra and Marta. A summer bond unites the three girls in a gang formed to protect each other, their youth, and their freedom. Around them swirl selfish parents chasing fragile dreams, gossiping neighbors, and a queer babysitter trying to find his place in a world that doesn’t want him either.",
-    "runtime": 105,
-    "director": "Nicole Bertani, Valentina Bertani",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 524635,
     "title": "La cronologia dell’acqua",
     "original_title": "The Chronology of Water",
@@ -334,23 +896,6 @@
     ]
   },
   {
-    "tmdb_id": 96714,
-    "title": "Diaz - Non pulire questo sangue",
-    "original_title": "Diaz - Don't Clean Up This Blood",
-    "italian_title": "Diaz - Non pulire questo sangue",
-    "year": 2012,
-    "poster_path": "/bQO6eKsccYaGiZxSVkf0RU58viE.jpg",
-    "overview": "Luca è un giornalista della Gazzetta di Bologna (giornale di centro destra) che il 20 luglio 2001 decide di andare a vedere di persona cosa sta accadendo a Genova dove, in seguito agli scontri per il G8, un ragazzo, Carlo Guliani, è stato ucciso. Alma è un'anarchica tedesca che ha partecipato agli scontri e ora, insieme a Marco (organizzatore del Social Forum) è alla ricerca dei dispersi. Nick è un manager francese giunto a Genova per seguire il seminario dell'economista Susan George. Anselmo è un anziano militante della CGIL che ha preso parte al corteo pacifico contro il G8. Bea e Ralf sono di passaggio ma cercano un luogo presso cui dormire prima di ripartire. Max è vicequestore aggiunto e, nel corso della giornata, ha già preso la decisione di non partecipare a una carica al fine di evitare una strage di pacifici manifestanti. Tutti costoro e molti altri si troveranno la notte del 21 luglio all'interno della scuola Diaz dove la polizia scatenerà l'inferno.",
-    "title_en": "Diaz - Don't Clean Up This Blood",
-    "overview_en": "On July 19–21, 2001, over 200,000 people took to the streets of Genoa to protest against the ongoing G8 summit. Anti-globalization activists clashed with the police, with 23-year-old protester Carlo Giuliani shot dead after confronting a police vehicle. In the aftermath, the police organized a night raid on the Diaz high school, where around a hundred people between unarmed protesters—mostly students—and independent reporters who documented the police brutality during the protests had took shelter. What happened next was called by Amnesty International \"the most serious breach of civil liberties in a democratic Western country since World War II.\"",
-    "runtime": 120,
-    "director": "Daniele Vicari",
-    "genres": [
-      "Dramma",
-      "Storia"
-    ]
-  },
-  {
     "tmdb_id": 2204,
     "title": "Alice nelle città",
     "original_title": "Alice in den Städten",
@@ -364,6 +909,41 @@
     "director": "Wim Wenders",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 11222,
+    "title": "L'amico americano",
+    "original_title": "Der amerikanische Freund",
+    "italian_title": "L'amico americano",
+    "year": 1977,
+    "poster_path": "/9Xpa1M6d7yZFiYPHLXhyxHCM9N7.jpg",
+    "overview": "Afflitto da un male incurabile, il corniciaio Jonathan Zimmermann, conduce una tranquilla ma precaria esistenza tra lavoro e famiglia. Tom Ripley, losco e ambiguo mercante d'arte americano, saputa della malattia di Jonathan, ne parla a Minot, un gangster alla ricerca di un insospettabile killer. Jonathan si fa convincere e accetta di compiere un primo omicidio. Ma a Minot non basta...",
+    "title_en": "The American Friend",
+    "overview_en": "Tom Ripley, an American who deals in forged art, is slighted at an auction in Hamburg by picture framer Jonathan Zimmerman. When Ripley is asked by gangster Raoul Minot to kill a rival, he suggests Zimmerman, and the two, exploiting Zimmerman's terminal illness, coerce him into being a hitman.",
+    "runtime": 125,
+    "director": "Wim Wenders",
+    "genres": [
+      "Dramma",
+      "Thriller",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 390,
+    "title": "Lisbon Story",
+    "original_title": "Lisbon Story",
+    "italian_title": "Lisbon Story",
+    "year": 1994,
+    "poster_path": "/5E8Zc8sbRfMdrXa8G4MTMHliUad.jpg",
+    "overview": "Philip Winter raggiunge in auto il Portogallo. A Lisbona il suo amico regista  Friedrich Munro starebbe girando un film e Philip pensa di raggiungerlo per prestare il suo operato come fonico. Tributo alla città sottolineato dalla musica del gruppo portoghese dei \"Madredeus\". Dedicato anche al Regista italiano Federico Fellini.",
+    "title_en": "Lisbon Story",
+    "overview_en": "Wim Wenders' homage to Lisbon and films. A sound engineer obtains a mysterious postcard from a friend who at the moment is filming a film in Lisbon. He sets out across Europe to find him and help him.",
+    "runtime": 105,
+    "director": "Wim Wenders",
+    "genres": [
+      "Dramma",
+      "Musica"
     ]
   },
   {
@@ -384,19 +964,20 @@
     ]
   },
   {
-    "tmdb_id": 56397,
-    "title": "Senza pelle",
-    "original_title": "Senza pelle",
-    "italian_title": "Senza pelle",
-    "year": 1994,
-    "poster_path": "/uvzQbZCpPApB8y7pe4CrBIT0UhE.jpg",
-    "overview": "Saverio è un ragazzo psicolabile: si innamora e corteggia senza tregua l'impiegata Gina. Il marito di lei, Riccardo, autista di autobus, tenta di comprendere il giovane.",
-    "title_en": "Senza pelle",
-    "overview_en": "The lives of a young mother and her boyfriend are turned upside down when she unknowingly becomes the focus of the attentions of a depressed and mentally unstable young man.",
-    "runtime": null,
-    "director": "Alessandro D'Alatri",
+    "tmdb_id": 3527,
+    "title": "Non bussare alla mia porta",
+    "original_title": "Don't Come Knocking",
+    "italian_title": "Non bussare alla mia porta",
+    "year": 2005,
+    "poster_path": "/uTZ50Pkf1JXIk9KMQSjO2o6oBaG.jpg",
+    "overview": "Howard Spence e' stato il protagonista nel passato di importanti film western. Ora e' costretto a girare filmetti senza spessore. Un giorno fugge dal set e l'assicurazione del film scatena un segugio che deve trovarlo. Howard ha condotto per anni una vita sregolata e non vede sua madre da decenni. Sara' proprio lei a fargli sapere che deve avere, in un luogo ben preciso, un figlio ormai divenuto un giovane uomo. Howard va a cercarlo ma si trova davanti ad un rifiuto: il ragazzo non vuole saperne di questo padre piovuto dal cielo. Nel frattempo compare una ragazza a cui e' appena morta la madre. L'attore potrebbe essere padre anche suo...",
+    "title_en": "Don't Come Knocking",
+    "overview_en": "Howard Spence has seen better days. Once a big Western movie star, he now drowns his disgust for his selfish and failed life with alcohol, drugs and young women. If he were to die now, nobody would shed a tear over him, that's the sad truth. Until one day Howard learns that he might have a child somewhere out there...",
+    "runtime": 123,
+    "director": "Wim Wenders",
     "genres": [
-      "Dramma"
+      "Dramma",
+      "Western"
     ]
   },
   {
@@ -482,41 +1063,6 @@
     ]
   },
   {
-    "tmdb_id": 11222,
-    "title": "L'amico americano",
-    "original_title": "Der amerikanische Freund",
-    "italian_title": "L'amico americano",
-    "year": 1977,
-    "poster_path": "/9Xpa1M6d7yZFiYPHLXhyxHCM9N7.jpg",
-    "overview": "Afflitto da un male incurabile, il corniciaio Jonathan Zimmermann, conduce una tranquilla ma precaria esistenza tra lavoro e famiglia. Tom Ripley, losco e ambiguo mercante d'arte americano, saputa della malattia di Jonathan, ne parla a Minot, un gangster alla ricerca di un insospettabile killer. Jonathan si fa convincere e accetta di compiere un primo omicidio. Ma a Minot non basta...",
-    "title_en": "The American Friend",
-    "overview_en": "Tom Ripley, an American who deals in forged art, is slighted at an auction in Hamburg by picture framer Jonathan Zimmerman. When Ripley is asked by gangster Raoul Minot to kill a rival, he suggests Zimmerman, and the two, exploiting Zimmerman's terminal illness, coerce him into being a hitman.",
-    "runtime": 125,
-    "director": "Wim Wenders",
-    "genres": [
-      "Dramma",
-      "Thriller",
-      "Crime"
-    ]
-  },
-  {
-    "tmdb_id": 390,
-    "title": "Lisbon Story",
-    "original_title": "Lisbon Story",
-    "italian_title": "Lisbon Story",
-    "year": 1994,
-    "poster_path": "/5E8Zc8sbRfMdrXa8G4MTMHliUad.jpg",
-    "overview": "Philip Winter raggiunge in auto il Portogallo. A Lisbona il suo amico regista  Friedrich Munro starebbe girando un film e Philip pensa di raggiungerlo per prestare il suo operato come fonico. Tributo alla città sottolineato dalla musica del gruppo portoghese dei \"Madredeus\". Dedicato anche al Regista italiano Federico Fellini.",
-    "title_en": "Lisbon Story",
-    "overview_en": "Wim Wenders' homage to Lisbon and films. A sound engineer obtains a mysterious postcard from a friend who at the moment is filming a film in Lisbon. He sets out across Europe to find him and help him.",
-    "runtime": 105,
-    "director": "Wim Wenders",
-    "genres": [
-      "Dramma",
-      "Musica"
-    ]
-  },
-  {
     "tmdb_id": 1461768,
     "title": "Giro Di Banda",
     "original_title": "Giro Di Banda",
@@ -531,23 +1077,6 @@
     "genres": [
       "Musica",
       "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 3527,
-    "title": "Non bussare alla mia porta",
-    "original_title": "Don't Come Knocking",
-    "italian_title": "Non bussare alla mia porta",
-    "year": 2005,
-    "poster_path": "/uTZ50Pkf1JXIk9KMQSjO2o6oBaG.jpg",
-    "overview": "Howard Spence e' stato il protagonista nel passato di importanti film western. Ora e' costretto a girare filmetti senza spessore. Un giorno fugge dal set e l'assicurazione del film scatena un segugio che deve trovarlo. Howard ha condotto per anni una vita sregolata e non vede sua madre da decenni. Sara' proprio lei a fargli sapere che deve avere, in un luogo ben preciso, un figlio ormai divenuto un giovane uomo. Howard va a cercarlo ma si trova davanti ad un rifiuto: il ragazzo non vuole saperne di questo padre piovuto dal cielo. Nel frattempo compare una ragazza a cui e' appena morta la madre. L'attore potrebbe essere padre anche suo...",
-    "title_en": "Don't Come Knocking",
-    "overview_en": "Howard Spence has seen better days. Once a big Western movie star, he now drowns his disgust for his selfish and failed life with alcohol, drugs and young women. If he were to die now, nobody would shed a tear over him, that's the sad truth. Until one day Howard learns that he might have a child somewhere out there...",
-    "runtime": 123,
-    "director": "Wim Wenders",
-    "genres": [
-      "Dramma",
-      "Western"
     ]
   },
   {
@@ -1122,6 +1651,22 @@
     ]
   },
   {
+    "tmdb_id": 1315657,
+    "title": "Yellow Letters",
+    "original_title": "Gelbe Briefe",
+    "italian_title": "Yellow Letters",
+    "year": 2026,
+    "poster_path": "/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
+    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
+    "title_en": "Yellow Letters",
+    "overview_en": "The marriage of Derya and Aziz is under pressure after losing their jobs because of state arbitrariness and moving to Istanbul to live with Aziz's parents. They and their 13-year-old daughter Ezgi have to redefine their way of life.",
+    "runtime": 128,
+    "director": "İlker Çatak",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1291202,
     "title": "Duse",
     "original_title": "Duse",
@@ -1136,22 +1681,6 @@
     "genres": [
       "Dramma",
       "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1315657,
-    "title": "Yellow Letters",
-    "original_title": "Gelbe Briefe",
-    "italian_title": "Yellow Letters",
-    "year": 2026,
-    "poster_path": "/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
-    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
-    "title_en": "Yellow Letters",
-    "overview_en": "The marriage of Derya and Aziz is under pressure after losing their jobs because of state arbitrariness and moving to Istanbul to live with Aziz's parents. They and their 13-year-old daughter Ezgi have to redefine their way of life.",
-    "runtime": 128,
-    "director": "İlker Çatak",
-    "genres": [
-      "Dramma"
     ]
   },
   {
@@ -1259,22 +1788,6 @@
     ]
   },
   {
-    "tmdb_id": 1701849,
-    "title": "BTS World Tour ‘Arirang’ in Busan: Live Viewing",
-    "original_title": "BTS World Tour ‘Arirang’ in Busan: Live Viewing",
-    "italian_title": "BTS World Tour ‘Arirang’ in Busan: Live Viewing",
-    "year": 2026,
-    "poster_path": "/aUEKzaQKjO9l695NIWRxI00Fi67.jpg",
-    "overview": null,
-    "title_en": "BTS World Tour ‘Arirang’ in Busan: Live Viewing",
-    "overview_en": "Concert film capturing BTS's World Tour 'Arirang' performance in Busan.",
-    "runtime": null,
-    "director": "Ha Jung-jae",
-    "genres": [
-      "Musica"
-    ]
-  },
-  {
     "tmdb_id": 22679,
     "title": "Arion",
     "original_title": "アリオン",
@@ -1291,6 +1804,24 @@
       "Azione",
       "Animazione",
       "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 128,
+    "title": "Princess Mononoke",
+    "original_title": "もののけ姫",
+    "italian_title": "Princess Mononoke",
+    "year": 1997,
+    "poster_path": "/3alL6upCn0GX9Rp1RXtGzmJbEQa.jpg",
+    "overview": "In seguito allo scontro con un animale posseduto da un demone il principe Ashitaka viene contaminato da una maledizione mortale. Si mette dunque in viaggio per scoprirne l'origine e chiedere una cura al grande Dio Bestia, l'unico in grado di guarirlo. Arrivato nelle regioni da cui proveniva la bestia scopre una guerra tra uomini e una forma primitiva di animali della foresta, giganti, senzienti e aiutati da quella che chiamano la Principessa Spettro, una ragazza cresciuta dai lupi che ha rinnegato gli uomini. Dall'altra parte gli uomini, capitanati da Lady Eboshi che gestisce con amore, giustizia e pietà il suo villaggio di fabbri, vogliono lavorare la montagna e abbattere gli alberi per poter estrarre il ferro (fonte di ricchezza). In mezzo un gruppo di monaci cerca di fomentare gli uomini ad uccidere il Dio Bestia e rubarne la testa perchè, si dice, fornisca l'eterna giovinezza.",
+    "title_en": "Princess Mononoke",
+    "overview_en": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+    "runtime": 134,
+    "director": "Hayao Miyazaki",
+    "genres": [
+      "Avventura",
+      "Fantasy",
+      "Animazione"
     ]
   },
   {
@@ -1345,22 +1876,6 @@
     ]
   },
   {
-    "tmdb_id": 1211442,
-    "title": "Rebuilding",
-    "original_title": "Rebuilding",
-    "italian_title": "Rebuilding",
-    "year": 2025,
-    "poster_path": "/jBRtwR4m0CQRKrSyYT0NHhSKFlv.jpg",
-    "overview": "Un incendio ha appena distrutto il suo ranch familiare di duecento settanta acri: tutte le sue amate mucche vanno vendute. Il giovane Dusty, strappato al suo amato allevamento, vive come un reduce di sé stesso, arrangiandosi con lavoretti a giornata. Cowboy malinconico e solitario, dorme in una piccola roulotte allestita in un campo emergenze dove, giorno dopo giorno, combattendo l'iniziale ritrosia, inizia a solidarizzare con le altre persone sfollate. Nel frattempo, intanto, è chiamato a ricucire i rapporti con la piccola Callie-Rose avuta dall'ex compagna Ruby, senza smettere di sognare, però, di riaprire un giorno la sua fattoria, ripiantare tutti gli alberi e lasciarci pascolare di nuovo gli animali.",
-    "title_en": "Rebuilding",
-    "overview_en": "After wildfires take his ranch, a cowboy named Dusty winds up in a FEMA camp, finding community with others who lost homes, including his daughter and ex-wife.",
-    "runtime": 96,
-    "director": "Max Walker-Silverman",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1208348,
     "title": "Rental Family - Nelle vite degli altri",
     "original_title": "Rental Family",
@@ -1411,24 +1926,6 @@
       "Animazione",
       "Fantasy",
       "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 1266127,
-    "title": "Finché morte non ci separi 2",
-    "original_title": "Ready or Not: Here I Come",
-    "italian_title": "Finché morte non ci separi 2",
-    "year": 2026,
-    "poster_path": "/fro6xA6STLdHJRyoleRGIerwKC.jpg",
-    "overview": "Poco dopo essere sopravvissuta ad un attacco senza esclusione di colpi da parte della famiglia Le Domas, Grace (Samara Weaving) scopre di aver raggiunto il livello successivo di questo gioco da incubo, questa volta con al suo fianco la sorella Faith (Kathryn Newton) con cui non aveva più rapporti. Grace ha una sola possibilità per sopravvivere, per salvare la vita della sorella e rivendicare il Posto D’Onore del Consiglio che controlla il mondo. Quattro famiglie rivali le stanno dando la caccia per il trono, e chi vincerà governerà su tutto.",
-    "title_en": "Ready or Not: Here I Come",
-    "overview_en": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
-    "runtime": 108,
-    "director": "Matt Bettinelli-Olpin, Tyler Gillett",
-    "genres": [
-      "Thriller",
-      "Horror",
-      "Commedia"
     ]
   },
   {
@@ -1624,108 +2121,6 @@
     ]
   },
   {
-    "tmdb_id": 96936,
-    "title": "Bling Ring",
-    "original_title": "The Bling Ring",
-    "italian_title": "Bling Ring",
-    "year": 2013,
-    "poster_path": "/6yh55qCcdgPRJweDWM2CiEubJCL.jpg",
-    "overview": "In una Los Angels tormentata dal successo, un gruppo di adolescenti ci mostra la frenesia criminale ed emozionante delle colline di Hollywood. L’ossessione per la vita delle star porta i ragazzi a rintracciare online gli indirizzi di molte celebrità, tra cui Paris Hiliton, Orlando Bloom, Rachel Bilson, Megan Fox e Lindsay Lohan. arrivando a sottrarre dalle loro abitazioni circa 3 milioni di euro in beni di lusso. Basato su un evento realmente accaduto, il film racconta la storia della banda più famosa di Hollywood, ribattezzata dai media \"Bling Ring”.",
-    "title_en": "The Bling Ring",
-    "overview_en": "Lured by stardom, a crew of aimless teens breaks into celebrity homes for a string of high-profile robberies and fame by appropriation.",
-    "runtime": 90,
-    "director": "Sofia Coppola",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ]
-  },
-  {
-    "tmdb_id": 3004,
-    "title": "Una su 13",
-    "original_title": "12 + 1",
-    "italian_title": "Una su 13",
-    "year": 1969,
-    "poster_path": "/4746j6WK9zKdDyw28exIxY3g70z.jpg",
-    "overview": "Mario è un barbiere emigrato a New York. La sua vita viene movimentata dall'annuncio che è l'unico erede di una vecchia zia inglese. Mario si precipita quindi in Inghilterra, ma riceve solo tredici sedie d'epoca. Quando però le ha già vendute a un antiquario, scopre che in una di esse è celata una fortuna. Tenta allora affannosamente di recuperare le sedie, nel frattempo disperse tra vari acquirenti.",
-    "title_en": "Twelve Plus One",
-    "overview_en": "Mario, a young philanderer, receives 13 antique chairs in a bad state by inheritance and decides to sell off them to get some money. Afterwards he gets to know that one of them contains documents worth a lot of money. So he begins an adventurous trip to regain possession of the chair. On the way he meets many strange people who would like to help or to swindle him.",
-    "runtime": 90,
-    "director": "Nicolas Gessner",
-    "genres": [
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 254320,
-    "title": "The Lobster",
-    "original_title": "The Lobster",
-    "italian_title": "The Lobster",
-    "year": 2015,
-    "poster_path": "/8vW5UY7ksIphLTqEUj46ly5Wclh.jpg",
-    "overview": "Una surreale commedia romantica a tinte sci-fi che ci porta in un prossimo futuro dispotico, dove il solo fatto di essere \"single\" diventa motivo di fermo da parte delle autorità con tanto di trasferimento in una apposita struttura \"riabilitativa\" e la potenziale conseguenza di essere trasformati in animali se non si ottempererà all'obbligo di avere un partner.",
-    "title_en": "The Lobster",
-    "overview_en": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.",
-    "runtime": 118,
-    "director": "Yórgos Lánthimos",
-    "genres": [
-      "Commedia",
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 503919,
-    "title": "The Lighthouse",
-    "original_title": "The Lighthouse",
-    "italian_title": "The Lighthouse",
-    "year": 2019,
-    "poster_path": "/w8lnWLKBAEOT0o3GL1rpu9kZ6Q3.jpg",
-    "overview": "Sul finire dell’Ottocento, su una remota isola al largo della costa del New England, due guardiani del faro rimangono intrappolati e isolati a causa di una tempesta apparentemente senza fine. Finiscono così con l’ingaggiare una battaglia contro la propria volontà, mentre aumentano le tensioni a causa delle forze eccessive e misteriose (reali o meno) che li circondano…",
-    "title_en": "The Lighthouse",
-    "overview_en": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
-    "runtime": 109,
-    "director": "Robert Eggers",
-    "genres": [
-      "Dramma",
-      "Fantasy",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 120467,
-    "title": "Grand Budapest Hotel",
-    "original_title": "The Grand Budapest Hotel",
-    "italian_title": "Grand Budapest Hotel",
-    "year": 2014,
-    "poster_path": "/tY8gmrOOzhJxfBLQNOxjbuSR52b.jpg",
-    "overview": "Una ragazza depone una chiave di una stanza d'hotel ai piedi del busto dedicato a uno scrittore scomparso. Lo stesso scrittore racconta delle origini del suo romanzo. Un uomo oramai anziano e stanco racconta in un albergo semi deserto ad un giovane scrittore la storia di Gustave H., il leggendario concierge del Grand Budapest Hotel, e del suo giovane protetto Zero, alle prese con il furto e il recupero di un dipinto rinascimentale inestimabile e la battaglia per un enorme patrimonio di famiglia.",
-    "title_en": "The Grand Budapest Hotel",
-    "overview_en": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
-    "runtime": 99,
-    "director": "Wes Anderson",
-    "genres": [
-      "Commedia",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 242262,
-    "title": "La sedia della felicità",
-    "original_title": "La sedia della felicità",
-    "italian_title": "La sedia della felicità",
-    "year": 2014,
-    "poster_path": "/fUEC01kNzMkjICfIbxlldHeeGQw.jpg",
-    "overview": "Italia del Nord-Est. Dino di mestiere pratica tatuaggi, Bruna è un'estetista. I loro studi sono uno di fronte all'altro. Vengono a sapere di un misterioso tesoro nascosto in una sedia appartenuta ad un donna ormai morta. Gli affari non vanno molto bene perciò, insieme, iniziano la ricerca.",
-    "title_en": "La sedia della felicità",
-    "overview_en": "Dino craft practice tattoos, Bruna is a beautician; their studies are facing each other. They learn of a mysterious treasure hidden in a chair that belonged to a woman now dead.",
-    "runtime": 98,
-    "director": "Carlo Mazzacurati",
-    "genres": [
-      "Commedia"
-    ]
-  },
-  {
     "tmdb_id": 846580,
     "title": "Le Lac",
     "original_title": "Le Lac",
@@ -1742,142 +2137,6 @@
     ]
   },
   {
-    "tmdb_id": 37477,
-    "title": "Profils paysans : l'approche",
-    "original_title": "Profils paysans : l'approche",
-    "italian_title": "Profils paysans : l'approche",
-    "year": 2001,
-    "poster_path": "/lQEkAzieP4DB5MwSpKcVl8QfeAn.jpg",
-    "overview": null,
-    "title_en": "Profils paysans : l'approche",
-    "overview_en": "The first of a documentary serie about rural France.",
-    "runtime": 90,
-    "director": "Raymond Depardon",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 1000879,
-    "title": "Grand Ciel",
-    "original_title": "Grand Ciel",
-    "italian_title": "Grand Ciel",
-    "year": 2026,
-    "poster_path": "/nCdIQGX9ox10a5vyekZddSxZbX6.jpg",
-    "overview": "Vincent lavora di notte nel cantiere di un quartiere futuristico. Quando un operaio scompare, Vincent e i suoi colleghi iniziano a sospettare che i loro superiori stiano insabbiando un incidente. Ma presto scompare un altro operaio.",
-    "title_en": "The Site",
-    "overview_en": "Vincent works the night shift on the construction site of a futuristic district. When a worker goes missing, Vincent and his colleagues suspect that their superiors are covering up an accident. But soon another worker disappears.",
-    "runtime": 91,
-    "director": "Akihiro Hata",
-    "genres": [
-      "Thriller",
-      "Fantasy"
-    ]
-  },
-  {
-    "tmdb_id": 30197,
-    "title": "Per favore, non toccate le vecchiette!",
-    "original_title": "The Producers",
-    "italian_title": "Per favore, non toccate le vecchiette!",
-    "year": 1968,
-    "poster_path": "/A0o4t52OtdzIU0yhaxNlkZ6CJ1p.jpg",
-    "overview": "Un produttore di Broadway, per frodare il fisco, si fa finanziare da ricche vecchiette uno spettacolo, sicuro che sarà un fiasco. Film d'esordio di M. Brooks (che prese un Oscar per la sceneggiatura) è diventato un cult movie per la sgangherata forza satirica nella rappresentazione del mondo teatrale. Grande spasso nelle scene della commedia musicale. La voce della canzone “Springtime for Hitler” è di Brooks.",
-    "title_en": "The Producers",
-    "overview_en": "A conniving Broadway producer and his meek accountant plan to profit from charming wealthy old biddies to invest in an overbudget production, and then put on a sure-fire disaster, so nobody will ask for their money back — and what's more disastrous than a tasteless musical celebrating Adolf Hitler.",
-    "runtime": 89,
-    "director": "Mel Brooks",
-    "genres": [
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 5691,
-    "title": "I racconti di Canterbury",
-    "original_title": "I racconti di Canterbury",
-    "italian_title": "I racconti di Canterbury",
-    "year": 1972,
-    "poster_path": "/a6T2PYgMlDTG2uCofFJL941zd1M.jpg",
-    "overview": "Un gruppo di pellegrini diretti a Canterbury, si racconta delle storie durante il viaggio: lo studente Nicola concupisce la moglie del legnaiolo Giovanni, sfruttandone la superstizione; due studenti si vendicano di Simkin, ladro di farina; una donna di Bath, insaziabile e vorace ninfomane uccide ben cinque mariti ereditandone gli averi...",
-    "title_en": "The Canterbury Tales",
-    "overview_en": "Glimpses of Chaucer penning his famous work are sprinkled through this re-enactment of several of his stories.",
-    "runtime": 112,
-    "director": "Pier Paolo Pasolini",
-    "genres": [
-      "Commedia",
-      "Storia",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 16149,
-    "title": "La grande truffa del rock'n'roll",
-    "original_title": "The Great Rock 'n' Roll Swindle",
-    "italian_title": "La grande truffa del rock'n'roll",
-    "year": 1980,
-    "poster_path": "/hbhcbYSVCSLOEOM3nFv0JLN3fCg.jpg",
-    "overview": "Il manager dei Sex Pistols racconta dove come quando mise su il famoso complesso rock (a sentir lui, formato, almeno all'inizio, da un branco di ragazzotti che la musica non sapevano nemmeno dove stesse di casa).",
-    "title_en": "The Great Rock 'n' Roll Swindle",
-    "overview_en": "A rather incoherent post-breakup Sex Pistols \"documentary\", told from the point of view of Pistols manager Malcolm McLaren, whose (arguable) position is that the Sex Pistols in particular and punk rock in general were an elaborate scam perpetrated by him in order to make \"a million pounds.\"",
-    "runtime": 103,
-    "director": "Julien Temple",
-    "genres": [
-      "Commedia",
-      "Documentario",
-      "Musica"
-    ]
-  },
-  {
-    "tmdb_id": 827,
-    "title": "I diabolici",
-    "original_title": "Les Diaboliques",
-    "italian_title": "I diabolici",
-    "year": 1955,
-    "poster_path": "/3LWWTQXmTYpzMjdZmvOKZrqVSeE.jpg",
-    "overview": "Moglie e amante di un direttore di collegio si mettono d'accordo e lo affogano nella vasca da bagno. Ma il cadavere scompare e i colpi di scena non si contano. Con un ottimo ritmo e una suspense ininterrotta, questo dramma criminale si srotola attorno alle due bravissime protagoniste, lo spettatore è con loro, attento e partecipe. Tratto dal romanzo Celle qui n'était plus (1952) di Pierre Boileau e Thomas Narcejac, ha il torto di puntare troppo sulla sorpresa. Il gioco è abile, ma il giocatore bara. Rifatto a Hollywood come Diabolique nel 1996. Premio Delluc 1955.AUTORE LETTERARIO: Pierre Boileau, Thomas Narcejac",
-    "title_en": "Diabolique",
-    "overview_en": "The cruel and abusive headmaster of a boarding school, Michel Delassalle, is murdered by an unlikely duo -- his meek wife and the mistress he brazenly flaunts. The women become increasingly unhinged by a series of odd occurrences after Delassalle's corpse mysteriously disappears.",
-    "runtime": 116,
-    "director": "Henri-Georges Clouzot",
-    "genres": [
-      "Thriller",
-      "Mistero"
-    ]
-  },
-  {
-    "tmdb_id": 125742,
-    "title": "10e chambre - Instants d'audience",
-    "original_title": "10e chambre - Instants d'audience",
-    "italian_title": "10e chambre - Instants d'audience",
-    "year": 2004,
-    "poster_path": "/2kykPNLRCxlM23EnVOpWLwUdAbH.jpg",
-    "overview": null,
-    "title_en": "The 10th District Court: Moments of Trial",
-    "overview_en": "The proceedings of a Paris courtroom are the grist for this documentary. Drawn from over 200 appearances before the same female judge, the director chooses a dozen or so varied misdemeanor and civil hearings to highlight the subtle details of human behavior. In the process he draws attention to issues of guilt, innocence, policing and ethnicity in France.",
-    "runtime": 105,
-    "director": "Raymond Depardon",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 11104,
-    "title": "Hong Kong Express",
-    "original_title": "重慶森林",
-    "italian_title": "Hong Kong Express",
-    "year": 1994,
-    "poster_path": "/8DHAlTUes6fMWMqQlEeZ7CH3Wa9.jpg",
-    "overview": "Chungking Mansions, Hong Kong, 1994. L'agente 223 non riesce a dimenticare Ah Mei, la ragazza che l'ha lasciato, e arriva ad abbrutirsi mangiando ananas scaduto. Incontra una donna misteriosa con una parrucca bionda e se ne innamora. L'agente 663 frequenta assiduamente un chiosco dove lavora Ah Fei, la quale si innamora di 663 senza che questi se ne renda conto.",
-    "title_en": "Chungking Express",
-    "overview_en": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
-    "runtime": 102,
-    "director": "Wong Kar-Wai",
-    "genres": [
-      "Dramma",
-      "Commedia",
-      "Romance"
-    ]
-  },
-  {
     "tmdb_id": 399019,
     "title": "L'inganno",
     "original_title": "The Beguiled",
@@ -1891,22 +2150,6 @@
     "director": "Sofia Coppola",
     "genres": [
       "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 5,
-    "title": "Four Rooms",
-    "original_title": "Four Rooms",
-    "italian_title": "Four Rooms",
-    "year": 1995,
-    "poster_path": "/s25J2oTcV7QcMNU1bD3s3F6yhtZ.jpg",
-    "overview": "Quattro camere, quattro episodi comico-grotteschi tenuti insieme da un luogo (il Mon Signor, vecchio albergo di Los Angeles), un tempo (la notte di San Silvestro) e un fattorino (T. Roth). 1) “Strano intruglio” di A. Anders: una squadra di streghe cerca sperma fresco per evocare la loro dea; 2) “L'uomo sbagliato” di A. Rockwell: una coppia sadomaso coinvolge il fattorino d'albergo nei suoi esercizi; 3) “I cattivi” di R. Rodriguez: due bambini burrascosi si ribellano al baby-sitter, scoprono un cadavere, incendiano la stanza; 4) “L'uomo di Hollywood” di Q. Tarantino: un attore scommette che riuscirà ad accendere uno Zippo dieci volte di seguito, vincerà una Chevrolet del '64 e salverà il proprio mignolo. Bischerrima scemenza e colluvie di sciocchezze comicarole, non priva di volgarità né di turpiloquio. Si va dal pessimo al mediocre. Il meglio del film è nel cartoon d'avvio, veicolo dei titoli di testa. Colonna sonora dei Combustible Edison.",
-    "title_en": "Four Rooms",
-    "overview_en": "It's Ted the Bellhop's first night on the job...and the hotel's very unusual guests are about to place him in some outrageous predicaments. It seems that this evening's room service is serving up one unbelievable happening after another.",
-    "runtime": 98,
-    "director": "Allison Anders, Alexandre Rockwell, Robert Rodriguez, Quentin Tarantino",
-    "genres": [
-      "Commedia"
     ]
   },
   {
@@ -1927,56 +2170,6 @@
     ]
   },
   {
-    "tmdb_id": 71822,
-    "title": "Il mistero Picasso",
-    "original_title": "Le Mystère Picasso",
-    "italian_title": "Il mistero Picasso",
-    "year": 1956,
-    "poster_path": "/4oaaQWCvpaMhjHGklowwB5ednRL.jpg",
-    "overview": null,
-    "title_en": "The Mystery of Picasso",
-    "overview_en": "Using a specially designed transparent 'canvas' to provide an unobstructed view, Picasso creates as the camera rolls. He begins with simple works that take shape after only a single brush stroke. He then progresses to more complex paintings, in which he repeatedly adds and removes elements, transforming the entire scene at will, until at last the work is complete.",
-    "runtime": 78,
-    "director": "Henri-Georges Clouzot",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 2011,
-    "title": "Persepolis",
-    "original_title": "Persepolis",
-    "italian_title": "Persepolis",
-    "year": 2007,
-    "poster_path": "/dUvdyb2rkChGjDJELiuMXpChsqg.jpg",
-    "overview": "La storia di Marjane, una ragazza precoce e ribelle che, cresciuta portando scarpe da ginnastica e giocando alla lotta con i maschietti, si trova costretta ad affrontare, dall'infanzia all'età adulta,  drastici cambiamenti delle proprie abitudini di vita imposti prima dalla monarchia dello Scià e poi dal regime degli ayatollah, fino alla sua partenza per l'Europa.",
-    "title_en": "Persepolis",
-    "overview_en": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
-    "runtime": 95,
-    "director": "Vincent Paronnaud, Marjane Satrapi",
-    "genres": [
-      "Animazione",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 957,
-    "title": "Balle spaziali",
-    "original_title": "Spaceballs",
-    "italian_title": "Balle spaziali",
-    "year": 1987,
-    "poster_path": "/nIkJClHiF1DBImRBnTJBDf2rbVK.jpg",
-    "overview": "Stella Solitaria, un eroe dello spazio senza paura e senza cervello, insieme al compagno Rutto, mezzo cane e mezzo uomo, intraprendono una guerra interstellare per liberare la principessa Vespa dalle grinfie del malvagio Casco Nero. Sulla loro strada dovranno affrontare l'enorme e appiccicosa Pizza Margherita, un robot impertinente chiamato Dot Matrix e una saggia piccola creatura, Yogurt, che insegnerà loro a usare il potere mistico dello Sforzo per portare la pace e ricche opportunità di commercio nella galassia. Parodiando senza pietà ogni film del genere epico-fantascentifico, da Star Wars a Star Trek, questo film vanta un cast di pazzi cosmici e offre un divertimento assicurato.",
-    "title_en": "Spaceballs",
-    "overview_en": "When the nefarious Dark Helmet hatches a plan to snatch Princess Vespa and steal her planet's air, space-bum-for-hire Lone Starr and his clueless sidekick fly to the rescue. Along the way, they meet Yogurt, who puts Lone Starr wise to the power of \"The Schwartz.\" Can he master it in time to save the day?",
-    "runtime": 96,
-    "director": "Mel Brooks",
-    "genres": [
-      "Commedia",
-      "Fantascienza"
-    ]
-  },
-  {
     "tmdb_id": 1517069,
     "title": "Marc by Sofia",
     "original_title": "Marc by Sofia",
@@ -1990,60 +2183,6 @@
     "director": "Sofia Coppola",
     "genres": [
       "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 10226,
-    "title": "Alta tensione",
-    "original_title": "Haute tension",
-    "italian_title": "Alta tensione",
-    "year": 2003,
-    "poster_path": "/f6k2jfvbn4XJwSW6tczcv3JQmF3.jpg",
-    "overview": "Aléx e Marie, due studentesse, vanno a preparare gli esami universitari in campagna, a casa dei genitori di Aléx. Dopo cena suona alla porta uno psicopatico che stermina la famiglia e rapisce Aléx, ma non si accorge della presenza di Marie, la quale lo segue per salvare l’amica, anche se...",
-    "title_en": "High Tension",
-    "overview_en": "Best friends Marie and Alexia decide to spend a quiet weekend at Alexia's parents' secluded farmhouse. But on the night of their arrival, the girls' idyllic getaway turns into an endless night of horror.",
-    "runtime": 91,
-    "director": "Alexandre Aja",
-    "genres": [
-      "Horror",
-      "Thriller",
-      "Mistero"
-    ]
-  },
-  {
-    "tmdb_id": 29084,
-    "title": "Il corvo",
-    "original_title": "Le Corbeau",
-    "italian_title": "Il corvo",
-    "year": 1943,
-    "poster_path": "/jRlIteWZacu67uquoaD39zNMwEt.jpg",
-    "overview": "Un paesino della provincia francese viene sconvolto da una serie di lettere anonime che colpiscono uno stimato professionista. Si tratta del dottor Germain che viene accusato d'essere l'amante di Laura, la moglie del dottor Vorzet. Poi tutti si sentono chiamati in causa, mentre l'inchiesta langue.",
-    "title_en": "Le Corbeau",
-    "overview_en": "Remy Germain is a doctor in a French town who becomes the focus of a vicious smear campaign, as letters accusing him of having an affair and performing unlawful abortions are mailed to village leaders. The mysterious writer, who signs each letter as \"Le Corbeau\" (The Raven) soon targets the whole town, exposing everyone's dark secrets.",
-    "runtime": 93,
-    "director": "Henri-Georges Clouzot",
-    "genres": [
-      "Mistero",
-      "Dramma",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 539,
-    "title": "Psyco",
-    "original_title": "Psycho",
-    "italian_title": "Psyco",
-    "year": 1960,
-    "poster_path": "/tdqX0MWaFHuGwUygYn7j6eluOdP.jpg",
-    "overview": "Marion Crane, impiegata in una società immobiliare, scappa con 40.000$ rubati dalle casse della ditta. Durante la fuga verso casa del fidanzato però, decide di fermarsi nel Motel gestito dal giovane Norman Bates e dalla madre, che però vive rintanata nella casa attigua al Motel stesso.  Il capolavoro di Alfred Hitchcock.",
-    "title_en": "Psycho",
-    "overview_en": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
-    "runtime": 109,
-    "director": "Alfred Hitchcock",
-    "genres": [
-      "Horror",
-      "Thriller",
-      "Mistero"
     ]
   },
   {
@@ -2061,147 +2200,6 @@
     "genres": [
       "Dramma",
       "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 96041,
-    "title": "La Vie moderne",
-    "original_title": "La Vie moderne",
-    "italian_title": "La Vie moderne",
-    "year": 2000,
-    "poster_path": "/2QOaIfdC3CFINeeQRJ0QBtjllRy.jpg",
-    "overview": null,
-    "title_en": "Modern Life",
-    "overview_en": "The lives of three people faced with an uncertain future.  Marguerite, 17, is uncomfortable with her family enviroment and turns to God.  Claire, who desperately wants a child, encounters again a former lover.  Eva asks the unemployed Jacques, who has been left by his wife and his daughter, to find a missing friend.",
-    "runtime": 123,
-    "director": "Laurence Ferreira Barbosa",
-    "genres": [
-      "Commedia",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 12110,
-    "title": "Dracula morto e contento",
-    "original_title": "Dracula: Dead and Loving It",
-    "italian_title": "Dracula morto e contento",
-    "year": 1995,
-    "poster_path": "/jRdvhPgULf566nbeEuFdEHekdr6.jpg",
-    "overview": "Il Conte Dracula riesce a raggiungere Londra e prende dimora accanto alla proprietà del Dottor Seward, direttore del manicomio. Il vampiro attrae Lucy, pupilla del dottore per poi spostare le sue attenzioni su Mina, la pudibonda figlia del medico. Mina si trasforma in una scatenata danzatrice e nulla possono fare le strategie messe in atto dal Dottor Van Helsing. Poteva Mel Brooks dimenticarsi di Dracula dopo essersi occupato di Frankenstein? Sicuramente no anche perché il vampiro più importante della letteratura ci sarebbe rimasto male. Ecco allora che Brooks rivista il mito alla sua maniera e si fa affiancare dal sorriso accattivante (con canini incorporati) di Leslie Nielsen che abbandona le pallottole spuntate per seguirlo in un tourbillon di citazioni che non si ispirano solo al romanzo ma, come è ovvio, a tutto il cinema che ha visto Dracula come protagonista....",
-    "title_en": "Dracula: Dead and Loving It",
-    "overview_en": "When a lawyer shows up at the vampire's doorstep, he falls prey to his charms and joins him in his search for fresh blood. Enter Professor Van Helsing, who may be the only one able to vanquish the Count.",
-    "runtime": 88,
-    "director": "Mel Brooks",
-    "genres": [
-      "Commedia",
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 74402,
-    "title": "L'assassino abita al 21",
-    "original_title": "L'assassin habite au… 21",
-    "italian_title": "L'assassino abita al 21",
-    "year": 1942,
-    "poster_path": "/4YvB3s2SmYcgcaqtCr9EDB2qeTV.jpg",
-    "overview": "Parigi, Francia. Il commissario Wens segue le tracce di uno spietato assassino in un luogo inaspettato.",
-    "title_en": "The Murderer Lives at Number 21",
-    "overview_en": "Paris, France. Commissaire Wens follows the lead of a ruthless murderer to an unexpected place.",
-    "runtime": 83,
-    "director": "Henri-Georges Clouzot",
-    "genres": [
-      "Commedia",
-      "Mistero",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 22561,
-    "title": "Allegro non troppo",
-    "original_title": "Allegro non troppo",
-    "italian_title": "Allegro non troppo",
-    "year": 1976,
-    "poster_path": "/rKm1zFtwf9XVlxxHFHXe6g474ji.jpg",
-    "overview": "Allegro non troppo è un film a tecnica mista, in parte dal vero e in parte d'animazione, prodotto e diretto da Bruno Bozzetto.  Dichiaratamente ispirato al classico disneyano Fantasia, è composto da sei episodi animati (più un finale composto da diversi cortometraggi di pochi secondi), ciascuno accompagnato da un celebre brano di musica classica, inseriti in un film-cornice girato dal vero, in bianco e nero.  In un teatro vuoto, un pomposo presentatore introduce un insolito spettacolo: mentre un direttore d'orchestra fa eseguire i brani a un'improbabile orchestra improvvisata, formata da vecchiette in abiti belle époque prelevate da un ospizio, un disegnatore, tenuto incatenato per anni, ne realizza in tempo reale la versione animata.",
-    "title_en": "Allegro non troppo",
-    "overview_en": "An enterprising producer believes he has hit upon a winning concept: a program of original animated shorts set to classical music. Undeterred by warnings that this has already been done by an American named 'Prisney,' he rallies an orchestra of geriatric women, a bullish conductor, and an animator that he keeps locked in the dungeon. What could go wrong?",
-    "runtime": 85,
-    "director": "Bruno Bozzetto",
-    "genres": [
-      "Fantasy",
-      "Animazione",
-      "Commedia",
-      "Musica"
-    ]
-  },
-  {
-    "tmdb_id": 244458,
-    "title": "The Voices",
-    "original_title": "The Voices",
-    "italian_title": "The Voices",
-    "year": 2014,
-    "poster_path": "/mLhsRUmuXjIVsopd0xBZSJXamCm.jpg",
-    "overview": "Il film racconta di un uomo di nome Jerry Hickfang che, dopo aver accidentalmente ucciso una donna che è sua collega nella fabbrica di sanitari dove lavora, inizia a dialogare con il suo gatto e il suo cane – chiamati Mr. Whiskers e Bosco, il primo spregiudicato e senza scrupoli, il secondo buono e ottimista – ascoltando letteralmente i loro consigli sul come nascondere l’accaduto ed evitare ogni forma di guai.",
-    "title_en": "The Voices",
-    "overview_en": "A mentally unhinged factory worker must decide whether to listen to his talking cat and become a killer, or follow his dog's advice to keep striving for normalcy.",
-    "runtime": 104,
-    "director": "Marjane Satrapi",
-    "genres": [
-      "Commedia",
-      "Crime",
-      "Horror",
-      "Fantasy"
-    ]
-  },
-  {
-    "tmdb_id": 1562984,
-    "title": "Catartis - Conservare il futuro",
-    "original_title": "Catartis - Conservare il futuro",
-    "italian_title": "Catartis - Conservare il futuro",
-    "year": 2025,
-    "poster_path": "/6vmkf9BvaoYtP8rApi1wrYuWfUs.jpg",
-    "overview": "Un viaggio nel mondo dell'arte contemporanea che raccoglie non solo le testimonianze degli artisti e degli addetti ai lavori, ma mostra un backstage inedito che unisce centinaia di ore di riprese con una logica emersa del materiale stesso, per assonanze e dissonanze, vasi comunicanti tra le maglie di oltre due decenni di incontri, programmati e casuali. I grandi protagonisti dell'arte ci svelano qualche segreto e ci mostrano nuovi punti di vista. Dalle complessità dell'arte concettuale con le analisi di Joseph Kosuth all'Arte Povera di Michelangelo Pistoletto, Jannis Kounellis e Giulio Paolini. Da Carla Accardi e Getulio Alviani alle rotture degli schemi di Alighiero Boetti, Luigi Ontani, Jimmie Durham e molti altri.",
-    "title_en": "Catartis - Conservare il futuro",
-    "overview_en": null,
-    "runtime": 90,
-    "director": "Ferdinando Vicentini Orgnani",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 8005,
-    "title": "Robin Hood - Un uomo in calzamaglia",
-    "original_title": "Robin Hood: Men in Tights",
-    "italian_title": "Robin Hood - Un uomo in calzamaglia",
-    "year": 1993,
-    "poster_path": "/zqPpJmTjgTjMwCjCqb4PaAZovom.jpg",
-    "overview": "Una parodia del mito di Robin Hood e del film Robin Hood - Principe dei Ladri di Kevin Reynolds.Fatto prigioniero nella crociata in Terra Santa, Robin di Loxley fugge col moro Starnì e torna in Inghilterra a nuoto. Qui il principe Giovanni Senza Terra e lo sceriffo di Ruttingham, con la complicità della strega Latrina, compiono efferatezze in serie, ma Robin, insieme con alcuni allegri compagni, sistemerà tutto per il meglio.",
-    "title_en": "Robin Hood: Men in Tights",
-    "overview_en": "Robin Hood comes home after fighting in the Crusades to learn that the noble King Richard is in exile and that the despotic King John now rules England, with the help of the Sheriff of Rottingham. Robin Hood assembles a band of fellow patriots to do battle with King John and the Sheriff.",
-    "runtime": 104,
-    "director": "Mel Brooks",
-    "genres": [
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 8427,
-    "title": "Le spie",
-    "original_title": "I Spy",
-    "italian_title": "Le spie",
-    "year": 2002,
-    "poster_path": "/57R62oGBSOw7SyMEDJKFCrvjlN8.jpg",
-    "overview": "Che succede se un prototipo di bombardiere invisibile cade in mano a uno dei più loschi trafficanti d'armi del pianeta, l'ungherese Gundars, dispostissimo a venderlo al miglior offerente? Si cerca ovviamente l'aiuto di Alex, miglior spia statunitense in servizio. Ma per coprire l'operazione cosa di meglio di organizzare un incontro di boxe tra il campione del mondo dei medi Kelly e un avversario europeo? Peccato che spia e pugile all'inizio non possano soffrirsi. Ma l'amore per l'avventura e per l'America avrà la meglio di (quasi) ogni difficoltà. Se già la trama vi sembra piuttosto stupida, rassicuratevi: il film è anche peggio. Betty Thomas, che pure diresse il discreto \"Private Parts\", non ha assolutamente il polso per la commedia d'azione.",
-    "title_en": "I Spy",
-    "overview_en": "When the Switchblade, the most sophisticated prototype stealth fighter created yet, is stolen from the U.S. government, one of the United States' top spies, Alex Scott, is called to action. What he doesn't expect is to get teamed up with a cocky civilian, World Class Boxing Champion Kelly Robinson, on a dangerous top secret espionage mission. Their assignment: using equal parts skill and humor, catch Arnold Gundars, one of the world's most successful arms dealers.",
-    "runtime": 97,
-    "director": "Betty Thomas",
-    "genres": [
-      "Azione",
-      "Avventura",
-      "Commedia",
-      "Thriller"
     ]
   },
   {
@@ -2304,6 +2302,24 @@
       "Dramma",
       "Commedia",
       "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 503919,
+    "title": "The Lighthouse",
+    "original_title": "The Lighthouse",
+    "italian_title": "The Lighthouse",
+    "year": 2019,
+    "poster_path": "/w8lnWLKBAEOT0o3GL1rpu9kZ6Q3.jpg",
+    "overview": "Sul finire dell’Ottocento, su una remota isola al largo della costa del New England, due guardiani del faro rimangono intrappolati e isolati a causa di una tempesta apparentemente senza fine. Finiscono così con l’ingaggiare una battaglia contro la propria volontà, mentre aumentano le tensioni a causa delle forze eccessive e misteriose (reali o meno) che li circondano…",
+    "title_en": "The Lighthouse",
+    "overview_en": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+    "runtime": 109,
+    "director": "Robert Eggers",
+    "genres": [
+      "Dramma",
+      "Fantasy",
+      "Thriller"
     ]
   },
   {
