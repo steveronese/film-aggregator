@@ -1,5 +1,12 @@
 [
   {
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "tmdb_id": 128,
+    "matched_title": "Princess Mononoke",
+    "method": "fuzzy",
+    "confidence": 91.89189189189189
+  },
+  {
     "raw_title": "DIAZ - NON PULITE QUESTO SANGUE",
     "tmdb_id": 96714,
     "matched_title": "Diaz - Non pulire questo sangue",
@@ -17,6 +24,20 @@
     "raw_title": "SCALFIRE LA ROCCIA",
     "tmdb_id": 1400793,
     "matched_title": "Scalfire la roccia - Cutting Through Rocks",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "LA TESTIMONE",
+    "tmdb_id": 1320414,
+    "matched_title": "La testimone - Shahed",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "tmdb_id": 1314481,
+    "matched_title": "Il diavolo veste Prada 2",
     "method": "ai",
     "confidence": 100.0
   },
@@ -84,9 +105,23 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
-    "tmdb_id": 1314481,
-    "matched_title": "Il diavolo veste Prada 2",
+    "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR)",
+    "tmdb_id": 1277884,
+    "matched_title": "Allora balliamo",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "LE TIGRI DI MOMPRACEM (LOS TIGRES)",
+    "tmdb_id": 1464374,
+    "matched_title": "Le tigri di Mompracem",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "LA CRONOLOGIA DELL'ACQUA (THE CHRONOLOGY OF WATER)",
+    "tmdb_id": 524635,
+    "matched_title": "La cronologia dell’acqua",
     "method": "ai",
     "confidence": 100.0
   },
@@ -96,13 +131,6 @@
     "matched_title": "Il silenzio degli altri",
     "method": "ai",
     "confidence": 100.0
-  },
-  {
-    "raw_title": "LE TIGRI DI MOMPRACEM (LOS TIGRES)",
-    "tmdb_id": 1464374,
-    "matched_title": "Le tigri di Mompracem",
-    "method": "ai",
-    "confidence": 95.0
   },
   {
     "raw_title": "TUTTO QUELLO CHE RESTA DI TE (ALL THAT'S LEFT OF YOU)",
@@ -175,11 +203,25 @@
     "confidence": 94.44444444444444
   },
   {
+    "raw_title": "(Ov Chinese Sub.) Toy Story 5",
+    "tmdb_id": 1084244,
+    "matched_title": "Toy Story 5",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "Still Walking",
     "tmdb_id": 25050,
     "matched_title": "Still Walking - Camminando in un giorno d'estate",
     "method": "ai",
     "confidence": 95.0
+  },
+  {
+    "raw_title": "(O.V.) The Odissey",
+    "tmdb_id": 1368337,
+    "matched_title": "Odissea",
+    "method": "fuzzy",
+    "confidence": 90.9090909090909
   },
   {
     "raw_title": "Principessa Mononoke (Ried. 2026)",

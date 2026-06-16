@@ -3,7 +3,7 @@
     "raw_title": "KEEP CALM",
     "raw_year": null,
     "cinema_id": "beltrade",
-    "occurrences": 1
+    "occurrences": 7
   },
   {
     "raw_title": "TWIN PEAKS - STAGIONE 2 - EP. 1",
@@ -78,12 +78,6 @@
     "occurrences": 1
   },
   {
-    "raw_title": "SOFTNESS. I-MESH DESIGNING THE CITY",
-    "raw_year": null,
-    "cinema_id": "cineteca-arlecchino",
-    "occurrences": 1
-  },
-  {
     "raw_title": "UGO LA PIETRA. SISTEMA DISEQUILIBRANTE",
     "raw_year": null,
     "cinema_id": "cineteca-arlecchino",
@@ -114,16 +108,28 @@
     "occurrences": 1
   },
   {
+    "raw_title": "MABOROSI NO HIKARI - LA LUCE DELLE ILLUSIONI",
+    "raw_year": null,
+    "cinema_id": "anteo",
+    "occurrences": 12
+  },
+  {
     "raw_title": "V.O. SOTT.ITA - ROMERÌA - IL MARE DI RICORDI",
     "raw_year": null,
     "cinema_id": "anteo",
-    "occurrences": 7
+    "occurrences": 20
   },
   {
     "raw_title": "NO GOOD MEN",
     "raw_year": null,
     "cinema_id": "anteo",
-    "occurrences": 13
+    "occurrences": 29
+  },
+  {
+    "raw_title": "V. O. SOTT. ITA NO GOOD MEN",
+    "raw_year": null,
+    "cinema_id": "anteo",
+    "occurrences": 6
   },
   {
     "raw_title": "UN POPOLO DI OMBRE",
@@ -134,8 +140,14 @@
   {
     "raw_title": "NO GOOD MEN",
     "raw_year": null,
+    "cinema_id": "ariosto",
+    "occurrences": 4
+  },
+  {
+    "raw_title": "NO GOOD MEN",
+    "raw_year": null,
     "cinema_id": "citylife-anteo",
-    "occurrences": 3
+    "occurrences": 4
   },
   {
     "raw_title": "NO GOOD MEN - V. O.",
@@ -186,21 +198,27 @@
     "occurrences": 1
   },
   {
+    "raw_title": "Fuze - Conto Alla Rovescia",
+    "raw_year": null,
+    "cinema_id": "colosseo",
+    "occurrences": 6
+  },
+  {
     "raw_title": "No Good Men",
     "raw_year": null,
     "cinema_id": "eliseo",
-    "occurrences": 3
+    "occurrences": 2
   },
   {
     "raw_title": "(O.V.) The Amazing Digital Circus",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 3
+    "occurrences": 2
   },
   {
     "raw_title": "Fuze - Conto Alla Rovescia",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 2
+    "occurrences": 4
   }
 ]
