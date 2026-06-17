@@ -1,75 +1,5 @@
 [
   {
-    "tmdb_id": 1182861,
-    "title": "Romería - Il mare dei ricordi",
-    "original_title": "Romería",
-    "italian_title": "Romería - Il mare dei ricordi",
-    "year": 2025,
-    "poster_path": "/slGOQOlGlY3wnP4Vmuf4nmZUwuH.jpg",
-    "overview": "Marina, 18 anni, rimasta orfana in tenerissima età, giunge in Galizia sulle tracce della famiglia del padre biologico. Qui, mentre incontra zii, cugini e parenti mai conosciuti prima, cercherà di ricomporre i ricordi, talvolta contraddittori, dei suoi genitori e del loro amore travolgente, riportando alla luce emozioni familiari a lungo sepolte, verità non dette e ferite mai del tutto rimarginate. La regista Orso d’Oro Carla Simón gira con il ritmo dolce di una placida marea un film intenso, intimo e personale, una storia sulle radici ritrovate, sui legami familiari e su ciò che non abbiamo il coraggio di dire ad alta voce, neanche quando ce ne sarebbe un enorme bisogno.",
-    "title_en": "Romería",
-    "overview_en": "With her mother's diary in hand, Marina's search for official documents for university leads her to her biological family on the Atlantic coast. What starts as an administrative quest reveals long-buried family secrets.",
-    "runtime": 112,
-    "director": "Carla Simón",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1083381,
-    "title": "Backrooms",
-    "original_title": "Backrooms",
-    "italian_title": "Backrooms",
-    "year": 2026,
-    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
-    "title_en": "Backrooms",
-    "overview_en": "A strange doorway appears in the basement of a furniture showroom.",
-    "runtime": 111,
-    "director": "Kane Parsons",
-    "genres": [
-      "Horror",
-      "Mistero",
-      "Fantascienza"
-    ]
-  },
-  {
-    "tmdb_id": 1275779,
-    "title": "Disclosure Day",
-    "original_title": "Disclosure Day",
-    "italian_title": "Disclosure Day",
-    "year": 2026,
-    "poster_path": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
-    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
-    "title_en": "Disclosure Day",
-    "overview_en": "A cybersecurity expert becomes a whistleblower to reveal secrets about aliens, putting him on the run from a corporation while a meteorologist experiences strange phenomena and joins forces with him to prove there's life beyond our knowledge.",
-    "runtime": 145,
-    "director": "Steven Spielberg",
-    "genres": [
-      "Mistero",
-      "Fantascienza",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 15014,
-    "title": "Bianca",
-    "original_title": "Bianca",
-    "italian_title": "Bianca",
-    "year": 1984,
-    "poster_path": "/lnXZLkJ3MFgAFAiyVJGfTUykNkU.jpg",
-    "overview": "Michele è un insegnante di matematica, paranoico e solitario, vive spiando la vita di coppia dei suoi amici e conoscenti. Quando una vicina di casa verrà trovata uccisa, Michele sarà considerato tra i sospettati. Nel frattempo Michele si innamora di una collega, Bianca, che per un breve ma intenso periodo gli regalerà un po' di gioia e un certo equilibrio mentale.",
-    "title_en": "Bianca",
-    "overview_en": "Michele, a young mathematics professor, moves into a new flat. Lonely, depressed, and neurotic, he spends his time obsessively monitoring the lives of the couples around him, especially his neighbors, a young pair struggling to make their relationship work. When Bianca, a new teacher at the local high school, enters his life, Michele finds himself falling in love. At the same time, a string of murders rocks the neighborhood, casting suspicion on him.",
-    "runtime": 96,
-    "director": "Nanni Moretti",
-    "genres": [
-      "Dramma",
-      "Commedia",
-      "Mistero"
-    ]
-  },
-  {
     "tmdb_id": 60732,
     "title": "La messa è finita",
     "original_title": "La messa è finita",
@@ -103,6 +33,24 @@
     ]
   },
   {
+    "tmdb_id": 1083381,
+    "title": "Backrooms",
+    "original_title": "Backrooms",
+    "italian_title": "Backrooms",
+    "year": 2026,
+    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
+    "title_en": "Backrooms",
+    "overview_en": "A strange doorway appears in the basement of a furniture showroom.",
+    "runtime": 111,
+    "director": "Kane Parsons",
+    "genres": [
+      "Horror",
+      "Mistero",
+      "Fantascienza"
+    ]
+  },
+  {
     "tmdb_id": 1339713,
     "title": "Obsession",
     "original_title": "Obsession",
@@ -116,6 +64,24 @@
     "director": "Curry Barker",
     "genres": [
       "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1275779,
+    "title": "Disclosure Day",
+    "original_title": "Disclosure Day",
+    "italian_title": "Disclosure Day",
+    "year": 2026,
+    "poster_path": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
+    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
+    "title_en": "Disclosure Day",
+    "overview_en": "A cybersecurity expert becomes a whistleblower to reveal secrets about aliens, putting him on the run from a corporation while a meteorologist experiences strange phenomena and joins forces with him to prove there's life beyond our knowledge.",
+    "runtime": 145,
+    "director": "Steven Spielberg",
+    "genres": [
+      "Mistero",
+      "Fantascienza",
       "Thriller"
     ]
   },
@@ -167,6 +133,22 @@
     ]
   },
   {
+    "tmdb_id": 1182861,
+    "title": "Romería - Il mare dei ricordi",
+    "original_title": "Romería",
+    "italian_title": "Romería - Il mare dei ricordi",
+    "year": 2025,
+    "poster_path": "/slGOQOlGlY3wnP4Vmuf4nmZUwuH.jpg",
+    "overview": "Marina, 18 anni, rimasta orfana in tenerissima età, giunge in Galizia sulle tracce della famiglia del padre biologico. Qui, mentre incontra zii, cugini e parenti mai conosciuti prima, cercherà di ricomporre i ricordi, talvolta contraddittori, dei suoi genitori e del loro amore travolgente, riportando alla luce emozioni familiari a lungo sepolte, verità non dette e ferite mai del tutto rimarginate. La regista Orso d’Oro Carla Simón gira con il ritmo dolce di una placida marea un film intenso, intimo e personale, una storia sulle radici ritrovate, sui legami familiari e su ciò che non abbiamo il coraggio di dire ad alta voce, neanche quando ce ne sarebbe un enorme bisogno.",
+    "title_en": "Romería",
+    "overview_en": "With her mother's diary in hand, Marina's search for official documents for university leads her to her biological family on the Atlantic coast. What starts as an administrative quest reveals long-buried family secrets.",
+    "runtime": 112,
+    "director": "Carla Simón",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 128,
     "title": "Princess Mononoke",
     "original_title": "もののけ姫",
@@ -185,55 +167,39 @@
     ]
   },
   {
-    "tmdb_id": 30197,
-    "title": "Per favore, non toccate le vecchiette!",
-    "original_title": "The Producers",
-    "italian_title": "Per favore, non toccate le vecchiette!",
+    "tmdb_id": 15014,
+    "title": "Bianca",
+    "original_title": "Bianca",
+    "italian_title": "Bianca",
+    "year": 1984,
+    "poster_path": "/lnXZLkJ3MFgAFAiyVJGfTUykNkU.jpg",
+    "overview": "Michele è un insegnante di matematica, paranoico e solitario, vive spiando la vita di coppia dei suoi amici e conoscenti. Quando una vicina di casa verrà trovata uccisa, Michele sarà considerato tra i sospettati. Nel frattempo Michele si innamora di una collega, Bianca, che per un breve ma intenso periodo gli regalerà un po' di gioia e un certo equilibrio mentale.",
+    "title_en": "Bianca",
+    "overview_en": "Michele, a young mathematics professor, moves into a new flat. Lonely, depressed, and neurotic, he spends his time obsessively monitoring the lives of the couples around him, especially his neighbors, a young pair struggling to make their relationship work. When Bianca, a new teacher at the local high school, enters his life, Michele finds himself falling in love. At the same time, a string of murders rocks the neighborhood, casting suspicion on him.",
+    "runtime": 96,
+    "director": "Nanni Moretti",
+    "genres": [
+      "Dramma",
+      "Commedia",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 42853,
+    "title": "Odissea",
+    "original_title": "Odissea",
+    "italian_title": "Odissea",
     "year": 1968,
-    "poster_path": "/A0o4t52OtdzIU0yhaxNlkZ6CJ1p.jpg",
-    "overview": "Un produttore di Broadway, per frodare il fisco, si fa finanziare da ricche vecchiette uno spettacolo, sicuro che sarà un fiasco. Film d'esordio di M. Brooks (che prese un Oscar per la sceneggiatura) è diventato un cult movie per la sgangherata forza satirica nella rappresentazione del mondo teatrale. Grande spasso nelle scene della commedia musicale. La voce della canzone “Springtime for Hitler” è di Brooks.",
-    "title_en": "The Producers",
-    "overview_en": "A conniving Broadway producer and his meek accountant plan to profit from charming wealthy old biddies to invest in an overbudget production, and then put on a sure-fire disaster, so nobody will ask for their money back — and what's more disastrous than a tasteless musical celebrating Adolf Hitler.",
-    "runtime": 89,
-    "director": "Mel Brooks",
+    "poster_path": "/orlKW4piaeA5UMTMqrQsQuOKl5w.jpg",
+    "overview": "Odissea è una miniserie televisiva co-prodotta da svariati Paesi nel 1968, basata sull'omonimo poema di Omero. Ne è stata distribuita una versione ridotta cinematografica dal titolo Le avventure di Ulisse.",
+    "title_en": "Odissea",
+    "overview_en": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
+    "runtime": 110,
+    "director": "Piero Schivazappa, Franco Rossi, Mario Bava",
     "genres": [
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 16149,
-    "title": "La grande truffa del rock'n'roll",
-    "original_title": "The Great Rock 'n' Roll Swindle",
-    "italian_title": "La grande truffa del rock'n'roll",
-    "year": 1980,
-    "poster_path": "/hbhcbYSVCSLOEOM3nFv0JLN3fCg.jpg",
-    "overview": "Il manager dei Sex Pistols racconta dove come quando mise su il famoso complesso rock (a sentir lui, formato, almeno all'inizio, da un branco di ragazzotti che la musica non sapevano nemmeno dove stesse di casa).",
-    "title_en": "The Great Rock 'n' Roll Swindle",
-    "overview_en": "A rather incoherent post-breakup Sex Pistols \"documentary\", told from the point of view of Pistols manager Malcolm McLaren, whose (arguable) position is that the Sex Pistols in particular and punk rock in general were an elaborate scam perpetrated by him in order to make \"a million pounds.\"",
-    "runtime": 103,
-    "director": "Julien Temple",
-    "genres": [
-      "Commedia",
-      "Documentario",
-      "Musica"
-    ]
-  },
-  {
-    "tmdb_id": 5691,
-    "title": "I racconti di Canterbury",
-    "original_title": "I racconti di Canterbury",
-    "italian_title": "I racconti di Canterbury",
-    "year": 1972,
-    "poster_path": "/a6T2PYgMlDTG2uCofFJL941zd1M.jpg",
-    "overview": "Un gruppo di pellegrini diretti a Canterbury, si racconta delle storie durante il viaggio: lo studente Nicola concupisce la moglie del legnaiolo Giovanni, sfruttandone la superstizione; due studenti si vendicano di Simkin, ladro di farina; una donna di Bath, insaziabile e vorace ninfomane uccide ben cinque mariti ereditandone gli averi...",
-    "title_en": "The Canterbury Tales",
-    "overview_en": "Glimpses of Chaucer penning his famous work are sprinkled through this re-enactment of several of his stories.",
-    "runtime": 112,
-    "director": "Pier Paolo Pasolini",
-    "genres": [
-      "Commedia",
-      "Storia",
-      "Dramma"
+      "televisione film",
+      "Avventura",
+      "Storia"
     ]
   },
   {
@@ -833,6 +799,110 @@
     ]
   },
   {
+    "tmdb_id": 10970,
+    "title": "L'ultima follia di Mel Brooks",
+    "original_title": "Silent Movie",
+    "italian_title": "L'ultima follia di Mel Brooks",
+    "year": 1976,
+    "poster_path": "/y5RulgchDwdXFpvkcdDQN8ZCeWK.jpg",
+    "overview": "Un regista alcolizzato, insieme ai suoi due bizzarri assistenti, tenta di salvare una casa di produzione indipendente realizzando un film muto e puntando sulla partecipazione di grandi nomi del cinema: Paul Newman, Liza Minnelli, James Caan, Anne Bancroft e il mimo francese Marcel Marceau che pronuncia l'unica parola del film. Film ineguale e squilibrato come la fantasia del suo autore; raffica di gag mute, doppi sensi e demenzialità ante litteram. Alcuni momenti, però, sono indimenticabili.",
+    "title_en": "Silent Movie",
+    "overview_en": "Aspiring filmmakers Mel Funn, Marty Eggs and Dom Bell go to a financially troubled studio with an idea for a silent movie. In an effort to make the movie more marketable, they attempt to recruit a number of big name stars to appear, while the studio's creditors attempt to thwart them.",
+    "runtime": 86,
+    "director": "Mel Brooks",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 480857,
+    "title": "Radioactive",
+    "original_title": "Radioactive",
+    "italian_title": "Radioactive",
+    "year": 2020,
+    "poster_path": "/9mkRTJlmm92y0YH6XvWV1ac6ufg.jpg",
+    "overview": "Il racconto della vita del premio Nobel Marie Curie, dall'incontro con Pierre, che sarà suo marito, a tutte le straordinarie scoperte scientifiche che fecero insieme. I loro studi che portarono alla scoperta del polonio e del radio ebbero grandi impatti sulla storia del ventesimo secolo.",
+    "title_en": "Radioactive",
+    "overview_en": "The story of Nobel Prize winner Maria Skłodowska-Curie and her extraordinary scientific discoveries—through the prism of her marriage to husband Pierre—and the seismic and transformative effects their discovery of radium had on the 20th century.",
+    "runtime": 103,
+    "director": "Marjane Satrapi",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 56519,
+    "title": "El Sicario, Room 164",
+    "original_title": "El Sicario, Room 164",
+    "italian_title": "El Sicario, Room 164",
+    "year": 2010,
+    "poster_path": "/mHE3Ym8Ci84X2ggvNnC7gX8fZV4.jpg",
+    "overview": null,
+    "title_en": "El Sicario, Room 164",
+    "overview_en": "The story of a hitman for the drug cartels in Ciudad Juarez, Mexico.",
+    "runtime": 80,
+    "director": "Gianfranco Rosi",
+    "genres": [
+      "Documentario",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 204,
+    "title": "Vite vendute",
+    "original_title": "Le Salaire de la peur",
+    "italian_title": "Vite vendute",
+    "year": 1953,
+    "poster_path": "/9as3Mc9L6s52dIacOdhdkal35Zo.jpg",
+    "overview": "In una zona desertica del Guatemala prende fuoco un pozzo petrolifero. Quattro disperati vengono ingaggiati per raggiungere la zona con due camion carichi di nitroglicerina per far saltare il pozzo. La missione è pericolosissima, ma i quattro - un corso, un muratore toscano, un tedesco e un avventuriero parigino - non hanno nulla da perdere.",
+    "title_en": "The Wages of Fear",
+    "overview_en": "In a run-down South American town, four men are paid to drive trucks loaded with nitroglycerin into the jungle through to the oil field. Friendships are tested and rivalries develop as they embark upon the perilous journey.",
+    "runtime": 131,
+    "director": "Henri-Georges Clouzot",
+    "genres": [
+      "Dramma",
+      "Thriller",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 25771,
+    "title": "Pink Floyd a Pompei",
+    "original_title": "Pink Floyd: Live at Pompeii",
+    "italian_title": "Pink Floyd a Pompei",
+    "year": 1972,
+    "poster_path": "/bxjgbHH14nEMx3YtFDLJ04omQhH.jpg",
+    "overview": "Pink Floyd: Live at Pompeii, uscito in Italia anche con il titolo Pink Floyd a Pompei, è un film-documentario-concerto diretto da Adrian Maben, uscito nella versione per le sale cinematografiche nel 1974 e incentrato sulla musica del gruppo rock inglese dei Pink Floyd.",
+    "title_en": "Pink Floyd: Live at Pompeii",
+    "overview_en": "British progressive rock band Pink Floyd perform at the ancient Roman Amphitheatre in the ruins of Pompeii, Italy in 1971. Although the band perform a typical live set from the era, there is no audience beyond the basic film crew.",
+    "runtime": 62,
+    "director": "Adrian Maben",
+    "genres": [
+      "Musica",
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1368337,
+    "title": "Odissea",
+    "original_title": "The Odyssey",
+    "italian_title": "Odissea",
+    "year": 2026,
+    "poster_path": "/5S4U3gM7N17ni028LJhO60zfcKJ.jpg",
+    "overview": "Ulisse, il leggendario re greco di Itaca, intraprende un lungo e pericoloso viaggio verso casa dopo la guerra di Troia, raccontando i suoi incontri con esseri mitici come il ciclope Polifemo, le Sirene e la dea strega Circe.",
+    "title_en": "The Odyssey",
+    "overview_en": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "runtime": 172,
+    "director": "Christopher Nolan",
+    "genres": [
+      "Avventura",
+      "Azione",
+      "Fantasy"
+    ]
+  },
+  {
     "tmdb_id": 1088548,
     "title": "Amarga Navidad",
     "original_title": "Amarga Navidad",
@@ -900,6 +970,22 @@
     ]
   },
   {
+    "tmdb_id": 1462322,
+    "title": "Le città di pianura",
+    "original_title": "Le città di pianura",
+    "italian_title": "Le città di pianura",
+    "year": 2025,
+    "poster_path": "/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg",
+    "overview": "La storia di Carlobianchi (Sergio Romano) e Doriano (Pierpaolo Capovilla), due cinquantenni al verde con una filosofia di vita che ruota attorno all'ultimo bicchiere, e del loro incontro con Giulio (Filippo Scotti), un giovane e timido studente di architettura in crisi. Quello che sembra un incontro casuale si trasforma in un road movie disordinato attraverso le pianure del Veneto: tra sbronze, cattivi consigli e una sorprendente amicizia che rimescola le carte del destino di Giulio.  Il film ha conquistato i David di Donatello 2026 nelle categorie più prestigiose, tra cui Miglior Film, Migliore Regia e Migliore Attore Protagonista per Sergio Romano.",
+    "title_en": "The Last One for the Road",
+    "overview_en": "A couple of jovial life-long drunkards run into a shy architecture undergrad, whose way of seeing things will be transformed as the trio wanders from pub to pub in search of a buried treasure.",
+    "runtime": 100,
+    "director": "Francesco Sossai",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
     "tmdb_id": 1238188,
     "title": "Il prigioniero",
     "original_title": "El cautivo",
@@ -930,22 +1016,6 @@
     "director": "Nicole Bertani, Valentina Bertani",
     "genres": [
       "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1462322,
-    "title": "Le città di pianura",
-    "original_title": "Le città di pianura",
-    "italian_title": "Le città di pianura",
-    "year": 2025,
-    "poster_path": "/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg",
-    "overview": "La storia di Carlobianchi (Sergio Romano) e Doriano (Pierpaolo Capovilla), due cinquantenni al verde con una filosofia di vita che ruota attorno all'ultimo bicchiere, e del loro incontro con Giulio (Filippo Scotti), un giovane e timido studente di architettura in crisi. Quello che sembra un incontro casuale si trasforma in un road movie disordinato attraverso le pianure del Veneto: tra sbronze, cattivi consigli e una sorprendente amicizia che rimescola le carte del destino di Giulio.  Il film ha conquistato i David di Donatello 2026 nelle categorie più prestigiose, tra cui Miglior Film, Migliore Regia e Migliore Attore Protagonista per Sergio Romano.",
-    "title_en": "The Last One for the Road",
-    "overview_en": "A couple of jovial life-long drunkards run into a shy architecture undergrad, whose way of seeing things will be transformed as the trio wanders from pub to pub in search of a buried treasure.",
-    "runtime": 100,
-    "director": "Francesco Sossai",
-    "genres": [
-      "Commedia"
     ]
   },
   {
@@ -1069,35 +1139,21 @@
     ]
   },
   {
-    "tmdb_id": 1460931,
-    "title": "Rojo clavel",
-    "original_title": "Rojo clavel",
-    "italian_title": "Rojo clavel",
-    "year": 2025,
-    "poster_path": "/4CDpmeKNOho5izNqrMwq8pnFxtB.jpg",
-    "overview": null,
-    "title_en": "Red Carnation",
-    "overview_en": "When Manuel Liñán takes the stage, he finds the freedom to be himself. Through dance, he explores the connection between bodies, love, and human relationships, seeking to understand the need to connect without taboos and the consequences of intimacy. Through emotion and flesh, he challenges the boundaries of flamenco, merging tradition with personal freedom. In this journey, the past and present intertwine, creating an atmosphere where bodies speak of love, struggle, and the bonds that define us",
-    "runtime": 86,
-    "director": "Roser Corella",
-    "genres": []
-  },
-  {
-    "tmdb_id": 1277884,
-    "title": "Allora balliamo",
-    "original_title": "Partir un jour",
-    "italian_title": "Allora balliamo",
-    "year": 2025,
-    "poster_path": "/dUREuQwE8sZUbKS7EH4KChdceIf.jpg",
-    "overview": "Alla vigilia dell'apertura del suo ristorante a Parigi, la chef Cécile, si vede costretta, a causa di un malessere del padre, a tornate nel suo paese d'infanzia. Tra vecchie passioni e la gestione della trattoria dei suoi genitori, il suo passato riemerge inaspettatamente.",
-    "title_en": "Leave One Day",
-    "overview_en": "Cécile is about to open her own gourmet restaurant, finally making her dream come true, when suddenly her father has a heart attack and she is called back to the village where she was born. Far from the hubbub of Paris life, she runs into her teenage crush. The memories come flooding back, destabilizing her certainties.",
-    "runtime": 98,
-    "director": "Amélie Bonnin",
+    "tmdb_id": 43874,
+    "title": "Margherita Gauthier",
+    "original_title": "Camille",
+    "italian_title": "Margherita Gauthier",
+    "year": 1936,
+    "poster_path": "/A2le5SoiXt03br8QZXGawNouOK1.jpg",
+    "overview": "Armando Duval si innamora della Signora dalle Camelie di dubbia reputazione e lei lo ricambia appassionatamente. Il padre di Duval si reca da lei e la scongiura di lasciare suo figlio. Margherita finge allora di accettare le attenzioni di un rivale e Armando si allontana deluso. Appresa la verità, alla fine Armando ritorna, in tempo per assistere Margherita mentre si spegne minata dalla tisi.",
+    "title_en": "Camille",
+    "overview_en": "Life in 1847 Paris is as spirited as champagne and as unforgiving as the gray morning after. In gambling dens and lavish soirees, men of means exert their wills and women turned courtesans exult in pleasure. One such woman is Marguerite Gautier, who begins a sumptuous romance with Armand Duval.",
+    "runtime": 109,
+    "director": "George Cukor",
     "genres": [
       "Dramma",
-      "Commedia",
-      "Musica"
+      "Romance",
+      "Storia"
     ]
   },
   {
@@ -1130,24 +1186,6 @@
     "director": "Gioia Magrini",
     "genres": [
       "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 1368337,
-    "title": "Odissea",
-    "original_title": "The Odyssey",
-    "italian_title": "Odissea",
-    "year": 2026,
-    "poster_path": "/5S4U3gM7N17ni028LJhO60zfcKJ.jpg",
-    "overview": "Ulisse, il leggendario re greco di Itaca, intraprende un lungo e pericoloso viaggio verso casa dopo la guerra di Troia, raccontando i suoi incontri con esseri mitici come il ciclope Polifemo, le Sirene e la dea strega Circe.",
-    "title_en": "The Odyssey",
-    "overview_en": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "runtime": 172,
-    "director": "Christopher Nolan",
-    "genres": [
-      "Avventura",
-      "Azione",
-      "Fantasy"
     ]
   },
   {
@@ -1201,6 +1239,24 @@
     "genres": [
       "Dramma",
       "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1277884,
+    "title": "Allora balliamo",
+    "original_title": "Partir un jour",
+    "italian_title": "Allora balliamo",
+    "year": 2025,
+    "poster_path": "/dUREuQwE8sZUbKS7EH4KChdceIf.jpg",
+    "overview": "Alla vigilia dell'apertura del suo ristorante a Parigi, la chef Cécile, si vede costretta, a causa di un malessere del padre, a tornate nel suo paese d'infanzia. Tra vecchie passioni e la gestione della trattoria dei suoi genitori, il suo passato riemerge inaspettatamente.",
+    "title_en": "Leave One Day",
+    "overview_en": "Cécile is about to open her own gourmet restaurant, finally making her dream come true, when suddenly her father has a heart attack and she is called back to the village where she was born. Far from the hubbub of Paris life, she runs into her teenage crush. The memories come flooding back, destabilizing her certainties.",
+    "runtime": 98,
+    "director": "Amélie Bonnin",
+    "genres": [
+      "Dramma",
+      "Commedia",
+      "Musica"
     ]
   },
   {
@@ -1277,22 +1333,6 @@
     ]
   },
   {
-    "tmdb_id": 1438958,
-    "title": "Antartica - Quasi una fiaba",
-    "original_title": "Antartica - Quasi una fiaba",
-    "italian_title": "Antartica - Quasi una fiaba",
-    "year": 2026,
-    "poster_path": "/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg",
-    "overview": "Una piccola comunità di scienziati, irraggiungibile per otto mesi l’anno, guarda al futuro della specie umana, cercando cose che ancora non capisce. Non Conosce. Non sa. Cose sopra e sottoterra.  L’arrivo di Maria Medri (Barbara Ronchi), genio forastico e cocciuto, nella base più isolata dell’Antartide, metterà in crisi i progetti del capomissione Fulvio Cadorna (Silvio Orlando), suo mentore.  Fulvio e Maria sono simili, sono legati, sono complici. Ma come spesso capita, tutti vogliono la stessa cosa, fino al giorno in cui ognuno vuole la sua.  Un conflitto scientifico, ideologico, affettivo.",
-    "title_en": "Antartica - Quasi una fiaba",
-    "overview_en": "A small group of scientists, unreachable for eight months, explores the future of humanity. Maria Medri, a foreign genius, arrives in Antarctica, challenging Fulvio Cadorna's plans. They are similar but conflicting, as everyone desires their own. This scientific, ideological, and emotional conflict unfolds.",
-    "runtime": null,
-    "director": "Lucia Calamaro",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1429348,
     "title": "Lo straniero",
     "original_title": "L'Étranger",
@@ -1328,25 +1368,6 @@
     ]
   },
   {
-    "tmdb_id": 1215532,
-    "title": "Hopper - Il segreto della marmotta",
-    "original_title": "Chickenhare and the Secret of the Groundhog",
-    "italian_title": "Hopper - Il segreto della marmotta",
-    "year": 2025,
-    "poster_path": "/bl96nTxJhqadBkUXKkgcSU5AxRG.jpg",
-    "overview": "Continuano le avventure dell'esploratore Hopper, sempre alla scoperta di mondi nuovi e affascinanti insieme agli inseparabili compagni Meg e Abe.  Tuttavia, il suo destino rischia di cambiare radicalmente quando incontra Gina, una misteriosa sconosciuta che si rivela essere sua sorella. Per la prima volta, Hopper scopre di non essere l’unico della sua specie. Diviso tra la lealtà verso il padre adottivo e il desiderio di aiutare i suoi simili, Hopper si ritrova a dover seguire il suo cuore e partire per una nuova avventura. Decide cosi di accompagnare Gina in una missione pericolosa: trovare l’unico potere capace di salvarli da una grave minaccia. La ricerca conduce i protagonisti sulle tracce della leggendaria marmotta in grado di manipolare il tempo. Tra superstizioni, enigmi e rivelazioni sul passato e futuro, Hopper, Abe e Meg affrontano un viaggio epico ricco di insidie, scoperte e colpi di scena.",
-    "title_en": "Chickenhare and the Secret of the Groundhog",
-    "overview_en": "Chickenhare embarks on an epic quest, a mysterious groundhog with the power to reverse time and save his species. His adventure takes a dangerous turn when his group discover they are not the only ones searching for this ancient power.",
-    "runtime": 88,
-    "director": "Benjamin Mousquet",
-    "genres": [
-      "Animazione",
-      "Avventura",
-      "Commedia",
-      "Famiglia"
-    ]
-  },
-  {
     "tmdb_id": 1224440,
     "title": "Smart Working",
     "original_title": "Smart Working",
@@ -1360,6 +1381,23 @@
     "director": "Svevo Moltrasio",
     "genres": [
       "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 97434,
+    "title": "Gambit - Una truffa a regola d’arte",
+    "original_title": "Gambit",
+    "italian_title": "Gambit - Una truffa a regola d’arte",
+    "year": 2012,
+    "poster_path": "/9omch7YasE5XzLzBTOIry2d3avV.jpg",
+    "overview": "Harry Deane, curatore di mostre londinese, organizza un'astuta macchinazione per raggirare l'uomo più ricco d'Inghilterra, l'avido collezionista Lionel Shabandar, convincendolo ad acquistare un falso dipinto di Monet. Come esca, recluta una regina del rodeo texana, che si farà passare per donna il cui nonno mise le mani sul dipinto alla fine della Seconda Guerra Mondiale.",
+    "title_en": "Gambit",
+    "overview_en": "An art curator decides to seek revenge on his abusive boss by conning him into buying a fake Monet, but his plan requires the help of an eccentric and unpredictable Texas rodeo queen.",
+    "runtime": 89,
+    "director": "Michael Hoffman",
+    "genres": [
+      "Commedia",
+      "Crime"
     ]
   },
   {
@@ -1806,6 +1844,22 @@
     ]
   },
   {
+    "tmdb_id": 1438958,
+    "title": "Antartica - Quasi una fiaba",
+    "original_title": "Antartica - Quasi una fiaba",
+    "italian_title": "Antartica - Quasi una fiaba",
+    "year": 2026,
+    "poster_path": "/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg",
+    "overview": "Una piccola comunità di scienziati, irraggiungibile per otto mesi l’anno, guarda al futuro della specie umana, cercando cose che ancora non capisce. Non Conosce. Non sa. Cose sopra e sottoterra.  L’arrivo di Maria Medri (Barbara Ronchi), genio forastico e cocciuto, nella base più isolata dell’Antartide, metterà in crisi i progetti del capomissione Fulvio Cadorna (Silvio Orlando), suo mentore.  Fulvio e Maria sono simili, sono legati, sono complici. Ma come spesso capita, tutti vogliono la stessa cosa, fino al giorno in cui ognuno vuole la sua.  Un conflitto scientifico, ideologico, affettivo.",
+    "title_en": "Antartica - Quasi una fiaba",
+    "overview_en": "A small group of scientists, unreachable for eight months, explores the future of humanity. Maria Medri, a foreign genius, arrives in Antarctica, challenging Fulvio Cadorna's plans. They are similar but conflicting, as everyone desires their own. This scientific, ideological, and emotional conflict unfolds.",
+    "runtime": null,
+    "director": "Lucia Calamaro",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1433339,
     "title": "Tre ciotole",
     "original_title": "Tre ciotole",
@@ -1963,6 +2017,25 @@
     ]
   },
   {
+    "tmdb_id": 1154304,
+    "title": "Buffalo Kids",
+    "original_title": "Buffalo Kids",
+    "italian_title": "Buffalo Kids",
+    "year": 2024,
+    "poster_path": "/b5bazDndp5nPs43cJk1YG5pEZVJ.jpg",
+    "overview": "Mary e Tom sono fratelli irlandesi orfani che arrivano a New York City via transatlantico nel 1886 e si ritrovano rapidamente in un selvaggio viaggio attraverso il paese a bordo di un treno transcontinentale chiamato “Orphan Train”, dove incontrano un nuovo straordinario amico che cambierà per sempre le loro vite.  Guidati dalla curiosità, dall'amicizia e dal lavoro di squadra, il loro pericoloso viaggio pieno di scoperte li introdurrà a subdoli villain, alleati sorprendenti, eroi inaspettati e avventure inimmaginabili in una ricerca esilarante e commovente della loro casa.",
+    "title_en": "Buffalo Kids",
+    "overview_en": "In 1886, orphaned Irish siblings Mary and Tom arrive in New York City via ocean liner, and quickly find themselves on a wild, cross-country journey aboard a transcontinental 'Orphan Train', where they meet an extraordinary new friend who will change their lives forever.",
+    "runtime": 83,
+    "director": "Pedro Solís, Juan Jesús García Galocha",
+    "genres": [
+      "Animazione",
+      "Avventura",
+      "Commedia",
+      "Famiglia"
+    ]
+  },
+  {
     "tmdb_id": 1419053,
     "title": "ChaO",
     "original_title": "ChaO",
@@ -1994,6 +2067,23 @@
     "director": "Franco Piavoli",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1368314,
+    "title": "Passenger",
+    "original_title": "Passenger",
+    "italian_title": "Passenger",
+    "year": 2026,
+    "poster_path": "/vqtX2uwAq4ziVR3V3aC2yqypR9k.jpg",
+    "overview": "Dopo aver assistito a un raccapricciante incidente sull’autostrada, una giovane coppia riparte convinta di essersi lasciata tutto alle spalle. Ma qualcosa è salito a bordo con loro. Una presenza demoniaca, si annida nell’ombra, silenziosa e inesorabile. Non si fermerà finché non li avrà presi entrambi, trasformando il loro viaggio on the road in una discesa senza ritorno nell’incubo.",
+    "title_en": "Passenger",
+    "overview_en": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+    "runtime": 94,
+    "director": "André Øvredal",
+    "genres": [
+      "Horror",
+      "Thriller"
     ]
   },
   {
@@ -2102,19 +2192,38 @@
     ]
   },
   {
-    "tmdb_id": 1510325,
-    "title": "Gioia mia",
-    "original_title": "Gioia mia",
-    "italian_title": "Gioia mia",
-    "year": 2025,
-    "poster_path": "/kYw62IF023miZMKyiAqX4mYat3a.jpg",
-    "overview": "Nico è un bambino di oggi, dipendente dal telefono e con lo smalto sulle unghie. All'improvviso viene strappato al suo mondo \"del nord\" per passare un mese d'estate in Sicilia, in compagnia di un'anziana zia, Gela. A casa della donna non c'è il wifi né l'aria condizionata, e si mangiano prelibatezze a cui il suo palato non è ancora pronto. Ci sono solo i giochi di carte, l'adorabile cagnolino Frank, e un condominio intero popolato di nonne e nipoti, più forse qualche spirito che abita gli appartamenti all'ultimo piano ed è causa di strani rumori. Nico e Gela, ognuno radicato nelle proprie certezze ma con dolori simili nel cuore, dovranno pian piano cercare un linguaggio comune.",
-    "title_en": "Sweetheart",
-    "overview_en": "A reluctant summer together transforms into an enchanting adventure when a young boy discovers his aunt's mysterious Sicilian house holds secrets and, perhaps, ancient spirits lurking within its walls.",
-    "runtime": 90,
-    "director": "Margherita Spampinato",
+    "tmdb_id": 1442922,
+    "title": "Un anno di scuola",
+    "original_title": "Un anno di scuola",
+    "italian_title": "Un anno di scuola",
+    "year": 2026,
+    "poster_path": "/8kGEfpIabMiaWpdMkTcNFclld5W.jpg",
+    "overview": "Settembre 2007, Trieste. Fred, diciottenne svedese esuberante e coraggiosa, arriva in città per frequentare l'ultimo anno di un Istituto Tecnico. Si ritrova ad essere l'unica ragazza in una classe di soli maschi e catalizza l'attenzione di tutti, in particolare quella di tre amici: Antero, affascinante e riservato; Pasini, seduttore istrionico; Mitis, bonaccione protettivo. I tre si appartengono da quando hanno memoria. L'arrivo di Fred sconvolge la loro omogeneità, mettendo a dura prova la loro amicizia. Mentre ognuno di loro la desidera segretamente per sé, Fred vuole essere ammessa nel gruppo, ma le viene chiesto continuamente di sacrificare qualcosa di sé per diventare una di loro.",
+    "title_en": "A Year of School",
+    "overview_en": "2007. Fred, a 17-year-old girl who just moved from Sweden to Northeast Italy, enrolls for her high school senior year—finding herself the only female student in an all-male class. Lively and good-looking, she quickly becomes the center of attention, especially for three classmates: Antero, charming and reserved; Pasini, a cocky womanizer; Mitis, gruff and sagacious. The three have been best friends for as long as they can remember, but Fred's arrival puts their longstanding bond to the test. As each of the guys secretly desires Fred for himself, she yearns to be accepted into the group and be considered 'one of them', but is asked to sacrifice more and more in order to belong.",
+    "runtime": 102,
+    "director": "Laura Samani",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1215532,
+    "title": "Hopper - Il segreto della marmotta",
+    "original_title": "Chickenhare and the Secret of the Groundhog",
+    "italian_title": "Hopper - Il segreto della marmotta",
+    "year": 2025,
+    "poster_path": "/bl96nTxJhqadBkUXKkgcSU5AxRG.jpg",
+    "overview": "Continuano le avventure dell'esploratore Hopper, sempre alla scoperta di mondi nuovi e affascinanti insieme agli inseparabili compagni Meg e Abe.  Tuttavia, il suo destino rischia di cambiare radicalmente quando incontra Gina, una misteriosa sconosciuta che si rivela essere sua sorella. Per la prima volta, Hopper scopre di non essere l’unico della sua specie. Diviso tra la lealtà verso il padre adottivo e il desiderio di aiutare i suoi simili, Hopper si ritrova a dover seguire il suo cuore e partire per una nuova avventura. Decide cosi di accompagnare Gina in una missione pericolosa: trovare l’unico potere capace di salvarli da una grave minaccia. La ricerca conduce i protagonisti sulle tracce della leggendaria marmotta in grado di manipolare il tempo. Tra superstizioni, enigmi e rivelazioni sul passato e futuro, Hopper, Abe e Meg affrontano un viaggio epico ricco di insidie, scoperte e colpi di scena.",
+    "title_en": "Chickenhare and the Secret of the Groundhog",
+    "overview_en": "Chickenhare embarks on an epic quest, a mysterious groundhog with the power to reverse time and save his species. His adventure takes a dangerous turn when his group discover they are not the only ones searching for this ancient power.",
+    "runtime": 88,
+    "director": "Benjamin Mousquet",
+    "genres": [
+      "Animazione",
+      "Avventura",
+      "Commedia",
+      "Famiglia"
     ]
   },
   {
@@ -2441,22 +2550,6 @@
       "Romance",
       "Dramma",
       "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1442922,
-    "title": "Un anno di scuola",
-    "original_title": "Un anno di scuola",
-    "italian_title": "Un anno di scuola",
-    "year": 2026,
-    "poster_path": "/8kGEfpIabMiaWpdMkTcNFclld5W.jpg",
-    "overview": "Settembre 2007, Trieste. Fred, diciottenne svedese esuberante e coraggiosa, arriva in città per frequentare l'ultimo anno di un Istituto Tecnico. Si ritrova ad essere l'unica ragazza in una classe di soli maschi e catalizza l'attenzione di tutti, in particolare quella di tre amici: Antero, affascinante e riservato; Pasini, seduttore istrionico; Mitis, bonaccione protettivo. I tre si appartengono da quando hanno memoria. L'arrivo di Fred sconvolge la loro omogeneità, mettendo a dura prova la loro amicizia. Mentre ognuno di loro la desidera segretamente per sé, Fred vuole essere ammessa nel gruppo, ma le viene chiesto continuamente di sacrificare qualcosa di sé per diventare una di loro.",
-    "title_en": "A Year of School",
-    "overview_en": "2007. Fred, a 17-year-old girl who just moved from Sweden to Northeast Italy, enrolls for her high school senior year—finding herself the only female student in an all-male class. Lively and good-looking, she quickly becomes the center of attention, especially for three classmates: Antero, charming and reserved; Pasini, a cocky womanizer; Mitis, gruff and sagacious. The three have been best friends for as long as they can remember, but Fred's arrival puts their longstanding bond to the test. As each of the guys secretly desires Fred for himself, she yearns to be accepted into the group and be considered 'one of them', but is asked to sacrifice more and more in order to belong.",
-    "runtime": 102,
-    "director": "Laura Samani",
-    "genres": [
-      "Dramma"
     ]
   },
   {

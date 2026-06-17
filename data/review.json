@@ -7,6 +7,13 @@
     "confidence": 91.89189189189189
   },
   {
+    "raw_title": "THE ODYSSEY - ODISSEA",
+    "tmdb_id": 42853,
+    "matched_title": "Odissea",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "DIAZ - NON PULITE QUESTO SANGUE",
     "tmdb_id": 96714,
     "matched_title": "Diaz - Non pulire questo sangue",
@@ -84,11 +91,11 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "V.O. SOTT. ITA - ALLORA BALLIAMO (PARTIR UN JOUR)",
-    "tmdb_id": 1277884,
-    "matched_title": "Allora balliamo",
+    "raw_title": "V. O. SOTT. ITA MARGHERITA GAUTHIER (CAMILLE)",
+    "tmdb_id": 43874,
+    "matched_title": "Margherita Gauthier",
     "method": "ai",
-    "confidence": 95.0
+    "confidence": 100.0
   },
   {
     "raw_title": "L'AMICO AMERICANO (DER AMERIKANISCHE FREUND)",
@@ -112,6 +119,13 @@
     "confidence": 95.0
   },
   {
+    "raw_title": "TRUFFA A REGOLA D'ARTE",
+    "tmdb_id": 97434,
+    "matched_title": "Gambit - Una truffa a regola d’arte",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "LE TIGRI DI MOMPRACEM (LOS TIGRES)",
     "tmdb_id": 1464374,
     "matched_title": "Le tigri di Mompracem",
@@ -129,6 +143,13 @@
     "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA) - V. O.",
     "tmdb_id": 1303613,
     "matched_title": "Il silenzio degli altri",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "ALICE NELLE CITTA' (ALICE IN DEN STADTEN)",
+    "tmdb_id": 2204,
+    "matched_title": "Alice nelle città",
     "method": "ai",
     "confidence": 100.0
   },

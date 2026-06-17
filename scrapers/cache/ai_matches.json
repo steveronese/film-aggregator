@@ -1,4 +1,8 @@
 {
+  "::extract::(jp) chao": {
+    "title": "(JP) Chao",
+    "year": null
+  },
   "::extract::(o.v.) the amazing digital circus": {
     "title": "The Amazing Digital Circus",
     "year": null
@@ -8,6 +12,10 @@
     "year": null
   },
   "::extract::(xl - kor) bts w.t. 'arirang' in busan": {
+    "title": "",
+    "year": null
+  },
+  "::extract::buffalo kids autism friendly": {
     "title": "",
     "year": null
   },
@@ -69,6 +77,10 @@
   },
   "::extract::notorious cult - disclosure day": {
     "title": "Notorious Cult",
+    "year": null
+  },
+  "::extract::operazione batiscafo trieste": {
+    "title": "Operazione Batiscafo Trieste",
     "year": null
   },
   "::extract::per una pace possibile": {
@@ -251,6 +263,10 @@
     "confidence": 95,
     "tmdb_id": 1431068
   },
+  "margherita gauthier camille": {
+    "confidence": 100,
+    "tmdb_id": 43874
+  },
   "no good men": {
     "confidence": null,
     "tmdb_id": null
@@ -283,9 +299,17 @@
     "confidence": null,
     "tmdb_id": null
   },
+  "the odyssey odissea": {
+    "confidence": 95,
+    "tmdb_id": 42853
+  },
   "tra amore e inganni you me tuscany": {
     "confidence": 100,
     "tmdb_id": 1455079
+  },
+  "truffa a regola d arte": {
+    "confidence": 100,
+    "tmdb_id": 97434
   },
   "tutto quello che resta di te all that s left of you": {
     "confidence": 95,
