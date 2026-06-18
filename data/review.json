@@ -14,18 +14,11 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "DIAZ - NON PULITE QUESTO SANGUE",
-    "tmdb_id": 96714,
-    "matched_title": "Diaz - Non pulire questo sangue",
+    "raw_title": "NOTTE AL MUSEO",
+    "tmdb_id": 1593,
+    "matched_title": "Una notte al museo",
     "method": "ai",
     "confidence": 100.0
-  },
-  {
-    "raw_title": "STILL WALKING",
-    "tmdb_id": 25050,
-    "matched_title": "Still Walking - Camminando in un giorno d'estate",
-    "method": "ai",
-    "confidence": 95.0
   },
   {
     "raw_title": "SCALFIRE LA ROCCIA",
@@ -47,13 +40,6 @@
     "matched_title": "Il diavolo veste Prada 2",
     "method": "ai",
     "confidence": 100.0
-  },
-  {
-    "raw_title": "V. O. SOTT. ITA MABOROSI NO HIKARI",
-    "tmdb_id": 18872,
-    "matched_title": "Maborosi - I bagliori dell'anima",
-    "method": "ai",
-    "confidence": 95.0
   },
   {
     "raw_title": "LE BAMBINE (MOSQUITOES)",
@@ -126,13 +112,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "LE TIGRI DI MOMPRACEM (LOS TIGRES)",
-    "tmdb_id": 1464374,
-    "matched_title": "Le tigri di Mompracem",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "LA CRONOLOGIA DELL'ACQUA (THE CHRONOLOGY OF WATER)",
     "tmdb_id": 524635,
     "matched_title": "La cronologia dell’acqua",
@@ -182,6 +161,13 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "I COLORI DEL TEMPO (LA VENUE DE L'AVENIR)",
+    "tmdb_id": 1235304,
+    "matched_title": "I colori del tempo",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "C'ERA UNA VOLTA MIA MADRE (MA MÈRE, DIEU ET SYLVIE VARTAN)",
     "tmdb_id": 1107215,
     "matched_title": "C'era una volta mia madre",
@@ -196,32 +182,11 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "Principessa Mononoke",
-    "tmdb_id": 128,
-    "matched_title": "Princess Mononoke",
-    "method": "fuzzy",
-    "confidence": 91.89189189189189
-  },
-  {
-    "raw_title": "Principessa Mononoke (Ried. 2026) 4k",
-    "tmdb_id": 128,
-    "matched_title": "Princess Mononoke",
-    "method": "fuzzy",
-    "confidence": 91.89189189189189
-  },
-  {
     "raw_title": "Scary Movie 6",
     "tmdb_id": 1273221,
     "matched_title": "Scary Movie",
     "method": "fuzzy",
     "confidence": 91.66666666666666
-  },
-  {
-    "raw_title": "Tra Amore & Inganni",
-    "tmdb_id": 1455079,
-    "matched_title": "Tra amore e inganni",
-    "method": "fuzzy",
-    "confidence": 94.44444444444444
   },
   {
     "raw_title": "(Ov Chinese Sub.) Toy Story 5",
@@ -231,13 +196,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "Still Walking",
-    "tmdb_id": 25050,
-    "matched_title": "Still Walking - Camminando in un giorno d'estate",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "(O.V.) The Odissey",
     "tmdb_id": 1368337,
     "matched_title": "Odissea",
@@ -245,31 +203,10 @@
     "confidence": 90.9090909090909
   },
   {
-    "raw_title": "Principessa Mononoke (Ried. 2026)",
-    "tmdb_id": 128,
-    "matched_title": "Princess Mononoke",
-    "method": "fuzzy",
-    "confidence": 91.89189189189189
-  },
-  {
-    "raw_title": "Rufus - Il Draghetto Marino",
-    "tmdb_id": 1512207,
-    "matched_title": "Rufus - Il draghetto marino che non sapeva nuotare",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "The Mandalorian & Grogu",
     "tmdb_id": 1228710,
     "matched_title": "The Mandalorian and Grogu",
     "method": "fuzzy",
     "confidence": 91.30434782608697
-  },
-  {
-    "raw_title": "STAR WARS - THE MANDALORIAN AND GROGU",
-    "tmdb_id": 1228710,
-    "matched_title": "The Mandalorian and Grogu",
-    "method": "ai",
-    "confidence": 100.0
   }
 ]
