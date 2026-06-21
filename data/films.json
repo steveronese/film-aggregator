@@ -1,56 +1,5 @@
 [
   {
-    "tmdb_id": 128,
-    "title": "Princess Mononoke",
-    "original_title": "もののけ姫",
-    "italian_title": "Princess Mononoke",
-    "year": 1997,
-    "poster_path": "/3alL6upCn0GX9Rp1RXtGzmJbEQa.jpg",
-    "overview": "In seguito allo scontro con un animale posseduto da un demone il principe Ashitaka viene contaminato da una maledizione mortale. Si mette dunque in viaggio per scoprirne l'origine e chiedere una cura al grande Dio Bestia, l'unico in grado di guarirlo. Arrivato nelle regioni da cui proveniva la bestia scopre una guerra tra uomini e una forma primitiva di animali della foresta, giganti, senzienti e aiutati da quella che chiamano la Principessa Spettro, una ragazza cresciuta dai lupi che ha rinnegato gli uomini. Dall'altra parte gli uomini, capitanati da Lady Eboshi che gestisce con amore, giustizia e pietà il suo villaggio di fabbri, vogliono lavorare la montagna e abbattere gli alberi per poter estrarre il ferro (fonte di ricchezza). In mezzo un gruppo di monaci cerca di fomentare gli uomini ad uccidere il Dio Bestia e rubarne la testa perchè, si dice, fornisca l'eterna giovinezza.",
-    "title_en": "Princess Mononoke",
-    "overview_en": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
-    "runtime": 134,
-    "director": "Hayao Miyazaki",
-    "genres": [
-      "Avventura",
-      "Fantasy",
-      "Animazione"
-    ]
-  },
-  {
-    "tmdb_id": 1339713,
-    "title": "Obsession",
-    "original_title": "Obsession",
-    "italian_title": "Obsession",
-    "year": 2026,
-    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
-    "title_en": "Obsession",
-    "overview_en": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "runtime": 108,
-    "director": "Curry Barker",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1182861,
-    "title": "Romería - Il mare dei ricordi",
-    "original_title": "Romería",
-    "italian_title": "Romería - Il mare dei ricordi",
-    "year": 2025,
-    "poster_path": "/slGOQOlGlY3wnP4Vmuf4nmZUwuH.jpg",
-    "overview": "Marina, 18 anni, rimasta orfana in tenerissima età, giunge in Galizia sulle tracce della famiglia del padre biologico. Qui, mentre incontra zii, cugini e parenti mai conosciuti prima, cercherà di ricomporre i ricordi, talvolta contraddittori, dei suoi genitori e del loro amore travolgente, riportando alla luce emozioni familiari a lungo sepolte, verità non dette e ferite mai del tutto rimarginate. La regista Orso d’Oro Carla Simón gira con il ritmo dolce di una placida marea un film intenso, intimo e personale, una storia sulle radici ritrovate, sui legami familiari e su ciò che non abbiamo il coraggio di dire ad alta voce, neanche quando ce ne sarebbe un enorme bisogno.",
-    "title_en": "Romería",
-    "overview_en": "With her mother's diary in hand, Marina's search for official documents for university leads her to her biological family on the Atlantic coast. What starts as an administrative quest reveals long-buried family secrets.",
-    "runtime": 112,
-    "director": "Carla Simón",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 60732,
     "title": "La messa è finita",
     "original_title": "La messa è finita",
@@ -64,42 +13,6 @@
     "director": "Nanni Moretti",
     "genres": [
       "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1275779,
-    "title": "Disclosure Day",
-    "original_title": "Disclosure Day",
-    "italian_title": "Disclosure Day",
-    "year": 2026,
-    "poster_path": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
-    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
-    "title_en": "Disclosure Day",
-    "overview_en": "A cybersecurity expert becomes a whistleblower to reveal secrets about aliens, putting him on the run from a corporation while a meteorologist experiences strange phenomena and joins forces with him to prove there's life beyond our knowledge.",
-    "runtime": 145,
-    "director": "Steven Spielberg",
-    "genres": [
-      "Mistero",
-      "Fantascienza",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1083381,
-    "title": "Backrooms",
-    "original_title": "Backrooms",
-    "italian_title": "Backrooms",
-    "year": 2026,
-    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
-    "title_en": "Backrooms",
-    "overview_en": "A strange doorway appears in the basement of a furniture showroom.",
-    "runtime": 111,
-    "director": "Kane Parsons",
-    "genres": [
-      "Horror",
-      "Mistero",
-      "Fantascienza"
     ]
   },
   {
@@ -133,6 +46,59 @@
     "director": "Kristen Stewart",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1083381,
+    "title": "Backrooms",
+    "original_title": "Backrooms",
+    "italian_title": "Backrooms",
+    "year": 2026,
+    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
+    "title_en": "Backrooms",
+    "overview_en": "A strange doorway appears in the basement of a furniture showroom.",
+    "runtime": 111,
+    "director": "Kane Parsons",
+    "genres": [
+      "Horror",
+      "Mistero",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 1339713,
+    "title": "Obsession",
+    "original_title": "Obsession",
+    "italian_title": "Obsession",
+    "year": 2026,
+    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
+    "title_en": "Obsession",
+    "overview_en": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "runtime": 108,
+    "director": "Curry Barker",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1275779,
+    "title": "Disclosure Day",
+    "original_title": "Disclosure Day",
+    "italian_title": "Disclosure Day",
+    "year": 2026,
+    "poster_path": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
+    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
+    "title_en": "Disclosure Day",
+    "overview_en": "A cybersecurity expert becomes a whistleblower to reveal secrets about aliens, putting him on the run from a corporation while a meteorologist experiences strange phenomena and joins forces with him to prove there's life beyond our knowledge.",
+    "runtime": 145,
+    "director": "Steven Spielberg",
+    "genres": [
+      "Mistero",
+      "Fantascienza",
+      "Thriller"
     ]
   },
   {
@@ -171,6 +137,22 @@
     ]
   },
   {
+    "tmdb_id": 1182861,
+    "title": "Romería - Il mare dei ricordi",
+    "original_title": "Romería",
+    "italian_title": "Romería - Il mare dei ricordi",
+    "year": 2025,
+    "poster_path": "/slGOQOlGlY3wnP4Vmuf4nmZUwuH.jpg",
+    "overview": "Marina, 18 anni, rimasta orfana in tenerissima età, giunge in Galizia sulle tracce della famiglia del padre biologico. Qui, mentre incontra zii, cugini e parenti mai conosciuti prima, cercherà di ricomporre i ricordi, talvolta contraddittori, dei suoi genitori e del loro amore travolgente, riportando alla luce emozioni familiari a lungo sepolte, verità non dette e ferite mai del tutto rimarginate. La regista Orso d’Oro Carla Simón gira con il ritmo dolce di una placida marea un film intenso, intimo e personale, una storia sulle radici ritrovate, sui legami familiari e su ciò che non abbiamo il coraggio di dire ad alta voce, neanche quando ce ne sarebbe un enorme bisogno.",
+    "title_en": "Romería",
+    "overview_en": "With her mother's diary in hand, Marina's search for official documents for university leads her to her biological family on the Atlantic coast. What starts as an administrative quest reveals long-buried family secrets.",
+    "runtime": 112,
+    "director": "Carla Simón",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1022888,
     "title": "Ti auguro ogni bene",
     "original_title": "I Wish You All the Best",
@@ -203,6 +185,24 @@
       "televisione film",
       "Avventura",
       "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 10226,
+    "title": "Alta tensione",
+    "original_title": "Haute tension",
+    "italian_title": "Alta tensione",
+    "year": 2003,
+    "poster_path": "/f6k2jfvbn4XJwSW6tczcv3JQmF3.jpg",
+    "overview": "Aléx e Marie, due studentesse, vanno a preparare gli esami universitari in campagna, a casa dei genitori di Aléx. Dopo cena suona alla porta uno psicopatico che stermina la famiglia e rapisce Aléx, ma non si accorge della presenza di Marie, la quale lo segue per salvare l’amica, anche se...",
+    "title_en": "High Tension",
+    "overview_en": "Best friends Marie and Alexia decide to spend a quiet weekend at Alexia's parents' secluded farmhouse. But on the night of their arrival, the girls' idyllic getaway turns into an endless night of horror.",
+    "runtime": 91,
+    "director": "Alexandre Aja",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mistero"
     ]
   },
   {
@@ -240,74 +240,6 @@
     ]
   },
   {
-    "tmdb_id": 2011,
-    "title": "Persepolis",
-    "original_title": "Persepolis",
-    "italian_title": "Persepolis",
-    "year": 2007,
-    "poster_path": "/dUvdyb2rkChGjDJELiuMXpChsqg.jpg",
-    "overview": "La storia di Marjane, una ragazza precoce e ribelle che, cresciuta portando scarpe da ginnastica e giocando alla lotta con i maschietti, si trova costretta ad affrontare, dall'infanzia all'età adulta,  drastici cambiamenti delle proprie abitudini di vita imposti prima dalla monarchia dello Scià e poi dal regime degli ayatollah, fino alla sua partenza per l'Europa.",
-    "title_en": "Persepolis",
-    "overview_en": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
-    "runtime": 95,
-    "director": "Vincent Paronnaud, Marjane Satrapi",
-    "genres": [
-      "Animazione",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 71822,
-    "title": "Il mistero Picasso",
-    "original_title": "Le Mystère Picasso",
-    "italian_title": "Il mistero Picasso",
-    "year": 1956,
-    "poster_path": "/4oaaQWCvpaMhjHGklowwB5ednRL.jpg",
-    "overview": null,
-    "title_en": "The Mystery of Picasso",
-    "overview_en": "Using a specially designed transparent 'canvas' to provide an unobstructed view, Picasso creates as the camera rolls. He begins with simple works that take shape after only a single brush stroke. He then progresses to more complex paintings, in which he repeatedly adds and removes elements, transforming the entire scene at will, until at last the work is complete.",
-    "runtime": 78,
-    "director": "Henri-Georges Clouzot",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 957,
-    "title": "Balle spaziali",
-    "original_title": "Spaceballs",
-    "italian_title": "Balle spaziali",
-    "year": 1987,
-    "poster_path": "/nIkJClHiF1DBImRBnTJBDf2rbVK.jpg",
-    "overview": "Stella Solitaria, un eroe dello spazio senza paura e senza cervello, insieme al compagno Rutto, mezzo cane e mezzo uomo, intraprendono una guerra interstellare per liberare la principessa Vespa dalle grinfie del malvagio Casco Nero. Sulla loro strada dovranno affrontare l'enorme e appiccicosa Pizza Margherita, un robot impertinente chiamato Dot Matrix e una saggia piccola creatura, Yogurt, che insegnerà loro a usare il potere mistico dello Sforzo per portare la pace e ricche opportunità di commercio nella galassia. Parodiando senza pietà ogni film del genere epico-fantascentifico, da Star Wars a Star Trek, questo film vanta un cast di pazzi cosmici e offre un divertimento assicurato.",
-    "title_en": "Spaceballs",
-    "overview_en": "When the nefarious Dark Helmet hatches a plan to snatch Princess Vespa and steal her planet's air, space-bum-for-hire Lone Starr and his clueless sidekick fly to the rescue. Along the way, they meet Yogurt, who puts Lone Starr wise to the power of \"The Schwartz.\" Can he master it in time to save the day?",
-    "runtime": 96,
-    "director": "Mel Brooks",
-    "genres": [
-      "Commedia",
-      "Fantascienza"
-    ]
-  },
-  {
-    "tmdb_id": 10226,
-    "title": "Alta tensione",
-    "original_title": "Haute tension",
-    "italian_title": "Alta tensione",
-    "year": 2003,
-    "poster_path": "/f6k2jfvbn4XJwSW6tczcv3JQmF3.jpg",
-    "overview": "Aléx e Marie, due studentesse, vanno a preparare gli esami universitari in campagna, a casa dei genitori di Aléx. Dopo cena suona alla porta uno psicopatico che stermina la famiglia e rapisce Aléx, ma non si accorge della presenza di Marie, la quale lo segue per salvare l’amica, anche se...",
-    "title_en": "High Tension",
-    "overview_en": "Best friends Marie and Alexia decide to spend a quiet weekend at Alexia's parents' secluded farmhouse. But on the night of their arrival, the girls' idyllic getaway turns into an endless night of horror.",
-    "runtime": 91,
-    "director": "Alexandre Aja",
-    "genres": [
-      "Horror",
-      "Thriller",
-      "Mistero"
-    ]
-  },
-  {
     "tmdb_id": 29084,
     "title": "Il corvo",
     "original_title": "Le Corbeau",
@@ -341,6 +273,24 @@
       "Horror",
       "Thriller",
       "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 128,
+    "title": "Princess Mononoke",
+    "original_title": "もののけ姫",
+    "italian_title": "Princess Mononoke",
+    "year": 1997,
+    "poster_path": "/3alL6upCn0GX9Rp1RXtGzmJbEQa.jpg",
+    "overview": "In seguito allo scontro con un animale posseduto da un demone il principe Ashitaka viene contaminato da una maledizione mortale. Si mette dunque in viaggio per scoprirne l'origine e chiedere una cura al grande Dio Bestia, l'unico in grado di guarirlo. Arrivato nelle regioni da cui proveniva la bestia scopre una guerra tra uomini e una forma primitiva di animali della foresta, giganti, senzienti e aiutati da quella che chiamano la Principessa Spettro, una ragazza cresciuta dai lupi che ha rinnegato gli uomini. Dall'altra parte gli uomini, capitanati da Lady Eboshi che gestisce con amore, giustizia e pietà il suo villaggio di fabbri, vogliono lavorare la montagna e abbattere gli alberi per poter estrarre il ferro (fonte di ricchezza). In mezzo un gruppo di monaci cerca di fomentare gli uomini ad uccidere il Dio Bestia e rubarne la testa perchè, si dice, fornisca l'eterna giovinezza.",
+    "title_en": "Princess Mononoke",
+    "overview_en": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+    "runtime": 134,
+    "director": "Hayao Miyazaki",
+    "genres": [
+      "Avventura",
+      "Fantasy",
+      "Animazione"
     ]
   },
   {
@@ -909,6 +859,57 @@
     ]
   },
   {
+    "tmdb_id": 10322,
+    "title": "Oltre il giardino",
+    "original_title": "Being There",
+    "italian_title": "Oltre il giardino",
+    "year": 1979,
+    "poster_path": "/4OBTGWwNwvLST0at0s94BdNkDXU.jpg",
+    "overview": "Un cinquantenne analfabeta, che ha vissuto tutta la vita curando il giardino di un vecchio signore, conosce per caso la moglie di un magnate, che lo scambia per un raffinato e bizzarro gentiluomo. Il marito, poi, lo crede una grande mente politica. E così pure mezza Washington, che pensa addirittura di portarlo alla presidenza degli Usa.",
+    "title_en": "Being There",
+    "overview_en": "A simple-minded gardener named Chance has spent all his life in the Washington D.C. house of an old man. When the man dies, Chance is put out on the street with no knowledge of the world except what he has learned from television.",
+    "runtime": 130,
+    "director": "Hal Ashby",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 153,
+    "title": "Lost in Translation - L'amore tradotto",
+    "original_title": "Lost in Translation",
+    "italian_title": "Lost in Translation - L'amore tradotto",
+    "year": 2003,
+    "poster_path": "/yGVhHMLgvPwXszMOxj1BLnInIZ7.jpg",
+    "overview": "Bob Harris e Charlotte sono due americani a Tokyo. Bob è una star del cinema ed è a Tokyo per girare uno spot pubblicitario per una marca di whisky, mentre Charlotte è una giovane donna che arranca dietro al marito fotografo instancabile. Colpiti entrambi da insonnia, Bob e Charlotte s'incontrano una notte per caso nel bar dell'hotel dove alloggiano.",
+    "title_en": "Lost in Translation",
+    "overview_en": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+    "runtime": 102,
+    "director": "Sofia Coppola",
+    "genres": [
+      "Dramma",
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 216790,
+    "title": "Sacro GRA",
+    "original_title": "Sacro GRA",
+    "italian_title": "Sacro GRA",
+    "year": 2013,
+    "poster_path": "/dGYMAWlPAwsuMURdU8UkKLdVnG4.jpg",
+    "overview": "Intorno al Grande raccordo anulare di Roma (GRA) si svolgono diverse esistenze. Un nobile piemontese decaduto che vive con la figlia in un appartamento in periferia (accanto ad un dj indiano), un pescatore d'anguille, un esperto botanico che combatte per la sopravvivenza delle palme, un paramedico con una madre affetta da demenza senile, delle prostitute transessuali...",
+    "title_en": "Sacro GRA",
+    "overview_en": "After the India of Varanasi’s boatmen, the American desert of the dropouts, and the Mexico of the killers of drugtrade, Gianfranco Rosi has decided to tell the tale of a part of his own country, roaming and filming for over two years in a minivan on Rome’s giant ring road—the Grande Raccordo Anulare, or GRA—to discover the invisible worlds and possible futures harbored in this area of constant turmoil. Elusive characters and fleeting apparitions emerge from the background of the winding zone: a nobleman from the Piemonte region and his college student daughter sharing a one-room efficiency in a modern apartment building along the GRA.",
+    "runtime": 95,
+    "director": "Gianfranco Rosi",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
     "tmdb_id": 1368337,
     "title": "Odissea",
     "original_title": "The Odyssey",
@@ -1128,22 +1129,6 @@
       "Dramma",
       "Romance",
       "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1707587,
-    "title": "Tullio Kezich. a proposito di me",
-    "original_title": "Tullio Kezich. a proposito di me",
-    "italian_title": "Tullio Kezich. a proposito di me",
-    "year": null,
-    "poster_path": "/nNeb27Jxf74ikEMvGUHt5juwo2h.jpg",
-    "overview": null,
-    "title_en": "Tullio Kezich. a proposito di me",
-    "overview_en": "An accurate biographical reconstruction dedicated to the master critic Tullio Kezich. A man who transformed his passion for cinema into a true art form.",
-    "runtime": 60,
-    "director": "Gioia Magrini",
-    "genres": [
-      "Documentario"
     ]
   },
   {
@@ -1529,23 +1514,6 @@
     ]
   },
   {
-    "tmdb_id": 1235304,
-    "title": "I colori del tempo",
-    "original_title": "La Venue de l'avenir",
-    "italian_title": "I colori del tempo",
-    "year": 2025,
-    "poster_path": "/vBgjKGLcvlIEfV0SMIJuTSaQnMT.jpg",
-    "overview": "Nella Francia di oggi, un gruppo di sconosciuti viene riunito in quanto discendente di Adèle, donna di fine ottocento che dalla Normandia era partita alla volta di Parigi in cerca della madre che l'aveva abbandonata. Dovendo ispezionare la casa in rovina di Adèle per decidere cosa fare della proprietà, gli emissari del gruppo - Guy, Céline, Seb e Abdel - mettono insieme pezzo dopo pezzo il lontano passato della loro famiglia. Parallelamente, durante la Belle Époque, Adèle si avventura nella grande città assieme ai nuovi amici Lucien e Anatole, scoprendo una capitale nel vortice del cambiamento, tra zone ancora rurali e i salotti della borghesia moderna, e tra le arti figurative e l'avvento della fotografia.",
-    "title_en": "Colours of Time",
-    "overview_en": "United by the unexpected inheritance of a house in Normandy, four estranged cousins discover their family history by retracing their ancestor's steps.",
-    "runtime": 126,
-    "director": "Cédric Klapisch",
-    "genres": [
-      "Dramma",
-      "Commedia"
-    ]
-  },
-  {
     "tmdb_id": 687163,
     "title": "L'ultima missione: Project Hail Mary",
     "original_title": "Project Hail Mary",
@@ -1667,22 +1635,6 @@
     ]
   },
   {
-    "tmdb_id": 1315657,
-    "title": "Yellow Letters",
-    "original_title": "Gelbe Briefe",
-    "italian_title": "Yellow Letters",
-    "year": 2026,
-    "poster_path": "/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
-    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
-    "title_en": "Yellow Letters",
-    "overview_en": "The marriage of Derya and Aziz is under pressure after losing their jobs because of state arbitrariness and moving to Istanbul to live with Aziz's parents. They and their 13-year-old daughter Ezgi have to redefine their way of life.",
-    "runtime": 128,
-    "director": "İlker Çatak",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1291202,
     "title": "Duse",
     "original_title": "Duse",
@@ -1697,6 +1649,22 @@
     "genres": [
       "Dramma",
       "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1315657,
+    "title": "Yellow Letters",
+    "original_title": "Gelbe Briefe",
+    "italian_title": "Yellow Letters",
+    "year": 2026,
+    "poster_path": "/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
+    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
+    "title_en": "Yellow Letters",
+    "overview_en": "The marriage of Derya and Aziz is under pressure after losing their jobs because of state arbitrariness and moving to Istanbul to live with Aziz's parents. They and their 13-year-old daughter Ezgi have to redefine their way of life.",
+    "runtime": 128,
+    "director": "İlker Çatak",
+    "genres": [
+      "Dramma"
     ]
   },
   {
@@ -2097,6 +2065,23 @@
     ]
   },
   {
+    "tmdb_id": 1559944,
+    "title": "Il principe della follia",
+    "original_title": "Il principe della follia",
+    "italian_title": "Il principe della follia",
+    "year": 2026,
+    "poster_path": "/2JdAjMKireU64zSED5lSRIL7RiI.jpg",
+    "overview": "Una notte, ciò che sembrava routine si trasforma in un viaggio perturbante tra memorie spezzate, rimorsi e segreti familiari. Un tassista solitario si imbatte in una realtà allucinata e crudele, dove la sofferenza diventa spettacolo e la fragilità viene messa in vendita come merce di consumo. Al centro, la vicenda di un uomo segnato dalla malattia e dall’esclusione, che incarna il dolore di chi vive in bilico tra dignità e abbandono, e quello di una famiglia travolta dal peso insostenibile della disabilità. In questo intreccio di vite spezzate e desideri irrealizzati non esistono veri colpevoli né assoluzioni facili: ci sono solo esseri umani, feriti e vulnerabili, che cercano un varco per ritrovare la propria umanità. Tra visioni poetiche e momenti di crudele realismo, la storia conduce lo spettatore in un’esperienza emotiva potente, dove la fragilità diventa specchio di una forza collettiva capace di trasformare il dolore in possibilità di rinascita",
+    "title_en": "Il principe della follia",
+    "overview_en": null,
+    "runtime": 90,
+    "director": "Dario D'Ambrosi",
+    "genres": [
+      "Commedia",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 1215532,
     "title": "Hopper - Il segreto della marmotta",
     "original_title": "Chickenhare and the Secret of the Groundhog",
@@ -2113,22 +2098,6 @@
       "Avventura",
       "Commedia",
       "Famiglia"
-    ]
-  },
-  {
-    "tmdb_id": 1517069,
-    "title": "Marc by Sofia",
-    "original_title": "Marc by Sofia",
-    "italian_title": "Marc by Sofia",
-    "year": 2026,
-    "poster_path": "/oFIW0VvoxPWCC15trTNzaMzpc7r.jpg",
-    "overview": "Un ritratto intimo e anticonvenzionale di Marc Jacobs per restituire il genio e l’universo straordinario del leggendario stilista americano.",
-    "title_en": "Marc by Sofia",
-    "overview_en": "An intimate, unconventional portrait of Marc Jacobs, crafted by Sofia Coppola to capture the genius and singular universe of the iconic American designer.",
-    "runtime": 87,
-    "director": "Sofia Coppola",
-    "genres": [
-      "Documentario"
     ]
   },
   {
@@ -2230,24 +2199,6 @@
     "director": "Ettore Scola",
     "genres": [
       "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 153,
-    "title": "Lost in Translation - L'amore tradotto",
-    "original_title": "Lost in Translation",
-    "italian_title": "Lost in Translation - L'amore tradotto",
-    "year": 2003,
-    "poster_path": "/yGVhHMLgvPwXszMOxj1BLnInIZ7.jpg",
-    "overview": "Bob Harris e Charlotte sono due americani a Tokyo. Bob è una star del cinema ed è a Tokyo per girare uno spot pubblicitario per una marca di whisky, mentre Charlotte è una giovane donna che arranca dietro al marito fotografo instancabile. Colpiti entrambi da insonnia, Bob e Charlotte s'incontrano una notte per caso nel bar dell'hotel dove alloggiano.",
-    "title_en": "Lost in Translation",
-    "overview_en": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
-    "runtime": 102,
-    "director": "Sofia Coppola",
-    "genres": [
-      "Dramma",
-      "Commedia",
-      "Romance"
     ]
   },
   {
