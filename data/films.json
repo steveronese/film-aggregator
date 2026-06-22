@@ -1,5 +1,57 @@
 [
   {
+    "tmdb_id": 1083381,
+    "title": "Backrooms",
+    "original_title": "Backrooms",
+    "italian_title": "Backrooms",
+    "year": 2026,
+    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
+    "title_en": "Backrooms",
+    "overview_en": "A strange doorway appears in the basement of a furniture showroom.",
+    "runtime": 111,
+    "director": "Kane Parsons",
+    "genres": [
+      "Horror",
+      "Mistero",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 1339713,
+    "title": "Obsession",
+    "original_title": "Obsession",
+    "italian_title": "Obsession",
+    "year": 2026,
+    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
+    "title_en": "Obsession",
+    "overview_en": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "runtime": 108,
+    "director": "Curry Barker",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1370210,
+    "title": "Yalla Parkour",
+    "original_title": "يلّا باركور",
+    "italian_title": "Yalla Parkour",
+    "year": 2024,
+    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
+    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
+    "title_en": "Yalla Parkour",
+    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
+    "runtime": 89,
+    "director": "Areeb Zuaiter",
+    "genres": [
+      "Documentario",
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 60732,
     "title": "La messa è finita",
     "original_title": "La messa è finita",
@@ -49,41 +101,6 @@
     ]
   },
   {
-    "tmdb_id": 1083381,
-    "title": "Backrooms",
-    "original_title": "Backrooms",
-    "italian_title": "Backrooms",
-    "year": 2026,
-    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
-    "title_en": "Backrooms",
-    "overview_en": "A strange doorway appears in the basement of a furniture showroom.",
-    "runtime": 111,
-    "director": "Kane Parsons",
-    "genres": [
-      "Horror",
-      "Mistero",
-      "Fantascienza"
-    ]
-  },
-  {
-    "tmdb_id": 1339713,
-    "title": "Obsession",
-    "original_title": "Obsession",
-    "italian_title": "Obsession",
-    "year": 2026,
-    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
-    "title_en": "Obsession",
-    "overview_en": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "runtime": 108,
-    "director": "Curry Barker",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ]
-  },
-  {
     "tmdb_id": 1275779,
     "title": "Disclosure Day",
     "original_title": "Disclosure Day",
@@ -99,23 +116,6 @@
       "Mistero",
       "Fantascienza",
       "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1370210,
-    "title": "Yalla Parkour",
-    "original_title": "يلّا باركور",
-    "italian_title": "Yalla Parkour",
-    "year": 2024,
-    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
-    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
-    "title_en": "Yalla Parkour",
-    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
-    "runtime": 89,
-    "director": "Areeb Zuaiter",
-    "genres": [
-      "Documentario",
-      "Dramma"
     ]
   },
   {
@@ -185,112 +185,6 @@
       "televisione film",
       "Avventura",
       "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 10226,
-    "title": "Alta tensione",
-    "original_title": "Haute tension",
-    "italian_title": "Alta tensione",
-    "year": 2003,
-    "poster_path": "/f6k2jfvbn4XJwSW6tczcv3JQmF3.jpg",
-    "overview": "Aléx e Marie, due studentesse, vanno a preparare gli esami universitari in campagna, a casa dei genitori di Aléx. Dopo cena suona alla porta uno psicopatico che stermina la famiglia e rapisce Aléx, ma non si accorge della presenza di Marie, la quale lo segue per salvare l’amica, anche se...",
-    "title_en": "High Tension",
-    "overview_en": "Best friends Marie and Alexia decide to spend a quiet weekend at Alexia's parents' secluded farmhouse. But on the night of their arrival, the girls' idyllic getaway turns into an endless night of horror.",
-    "runtime": 91,
-    "director": "Alexandre Aja",
-    "genres": [
-      "Horror",
-      "Thriller",
-      "Mistero"
-    ]
-  },
-  {
-    "tmdb_id": 1382513,
-    "title": "Hen - Storia di una Gallina",
-    "original_title": "Κότα",
-    "italian_title": "Hen - Storia di una Gallina",
-    "year": 2026,
-    "poster_path": "/6VAHRoUQLfNXG8mYz3NVgT0ADFd.jpg",
-    "overview": "L’autore dell’indimenticato Taxidermia (Cannes 2006) racconta la storia di una gallina, a partire dall’uovo che viene deposto. E adotta il punto di vista del volatile con un effetto spiazzante, inquietante e postumano. Perché la gallina – che è ostinata, resiliente, determinata a crescere i propri cuccioli e a conservare la propria libertà – oltre ad altri animali (una volpe, un topo, un verme, un falco, un cane, dei dinosauri in un documentario televisivo), incrocia inevitabilmente anche gli uomini, la loro violenza, le loro tragedie e ingiustizie, grandi e piccole: a volte come ignara testimone, a volte come elemento involontariamente scatenante.",
-    "title_en": "Hen",
-    "overview_en": "Escaping from a chicken farm, a hen finds refuge in the courtyard of a crumbling restaurant. There, she discovers love, confronts the pecking order, and fights to protect her eggs from a greedy owner. Her droll yet touching quest for motherhood mirrors the messy compromises and silent struggles of human lives.",
-    "runtime": 97,
-    "director": "Pálfi György",
-    "genres": [
-      "Avventura",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1340206,
-    "title": "Tuner - L’accordatore",
-    "original_title": "Tuner",
-    "italian_title": "Tuner - L’accordatore",
-    "year": 2026,
-    "poster_path": "/8FpjELUTd4mBhbvyq0Ke5irAUh4.jpg",
-    "overview": "Niki è un ex bambino prodigio del pianoforte con un dono rarissimo: un udito assoluto capace di cogliere ogni vibrazione, ogni micro–suono nascosto nel mondo. Un talento straordinario, ma anche una condanna. La sua ipersensibilità ai rumori è talmente acuta da costringerlo a indossare protezioni auricolari e ad abbandonare il sogno di diventare pianista. Il giovane si reinventa così come accordatore di pianoforti, preciso e solitario, ma la sua vita tranquilla cambia quando qualcuno scopre che il suo orecchio perfetto può essere usato per molto più che accordare strumenti. Da quel momento Niki si ritrova coinvolto in un gioco che non ha scelto e dovrà fare i conti con il peso del suo dono e con i limiti che gli ha imposto per anni.",
-    "title_en": "Tuner",
-    "overview_en": "A talented piano tuner's life is turned upside down when he discovers that his meticulous skills for tuning pianos can equally be applied to cracking safes.",
-    "runtime": 107,
-    "director": "Daniel Roher",
-    "genres": [
-      "Crime",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 29084,
-    "title": "Il corvo",
-    "original_title": "Le Corbeau",
-    "italian_title": "Il corvo",
-    "year": 1943,
-    "poster_path": "/jRlIteWZacu67uquoaD39zNMwEt.jpg",
-    "overview": "Un paesino della provincia francese viene sconvolto da una serie di lettere anonime che colpiscono uno stimato professionista. Si tratta del dottor Germain che viene accusato d'essere l'amante di Laura, la moglie del dottor Vorzet. Poi tutti si sentono chiamati in causa, mentre l'inchiesta langue.",
-    "title_en": "Le Corbeau",
-    "overview_en": "Remy Germain is a doctor in a French town who becomes the focus of a vicious smear campaign, as letters accusing him of having an affair and performing unlawful abortions are mailed to village leaders. The mysterious writer, who signs each letter as \"Le Corbeau\" (The Raven) soon targets the whole town, exposing everyone's dark secrets.",
-    "runtime": 93,
-    "director": "Henri-Georges Clouzot",
-    "genres": [
-      "Mistero",
-      "Dramma",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 539,
-    "title": "Psyco",
-    "original_title": "Psycho",
-    "italian_title": "Psyco",
-    "year": 1960,
-    "poster_path": "/tdqX0MWaFHuGwUygYn7j6eluOdP.jpg",
-    "overview": "Marion Crane, impiegata in una società immobiliare, scappa con 40.000$ rubati dalle casse della ditta. Durante la fuga verso casa del fidanzato però, decide di fermarsi nel Motel gestito dal giovane Norman Bates e dalla madre, che però vive rintanata nella casa attigua al Motel stesso.  Il capolavoro di Alfred Hitchcock.",
-    "title_en": "Psycho",
-    "overview_en": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
-    "runtime": 109,
-    "director": "Alfred Hitchcock",
-    "genres": [
-      "Horror",
-      "Thriller",
-      "Mistero"
-    ]
-  },
-  {
-    "tmdb_id": 128,
-    "title": "Princess Mononoke",
-    "original_title": "もののけ姫",
-    "italian_title": "Princess Mononoke",
-    "year": 1997,
-    "poster_path": "/3alL6upCn0GX9Rp1RXtGzmJbEQa.jpg",
-    "overview": "In seguito allo scontro con un animale posseduto da un demone il principe Ashitaka viene contaminato da una maledizione mortale. Si mette dunque in viaggio per scoprirne l'origine e chiedere una cura al grande Dio Bestia, l'unico in grado di guarirlo. Arrivato nelle regioni da cui proveniva la bestia scopre una guerra tra uomini e una forma primitiva di animali della foresta, giganti, senzienti e aiutati da quella che chiamano la Principessa Spettro, una ragazza cresciuta dai lupi che ha rinnegato gli uomini. Dall'altra parte gli uomini, capitanati da Lady Eboshi che gestisce con amore, giustizia e pietà il suo villaggio di fabbri, vogliono lavorare la montagna e abbattere gli alberi per poter estrarre il ferro (fonte di ricchezza). In mezzo un gruppo di monaci cerca di fomentare gli uomini ad uccidere il Dio Bestia e rubarne la testa perchè, si dice, fornisca l'eterna giovinezza.",
-    "title_en": "Princess Mononoke",
-    "overview_en": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
-    "runtime": 134,
-    "director": "Hayao Miyazaki",
-    "genres": [
-      "Avventura",
-      "Fantasy",
-      "Animazione"
     ]
   },
   {
@@ -910,6 +804,57 @@
     ]
   },
   {
+    "tmdb_id": 1232424,
+    "title": "My Stolen Planet",
+    "original_title": "My Stolen Planet",
+    "italian_title": "My Stolen Planet",
+    "year": 2024,
+    "poster_path": "/avhve60BPmzTyZ8ApQp4KIFb9ag.jpg",
+    "overview": null,
+    "title_en": "My Stolen Planet",
+    "overview_en": "Farah, an Iranian woman, is forced to migrate to her private planet to be free. She buys other people’s memories in form of Super 8 films and records and archives her own to create an alternative history of Iran.",
+    "runtime": 82,
+    "director": "فرحناز شریفی",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 205,
+    "title": "Hotel Rwanda",
+    "original_title": "Hotel Rwanda",
+    "italian_title": "Hotel Rwanda",
+    "year": 2004,
+    "poster_path": "/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
+    "overview": "La storia vera di Paul Rusesabagina, direttore di un hotel a quattro stelle in Rwanda, che ha aiutato milioni di rifugiati Tutsi a nascondersi dalle milizie Hutu che negli anni '90 scatenarono il terrore nello stato africano. Allo scoppio del conflitto, non si limita a mettere in salvo i suoi familiari, ma, facendo leva sui suoi privilegi lavorativi, apre le porte dell'hotel a quanti rischiavano di essere uccisi nel terribile eccidio.",
+    "title_en": "Hotel Rwanda",
+    "overview_en": "Inspired by true events, this film takes place in Rwanda in the 1990s when more than a million Tutsis were killed in a genocide that went mostly unnoticed by the rest of the world. Hotel owner Paul Rusesabagina houses over a thousand refuges in his hotel in attempt to save their lives.",
+    "runtime": 121,
+    "director": "Terry George",
+    "genres": [
+      "Dramma",
+      "Storia",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 41291,
+    "title": "Un sogno lungo un giorno",
+    "original_title": "One from the Heart",
+    "italian_title": "Un sogno lungo un giorno",
+    "year": 1982,
+    "poster_path": "/7qZKyhzXKSGbXqMdzdTlV8Mfwme.jpg",
+    "overview": "Il 4 luglio, festa dell'indipendenza, è il giorno più lungo per Hank e Franny. Lui conosce un'acrobata di un circo, lei ha una storia con un cantante di origini latine. Alla fine tornano insieme. La storia è un po' scontata, ma l'omaggio di Coppola al cinema classico era sincero e le tecniche con cui ha girato il film erano rivoluzionarie. Fu un fiasco colossale, che mandò al fallimento la Zoetrope, casa di produzione di Coppola. Superba fotografia di Storaro e grande colonna sonora di Tom Waits.",
+    "title_en": "One from the Heart",
+    "overview_en": "In a dazzling, dreamlike Las Vegas, longtime couple Hank and Frannie break up on their fifth anniversary and each pursue the fantasy of new love over one neon-soaked night—he with a free-spirited acrobat, she with a seductive musician. But as illusion and reality blur, both must decide whether passion or devotion truly defines the heart.",
+    "runtime": 99,
+    "director": "Francis Ford Coppola",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
     "tmdb_id": 1368337,
     "title": "Odissea",
     "original_title": "The Odyssey",
@@ -962,22 +907,6 @@
     ]
   },
   {
-    "tmdb_id": 1462322,
-    "title": "Le città di pianura",
-    "original_title": "Le città di pianura",
-    "italian_title": "Le città di pianura",
-    "year": 2025,
-    "poster_path": "/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg",
-    "overview": "La storia di Carlobianchi (Sergio Romano) e Doriano (Pierpaolo Capovilla), due cinquantenni al verde con una filosofia di vita che ruota attorno all'ultimo bicchiere, e del loro incontro con Giulio (Filippo Scotti), un giovane e timido studente di architettura in crisi. Quello che sembra un incontro casuale si trasforma in un road movie disordinato attraverso le pianure del Veneto: tra sbronze, cattivi consigli e una sorprendente amicizia che rimescola le carte del destino di Giulio.  Il film ha conquistato i David di Donatello 2026 nelle categorie più prestigiose, tra cui Miglior Film, Migliore Regia e Migliore Attore Protagonista per Sergio Romano.",
-    "title_en": "The Last One for the Road",
-    "overview_en": "A couple of jovial life-long drunkards run into a shy architecture undergrad, whose way of seeing things will be transformed as the trio wanders from pub to pub in search of a buried treasure.",
-    "runtime": 100,
-    "director": "Francesco Sossai",
-    "genres": [
-      "Commedia"
-    ]
-  },
-  {
     "tmdb_id": 1510300,
     "title": "Le bambine",
     "original_title": "Le bambine",
@@ -991,6 +920,22 @@
     "director": "Nicole Bertani, Valentina Bertani",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1462322,
+    "title": "Le città di pianura",
+    "original_title": "Le città di pianura",
+    "italian_title": "Le città di pianura",
+    "year": 2025,
+    "poster_path": "/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg",
+    "overview": "La storia di Carlobianchi (Sergio Romano) e Doriano (Pierpaolo Capovilla), due cinquantenni al verde con una filosofia di vita che ruota attorno all'ultimo bicchiere, e del loro incontro con Giulio (Filippo Scotti), un giovane e timido studente di architettura in crisi. Quello che sembra un incontro casuale si trasforma in un road movie disordinato attraverso le pianure del Veneto: tra sbronze, cattivi consigli e una sorprendente amicizia che rimescola le carte del destino di Giulio.  Il film ha conquistato i David di Donatello 2026 nelle categorie più prestigiose, tra cui Miglior Film, Migliore Regia e Migliore Attore Protagonista per Sergio Romano.",
+    "title_en": "The Last One for the Road",
+    "overview_en": "A couple of jovial life-long drunkards run into a shy architecture undergrad, whose way of seeing things will be transformed as the trio wanders from pub to pub in search of a buried treasure.",
+    "runtime": 100,
+    "director": "Francesco Sossai",
+    "genres": [
+      "Commedia"
     ]
   },
   {
@@ -1222,6 +1167,23 @@
     ]
   },
   {
+    "tmdb_id": 936075,
+    "title": "Michael",
+    "original_title": "Michael",
+    "italian_title": "Michael",
+    "year": 2026,
+    "poster_path": "/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+    "overview": "Il film racconta la vita di Michael Jackson oltre la musica, tracciando il suo viaggio dalla scoperta del suo straordinario talento come protagonista dei Jackson Five, all'artista visionario la cui ambizione creativa ha alimentato un'incessante ricerca per diventare il più grande intrattenitore del mondo. Evidenziando sia la sua vita fuori dal palco che alcune delle performance più iconiche degli inizi della sua carriera da solista, il film offre al pubblico un posto in prima fila a Michael Jackson come mai prima d'ora. È qui che inizia la sua storia.",
+    "title_en": "Michael",
+    "overview_en": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+    "runtime": 128,
+    "director": "Antoine Fuqua",
+    "genres": [
+      "Musica",
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1228710,
     "title": "The Mandalorian and Grogu",
     "original_title": "The Mandalorian and Grogu",
@@ -1240,23 +1202,6 @@
     ]
   },
   {
-    "tmdb_id": 936075,
-    "title": "Michael",
-    "original_title": "Michael",
-    "italian_title": "Michael",
-    "year": 2026,
-    "poster_path": "/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-    "overview": "Il film racconta la vita di Michael Jackson oltre la musica, tracciando il suo viaggio dalla scoperta del suo straordinario talento come protagonista dei Jackson Five, all'artista visionario la cui ambizione creativa ha alimentato un'incessante ricerca per diventare il più grande intrattenitore del mondo. Evidenziando sia la sua vita fuori dal palco che alcune delle performance più iconiche degli inizi della sua carriera da solista, il film offre al pubblico un posto in prima fila a Michael Jackson come mai prima d'ora. È qui che inizia la sua storia.",
-    "title_en": "Michael",
-    "overview_en": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-    "runtime": 128,
-    "director": "Antoine Fuqua",
-    "genres": [
-      "Musica",
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 858024,
     "title": "Hamnet - Nel nome del figlio",
     "original_title": "Hamnet",
@@ -1272,6 +1217,23 @@
       "Dramma",
       "Romance",
       "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1382513,
+    "title": "Hen - Storia di una Gallina",
+    "original_title": "Κότα",
+    "italian_title": "Hen - Storia di una Gallina",
+    "year": 2026,
+    "poster_path": "/6VAHRoUQLfNXG8mYz3NVgT0ADFd.jpg",
+    "overview": "L’autore dell’indimenticato Taxidermia (Cannes 2006) racconta la storia di una gallina, a partire dall’uovo che viene deposto. E adotta il punto di vista del volatile con un effetto spiazzante, inquietante e postumano. Perché la gallina – che è ostinata, resiliente, determinata a crescere i propri cuccioli e a conservare la propria libertà – oltre ad altri animali (una volpe, un topo, un verme, un falco, un cane, dei dinosauri in un documentario televisivo), incrocia inevitabilmente anche gli uomini, la loro violenza, le loro tragedie e ingiustizie, grandi e piccole: a volte come ignara testimone, a volte come elemento involontariamente scatenante.",
+    "title_en": "Hen",
+    "overview_en": "Escaping from a chicken farm, a hen finds refuge in the courtyard of a crumbling restaurant. There, she discovers love, confronts the pecking order, and fights to protect her eggs from a greedy owner. Her droll yet touching quest for motherhood mirrors the messy compromises and silent struggles of human lives.",
+    "runtime": 97,
+    "director": "Pálfi György",
+    "genres": [
+      "Avventura",
+      "Dramma"
     ]
   },
   {
@@ -1635,6 +1597,22 @@
     ]
   },
   {
+    "tmdb_id": 1315657,
+    "title": "Yellow Letters",
+    "original_title": "Gelbe Briefe",
+    "italian_title": "Yellow Letters",
+    "year": 2026,
+    "poster_path": "/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
+    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
+    "title_en": "Yellow Letters",
+    "overview_en": "The marriage of Derya and Aziz is under pressure after losing their jobs because of state arbitrariness and moving to Istanbul to live with Aziz's parents. They and their 13-year-old daughter Ezgi have to redefine their way of life.",
+    "runtime": 128,
+    "director": "İlker Çatak",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1291202,
     "title": "Duse",
     "original_title": "Duse",
@@ -1649,22 +1627,6 @@
     "genres": [
       "Dramma",
       "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1315657,
-    "title": "Yellow Letters",
-    "original_title": "Gelbe Briefe",
-    "italian_title": "Yellow Letters",
-    "year": 2026,
-    "poster_path": "/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
-    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
-    "title_en": "Yellow Letters",
-    "overview_en": "The marriage of Derya and Aziz is under pressure after losing their jobs because of state arbitrariness and moving to Istanbul to live with Aziz's parents. They and their 13-year-old daughter Ezgi have to redefine their way of life.",
-    "runtime": 128,
-    "director": "İlker Çatak",
-    "genres": [
-      "Dramma"
     ]
   },
   {
@@ -1808,23 +1770,6 @@
     ]
   },
   {
-    "tmdb_id": 1238188,
-    "title": "Il prigioniero",
-    "original_title": "El cautivo",
-    "italian_title": "Il prigioniero",
-    "year": 2025,
-    "poster_path": "/oZxGVrH6fIlQfIsmUlGNYd6mPLw.jpg",
-    "overview": "Nel 1575, il giovane soldato Miguel de Cervantes viene catturato in alto mare dai corsari berberi e portato ad Algeri come ostaggio. Consapevole che lo attende una morte crudele se la sua famiglia non pagherà presto il riscatto, trova rifugio nella sua passione per la narrazione.",
-    "title_en": "The Captive",
-    "overview_en": "In 1575, the young soldier Miguel de Cervantes is captured on the high seas by Barbary pirates and taken to Algiers as a hostage. Aware that a cruel death awaits him if his family does not pay his ransom soon, he finds refuge in his passion for storytelling.",
-    "runtime": 134,
-    "director": "Alejandro Amenábar",
-    "genres": [
-      "Dramma",
-      "Storia"
-    ]
-  },
-  {
     "tmdb_id": 1081003,
     "title": "Supergirl",
     "original_title": "Supergirl",
@@ -1877,6 +1822,40 @@
     ]
   },
   {
+    "tmdb_id": 1238188,
+    "title": "Il prigioniero",
+    "original_title": "El cautivo",
+    "italian_title": "Il prigioniero",
+    "year": 2025,
+    "poster_path": "/oZxGVrH6fIlQfIsmUlGNYd6mPLw.jpg",
+    "overview": "Nel 1575, il giovane soldato Miguel de Cervantes viene catturato in alto mare dai corsari berberi e portato ad Algeri come ostaggio. Consapevole che lo attende una morte crudele se la sua famiglia non pagherà presto il riscatto, trova rifugio nella sua passione per la narrazione.",
+    "title_en": "The Captive",
+    "overview_en": "In 1575, the young soldier Miguel de Cervantes is captured on the high seas by Barbary pirates and taken to Algiers as a hostage. Aware that a cruel death awaits him if his family does not pay his ransom soon, he finds refuge in his passion for storytelling.",
+    "runtime": 134,
+    "director": "Alejandro Amenábar",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1340206,
+    "title": "Tuner - L’accordatore",
+    "original_title": "Tuner",
+    "italian_title": "Tuner - L’accordatore",
+    "year": 2026,
+    "poster_path": "/8FpjELUTd4mBhbvyq0Ke5irAUh4.jpg",
+    "overview": "Niki è un ex bambino prodigio del pianoforte con un dono rarissimo: un udito assoluto capace di cogliere ogni vibrazione, ogni micro–suono nascosto nel mondo. Un talento straordinario, ma anche una condanna. La sua ipersensibilità ai rumori è talmente acuta da costringerlo a indossare protezioni auricolari e ad abbandonare il sogno di diventare pianista. Il giovane si reinventa così come accordatore di pianoforti, preciso e solitario, ma la sua vita tranquilla cambia quando qualcuno scopre che il suo orecchio perfetto può essere usato per molto più che accordare strumenti. Da quel momento Niki si ritrova coinvolto in un gioco che non ha scelto e dovrà fare i conti con il peso del suo dono e con i limiti che gli ha imposto per anni.",
+    "title_en": "Tuner",
+    "overview_en": "A talented piano tuner's life is turned upside down when he discovers that his meticulous skills for tuning pianos can equally be applied to cracking safes.",
+    "runtime": 107,
+    "director": "Daniel Roher",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 1471537,
     "title": "Noi due sconosciuti",
     "original_title": "Solomamma",
@@ -1907,25 +1886,6 @@
     "director": "Max Walker-Silverman",
     "genres": [
       "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1154304,
-    "title": "Buffalo Kids",
-    "original_title": "Buffalo Kids",
-    "italian_title": "Buffalo Kids",
-    "year": 2024,
-    "poster_path": "/b5bazDndp5nPs43cJk1YG5pEZVJ.jpg",
-    "overview": "Mary e Tom sono fratelli irlandesi orfani che arrivano a New York City via transatlantico nel 1886 e si ritrovano rapidamente in un selvaggio viaggio attraverso il paese a bordo di un treno transcontinentale chiamato “Orphan Train”, dove incontrano un nuovo straordinario amico che cambierà per sempre le loro vite.  Guidati dalla curiosità, dall'amicizia e dal lavoro di squadra, il loro pericoloso viaggio pieno di scoperte li introdurrà a subdoli villain, alleati sorprendenti, eroi inaspettati e avventure inimmaginabili in una ricerca esilarante e commovente della loro casa.",
-    "title_en": "Buffalo Kids",
-    "overview_en": "In 1886, orphaned Irish siblings Mary and Tom arrive in New York City via ocean liner, and quickly find themselves on a wild, cross-country journey aboard a transcontinental 'Orphan Train', where they meet an extraordinary new friend who will change their lives forever.",
-    "runtime": 83,
-    "director": "Pedro Solís, Juan Jesús García Galocha",
-    "genres": [
-      "Animazione",
-      "Avventura",
-      "Commedia",
-      "Famiglia"
     ]
   },
   {
@@ -1998,24 +1958,6 @@
     ]
   },
   {
-    "tmdb_id": 1301421,
-    "title": "Pecore sotto copertura",
-    "original_title": "The Sheep Detectives",
-    "italian_title": "Pecore sotto copertura",
-    "year": 2026,
-    "poster_path": "/cg8ZdeZBsh2EMZrulGiEyVGxuBo.jpg",
-    "overview": "George (Hugh Jackman) è un pastore che ogni sera legge romanzi gialli alle sue amate pecore, convinto che non possano comprenderlo. Quando però un misterioso incidente sconvolge la tranquillità della fattoria, le pecore decidono di dover diventare loro stesse delle detective. Seguendo gli indizi e indagando sui sospetti umani, dimostrano che anche le pecore possono essere brillanti investigatrici.",
-    "title_en": "The Sheep Detectives",
-    "overview_en": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
-    "runtime": 109,
-    "director": "Kyle Balda",
-    "genres": [
-      "Commedia",
-      "Famiglia",
-      "Mistero"
-    ]
-  },
-  {
     "tmdb_id": 1560020,
     "title": "Piccolo miracolo",
     "original_title": "Piccolo miracolo",
@@ -2065,6 +2007,38 @@
     ]
   },
   {
+    "tmdb_id": 1555887,
+    "title": "Tienimi presente",
+    "original_title": "Tienimi presente",
+    "italian_title": "Tienimi presente",
+    "year": 2026,
+    "poster_path": "/i2Jh0vxBtwNmGumwicojwAJz8Qm.jpg",
+    "overview": "Alberto, giovane regista disilluso, è convinto che il cinema non abbia più nulla da offrirgli. Ma è proprio rinunciando al suo sogno che ne scopre il senso più profondo. Dopo anni vissuti a Roma nella speranza di fare un film – tra progetti incerti e produttori perennemente in fuga – Alberto, ormai vicino ai trent’anni, decide di fare marcia indietro e tornare nella sua città natale. La vita da aspirante artista si è rivelata più solitaria del previsto, e la provincia, con i suoi ritmi lenti e volti familiari, sembra offrirgli un rifugio inaspettato. Tra vecchi amici, nuove conoscenze e qualche momento di pace, Alberto ritrova una tranquillità che aveva perduto. Ma basta poco perché riaffiorino i dubbi, i desideri messi da parte e quella domanda che non smette mai di tormentarlo: cosa fare davvero della propria vita? Il bivio è chiaro: restare, ricominciare o trasformare questo frammento di vita in racconto",
+    "title_en": "Tienimi presente",
+    "overview_en": "Alberto, a disillusioned young director, is convinced that cinema has nothing left to offer him. But it is precisely by giving up on his dream that he discovers its deeper meaning.",
+    "runtime": 80,
+    "director": "Alberto Palmiero",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1124566,
+    "title": "Sentimental Value",
+    "original_title": "Affeksjonsverdi",
+    "italian_title": "Sentimental Value",
+    "year": 2025,
+    "poster_path": "/lk0Tfskd5V84AbpJs9M1ZXJjVPf.jpg",
+    "overview": "Nora e Agnes sono due sorelle profondamente unite. L’improvviso rientro nella loro vita del padre Gustav – regista carismatico e affascinante ma genitore cronicamente inaffidabile – riapre ferite mai del tutto rimarginate. Conoscendo il talento di attrice di Nora, Gustav vorrebbe che sua figlia interpretasse il ruolo principale nel film che dovrebbe rilanciare la sua carriera; lei rifiuta e quella parte finisce a una giovane star di Hollywood, Rachel Kemp. Il suo arrivo getta scompiglio nelle delicate dinamiche della famiglia: per le due sorelle sarà il momento di confrontarsi con il padre e con il loro passato.",
+    "title_en": "Sentimental Value",
+    "overview_en": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
+    "runtime": 133,
+    "director": "Joachim Trier",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1559944,
     "title": "Il principe della follia",
     "original_title": "Il principe della follia",
@@ -2098,23 +2072,6 @@
       "Avventura",
       "Commedia",
       "Famiglia"
-    ]
-  },
-  {
-    "tmdb_id": 1020006,
-    "title": "Priscilla",
-    "original_title": "Priscilla",
-    "italian_title": "Priscilla",
-    "year": 2023,
-    "poster_path": "/z8qrafMlOqZMqbtH9GUdsw6qcoO.jpg",
-    "overview": "Quando l’adolescente Priscilla Beaulieu incontra a una festa Elvis Presley, l’uomo, che è già una superstar del rock’n’roll, nel privato le si rivela come qualcuno di completamente diverso: un amore travolgente, un alleato nella solitudine e un amico vulnerabile. Attraverso gli occhi di Priscilla, Sofia Coppola ci racconta il lato nascosto di un grande mito americano, nel lungo corteggiamento e nel matrimonio turbolento con Elvis. Una storia iniziata in una base dell’esercito tedesco e proseguita nella sua tenuta da sogno a Graceland. Una storia fatta di amore, sogni e fama.",
-    "title_en": "Priscilla",
-    "overview_en": "When teenage Priscilla Beaulieu meets Elvis Presley at a party, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best friend.",
-    "runtime": 110,
-    "director": "Sofia Coppola",
-    "genres": [
-      "Dramma",
-      "Romance"
     ]
   },
   {
@@ -2253,22 +2210,6 @@
       "Thriller",
       "Crime",
       "Mistero"
-    ]
-  },
-  {
-    "tmdb_id": 1124566,
-    "title": "Sentimental Value",
-    "original_title": "Affeksjonsverdi",
-    "italian_title": "Sentimental Value",
-    "year": 2025,
-    "poster_path": "/lk0Tfskd5V84AbpJs9M1ZXJjVPf.jpg",
-    "overview": "Nora e Agnes sono due sorelle profondamente unite. L’improvviso rientro nella loro vita del padre Gustav – regista carismatico e affascinante ma genitore cronicamente inaffidabile – riapre ferite mai del tutto rimarginate. Conoscendo il talento di attrice di Nora, Gustav vorrebbe che sua figlia interpretasse il ruolo principale nel film che dovrebbe rilanciare la sua carriera; lei rifiuta e quella parte finisce a una giovane star di Hollywood, Rachel Kemp. Il suo arrivo getta scompiglio nelle delicate dinamiche della famiglia: per le due sorelle sarà il momento di confrontarsi con il padre e con il loro passato.",
-    "title_en": "Sentimental Value",
-    "overview_en": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
-    "runtime": 133,
-    "director": "Joachim Trier",
-    "genres": [
-      "Dramma"
     ]
   },
   {
