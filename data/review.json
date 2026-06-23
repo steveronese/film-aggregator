@@ -49,6 +49,13 @@
     "confidence": 95.0
   },
   {
+    "raw_title": "COS'E' L'AMORE (C'EST QUOI L'AMOUR)",
+    "tmdb_id": 1369286,
+    "matched_title": "Cos'è l'amore?",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "V.O. SOTT.ITA - ALICE NELLE CITTÀ (ALICE IN DEN STADTEN)",
     "tmdb_id": 2204,
     "matched_title": "Alice nelle città",
@@ -66,13 +73,6 @@
     "raw_title": "V.O. SOTT.ITA. -  NON BUSSARE ALLA MIA PORTA (Don't Come Knocking)",
     "tmdb_id": 3527,
     "matched_title": "Non bussare alla mia porta",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "V. O. SOTT. ITA MARGHERITA GAUTHIER (CAMILLE)",
-    "tmdb_id": 43874,
-    "matched_title": "Margherita Gauthier",
     "method": "ai",
     "confidence": 100.0
   },
@@ -108,20 +108,6 @@
     "raw_title": "TRUFFA A REGOLA D'ARTE",
     "tmdb_id": 97434,
     "matched_title": "Gambit - Una truffa a regola d’arte",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA) - V. O.",
-    "tmdb_id": 1303613,
-    "matched_title": "Il silenzio degli altri",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "ALICE NELLE CITTA' (ALICE IN DEN STADTEN)",
-    "tmdb_id": 2204,
-    "matched_title": "Alice nelle città",
     "method": "ai",
     "confidence": 100.0
   },
