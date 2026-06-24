@@ -1,5 +1,12 @@
 [
   {
+    "raw_title": "PRINCIPESSA MONONOKE",
+    "tmdb_id": 128,
+    "matched_title": "Princess Mononoke",
+    "method": "fuzzy",
+    "confidence": 91.89189189189189
+  },
+  {
     "raw_title": "THE ODYSSEY - ODISSEA",
     "tmdb_id": 42853,
     "matched_title": "Odissea",
@@ -77,6 +84,13 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "V.O. SOTT. ITA - ALLORA BALLIAMO (PARTIR UN JOUR)",
+    "tmdb_id": 1277884,
+    "matched_title": "Allora balliamo",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA)",
     "tmdb_id": 1303613,
     "matched_title": "Il silenzio degli altri",
@@ -105,13 +119,6 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "TRUFFA A REGOLA D'ARTE",
-    "tmdb_id": 97434,
-    "matched_title": "Gambit - Una truffa a regola d’arte",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "LA CRONOLOGIA DELL'ACQUA (THE CHRONOLOGY OF WATER)",
     "tmdb_id": 524635,
     "matched_title": "La cronologia dell’acqua",
@@ -119,11 +126,18 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "TUTTO QUELLO CHE RESTA DI TE (ALL THAT'S LEFT OF YOU)",
-    "tmdb_id": 1219620,
-    "matched_title": "Tutto quello che resta di te",
+    "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA) - V. O.",
+    "tmdb_id": 1303613,
+    "matched_title": "Il silenzio degli altri",
     "method": "ai",
-    "confidence": 95.0
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "SENZA PELLE (10 E LUCE)",
+    "tmdb_id": 56397,
+    "matched_title": "Senza pelle",
+    "method": "ai",
+    "confidence": 100.0
   },
   {
     "raw_title": "L'ISOLA DEI RICORDI (AMRUM)",
@@ -168,11 +182,25 @@
     "confidence": 91.66666666666666
   },
   {
+    "raw_title": "After Life - Qual E' Il Tuo Ricordo...",
+    "tmdb_id": 17962,
+    "matched_title": "After Life - Qual è il tuo ricordo più bello?",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "(O.V.) The Odissey",
     "tmdb_id": 1368337,
     "matched_title": "Odissea",
     "method": "fuzzy",
     "confidence": 90.9090909090909
+  },
+  {
+    "raw_title": "Hopper E Il Segreto Autism Friendly",
+    "tmdb_id": 1215532,
+    "matched_title": "Hopper - Il segreto della marmotta",
+    "method": "ai",
+    "confidence": 95.0
   },
   {
     "raw_title": "The Mandalorian & Grogu",
