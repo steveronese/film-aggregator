@@ -157169,6 +157169,434 @@
       "vote_average": 7.159,
       "vote_count": 88
     },
+    "1437612": {
+      "adult": false,
+      "backdrop_path": "/cg5VIuHIRIkHIKh3rEfkptIgNqS.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "67b81975a2284666f1eb36c6",
+            "gender": 2,
+            "id": 2302658,
+            "known_for_department": "Acting",
+            "name": "Levan Gelbakhiani",
+            "order": 0,
+            "original_name": "Levan Gelbakhiani",
+            "popularity": 0.1222,
+            "profile_path": "/10nCz9SFpnFmqdAZfgfz5tvQiRF.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 5,
+            "character": "",
+            "credit_id": "6870d0172766d73ce67044f3",
+            "gender": 0,
+            "id": 5557337,
+            "known_for_department": "Acting",
+            "name": "Maria Pia Pepe",
+            "order": 1,
+            "original_name": "Maria Pia Pepe",
+            "popularity": 0.0453,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 6,
+            "character": "",
+            "credit_id": "6870d021e0d365908010514d",
+            "gender": 1,
+            "id": 148926,
+            "known_for_department": "Acting",
+            "name": "Agnese Claisse",
+            "order": 2,
+            "original_name": "Agnese Claisse",
+            "popularity": 0.0924,
+            "profile_path": "/Au2UFzo2Tkkn9R9BpByIkALHNk0.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 7,
+            "character": "",
+            "credit_id": "6870d02abba85b5ba45415e5",
+            "gender": 1,
+            "id": 1312204,
+            "known_for_department": "Acting",
+            "name": "Karidja Touré",
+            "order": 3,
+            "original_name": "Karidja Touré",
+            "popularity": 0.3093,
+            "profile_path": "/5YqrVYUzvy0suoSp6oQPD0YgbQs.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 8,
+            "character": "",
+            "credit_id": "6871670ece4b63e069541b5b",
+            "gender": 1,
+            "id": 1343612,
+            "known_for_department": "Acting",
+            "name": "Cecilia Bertozzi",
+            "order": 4,
+            "original_name": "Cecilia Bertozzi",
+            "popularity": 0.0991,
+            "profile_path": "/k0KoXhtgCNXaP5SpJgwcW9fYbjm.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "67b81946444dd7fcefba4d94",
+            "department": "Directing",
+            "gender": 1,
+            "id": 1132160,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Jacqueline Zünd",
+            "original_name": "Jacqueline Zünd",
+            "popularity": 0.0572,
+            "profile_path": "/qWg6tRG6oLynwUhB7yStpuzGmHC.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "67b81951444dd7fcefba4d9b",
+            "department": "Writing",
+            "gender": 1,
+            "id": 1132160,
+            "job": "Writer",
+            "known_for_department": "Directing",
+            "name": "Jacqueline Zünd",
+            "original_name": "Jacqueline Zünd",
+            "popularity": 0.0572,
+            "profile_path": "/qWg6tRG6oLynwUhB7yStpuzGmHC.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "67b8196121d4708b60eb3a22",
+            "department": "Writing",
+            "gender": 0,
+            "id": 2441624,
+            "job": "Writer",
+            "known_for_department": "Directing",
+            "name": "Arne Kohlweyer",
+            "original_name": "Arne Kohlweyer",
+            "popularity": 0.1041,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6888a92ba5746dc859247601",
+            "department": "Production",
+            "gender": 2,
+            "id": 1277331,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Louis Mataré",
+            "original_name": "Louis Mataré",
+            "popularity": 0.1104,
+            "profile_path": "/1IpfgUOp4T4F06iaLUirgQhU0pr.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6888a9334993f24968247768",
+            "department": "Production",
+            "gender": 2,
+            "id": 1277329,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "David Fonjallaz",
+            "original_name": "David Fonjallaz",
+            "popularity": 0.058,
+            "profile_path": "/sildnIdElEnMisJFuJ3Rv9J5lqz.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6888a93dee63f2da1116cd36",
+            "department": "Production",
+            "gender": 0,
+            "id": 3333836,
+            "job": "Co-Producer",
+            "known_for_department": "Production",
+            "name": "Davide Pagano",
+            "original_name": "Davide Pagano",
+            "popularity": 0.0,
+            "profile_path": "/aYBwZTuAzUVFnKUH9SsHQyE1kiy.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6888a9456309222fee72f88d",
+            "department": "Production",
+            "gender": 0,
+            "id": 3136316,
+            "job": "Co-Producer",
+            "known_for_department": "Production",
+            "name": "Andrea Randazzo",
+            "original_name": "Andrea Randazzo",
+            "popularity": 0.0893,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6888a94e22300a50a772f74e",
+            "department": "Production",
+            "gender": 2,
+            "id": 1498083,
+            "job": "Co-Producer",
+            "known_for_department": "Production",
+            "name": "Gianfilippo Pedote",
+            "original_name": "Gianfilippo Pedote",
+            "popularity": 0.0736,
+            "profile_path": "/9RQHk9g7xLbjJrlRKVpOb4RP9NC.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6888a95849f9a4e6ef72f8cb",
+            "department": "Camera",
+            "gender": 2,
+            "id": 36565,
+            "job": "Director of Photography",
+            "known_for_department": "Camera",
+            "name": "Nikolai von Graevenitz",
+            "original_name": "Nikolai von Graevenitz",
+            "popularity": 0.1151,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6888a95f2f591ad8d18a7b28",
+            "department": "Editing",
+            "gender": 2,
+            "id": 65071,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "Gion-Reto Killias",
+            "original_name": "Gion-Reto Killias",
+            "popularity": 0.0143,
+            "profile_path": "/thTNFk0jqlI0NNvw9TMQYSzkUY9.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6888a966d098f600d972f5c0",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1033118,
+            "job": "Sound",
+            "known_for_department": "Sound",
+            "name": "Balthasar Jucker",
+            "original_name": "Balthasar Jucker",
+            "popularity": 0.068,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6888a96e2e48947adff797ed",
+            "department": "Sound",
+            "gender": 0,
+            "id": 2451826,
+            "job": "Sound Mixer",
+            "known_for_department": "Sound",
+            "name": "Jacques Kieffer",
+            "original_name": "Jacques Kieffer",
+            "popularity": 0.07,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6888a974a5746dc859247609",
+            "department": "Sound",
+            "gender": 0,
+            "id": 2451826,
+            "job": "Sound Designer",
+            "known_for_department": "Sound",
+            "name": "Jacques Kieffer",
+            "original_name": "Jacques Kieffer",
+            "popularity": 0.07,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6888a97d50eaf66252247888",
+            "department": "Sound",
+            "gender": 0,
+            "id": 2521126,
+            "job": "Sound Designer",
+            "known_for_department": "Sound",
+            "name": "Gina Keller",
+            "original_name": "Gina Keller",
+            "popularity": 0.0983,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6888a985976736e15d247594",
+            "department": "Sound",
+            "gender": 0,
+            "id": 226799,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "Marcel Vaid",
+            "original_name": "Marcel Vaid",
+            "popularity": 0.0468,
+            "profile_path": null
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 18,
+          "name": "Dramma"
+        },
+        {
+          "id": 878,
+          "name": "Fantascienza"
+        }
+      ],
+      "homepage": "",
+      "id": 1437612,
+      "imdb_id": "tt14908624",
+      "origin_country": [
+        "IT",
+        "CH"
+      ],
+      "original_language": "en",
+      "original_title": "Don't Let the Sun",
+      "overview": "In un futuro prossimo dove, a causa dei cambiamenti climatici, il giorno è diventato insopportabilmente caldo, la vita sociale è stata spostata di notte, quando la temperatura risulta più tollerabile. Tutto accade di notte, mentre di giorno si dorme e la città si svuota.  In questo mondo, il caldo torrido dell’aria contrasta con il gelo delle relazioni umane, sempre più svuotate di affettività. Jonah lavora per un'agenzia che cerca di sfruttare questa condizione di isolamento e solitudine per offrire a clienti privati il servizio di attori in grado di assumere il ruolo di stretti familiari senza generare le tensioni emotive che un vero figlio o marito potrebbero scatenare. Un giorno a Jonah viene chiesto di assumere il ruolo di padre della piccola e tormentata Nika. Lui accetta la proposta della madre, che spera che in questo modo la bambina superi la sua malinconica insofferenza e si apra un poco alla vita.",
+      "popularity": 0.6824,
+      "poster_path": "/7cNJLsNEdVPvovKxrhu6ITvDt4t.jpg",
+      "production_companies": [
+        {
+          "id": 105717,
+          "logo_path": "/1LkTbQqXVc0bE8s1Lsvw7hVETTN.png",
+          "name": "Lomotion",
+          "origin_country": "CH"
+        },
+        {
+          "id": 131308,
+          "logo_path": null,
+          "name": "Casa delle Visioni",
+          "origin_country": ""
+        },
+        {
+          "id": 42145,
+          "logo_path": "/fX8uY3tXWh814PLVqKM0IJEoDPW.png",
+          "name": "SRF",
+          "origin_country": "CH"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CH",
+          "name": "Switzerland"
+        },
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "release_date": "2026-03-19",
+      "revenue": 0,
+      "runtime": 100,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Don't Let the Sun",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "In a world almost like ours, Jonah works for an agency that offers human relationships. When he's hired to serve as Nika's father, he begins to lose control of his tightly controlled life.",
+              "runtime": 100,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "In un futuro prossimo dove, a causa dei cambiamenti climatici, il giorno è diventato insopportabilmente caldo, la vita sociale è stata spostata di notte, quando la temperatura risulta più tollerabile. Tutto accade di notte, mentre di giorno si dorme e la città si svuota.  In questo mondo, il caldo torrido dell’aria contrasta con il gelo delle relazioni umane, sempre più svuotate di affettività. Jonah lavora per un'agenzia che cerca di sfruttare questa condizione di isolamento e solitudine per offrire a clienti privati il servizio di attori in grado di assumere il ruolo di stretti familiari senza generare le tensioni emotive che un vero figlio o marito potrebbero scatenare. Un giorno a Jonah viene chiesto di assumere il ruolo di padre della piccola e tormentata Nika. Lui accetta la proposta della madre, che spera che in questo modo la bambina superi la sua malinconica insofferenza e si apra un poco alla vita.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Italian",
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Upał rośnie. Ludzie oddalają się od siebie, pogrążeni w osobliwej samotności. To właśnie tu 28-letni Jonah pociesza nieznajomych. Ale kiedy wciela się w rolę ojca dziewięcioletniej Niki, jego życie zaczyna się rozpadać. Delikatny dramat o kruchości relacji międzyludzkich.",
+              "runtime": 100,
+              "tagline": "",
+              "title": "Don't Let the Sun"
+            },
+            "english_name": "Polish",
+            "iso_3166_1": "PL",
+            "iso_639_1": "pl",
+            "name": "Polski"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "가족을 못 느낀 채 대리의 삶을 살아온 남자가 인공수정으로 태어나 아빠가 필요 없다고 여기는 소녀와 만난다. 그런데 이건 SF다. 태양열로 인해 낮엔 외출하기를 꺼리는 미래.",
+              "runtime": 98,
+              "tagline": "",
+              "title": "돈 렛 더 썬"
+            },
+            "english_name": "Korean",
+            "iso_3166_1": "KR",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 100,
+              "tagline": "",
+              "title": "烈日窥泪"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Ein unerträglich heisser Ort. Menschliche Nähe ist rar geworden, und die Einsamkeit treibt seltsame Blüten. Jonah (28) lebt im Dienst der Sehnsüchte anderer. Bis die Rolle als Vater für die 9-jährige Nika sein Leben komplett in Frage stellt. Ein zartes Drama über die Zerbrechlichkeit menschlicher Beziehungen.",
+              "runtime": 99,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "German",
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 2
+    },
     "1438958": {
       "adult": false,
       "backdrop_path": "/xNYsQysQg8sQyXQhe4HyCJ4hFF0.jpg",
@@ -162775,6 +163203,513 @@
       "video": false,
       "vote_average": 7.138,
       "vote_count": 578
+    },
+    "1457188": {
+      "adult": false,
+      "backdrop_path": "/iW32nm4xEn8Ku9NUBQM1zZNjECi.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "67ead08fdd55f16c01549640",
+            "department": "Directing",
+            "gender": 2,
+            "id": 224452,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Gianfranco Rosi",
+            "original_name": "Gianfranco Rosi",
+            "popularity": 0.1401,
+            "profile_path": "/m3ozAgDdoUwm7cyKidPK4ctvzMp.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "67ead0ab0cec672270b6f260",
+            "department": "Production",
+            "gender": 2,
+            "id": 224452,
+            "job": "Producer",
+            "known_for_department": "Directing",
+            "name": "Gianfranco Rosi",
+            "original_name": "Gianfranco Rosi",
+            "popularity": 0.1401,
+            "profile_path": "/m3ozAgDdoUwm7cyKidPK4ctvzMp.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "67ead0c1f2b27a77f124491f",
+            "department": "Production",
+            "gender": 0,
+            "id": 1640923,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Donatella Palermo",
+            "original_name": "Donatella Palermo",
+            "popularity": 0.1239,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "68a646d91e2b527101fd2763",
+            "department": "Sound",
+            "gender": 2,
+            "id": 224452,
+            "job": "Sound",
+            "known_for_department": "Directing",
+            "name": "Gianfranco Rosi",
+            "original_name": "Gianfranco Rosi",
+            "popularity": 0.1401,
+            "profile_path": "/m3ozAgDdoUwm7cyKidPK4ctvzMp.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "68a646f4925acb319425f44a",
+            "department": "Camera",
+            "gender": 2,
+            "id": 224452,
+            "job": "Director of Photography",
+            "known_for_department": "Directing",
+            "name": "Gianfranco Rosi",
+            "original_name": "Gianfranco Rosi",
+            "popularity": 0.1401,
+            "profile_path": "/m3ozAgDdoUwm7cyKidPK4ctvzMp.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "68a64742e1d83167cea818bf",
+            "department": "Production",
+            "gender": 2,
+            "id": 2038538,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Paolo Del Brocco",
+            "original_name": "Paolo Del Brocco",
+            "popularity": 0.1268,
+            "profile_path": "/hEDpPrgIwBYr24x0dwaDXgAZ2EV.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "68a647514630e1ea38fd2871",
+            "department": "Editing",
+            "gender": 0,
+            "id": 2384389,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "Fabrizio Federico",
+            "original_name": "Fabrizio Federico",
+            "popularity": 0.066,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "68a64764b1b1bf87735dd784",
+            "department": "Writing",
+            "gender": 2,
+            "id": 224452,
+            "job": "Story",
+            "known_for_department": "Directing",
+            "name": "Gianfranco Rosi",
+            "original_name": "Gianfranco Rosi",
+            "popularity": 0.1401,
+            "profile_path": "/m3ozAgDdoUwm7cyKidPK4ctvzMp.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "68a6477d1061c253ded55091",
+            "department": "Sound",
+            "gender": 0,
+            "id": 932947,
+            "job": "Sound Designer",
+            "known_for_department": "Sound",
+            "name": "Stefano Grosso",
+            "original_name": "Stefano Grosso",
+            "popularity": 0.0874,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "68a647ad31e18256b8697552",
+            "department": "Directing",
+            "gender": 0,
+            "id": 3976270,
+            "job": "Assistant Director",
+            "known_for_department": "Acting",
+            "name": "Alberto Landolfi",
+            "original_name": "Alberto Landolfi",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "68a647b9bc9762c973a81834",
+            "department": "Sound",
+            "gender": 2,
+            "id": 1711289,
+            "job": "Original Music Composer",
+            "known_for_department": "Sound",
+            "name": "Daniel Blumberg",
+            "original_name": "Daniel Blumberg",
+            "popularity": 0.1451,
+            "profile_path": "/32FGHRkX7C5yDzI1qPFtqksQuzq.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "68a6541e72c61e71ae834ba9",
+            "department": "Editing",
+            "gender": 2,
+            "id": 6827,
+            "job": "Editorial Consultant",
+            "known_for_department": "Editing",
+            "name": "Joe Bini",
+            "original_name": "Joe Bini",
+            "popularity": 0.109,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "68fd6d73e05b875d22bbefb6",
+            "department": "Art",
+            "gender": 0,
+            "id": 2843394,
+            "job": "Graphic Designer",
+            "known_for_department": "Art",
+            "name": "Alberto Baccari",
+            "original_name": "Alberto Baccari",
+            "popularity": 0.0168,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "68fd6d804b2d0354d693881f",
+            "department": "Art",
+            "gender": 0,
+            "id": 2775025,
+            "job": "Graphic Designer",
+            "known_for_department": "Art",
+            "name": "Andrea Castelletti",
+            "original_name": "Andrea Castelletti",
+            "popularity": 0.0256,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "68fd6da6e0a7e4620092731e",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1397486,
+            "job": "Sound Re-Recording Mixer",
+            "known_for_department": "Sound",
+            "name": "Giancarlo Rutigliano",
+            "original_name": "Giancarlo Rutigliano",
+            "popularity": 0.058,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "68fd6db9af06ffe4edd9fce1",
+            "department": "Visual Effects",
+            "gender": 0,
+            "id": 5773282,
+            "job": "Digital Compositor",
+            "known_for_department": "Visual Effects",
+            "name": "Claudia Bonsangue",
+            "original_name": "Claudia Bonsangue",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "68fd6dc6f57d1caf913bf6d8",
+            "department": "Editing",
+            "gender": 0,
+            "id": 5773283,
+            "job": "Assistant Editor",
+            "known_for_department": "Editing",
+            "name": "Jacopo Balliana",
+            "original_name": "Jacopo Balliana",
+            "popularity": 0.0214,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "68fd6de427cf7b4a7f926eb4",
+            "department": "Crew",
+            "gender": 0,
+            "id": 1927893,
+            "job": "Post Production Assistant",
+            "known_for_department": "Directing",
+            "name": "Lisa Di Giannuario",
+            "original_name": "Lisa Di Giannuario",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "68fd6dfdc6728d5ffc926f63",
+            "department": "Production",
+            "gender": 0,
+            "id": 3976270,
+            "job": "Location Manager",
+            "known_for_department": "Acting",
+            "name": "Alberto Landolfi",
+            "original_name": "Alberto Landolfi",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "68fd6e14da74cc2954d9fc62",
+            "department": "Production",
+            "gender": 0,
+            "id": 5773284,
+            "job": "Payroll Accountant",
+            "known_for_department": "Production",
+            "name": "Chiara Vespa",
+            "original_name": "Chiara Vespa",
+            "popularity": 0.0214,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "68fd6e1fe20ab361a1bbf020",
+            "department": "Crew",
+            "gender": 0,
+            "id": 5773285,
+            "job": "Thanks",
+            "known_for_department": "Crew",
+            "name": "Giorgio Piano",
+            "original_name": "Giorgio Piano",
+            "popularity": 0.0214,
+            "profile_path": null
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 99,
+          "name": "Documentario"
+        }
+      ],
+      "homepage": "",
+      "id": 1457188,
+      "imdb_id": "tt36874833",
+      "origin_country": [
+        "IT"
+      ],
+      "original_language": "it",
+      "original_title": "Sotto le nuvole",
+      "overview": "Tra il Golfo e il Vesuvio, la terra talvolta trema, le fumarole dei Campi Flegrei segnano l’aria. Sulle tracce della Storia, delle memorie del sottosuolo, in bianco e nero, una Napoli meno conosciuta si popola di vite. Sotto le nuvole c’è un territorio attraversato da abitanti, devoti, turisti, archeologi che scavano il passato, da chi, nei musei, cerca di dare ancora vita, e senso, a statue, frammenti, rovine. La circumvesuviana attraversa il paesaggio, cavalli da trotto si allenano sulla battigia. Un maestro di strada dedica il suo tempo al doposcuola per bambini e adolescenti, i vigili del fuoco vincono le piccole e grandi paure degli abitanti, le forze dell’ordine inseguono i tombaroli. Una nave siriana, nel porto di Torre Annunziata scarica il grano ucraino. La terra intorno al golfo è un’immensa macchina del tempo.",
+      "popularity": 0.5452,
+      "poster_path": "/dvbwOHpHK4VhDjkVSav5g6YgfkU.jpg",
+      "production_companies": [
+        {
+          "id": 155990,
+          "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+          "name": "RAI Cinema",
+          "origin_country": "IT"
+        },
+        {
+          "id": 43244,
+          "logo_path": "/cOymUIboPJTfT3TUPDGSwQg7QOe.png",
+          "name": "Stemal Entertainment",
+          "origin_country": "IT"
+        },
+        {
+          "id": 78498,
+          "logo_path": null,
+          "name": "21 Unofilm",
+          "origin_country": "IT"
+        },
+        {
+          "id": 76921,
+          "logo_path": "/dkPpGhEL2uQ5bmNDAqSZRFp894g.png",
+          "name": "Les Films d'Ici",
+          "origin_country": "FR"
+        },
+        {
+          "id": 94,
+          "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+          "name": "ARTE France Cinéma",
+          "origin_country": "FR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        }
+      ],
+      "release_date": "2025-09-18",
+      "revenue": 130652,
+      "runtime": 114,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Sotto le nuvole",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "https://mubi.com/en/films/pompei-below-the-clouds",
+              "overview": "Naples faces dual volcanic threats from Vesuvius and Campi Flegrei. Amid increasing tremors, archaeologists work as residents live anxiously, haunted by Pompeii's fate while emergency services strain.",
+              "runtime": 114,
+              "tagline": "",
+              "title": "Pompei: Below the Clouds"
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "베수비오 화산을 언급한 콕토의 문구로 시작해, 거대한 프레스코화는 ‘유적지와 박물관, 고고학자와 도굴꾼, 소방대와 시민, 전차와 곡물 수송선, 학생과 노동자, 관광객과 선원, 구름과 바다, 지진과 전쟁’을 넓고 자유롭게 그린다. ‘과거와 현재, 삶과 죽음’처럼 그(것)들 사이엔 경계가 놓여 있지만, 흐릿한 구분으로 인해 그들은 서로 연결된다. 그렇게 연속성이 유지되고, 인간은 영원의 산을 거슬러 오르는 시지프스가 된다.",
+              "runtime": 114,
+              "tagline": "",
+              "title": "구름 아래"
+            },
+            "english_name": "Korean",
+            "iso_3166_1": "KR",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Pompéi, Naples, le Vésuve. Des vies sous la menace du volcan : archéologues, pompiers, éducateurs, marins, photographes… La terre tremble et le passé infuse dans le présent de tous. En donnant voix aux habitants, le film compose un portrait inédit de la ville, comme une machine à voyager dans le temps.",
+              "runtime": 115,
+              "tagline": "",
+              "title": "Pompei, Sotto le Nuvole"
+            },
+            "english_name": "French",
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Tra il Golfo e il Vesuvio, la terra talvolta trema, le fumarole dei Campi Flegrei segnano l’aria. Sulle tracce della Storia, delle memorie del sottosuolo, in bianco e nero, una Napoli meno conosciuta si popola di vite. Sotto le nuvole c’è un territorio attraversato da abitanti, devoti, turisti, archeologi che scavano il passato, da chi, nei musei, cerca di dare ancora vita, e senso, a statue, frammenti, rovine. La circumvesuviana attraversa il paesaggio, cavalli da trotto si allenano sulla battigia. Un maestro di strada dedica il suo tempo al doposcuola per bambini e adolescenti, i vigili del fuoco vincono le piccole e grandi paure degli abitanti, le forze dell’ordine inseguono i tombaroli. Una nave siriana, nel porto di Torre Annunziata scarica il grano ucraino. La terra intorno al golfo è un’immensa macchina del tempo.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Italian",
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Neapol stoi w obliczu podwójnego zagrożenia wulkanicznego: Wezuwiusza i Campi Flegrei. W obliczu narastających wstrząsów, archeolodzy pracują, podczas gdy mieszkańcy żyją w niepokoju, przerażeni losem Pompejów, a służby ratunkowe są w ciągłym napięciu.",
+              "runtime": 115,
+              "tagline": "",
+              "title": "Sotto le nuvole"
+            },
+            "english_name": "Polish",
+            "iso_3166_1": "PL",
+            "iso_639_1": "pl",
+            "name": "Polski"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Napoli, Vezüv ve Campi Flegrei'den gelen çifte volkanik tehdit altındadır. Artan sarsıntıların ortasında, bölge sakinleri Pompeii'nin kaderinin anısıyla endişe içinde yaşarken, arkeologlar çalışmalarını sürdürür ve acil durum servisleri kapasitelerinin sınırına ulaşır.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Bulutların Altında"
+            },
+            "english_name": "Turkish",
+            "iso_3166_1": "TR",
+            "iso_639_1": "tr",
+            "name": "Türkçe"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Неаполю загрожує подвійна небезпека: загроза виверження Везувію і Флегрейських полів. Підземні поштовхи стають щораз потужніші, тож археологи поспішають закінчити роботу, а місцевих охоплює тривога. Усі пам’ятають, що сталося з Помпеями. Аварійні служби працюють на повну.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Під хмарами"
+            },
+            "english_name": "Ukrainian",
+            "iso_3166_1": "UA",
+            "iso_639_1": "uk",
+            "name": "Український"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Entre dois vulcões perigosos, Nápoles vive dias tensos. Arqueólogos correm contra o tempo, moradores temem uma catástrofe e equipes de emergência se preparam, enquanto o Vesúvio e Campi Flegrei mostram sinais de atividade.",
+              "runtime": 114,
+              "tagline": "",
+              "title": "Pompeia: Sob As Nuvens"
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "那不勒斯正面临维苏威火山与坎皮佛莱格瑞火山的双重威胁。在日益频繁的地震活动中，考古学者全力作业，居民则惶惶度日——庞贝古城的命运如幽灵般盘踞心头，而紧急救援系统亦濒临极限。",
+              "runtime": 0,
+              "tagline": "",
+              "title": "云之下"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "ポンペイ、雲の下に生きる"
+            },
+            "english_name": "Japanese",
+            "iso_3166_1": "JP",
+            "iso_639_1": "ja",
+            "name": "日本語"
+          },
+          {
+            "data": {
+              "homepage": "https://mubi.com/de/de/films/pompei-below-the-clouds",
+              "overview": "Neapel ist eine Stadt, die für immer im Schatten des Vesuvs lebt. Unter der ständigen Bedrohung eines Ausbruchs geht das Leben unaufhörlich weiter: Archäologen legen die Vergangenheit frei, Kinder lernen, während die Erde leise vibriert, und Feuerwehrleute warten auf den nächsten Einsatz.",
+              "runtime": 115,
+              "tagline": "",
+              "title": "Pompeji: Unter den Wolken"
+            },
+            "english_name": "German",
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 5.905,
+      "vote_count": 21
     },
     "1460931": {
       "adult": false,
@@ -175993,6 +176928,449 @@
       "video": false,
       "vote_average": 6.0,
       "vote_count": 1
+    },
+    "1522333": {
+      "adult": false,
+      "backdrop_path": null,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 1,
+            "character": "",
+            "credit_id": "6889d10b5328c50e0284bdd2",
+            "gender": 2,
+            "id": 928229,
+            "known_for_department": "Acting",
+            "name": "Gippy Grewal",
+            "order": 0,
+            "original_name": "Gippy Grewal",
+            "popularity": 0.5376,
+            "profile_path": "/6DcA4PPq2lQVEBU32mZlhj67VI4.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 2,
+            "character": "",
+            "credit_id": "6889d1130efb17f661e13967",
+            "gender": 2,
+            "id": 1078264,
+            "known_for_department": "Acting",
+            "name": "Binnu Dhillon",
+            "order": 1,
+            "original_name": "Binnu Dhillon",
+            "popularity": 0.4227,
+            "profile_path": "/beo2vFTYmkhBzB19GjCfB78JcO8.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 3,
+            "character": "",
+            "credit_id": "6889d12bdf2f95228dd0248b",
+            "gender": 2,
+            "id": 140682,
+            "known_for_department": "Acting",
+            "name": "Jaswinder Bhalla",
+            "order": 2,
+            "original_name": "Jaswinder Bhalla",
+            "popularity": 0.3713,
+            "profile_path": "/jjmWTjRK8HQgk2Wohl1NGEGafxe.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "6889d133de23d93b34694424",
+            "gender": 2,
+            "id": 1372226,
+            "known_for_department": "Acting",
+            "name": "Karamjit Anmol",
+            "order": 3,
+            "original_name": "Karamjit Anmol",
+            "popularity": 0.1822,
+            "profile_path": "/vKhoegz91VYORcSqbGgWT45TFzG.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 6,
+            "character": "",
+            "credit_id": "6a02c95a6bc373f8c0cabcf3",
+            "gender": 1,
+            "id": 1250851,
+            "known_for_department": "Acting",
+            "name": "Sargun Mehta",
+            "order": 4,
+            "original_name": "Sargun Mehta",
+            "popularity": 0.4981,
+            "profile_path": "/c9kVsaws1yxQfTUaDDO1NmIlFJk.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 7,
+            "character": "",
+            "credit_id": "6a02c95f2651dfe826cfd978",
+            "gender": 2,
+            "id": 77240,
+            "known_for_department": "Acting",
+            "name": "Gurpreet Ghuggi",
+            "order": 5,
+            "original_name": "Gurpreet Ghuggi",
+            "popularity": 0.3735,
+            "profile_path": "/7ZENS2dXJ4BU3Hg6dgJwtyvEGBm.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 8,
+            "character": "",
+            "credit_id": "6a02c978ce6c30ee10e152a4",
+            "gender": 0,
+            "id": 2011101,
+            "known_for_department": "Acting",
+            "name": "Prince Kanwaljit Singh",
+            "order": 6,
+            "original_name": "Prince Kanwaljit Singh",
+            "popularity": 0.374,
+            "profile_path": "/A7GaAD73GTyVqokOTVQLzOaS26y.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 9,
+            "character": "",
+            "credit_id": "6a02c97e361d4a9866cfcb30",
+            "gender": 0,
+            "id": 1977200,
+            "known_for_department": "Acting",
+            "name": "Pukhraj Bhalla",
+            "order": 7,
+            "original_name": "Pukhraj Bhalla",
+            "popularity": 0.1968,
+            "profile_path": "/6ikwKwTOcbH0cI6LXHk4tyWsBX9.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 10,
+            "character": "",
+            "credit_id": "6a02c9872651dfe826cfd97b",
+            "gender": 2,
+            "id": 140733,
+            "known_for_department": "Acting",
+            "name": "B.N. Sharma",
+            "order": 8,
+            "original_name": "B.N. Sharma",
+            "popularity": 0.2486,
+            "profile_path": "/5OUMjBNUL9iZrrOlkDmJiN73kZa.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 11,
+            "character": "",
+            "credit_id": "6a02c98de9c63aa9fc68afb3",
+            "gender": 0,
+            "id": 4036400,
+            "known_for_department": "Acting",
+            "name": "Shinda Grewal",
+            "order": 9,
+            "original_name": "Shinda Grewal",
+            "popularity": 0.0691,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 12,
+            "character": "",
+            "credit_id": "6a02c99269388a3a52cabe6b",
+            "gender": 0,
+            "id": 2558282,
+            "known_for_department": "Acting",
+            "name": "Jasmin Bajwa",
+            "order": 10,
+            "original_name": "Jasmin Bajwa",
+            "popularity": 0.2277,
+            "profile_path": "/rd2Gh9H8gsdDLPQiGsGouN6oB2v.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 13,
+            "character": "",
+            "credit_id": "6a02c9a27673832fafcab8c8",
+            "gender": 0,
+            "id": 2011177,
+            "known_for_department": "Acting",
+            "name": "Seema Kaushal",
+            "order": 11,
+            "original_name": "Seema Kaushal",
+            "popularity": 0.23,
+            "profile_path": "/jEaUjYdZK0iQLVOIfGjbTYYGQtY.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 14,
+            "character": "",
+            "credit_id": "6a02c9a9f94f3340afe15518",
+            "gender": 0,
+            "id": 3319799,
+            "known_for_department": "Acting",
+            "name": "Sweetaj Brar",
+            "order": 12,
+            "original_name": "Sweetaj Brar",
+            "popularity": 0.2471,
+            "profile_path": "/dXuTZKQDGzPgVtM39yj2VT5flar.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 15,
+            "character": "",
+            "credit_id": "6a02c9ae28aefa51e9cabd19",
+            "gender": 0,
+            "id": 3439757,
+            "known_for_department": "Acting",
+            "name": "Pawan Johal",
+            "order": 13,
+            "original_name": "Pawan Johal",
+            "popularity": 0.0286,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 16,
+            "character": "",
+            "credit_id": "6a02c9b5d204e7540c68b18c",
+            "gender": 0,
+            "id": 6207254,
+            "known_for_department": "Acting",
+            "name": "Jassi Longowalia",
+            "order": 14,
+            "original_name": "Jassi Longowalia",
+            "popularity": 0.0404,
+            "profile_path": null
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "6889d14ac4ba1112abd023e3",
+            "department": "Directing",
+            "gender": 2,
+            "id": 140713,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Smeep Kang",
+            "original_name": "Smeep Kang",
+            "popularity": 0.341,
+            "profile_path": "/4AQaHDJdAGfvM6ZY6jB1OkwZPpr.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6a02c9c202bdda4050cfcabe",
+            "department": "Production",
+            "gender": 2,
+            "id": 928229,
+            "job": "Producer",
+            "known_for_department": "Acting",
+            "name": "Gippy Grewal",
+            "original_name": "Gippy Grewal",
+            "popularity": 0.5376,
+            "profile_path": "/6DcA4PPq2lQVEBU32mZlhj67VI4.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6a02c9cc25e3e3ebab42159f",
+            "department": "Production",
+            "gender": 0,
+            "id": 3204906,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Ravneet Kaur Grewal",
+            "original_name": "Ravneet Kaur Grewal",
+            "popularity": 0.0214,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a02c9d60fba8746d54215f8",
+            "department": "Writing",
+            "gender": 0,
+            "id": 1293328,
+            "job": "Story",
+            "known_for_department": "Writing",
+            "name": "Naresh Kathooria",
+            "original_name": "Naresh Kathooria",
+            "popularity": 0.1966,
+            "profile_path": "/brMbsVntBx4eUFnr3o3MAZVOZZk.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6a02c9dcc53b75f010e153bd",
+            "department": "Writing",
+            "gender": 0,
+            "id": 1293328,
+            "job": "Screenplay",
+            "known_for_department": "Writing",
+            "name": "Naresh Kathooria",
+            "original_name": "Naresh Kathooria",
+            "popularity": 0.1966,
+            "profile_path": "/brMbsVntBx4eUFnr3o3MAZVOZZk.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6a02c9e27673832fafcab8ce",
+            "department": "Writing",
+            "gender": 0,
+            "id": 1851131,
+            "job": "Lyricist",
+            "known_for_department": "Writing",
+            "name": "Happy Raikoti",
+            "original_name": "Happy Raikoti",
+            "popularity": 0.1389,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a02c9ec69388a3a52cabe82",
+            "department": "Editing",
+            "gender": 2,
+            "id": 1873395,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "Rohit Dhiman",
+            "original_name": "Rohit Dhiman",
+            "popularity": 0.1503,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a02c9f625985675df846b46",
+            "department": "Camera",
+            "gender": 0,
+            "id": 4566141,
+            "job": "Director of Photography",
+            "known_for_department": "Camera",
+            "name": "Sukh Kamboj",
+            "original_name": "Sukh Kamboj",
+            "popularity": 0.0168,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a02ca01f906634bedeac157",
+            "department": "Production",
+            "gender": 0,
+            "id": 4696846,
+            "job": "Executive Producer",
+            "known_for_department": "Production",
+            "name": "Hardeep Dullat",
+            "original_name": "Hardeep Dullat",
+            "popularity": 0.0214,
+            "profile_path": null
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 35,
+          "name": "Commedia"
+        }
+      ],
+      "homepage": "",
+      "id": 1522333,
+      "imdb_id": "tt29704888",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "pa",
+      "original_title": "Carry On Jatta 4",
+      "overview": "",
+      "popularity": 13.706,
+      "poster_path": "/eQv0gvbF7LAveK8Xk8c0SeHyNBW.jpg",
+      "production_companies": [
+        {
+          "id": 86601,
+          "logo_path": null,
+          "name": "Humble Motion Pictures",
+          "origin_country": "IN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "release_date": "2026-06-26",
+      "revenue": 0,
+      "runtime": 0,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Punjabi",
+          "iso_639_1": "pa",
+          "name": "ਪੰਜਾਬੀ"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Carry On Jatta 4",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "\"Carry On Jatta 4\" is the fourth installment of the iconic Punjabi comedy franchise, produced by Humble Motion Pictures, set for release on June 26, 2026. Expect a hilarious rollercoaster of misunderstandings, quirky characters, and laugh-out-loud moments, continuing the legacy of the beloved series.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "爱的大乐斗4"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Die Geschichte knüpft an den urkomischen Humor der Reihe an und dreht sich um Jass, der versucht, die Anerkennung der strengen und wohlhabenden Familie seiner Angebeteten zu gewinnen. Um dies zu erreichen, nimmt Jass eine falsche Identität an, was eine Kettenreaktion aus komischen Pannen, Missverständnissen und chaotischen Situationen auslöst, als mehrere Charaktere mit ihren eigenen verborgenen Geheimnissen auftauchen.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "German",
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "《Carry On Jatta 4》是這部賣座喜劇系列中備受期待的下一部作品。延續該系列標誌性的風格，電影呈現出一張混亂又節奏飛快的爆笑誤會網，充滿犀利幽默與家庭瘋狂——主角們將在一連串全新的意外謊言和滑稽情境中，上演一出出令人捧腹的鬧劇。",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "HK",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
     },
     "153": {
       "adult": false,
@@ -252233,6 +253611,1081 @@
       "video": false,
       "vote_average": 7.147,
       "vote_count": 126
+    },
+    "390271": {
+      "adult": false,
+      "backdrop_path": null,
+      "belongs_to_collection": {
+        "backdrop_path": "/eJVwPYpVkQ5ZIqPQLzguCLx6yCL.jpg",
+        "id": 530016,
+        "name": "Francesco",
+        "poster_path": "/4ohQ94vHG4QAoVCjj2mp5LEogSL.jpg"
+      },
+      "budget": 0,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 0,
+            "character": "Francesco",
+            "credit_id": "56fa266d9251414ddf00189a",
+            "gender": 2,
+            "id": 1482162,
+            "known_for_department": "Acting",
+            "name": "Mateusz Kościukiewicz",
+            "order": 0,
+            "original_name": "Mateusz Kościukiewicz",
+            "popularity": 0.3355,
+            "profile_path": "/n6QFRFcZkHZvSVFt5Qc0jILTXEl.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 1,
+            "character": "Chiara",
+            "credit_id": "56fa267c9251414e8e001691",
+            "gender": 1,
+            "id": 1171457,
+            "known_for_department": "Acting",
+            "name": "Sara Serraiocco",
+            "order": 1,
+            "original_name": "Sara Serraiocco",
+            "popularity": 0.4298,
+            "profile_path": "/p2p9INcMpvs8IeDNJpnPPR5ssft.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 2,
+            "character": "Elia",
+            "credit_id": "56fa26899251414de60017b9",
+            "gender": 2,
+            "id": 131624,
+            "known_for_department": "Acting",
+            "name": "Vinicio Marchioni",
+            "order": 2,
+            "original_name": "Vinicio Marchioni",
+            "popularity": 0.4439,
+            "profile_path": "/phasNXLAL4fylSgts1dNdeXUkuZ.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 3,
+            "character": "Padre di Francesco",
+            "credit_id": "56fa26a7c3a368192e001ad5",
+            "gender": 2,
+            "id": 585,
+            "known_for_department": "Acting",
+            "name": "Rutger Hauer",
+            "order": 3,
+            "original_name": "Rutger Hauer",
+            "popularity": 2.1356,
+            "profile_path": "/xyag0LbjocTwx2Ht7B3RofvCNMT.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 4,
+            "character": "Madre di Francesco",
+            "credit_id": "56fa26b4c3a36819300019d0",
+            "gender": 1,
+            "id": 76340,
+            "known_for_department": "Acting",
+            "name": "Giselda Volodi",
+            "order": 4,
+            "original_name": "Giselda Volodi",
+            "popularity": 0.3092,
+            "profile_path": "/g3L1QiOln7NOOJcDuLNgDum23x9.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 5,
+            "character": "Ugolino",
+            "credit_id": "56fa26c49251414ddf0018a4",
+            "gender": 2,
+            "id": 27419,
+            "known_for_department": "Acting",
+            "name": "Benjamin Sadler",
+            "order": 5,
+            "original_name": "Benjamin Sadler",
+            "popularity": 0.3332,
+            "profile_path": "/AoVhKHDgKsFmq3dHWyhQlfRwhke.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 6,
+            "character": "Leone",
+            "credit_id": "56fa26d19251414ddf0018a7",
+            "gender": 2,
+            "id": 583820,
+            "known_for_department": "Acting",
+            "name": "Michael Schermi",
+            "order": 6,
+            "original_name": "Michael Schermi",
+            "popularity": 0.1663,
+            "profile_path": "/38CwXBwj2Y1HLuimB8N5jTJKmai.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 7,
+            "character": "Ruffino",
+            "credit_id": "56fa26dec3a3681941001a3b",
+            "gender": 2,
+            "id": 81510,
+            "known_for_department": "Acting",
+            "name": "Niccolò Senni",
+            "order": 7,
+            "original_name": "Niccolò Senni",
+            "popularity": 0.2886,
+            "profile_path": "/uaMIXYdpbnQtgda5BSWxxpJLKhI.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 8,
+            "character": "Pelagio",
+            "credit_id": "56fa26ecc3a36819300019d6",
+            "gender": 2,
+            "id": 8772,
+            "known_for_department": "Acting",
+            "name": "Mattia Sbragia",
+            "order": 8,
+            "original_name": "Mattia Sbragia",
+            "popularity": 0.4654,
+            "profile_path": "/uQYa5QiHBMLZ0nAtnWEDMUwrTZa.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 9,
+            "character": "Silvestro",
+            "credit_id": "56fa26f99251414df4001933",
+            "gender": 0,
+            "id": 931542,
+            "known_for_department": "Acting",
+            "name": "Fabio Bussotti",
+            "order": 9,
+            "original_name": "Fabio Bussotti",
+            "popularity": 0.1141,
+            "profile_path": "/xh9zDmpcjMFjbsgCpOShnQF3en7.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 10,
+            "character": "Madre di Chiara",
+            "credit_id": "56fa27099251414ddf0018b4",
+            "gender": 1,
+            "id": 1597944,
+            "known_for_department": "Acting",
+            "name": "Tiziana Bagatella",
+            "order": 10,
+            "original_name": "Tiziana Bagatella",
+            "popularity": 0.0919,
+            "profile_path": "/se3Tni50Ch2JMhm8AfmrWiyk3N4.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 11,
+            "character": "Agnese",
+            "credit_id": "56fa27179251414de40018e5",
+            "gender": 1,
+            "id": 1376830,
+            "known_for_department": "Acting",
+            "name": "Angela Curri",
+            "order": 11,
+            "original_name": "Angela Curri",
+            "popularity": 0.1381,
+            "profile_path": "/cQ7C0awtKn3ebeNC4kcIcVo2tbd.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 12,
+            "character": "Papa Innocenzo III",
+            "credit_id": "56fa272fc3a368193b0019be",
+            "gender": 2,
+            "id": 5214,
+            "known_for_department": "Acting",
+            "name": "Ludwig Blochberger",
+            "order": 12,
+            "original_name": "Ludwig Blochberger",
+            "popularity": 0.2616,
+            "profile_path": "/evoXspimGyBNFNg0AcdvdnfCYeb.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 17,
+            "character": "Pietro Cattani",
+            "credit_id": "629f56f112197e39cd362b97",
+            "gender": 2,
+            "id": 1605558,
+            "known_for_department": "Acting",
+            "name": "Robin Mugnaini",
+            "order": 13,
+            "original_name": "Robin Mugnaini",
+            "popularity": 0.1187,
+            "profile_path": "/tIA8hiw2aL67rP9y8X6Yu4W1caq.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 18,
+            "character": "",
+            "credit_id": "629f573553866e005194d79a",
+            "gender": 2,
+            "id": 566312,
+            "known_for_department": "Acting",
+            "name": "Giulio Pampiglione",
+            "order": 14,
+            "original_name": "Giulio Pampiglione",
+            "popularity": 0.132,
+            "profile_path": "/4QfR8Xs2BTRjLzj4k483UuV5sah.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 19,
+            "character": "Sultano al-Malik al-Kamil",
+            "credit_id": "629f57461e922521e6808596",
+            "gender": 2,
+            "id": 43438,
+            "known_for_department": "Acting",
+            "name": "Mehdi Moinzadeh",
+            "order": 15,
+            "original_name": "Mehdi Moinzadeh",
+            "popularity": 0.1126,
+            "profile_path": "/5NudoLEJQuJE0aIQRFOkWRWea7e.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 20,
+            "character": "Illuminato",
+            "credit_id": "629f5786e19de900507c16f9",
+            "gender": 0,
+            "id": 3579610,
+            "known_for_department": "Acting",
+            "name": "Michele Balducci",
+            "order": 16,
+            "original_name": "Michele Balducci",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 21,
+            "character": "Angelo",
+            "credit_id": "629f57ac65e0a2161177b2e1",
+            "gender": 2,
+            "id": 129647,
+            "known_for_department": "Acting",
+            "name": "Claudio Ammendola",
+            "order": 17,
+            "original_name": "Claudio Ammendola",
+            "popularity": 0.0416,
+            "profile_path": "/qazexs8U3OKCC55uREOXdrVCZl2.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 22,
+            "character": "",
+            "credit_id": "629f57bd7d5db508699bb9a6",
+            "gender": 2,
+            "id": 1779563,
+            "known_for_department": "Acting",
+            "name": "Beniamino Brogi",
+            "order": 18,
+            "original_name": "Beniamino Brogi",
+            "popularity": 0.0712,
+            "profile_path": "/cafPiOS3JEZSX8hR0bJLJbbMYn2.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 23,
+            "character": "",
+            "credit_id": "629f57c47e12f050e5c94c2b",
+            "gender": 2,
+            "id": 237057,
+            "known_for_department": "Acting",
+            "name": "Paolo Bernardini",
+            "order": 19,
+            "original_name": "Paolo Bernardini",
+            "popularity": 0.1961,
+            "profile_path": "/Pd7iMOTn2UDt32DAWosEZclR6o.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 24,
+            "character": "",
+            "credit_id": "629f57c9dc1cb452decd8189",
+            "gender": 2,
+            "id": 27201,
+            "known_for_department": "Acting",
+            "name": "Paco Reconti",
+            "order": 20,
+            "original_name": "Paco Reconti",
+            "popularity": 0.2145,
+            "profile_path": "/87r8ULlNOdoqgrJonbrsGFCImqV.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 25,
+            "character": "",
+            "credit_id": "629f57d67e12f050e5c94c55",
+            "gender": 2,
+            "id": 1051045,
+            "known_for_department": "Acting",
+            "name": "Domenico Fortunato",
+            "order": 21,
+            "original_name": "Domenico Fortunato",
+            "popularity": 0.1763,
+            "profile_path": "/wqJldBIxIyWd7pT2DUna1ZsqgBZ.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 26,
+            "character": "",
+            "credit_id": "629f57dc65e0a2163e68b6a6",
+            "gender": 2,
+            "id": 237777,
+            "known_for_department": "Acting",
+            "name": "Diego Ribon",
+            "order": 22,
+            "original_name": "Diego Ribon",
+            "popularity": 0.3226,
+            "profile_path": "/k0gQxVPbDfTwhFrYZuWB0dSUz8i.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 27,
+            "character": "",
+            "credit_id": "629f57e27e12f050e5c94c60",
+            "gender": 2,
+            "id": 144271,
+            "known_for_department": "Acting",
+            "name": "Brenno Placido",
+            "order": 23,
+            "original_name": "Brenno Placido",
+            "popularity": 0.2413,
+            "profile_path": "/wAdqkBp01Lg8FovrU10ZEJrXOtP.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 28,
+            "character": "",
+            "credit_id": "629f57ec85005d00acaedab7",
+            "gender": 2,
+            "id": 1852414,
+            "known_for_department": "Acting",
+            "name": "Giulio Maria Corso",
+            "order": 24,
+            "original_name": "Giulio Maria Corso",
+            "popularity": 0.1682,
+            "profile_path": "/nJF5QW2QsT7tRbDkXJNs7H0LobF.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 29,
+            "character": "",
+            "credit_id": "629f57f41130bd00504a97a5",
+            "gender": 1,
+            "id": 1361737,
+            "known_for_department": "Acting",
+            "name": "Francesca Agostini",
+            "order": 25,
+            "original_name": "Francesca Agostini",
+            "popularity": 0.3186,
+            "profile_path": "/6RG8eb29BJggpUqJaDw18pZVBGv.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 30,
+            "character": "",
+            "credit_id": "629f57fe12197e39cd362f4b",
+            "gender": 1,
+            "id": 76236,
+            "known_for_department": "Acting",
+            "name": "Carla Cassola",
+            "order": 26,
+            "original_name": "Carla Cassola",
+            "popularity": 0.2065,
+            "profile_path": "/mzx7jVIzGOVQUVxXdvq9NVHQloS.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 31,
+            "character": "",
+            "credit_id": "629f58057e12f050e5c94cf0",
+            "gender": 1,
+            "id": 1148664,
+            "known_for_department": "Acting",
+            "name": "Emilia Verginelli",
+            "order": 27,
+            "original_name": "Emilia Verginelli",
+            "popularity": 0.0902,
+            "profile_path": "/cgkyn1xNHe5Z4Vayq3R398hQ1ui.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "629f582d5507e973ae4f24d3",
+            "department": "Production",
+            "gender": 1,
+            "id": 141203,
+            "job": "Casting",
+            "known_for_department": "Production",
+            "name": "Lilia Trapani",
+            "original_name": "Lilia Trapani",
+            "popularity": 0.1516,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f584aa8b2ca00a7174754",
+            "department": "Production",
+            "gender": 0,
+            "id": 3579611,
+            "job": "Casting",
+            "known_for_department": "Production",
+            "name": "Gianni Laricchiuta",
+            "original_name": "Gianni Laricchiuta",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f58557d5db5086bedfbde",
+            "department": "Production",
+            "gender": 0,
+            "id": 2568275,
+            "job": "Casting",
+            "known_for_department": "Directing",
+            "name": "Alessandro Trapani",
+            "original_name": "Alessandro Trapani",
+            "popularity": 0.0468,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f586c53866e009c08fbab",
+            "department": "Directing",
+            "gender": 0,
+            "id": 3030544,
+            "job": "First Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Tommaso Pagliai",
+            "original_name": "Tommaso Pagliai",
+            "popularity": 0.0852,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f587ddc1cb452decd8397",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 1354911,
+            "job": "Costume Design",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Lia Francesca Morandini",
+            "original_name": "Lia Francesca Morandini",
+            "popularity": 0.1388,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f589165e0a21610df24a9",
+            "department": "Art",
+            "gender": 0,
+            "id": 32311,
+            "job": "Production Design",
+            "known_for_department": "Art",
+            "name": "Giantito Burchiellaro",
+            "original_name": "Giantito Burchiellaro",
+            "popularity": 0.1128,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f58a0a8b2ca0066083eb3",
+            "department": "Art",
+            "gender": 0,
+            "id": 3573079,
+            "job": "Set Decoration",
+            "known_for_department": "Art",
+            "name": "Vincenzo Forletta",
+            "original_name": "Vincenzo Forletta",
+            "popularity": 0.0919,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f58f31e922521e4d2c62b",
+            "department": "Writing",
+            "gender": 1,
+            "id": 67750,
+            "job": "Story",
+            "known_for_department": "Directing",
+            "name": "Liliana Cavani",
+            "original_name": "Liliana Cavani",
+            "popularity": 0.4379,
+            "profile_path": "/840kv5t9eE9lW8jnf7o18unPsxd.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "629f58fb65e0a21610df261f",
+            "department": "Writing",
+            "gender": 2,
+            "id": 1008735,
+            "job": "Story",
+            "known_for_department": "Writing",
+            "name": "Mario Falcone",
+            "original_name": "Mario Falcone",
+            "popularity": 0.1556,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f590553866e005194dd9e",
+            "department": "Writing",
+            "gender": 2,
+            "id": 27292,
+            "job": "Story",
+            "known_for_department": "Writing",
+            "name": "Gianmario Pagano",
+            "original_name": "Gianmario Pagano",
+            "popularity": 0.2404,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f59165507e973ae4f27b7",
+            "department": "Writing",
+            "gender": 1,
+            "id": 67750,
+            "job": "Screenplay",
+            "known_for_department": "Directing",
+            "name": "Liliana Cavani",
+            "original_name": "Liliana Cavani",
+            "popularity": 0.4379,
+            "profile_path": "/840kv5t9eE9lW8jnf7o18unPsxd.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "629f591e53866e005194de25",
+            "department": "Writing",
+            "gender": 2,
+            "id": 1008735,
+            "job": "Screenplay",
+            "known_for_department": "Writing",
+            "name": "Mario Falcone",
+            "original_name": "Mario Falcone",
+            "popularity": 0.1556,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f592685005d00acaede20",
+            "department": "Writing",
+            "gender": 2,
+            "id": 27292,
+            "job": "Screenplay",
+            "known_for_department": "Writing",
+            "name": "Gianmario Pagano",
+            "original_name": "Gianmario Pagano",
+            "popularity": 0.2404,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f592e5507e973b0b8b110",
+            "department": "Writing",
+            "gender": 1,
+            "id": 237098,
+            "job": "Screenplay",
+            "known_for_department": "Writing",
+            "name": "Monica Zapelli",
+            "original_name": "Monica Zapelli",
+            "popularity": 0.2729,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f594353866e009c08fe5f",
+            "department": "Sound",
+            "gender": 2,
+            "id": 230410,
+            "job": "Original Music Composer",
+            "known_for_department": "Sound",
+            "name": "Mauro Pagani",
+            "original_name": "Mauro Pagani",
+            "popularity": 0.0563,
+            "profile_path": "/mkODGJDJT0uxWOGazSr9BoQ58mb.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "629f595f85005d0052b94bfb",
+            "department": "Camera",
+            "gender": 0,
+            "id": 100417,
+            "job": "Director of Photography",
+            "known_for_department": "Camera",
+            "name": "Enrico Lucidi",
+            "original_name": "Enrico Lucidi",
+            "popularity": 0.1765,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f59777d5db5086a5124b7",
+            "department": "Editing",
+            "gender": 0,
+            "id": 39615,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "Massimo Quaglia",
+            "original_name": "Massimo Quaglia",
+            "popularity": 0.1286,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f59827d5db5086bedff4a",
+            "department": "Production",
+            "gender": 0,
+            "id": 1183998,
+            "job": "Line Producer",
+            "known_for_department": "Production",
+            "name": "Angelo Zemella",
+            "original_name": "Angelo Zemella",
+            "popularity": 0.0915,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f59971130bd0066b1feb5",
+            "department": "Production",
+            "gender": 0,
+            "id": 3578125,
+            "job": "Supervising Producer",
+            "known_for_department": "Production",
+            "name": "Anna Maria Moroni",
+            "original_name": "Anna Maria Moroni",
+            "popularity": 0.0286,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f59a253866e005194dffd",
+            "department": "Production",
+            "gender": 0,
+            "id": 1472553,
+            "job": "Delegated Producer",
+            "known_for_department": "Production",
+            "name": "Leonardo Ferrara",
+            "original_name": "Leonardo Ferrara",
+            "popularity": 0.1632,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f59aa7e12f050e4bb9d24",
+            "department": "Production",
+            "gender": 0,
+            "id": 3575528,
+            "job": "Delegated Producer",
+            "known_for_department": "Production",
+            "name": "Tonino Nieddu",
+            "original_name": "Tonino Nieddu",
+            "popularity": 0.0413,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f59bf85005d00acaedf45",
+            "department": "Production",
+            "gender": 1,
+            "id": 29544,
+            "job": "Producer",
+            "known_for_department": "Acting",
+            "name": "Claudia Mori",
+            "original_name": "Claudia Mori",
+            "popularity": 0.3064,
+            "profile_path": "/bRLJxKTmGdSGvkYX1w0EuSapACw.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "629f5a14e19de900665a72af",
+            "department": "Production",
+            "gender": 0,
+            "id": 1913407,
+            "job": "Production Manager",
+            "known_for_department": "Production",
+            "name": "Massimo Iacobis",
+            "original_name": "Massimo Iacobis",
+            "popularity": 0.0773,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f5a1dd2147c117cb22910",
+            "department": "Production",
+            "gender": 0,
+            "id": 3431576,
+            "job": "Unit Manager",
+            "known_for_department": "Production",
+            "name": "Remo Chiappa",
+            "original_name": "Remo Chiappa",
+            "popularity": 0.0946,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f5a3465e0a2161177bb23",
+            "department": "Directing",
+            "gender": 1,
+            "id": 2318842,
+            "job": "Script Supervisor",
+            "known_for_department": "Directing",
+            "name": "Annamaria Liguori",
+            "original_name": "Annamaria Liguori",
+            "popularity": 0.0967,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f5a48dc1cb452decd88cd",
+            "department": "Costume & Make-Up",
+            "gender": 2,
+            "id": 1318806,
+            "job": "Makeup Department Head",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Manlio Rocchetti",
+            "original_name": "Manlio Rocchetti",
+            "popularity": 0.1193,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f5a551130bd0066b20076",
+            "department": "Costume & Make-Up",
+            "gender": 2,
+            "id": 2198254,
+            "job": "Hair Department Head",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Massimiliano Duranti",
+            "original_name": "Massimiliano Duranti",
+            "popularity": 0.0672,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f5a8ae19de900507c1e1f",
+            "department": "Camera",
+            "gender": 2,
+            "id": 1440494,
+            "job": "Camera Operator",
+            "known_for_department": "Camera",
+            "name": "Alessandro Bolognesi",
+            "original_name": "Alessandro Bolognesi",
+            "popularity": 0.0672,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f5a9ed2147c117cb22a76",
+            "department": "Camera",
+            "gender": 0,
+            "id": 3579619,
+            "job": "Camera Operator",
+            "known_for_department": "Camera",
+            "name": "Fabio Massimo Sargenti",
+            "original_name": "Fabio Massimo Sargenti",
+            "popularity": 0.0593,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f5aaaa8b2ca0050da7de2",
+            "department": "Sound",
+            "gender": 0,
+            "id": 3515849,
+            "job": "Sound",
+            "known_for_department": "Sound",
+            "name": "Fabio Melorio",
+            "original_name": "Fabio Melorio",
+            "popularity": 0.0423,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f5ac27d5db5086bee0237",
+            "department": "Sound",
+            "gender": 0,
+            "id": 3579623,
+            "job": "Boom Operator",
+            "known_for_department": "Sound",
+            "name": "Valentino Amato",
+            "original_name": "Valentino Amato",
+            "popularity": 0.0725,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f5acba8b2ca00a7174e90",
+            "department": "Lighting",
+            "gender": 0,
+            "id": 3145036,
+            "job": "Gaffer",
+            "known_for_department": "Lighting",
+            "name": "Agostino Gorga",
+            "original_name": "Agostino Gorga",
+            "popularity": 0.0922,
+            "profile_path": null
+          },
+          {
+            "adult": true,
+            "credit_id": "629f5ad765e0a2163e68bed8",
+            "department": "Camera",
+            "gender": 0,
+            "id": 3571116,
+            "job": "Key Grip",
+            "known_for_department": "Camera",
+            "name": "Valter Pavia",
+            "original_name": "Valter Pavia",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f5aecd2147c117cb22ba1",
+            "department": "Crew",
+            "gender": 2,
+            "id": 68332,
+            "job": "Stunt Coordinator",
+            "known_for_department": "Acting",
+            "name": "Marco Stefanelli",
+            "original_name": "Marco Stefanelli",
+            "popularity": 0.1966,
+            "profile_path": "/uUpR3RmwhMemIxKRsbbkiEOX1Na.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "629f5b08e19de9009a67e998",
+            "department": "Directing",
+            "gender": 0,
+            "id": 3030543,
+            "job": "Second Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Massimiliano Battistella",
+            "original_name": "Massimiliano Battistella",
+            "popularity": 0.0714,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f5b1a53866e009c090312",
+            "department": "Directing",
+            "gender": 0,
+            "id": 3571422,
+            "job": "Second Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Armando De Vincentis",
+            "original_name": "Armando De Vincentis",
+            "popularity": 0.1154,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "629f5b4353866e00668763fd",
+            "department": "Sound",
+            "gender": 0,
+            "id": 2917035,
+            "job": "Sound Mixer",
+            "known_for_department": "Sound",
+            "name": "Gianni Pallotto",
+            "original_name": "Gianni Pallotto",
+            "popularity": 0.0936,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "56fa274f9251414deb001956",
+            "department": "Directing",
+            "gender": 1,
+            "id": 67750,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Liliana Cavani",
+            "original_name": "Liliana Cavani",
+            "popularity": 0.4379,
+            "profile_path": "/840kv5t9eE9lW8jnf7o18unPsxd.jpg"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 18,
+          "name": "Dramma"
+        },
+        {
+          "id": 36,
+          "name": "Storia"
+        },
+        {
+          "id": 10770,
+          "name": "televisione film"
+        }
+      ],
+      "homepage": "",
+      "id": 390271,
+      "imdb_id": "tt3746938",
+      "origin_country": [
+        "IT"
+      ],
+      "original_language": "it",
+      "original_title": "Francesco",
+      "overview": "Metà del 1200. Chiara d'Assisi è una donna ormai anziana, che ha fondato un ordine nella città dov'è morto Giovanni di Pietro Bernardone, meglio noto ai pellegrini cristiani come Francesco. Il ricco Ugolino, protettore e finanziatore dell'ordine francescano istituito in vita da Francesco, vuole che l'amministrazione dell'ordine monastico creato anche da Chiara venga affidato a lui, e che la suora venga curata, dato che la sua salute cagionevole non può sopportare le privazioni che si è imposta, vivendo in estrema povertà, assieme alle sue sorelle, come faceva Francesco con i suoi confratelli.",
+      "popularity": 0.66,
+      "poster_path": "/6wOB8BhUYtamkDfpOqkenPP03q8.jpg",
+      "production_companies": [
+        {
+          "id": 74817,
+          "logo_path": null,
+          "name": "Ciao Ragazzi",
+          "origin_country": "IT"
+        },
+        {
+          "id": 162,
+          "logo_path": "/pIK5tsFVxjoXTJGcd0nYhiL1kn1.png",
+          "name": "BR",
+          "origin_country": "DE"
+        },
+        {
+          "id": 154744,
+          "logo_path": "/qYIEHRctL3YFth36F1LwhEQvOl5.png",
+          "name": "Rai Fiction",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "release_date": "2014-12-08",
+      "revenue": 0,
+      "runtime": 200,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Francesco",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Als verwöhnter Sohn reicher Kaufleute führt der in Assisi lebende Franziskus zu Beginn des 13. Jahrhunderts ein Leben in Luxus. Allgegenwärtiges Leid und Elend sind ihm zunächst fremd.  Das ändert sich, als er die Schrecken des Krieges persönlich miterlebt. Im Städtekampf zwischen Perugia und Assisi gerät er in Kriegsgefangenschaft, aus der ihn letztendlich nur der reiche Vater freikaufen kann. Kurz darauf fallen ihm Bibelverse in die Hände und sein Leben beginnt sich zu ändern.",
+              "runtime": 200,
+              "tagline": "",
+              "title": "Sein Name war Franziskus"
+            },
+            "english_name": "German",
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "French",
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Metà del 1200. Chiara d'Assisi è una donna ormai anziana, che ha fondato un ordine nella città dov'è morto Giovanni di Pietro Bernardone, meglio noto ai pellegrini cristiani come Francesco. Il ricco Ugolino, protettore e finanziatore dell'ordine francescano istituito in vita da Francesco, vuole che l'amministrazione dell'ordine monastico creato anche da Chiara venga affidato a lui, e che la suora venga curata, dato che la sua salute cagionevole non può sopportare le privazioni che si è imposta, vivendo in estrema povertà, assieme alle sue sorelle, come faceva Francesco con i suoi confratelli.",
+              "runtime": 200,
+              "tagline": "",
+              "title": "Francesco"
+            },
+            "english_name": "Italian",
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Svatý František Serafinský musel ve svém životě vybojovat mnoho bitev, než došel širšího uznání… Během válečného tažení s Perugií je František vykoupen ze zajetí svým otcem, bohatým obchodníkem s látkami. Proti vlastnímu přesvědčení je nucen vymáhat dluhy a vést otcovy obchodní záležitosti. František se proto rozhodne podniknout křížovou výpravu. Tomu je ale otec nakloněn, pod vidinou získání šlechtického titulu. Během cesty na Františka dolehne vidění a začne prokazovat boží milosrdenství dle evangelií. Navzdory otci rozdá veškerý majetek chudým, začne pomáhat malomocným a s rozšiřujícím se počtem stoupenců opraví zborcený kostel sv. Damiána. Nakonec se Františkovi podaří vyvrátit kacířská obvinění, když papež Inocenc III. požehná Řádu menších bratří, k němuž se přidávají také řeholnice, v čele s Klárou z Assisi. Chystá se mezinárodní shromáždění žebravého řádu – František však není na početné davy připraven...",
+              "runtime": 0,
+              "tagline": "Co může člověk dát, aby vykoupil svou duši? Nelze sloužit Bohu i majetku.",
+              "title": "Jmenoval se František"
+            },
+            "english_name": "Czech",
+            "iso_3166_1": "CZ",
+            "iso_639_1": "cs",
+            "name": "Český"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Depicts various periods in the life of Saint Francesco: Youth and the first conversion in 1206, the process that inflicts his father, the birth of the historical nucleus of Fraternitas and the departure for the Holy Land up to the writing of rules and death, addressing the problem of the legacy of his message in the different interpretation that Chiara and Elia will give it.",
+              "runtime": 193,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Representa varios períodos de la vida de San Francisco: la juventud y la primera conversión en 1206, el proceso que inflige a su padre, el nacimiento del núcleo histórico de Fraternitas y la salida a Tierra Santa hasta la redacción de las reglas y la muerte, dirigiéndose el problema del legado de su mensaje en la diferente interpretación que le darán Chiara y Elia.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Toont verschillende periodes in het leven van de heilige Francesco: de jeugd en de eerste bekering in 1206, het proces dat zijn vader teweegbrengt, de geboorte van de historische kern van Fraternitas en het vertrek naar het Heilige Land tot aan het schrijven van regels en de dood, waarbij het probleem van de erfenis van zijn boodschap wordt aangepakt in de verschillende interpretatie die Chiara en Elia eraan zullen geven.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Dutch",
+            "iso_3166_1": "NL",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 1
     },
     "399019": {
       "adult": false,
@@ -351742,6 +354195,27 @@
         "vote_count": 244
       }
     ],
+    "carry on jatta 4|": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 1522333,
+        "original_language": "pa",
+        "original_title": "Carry On Jatta 4",
+        "overview": "",
+        "popularity": 13.706,
+        "poster_path": "/eQv0gvbF7LAveK8Xk8c0SeHyNBW.jpg",
+        "release_date": "2026-06-26",
+        "softcore": false,
+        "title": "Carry On Jatta 4",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
     "casablanca|": [
       {
         "adult": false,
@@ -354080,6 +356554,7 @@
       }
     ],
     "diaz non pulite questo sangue|": [],
+    "dibattito con gianfranco rosi|": [],
     "die my love|": [
       {
         "adult": false,
@@ -354372,6 +356847,144 @@
         "video": false,
         "vote_average": 7.4,
         "vote_count": 9
+      }
+    ],
+    "don t let the sun|": [
+      {
+        "adult": false,
+        "backdrop_path": "/cg5VIuHIRIkHIKh3rEfkptIgNqS.jpg",
+        "genre_ids": [
+          18,
+          878
+        ],
+        "id": 1437612,
+        "original_language": "en",
+        "original_title": "Don't Let the Sun",
+        "overview": "In un futuro prossimo dove, a causa dei cambiamenti climatici, il giorno è diventato insopportabilmente caldo, la vita sociale è stata spostata di notte, quando la temperatura risulta più tollerabile. Tutto accade di notte, mentre di giorno si dorme e la città si svuota.  In questo mondo, il caldo torrido dell’aria contrasta con il gelo delle relazioni umane, sempre più svuotate di affettività. Jonah lavora per un'agenzia che cerca di sfruttare questa condizione di isolamento e solitudine per offrire a clienti privati il servizio di attori in grado di assumere il ruolo di stretti familiari senza generare le tensioni emotive che un vero figlio o marito potrebbero scatenare. Un giorno a Jonah viene chiesto di assumere il ruolo di padre della piccola e tormentata Nika. Lui accetta la proposta della madre, che spera che in questo modo la bambina superi la sua malinconica insofferenza e si apra un poco alla vita.",
+        "popularity": 0.6824,
+        "poster_path": "/7cNJLsNEdVPvovKxrhu6ITvDt4t.jpg",
+        "release_date": "2026-05-21",
+        "softcore": false,
+        "title": "Don't Let the Sun",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1014693,
+        "original_language": "en",
+        "original_title": "Don't Let the Sun Go Down",
+        "overview": "",
+        "popularity": 0.0393,
+        "poster_path": "/zb0vI4JHSRK5RfghoiLgkVFvE0P.jpg",
+        "release_date": "2022-07-30",
+        "softcore": false,
+        "title": "Don't Let the Sun Go Down",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jV28oUEKJuQNSziX07eHUUMuqO3.jpg",
+        "genre_ids": [
+          16,
+          99
+        ],
+        "id": 1268977,
+        "original_language": "en",
+        "original_title": "Don't Let the Sun Catch You Crying",
+        "overview": "",
+        "popularity": 0.0959,
+        "poster_path": "/rRHEIuKovZOen3MKwK9q5tU0soB.jpg",
+        "release_date": "2024-05-07",
+        "softcore": false,
+        "title": "Don't Let the Sun Catch You Crying",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 1153259,
+        "original_language": "cn",
+        "original_title": "我愛夏日長",
+        "overview": "",
+        "popularity": 0.3942,
+        "poster_path": "/p6h4ZLlNT3dX45bmvwEItohRnQi.jpg",
+        "release_date": "2002-01-10",
+        "softcore": false,
+        "title": "我愛夏日長",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          18
+        ],
+        "id": 1587929,
+        "original_language": "fr",
+        "original_title": "Le Soleil Des Autres",
+        "overview": "",
+        "popularity": 0.0264,
+        "poster_path": "/jnNubEd2QVRNVoNyQArhAmwk8ST.jpg",
+        "release_date": "",
+        "softcore": false,
+        "title": "Le Soleil Des Autres",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 193196,
+        "original_language": "ar",
+        "original_title": "لا تطفئ الشمس",
+        "overview": "",
+        "popularity": 0.1842,
+        "poster_path": "/kTXycvzadFoVsagfeN2ioGrS4kd.jpg",
+        "release_date": "1961-12-25",
+        "softcore": false,
+        "title": "لا تطفئ الشمس",
+        "video": false,
+        "vote_average": 7.667,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/LbLP1yi4WHI3HZO7iQW43B5FZU.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1319972,
+        "original_language": "en",
+        "original_title": "Don't Let's Go to the Dogs Tonight",
+        "overview": "",
+        "popularity": 0.5821,
+        "poster_path": "/5V59yYkVfqrhMIcKGdJZRxqWb3H.jpg",
+        "release_date": "2025-07-11",
+        "softcore": false,
+        "title": "Don't Let's Go to the Dogs Tonight",
+        "video": false,
+        "vote_average": 6.804,
+        "vote_count": 28
       }
     ],
     "dracula l amore perduto|": [
@@ -356161,6 +358774,397 @@
         "video": false,
         "vote_average": 5.946,
         "vote_count": 37
+      }
+    ],
+    "francesco|": [
+      {
+        "adult": false,
+        "backdrop_path": "/tIZcNhg1ipg8a5GlwEMRMKQ4l8l.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 84981,
+        "original_language": "en",
+        "original_title": "Francesco",
+        "overview": "Dopo la morte di Francesco di Assisi, Chiara e cinque tra i seguaci del Santo s'incontrano per ricordare episodi della vita dell’uomo che cambiò le loro vite. Leone redige sul suo quaderno spunti e ricordi, aiutato dagli altri: da una giovinezza dissoluta alla prigionia in tempo di guerra, dalla scelta di rinunciare ai beni di famiglia per andare con poveri e lebbrosi alla vita miserabile ed eroica condotta da Francesco coi primi confratelli. Seguono poi l’incontro con Chiara e I'approvazione di Papa Innocenzo III - confermata dal successore Onorio III, affinché i fraticelli avessero una Regola - ed infine I'ultima parte della vita del Santo, forse la più dura e tormentata, quando percepirà che anche nella comunità da lui creata possono serpeggiare la corruzione e le divisioni interne. E’ il momento in cui Francesco si rifugia con fra' Leone sulle montagne, per meditare e pregare Dio, dal quale riceverà le stigmate, il segno supremo della santità.",
+        "popularity": 0.606,
+        "poster_path": "/4y03pPe73uA5l8SmYhL2BpGfBrg.jpg",
+        "release_date": "1989-03-22",
+        "softcore": false,
+        "title": "Francesco",
+        "video": false,
+        "vote_average": 6.585,
+        "vote_count": 59
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          36,
+          10770
+        ],
+        "id": 390271,
+        "original_language": "it",
+        "original_title": "Francesco",
+        "overview": "Metà del 1200. Chiara d'Assisi è una donna ormai anziana, che ha fondato un ordine nella città dov'è morto Giovanni di Pietro Bernardone, meglio noto ai pellegrini cristiani come Francesco. Il ricco Ugolino, protettore e finanziatore dell'ordine francescano istituito in vita da Francesco, vuole che l'amministrazione dell'ordine monastico creato anche da Chiara venga affidato a lui, e che la suora venga curata, dato che la sua salute cagionevole non può sopportare le privazioni che si è imposta, vivendo in estrema povertà, assieme alle sue sorelle, come faceva Francesco con i suoi confratelli.",
+        "popularity": 0.66,
+        "poster_path": "/6wOB8BhUYtamkDfpOqkenPP03q8.jpg",
+        "release_date": "2014-12-08",
+        "softcore": false,
+        "title": "Francesco",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sRJLnnaXer4X6HwO35WI710cfPD.jpg",
+        "genre_ids": [
+          36,
+          10770
+        ],
+        "id": 463992,
+        "original_language": "it",
+        "original_title": "Francesco",
+        "overview": "Prodotta nel 2002 dalla Taodue Film di Pietro Valsecchi per MediaTrade, la miniserie è composta originariamente da 2 puntate, per una durata complessiva di 182 minuti. Nel 2004 è stata proposta una versione DVD che presenta la carenza di alcune scene, per una durata totale di 126 minuti circa. Il 5 ottobre 2002, giorno precedente alla messa in onda in prima visione TV su Canale 5 in prima serata, la fiction venne proiettata in anteprima alla sala dell'Auditorium di Roma: furono presenti anche Carlo Azeglio Ciampi, allora presidente della Repubblica, sua moglie Franca Pilla, Pier Ferdinando Casini, allora presidente della Camera, Piersilvio Berlusconi, allora vicepresidente di Mediaset.",
+        "popularity": 0.3221,
+        "poster_path": "/wXIYruPSk0vcUXnDXMQVK4sKmOW.jpg",
+        "release_date": "2002-10-05",
+        "softcore": false,
+        "title": "Francesco",
+        "video": false,
+        "vote_average": 5.75,
+        "vote_count": 16
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/208j9iCb7J3avBp1FS9jylxvFf2.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 749446,
+        "original_language": "en",
+        "original_title": "Francesco",
+        "overview": "Francesco guarda senza mezzi termini alle sfide più pressanti del 21° secolo, ponendo domande profonde sulla condizione umana. Il film è guidato da Papa Francesco che, con enorme umiltà, saggezza e generosità, offre commoventi lezioni dalla sua vita che illuminano ciò che servirà per costruire un futuro migliore. Nel fare ciò, affronta questioni come il cambiamento climatico, l'immigrazione, la pace e la tolleranza religiosa, il supporto LGBTQ, la giustizia di genere e di identità, e l'uguaglianza economica.",
+        "popularity": 0.2517,
+        "poster_path": "/bTvgtnMdFLPzzwUapXNx7Hw7AGo.jpg",
+        "release_date": "2020-10-25",
+        "softcore": false,
+        "title": "Francesco",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4GKQxahuqN8LxFFbxAxBTFViMhv.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 1191710,
+        "original_language": "it",
+        "original_title": "Francesco",
+        "overview": "È il tempo della V Crociata, quando Francesco di Assisi parte alla volta di Damietta per portare un messaggio di pace in una terra devastata da una feroce guerra combattuta in nome della salvaguardia della fede. Dopo un intenso e animato scambio di opinioni, spesso contrastanti, il frate e il sultano musulmano al-Malik riusciranno a calarsi l'uno nei panni dell'altro.",
+        "popularity": 0.1652,
+        "poster_path": "/ufF1vs53MFMItzLRCuIMCyESNf5.jpg",
+        "release_date": "2020-10-04",
+        "softcore": false,
+        "title": "Francesco",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          36,
+          18
+        ],
+        "id": 515122,
+        "original_language": "en",
+        "original_title": "Francesco",
+        "overview": "",
+        "popularity": 0.0306,
+        "poster_path": "/adz4Vq6ad86yMr7NKD3jWShnwcV.jpg",
+        "release_date": "2002-10-06",
+        "softcore": false,
+        "title": "Francesco",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1nNzDaTL8pnBU7ECywPGSyAIZeV.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 346362,
+        "original_language": "it",
+        "original_title": "Noi siamo Francesco",
+        "overview": "Francesco è un ragazzo di 22 anni che non ha le braccia dalla nascita; il resto del suo corpo è ‘normale', anzi, piuttosto bello e ben formato. Col tempo ha imparato ad utilizzare le gambe come unici arti, mentre i piedi sono diventati le sue specialissime e abilissime mani. Francesco vive con sua madre, Grazia, un famoso architetto di Bari. E' uno studente universitario modello ed ha un amico, Stefano, che per lui è come un fratello. Francesco però, a differenza dell'amico, non ha ancora mai vissuto le gioie dell'amore, e la cosa per lui, che ha più di vent'anni, inizia a rappresentare un problema.",
+        "popularity": 0.1574,
+        "poster_path": "/v3tNsCz64lvENHJAVomD9aoRqGu.jpg",
+        "release_date": "2015-06-25",
+        "softcore": false,
+        "title": "Noi siamo Francesco",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cwpBsjlSuSrJF3WmpN2hc1kR4Vj.jpg",
+        "genre_ids": [
+          36
+        ],
+        "id": 138129,
+        "original_language": "it",
+        "original_title": "Chiara e Francesco",
+        "overview": "Italia, XIII secolo. La storia dell'amicizia tra due giovani che hanno dedicato la loro vita a Dio e ad altri: San Francesco e Santa Chiara d'Assisi. I figli della borghesia e della nobiltà, rispettivamente, hanno rinunciato alla loro vita accolti da una vita di sacrificio, umiltà e proselitismo ...",
+        "popularity": 0.2436,
+        "poster_path": "/2ZTvl9w0BGniQVu2rBD48QsnjlP.jpg",
+        "release_date": "2007-10-07",
+        "softcore": false,
+        "title": "Chiara e Francesco",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 41
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eqgXan3bVMvEzXdkzhvjqriqhC8.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1082561,
+        "original_language": "it",
+        "original_title": "Francesco Il Cantico",
+        "overview": "Roberto Benigni ci racconta il San Francesco più intimo e autentico: un viaggio sorprendente che culmina nel Cantico delle Creature, un inno d'amore che ancora oggi colpisce per la modernità del suo messaggio di pace e fratellanza.",
+        "popularity": 0.1958,
+        "poster_path": "/7VzwmmCfYseuNDLj0D5UeQ3dkqp.jpg",
+        "release_date": "2022-12-08",
+        "softcore": false,
+        "title": "Francesco - Il cantico",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 408940,
+        "original_language": "it",
+        "original_title": "Frate Francesco",
+        "overview": "",
+        "popularity": 0.116,
+        "poster_path": "/8SVBajDLbqXGV7SZPjg6Eg2Omyh.jpg",
+        "release_date": "1927-04-29",
+        "softcore": false,
+        "title": "Frate Francesco",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fLJ70qRVLFfsBhhrpzkxVTU2feL.jpg",
+        "genre_ids": [
+          35,
+          14
+        ],
+        "id": 142486,
+        "original_language": "fr",
+        "original_title": "François 1er",
+        "overview": "",
+        "popularity": 0.4733,
+        "poster_path": "/8Epjk4A3Yl4VTG3t3PaVXIzWRN7.jpg",
+        "release_date": "1937-02-17",
+        "softcore": false,
+        "title": "Francesco I",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 29
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eJVwPYpVkQ5ZIqPQLzguCLx6yCL.jpg",
+        "genre_ids": [],
+        "id": 530014,
+        "original_language": "de",
+        "original_title": "Francesco II.",
+        "overview": "",
+        "popularity": 0.0311,
+        "poster_path": "/4ohQ94vHG4QAoVCjj2mp5LEogSL.jpg",
+        "release_date": "",
+        "softcore": false,
+        "title": "Francesco II.",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nkDRQOvrJSkVEo0LSY7RQpCTqSS.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 56518,
+        "original_language": "it",
+        "original_title": "Francesco, giullare di Dio",
+        "overview": "Prima di dare indicazione ai suoi discepoli di portare nel mondo la parola di Dio, Francesco d'Assisi vive con loro in comunità. Vari episodi, riportati nei \"Fioretti\", illustrano lo stile di vita del santo e dell'ordine da lui fondato: l'elogio di Frate Fuoco, il bacio al lebbroso, la carità di Frate Ginepro.",
+        "popularity": 0.5763,
+        "poster_path": "/1rGoDxofKobRw45m97OdEZgiGm5.jpg",
+        "release_date": "1950-12-15",
+        "softcore": false,
+        "title": "Francesco, giullare di Dio",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 101
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/44F9TlManv2lvJ70oLect1lVe4E.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 605255,
+        "original_language": "it",
+        "original_title": "Mi chiamo Francesco Totti",
+        "overview": "E’ la notte che precede il suo addio al calcio e Francesco Totti ripercorre tutta la sua vita, come se la vedesse proiettata su uno schermo insieme agli spettatori. Le immagini e le emozioni scorrono tra momenti chiave della sua carriera, scene di vita personale e ricordi inediti. Un racconto intimo, in prima persona, dello sportivo e dell’uomo.",
+        "popularity": 0.424,
+        "poster_path": "/wmFSna3qM12DNPdpkdwCA0oNFyc.jpg",
+        "release_date": "2020-10-19",
+        "softcore": false,
+        "title": "Mi chiamo Francesco Totti",
+        "video": false,
+        "vote_average": 7.441,
+        "vote_count": 213
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eRHq1NHclg6IaloLcOpHqh857RW.jpg",
+        "genre_ids": [
+          36,
+          18,
+          10770
+        ],
+        "id": 205875,
+        "original_language": "it",
+        "original_title": "Francesco d'Assisi",
+        "overview": "Francesco d'Assisi (1182-1226), figlio di un ricco mercante, Pietro di Bernardone, e di una gentildonna francese (Donna Pica), dopo una giovinezza dissipata, entra in crisi e scopre altri valori che cerca di diffondere. Si ritira a La Verna dove riceve il dono delle stimmate il 14 settembre 1224. Muore ad Assisi, presso Santa Maria degli Angeli (Porziuncola), la notte tra il 3 ed il 4 ottobre 1226, circondato dai suoi discepoli.",
+        "popularity": 0.2099,
+        "poster_path": "/uW6pD4dx5YSa2iznGM27NdDtbDw.jpg",
+        "release_date": "1966-09-01",
+        "softcore": false,
+        "title": "Francesco d'Assisi",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9dbhiLxIq5cFp72A05wnnYUviVO.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 468066,
+        "original_language": "it",
+        "original_title": "Francesco Nuti… e vengo da lontano",
+        "overview": "Un film che narra la storia di Francesco, i suoi ricordi il suo rapporto con il padre di cui conservava una foto dietro la scrivania del suo ufficio. C'è Prato e i paesaggi toscani che si ritrovano quasi sempre nei suoi film, gli amici e gli scherzi, il suo dirsi ignorante ma con la capacità di studiarsi il cinema americano e le sue inquadrature prima di cominciare a girare. Ci sono la sua permalosità e la sua generosità e poi le prime sconfitte e la difficoltà di accettarle, gli errori e le invidie, che abbiamo voluto rompere, perché Francesco è vivo.",
+        "popularity": 0.2493,
+        "poster_path": "/1nQ4Ze3grAx1eo1sGPUnvGwCqI.jpg",
+        "release_date": "2010-11-05",
+        "softcore": false,
+        "title": "Francesco Nuti… e vengo da lontano",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hKmVHmzOFBmHNpSPzHD5DsjJF0g.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 830554,
+        "original_language": "it",
+        "original_title": "Ti vogliamo bene Francesco Nuti",
+        "overview": "La storia si dipana, nella sua semplicità, attraverso la narrazione che fa un nonno al nipote. L uomo è un amante del cinema e cerca di coinvolgere il piccolo in questa sua passione. Francesco Nuti è il suo idolo. Dopo l ennesimo film di questo artista che i due hanno visto, l uomo accompagna il bimbo a dormire. Poco dopo il ragazzino sogna una figura somigliante al nonno, che gli spiega i valori della vita, attraverso i film di Nuti.",
+        "popularity": 0.1595,
+        "poster_path": "/fK8oqSeIb0uYHS9lx3diFdBSQGk.jpg",
+        "release_date": "2021-05-17",
+        "softcore": false,
+        "title": "Ti vogliamo bene Francesco Nuti",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402,
+          99
+        ],
+        "id": 570172,
+        "original_language": "it",
+        "original_title": "Francesco Guccini - La mia Thule",
+        "overview": "È stato girato nel Mulino di Chicòn, a Pàvana, sull'Appennino tosco-emiliano. Il mulino, per l'occasione, è diventato una sala di incisione. Un racconto filmato della registrazione del disco L'ultima Thule. Il tutto in un luogo \"personale\" che ha accompagnato alcuni momenti della vita privata del cantautore e alcune sue opere letterarie e canzoni.",
+        "popularity": 0.0738,
+        "poster_path": "/t7I5p0M6725jrMbodQcwklcVxIb.jpg",
+        "release_date": "2013-03-21",
+        "softcore": false,
+        "title": "Francesco Guccini - La mia Thule",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ovf3mAIqCcqQYU8lwLLGmBu2oRM.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1517157,
+        "original_language": "it",
+        "original_title": "Francesco de Gregori - Nevergreen",
+        "overview": "Nel suo fare musica, dieci mesi orsono Francesco De Gregori ha scelto un punto di partenza insolito: ha deciso di suonare per un mese, tutte le sere, in un piccolo teatro di Milano, l’Out Off, presentando le canzoni meno conosciute del proprio repertorio – o addirittura le “perfette sconosciute”, le nevergreen, mai insignite del titolo di “evergreen” – ogni volta con una scaletta diversa, condividendone alcune con degli ospiti a sorpresa.",
+        "popularity": 0.1623,
+        "poster_path": "/mB4ISPKagS2syQvBwckughHvJYJ.jpg",
+        "release_date": "2025-09-11",
+        "softcore": false,
+        "title": "Francesco de Gregori - Nevergreen",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1018269,
+        "original_language": "it",
+        "original_title": "Il pranzo di Francesco",
+        "overview": "Un pranzo tra i poveri della Missione di Speranza e Carità di Palermo e Papa Francesco diventa un’occasione per raccontare il senso profondo del suo pontificato, una Chiesa povera per i poveri, a fianco degli ultimi, dei migranti, dei malati, degli “scarti” della società dei consumi, il rapporto con le altre religioni, la critica radicale a un sistema economico che mette al centro il profitto a discapito della dignità e della libertà degli uomini.",
+        "popularity": 0.0143,
+        "poster_path": "/gCr9yfcDz5hl6RvQC6eIaL1YnTQ.jpg",
+        "release_date": "2021-11-27",
+        "softcore": false,
+        "title": "Il pranzo di Francesco",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
       }
     ],
     "frankenstein junior|": [
@@ -365581,6 +368585,67 @@
         "vote_count": 1082
       }
     ],
+    "no other choice|": [
+      {
+        "adult": false,
+        "backdrop_path": "/1eM6Ey1FzpgJigrxRiSYtntSWq7.jpg",
+        "genre_ids": [
+          35,
+          80,
+          53
+        ],
+        "id": 639988,
+        "original_language": "ko",
+        "original_title": "어쩔수가없다",
+        "overview": "Man-su, specialista nella produzione di carta con venticinque anni di esperienza, è così soddisfatto della vita da potersi dire sinceramente: “Ho tutto”. Finché un giorno viene improvvisamente informato dalla sua azienda di essere stato licenziato. Sentendosi come se gli avessero reciso la testa con un’ascia, Man-su giura di trovare un nuovo lavoro entro i successivi tre mesi per il bene della famiglia. Nonostante la sua ferma determinazione, trascorre oltre un anno passando da un colloquio all’altro, finendo per lavorare in un negozio al dettaglio. Si ritrova a rischio di perdere quella stessa casa che ha faticato così tanto per comprare. Disperato, si presenta senza preavviso alla Moon Paper per consegnare il curriculum, ma viene umiliato dal responsabile di linea Sun-chul. Sapendo di essere più qualificato di chiunque altro per lavorare lì, prende una decisione: se non c’è un posto vacante per me, dovrò farmi assumere creandone uno.",
+        "popularity": 8.8183,
+        "poster_path": "/nt2WCkLXv1VSlcwiNIEpnspWM5x.jpg",
+        "release_date": "2026-01-01",
+        "softcore": false,
+        "title": "No Other Choice - Non c'è altra scelta",
+        "video": false,
+        "vote_average": 7.505,
+        "vote_count": 1113
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 314002,
+        "original_language": "ar",
+        "original_title": "La badil",
+        "overview": "",
+        "popularity": 0.1124,
+        "poster_path": null,
+        "release_date": "2012-01-01",
+        "softcore": false,
+        "title": "La badil",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1392177,
+        "original_language": "zh",
+        "original_title": "母亲，别无选择",
+        "overview": "",
+        "popularity": 0.0306,
+        "poster_path": "/xaIwVm7MkrKmN6YgApKxkiJncxs.jpg",
+        "release_date": "1995-01-01",
+        "softcore": false,
+        "title": "母亲，别无选择",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
     "noi due sconosciuti solomamma|": [
       {
         "adult": false,
@@ -372897,6 +375962,27 @@
     "sott ita michael|": [],
     "sott ita romeria il mare di ricordi|": [],
     "sott ita the sea|": [],
+    "sotto le nuvole|": [
+      {
+        "adult": false,
+        "backdrop_path": "/iW32nm4xEn8Ku9NUBQM1zZNjECi.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1457188,
+        "original_language": "it",
+        "original_title": "Sotto le nuvole",
+        "overview": "Tra il Golfo e il Vesuvio, la terra talvolta trema, le fumarole dei Campi Flegrei segnano l’aria. Sulle tracce della Storia, delle memorie del sottosuolo, in bianco e nero, una Napoli meno conosciuta si popola di vite. Sotto le nuvole c’è un territorio attraversato da abitanti, devoti, turisti, archeologi che scavano il passato, da chi, nei musei, cerca di dare ancora vita, e senso, a statue, frammenti, rovine. La circumvesuviana attraversa il paesaggio, cavalli da trotto si allenano sulla battigia. Un maestro di strada dedica il suo tempo al doposcuola per bambini e adolescenti, i vigili del fuoco vincono le piccole e grandi paure degli abitanti, le forze dell’ordine inseguono i tombaroli. Una nave siriana, nel porto di Torre Annunziata scarica il grano ucraino. La terra intorno al golfo è un’immensa macchina del tempo.",
+        "popularity": 0.5452,
+        "poster_path": "/dvbwOHpHK4VhDjkVSav5g6YgfkU.jpg",
+        "release_date": "2025-09-18",
+        "softcore": false,
+        "title": "Sotto le nuvole",
+        "video": false,
+        "vote_average": 5.905,
+        "vote_count": 21
+      }
+    ],
     "space jam 30mo ann friendly autism|": [],
     "space jam 30mo anniversario|": [],
     "spider man brand new day|": [

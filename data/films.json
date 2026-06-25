@@ -1,73 +1,5 @@
 [
   {
-    "tmdb_id": 15014,
-    "title": "Bianca",
-    "original_title": "Bianca",
-    "italian_title": "Bianca",
-    "year": 1984,
-    "poster_path": "/lnXZLkJ3MFgAFAiyVJGfTUykNkU.jpg",
-    "overview": "Michele è un insegnante di matematica, paranoico e solitario, vive spiando la vita di coppia dei suoi amici e conoscenti. Quando una vicina di casa verrà trovata uccisa, Michele sarà considerato tra i sospettati. Nel frattempo Michele si innamora di una collega, Bianca, che per un breve ma intenso periodo gli regalerà un po' di gioia e un certo equilibrio mentale.",
-    "title_en": "Bianca",
-    "overview_en": "Michele, a young mathematics professor, moves into a new flat. Lonely, depressed, and neurotic, he spends his time obsessively monitoring the lives of the couples around him, especially his neighbors, a young pair struggling to make their relationship work. When Bianca, a new teacher at the local high school, enters his life, Michele finds himself falling in love. At the same time, a string of murders rocks the neighborhood, casting suspicion on him.",
-    "runtime": 96,
-    "director": "Nanni Moretti",
-    "genres": [
-      "Dramma",
-      "Commedia",
-      "Mistero"
-    ]
-  },
-  {
-    "tmdb_id": 1182861,
-    "title": "Romería - Il mare dei ricordi",
-    "original_title": "Romería",
-    "italian_title": "Romería - Il mare dei ricordi",
-    "year": 2025,
-    "poster_path": "/slGOQOlGlY3wnP4Vmuf4nmZUwuH.jpg",
-    "overview": "Marina, 18 anni, rimasta orfana in tenerissima età, giunge in Galizia sulle tracce della famiglia del padre biologico. Qui, mentre incontra zii, cugini e parenti mai conosciuti prima, cercherà di ricomporre i ricordi, talvolta contraddittori, dei suoi genitori e del loro amore travolgente, riportando alla luce emozioni familiari a lungo sepolte, verità non dette e ferite mai del tutto rimarginate. La regista Orso d’Oro Carla Simón gira con il ritmo dolce di una placida marea un film intenso, intimo e personale, una storia sulle radici ritrovate, sui legami familiari e su ciò che non abbiamo il coraggio di dire ad alta voce, neanche quando ce ne sarebbe un enorme bisogno.",
-    "title_en": "Romería",
-    "overview_en": "With her mother's diary in hand, Marina's search for official documents for university leads her to her biological family on the Atlantic coast. What starts as an administrative quest reveals long-buried family secrets.",
-    "runtime": 112,
-    "director": "Carla Simón",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1275779,
-    "title": "Disclosure Day",
-    "original_title": "Disclosure Day",
-    "italian_title": "Disclosure Day",
-    "year": 2026,
-    "poster_path": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
-    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
-    "title_en": "Disclosure Day",
-    "overview_en": "A cybersecurity expert becomes a whistleblower to reveal secrets about aliens, putting him on the run from a corporation while a meteorologist experiences strange phenomena and joins forces with him to prove there's life beyond our knowledge.",
-    "runtime": 145,
-    "director": "Steven Spielberg",
-    "genres": [
-      "Mistero",
-      "Fantascienza",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 524635,
-    "title": "La cronologia dell’acqua",
-    "original_title": "The Chronology of Water",
-    "italian_title": "La cronologia dell’acqua",
-    "year": 2025,
-    "poster_path": "/tuYSqA5U5KwpJjzv3O91fq6cR7o.jpg",
-    "overview": "Cresciuta in un ambiente distrutto da violenza e alcol, dopo un’infanzia segnata da abusi, l’irrequieta Lidia (Imogen Poots) trova rifugio nel nuoto agonistico, nella sperimentazione sessuale, in relazioni tossiche e nella dipendenza, prima di trovare la propria voce attraverso la scrittura. La strada verso l’autodistruzione svolta verso una inattesa nuova destinazione attraverso la letteratura.",
-    "title_en": "The Chronology of Water",
-    "overview_en": "Plagued by an abusive childhood, a woman finds escape in competitive swimming, sexual experimentation, toxic relationships, and addiction before ultimately finding her voice through writing.",
-    "runtime": 129,
-    "director": "Kristen Stewart",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1083381,
     "title": "Backrooms",
     "original_title": "Backrooms",
@@ -99,6 +31,40 @@
     "director": "Curry Barker",
     "genres": [
       "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 524635,
+    "title": "La cronologia dell’acqua",
+    "original_title": "The Chronology of Water",
+    "italian_title": "La cronologia dell’acqua",
+    "year": 2025,
+    "poster_path": "/tuYSqA5U5KwpJjzv3O91fq6cR7o.jpg",
+    "overview": "Cresciuta in un ambiente distrutto da violenza e alcol, dopo un’infanzia segnata da abusi, l’irrequieta Lidia (Imogen Poots) trova rifugio nel nuoto agonistico, nella sperimentazione sessuale, in relazioni tossiche e nella dipendenza, prima di trovare la propria voce attraverso la scrittura. La strada verso l’autodistruzione svolta verso una inattesa nuova destinazione attraverso la letteratura.",
+    "title_en": "The Chronology of Water",
+    "overview_en": "Plagued by an abusive childhood, a woman finds escape in competitive swimming, sexual experimentation, toxic relationships, and addiction before ultimately finding her voice through writing.",
+    "runtime": 129,
+    "director": "Kristen Stewart",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1275779,
+    "title": "Disclosure Day",
+    "original_title": "Disclosure Day",
+    "italian_title": "Disclosure Day",
+    "year": 2026,
+    "poster_path": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
+    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
+    "title_en": "Disclosure Day",
+    "overview_en": "A cybersecurity expert becomes a whistleblower to reveal secrets about aliens, putting him on the run from a corporation while a meteorologist experiences strange phenomena and joins forces with him to prove there's life beyond our knowledge.",
+    "runtime": 145,
+    "director": "Steven Spielberg",
+    "genres": [
+      "Mistero",
+      "Fantascienza",
       "Thriller"
     ]
   },
@@ -256,57 +222,6 @@
       "televisione film",
       "Avventura",
       "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1688865,
-    "title": "Vittorio De Sica - La vita in scena",
-    "original_title": "Vittorio De Sica - La vita in scena",
-    "italian_title": "Vittorio De Sica - La vita in scena",
-    "year": 2026,
-    "poster_path": "/r8hb86wqN0Zpkbo7CYUG6MdiowP.jpg",
-    "overview": "Il documentario ripercorre la vita, l'opera e l'eredità di uno dei più grandi maestri del cinema mondiale, tornando al cuore stesso della sua visione: la capacità di trasformare la vita in narrazione e l'esperienza umana in immagine. Grazie a un accesso senza precedenti a materiali d'archivio inediti e alle testimonianze di artisti e registi contemporanei oltre che alla famiglia De Sica, il film compone un ritratto intimo e sfaccettato di un autore che ha trasformato l'osservazione della realtà in emozione universale. Più che una celebrazione, il film è un viaggio nell'uomo, nell'artista e nella sorprendente modernità di uno sguardo la cui vitalità continua a illuminare il cinema e il nostro modo di guardare il mondo.",
-    "title_en": "Vittorio De Sica – La Vie in Scene",
-    "overview_en": "A documentary feature film about Vittorio De Sica, one of the greatest masters of world cinema. Through a new access to his family, rare archives and testimonies of contemporary artists and filmmakers from the entire world, the ilm retraces his life, his work and legacy. An intimate portrait of an author able to transform the observation of the real in an universal emotion and reveals the modernity of a gaze which keeps on illuminating cinema and our way of seeing the world.",
-    "runtime": 100,
-    "director": "Francesco Zippel",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 244458,
-    "title": "The Voices",
-    "original_title": "The Voices",
-    "italian_title": "The Voices",
-    "year": 2014,
-    "poster_path": "/mLhsRUmuXjIVsopd0xBZSJXamCm.jpg",
-    "overview": "Il film racconta di un uomo di nome Jerry Hickfang che, dopo aver accidentalmente ucciso una donna che è sua collega nella fabbrica di sanitari dove lavora, inizia a dialogare con il suo gatto e il suo cane – chiamati Mr. Whiskers e Bosco, il primo spregiudicato e senza scrupoli, il secondo buono e ottimista – ascoltando letteralmente i loro consigli sul come nascondere l’accaduto ed evitare ogni forma di guai.",
-    "title_en": "The Voices",
-    "overview_en": "A mentally unhinged factory worker must decide whether to listen to his talking cat and become a killer, or follow his dog's advice to keep striving for normalcy.",
-    "runtime": 104,
-    "director": "Marjane Satrapi",
-    "genres": [
-      "Commedia",
-      "Crime",
-      "Horror",
-      "Fantasy"
-    ]
-  },
-  {
-    "tmdb_id": 1562984,
-    "title": "Catartis - Conservare il futuro",
-    "original_title": "Catartis - Conservare il futuro",
-    "italian_title": "Catartis - Conservare il futuro",
-    "year": 2025,
-    "poster_path": "/6vmkf9BvaoYtP8rApi1wrYuWfUs.jpg",
-    "overview": "Un viaggio nel mondo dell'arte contemporanea che raccoglie non solo le testimonianze degli artisti e degli addetti ai lavori, ma mostra un backstage inedito che unisce centinaia di ore di riprese con una logica emersa del materiale stesso, per assonanze e dissonanze, vasi comunicanti tra le maglie di oltre due decenni di incontri, programmati e casuali. I grandi protagonisti dell'arte ci svelano qualche segreto e ci mostrano nuovi punti di vista. Dalle complessità dell'arte concettuale con le analisi di Joseph Kosuth all'Arte Povera di Michelangelo Pistoletto, Jannis Kounellis e Giulio Paolini. Da Carla Accardi e Getulio Alviani alle rotture degli schemi di Alighiero Boetti, Luigi Ontani, Jimmie Durham e molti altri.",
-    "title_en": "Catartis - Conservare il futuro",
-    "overview_en": null,
-    "runtime": 90,
-    "director": "Ferdinando Vicentini Orgnani",
-    "genres": [
-      "Documentario"
     ]
   },
   {
@@ -843,6 +758,25 @@
     ]
   },
   {
+    "tmdb_id": 244458,
+    "title": "The Voices",
+    "original_title": "The Voices",
+    "italian_title": "The Voices",
+    "year": 2014,
+    "poster_path": "/mLhsRUmuXjIVsopd0xBZSJXamCm.jpg",
+    "overview": "Il film racconta di un uomo di nome Jerry Hickfang che, dopo aver accidentalmente ucciso una donna che è sua collega nella fabbrica di sanitari dove lavora, inizia a dialogare con il suo gatto e il suo cane – chiamati Mr. Whiskers e Bosco, il primo spregiudicato e senza scrupoli, il secondo buono e ottimista – ascoltando letteralmente i loro consigli sul come nascondere l’accaduto ed evitare ogni forma di guai.",
+    "title_en": "The Voices",
+    "overview_en": "A mentally unhinged factory worker must decide whether to listen to his talking cat and become a killer, or follow his dog's advice to keep striving for normalcy.",
+    "runtime": 104,
+    "director": "Marjane Satrapi",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Horror",
+      "Fantasy"
+    ]
+  },
+  {
     "tmdb_id": 28,
     "title": "Apocalypse Now",
     "original_title": "Apocalypse Now",
@@ -1047,6 +981,40 @@
     ]
   },
   {
+    "tmdb_id": 1457188,
+    "title": "Sotto le nuvole",
+    "original_title": "Sotto le nuvole",
+    "italian_title": "Sotto le nuvole",
+    "year": 2025,
+    "poster_path": "/dvbwOHpHK4VhDjkVSav5g6YgfkU.jpg",
+    "overview": "Tra il Golfo e il Vesuvio, la terra talvolta trema, le fumarole dei Campi Flegrei segnano l’aria. Sulle tracce della Storia, delle memorie del sottosuolo, in bianco e nero, una Napoli meno conosciuta si popola di vite. Sotto le nuvole c’è un territorio attraversato da abitanti, devoti, turisti, archeologi che scavano il passato, da chi, nei musei, cerca di dare ancora vita, e senso, a statue, frammenti, rovine. La circumvesuviana attraversa il paesaggio, cavalli da trotto si allenano sulla battigia. Un maestro di strada dedica il suo tempo al doposcuola per bambini e adolescenti, i vigili del fuoco vincono le piccole e grandi paure degli abitanti, le forze dell’ordine inseguono i tombaroli. Una nave siriana, nel porto di Torre Annunziata scarica il grano ucraino. La terra intorno al golfo è un’immensa macchina del tempo.",
+    "title_en": "Pompei: Below the Clouds",
+    "overview_en": "Naples faces dual volcanic threats from Vesuvius and Campi Flegrei. Amid increasing tremors, archaeologists work as residents live anxiously, haunted by Pompeii's fate while emergency services strain.",
+    "runtime": 114,
+    "director": "Gianfranco Rosi",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 639988,
+    "title": "No Other Choice - Non c'è altra scelta",
+    "original_title": "어쩔수가없다",
+    "italian_title": "No Other Choice - Non c'è altra scelta",
+    "year": 2025,
+    "poster_path": "/6U7LDiu4IBMxw9chpT79UhuE3bR.jpg",
+    "overview": "Man-su, specialista nella produzione di carta con venticinque anni di esperienza, è così soddisfatto della vita da potersi dire sinceramente: “Ho tutto”. Finché un giorno viene improvvisamente informato dalla sua azienda di essere stato licenziato. Sentendosi come se gli avessero reciso la testa con un’ascia, Man-su giura di trovare un nuovo lavoro entro i successivi tre mesi per il bene della famiglia. Nonostante la sua ferma determinazione, trascorre oltre un anno passando da un colloquio all’altro, finendo per lavorare in un negozio al dettaglio. Si ritrova a rischio di perdere quella stessa casa che ha faticato così tanto per comprare. Disperato, si presenta senza preavviso alla Moon Paper per consegnare il curriculum, ma viene umiliato dal responsabile di linea Sun-chul. Sapendo di essere più qualificato di chiunque altro per lavorare lì, prende una decisione: se non c’è un posto vacante per me, dovrò farmi assumere creandone uno.",
+    "title_en": "No Other Choice",
+    "overview_en": "After being laid off and humiliated by a ruthless job market, a veteran paper mill manager descends into violence in a desperate bid to reclaim his dignity.",
+    "runtime": 140,
+    "director": "Park Chan-wook",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 1368337,
     "title": "Odissea",
     "original_title": "The Odyssey",
@@ -1079,23 +1047,6 @@
     "genres": [
       "Dramma",
       "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1314481,
-    "title": "Il diavolo veste Prada 2",
-    "original_title": "The Devil Wears Prada 2",
-    "italian_title": "Il diavolo veste Prada 2",
-    "year": 2026,
-    "poster_path": "/zDhu8axN365ytMTSHWxdK8WFH5t.jpg",
-    "overview": "Sono passati vent'anni da quando Miranda Priestley faceva il bello e il cattivo tempo come direttrice della rivista di moda Runway, e il mondo dell'editoria cartacea è completamente cambiato: la concorrenza Internet è spietata, i budget sono risicati e Miranda è costretta a chinare la testa di fronte agli investitori e agli stilisti dalle cui pubblicità dipende il destino del magazine, soprattutto dopo che Miranda ha lodato pubblicamente una casa di fast fashion che sfrutta il lavoro minorile. Per riparare al danno di immagine il proprietario di Runway, Irv, convoca Andy Sachs, l'ex stagista di Miranda che è diventata un'ottima giornalista, ma ha anche appena perso il lavoro per i tagli all'editoria.",
-    "title_en": "The Devil Wears Prada 2",
-    "overview_en": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-    "runtime": 119,
-    "director": "David Frankel",
-    "genres": [
-      "Commedia",
-      "Dramma"
     ]
   },
   {
@@ -1133,17 +1084,17 @@
     ]
   },
   {
-    "tmdb_id": 1510300,
-    "title": "Le bambine",
-    "original_title": "Le bambine",
-    "italian_title": "Le bambine",
-    "year": 2026,
-    "poster_path": "/chRxIKKMnJabtSEt4BkT8clZFuT.jpg",
-    "overview": null,
-    "title_en": "Mosquitoes",
-    "overview_en": "1997: eight-year-old Linda drifts away from her wealthy grandmother's Swiss villa with her carefree mother Eva. In Italy, she meets Azzurra and Marta. A summer bond unites the three girls in a gang formed to protect each other, their youth, and their freedom. Around them swirl selfish parents chasing fragile dreams, gossiping neighbors, and a queer babysitter trying to find his place in a world that doesn’t want him either.",
-    "runtime": 105,
-    "director": "Nicole Bertani, Valentina Bertani",
+    "tmdb_id": 1182861,
+    "title": "Romería - Il mare dei ricordi",
+    "original_title": "Romería",
+    "italian_title": "Romería - Il mare dei ricordi",
+    "year": 2025,
+    "poster_path": "/slGOQOlGlY3wnP4Vmuf4nmZUwuH.jpg",
+    "overview": "Marina, 18 anni, rimasta orfana in tenerissima età, giunge in Galizia sulle tracce della famiglia del padre biologico. Qui, mentre incontra zii, cugini e parenti mai conosciuti prima, cercherà di ricomporre i ricordi, talvolta contraddittori, dei suoi genitori e del loro amore travolgente, riportando alla luce emozioni familiari a lungo sepolte, verità non dette e ferite mai del tutto rimarginate. La regista Orso d’Oro Carla Simón gira con il ritmo dolce di una placida marea un film intenso, intimo e personale, una storia sulle radici ritrovate, sui legami familiari e su ciò che non abbiamo il coraggio di dire ad alta voce, neanche quando ce ne sarebbe un enorme bisogno.",
+    "title_en": "Romería",
+    "overview_en": "With her mother's diary in hand, Marina's search for official documents for university leads her to her biological family on the Atlantic coast. What starts as an administrative quest reveals long-buried family secrets.",
+    "runtime": 112,
+    "director": "Carla Simón",
     "genres": [
       "Dramma"
     ]
@@ -1369,22 +1320,6 @@
     ]
   },
   {
-    "tmdb_id": 1303613,
-    "title": "Il silenzio degli altri",
-    "original_title": "Sorda",
-    "italian_title": "Il silenzio degli altri",
-    "year": 2025,
-    "poster_path": "/19AayxcUE4ZSEs6nRc7BcHqE9Kq.jpg",
-    "overview": "Ángela, una donna sorda, aspetta un figlio dal suo partner Héctor, che invece ha un normale udito. L'arrivo della bambina sconvolge la loro relazione, costringendo Ángela ad affrontare le sfide poste dal crescere sua figlia in un mondo che non è fatto per madri come lei.",
-    "title_en": "Deaf",
-    "overview_en": "Angela's deafness raises concerns during her pregnancy regarding connecting with her daughter. Post-delivery, partner Héctor supports her as she learns to mother in a society lacking adequate accommodations for the hearing-impaired.",
-    "runtime": 100,
-    "director": "Eva Libertad",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1340206,
     "title": "Tuner - L’accordatore",
     "original_title": "Tuner",
@@ -1438,37 +1373,51 @@
     ]
   },
   {
-    "tmdb_id": 858024,
-    "title": "Hamnet - Nel nome del figlio",
-    "original_title": "Hamnet",
-    "italian_title": "Hamnet - Nel nome del figlio",
-    "year": 2025,
-    "poster_path": "/ro2a5k5dx8RWXGY0TmhqxTAffaI.jpg",
-    "overview": "In un bosco, una giovane donna dorme rannicchiata nella culla formata dalla radice emersa di un albero secolare: è vestita di rosso cupo, accompagnata da un falco che risponde ai suoi richiami, conosce erbe e pozioni, si dice non sia nata da sua madre ma da una donna venuta da lontano. Si chiama Agnes e quando Will la vede se ne innamora subito. Will è il giovane William Shakespeare, che riesce a sposarla nonostante l’ostilità delle famiglie e ad avere con lei tre figli, Susannah e i gemelli Judith e Hamnet. Ma un lutto li colpisce, quando il drammaturgo lavora già a Londra, e Hamnet diventa Hamlet. Tratta dal romanzo del 2020 di Maggie O’Farrell, la storia di Agnes (più che di William), intessuta di magia e femminilità.",
-    "title_en": "Hamnet",
-    "overview_en": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-    "runtime": 126,
-    "director": "Chloé Zhao",
+    "tmdb_id": 1314481,
+    "title": "Il diavolo veste Prada 2",
+    "original_title": "The Devil Wears Prada 2",
+    "italian_title": "Il diavolo veste Prada 2",
+    "year": 2026,
+    "poster_path": "/zDhu8axN365ytMTSHWxdK8WFH5t.jpg",
+    "overview": "Sono passati vent'anni da quando Miranda Priestley faceva il bello e il cattivo tempo come direttrice della rivista di moda Runway, e il mondo dell'editoria cartacea è completamente cambiato: la concorrenza Internet è spietata, i budget sono risicati e Miranda è costretta a chinare la testa di fronte agli investitori e agli stilisti dalle cui pubblicità dipende il destino del magazine, soprattutto dopo che Miranda ha lodato pubblicamente una casa di fast fashion che sfrutta il lavoro minorile. Per riparare al danno di immagine il proprietario di Runway, Irv, convoca Andy Sachs, l'ex stagista di Miranda che è diventata un'ottima giornalista, ma ha anche appena perso il lavoro per i tagli all'editoria.",
+    "title_en": "The Devil Wears Prada 2",
+    "overview_en": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+    "runtime": 119,
+    "director": "David Frankel",
     "genres": [
-      "Dramma",
-      "Romance",
-      "Storia"
+      "Commedia",
+      "Dramma"
     ]
   },
   {
-    "tmdb_id": 1382513,
-    "title": "Hen - Storia di una Gallina",
-    "original_title": "Κότα",
-    "italian_title": "Hen - Storia di una Gallina",
+    "tmdb_id": 1510300,
+    "title": "Le bambine",
+    "original_title": "Le bambine",
+    "italian_title": "Le bambine",
     "year": 2026,
-    "poster_path": "/6VAHRoUQLfNXG8mYz3NVgT0ADFd.jpg",
-    "overview": "L’autore dell’indimenticato Taxidermia (Cannes 2006) racconta la storia di una gallina, a partire dall’uovo che viene deposto. E adotta il punto di vista del volatile con un effetto spiazzante, inquietante e postumano. Perché la gallina – che è ostinata, resiliente, determinata a crescere i propri cuccioli e a conservare la propria libertà – oltre ad altri animali (una volpe, un topo, un verme, un falco, un cane, dei dinosauri in un documentario televisivo), incrocia inevitabilmente anche gli uomini, la loro violenza, le loro tragedie e ingiustizie, grandi e piccole: a volte come ignara testimone, a volte come elemento involontariamente scatenante.",
-    "title_en": "Hen",
-    "overview_en": "Escaping from a chicken farm, a hen finds refuge in the courtyard of a crumbling restaurant. There, she discovers love, confronts the pecking order, and fights to protect her eggs from a greedy owner. Her droll yet touching quest for motherhood mirrors the messy compromises and silent struggles of human lives.",
-    "runtime": 97,
-    "director": "Pálfi György",
+    "poster_path": "/chRxIKKMnJabtSEt4BkT8clZFuT.jpg",
+    "overview": null,
+    "title_en": "Mosquitoes",
+    "overview_en": "1997: eight-year-old Linda drifts away from her wealthy grandmother's Swiss villa with her carefree mother Eva. In Italy, she meets Azzurra and Marta. A summer bond unites the three girls in a gang formed to protect each other, their youth, and their freedom. Around them swirl selfish parents chasing fragile dreams, gossiping neighbors, and a queer babysitter trying to find his place in a world that doesn’t want him either.",
+    "runtime": 105,
+    "director": "Nicole Bertani, Valentina Bertani",
     "genres": [
-      "Avventura",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1303613,
+    "title": "Il silenzio degli altri",
+    "original_title": "Sorda",
+    "italian_title": "Il silenzio degli altri",
+    "year": 2025,
+    "poster_path": "/19AayxcUE4ZSEs6nRc7BcHqE9Kq.jpg",
+    "overview": "Ángela, una donna sorda, aspetta un figlio dal suo partner Héctor, che invece ha un normale udito. L'arrivo della bambina sconvolge la loro relazione, costringendo Ángela ad affrontare le sfide poste dal crescere sua figlia in un mondo che non è fatto per madri come lei.",
+    "title_en": "Deaf",
+    "overview_en": "Angela's deafness raises concerns during her pregnancy regarding connecting with her daughter. Post-delivery, partner Héctor supports her as she learns to mother in a society lacking adequate accommodations for the hearing-impaired.",
+    "runtime": 100,
+    "director": "Eva Libertad",
+    "genres": [
       "Dramma"
     ]
   },
@@ -1536,6 +1485,24 @@
     "director": "Alessandro D'Alatri",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 858024,
+    "title": "Hamnet - Nel nome del figlio",
+    "original_title": "Hamnet",
+    "italian_title": "Hamnet - Nel nome del figlio",
+    "year": 2025,
+    "poster_path": "/ro2a5k5dx8RWXGY0TmhqxTAffaI.jpg",
+    "overview": "In un bosco, una giovane donna dorme rannicchiata nella culla formata dalla radice emersa di un albero secolare: è vestita di rosso cupo, accompagnata da un falco che risponde ai suoi richiami, conosce erbe e pozioni, si dice non sia nata da sua madre ma da una donna venuta da lontano. Si chiama Agnes e quando Will la vede se ne innamora subito. Will è il giovane William Shakespeare, che riesce a sposarla nonostante l’ostilità delle famiglie e ad avere con lei tre figli, Susannah e i gemelli Judith e Hamnet. Ma un lutto li colpisce, quando il drammaturgo lavora già a Londra, e Hamnet diventa Hamlet. Tratta dal romanzo del 2020 di Maggie O’Farrell, la storia di Agnes (più che di William), intessuta di magia e femminilità.",
+    "title_en": "Hamnet",
+    "overview_en": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+    "runtime": 126,
+    "director": "Chloé Zhao",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "Storia"
     ]
   },
   {
@@ -1794,22 +1761,6 @@
     ]
   },
   {
-    "tmdb_id": 1315657,
-    "title": "Yellow Letters",
-    "original_title": "Gelbe Briefe",
-    "italian_title": "Yellow Letters",
-    "year": 2026,
-    "poster_path": "/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
-    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
-    "title_en": "Yellow Letters",
-    "overview_en": "The marriage of Derya and Aziz is under pressure after losing their jobs because of state arbitrariness and moving to Istanbul to live with Aziz's parents. They and their 13-year-old daughter Ezgi have to redefine their way of life.",
-    "runtime": 128,
-    "director": "İlker Çatak",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1291202,
     "title": "Duse",
     "original_title": "Duse",
@@ -1824,6 +1775,22 @@
     "genres": [
       "Dramma",
       "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1315657,
+    "title": "Yellow Letters",
+    "original_title": "Gelbe Briefe",
+    "italian_title": "Yellow Letters",
+    "year": 2026,
+    "poster_path": "/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
+    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
+    "title_en": "Yellow Letters",
+    "overview_en": "The marriage of Derya and Aziz is under pressure after losing their jobs because of state arbitrariness and moving to Istanbul to live with Aziz's parents. They and their 13-year-old daughter Ezgi have to redefine their way of life.",
+    "runtime": 128,
+    "director": "İlker Çatak",
+    "genres": [
+      "Dramma"
     ]
   },
   {
@@ -1856,40 +1823,6 @@
     "overview_en": "Carlo and Elisa are a successful couple. He’s a university professor and writer facing a creative block; she’s a brilliant, sharp-witted journalist, known for her internationally published editorials. They live in Rome, moving between accomplishments and routine, affection and something that might be fading. In search of new energy, they travel to Morocco with their lifelong friends, Anna and Paolo, and their thirteen-year-old daughter Vittoria—bright, curious, a little eccentric. Tensions soon rise.",
     "runtime": 114,
     "director": "Gabriele Muccino",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 639988,
-    "title": "No Other Choice - Non c'è altra scelta",
-    "original_title": "어쩔수가없다",
-    "italian_title": "No Other Choice - Non c'è altra scelta",
-    "year": 2025,
-    "poster_path": "/6U7LDiu4IBMxw9chpT79UhuE3bR.jpg",
-    "overview": "Man-su, specialista nella produzione di carta con venticinque anni di esperienza, è così soddisfatto della vita da potersi dire sinceramente: “Ho tutto”. Finché un giorno viene improvvisamente informato dalla sua azienda di essere stato licenziato. Sentendosi come se gli avessero reciso la testa con un’ascia, Man-su giura di trovare un nuovo lavoro entro i successivi tre mesi per il bene della famiglia. Nonostante la sua ferma determinazione, trascorre oltre un anno passando da un colloquio all’altro, finendo per lavorare in un negozio al dettaglio. Si ritrova a rischio di perdere quella stessa casa che ha faticato così tanto per comprare. Disperato, si presenta senza preavviso alla Moon Paper per consegnare il curriculum, ma viene umiliato dal responsabile di linea Sun-chul. Sapendo di essere più qualificato di chiunque altro per lavorare lì, prende una decisione: se non c’è un posto vacante per me, dovrò farmi assumere creandone uno.",
-    "title_en": "No Other Choice",
-    "overview_en": "After being laid off and humiliated by a ruthless job market, a veteran paper mill manager descends into violence in a desperate bid to reclaim his dignity.",
-    "runtime": 140,
-    "director": "Park Chan-wook",
-    "genres": [
-      "Commedia",
-      "Crime",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1438958,
-    "title": "Antartica - Quasi una fiaba",
-    "original_title": "Antartica - Quasi una fiaba",
-    "italian_title": "Antartica - Quasi una fiaba",
-    "year": 2026,
-    "poster_path": "/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg",
-    "overview": "Una piccola comunità di scienziati, irraggiungibile per otto mesi l’anno, guarda al futuro della specie umana, cercando cose che ancora non capisce. Non Conosce. Non sa. Cose sopra e sottoterra.  L’arrivo di Maria Medri (Barbara Ronchi), genio forastico e cocciuto, nella base più isolata dell’Antartide, metterà in crisi i progetti del capomissione Fulvio Cadorna (Silvio Orlando), suo mentore.  Fulvio e Maria sono simili, sono legati, sono complici. Ma come spesso capita, tutti vogliono la stessa cosa, fino al giorno in cui ognuno vuole la sua.  Un conflitto scientifico, ideologico, affettivo.",
-    "title_en": "Antartica - Quasi una fiaba",
-    "overview_en": "A small group of scientists, unreachable for eight months, explores the future of humanity. Maria Medri, a foreign genius, arrives in Antarctica, challenging Fulvio Cadorna's plans. They are similar but conflicting, as everyone desires their own. This scientific, ideological, and emotional conflict unfolds.",
-    "runtime": null,
-    "director": "Lucia Calamaro",
     "genres": [
       "Dramma"
     ]
@@ -1949,22 +1882,19 @@
     ]
   },
   {
-    "tmdb_id": 22679,
-    "title": "Arion",
-    "original_title": "アリオン",
-    "italian_title": "Arion",
-    "year": 1986,
-    "poster_path": "/uTrabkXCh8nuMwRbu4UwGYSLEXp.jpg",
-    "overview": "Nell'antica Tracia Arion, figlio di Poseidone, è allevato dalla madre cieca Demetra fino al giorno in cui Hades si presenta per portarlo via con sé. Condotto con l'inganno nell'Ade, Arion viene addestrato per diventare un guerriero con lo scopo di vendicare la madre: Hades ha infatti convinto il giovane semidio che la cecità di Demetra è stata causata da Zeus, e che solo la morte di questi le ridarà la vista. Finito l'addestramento Arion torna nel mondo dei vivi insieme al gigante Gidon per uccidere Zeus. Durante l'inseguimento della piccola ladra Seneca, che gli ha sottratto la spada, Arion viene però catturato dai soldati di Atena, figlia di Zeus e comandante del suo esercito. Ridotto in catene viene liberato da Resfina, una giovane serva muta di Atena. Mentre Arion ritrova Seneca e Gidon, creduto morto dopo l'attacco dei soldati di Atena, le forze di Poseidone e Zeus intanto si preparano alla battaglia per la conquista del potere supremo. Ma alle loro spalle tramano Hades ed Apollo.",
-    "title_en": "Arion",
-    "overview_en": "The story follows Arion, a young man kidnapped by Hades as a child and raised to believe that his mother was blinded by Zeus and that killing the ruler of Mount Olympus will cure her.",
-    "runtime": 119,
-    "director": "安彦良和",
+    "tmdb_id": 1438958,
+    "title": "Antartica - Quasi una fiaba",
+    "original_title": "Antartica - Quasi una fiaba",
+    "italian_title": "Antartica - Quasi una fiaba",
+    "year": 2026,
+    "poster_path": "/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg",
+    "overview": "Una piccola comunità di scienziati, irraggiungibile per otto mesi l’anno, guarda al futuro della specie umana, cercando cose che ancora non capisce. Non Conosce. Non sa. Cose sopra e sottoterra.  L’arrivo di Maria Medri (Barbara Ronchi), genio forastico e cocciuto, nella base più isolata dell’Antartide, metterà in crisi i progetti del capomissione Fulvio Cadorna (Silvio Orlando), suo mentore.  Fulvio e Maria sono simili, sono legati, sono complici. Ma come spesso capita, tutti vogliono la stessa cosa, fino al giorno in cui ognuno vuole la sua.  Un conflitto scientifico, ideologico, affettivo.",
+    "title_en": "Antartica - Quasi una fiaba",
+    "overview_en": "A small group of scientists, unreachable for eight months, explores the future of humanity. Maria Medri, a foreign genius, arrives in Antarctica, challenging Fulvio Cadorna's plans. They are similar but conflicting, as everyone desires their own. This scientific, ideological, and emotional conflict unfolds.",
+    "runtime": null,
+    "director": "Lucia Calamaro",
     "genres": [
-      "Avventura",
-      "Azione",
-      "Animazione",
-      "Fantasy"
+      "Dramma"
     ]
   },
   {
@@ -1982,25 +1912,6 @@
     "genres": [
       "Commedia",
       "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 1214684,
-    "title": "Il bacio della donna ragno",
-    "original_title": "Kiss of the Spider Woman",
-    "italian_title": "Il bacio della donna ragno",
-    "year": 2025,
-    "poster_path": "/1eysShwFUghfepBwajhJMX4ln5j.jpg",
-    "overview": "Valentín, un prigioniero politico, condivide la cella con Molina, un vetrinista condannato per atti osceni in luogo pubblico. I due stringono un'insolita amicizia mentre Molina racconta la trama di un musical hollywoodiano interpretato dalla sua diva preferita del grande schermo, Ingrid Luna.",
-    "title_en": "Kiss of the Spider Woman",
-    "overview_en": "Valentín, a political prisoner, shares a cell with Molina, a window dresser convicted of public indecency. The two form an unlikely bond as Molina recounts the plot of a Hollywood musical starring his favorite silver screen diva, Ingrid Luna.",
-    "runtime": 128,
-    "director": "Bill Condon",
-    "genres": [
-      "Romance",
-      "Musica",
-      "Dramma",
-      "Thriller"
     ]
   },
   {
@@ -2039,6 +1950,41 @@
     ]
   },
   {
+    "tmdb_id": 1437612,
+    "title": "Don't Let the Sun",
+    "original_title": "Don't Let the Sun",
+    "italian_title": "Don't Let the Sun",
+    "year": 2026,
+    "poster_path": "/7cNJLsNEdVPvovKxrhu6ITvDt4t.jpg",
+    "overview": "In un futuro prossimo dove, a causa dei cambiamenti climatici, il giorno è diventato insopportabilmente caldo, la vita sociale è stata spostata di notte, quando la temperatura risulta più tollerabile. Tutto accade di notte, mentre di giorno si dorme e la città si svuota.  In questo mondo, il caldo torrido dell’aria contrasta con il gelo delle relazioni umane, sempre più svuotate di affettività. Jonah lavora per un'agenzia che cerca di sfruttare questa condizione di isolamento e solitudine per offrire a clienti privati il servizio di attori in grado di assumere il ruolo di stretti familiari senza generare le tensioni emotive che un vero figlio o marito potrebbero scatenare. Un giorno a Jonah viene chiesto di assumere il ruolo di padre della piccola e tormentata Nika. Lui accetta la proposta della madre, che spera che in questo modo la bambina superi la sua malinconica insofferenza e si apra un poco alla vita.",
+    "title_en": "Don't Let the Sun",
+    "overview_en": "In a world almost like ours, Jonah works for an agency that offers human relationships. When he's hired to serve as Nika's father, he begins to lose control of his tightly controlled life.",
+    "runtime": 100,
+    "director": "Jacqueline Zünd",
+    "genres": [
+      "Dramma",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 390271,
+    "title": "Francesco",
+    "original_title": "Francesco",
+    "italian_title": "Francesco",
+    "year": 2014,
+    "poster_path": "/6wOB8BhUYtamkDfpOqkenPP03q8.jpg",
+    "overview": "Metà del 1200. Chiara d'Assisi è una donna ormai anziana, che ha fondato un ordine nella città dov'è morto Giovanni di Pietro Bernardone, meglio noto ai pellegrini cristiani come Francesco. Il ricco Ugolino, protettore e finanziatore dell'ordine francescano istituito in vita da Francesco, vuole che l'amministrazione dell'ordine monastico creato anche da Chiara venga affidato a lui, e che la suora venga curata, dato che la sua salute cagionevole non può sopportare le privazioni che si è imposta, vivendo in estrema povertà, assieme alle sue sorelle, come faceva Francesco con i suoi confratelli.",
+    "title_en": "Francesco",
+    "overview_en": "Depicts various periods in the life of Saint Francesco: Youth and the first conversion in 1206, the process that inflicts his father, the birth of the historical nucleus of Fraternitas and the departure for the Holy Land up to the writing of rules and death, addressing the problem of the legacy of his message in the different interpretation that Chiara and Elia will give it.",
+    "runtime": 200,
+    "director": "Liliana Cavani",
+    "genres": [
+      "Dramma",
+      "Storia",
+      "televisione film"
+    ]
+  },
+  {
     "tmdb_id": 1238188,
     "title": "Il prigioniero",
     "original_title": "El cautivo",
@@ -2053,56 +1999,6 @@
     "genres": [
       "Dramma",
       "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1429348,
-    "title": "Lo straniero",
-    "original_title": "L'Étranger",
-    "italian_title": "Lo straniero",
-    "year": 2025,
-    "poster_path": "/mn7NG3TVqAPKAG4l1LcGyhl4Xk.jpg",
-    "overview": "Algeri, 1938. Meursault, un tranquillo e modesto impiegato sulla trentina, partecipa al funerale della madre senza versare una lacrima. Il giorno dopo inizia una relazione occasionale con Marie, una collega, e torna rapidamente alla solita routine. Ben presto, però, la sua vita quotidiana è sconvolta dal vicino, Raymond Sintès, che lo trascina nei suoi loschi affari, finché su una spiaggia, in una giornata torrida, si abbatte la tragedia.",
-    "title_en": "The Stranger",
-    "overview_en": "Algiers, 1938. Meursault, a quiet and unassuming employee in his early thirties, attends his mother's funeral without shedding a tear. The next day, he begins a casual affair with Marie, a work colleague. He quickly slips back into his usual routine.",
-    "runtime": 122,
-    "director": "François Ozon",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ]
-  },
-  {
-    "tmdb_id": 1471537,
-    "title": "Noi due sconosciuti",
-    "original_title": "Solomamma",
-    "italian_title": "Noi due sconosciuti",
-    "year": 2025,
-    "poster_path": "/es55DTcBUdFR1Bv6o6pkvIJpj3Y.jpg",
-    "overview": "Edith è una giornalista curiosa e la madre single di un bambino avuto con l’inseminazione artificiale. Quando per caso scopre l’identità del suo donatore, padre biologico del figlio, decide di rintracciarlo senza rivelargli la propria identità e contravvenendo a ogni regola. Ma l’incontro tra i due, nato con il pretesto di un’intervista, si trasforma lentamente in un legame sempre più stretto, mentre Edith è costretta a inventare una bugia dopo l’altra...",
-    "title_en": "Solomamma",
-    "overview_en": "Edith is a curiosity-driven journalist and single mother. Solo parenting proves to be complicated, but when the identity of the man who donated the sperm that got her pregnant surfaces, she seeks him out under the false pretext of interviewing him about his company.",
-    "runtime": 99,
-    "director": "Janicke Askevold",
-    "genres": [
-      "Commedia",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1211442,
-    "title": "Rebuilding",
-    "original_title": "Rebuilding",
-    "italian_title": "Rebuilding",
-    "year": 2025,
-    "poster_path": "/jBRtwR4m0CQRKrSyYT0NHhSKFlv.jpg",
-    "overview": "Un incendio ha appena distrutto il suo ranch familiare di duecento settanta acri: tutte le sue amate mucche vanno vendute. Il giovane Dusty, strappato al suo amato allevamento, vive come un reduce di sé stesso, arrangiandosi con lavoretti a giornata. Cowboy malinconico e solitario, dorme in una piccola roulotte allestita in un campo emergenze dove, giorno dopo giorno, combattendo l'iniziale ritrosia, inizia a solidarizzare con le altre persone sfollate. Nel frattempo, intanto, è chiamato a ricucire i rapporti con la piccola Callie-Rose avuta dall'ex compagna Ruby, senza smettere di sognare, però, di riaprire un giorno la sua fattoria, ripiantare tutti gli alberi e lasciarci pascolare di nuovo gli animali.",
-    "title_en": "Rebuilding",
-    "overview_en": "After wildfires take his ranch, a cowboy named Dusty winds up in a FEMA camp, finding community with others who lost homes, including his daughter and ex-wife.",
-    "runtime": 96,
-    "director": "Max Walker-Silverman",
-    "genres": [
-      "Dramma"
     ]
   },
   {
@@ -2123,19 +2019,19 @@
     ]
   },
   {
-    "tmdb_id": 285820,
-    "title": "Frammenti",
-    "original_title": "Frammenti",
-    "italian_title": "Frammenti",
-    "year": 2012,
-    "poster_path": "/cbHO6nxLZhDL25lLss2ydGLgE0x.jpg",
+    "tmdb_id": 1522333,
+    "title": "Carry On Jatta 4",
+    "original_title": "Carry On Jatta 4",
+    "italian_title": "Carry On Jatta 4",
+    "year": 2026,
+    "poster_path": "/eQv0gvbF7LAveK8Xk8c0SeHyNBW.jpg",
     "overview": null,
-    "title_en": "Fragments",
-    "overview_en": "Fragments of a collaboration between director Franco Piavoli (The Blue Planet, The First Breath of Wind) and students of the Laboratory Making Cinema founded by Marco Bellocchio.",
-    "runtime": 11,
-    "director": "Franco Piavoli",
+    "title_en": "Carry On Jatta 4",
+    "overview_en": "\"Carry On Jatta 4\" is the fourth installment of the iconic Punjabi comedy franchise, produced by Humble Motion Pictures, set for release on June 26, 2026. Expect a hilarious rollercoaster of misunderstandings, quirky characters, and laugh-out-loud moments, continuing the legacy of the beloved series.",
+    "runtime": null,
+    "director": "Smeep Kang",
     "genres": [
-      "Dramma"
+      "Commedia"
     ]
   },
   {
@@ -2173,6 +2069,25 @@
       "Avventura",
       "Commedia",
       "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 1214684,
+    "title": "Il bacio della donna ragno",
+    "original_title": "Kiss of the Spider Woman",
+    "italian_title": "Il bacio della donna ragno",
+    "year": 2025,
+    "poster_path": "/1eysShwFUghfepBwajhJMX4ln5j.jpg",
+    "overview": "Valentín, un prigioniero politico, condivide la cella con Molina, un vetrinista condannato per atti osceni in luogo pubblico. I due stringono un'insolita amicizia mentre Molina racconta la trama di un musical hollywoodiano interpretato dalla sua diva preferita del grande schermo, Ingrid Luna.",
+    "title_en": "Kiss of the Spider Woman",
+    "overview_en": "Valentín, a political prisoner, shares a cell with Molina, a window dresser convicted of public indecency. The two form an unlikely bond as Molina recounts the plot of a Hollywood musical starring his favorite silver screen diva, Ingrid Luna.",
+    "runtime": 128,
+    "director": "Bill Condon",
+    "genres": [
+      "Romance",
+      "Musica",
+      "Dramma",
+      "Thriller"
     ]
   },
   {
@@ -2226,40 +2141,6 @@
       "Azione",
       "Fantasy",
       "Fantascienza"
-    ]
-  },
-  {
-    "tmdb_id": 1245859,
-    "title": "Savage House",
-    "original_title": "Savage House",
-    "italian_title": "Savage House",
-    "year": 2026,
-    "poster_path": "/vPBy6cDPYMcj35lpl3W5kPEc2OB.jpg",
-    "overview": null,
-    "title_en": "Savage House",
-    "overview_en": "Against the backdrop of 18th century England, a massive pox outbreak, and Jacobite uprising – Sir Chauncey Savage and Lady Savage blindly pursue a better life. It's not without a tinge of irony that their family name is the Savages, for this is a Savage House indeed, filled with duels, decadence, and bloodshed.",
-    "runtime": 114,
-    "director": "Peter Glanz",
-    "genres": [
-      "Dramma",
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1559944,
-    "title": "Il principe della follia",
-    "original_title": "Il principe della follia",
-    "italian_title": "Il principe della follia",
-    "year": 2026,
-    "poster_path": "/2JdAjMKireU64zSED5lSRIL7RiI.jpg",
-    "overview": "Una notte, ciò che sembrava routine si trasforma in un viaggio perturbante tra memorie spezzate, rimorsi e segreti familiari. Un tassista solitario si imbatte in una realtà allucinata e crudele, dove la sofferenza diventa spettacolo e la fragilità viene messa in vendita come merce di consumo. Al centro, la vicenda di un uomo segnato dalla malattia e dall’esclusione, che incarna il dolore di chi vive in bilico tra dignità e abbandono, e quello di una famiglia travolta dal peso insostenibile della disabilità. In questo intreccio di vite spezzate e desideri irrealizzati non esistono veri colpevoli né assoluzioni facili: ci sono solo esseri umani, feriti e vulnerabili, che cercano un varco per ritrovare la propria umanità. Tra visioni poetiche e momenti di crudele realismo, la storia conduce lo spettatore in un’esperienza emotiva potente, dove la fragilità diventa specchio di una forza collettiva capace di trasformare il dolore in possibilità di rinascita",
-    "title_en": "Il principe della follia",
-    "overview_en": null,
-    "runtime": 90,
-    "director": "Dario D'Ambrosi",
-    "genres": [
-      "Commedia",
-      "Thriller"
     ]
   },
   {
