@@ -14,13 +14,6 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "SCALFIRE LA ROCCIA",
-    "tmdb_id": 1400793,
-    "matched_title": "Scalfire la roccia - Cutting Through Rocks",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "LA TESTIMONE",
     "tmdb_id": 1320414,
     "matched_title": "La testimone - Shahed",
@@ -105,7 +98,7 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA)",
+    "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA) - V. O.",
     "tmdb_id": 1303613,
     "matched_title": "Il silenzio degli altri",
     "method": "ai",
@@ -119,13 +112,6 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA) - V. O.",
-    "tmdb_id": 1303613,
-    "matched_title": "Il silenzio degli altri",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "LA CRONOLOGIA DELL'ACQUA (THE CHRONOLOGY OF WATER)",
     "tmdb_id": 524635,
     "matched_title": "La cronologia dell’acqua",
@@ -136,6 +122,13 @@
     "raw_title": "SENZA PELLE (10 E LUCE)",
     "tmdb_id": 56397,
     "matched_title": "Senza pelle",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA)",
+    "tmdb_id": 1303613,
+    "matched_title": "Il silenzio degli altri",
     "method": "ai",
     "confidence": 100.0
   },

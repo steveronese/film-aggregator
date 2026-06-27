@@ -183737,6 +183737,405 @@
       "vote_average": 8.0,
       "vote_count": 16
     },
+    "1575560": {
+      "adult": false,
+      "backdrop_path": "/cmE5qVfpwYHe0D0Pb2jeunaLDAl.jpg",
+      "belongs_to_collection": null,
+      "budget": 3,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 2,
+            "character": "",
+            "credit_id": "690bfdb2a5aa36b59fd735fd",
+            "gender": 1,
+            "id": 27271,
+            "known_for_department": "Acting",
+            "name": "Barbora Bobulova",
+            "order": 0,
+            "original_name": "Barbora Bobuľová",
+            "popularity": 0.3773,
+            "profile_path": "/dCUMZhPuTtQo259uWKMSRhb9g3F.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 3,
+            "character": "",
+            "credit_id": "690bfdbe8576059048b691b2",
+            "gender": 2,
+            "id": 73475,
+            "known_for_department": "Acting",
+            "name": "Adriano Giannini",
+            "order": 1,
+            "original_name": "Adriano Giannini",
+            "popularity": 0.7627,
+            "profile_path": "/8cyApt07EO7aaAtPTshe7whciSx.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "6a3ed3ebf01572596451a81b",
+            "gender": 1,
+            "id": 1281129,
+            "known_for_department": "Acting",
+            "name": "Vanessa Compagnucci",
+            "order": 2,
+            "original_name": "Vanessa Compagnucci",
+            "popularity": 0.1077,
+            "profile_path": "/bFC2hP5kD2RVfrZ244oqiLq36Y2.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 5,
+            "character": "",
+            "credit_id": "6a3ed3f6a487ad3e9451a7fa",
+            "gender": 0,
+            "id": 4121147,
+            "known_for_department": "Acting",
+            "name": "Giordano Fochetti",
+            "order": 3,
+            "original_name": "Giordano Fochetti",
+            "popularity": 0.0218,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 6,
+            "character": "",
+            "credit_id": "6a3ed405a46802447bf02155",
+            "gender": 2,
+            "id": 126988,
+            "known_for_department": "Acting",
+            "name": "Sergio Albelli",
+            "order": 4,
+            "original_name": "Sergio Albelli",
+            "popularity": 0.2669,
+            "profile_path": "/k3rb2hajpMXvH3SNsS2XtAh54pk.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 7,
+            "character": "",
+            "credit_id": "6a3ed40bf01572596451a81f",
+            "gender": 0,
+            "id": 3813600,
+            "known_for_department": "Acting",
+            "name": "Ludovica Rubino",
+            "order": 5,
+            "original_name": "Ludovica Rubino",
+            "popularity": 0.0214,
+            "profile_path": null
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "690bfd778cfd8b2510d734a8",
+            "department": "Directing",
+            "gender": 2,
+            "id": 1044765,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Stefano Chiantini",
+            "original_name": "Stefano Chiantini",
+            "popularity": 0.0836,
+            "profile_path": "/dCoLEfxUvAhNs5xEso5prcZVXgg.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed424a856304004e98ed0",
+            "department": "Camera",
+            "gender": 2,
+            "id": 932539,
+            "job": "Director of Photography",
+            "known_for_department": "Camera",
+            "name": "Paolo Carnera",
+            "original_name": "Paolo Carnera",
+            "popularity": 0.0633,
+            "profile_path": "/oSVFcqk0lTbu7gKyQBFGUjJPoDg.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed43c4501426139e6ed41",
+            "department": "Editing",
+            "gender": 0,
+            "id": 2523174,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "Luca Benedetti",
+            "original_name": "Luca Benedetti",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed46401efb73a6eeb34b2",
+            "department": "Art",
+            "gender": 0,
+            "id": 2436937,
+            "job": "Production Design",
+            "known_for_department": "Production",
+            "name": "Elisabetta Zanini",
+            "original_name": "Elisabetta Zanini",
+            "popularity": 0.0311,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed4730a80c678ede98ef0",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 3543856,
+            "job": "Costume Design",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Marta Passarini",
+            "original_name": "Marta Passarini",
+            "popularity": 0.0214,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed480f268b9f6ade98ff1",
+            "department": "Sound",
+            "gender": 2,
+            "id": 1507957,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "Piernicola Di Muro",
+            "original_name": "Piernicola Di Muro",
+            "popularity": 0.0404,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed48f292c4528f0814bcf",
+            "department": "Production",
+            "gender": 0,
+            "id": 1875786,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Andrea Petrozzi",
+            "original_name": "Andrea Petrozzi",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed7d547ab531158814c0a",
+            "department": "Directing",
+            "gender": 0,
+            "id": 2369176,
+            "job": "Script Supervisor",
+            "known_for_department": "Directing",
+            "name": "Martina Monicelli",
+            "original_name": "Martina Monicelli",
+            "popularity": 0.0338,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed8810ad22235de18103d",
+            "department": "Directing",
+            "gender": 0,
+            "id": 3568885,
+            "job": "Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Clara Zuliani",
+            "original_name": "Clara Zuliani",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed8c73bec774fc451a800",
+            "department": "Production",
+            "gender": 0,
+            "id": 4729259,
+            "job": "Location Manager",
+            "known_for_department": "Production",
+            "name": "Roberta Petrozzi",
+            "original_name": "Roberta Petrozzi",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed905f01572596451a86c",
+            "department": "Sound",
+            "gender": 0,
+            "id": 2258002,
+            "job": "Sound Editor",
+            "known_for_department": "Sound",
+            "name": "Filippo Barracco",
+            "original_name": "Filippo Barracco",
+            "popularity": 0.1174,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed91ac9549e4adae6ed74",
+            "department": "Sound",
+            "gender": 0,
+            "id": 2258008,
+            "job": "Sound Designer",
+            "known_for_department": "Sound",
+            "name": "Ivan Caso",
+            "original_name": "Ivan Caso",
+            "popularity": 0.0673,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed930292c4528f0814c0e",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1573578,
+            "job": "Sound",
+            "known_for_department": "Sound",
+            "name": "Gianpaolo Catanzaro",
+            "original_name": "Gianpaolo Catanzaro",
+            "popularity": 0.1383,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed96303ba942a2cc8f706",
+            "department": "Production",
+            "gender": 1,
+            "id": 456252,
+            "job": "Casting",
+            "known_for_department": "Production",
+            "name": "Laura Muccino",
+            "original_name": "Laura Muccino",
+            "popularity": 0.1986,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed98df5738068d8dd1736",
+            "department": "Production",
+            "gender": 0,
+            "id": 1812233,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Claudio Montefusco",
+            "original_name": "Claudio Montefusco",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed9a966b14470d3e98ec1",
+            "department": "Production",
+            "gender": 0,
+            "id": 3821929,
+            "job": "Producer",
+            "known_for_department": "Writing",
+            "name": "Niccolò Stazzi",
+            "original_name": "Niccolò Stazzi",
+            "popularity": 0.0286,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed9c568ec8df29951a6e8",
+            "department": "Production",
+            "gender": 2,
+            "id": 2967719,
+            "job": "Co-Producer",
+            "known_for_department": "Production",
+            "name": "Riccardo Marchegiani",
+            "original_name": "Riccardo Marchegiani",
+            "popularity": 0.4154,
+            "profile_path": "/lmXQuvqc9CwuVRvTARfgnRREUsp.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6a3ed9e287c2f70e27dd15c4",
+            "department": "Writing",
+            "gender": 2,
+            "id": 1044765,
+            "job": "Writer",
+            "known_for_department": "Directing",
+            "name": "Stefano Chiantini",
+            "original_name": "Stefano Chiantini",
+            "popularity": 0.0836,
+            "profile_path": "/dCoLEfxUvAhNs5xEso5prcZVXgg.jpg"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 18,
+          "name": "Dramma"
+        }
+      ],
+      "homepage": "",
+      "id": 1575560,
+      "imdb_id": null,
+      "origin_country": [
+        "IT"
+      ],
+      "original_language": "it",
+      "original_title": "Separazioni",
+      "overview": "Il film dipinge una rete di legami famigliari e sentimentali il cui equilibrio apparente viene sconvolto dalla scomparsa di due ragazzi sulle vette innevate del Gran Sasso, che farà emergere intrecci segreti e tradimenti.",
+      "popularity": 0.2878,
+      "poster_path": "/jpIjT6atZo6xWDcTzGxbR9NDT5s.jpg",
+      "production_companies": [
+        {
+          "id": 155990,
+          "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+          "name": "RAI Cinema",
+          "origin_country": "IT"
+        },
+        {
+          "id": 12192,
+          "logo_path": null,
+          "name": "Worldwide Productions",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        }
+      ],
+      "release_date": "2026-07-02",
+      "revenue": 0,
+      "runtime": 97,
+      "softcore": false,
+      "spoken_languages": [],
+      "status": "Released",
+      "tagline": "",
+      "title": "Separazioni",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Il film dipinge una rete di legami famigliari e sentimentali il cui equilibrio apparente viene sconvolto dalla scomparsa di due ragazzi sulle vette innevate del Gran Sasso, che farà emergere intrecci segreti e tradimenti.",
+              "runtime": 97,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Italian",
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
     "1575571": {
       "adult": false,
       "backdrop_path": "/l3hwoFd0cqt0FZR5RnhMPtkM4in.jpg",
@@ -203880,6 +204279,524 @@
       "video": false,
       "vote_average": 7.7,
       "vote_count": 342
+    },
+    "223922": {
+      "adult": false,
+      "backdrop_path": "/DZAKxqyoIxoi3UauGD3YgjOZYb.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [
+          {
+            "adult": true,
+            "cast_id": 3,
+            "character": "Mr. Big",
+            "credit_id": "52fe4e289251416c7514d425",
+            "gender": 2,
+            "id": 106406,
+            "known_for_department": "Acting",
+            "name": "Luis De Jesus",
+            "order": 0,
+            "original_name": "Luis De Jesus",
+            "popularity": 0.0,
+            "profile_path": "/4k2ZdiMg12v2xTt7hqqQhdN7dzc.jpg"
+          },
+          {
+            "adult": true,
+            "cast_id": 4,
+            "character": "Himself",
+            "credit_id": "52fe4e289251416c7514d429",
+            "gender": 2,
+            "id": 46092,
+            "known_for_department": "Directing",
+            "name": "Gerard Damiano",
+            "order": 1,
+            "original_name": "Gerard Damiano",
+            "popularity": 0.0,
+            "profile_path": "/yuGSEEZQzi5rz27tHB7FCFezVdo.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 5,
+            "character": "Dancer at The Wreck Bar",
+            "credit_id": "52fe4e289251416c7514d42d",
+            "gender": 1,
+            "id": 1209511,
+            "known_for_department": "Acting",
+            "name": "Penny Nicholls",
+            "order": 2,
+            "original_name": "Penny Nicholls",
+            "popularity": 0.0286,
+            "profile_path": "/zfWPS99e7AynbyJ91XFjCmTT19T.jpg"
+          },
+          {
+            "adult": true,
+            "cast_id": 6,
+            "character": "Man in Lusterine Commercial",
+            "credit_id": "52fe4e289251416c7514d431",
+            "gender": 2,
+            "id": 98331,
+            "known_for_department": "Acting",
+            "name": "Al Goldstein",
+            "order": 3,
+            "original_name": "Al Goldstein",
+            "popularity": 0.0,
+            "profile_path": "/gX8wY8mP6CuGIbgLBl2ppD6Fqus.jpg"
+          },
+          {
+            "adult": true,
+            "cast_id": 7,
+            "character": "Jessica Cooze",
+            "credit_id": "52fe4e289251416c7514d435",
+            "gender": 1,
+            "id": 239182,
+            "known_for_department": "Acting",
+            "name": "Viju Krem",
+            "order": 4,
+            "original_name": "Viju Krem",
+            "popularity": 0.0,
+            "profile_path": "/4XtNxq1lYdb5EjofShvjasY2L9M.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 8,
+            "character": "Doctor's Patient in Climax Ad",
+            "credit_id": "52fe4e289251416c7514d439",
+            "gender": 1,
+            "id": 1209512,
+            "known_for_department": "Acting",
+            "name": "Lynette Sheldon",
+            "order": 5,
+            "original_name": "Lynette Sheldon",
+            "popularity": 0.0762,
+            "profile_path": "/96Otp1nUJTpqMinf0rZ322fOAEs.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 24,
+            "character": "Pornochio (voice) (singing voice)",
+            "credit_id": "69c7f6d6a1d0972e73a347c2",
+            "gender": 0,
+            "id": 1674962,
+            "known_for_department": "Sound",
+            "name": "Bradford Craig",
+            "order": 6,
+            "original_name": "Bradford Craig",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 25,
+            "character": "The Chauffeur",
+            "credit_id": "69c7f6f547bb2f1ce19debb4",
+            "gender": 2,
+            "id": 15830,
+            "known_for_department": "Acting",
+            "name": "Jonathan Freeman",
+            "order": 7,
+            "original_name": "Jonathan Freeman",
+            "popularity": 0.4862,
+            "profile_path": "/ceyXr2JHuB32l74sFuzgMGGVLGQ.jpg"
+          },
+          {
+            "adult": true,
+            "cast_id": 26,
+            "character": "Mr. Big's Henchman (uncredited)",
+            "credit_id": "69c7f72140eac52f4a9d4bce",
+            "gender": 2,
+            "id": 1805623,
+            "known_for_department": "Acting",
+            "name": "Turk Turpin",
+            "order": 8,
+            "original_name": "Turk Turpin",
+            "popularity": 0.0,
+            "profile_path": null
+          }
+        ],
+        "crew": [
+          {
+            "adult": true,
+            "credit_id": "52fe4e289251416c7514d41b",
+            "department": "Directing",
+            "gender": 2,
+            "id": 46092,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Gerard Damiano",
+            "original_name": "Gerard Damiano",
+            "popularity": 0.0,
+            "profile_path": "/yuGSEEZQzi5rz27tHB7FCFezVdo.jpg"
+          },
+          {
+            "adult": true,
+            "credit_id": "52fe4e289251416c7514d421",
+            "department": "Writing",
+            "gender": 2,
+            "id": 46092,
+            "job": "Writer",
+            "known_for_department": "Directing",
+            "name": "Gerard Damiano",
+            "original_name": "Gerard Damiano",
+            "popularity": 0.0,
+            "profile_path": "/yuGSEEZQzi5rz27tHB7FCFezVdo.jpg"
+          },
+          {
+            "adult": true,
+            "credit_id": "5d62da227c6de30014093c81",
+            "department": "Production",
+            "gender": 2,
+            "id": 46092,
+            "job": "Producer",
+            "known_for_department": "Directing",
+            "name": "Gerard Damiano",
+            "original_name": "Gerard Damiano",
+            "popularity": 0.0,
+            "profile_path": "/yuGSEEZQzi5rz27tHB7FCFezVdo.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5d62da6ebc8abc639c254e09",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1674962,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "Bradford Craig",
+            "original_name": "Bradford Craig",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5d62da7739a45d0015c0ac33",
+            "department": "Sound",
+            "gender": 0,
+            "id": 2395918,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "Cosmo Richard Falcon",
+            "original_name": "Cosmo Richard Falcon",
+            "popularity": 0.0168,
+            "profile_path": null
+          },
+          {
+            "adult": true,
+            "credit_id": "5d62da8e7c6de30013093ee2",
+            "department": "Sound",
+            "gender": 0,
+            "id": 2395919,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "David Hollister",
+            "original_name": "David Hollister",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5d62daa67f6c8d03acec489b",
+            "department": "Sound",
+            "gender": 0,
+            "id": 2395920,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "Gustavo Motta",
+            "original_name": "Gustavo Motta",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5d62dab07c6de30015093b92",
+            "department": "Sound",
+            "gender": 2,
+            "id": 37,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "Alan Silvestri",
+            "original_name": "Alan Silvestri",
+            "popularity": 0.9315,
+            "profile_path": "/feUZ0Oc1MGJJbUronBbkHTmJzgy.jpg"
+          },
+          {
+            "adult": true,
+            "credit_id": "5d62dabd6dea3a492593625c",
+            "department": "Camera",
+            "gender": 0,
+            "id": 1187915,
+            "job": "Director of Photography",
+            "known_for_department": "Crew",
+            "name": "Beyen C. Mitchell",
+            "original_name": "Beyen C. Mitchell",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": true,
+            "credit_id": "5d62dac939a45d41ebc06fde",
+            "department": "Editing",
+            "gender": 0,
+            "id": 1187917,
+            "job": "Editor",
+            "known_for_department": "Visual Effects",
+            "name": "Bill Bukowski",
+            "original_name": "Bill Bukowski",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": true,
+            "credit_id": "5d62dad239a45d0015c0ac6b",
+            "department": "Editing",
+            "gender": 2,
+            "id": 46092,
+            "job": "Editor",
+            "known_for_department": "Directing",
+            "name": "Gerard Damiano",
+            "original_name": "Gerard Damiano",
+            "popularity": 0.0,
+            "profile_path": "/yuGSEEZQzi5rz27tHB7FCFezVdo.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5d62dae17c6de30013093f19",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 2395921,
+            "job": "Costume Design",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Diane Fox",
+            "original_name": "Diane Fox",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": true,
+            "credit_id": "5d62daec6dea3a48fd936474",
+            "department": "Production",
+            "gender": 0,
+            "id": 2388933,
+            "job": "Assistant Production Manager",
+            "known_for_department": "Camera",
+            "name": "David W. Beames",
+            "original_name": "David W. Beames",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": true,
+            "credit_id": "5d62daf77c6de30014093dbc",
+            "department": "Production",
+            "gender": 0,
+            "id": 1187917,
+            "job": "Production Manager",
+            "known_for_department": "Visual Effects",
+            "name": "Bill Bukowski",
+            "original_name": "Bill Bukowski",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5d62db116dea3a4830935eec",
+            "department": "Art",
+            "gender": 0,
+            "id": 2395922,
+            "job": "Prop Designer",
+            "known_for_department": "Art",
+            "name": "Pady Blackwood",
+            "original_name": "Pady Blackwood",
+            "popularity": 0.0214,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5d62db1bbc8abc176f256039",
+            "department": "Art",
+            "gender": 0,
+            "id": 2395923,
+            "job": "Prop Designer",
+            "known_for_department": "Art",
+            "name": "James Racioppi",
+            "original_name": "James Racioppi",
+            "popularity": 0.0261,
+            "profile_path": null
+          },
+          {
+            "adult": true,
+            "credit_id": "5d62db2b39a45d0012c0b0d9",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1187917,
+            "job": "Sound",
+            "known_for_department": "Visual Effects",
+            "name": "Bill Bukowski",
+            "original_name": "Bill Bukowski",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": true,
+            "credit_id": "69c7f77e7f32f8f92350ee26",
+            "department": "Art",
+            "gender": 1,
+            "id": 98384,
+            "job": "Set Designer",
+            "known_for_department": "Acting",
+            "name": "Annie Sprinkle",
+            "original_name": "Annie Sprinkle",
+            "popularity": 0.0,
+            "profile_path": "/yI2bWCryXvfVpq99g5nkNM3TkfW.jpg"
+          },
+          {
+            "adult": true,
+            "credit_id": "69c7f79d15122fbc9dad9d33",
+            "department": "Camera",
+            "gender": 0,
+            "id": 2388933,
+            "job": "Still Photographer",
+            "known_for_department": "Camera",
+            "name": "David W. Beames",
+            "original_name": "David W. Beames",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c7f7af5ae8e79415ad9ca9",
+            "department": "Camera",
+            "gender": 0,
+            "id": 3087675,
+            "job": "Key Grip",
+            "known_for_department": "Lighting",
+            "name": "John Kraus",
+            "original_name": "John Kraus",
+            "popularity": 0.0214,
+            "profile_path": null
+          },
+          {
+            "adult": true,
+            "credit_id": "69c7f7bb9899f8a7e39d4c5a",
+            "department": "Lighting",
+            "gender": 2,
+            "id": 108148,
+            "job": "Gaffer",
+            "known_for_department": "Camera",
+            "name": "James McCalmont",
+            "original_name": "James McCalmont",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": true,
+            "credit_id": "69c7f7cc9899f8a7e39d4c5d",
+            "department": "Directing",
+            "gender": 1,
+            "id": 98384,
+            "job": "Continuity",
+            "known_for_department": "Acting",
+            "name": "Annie Sprinkle",
+            "original_name": "Annie Sprinkle",
+            "popularity": 0.0,
+            "profile_path": "/yI2bWCryXvfVpq99g5nkNM3TkfW.jpg"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 35,
+          "name": "Commedia"
+        },
+        {
+          "id": 10402,
+          "name": "Musica"
+        }
+      ],
+      "homepage": "",
+      "id": 223922,
+      "imdb_id": "tt0074788",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Let My Puppets Come",
+      "overview": "",
+      "popularity": 0.6309,
+      "poster_path": "/tkEC35oeLKSTJbsdlXkJcLLK15O.jpg",
+      "production_companies": [
+        {
+          "id": 50317,
+          "logo_path": null,
+          "name": "Blueberry Hill Films",
+          "origin_country": ""
+        },
+        {
+          "id": 207243,
+          "logo_path": null,
+          "name": "Marden Films",
+          "origin_country": ""
+        },
+        {
+          "id": 93321,
+          "logo_path": "/vP0oCoxHo6mELBSv0oqSYieGvzT.png",
+          "name": "Vinegar Syndrome Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "1976-02-16",
+      "revenue": 0,
+      "runtime": 75,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Let My Puppets Come",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "The three chief executives of Creative Concepts Systems &amp; Procedures Brothers Unlimited Inc. of New York are in hot water as their latest venture has been a huge failure, and their Mafia investor, \"Mr. Big\", wants his $500,000 within 24 hours, or else. So Jimmy, a courier who over hears their plight, suggests they make a porno movie as an easy way of getting back the lost money.",
+              "runtime": 75,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "让我的布偶们出来"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 5.389,
+      "vote_count": 18
     },
     "22561": {
       "adult": false,
@@ -295905,6 +296822,1051 @@
       "vote_average": 6.1,
       "vote_count": 234
     },
+    "57447": {
+      "adult": false,
+      "backdrop_path": "/hN8BEjmyqsPdwSPsdDWenoid1as.jpg",
+      "belongs_to_collection": null,
+      "budget": 61974,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 2,
+            "character": "Stefano",
+            "credit_id": "52fe4935c3a36847f818ec81",
+            "gender": 2,
+            "id": 39467,
+            "known_for_department": "Acting",
+            "name": "Lino Capolicchio",
+            "order": 0,
+            "original_name": "Lino Capolicchio",
+            "popularity": 0.2769,
+            "profile_path": "/b6W07D2KbucZIngyuxxgT7hWrwH.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 3,
+            "character": "Francesca",
+            "credit_id": "52fe4935c3a36847f818ec85",
+            "gender": 1,
+            "id": 224520,
+            "known_for_department": "Writing",
+            "name": "Francesca Marciano",
+            "order": 1,
+            "original_name": "Francesca Marciano",
+            "popularity": 0.2938,
+            "profile_path": "/2a4OjHwciDUET8V8rTTd7rBF25K.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 4,
+            "character": "Coppola",
+            "credit_id": "52fe4935c3a36847f818ec89",
+            "gender": 2,
+            "id": 128020,
+            "known_for_department": "Acting",
+            "name": "Gianni Cavina",
+            "order": 2,
+            "original_name": "Gianni Cavina",
+            "popularity": 0.3377,
+            "profile_path": "/xcTHRfLI8yCkEV3FGENXy0AsHoY.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 5,
+            "character": "Antonio Mazza",
+            "credit_id": "52fe4935c3a36847f818ec8d",
+            "gender": 2,
+            "id": 1210595,
+            "known_for_department": "Acting",
+            "name": "Giulio Pizzirani",
+            "order": 3,
+            "original_name": "Giulio Pizzirani",
+            "popularity": 0.1208,
+            "profile_path": "/rphX7j1r3seadPJZMDlfPga5x4v.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 6,
+            "character": "Mayor Solmi",
+            "credit_id": "52fe4935c3a36847f818ec91",
+            "gender": 0,
+            "id": 125641,
+            "known_for_department": "Acting",
+            "name": "Bob Tonelli",
+            "order": 4,
+            "original_name": "Bob Tonelli",
+            "popularity": 0.2093,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 11,
+            "character": "Teacher",
+            "credit_id": "5b859f550e0a2664b200041b",
+            "gender": 0,
+            "id": 1856940,
+            "known_for_department": "Acting",
+            "name": "Vanna Busoni",
+            "order": 5,
+            "original_name": "Vanna Busoni",
+            "popularity": 0.0491,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 10,
+            "character": "Lidio",
+            "credit_id": "52fe4935c3a36847f818eca5",
+            "gender": 2,
+            "id": 1041292,
+            "known_for_department": "Acting",
+            "name": "Pietro Brambilla",
+            "order": 6,
+            "original_name": "Pietro Brambilla",
+            "popularity": 0.1773,
+            "profile_path": "/iDBd3kapOXUvOnHGYS6ow3jkfxN.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 9,
+            "character": "Police Marshall",
+            "credit_id": "52fe4935c3a36847f818eca1",
+            "gender": 0,
+            "id": 1283863,
+            "known_for_department": "Acting",
+            "name": "Ferdinando Orlandi",
+            "order": 7,
+            "original_name": "Ferdinando Orlandi",
+            "popularity": 0.1873,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 12,
+            "character": "Poppi",
+            "credit_id": "5b859f6c0e0a2664b20004ac",
+            "gender": 0,
+            "id": 1678149,
+            "known_for_department": "Acting",
+            "name": "Andrea Matteuzzi",
+            "order": 8,
+            "original_name": "Andrea Matteuzzi",
+            "popularity": 0.1515,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 13,
+            "character": "Concierge",
+            "credit_id": "5b859f78c3a36814a7000528",
+            "gender": 1,
+            "id": 1621866,
+            "known_for_department": "Acting",
+            "name": "Ines Ciaschetti",
+            "order": 9,
+            "original_name": "Ines Ciaschetti",
+            "popularity": 0.0347,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 14,
+            "character": "Paraplegic Woman",
+            "credit_id": "5b859f88c3a36814a700055d",
+            "gender": 1,
+            "id": 1621864,
+            "known_for_department": "Acting",
+            "name": "Pina Borione",
+            "order": 10,
+            "original_name": "Pina Borione",
+            "popularity": 0.1239,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 15,
+            "character": "Poppi's Wife",
+            "credit_id": "5b859fa50e0a2664bb000498",
+            "gender": 1,
+            "id": 2018567,
+            "known_for_department": "Acting",
+            "name": "Flavia Giorgi",
+            "order": 11,
+            "original_name": "Flavia Giorgi",
+            "popularity": 0.0673,
+            "profile_path": "/cnTvvssLprUGKkFVbqGu3PONxN1.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 16,
+            "character": "Grocer",
+            "credit_id": "5b859fc40e0a2664b40004ec",
+            "gender": 0,
+            "id": 2117104,
+            "known_for_department": "Acting",
+            "name": "Arrigo Lucchini",
+            "order": 12,
+            "original_name": "Arrigo Lucchini",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 17,
+            "character": "Chambermaid at Boarding House",
+            "credit_id": "5b859fd0c3a36814ae000632",
+            "gender": 1,
+            "id": 76342,
+            "known_for_department": "Acting",
+            "name": "Carla Astolfi",
+            "order": 13,
+            "original_name": "Carla Astolfi",
+            "popularity": 0.0563,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 18,
+            "character": "Franchini the Librarian",
+            "credit_id": "5b859fe0c3a36814b10005d7",
+            "gender": 0,
+            "id": 2117098,
+            "known_for_department": "Acting",
+            "name": "Luciano Bianchi",
+            "order": 14,
+            "original_name": "Luciano Bianchi",
+            "popularity": 0.0256,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 19,
+            "character": "Buono Legnani",
+            "credit_id": "5b859fee0e0a2664b400052f",
+            "gender": 0,
+            "id": 2117105,
+            "known_for_department": "Acting",
+            "name": "Tonino Corazzari",
+            "order": 15,
+            "original_name": "Tonino Corazzari",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 20,
+            "character": "",
+            "credit_id": "5b859ff40e0a2664af00058f",
+            "gender": 0,
+            "id": 2117106,
+            "known_for_department": "Acting",
+            "name": "Libero Grandi",
+            "order": 16,
+            "original_name": "Libero Grandi",
+            "popularity": 0.0637,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 21,
+            "character": "Car Driver (uncredited)",
+            "credit_id": "5b859ffcc3a36814a00006a9",
+            "gender": 0,
+            "id": 228912,
+            "known_for_department": "Camera",
+            "name": "Cesare Bastelli",
+            "order": 17,
+            "original_name": "Cesare Bastelli",
+            "popularity": 0.8294,
+            "profile_path": "/qPLVBjrjSqyWxZBW2mwb9uqOn7j.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 22,
+            "character": "Woman Eating Pasta (uncredited)",
+            "credit_id": "5b85a007c3a36814a00006c5",
+            "gender": 0,
+            "id": 2006767,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Gina Bonacquisti",
+            "order": 18,
+            "original_name": "Gina Bonacquisti",
+            "popularity": 0.0733,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 23,
+            "character": "Man at Restaurant (uncredited)",
+            "credit_id": "5b85a018c3a36814a7000666",
+            "gender": 0,
+            "id": 2117099,
+            "known_for_department": "Acting",
+            "name": "Pietro Bona",
+            "order": 19,
+            "original_name": "Pietro Bona",
+            "popularity": 0.0352,
+            "profile_path": null
+          },
+          {
+            "adult": true,
+            "cast_id": 25,
+            "character": "Victim in the Incipit (uncredited)",
+            "credit_id": "5b85a02fc3a368149c000702",
+            "gender": 2,
+            "id": 1380257,
+            "known_for_department": "Acting",
+            "name": "Paolo Gramignano",
+            "order": 20,
+            "original_name": "Paolo Gramignano",
+            "popularity": 0.0,
+            "profile_path": "/2MGZWHhslmPMxeOVVuB8Bt0FVjR.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 26,
+            "character": "Waitress (uncredited)",
+            "credit_id": "5b85a03892514114e200064a",
+            "gender": 1,
+            "id": 55659,
+            "known_for_department": "Acting",
+            "name": "Zora Kerova",
+            "order": 21,
+            "original_name": "Zora Kerova",
+            "popularity": 0.3188,
+            "profile_path": "/1KHvrs6eZpNPkqf3MV9BVKX5PYK.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 67,
+            "character": "Don Orsi / Legnani Sister (uncredited)",
+            "credit_id": "605f5ed38f26bc002a6532e9",
+            "gender": 2,
+            "id": 590445,
+            "known_for_department": "Acting",
+            "name": "Eugene Walter",
+            "order": 22,
+            "original_name": "Eugene Walter",
+            "popularity": 0.164,
+            "profile_path": "/61ZTxAQYElRbgvP9KbKgykv0lmO.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 68,
+            "character": "Man at Restaurant (uncredited)",
+            "credit_id": "678e0b2368e0d873636e22aa",
+            "gender": 2,
+            "id": 132570,
+            "known_for_department": "Acting",
+            "name": "Giovanni Brusadori",
+            "order": 23,
+            "original_name": "Giovanni Brusadori",
+            "popularity": 0.0598,
+            "profile_path": "/4bBmnOU12wxzEaEkcZch0snwHqm.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "52fe4935c3a36847f818ec7d",
+            "department": "Directing",
+            "gender": 2,
+            "id": 72191,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Pupi Avati",
+            "original_name": "Pupi Avati",
+            "popularity": 0.3016,
+            "profile_path": "/zP1RXV5NEoGZSrWSE6ub6kO3oJC.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4935c3a36847f818ec97",
+            "department": "Writing",
+            "gender": 2,
+            "id": 105346,
+            "job": "Screenplay",
+            "known_for_department": "Production",
+            "name": "Antonio Avati",
+            "original_name": "Antonio Avati",
+            "popularity": 0.2914,
+            "profile_path": "/lCueql84sx9XVIACh33VYBTN1to.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4935c3a36847f818ec9d",
+            "department": "Writing",
+            "gender": 2,
+            "id": 72191,
+            "job": "Screenplay",
+            "known_for_department": "Directing",
+            "name": "Pupi Avati",
+            "original_name": "Pupi Avati",
+            "popularity": 0.3016,
+            "profile_path": "/zP1RXV5NEoGZSrWSE6ub6kO3oJC.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5bba54c30e0a2634f90323b0",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1024353,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "Amedeo Tommasi",
+            "original_name": "Amedeo Tommasi",
+            "popularity": 0.1385,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5e7d5ec513a32046b728515a",
+            "department": "Writing",
+            "gender": 2,
+            "id": 128020,
+            "job": "Screenplay",
+            "known_for_department": "Acting",
+            "name": "Gianni Cavina",
+            "original_name": "Gianni Cavina",
+            "popularity": 0.3377,
+            "profile_path": "/xcTHRfLI8yCkEV3FGENXy0AsHoY.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5e7d5ed06c74b95757cb4a0e",
+            "department": "Writing",
+            "gender": 2,
+            "id": 120647,
+            "job": "Screenplay",
+            "known_for_department": "Writing",
+            "name": "Maurizio Costanzo",
+            "original_name": "Maurizio Costanzo",
+            "popularity": 0.3058,
+            "profile_path": "/aGvsvBymyiSEhREMlItSXvNmJNZ.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5e7d5eea109dec1cbb02ab08",
+            "department": "Production",
+            "gender": 2,
+            "id": 105346,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Antonio Avati",
+            "original_name": "Antonio Avati",
+            "popularity": 0.2914,
+            "profile_path": "/lCueql84sx9XVIACh33VYBTN1to.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5e7d5ef6ab1bc75cb1c34991",
+            "department": "Production",
+            "gender": 2,
+            "id": 1194456,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Gianni Minervini",
+            "original_name": "Gianni Minervini",
+            "popularity": 0.1249,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5e7d5f0efea0d710f5c93779",
+            "department": "Camera",
+            "gender": 0,
+            "id": 240097,
+            "job": "Director of Photography",
+            "known_for_department": "Camera",
+            "name": "Pasquale Rachini",
+            "original_name": "Pasquale Rachini",
+            "popularity": 0.0583,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5e7d5f19eec4f30547aa41d2",
+            "department": "Editing",
+            "gender": 0,
+            "id": 1208459,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "Giuseppe Baghdighian",
+            "original_name": "Giuseppe Baghdighian",
+            "popularity": 0.0214,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5e7d5f3bfea0d708fec95d60",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 1542641,
+            "job": "Makeup Artist",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Giovanni Amadei",
+            "original_name": "Giovanni Amadei",
+            "popularity": 0.0951,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5e7d5f4af794ad0013ef842d",
+            "department": "Sound",
+            "gender": 2,
+            "id": 1302372,
+            "job": "Sound Effects Editor",
+            "known_for_department": "Sound",
+            "name": "Massimo Anzellotti",
+            "original_name": "Massimo Anzellotti",
+            "popularity": 0.1359,
+            "profile_path": "/8F7uEOotxQmtOzhYlK21WpMjU9Q.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5efc32b47b7b4d00355776bf",
+            "department": "Production",
+            "gender": 2,
+            "id": 1625839,
+            "job": "Unit Manager",
+            "known_for_department": "Production",
+            "name": "Sergio Bollino",
+            "original_name": "Sergio Bollino",
+            "popularity": 0.1124,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a219559d220037786f72",
+            "department": "Writing",
+            "gender": 2,
+            "id": 72191,
+            "job": "Story",
+            "known_for_department": "Directing",
+            "name": "Pupi Avati",
+            "original_name": "Pupi Avati",
+            "popularity": 0.3016,
+            "profile_path": "/zP1RXV5NEoGZSrWSE6ub6kO3oJC.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a230559d22003873c42e",
+            "department": "Writing",
+            "gender": 2,
+            "id": 105346,
+            "job": "Story",
+            "known_for_department": "Production",
+            "name": "Antonio Avati",
+            "original_name": "Antonio Avati",
+            "popularity": 0.2914,
+            "profile_path": "/lCueql84sx9XVIACh33VYBTN1to.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a27c9a358d003694c2fc",
+            "department": "Art",
+            "gender": 1,
+            "id": 1956974,
+            "job": "Production Design",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Luciana Morosetti",
+            "original_name": "Luciana Morosetti",
+            "popularity": 0.1294,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a2b39a358d0039961dfc",
+            "department": "Costume & Make-Up",
+            "gender": 1,
+            "id": 1956974,
+            "job": "Costume Design",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Luciana Morosetti",
+            "original_name": "Luciana Morosetti",
+            "popularity": 0.1294,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a2f7f8aee8003301eeab",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 2639033,
+            "job": "Wigmaker",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Carboni",
+            "original_name": "Carboni",
+            "popularity": 0.0214,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a3189a358d003891d1ec",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 2737042,
+            "job": "Hairstylist",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Francesco Musico",
+            "original_name": "Francesco Musico",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a3838ed03f0034ee9020",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 2639035,
+            "job": "Wigmaker",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Fiamma Rocchetti",
+            "original_name": "Fiamma Rocchetti",
+            "popularity": 0.1365,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a3bbf1b5710033edf04e",
+            "department": "Directing",
+            "gender": 0,
+            "id": 228912,
+            "job": "Assistant Director",
+            "known_for_department": "Camera",
+            "name": "Cesare Bastelli",
+            "original_name": "Cesare Bastelli",
+            "popularity": 0.8294,
+            "profile_path": "/qPLVBjrjSqyWxZBW2mwb9uqOn7j.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a3ea8dbc33003aaf6e74",
+            "department": "Art",
+            "gender": 0,
+            "id": 2737049,
+            "job": "Painter",
+            "known_for_department": "Art",
+            "name": "Michelangelo Giuliani",
+            "original_name": "Michelangelo Giuliani",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a4838ed03f0033ed5bc9",
+            "department": "Art",
+            "gender": 0,
+            "id": 2737050,
+            "job": "Assistant Production Design",
+            "known_for_department": "Art",
+            "name": "Otello Taglietti",
+            "original_name": "Otello Taglietti",
+            "popularity": 0.0286,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a49ef1b5710035e98df2",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1208455,
+            "job": "Sound Mixer",
+            "known_for_department": "Sound",
+            "name": "Venanzio Biraschi",
+            "original_name": "Venanzio Biraschi",
+            "popularity": 0.083,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a4c29a358d00399623f3",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1641350,
+            "job": "Sound Mixer",
+            "known_for_department": "Acting",
+            "name": "Enrico Blasi",
+            "original_name": "Enrico Blasi",
+            "popularity": 0.0789,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a4e89a358d0039962436",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1716750,
+            "job": "Boom Operator",
+            "known_for_department": "Sound",
+            "name": "Rodolfo Montagnani",
+            "original_name": "Rodolfo Montagnani",
+            "popularity": 0.0416,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a4fc8dbc330041afe337",
+            "department": "Crew",
+            "gender": 2,
+            "id": 1625594,
+            "job": "Special Effects Technician",
+            "known_for_department": "Sound",
+            "name": "Luciano Anzellotti",
+            "original_name": "Luciano Anzellotti",
+            "popularity": 0.0984,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a515cdf2e6003a2585ac",
+            "department": "Crew",
+            "gender": 2,
+            "id": 4659,
+            "job": "Special Effects",
+            "known_for_department": "Crew",
+            "name": "Giovanni Corridori",
+            "original_name": "Giovanni Corridori",
+            "popularity": 0.0881,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a53e559d22003778787c",
+            "department": "Camera",
+            "gender": 0,
+            "id": 1883009,
+            "job": "Key Grip",
+            "known_for_department": "Camera",
+            "name": "Mario Pizzi",
+            "original_name": "Mario Pizzi",
+            "popularity": 0.0414,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a54d8ed03f0034ee95c8",
+            "department": "Lighting",
+            "gender": 0,
+            "id": 1757248,
+            "job": "Electrician",
+            "known_for_department": "Lighting",
+            "name": "Francesco Rachini",
+            "original_name": "Francesco Rachini",
+            "popularity": 0.1056,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a55c559d2200377878d5",
+            "department": "Camera",
+            "gender": 2,
+            "id": 4675,
+            "job": "Assistant Camera",
+            "known_for_department": "Camera",
+            "name": "Antonio Scaramuzza",
+            "original_name": "Antonio Scaramuzza",
+            "popularity": 0.1766,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a56af8aee8003301f68e",
+            "department": "Camera",
+            "gender": 0,
+            "id": 2335549,
+            "job": "Camera Operator",
+            "known_for_department": "Camera",
+            "name": "Giorgio Urbinelli",
+            "original_name": "Giorgio Urbinelli",
+            "popularity": 0.1103,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a58d7739410038e5721f",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 2737051,
+            "job": "Seamstress",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Teresa Lai",
+            "original_name": "Teresa Lai",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a5a49a358d003792ea9c",
+            "department": "Editing",
+            "gender": 0,
+            "id": 2737052,
+            "job": "Assistant Editor",
+            "known_for_department": "Editing",
+            "name": "Maurizio Cucciola",
+            "original_name": "Maurizio Cucciola",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a5d99a358d003891d2ef",
+            "department": "Editing",
+            "gender": 0,
+            "id": 1356930,
+            "job": "Assistant Editor",
+            "known_for_department": "Editing",
+            "name": "Piera Gabutti",
+            "original_name": "Piera Gabutti",
+            "popularity": 0.2109,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a5e7cdf2e60039234313",
+            "department": "Editing",
+            "gender": 0,
+            "id": 2514550,
+            "job": "Assistant Editor",
+            "known_for_department": "Editing",
+            "name": "Viviana Massi",
+            "original_name": "Viviana Massi",
+            "popularity": 0.0404,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f30a6229a358d00399627c9",
+            "department": "Production",
+            "gender": 2,
+            "id": 1867694,
+            "job": "Production Assistant",
+            "known_for_department": "Production",
+            "name": "Alessandro Vivarelli",
+            "original_name": "Alessandro Vivarelli",
+            "popularity": 0.15,
+            "profile_path": null
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 9648,
+          "name": "Mistero"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 27,
+          "name": "Horror"
+        }
+      ],
+      "homepage": "",
+      "id": 57447,
+      "imdb_id": "tt0074287",
+      "origin_country": [
+        "IT"
+      ],
+      "original_language": "it",
+      "original_title": "La casa dalle finestre che ridono",
+      "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
+      "popularity": 0.9578,
+      "poster_path": "/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
+      "production_companies": [
+        {
+          "id": 17087,
+          "logo_path": null,
+          "name": "A.M.A. Film",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "release_date": "1976-08-20",
+      "revenue": 432647,
+      "runtime": 110,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "...oggi ho ritratto quella svergognata mentre crepava...",
+      "title": "La casa dalle finestre che ridono",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
+              "runtime": 110,
+              "tagline": "...oggi ho ritratto quella svergognata mentre crepava...",
+              "title": ""
+            },
+            "english_name": "Italian",
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village.",
+              "runtime": 110,
+              "tagline": "Today I portrayed the shameless one as she died...",
+              "title": "The House with Laughing Windows"
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Artiste spécialisé dans la restauration de fresques, Stefano est invité par un ami à exercer ses talents dans l'église d'un petit village italien. Là, il découvre une fresque représentant le martyre de Saint-Sébastien. Loin d'être épaulé par le prêtre, il ressent assez vite l'hostilité d'une partie du village qui s'oppose à la résurrection de cette pièce de collection.",
+              "runtime": 91,
+              "tagline": "",
+              "title": "La Maison aux fenêtres qui rient"
+            },
+            "english_name": "French",
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "In einer ländlichen italienischen Kleinstadt soll der Restaurator Stefano (Lino Capolicchio) ein Kirchengemälde freilegen und restaurieren, das den heiligen St.Sebastian zeigt. Schon als er die Arbeit antritt, ist er fasziniert von der Ausstrahlung des Wandgemäldes, das ein lokaler Künstler gemalt haben soll, denn es ist überaus realistisch in der Qual und Verzweiflung des Dargestellten. Während er es langsam freilegt, kommen jedoch auch bisher unbekannte Teile des Gemäldes ans Tageslicht, u.a. zwei mysteriöse Figuren, die den Heiligen quälen. Stefano versucht im Dorf herauszufinden, was es mit dem Bild auf sich hat, doch die Bewohner sind verschwiegen und seine beste Informationsquelle stirbt unter mysteriösen Umständen. Der Restaurator hat an einem fast verschütteten Geheimnis gerührt und die Folgen sind schrecklich.",
+              "runtime": 106,
+              "tagline": "",
+              "title": "Das Haus der lachenden Fenster"
+            },
+            "english_name": "German",
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Ο Στέφανο, συντηρητής έργων τέχνης, φτάνει σε ένα αγροτικό χωριό της Ιταλίας για να αποκαταστήσει έναν μακάβριο πίνακα του Αγίου Σεβαστιανού σε μια παλιά εκκλησία. Γνωρίζει διάφορους φιλικούς και περίεργους ανθρώπους, ενώ μένει στο σπίτι που κάποτε είχαν οι αδελφές του καλλιτέχνη που ζωγράφισε τον πίνακα. Στη συνέχεια, ανακαλύπτει πως ο καλλιτέχνης και οι αδελφές του ήταν παρανοϊκοί σαδιστές που βασάνιζαν τα θύματα τους μέχρι θανάτου, ως πηγή έμπνευσης.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Το Σπίτι με τα Γελαστά Παράθυρα"
+            },
+            "english_name": "Greek",
+            "iso_3166_1": "GR",
+            "iso_639_1": "el",
+            "name": "ελληνικά"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Stefano, un joven restaurador, es encomendado a restaurar el martirio de San Sebastián, el último trabajo de Legnani. Al parecer, Legnani sufría desórdenes mentales, solía pintar a gente cerca de la muerte o de la agonía. Estos hechos junto con la extraña atmósfera que rodea al pueblo donde ha llegado Stefano, hacen de su realidad una pesadilla.",
+              "runtime": 110,
+              "tagline": "",
+              "title": "La casa de las ventanas que ríen"
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Een kunstenaar wordt ingehuurd om een fresco te restaureren in het kerkje van een klein Italiaans plaatsje. Steeds meer ontdekt hij de bizarre achtergronden van de originele kunstenaar en zijn mysterieuze zusters.",
+              "runtime": 110,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Dutch",
+            "iso_3166_1": "NL",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "A fiatal restaurátor, Stefano megbízást kap a ferrarai síkság egyik kisvárosában, hogy restaurálja a templom Szent Sebestyén mártíriumát ábrázoló freskóját, melynek alkotója, Buono Legnani öngyilkos lett. A festőről különös pletykák keringenek a városban, máig az \"agónia mestereként\" emlegetik, mert modelljeit általában haláluk pillanatában festette le, két rossz hírű nővére segédletével. Stefanót megbabonázza, ugyanakkor félelemmel tölti el a festmény, ám mégis elkezdi a munkát, pedig a titokzatos telefonhívások és halálesetek miatt egyre nyomasztóbbá válik körülötte a légkör. A város lakói hallgatnak, mint a sír, némaságuk falát csak a részeges sofőr, Coppola célozgatásai törik át, akit szintén eltesznek láb alól, mielőtt elmondhatná az igazat. Szerelme, Francesca, a fiatal tanítónő halála után Stefano felfedezi, hogy a festő nővérei ma is a városban élnek. Ez a felfedezés azonban talán az életébe kerül.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "A nevető ablakos ház"
+            },
+            "english_name": "Hungarian",
+            "iso_3166_1": "HU",
+            "iso_639_1": "hu",
+            "name": "Magyar"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Стефано, молодой реставратор, прибывает в одну итальянскую деревню, где он берется за восстановление фрески с изображением страданий Святого Себастьяна. Это произведение стало последней работой сумасшедшего художника, запечатлевавшего людей в предсмертной агонии. Все это оказывает ужасающий эффект на Стефано, чья реальность превращается в настоящий кошмар.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Дом со смеющимися окнами"
+            },
+            "english_name": "Russian",
+            "iso_3166_1": "RU",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "　　斯特凡诺（里诺·卡波里奇诺 Lino Capolicchio 饰）是一位文物修复师，一天，在好友安东尼奥（Giulio Pizzirani 饰）的推荐之下，市长索尔米（Bob Tonelli 饰）找到了斯特凡诺，希望他能够前往他所在的一个小村庄，去那里修复一副油画。该油画的作者名叫布诺（Tonino Corazzari 饰），是一位患有精神疾病的艺术家，在很多年前，布诺就已经被人们认为死亡了，可是直到今天，依然没有人能够找到他的尸体。\r 　　就在斯特凡诺在村子里修复油画的同时，安东尼奥也在调查着布诺的下落，某日，安东尼奥告诉斯特凡诺自己发现了布诺和这个村子有关的秘密，可是，安东尼奥还没来得及将这个秘密告诉斯特凡诺，他就被发现死在了自己家中，死因是自杀。",
+              "runtime": 110,
+              "tagline": "",
+              "title": "笑窗之屋"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Stefano, um pintor, viaja até um vilarejo para restaurar uma pintura de São Sebastião sendo torturado. Depois de um tempo no vilarejo, Stefano descobre que algo não está certo. Ele descobre que o pintor do quadro era um insano que tentava capturar os últimos momentos da morte nas telas.",
+              "runtime": 106,
+              "tagline": "",
+              "title": "A Casa das Janelas Sorridentes"
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "斯特凡諾（裏諾·卡波里奇諾 Lino Capolicchio 飾）是一位文物修復師，一天，在好友安東尼奧（Giulio Pizzirani 飾）的推薦之下，市長索爾米（Bob Tonelli 飾）找到了斯特凡諾，希望他能夠前往他所在的一個小村莊，去那裏修復一副油畫。該油畫的作者名叫布諾（Tonino Corazzari 飾），是一位患有精神疾病的藝術家，在很多年前，布諾就已經被人們認為死亡了，可是直到今天，依然沒有人能夠找到他的屍體。\r 就在斯特凡諾在村子裏修復油畫的同時，安東尼奧也在調查著布諾的下落，某日，安東尼奧告訴斯特凡諾自己發現了布諾和這個村子有關的秘密，可是，安東尼奧還沒來得及將這個秘密告訴斯特凡諾，他就被發現死在了自己家中，死因是自殺。",
+              "runtime": 0,
+              "tagline": "",
+              "title": "笑窗之屋"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "HK",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 7.245,
+      "vote_count": 392
+    },
     "58089": {
       "adult": false,
       "backdrop_path": "/4cq2FbZQqxSqMoec4WMnpxFhs4z.jpg",
@@ -320606,6 +322568,2007 @@
       "video": false,
       "vote_average": 6.9,
       "vote_count": 73
+    },
+    "705996": {
+      "adult": false,
+      "backdrop_path": "/A1bWhTFQKkhF1yhSKWosSyzn2Hp.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 2,
+            "character": "Song Seo-rae",
+            "credit_id": "5ec34ec728723c0020495dcb",
+            "gender": 1,
+            "id": 38280,
+            "known_for_department": "Acting",
+            "name": "湯唯",
+            "order": 0,
+            "original_name": "湯唯",
+            "popularity": 1.6616,
+            "profile_path": "/5HwPMAATexQc8uiPAmW3XKYt9bO.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 1,
+            "character": "Jang Hae-joon",
+            "credit_id": "5ec34ec13d3557001ce52d2e",
+            "gender": 2,
+            "id": 21687,
+            "known_for_department": "Acting",
+            "name": "박해일",
+            "order": 1,
+            "original_name": "박해일",
+            "popularity": 1.0654,
+            "profile_path": "/8ltdBxd40m2iAnsRKV0JMbv7rZT.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 6,
+            "character": "Jeong-ahn",
+            "credit_id": "5f696bb5a6e2d2003b5ae659",
+            "gender": 1,
+            "id": 1244822,
+            "known_for_department": "Acting",
+            "name": "이정현",
+            "order": 2,
+            "original_name": "이정현",
+            "popularity": 1.2666,
+            "profile_path": "/rOm1wgpRGDAyc8YvsWW3A99zmbi.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 7,
+            "character": "Soo-wan",
+            "credit_id": "5f697af9a0b69000393e26e3",
+            "gender": 2,
+            "id": 1257601,
+            "known_for_department": "Acting",
+            "name": "고경표",
+            "order": 3,
+            "original_name": "고경표",
+            "popularity": 1.6007,
+            "profile_path": "/71ey2m4Ono5wHYAl4cUjJvYwrzP.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 14,
+            "character": "Lim Ho-shin",
+            "credit_id": "602271e7149565003e71fe22",
+            "gender": 2,
+            "id": 17124,
+            "known_for_department": "Acting",
+            "name": "박용우",
+            "order": 4,
+            "original_name": "박용우",
+            "popularity": 1.0472,
+            "profile_path": "/kT0n5LGzij0RNaYXBxg8hDpTR9Z.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 27,
+            "character": "Yeon-su",
+            "credit_id": "628c52f912425c005272f67b",
+            "gender": 1,
+            "id": 1376567,
+            "known_for_department": "Acting",
+            "name": "김신영",
+            "order": 5,
+            "original_name": "김신영",
+            "popularity": 0.8572,
+            "profile_path": "/sJ7fQPyL3gQeywZvKzupZM60NmY.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 36,
+            "character": "Ki Do-soo",
+            "credit_id": "62b4411cc2bcc60064d2d357",
+            "gender": 2,
+            "id": 1128004,
+            "known_for_department": "Acting",
+            "name": "유승목",
+            "order": 6,
+            "original_name": "유승목",
+            "popularity": 1.3428,
+            "profile_path": "/jbHLHMMSuWYR27znM8ZSA6m2kJw.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 8,
+            "character": "Mi-ji",
+            "credit_id": "5f6a9518cee2f60035341635",
+            "gender": 1,
+            "id": 2326809,
+            "known_for_department": "Acting",
+            "name": "정이서",
+            "order": 7,
+            "original_name": "정이서",
+            "popularity": 1.7214,
+            "profile_path": "/o6Nfe0BiZs6CCSm8BigPshbu0px.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 13,
+            "character": "Monday Granny",
+            "credit_id": "5fe9a3560e64af003e9fb761",
+            "gender": 1,
+            "id": 2128181,
+            "known_for_department": "Acting",
+            "name": "정영숙",
+            "order": 8,
+            "original_name": "정영숙",
+            "popularity": 0.7439,
+            "profile_path": "/z2mZFjNXrT1ZnYM39e4pW1f1l9X.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 32,
+            "character": "Lee Ji-goo",
+            "credit_id": "628c533e0b73160050c765df",
+            "gender": 2,
+            "id": 1615316,
+            "known_for_department": "Acting",
+            "name": "이학주",
+            "order": 9,
+            "original_name": "이학주",
+            "popularity": 1.6181,
+            "profile_path": "/9PuGmzY1nm8uYYiOanEKJHEcdbZ.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 28,
+            "character": "Hong San-oh",
+            "credit_id": "628c5300df86a800a6fe25fb",
+            "gender": 2,
+            "id": 571172,
+            "known_for_department": "Acting",
+            "name": "박정민",
+            "order": 10,
+            "original_name": "박정민",
+            "popularity": 1.6182,
+            "profile_path": "/o0IKTRpUgNILXzWtskyMJM1NG4j.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 33,
+            "character": "Oh Ga-in",
+            "credit_id": "628c5342d48cee0051e7d4ad",
+            "gender": 1,
+            "id": 1576059,
+            "known_for_department": "Acting",
+            "name": "Jeong Ha-dam",
+            "order": 11,
+            "original_name": "Jeong Ha-dam",
+            "popularity": 0.9207,
+            "profile_path": "/xLYqt1GQqA0UzRmNH6Xo7EIz7mH.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 31,
+            "character": "Cheol-seong",
+            "credit_id": "628c531e1a324817973ae7d7",
+            "gender": 2,
+            "id": 1591370,
+            "known_for_department": "Acting",
+            "name": "Seo Hyun-woo",
+            "order": 12,
+            "original_name": "서현우",
+            "popularity": 1.6275,
+            "profile_path": "/i5HP0n06Y5GIZfpsbibFQWAcUjV.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 29,
+            "character": "Assistant Manager Lee",
+            "credit_id": "628c5309d3d3870068647a01",
+            "gender": 2,
+            "id": 1387126,
+            "known_for_department": "Acting",
+            "name": "유태오",
+            "order": 13,
+            "original_name": "유태오",
+            "popularity": 1.0738,
+            "profile_path": "/vuzKCKo2kIskjbDEcl2EMLv6uhO.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 60,
+            "character": "Mountain Lifeguard",
+            "credit_id": "62c0e99a957e6d004cbe33de",
+            "gender": 2,
+            "id": 3609605,
+            "known_for_department": "Acting",
+            "name": "신안진",
+            "order": 14,
+            "original_name": "신안진",
+            "popularity": 0.3043,
+            "profile_path": "/2FJGicL29jHhmlYSFQRnWKHtp7X.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 37,
+            "character": "ER Doctor",
+            "credit_id": "62b4413291f0ea0608b8e026",
+            "gender": 1,
+            "id": 1488079,
+            "known_for_department": "Acting",
+            "name": "김도연",
+            "order": 15,
+            "original_name": "김도연",
+            "popularity": 0.6825,
+            "profile_path": "/3OKLEqZo4I9gJjvtp1JcrXmxcEc.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 30,
+            "character": "Shaman",
+            "credit_id": "628c531a2495ab74d97d0902",
+            "gender": 1,
+            "id": 1787992,
+            "known_for_department": "Acting",
+            "name": "고민시",
+            "order": 16,
+            "original_name": "고민시",
+            "popularity": 1.3518,
+            "profile_path": "/tgBb9dDyewLlautcmJH9KSXZz1O.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 38,
+            "character": "Mr. Ryu",
+            "credit_id": "62bf1c92924ce6007c9cb20b",
+            "gender": 2,
+            "id": 2207537,
+            "known_for_department": "Acting",
+            "name": "Cha Seo-won",
+            "order": 17,
+            "original_name": "Cha Seo-won",
+            "popularity": 1.028,
+            "profile_path": "/tyezR9xwN8QF6lOSURL34cRMMzB.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 51,
+            "character": "Caregiver Manager",
+            "credit_id": "62bfadfe22e480049617a91d",
+            "gender": 1,
+            "id": 3608517,
+            "known_for_department": "Acting",
+            "name": "주인영",
+            "order": 18,
+            "original_name": "주인영",
+            "popularity": 0.5355,
+            "profile_path": "/p3H4MdWh49zcqFd2Skvtme9O7c.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 52,
+            "character": "Seo-rae's Mother",
+            "credit_id": "62bfae5e1e64890081cc24e6",
+            "gender": 1,
+            "id": 3410741,
+            "known_for_department": "Acting",
+            "name": "최선자",
+            "order": 19,
+            "original_name": "최선자",
+            "popularity": 0.4043,
+            "profile_path": "/5sgufLHTDuoAFNAqydWj5e4K4oq.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 93,
+            "character": "Homicide Detective",
+            "credit_id": "64c64eb563aad2020d098d0a",
+            "gender": 2,
+            "id": 4187905,
+            "known_for_department": "Acting",
+            "name": "안진상",
+            "order": 20,
+            "original_name": "안진상",
+            "popularity": 0.0892,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 54,
+            "character": "Director of Judging",
+            "credit_id": "62bfae93e640d6007e912582",
+            "gender": 2,
+            "id": 1162596,
+            "known_for_department": "Acting",
+            "name": "진용욱",
+            "order": 21,
+            "original_name": "진용욱",
+            "popularity": 0.6383,
+            "profile_path": "/23hUazk6qPiIXwjXm8CUYj9J7Mb.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 53,
+            "character": "Sleep Doctor",
+            "credit_id": "62bfae88202e11007c347a9a",
+            "gender": 2,
+            "id": 1500616,
+            "known_for_department": "Acting",
+            "name": "최대훈",
+            "order": 22,
+            "original_name": "최대훈",
+            "popularity": 1.9586,
+            "profile_path": "/lxNU9yOR8C9ovqilVMQrXStoc96.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 55,
+            "character": "Madam Soft-shelled Turtle",
+            "credit_id": "62bfaeac6a300b005afd7e62",
+            "gender": 1,
+            "id": 2240617,
+            "known_for_department": "Acting",
+            "name": "김미화",
+            "order": 23,
+            "original_name": "김미화",
+            "popularity": 0.4909,
+            "profile_path": "/sIPiMfwY2WgOX4fE5wSQgknCyRl.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 57,
+            "character": "Ji-min",
+            "credit_id": "62c045371056110ed018bbad",
+            "gender": 1,
+            "id": 3553480,
+            "known_for_department": "Acting",
+            "name": "Kwak Eun-jin",
+            "order": 24,
+            "original_name": "곽은진",
+            "popularity": 0.4658,
+            "profile_path": "/tYbmsI4Wzt2fv5PWSZJg1SjkC2t.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 49,
+            "character": "Go-bin",
+            "credit_id": "62bfadb8cf4a64005888f31d",
+            "gender": 2,
+            "id": 2379047,
+            "known_for_department": "Acting",
+            "name": "안성봉",
+            "order": 25,
+            "original_name": "안성봉",
+            "popularity": 0.817,
+            "profile_path": "/auBLxp6DtvOsY9OoQZXi45613cS.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 12,
+            "character": "Friday Granny",
+            "credit_id": "5fbf586635c30a0040574cfc",
+            "gender": 1,
+            "id": 557743,
+            "known_for_department": "Acting",
+            "name": "Lee Yong-nyeo",
+            "order": 26,
+            "original_name": "이용녀",
+            "popularity": 0.8461,
+            "profile_path": "/jS6PtHgyd6GNepvboyLrtnR8qZp.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 81,
+            "character": "Jang Ha-ju",
+            "credit_id": "64c6359763e6fb0138d9eeb9",
+            "gender": 2,
+            "id": 2831504,
+            "known_for_department": "Acting",
+            "name": "황재원",
+            "order": 27,
+            "original_name": "황재원",
+            "popularity": 0.0656,
+            "profile_path": "/xuQ6YdyQ5Xyk4MIljSNdgIS0Ffz.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 82,
+            "character": "Gye Bong-seok",
+            "credit_id": "64c635de63aad2020d09807d",
+            "gender": 0,
+            "id": 4187802,
+            "known_for_department": "Acting",
+            "name": "손관호",
+            "order": 28,
+            "original_name": "손관호",
+            "popularity": 0.0866,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 83,
+            "character": "Police Officer",
+            "credit_id": "64c6363c95ce24013b9baf28",
+            "gender": 2,
+            "id": 2391362,
+            "known_for_department": "Acting",
+            "name": "정혁",
+            "order": 29,
+            "original_name": "정혁",
+            "popularity": 0.0477,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 84,
+            "character": "Chief of Police",
+            "credit_id": "64c636aaeec5b500c5f1e858",
+            "gender": 2,
+            "id": 2620489,
+            "known_for_department": "Acting",
+            "name": "윤성원",
+            "order": 30,
+            "original_name": "윤성원",
+            "popularity": 0.1542,
+            "profile_path": "/euApcuhvSbzCeR8KRrO0ZLCHqGR.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 85,
+            "character": "Yi-po Detective 1",
+            "credit_id": "64c63723eec5b50139fff0e2",
+            "gender": 2,
+            "id": 2144719,
+            "known_for_department": "Acting",
+            "name": "김성곤",
+            "order": 31,
+            "original_name": "김성곤",
+            "popularity": 0.3499,
+            "profile_path": "/elqMRl3dMKMrIKMJW16qCn3Ah4Q.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 86,
+            "character": "Yi-po Detective 2",
+            "credit_id": "64c6373d41aac40fb4364327",
+            "gender": 2,
+            "id": 2561872,
+            "known_for_department": "Acting",
+            "name": "문순주",
+            "order": 32,
+            "original_name": "문순주",
+            "popularity": 0.0629,
+            "profile_path": "/e8J6voHsb9luwpzJ2BBBCtFujlk.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 87,
+            "character": "Cheol-seong's Mother",
+            "credit_id": "64c637ef95ce24013b9bb026",
+            "gender": 0,
+            "id": 4187803,
+            "known_for_department": "Acting",
+            "name": "김귀례",
+            "order": 33,
+            "original_name": "김귀례",
+            "popularity": 0.0906,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 88,
+            "character": "Ji-hyeok",
+            "credit_id": "64c63851cadb6b012570036a",
+            "gender": 0,
+            "id": 4187805,
+            "known_for_department": "Acting",
+            "name": "한현직",
+            "order": 34,
+            "original_name": "한현직",
+            "popularity": 0.1455,
+            "profile_path": "/lnZD31heiuhTJr2y2OGHgSrFEsb.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 90,
+            "character": "Witness Couple",
+            "credit_id": "64c638f863aad2020ec3adb4",
+            "gender": 0,
+            "id": 4187812,
+            "known_for_department": "Acting",
+            "name": "김도담",
+            "order": 35,
+            "original_name": "김도담",
+            "popularity": 0.1074,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 91,
+            "character": "Witness Couple",
+            "credit_id": "64c639d541aac40fb4364455",
+            "gender": 1,
+            "id": 3713112,
+            "known_for_department": "Acting",
+            "name": "한서울",
+            "order": 36,
+            "original_name": "한서울",
+            "popularity": 0.3039,
+            "profile_path": "/YKjZHjACGrjY3RYp3zRUAw6Csx.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 92,
+            "character": "Power Plant Worker 1",
+            "credit_id": "64c64d7dcadb6b00e75d53d0",
+            "gender": 2,
+            "id": 3008527,
+            "known_for_department": "Acting",
+            "name": "문정대",
+            "order": 37,
+            "original_name": "문정대",
+            "popularity": 0.3251,
+            "profile_path": "/8G1amZNg5QcqeBPX0RQmqPMB1Yj.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 78,
+            "character": "Power Plant Worker 2",
+            "credit_id": "6444e580651fcf06179ba8fc",
+            "gender": 1,
+            "id": 4024359,
+            "known_for_department": "Acting",
+            "name": "유인혜",
+            "order": 38,
+            "original_name": "유인혜",
+            "popularity": 0.2499,
+            "profile_path": "/yYJzQVU1QQGT7wrtYPk87IMcXn1.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 96,
+            "character": "Police Inspector",
+            "credit_id": "64c6501a95ce2400af1bad1e",
+            "gender": 2,
+            "id": 3688193,
+            "known_for_department": "Acting",
+            "name": "권혁",
+            "order": 39,
+            "original_name": "권혁",
+            "popularity": 0.3827,
+            "profile_path": "/egQfvudbnQGWGwcsYoLV45d5bIl.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 94,
+            "character": "APT Woman 1",
+            "credit_id": "64c64f4bcadb6b00ac661103",
+            "gender": 1,
+            "id": 1169315,
+            "known_for_department": "Acting",
+            "name": "이지하",
+            "order": 40,
+            "original_name": "이지하",
+            "popularity": 1.1032,
+            "profile_path": "/5y307AdDZtZNeyshQEgvGieRmpy.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 95,
+            "character": "APT Woman 2",
+            "credit_id": "64c64f6563aad20209a55642",
+            "gender": 1,
+            "id": 1623680,
+            "known_for_department": "Acting",
+            "name": "전성애",
+            "order": 41,
+            "original_name": "전성애",
+            "popularity": 0.3387,
+            "profile_path": "/7Xpd3DRwI5qV4lSqv7gvjyo1gzj.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 59,
+            "character": "Translation App (voice)",
+            "credit_id": "62c0e80ae16e5a007ef82f3b",
+            "gender": 2,
+            "id": 3609602,
+            "known_for_department": "Acting",
+            "name": "김국진",
+            "order": 42,
+            "original_name": "김국진",
+            "popularity": 0.0934,
+            "profile_path": "/iYi5zVBedETXVQxRqruSqYdxT0J.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 58,
+            "character": "Translation App (voice)",
+            "credit_id": "62c0e62d63d713026c2f2903",
+            "gender": 1,
+            "id": 3609598,
+            "known_for_department": "Acting",
+            "name": "김상현",
+            "order": 43,
+            "original_name": "김상현",
+            "popularity": 0.3181,
+            "profile_path": "/kATqWttboXBqWtfwxM284aGfxl7.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 97,
+            "character": "Soft-shelled Turtle Thief 1",
+            "credit_id": "64c65060eec5b500ad027887",
+            "gender": 2,
+            "id": 4187926,
+            "known_for_department": "Crew",
+            "name": "차상도",
+            "order": 44,
+            "original_name": "차상도",
+            "popularity": 0.1701,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 99,
+            "character": "Soft-shelled Turtle Thief 2",
+            "credit_id": "64c6517663e6fb0138d9fc38",
+            "gender": 0,
+            "id": 4187941,
+            "known_for_department": "Crew",
+            "name": "강경수",
+            "order": 45,
+            "original_name": "강경수",
+            "popularity": 0.3145,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 101,
+            "character": "",
+            "credit_id": "663646ac6611b4012d67cf7b",
+            "gender": 1,
+            "id": 2386668,
+            "known_for_department": "Acting",
+            "name": "정소리",
+            "order": 46,
+            "original_name": "정소리",
+            "popularity": 1.0143,
+            "profile_path": "/lrp9i6fc52FWLOlLe5AD73ZSI8u.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 113,
+            "character": "Cheol-seong's Friend 2",
+            "credit_id": "6a16e4c33972cc050d634b25",
+            "gender": 2,
+            "id": 5807768,
+            "known_for_department": "Acting",
+            "name": "권혁성",
+            "order": 47,
+            "original_name": "권혁성",
+            "popularity": 0.1024,
+            "profile_path": "/qJlOeafkqQzGcOGBfYv2dMnwjCy.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "627a66d6d400f310bcd642db",
+            "department": "Sound",
+            "gender": 2,
+            "id": 43565,
+            "job": "Sound Supervisor",
+            "known_for_department": "Sound",
+            "name": "김석원",
+            "original_name": "김석원",
+            "popularity": 0.5528,
+            "profile_path": "/z3NVHBTmrqSZLUkEdIPsV34b4fD.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "627a670307291c0050ee8278",
+            "department": "Production",
+            "gender": 1,
+            "id": 41288,
+            "job": "Executive Producer",
+            "known_for_department": "Production",
+            "name": "이미경",
+            "original_name": "이미경",
+            "popularity": 0.7069,
+            "profile_path": "/1KaAIoRs6KuW7rdHzbA5RLE1jto.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "627a67280231f2005143ccaa",
+            "department": "Production",
+            "gender": 0,
+            "id": 3543940,
+            "job": "Co-Executive Producer",
+            "known_for_department": "Production",
+            "name": "Kang Ho-sung",
+            "original_name": "Kang Ho-sung",
+            "popularity": 0.049,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "627a6769abdec0006770f4db",
+            "department": "Costume & Make-Up",
+            "gender": 1,
+            "id": 1294536,
+            "job": "Costume Design",
+            "known_for_department": "Costume & Make-Up",
+            "name": "곽정애",
+            "original_name": "곽정애",
+            "popularity": 0.4161,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "627a6776211ce50c2b72be1a",
+            "department": "Costume & Make-Up",
+            "gender": 1,
+            "id": 2078588,
+            "job": "Makeup & Hair",
+            "known_for_department": "Costume & Make-Up",
+            "name": "송종희",
+            "original_name": "송종희",
+            "popularity": 0.3876,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "627a6783a7e3630e229ba37b",
+            "department": "Lighting",
+            "gender": 0,
+            "id": 1294064,
+            "job": "Gaffer",
+            "known_for_department": "Lighting",
+            "name": "신상열",
+            "original_name": "신상열",
+            "popularity": 0.1845,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "627a684507291c0050ee8718",
+            "department": "Sound",
+            "gender": 0,
+            "id": 2161246,
+            "job": "Production Sound Mixer",
+            "known_for_department": "Sound",
+            "name": "정군",
+            "original_name": "정군",
+            "popularity": 0.2124,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "62a37e1905b5492f9dd81e69",
+            "department": "Production",
+            "gender": 2,
+            "id": 10099,
+            "job": "Producer",
+            "known_for_department": "Directing",
+            "name": "Park Chan-wook",
+            "original_name": "박찬욱",
+            "popularity": 3.2454,
+            "profile_path": "/jsSFCVB7MhuVbSLwTgESiXEiNjt.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "62bfa63c924ce60059ccdd11",
+            "department": "Art",
+            "gender": 0,
+            "id": 2395052,
+            "job": "Props",
+            "known_for_department": "Art",
+            "name": "You Cheong",
+            "original_name": "You Cheong",
+            "popularity": 0.3668,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "62bfa6461e6489005efc9e79",
+            "department": "Art",
+            "gender": 2,
+            "id": 2871557,
+            "job": "Props",
+            "known_for_department": "Art",
+            "name": "박준용",
+            "original_name": "박준용",
+            "popularity": 0.8419,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "62bfa655af6e94046b3e96dd",
+            "department": "Crew",
+            "gender": 2,
+            "id": 2078536,
+            "job": "Martial Arts Choreographer",
+            "known_for_department": "Crew",
+            "name": "노남석",
+            "original_name": "노남석",
+            "popularity": 0.4995,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "62bfa7fa22e48004971992d8",
+            "department": "Visual Effects",
+            "gender": 0,
+            "id": 2965655,
+            "job": "Special Effects Supervisor",
+            "known_for_department": "Visual Effects",
+            "name": "박대훈",
+            "original_name": "박대훈",
+            "popularity": 0.1713,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "62bfac97e640d6007e912459",
+            "department": "Directing",
+            "gender": 2,
+            "id": 2392774,
+            "job": "Assistant Director",
+            "known_for_department": "Directing",
+            "name": "김성식",
+            "original_name": "김성식",
+            "popularity": 1.807,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "62bfacc6681888007c8c82a1",
+            "department": "Art",
+            "gender": 1,
+            "id": 3557847,
+            "job": "Art Direction",
+            "known_for_department": "Art",
+            "name": "Lee Eun-jin",
+            "original_name": "Lee Eun-jin",
+            "popularity": 0.0214,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "62bface09672ed004e7f22ee",
+            "department": "Art",
+            "gender": 0,
+            "id": 3596876,
+            "job": "Set Decoration",
+            "known_for_department": "Art",
+            "name": "이기석",
+            "original_name": "이기석",
+            "popularity": 0.2133,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "62bfad0922e480049719962c",
+            "department": "Visual Effects",
+            "gender": 2,
+            "id": 552068,
+            "job": "VFX Supervisor",
+            "known_for_department": "Visual Effects",
+            "name": "이전형",
+            "original_name": "이전형",
+            "popularity": 0.1769,
+            "profile_path": "/kzOkohw8eoNfYRUVYjKl2waWaaY.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "62bfad23681888007c8c82f0",
+            "department": "Editing",
+            "gender": 1,
+            "id": 2968076,
+            "job": "Digital Intermediate",
+            "known_for_department": "Editing",
+            "name": "박진영",
+            "original_name": "박진영",
+            "popularity": 0.5016,
+            "profile_path": "/2h4BSO87FdI1h9dPla114x0ToTP.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "62bfd785325a5100c3a44dbe",
+            "department": "Writing",
+            "gender": 2,
+            "id": 10099,
+            "job": "Writer",
+            "known_for_department": "Directing",
+            "name": "Park Chan-wook",
+            "original_name": "박찬욱",
+            "popularity": 3.2454,
+            "profile_path": "/jsSFCVB7MhuVbSLwTgESiXEiNjt.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "62c0eb9c924ce60059cda2e6",
+            "department": "Visual Effects",
+            "gender": 2,
+            "id": 3609608,
+            "job": "VFX Supervisor",
+            "known_for_department": "Visual Effects",
+            "name": "Shon Byeong-su",
+            "original_name": "Shon Byeong-su",
+            "popularity": 0.1822,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "62c0ed1dc2bcc60059f828cc",
+            "department": "Costume & Make-Up",
+            "gender": 2,
+            "id": 2159407,
+            "job": "Special Effects Makeup Artist",
+            "known_for_department": "Costume & Make-Up",
+            "name": "황효균",
+            "original_name": "황효균",
+            "popularity": 0.6343,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "62c0ed2528723c00593b0bee",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 2100270,
+            "job": "Special Effects Makeup Artist",
+            "known_for_department": "Costume & Make-Up",
+            "name": "곽태용",
+            "original_name": "곽태용",
+            "popularity": 0.4757,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "62c0ed5b71f095004c4537d6",
+            "department": "Art",
+            "gender": 1,
+            "id": 3084795,
+            "job": "Set Designer",
+            "known_for_department": "Art",
+            "name": "최슬기",
+            "original_name": "최슬기",
+            "popularity": 0.0791,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "62c0eda0f1b571004cf6ccc6",
+            "department": "Production",
+            "gender": 0,
+            "id": 3609609,
+            "job": "Line Producer",
+            "known_for_department": "Production",
+            "name": "Hwang Jin-ha",
+            "original_name": "Hwang Jin-ha",
+            "popularity": 0.1002,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "62c0edf0532acb0328d28c43",
+            "department": "Production",
+            "gender": 1,
+            "id": 3609611,
+            "job": "Line Producer",
+            "known_for_department": "Production",
+            "name": "Park Eun-ji",
+            "original_name": "Park Eun-ji",
+            "popularity": 0.0239,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "614ad8ced2c0c100453bc407",
+            "department": "Editing",
+            "gender": 2,
+            "id": 10108,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "김상범",
+            "original_name": "김상범",
+            "popularity": 0.6698,
+            "profile_path": "/nojYhmyW89hLohQsRw1uIbeCBSa.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "62e144f6021cee00500b4ed8",
+            "department": "Art",
+            "gender": 1,
+            "id": 3639314,
+            "job": "Set Designer",
+            "known_for_department": "Art",
+            "name": "Choi Ji-hye",
+            "original_name": "Choi Ji-hye",
+            "popularity": 0.0809,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6301fa4996e30b007a81b3b2",
+            "department": "Art",
+            "gender": 1,
+            "id": 3671628,
+            "job": "Art Designer",
+            "known_for_department": "Art",
+            "name": "Jang Hee-sun",
+            "original_name": "Jang Hee-sun",
+            "popularity": 0.1554,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6301feee33a376007f87656e",
+            "department": "Production",
+            "gender": 1,
+            "id": 1882970,
+            "job": "Co-Producer",
+            "known_for_department": "Production",
+            "name": "백지선",
+            "original_name": "백지선",
+            "popularity": 0.3059,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6301ffc9839d93007e4c6d16",
+            "department": "Writing",
+            "gender": 2,
+            "id": 3671646,
+            "job": "Storyboard",
+            "known_for_department": "Writing",
+            "name": "Lee Yoon-ho",
+            "original_name": "Lee Yoon-ho",
+            "popularity": 0.2589,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b4585a1d019100420e7a78",
+            "department": "Sound",
+            "gender": 2,
+            "id": 37930,
+            "job": "Original Music Composer",
+            "known_for_department": "Sound",
+            "name": "조영욱",
+            "original_name": "조영욱",
+            "popularity": 0.5209,
+            "profile_path": "/jSBt4j7LXz5PjDchUAyFOpD88wY.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "634a46825aadc40082bc7951",
+            "department": "Editing",
+            "gender": 0,
+            "id": 2662515,
+            "job": "Digital Intermediate Producer",
+            "known_for_department": "Editing",
+            "name": "류연",
+            "original_name": "류연",
+            "popularity": 0.6239,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "634be5a8389da1007c67d84e",
+            "department": "Crew",
+            "gender": 2,
+            "id": 2499786,
+            "job": "Stunts",
+            "known_for_department": "Crew",
+            "name": "송민석",
+            "original_name": "송민석",
+            "popularity": 0.313,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "63b6cc53229ae2009144a801",
+            "department": "Production",
+            "gender": 2,
+            "id": 2202729,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Ko Dae-seok",
+            "original_name": "Ko Dae-seok",
+            "popularity": 0.1605,
+            "profile_path": "/zYX86QN9t94u8Qp7xxRLiJOlVB3.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "63b6ccd43344c6007d835f98",
+            "department": "Sound",
+            "gender": 1,
+            "id": 3304236,
+            "job": "Theme Song Performance",
+            "known_for_department": "Acting",
+            "name": "정훈희",
+            "original_name": "정훈희",
+            "popularity": 0.122,
+            "profile_path": "/s0jeM50IX53Ny6k9PJj38AJVLCb.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "63b6cce1b9a0bd02ab197199",
+            "department": "Sound",
+            "gender": 2,
+            "id": 3859208,
+            "job": "Theme Song Performance",
+            "known_for_department": "Sound",
+            "name": "송창식",
+            "original_name": "송창식",
+            "popularity": 0.1201,
+            "profile_path": "/vVDYBQGDcBYZHVR2Mw6msmqHrXl.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "63e73a746c849200851a3a2b",
+            "department": "Camera",
+            "gender": 0,
+            "id": 3915375,
+            "job": "Key Grip",
+            "known_for_department": "Camera",
+            "name": "조기훈",
+            "original_name": "조기훈",
+            "popularity": 0.2673,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "640182f6c7176d008517d8db",
+            "department": "Sound",
+            "gender": 0,
+            "id": 3946804,
+            "job": "Conductor",
+            "known_for_department": "Sound",
+            "name": "Kevin Houben",
+            "original_name": "Kevin Houben",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "665056797d97c9231a9b3f25",
+            "department": "Sound",
+            "gender": 2,
+            "id": 2411492,
+            "job": "Main Title Theme Composer",
+            "known_for_department": "Sound",
+            "name": "이봉조",
+            "original_name": "이봉조",
+            "popularity": 0.0972,
+            "profile_path": "/bNxir92bLpPplTrh1NiNIoh9tpv.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "66505683b26f59fd7d18f064",
+            "department": "Writing",
+            "gender": 2,
+            "id": 1544555,
+            "job": "Lyricist",
+            "known_for_department": "Writing",
+            "name": "김승옥",
+            "original_name": "김승옥",
+            "popularity": 0.236,
+            "profile_path": "/keauvMzcoGte1Kj8UPgoxwWinVo.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "644f4d2e2fccee0302cdc812",
+            "department": "Sound",
+            "gender": 0,
+            "id": 4037943,
+            "job": "Boom Operator",
+            "known_for_department": "Sound",
+            "name": "Lee Si-hun",
+            "original_name": "Lee Si-hun",
+            "popularity": 0.1234,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6659eaf6730856fd3ba3f0de",
+            "department": "Directing",
+            "gender": 1,
+            "id": 2161242,
+            "job": "Script Supervisor",
+            "known_for_department": "Directing",
+            "name": "이자혜",
+            "original_name": "이자혜",
+            "popularity": 0.3803,
+            "profile_path": "/tEVMQ1DRzx29CODJf3EAq13o02j.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "667edd802ccc7d36ca77cfee",
+            "department": "Crew",
+            "gender": 2,
+            "id": 4799427,
+            "job": "Stunts",
+            "known_for_department": "Crew",
+            "name": "박갑진",
+            "original_name": "박갑진",
+            "popularity": 1.209,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "64c629b363aad20209a54276",
+            "department": "Camera",
+            "gender": 0,
+            "id": 4187748,
+            "job": "Still Photographer",
+            "known_for_department": "Camera",
+            "name": "Jeon Young-wook",
+            "original_name": "Jeon Young-wook",
+            "popularity": 0.1724,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "64c6508695ce2401012f71ce",
+            "department": "Crew",
+            "gender": 2,
+            "id": 4187926,
+            "job": "Stunts",
+            "known_for_department": "Crew",
+            "name": "차상도",
+            "original_name": "차상도",
+            "popularity": 0.1701,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "64c6518aeec5b5011cb0ce08",
+            "department": "Crew",
+            "gender": 0,
+            "id": 4187941,
+            "job": "Stunts",
+            "known_for_department": "Crew",
+            "name": "강경수",
+            "original_name": "강경수",
+            "popularity": 0.3145,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5ec34edc18b7510020ca1390",
+            "department": "Directing",
+            "gender": 2,
+            "id": 10099,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Park Chan-wook",
+            "original_name": "박찬욱",
+            "popularity": 3.2454,
+            "profile_path": "/jsSFCVB7MhuVbSLwTgESiXEiNjt.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5f84fd1acb5c8e003aca05ff",
+            "department": "Writing",
+            "gender": 1,
+            "id": 37928,
+            "job": "Writer",
+            "known_for_department": "Writing",
+            "name": "Chung Seo-kyung",
+            "original_name": "정서경",
+            "popularity": 0.9277,
+            "profile_path": "/puBGFSws4gSME2OhBUgzbcooOjQ.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5f8ef7e8d133240037294c9f",
+            "department": "Camera",
+            "gender": 2,
+            "id": 69087,
+            "job": "Director of Photography",
+            "known_for_department": "Camera",
+            "name": "김지용",
+            "original_name": "김지용",
+            "popularity": 1.0815,
+            "profile_path": "/4lWw0gtgUE5D2Kzx94Sj7VgStt9.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5f8efe7df8aee80035c03d63",
+            "department": "Art",
+            "gender": 1,
+            "id": 10109,
+            "job": "Production Design",
+            "known_for_department": "Art",
+            "name": "류성희",
+            "original_name": "류성희",
+            "popularity": 0.3707,
+            "profile_path": "/u7HVjLQiCuia9TwsGefkH2QyJRS.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "66fb606302e2e3fa4aa659f1",
+            "department": "Visual Effects",
+            "gender": 0,
+            "id": 4973377,
+            "job": "Visual Effects",
+            "known_for_department": "Visual Effects",
+            "name": "정재욱",
+            "original_name": "정재욱",
+            "popularity": 0.0739,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6725d8ab1f61a4a8e8258870",
+            "department": "Visual Effects",
+            "gender": 2,
+            "id": 5036373,
+            "job": "VFX Supervisor",
+            "known_for_department": "Visual Effects",
+            "name": "이승제",
+            "original_name": "이승제",
+            "popularity": 0.123,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "67e13d5b968ee208674d8995",
+            "department": "Crew",
+            "gender": 0,
+            "id": 2378986,
+            "job": "Stunts",
+            "known_for_department": "Crew",
+            "name": "홍주만",
+            "original_name": "홍주만",
+            "popularity": 0.1166,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "688df3d36326113642de6515",
+            "department": "Camera",
+            "gender": 0,
+            "id": 3012476,
+            "job": "\"B\" Camera Operator",
+            "known_for_department": "Camera",
+            "name": "전혜진",
+            "original_name": "전혜진",
+            "popularity": 0.0858,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "68aaf861a04f6b3c84781a86",
+            "department": "Crew",
+            "gender": 2,
+            "id": 5645711,
+            "job": "Stunts",
+            "known_for_department": "Crew",
+            "name": "심철민",
+            "original_name": "심철민",
+            "popularity": 0.0314,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "68cab2ce4793cf2b63c7f58a",
+            "department": "Sound",
+            "gender": 0,
+            "id": 5591357,
+            "job": "Foley Mixer",
+            "known_for_department": "Sound",
+            "name": "김은정",
+            "original_name": "김은정",
+            "popularity": 0.0995,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6935221b0aca4554c1c1f6a1",
+            "department": "Camera",
+            "gender": 0,
+            "id": 5862165,
+            "job": "Grip",
+            "known_for_department": "Camera",
+            "name": "조선호",
+            "original_name": "조선호",
+            "popularity": 0.0648,
+            "profile_path": null
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 9648,
+          "name": "Mistero"
+        },
+        {
+          "id": 10749,
+          "name": "Romance"
+        }
+      ],
+      "homepage": "",
+      "id": 705996,
+      "imdb_id": "tt12477480",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_title": "헤어질 결심",
+      "overview": "Un austero detective deve indagare su un possibile caso di omicidio in una zona rurale limitrofa. Non ci vorrà molto, però, prima che i suoi sospetti ricadano sulla moglie della vittima, per la quale il detective comincia anche a provare qualcosa.",
+      "popularity": 6.7645,
+      "poster_path": "/980Zfix859QLVEBN4QRt8m5tZEC.jpg",
+      "production_companies": [
+        {
+          "id": 34725,
+          "logo_path": "/cRqXC6Dy6AvTGS2wiMt26yGJgZA.png",
+          "name": "Moho Film",
+          "origin_country": "KR"
+        },
+        {
+          "id": 128404,
+          "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+          "name": "CJ ENM",
+          "origin_country": "KR"
+        },
+        {
+          "id": 7036,
+          "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+          "name": "CJ Entertainment",
+          "origin_country": "KR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "KR",
+          "name": "South Korea"
+        }
+      ],
+      "release_date": "2022-06-29",
+      "revenue": 16914773,
+      "runtime": 138,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Più osservi da vicino, più rischi di perderti",
+      "title": "Decision to Leave",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "산 정상에서 추락한 한 남자의 변사 사건. 담당 형사 해준은 사망자의 아내 서래와 마주하게 된다. 남편의 죽음 앞에서 특별한 동요를 보이지 않는 서래. 경찰은 보통의 유가족과는 다른 서래를 용의선상에 올린다. 해준은 사건 당일의 알리바이 탐문과 신문, 잠복수사를 통해 서래를 알아가면서 그녀에 대한 관심이 점점 커져가는 것을 느낀다. 한편 좀처럼 속을 짐작하기 어려운 서래는 상대가 자신을 의심한다는 것을 알면서도 조금의 망설임도 없이 해준을 대하는데...",
+              "runtime": 138,
+              "tagline": "짙어지는 의심, 깊어지는 관심",
+              "title": ""
+            },
+            "english_name": "Korean",
+            "iso_3166_1": "KR",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "From a mountain peak in South Korea, a man plummets to his death. Did he jump, or was he pushed? When detective Hae-joon arrives on the scene, he begins to suspect the dead man’s wife Seo-rae. But as he digs deeper into the investigation, he finds himself trapped in a web of deception and desire.",
+              "runtime": 139,
+              "tagline": "The closer you look, the harder you fall.",
+              "title": "Decision to Leave"
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "韩国某处山顶，一名男子坠亡。是自杀，还是他杀？当刑警海俊来到现场，他开始怀疑死者的妻子徐来。但随着调查深入，他发现自己陷入一场由谎言与欲望交织的迷局。",
+              "runtime": 138,
+              "tagline": "疑心越重，越是挂心",
+              "title": "分手的决心"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "http://www.avalon.me/distribucion/estrenos/decision-to-leave",
+              "overview": "Hae-Joon, un veterano detective, investiga la sospechosa muerte de un hombre en la cima de una montaña. Pronto, comenzará a sospechar de Sore, la mujer del difunto, mientras la atracción que siente por ella le desestabilizará.",
+              "runtime": 138,
+              "tagline": "Cuanto más cerca miras, más fuerte caes.",
+              "title": "Decision to Leave"
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Un austero detective deve indagare su un possibile caso di omicidio in una zona rurale limitrofa. Non ci vorrà molto, però, prima che i suoi sospetti ricadano sulla moglie della vittima, per la quale il detective comincia anche a provare qualcosa.",
+              "runtime": 138,
+              "tagline": "Più osservi da vicino, più rischi di perderti",
+              "title": "Decision to Leave"
+            },
+            "english_name": "Italian",
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "En Corée du Sud, un mystérieux crime met en émoi la police qui couvre une zone montagneuse isolée. L'enquête est confiée à Hae-joon, un inspecteur réputé. Très vite, ce dernier commence les interrogatoires et, dès sa rencontre avec l'épouse du défunt, il doit faire face à des éléments perturbants…",
+              "runtime": 139,
+              "tagline": "Une enquête impossible. Un amour impossible.",
+              "title": "Decision to Leave"
+            },
+            "english_name": "French",
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Ein Bergsteiger wird in der Nähe von Seoul tot aufgefunden. War es ein Unfall, Selbstmord oder gar Mord? Inspektor Hae-joon wird mit dem Fall beauftragt. Sein Verdacht fällt auf die schöne Witwe des Verstorbenen, die allerdings ein Alibi hat. Dennoch beobachtet Hae-joon sie in seinen schlaflosen Nächten – und verfällt ihr immer mehr.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Die Frau im Nebel"
+            },
+            "english_name": "German",
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "一名男子從山頂神秘墮下身亡，刑警海俊（朴海日 飾）奉命調查死者妻子瑞萊（湯唯 飾）。表現得異常冷靜的瑞萊，言談中更透露自己早已預料到丈夫會魂斷山野。在監視瑞萊的同時，海俊漸漸對這嫌疑犯產生了興趣，亦被她大膽的舉動所吸引……面對猜不透的瑞萊，到底海俊是癒來癒走近真相，還是一步一步跌入無盡的深淵？",
+              "runtime": 0,
+              "tagline": "",
+              "title": "分手的決心"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "HK",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Hae-jun nyomozó egy mélybe zuhant sziklamászó ügyén dolgozik. Az eset felgöngyölítése során megismerkedik a titokzatos és vonzó özveggyel, Seo-rae-val. A kihallgatások alatt egyre közelebb kerülnek egymáshoz, és Hae-jun az ösztönei helyett egyre inkább az érzéseire hallgat, átlépve a szakmai határokon. Egy évvel az ügy lezárása után ismét keresztezik egymást az útjaik, és a detektívnek a megoldatlan bűnügy mellett saját elfojtott érzéseivel is szembe kell néznie.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "A titokzatos nő"
+            },
+            "english_name": "Hungarian",
+            "iso_3166_1": "HU",
+            "iso_639_1": "hu",
+            "name": "Magyar"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Детектив расследует смерть мужчины, упавшего со скалы. Вдова покойного сотрудничает со следствием, но чем дальше продвигается дело, тем больше детектив её подозревает и тем сильнее влюбляется.",
+              "runtime": 138,
+              "tagline": "",
+              "title": "Решение уйти"
+            },
+            "english_name": "Russian",
+            "iso_3166_1": "RU",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "一名男子從山頂墜落的變故事件，負責刑警海俊（朴海日），將面對死者的妻子徐來（湯唯）。在丈夫的面前，沒有表現出特別激動的徐來，警方將與普通遺屬不同的她列入嫌疑人名單。海俊是案發當天的不在場證明探詢和報紙，通過潜伏調查瞭解她，感覺到對她的關注越來越大。",
+              "runtime": 138,
+              "tagline": "疑心愈重 愈是掛心",
+              "title": "分手的決心"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "TW",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Detektiv istražuje smrt čovjeka visoko u planinama. Svi dokazi upućuju na udovicu pokojnika. No, što više pokušava odgonetnuti njezinu tajnu, to se više zaljubljuje.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Dvostruka prijevara"
+            },
+            "english_name": "Croatian",
+            "iso_3166_1": "HR",
+            "iso_639_1": "hr",
+            "name": "Hrvatski"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "แฮจุน เป็นตำรวจสายสืบที่สุขุมต่อคนอื่น ๆ รอบข้าง แต่กลับเหมือนเป็นอีกคนเมื่อเขาดำดิ่งเข้าสู่การสืบสวนคดีแต่ละคดี และเขาก็ได้รับมอบหมายให้เสาะหาเบาะแสเกี่ยวกับคดีการเสียชีวิตแบบผิดวิถีธรรมชาติที่เกิดขึ้นในย่านหุบเขาแห่งหนึ่ง ที่นั่นทำให้เขาได้พบกับ ซอแร อดีตภรรยาของผู้เสียชีวิตในคดีนี้ แน่นอนว่าเขาสงสัยเธอเป็นลำดับต้น ๆ ในดคีนี้ แต่กลับกลายเป็นว่ายิ่งสงสัย เขากลับยิ่งหลงใหลในเธอมากขึ้น  เมื่อศพปริศนา ร่วงหล่นลงมาจากยอดเขา นำมาสู่ความสัมพันธ์ต้องห้าม ที่ไม่อาจเลี่ยง  \"ยิ่งตกหลุมรัก ยิ่งตกหลุมพราง\" การตัดสินใจครั้งนี้ กำลังจะเปลี่ยนเธอและเขาไปตลอดกาล .  ภาพยนตร์โดย พัคชานอุค จาก The Handmaiden และ Oldboy ผู้กำกับยอดเยี่ยมแห่งเทศกาลหนังเมืองคานส์ปีนี้",
+              "runtime": 0,
+              "tagline": "ยิ่งตกหลุมรัก ยิ่งตกหลุมพราง",
+              "title": "ฆาตกรรมรัก หลังเขา"
+            },
+            "english_name": "Thai",
+            "iso_3166_1": "TH",
+            "iso_639_1": "th",
+            "name": "ภาษาไทย"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Un detective eficaz y meticuloso investiga un posible asesinato en una remota localidad en medio de las montañas. Allí empieza a desarrollar una relación amorosa con la viuda de la víctima, a quien considera la principal sospechosa.",
+              "runtime": 138,
+              "tagline": "Cuanto más miras, más dura es la caída.",
+              "title": "La decisión de partir"
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "MX",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "data": {
+              "homepage": "https://gutekfilm.pl/podejrzana-chan-wook",
+              "overview": "Bohaterem thrillera jest policjant, który rozwiązując sprawę pewnej śmierci, zakochuje się w głównej podejrzanej – wdowie po zmarłym. On cierpi na bezsenność, ona wie, jak uśpić jego czujność. On jest żonaty, ona łatwo traci mężów. On nocami czuwa pod jej domem, ona lubi być obserwowana. On coraz mniej o niej wie, za to coraz więcej do niej czuje. Czy jest aż takim mięczakiem? Czy ona jest aż tak zła? \"Podejrzana\" brawurowo zaciera ślady i myli tropy: przyprawiający o dreszcze film noir niepostrzeżenie zamienia się miejscami z czarną komedią, przebiera za rasowy melodramat, wdaje w szpiegowskie porachunki. Jest widowiskowy i urzekający stylem, hipnotyzujący, a przy tym rozpisany na pełne humoru dialogi. Pulsuje jednocześnie energią i romantyzmem, dowodząc, że Park Chan-wook należy do światowej czołówki wirtuozów reżyserii.",
+              "runtime": 139,
+              "tagline": "",
+              "title": "Podejrzana"
+            },
+            "english_name": "Polish",
+            "iso_3166_1": "PL",
+            "iso_639_1": "pl",
+            "name": "Polski"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Um detetive investiga a morte de um homem nas montanhas e no decurso da sua obstinada investigação encontra a misteriosa esposa do homem morto.",
+              "runtime": 139,
+              "tagline": "",
+              "title": "Decisão de Partir"
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "PT",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "男が山頂から転落死した事件を追う刑事ヘジュンは、捜査中に被害者の妻ソレと出会う。取り調べが進むうち、ヘジュンはソレに惹かれ始める。やがて事件は解決したかに思えたが、それは相手への想いと疑惑が渦巻く“愛の迷路”のはじまりとなって……。",
+              "runtime": 0,
+              "tagline": "疑惑がふたりを惹き寄せ、愛がふたりを引き裂いた。",
+              "title": "別れる決心"
+            },
+            "english_name": "Japanese",
+            "iso_3166_1": "JP",
+            "iso_639_1": "ja",
+            "name": "日本語"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "محقق يحقق في وفاة رجل في الجبال يلتقي بزوجة الرجل الميت الغامضة أثناء تجسسه الدؤوب.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "قرار الرحيل"
+            },
+            "english_name": "Arabic",
+            "iso_3166_1": "SA",
+            "iso_639_1": "ar",
+            "name": "العربية"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Thám tử Hae Joon được phân công nhiệm vụ điều tra nguyên nhân xung quanh cái chết của một người đàn ông khi leo núi. Cuộc truy tìm dẫn anh đến gặp Seo Rae - vợ của nạn nhân. Tuy nhiên, từ việc nghi ngờ, Hae Joon dần có tình cảm với người phụ nữ bí ẩn với cuộc sống khép kín này. Mối quan hệ rắc rối và tình cảm nhập nhằng khiến anh ngày càng lún sâu vào vụ án.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Quyết Tâm Chia Tay"
+            },
+            "english_name": "Vietnamese",
+            "iso_3166_1": "VN",
+            "iso_639_1": "vi",
+            "name": "Tiếng Việt"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Um detetive eficiente e meticuloso investiga um possível assassinato em um remoto vilarejo de montanha. Lá ele começa a desenvolver um caso de amor com a viúva da vítima, que ele considera a principal suspeita.",
+              "runtime": 0,
+              "tagline": "Quanto mais perto você olha, mais forte você cai.",
+              "title": "Decisão de Partir"
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "یک کارآگاه کارکشته در مورد مرگ مشکوک مردی در قله کوه تحقیق می‌کند. دیری نمی‌پاید که او شروع به مشکوک شدن به همسر متوفی می‌کند، در حالی که از کشش خود نسبت به او بی‌قرار شده است.",
+              "runtime": 0,
+              "tagline": "هر چه نزدیکتر نگاه کنید، سخت‌تر سقوط می‌کنید.",
+              "title": "تصمیم جدایی"
+            },
+            "english_name": "Persian",
+            "iso_3166_1": "IR",
+            "iso_639_1": "fa",
+            "name": "فارسی"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Detektiv Hae-joon je povolán k případu úmrtí muže, který se zabil za nejasných okolností při pádu ze skály. Stín podezření ihned padá na čerstvou vdovu, krásnou Seo-rae, která touto skutečností nevypadá vůbec rozhozená. Zdá se však, že chladná byla pouze ke svému manželovi, mezi ní a vyšetřovatelem totiž začíná vznikat nečekané citové pouto. Není však láska pouhou zástěrkou, jak uniknout zraku policie?",
+              "runtime": 138,
+              "tagline": "",
+              "title": "Podezřelá"
+            },
+            "english_name": "Czech",
+            "iso_3166_1": "CZ",
+            "iso_639_1": "cs",
+            "name": "Český"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Біля підніжжя гір знаходять понівечене тіло альпініста. Розбитий годинник, покинуті речі та інші деталі вказують на нещасний випадок або самогубство. За таких обставин слідчі мають допитати найближчих родичів. Дружина загиблого має алібі, проте непрямі докази та дивна реакція вдови спонукає слідчого почати стежити за нею. І чим довше він спостерігає, тим сильніше починає захоплюватись…",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Рішення піти"
+            },
+            "english_name": "Ukrainian",
+            "iso_3166_1": "UA",
+            "iso_639_1": "uk",
+            "name": "Український"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Bir iş insanının cesedi, şehirden uzakta dağlık bir alanda bulunur. Dürüst bir polis olayı araştırmak için suç bölgesine gider. Eldeki verilere göre adamın ölümü doğal değildir. Bu durum üzerine polis, merhumun yakınlarıyla, özellikle de esas şüpheli olan karısı Seo-Rae ile görüşür. Bu süreçte ikisi arasında beklenmedik bir yakınlık oluşur",
+              "runtime": 138,
+              "tagline": "Ne kadar yakından bakarsanız, o kadar sert düşersiniz.",
+              "title": "Ayrılma Kararı"
+            },
+            "english_name": "Turkish",
+            "iso_3166_1": "TR",
+            "iso_639_1": "tr",
+            "name": "Türkçe"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Κατά τη διάρκεια μιας έρευνας φόνου, ο αρμόδιος ντετέκτιβ θα ερωτευτεί τη μυστηριώδης σύζυγο και ύποπτη για τον φόνο του θύματος σε μια υπόθεση που θα πάρει απρόσμενες στροφές, οδηγώντας σε έναν συναισθηματικό τυφώνα.",
+              "runtime": 138,
+              "tagline": "",
+              "title": "Απόφαση Φυγής"
+            },
+            "english_name": "Greek",
+            "iso_3166_1": "GR",
+            "iso_639_1": "el",
+            "name": "ελληνικά"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Indonesian",
+            "iso_3166_1": "ID",
+            "iso_639_1": "id",
+            "name": "Bahasa indonesia"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Mies putoaa vuorenhuipulta kuolemaansa. Etsivä Hae-joon matkaa vuorille tutkimaan miehen kuolemaa: työnnettiinkö hänet vai hyppäsikö mies itse? Rikostutkinnan edetessä miehen leski, Sea-rae, nousee pääepäilyksi. Mitä pidemmälle tutkimukset etenevät, sitä syvemmältä petoksen ja intohimon suosta Hae-joon löytää itsensä. Hän painii tutkinnan pääepäilyyn kasvavan ihastuksen, oman avioliittonsa ja etsivän työnsä välillä.",
+              "runtime": 139,
+              "tagline": "",
+              "title": "Päätös erota"
+            },
+            "english_name": "Finnish",
+            "iso_3166_1": "FI",
+            "iso_639_1": "fi",
+            "name": "suomi"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "אדם נופל מפסגת הר אל מותו. כשהבלש האי-ג'ון מגיע לבית האלמנה הוא פוגש אישה יפה שלמרבה הפתעתו אינה נראית כאילו מותו של בן זוגה משפיע עליה במיוחד. במהרה היא הופכת לחשודה, והאי-ג'ון מוצא את עצמו עוקב אחריה ומפתח בה עניין רב, גם מעבר לחקירה… \"החלטה לעזוב\" הוא מותחן בלשי מהפנט הפורץ את גבולות הז'אנר ומפתיע את הצופה בכל פנייה.",
+              "runtime": 138,
+              "tagline": "",
+              "title": "החלטה לעזוב"
+            },
+            "english_name": "Hebrew",
+            "iso_3166_1": "IL",
+            "iso_639_1": "he",
+            "name": "עִבְרִית"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Den timide polisen Hae-jun utreder ett mystiskt fall där en klättrare fallit mot sin död. Offrets förföriska änka, Seo-rae, är misstänkt kylig men har snart Hae-jun lindad runt sitt lillfinger.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Decision to Leave"
+            },
+            "english_name": "Swedish",
+            "iso_3166_1": "SE",
+            "iso_639_1": "sv",
+            "name": "svenska"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Decision to Leave van de Zuid-Koreaanse regisseur Park Chan-Wook (Old boy, The Handmaiden is een spannend, maar sensueel detectiveverhaal. Met humor en melancholie schept Park Chan-Wook een romantische, intrigerende thriller. De ijverige detective Hae-Joon (Park Hae-Il) onderzoekt de verdachte dood van een man die van een berg is gevallen. Seo-Rae (Tang Wei), de weduwe van de man, lijkt niet erg rouwig om het verlies. Hae-Joon heeft zijn bedenkingen, maar raakt in de ban van deze ongrijpbare vrouw. Is ze echt zo onschuldig als ze lijkt, of is Hae-Joon haar volgende prooi? Hij neemt geen risico en vertrekt naar een andere stad... Decision to Leave heeft een ingenieuze plot en ziet er schitterend uit. ‘Gorgeously and grippingly made’, aldus The Guardian die de film 5 sterren toebedeelde. Op het Filmfestival in Cannes won Park Chan-Wook dan ook de prijs voor de Beste Regie.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Decision to Leave"
+            },
+            "english_name": "Dutch",
+            "iso_3166_1": "NL",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Hae-Joon, un veterà detectiu, investiga la sospitosa mort d'un home al cim d'una muntanya. Aviat començarà a sospitar de Sore, la dona del difunt, mentre l'atracció que sent per ella el desestabilitzarà.",
+              "runtime": 0,
+              "tagline": "Com més a prop mires, més fort caus.",
+              "title": "Decision to leave"
+            },
+            "english_name": "Catalan",
+            "iso_3166_1": "ES",
+            "iso_639_1": "ca",
+            "name": "Català"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Decision to Leave"
+            },
+            "english_name": "Burmese",
+            "iso_3166_1": "MY",
+            "iso_639_1": "my",
+            "name": ""
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Naują postūmį detektyvo monotoniškai kasdienybei suteikia tragiškas atsitikimas kalnuose, kai žūva nuo viršukalnės nukritęs aukštą postą imigracijos tarnyboje užimantis funkcionierius. Nelaimingas atsitikimas kelia daug klausimų. Keisčiausia grandis nesuprantamų įvykių sekoje – velionio žmona kinė, kažkada nelegaliai atvykusi į šalį, bet sugebėjusi išimties tvarka gauti pilietybę.\r Filmo emocinis grafikas primena širdies kardiogramą, kurioje po staigių emocinių pliūpsnių seka atoslūgiai. Visi jie užburiančiu ritmu (hipnozė filme turi ypatingą reikšmę) pamažu artina emocijų užvaldytą žiūrovą prie nenuspėjamo finalo – sprendimo išvykti…",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Sprendimas išvykti"
+            },
+            "english_name": "Lithuanian",
+            "iso_3166_1": "LT",
+            "iso_639_1": "lt",
+            "name": "Lietuvių"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Хае-Джун, опитен детектив, разследва подозрителната смърт на мъж на планински връх. Скоро той започва да подозира съпругата на починалия - Сео-Рае, като в същото време е разтревожен от привличането си към нея.",
+              "runtime": 0,
+              "tagline": "Колкото по-отблизо се вгледаш, толкова по-силно падаш.",
+              "title": "Решение да си тръгнеш"
+            },
+            "english_name": "Bulgarian",
+            "iso_3166_1": "BG",
+            "iso_639_1": "bg",
+            "name": "български език"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Policija preiskuje smrt moškega, ki je padel s pečine. Detektiv Hae-joon zasliši njegovo vdovo. Ker se ta ne zdi pretirano vznemirjena ob moževi smrti, hitro postane glavna osumljenka. Medtem ko jo zasleduje in opazuje, Hae-joon vse bolj ugotavlja, da ga skrivnostna mladenka neustavljivo privlači …",
+              "runtime": 0,
+              "tagline": "Bližje ko si, bolj je pogubno",
+              "title": "Dvojna prevara"
+            },
+            "english_name": "Slovenian",
+            "iso_3166_1": "SI",
+            "iso_639_1": "sl",
+            "name": "Slovenščina"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Detektív Hae-joon je privolaný k prípadu úmrtia muža, ktorý sa zabil za nejasných okolností pri páde zo skaly. Tieň podozrenia hneď padá na čerstvú vdovu, krásnu Seo-rae, ktorú táto skutočnosť na prvý pohľad ani len neznepokojí. Zdá sa však, že chladná bola iba k svojmu manželovi, pretože medzi ňou a vyšetrovateľom začína vznikať nečakané citové puto. Nie je ale láska iba zásterkou, ako uniknúť zraku polície? Autor legendárneho Oldboya a Komornej Park Chan-wook sa vracia s mysterióznou detektívnou romancou, ktorá vám zamotá hlavu a rozbúši srdce.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Podozrivá"
+            },
+            "english_name": "Slovak",
+            "iso_3166_1": "SK",
+            "iso_639_1": "sk",
+            "name": "Slovenčina"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Otsus lahkuda"
+            },
+            "english_name": "Estonian",
+            "iso_3166_1": "EE",
+            "iso_639_1": "et",
+            "name": "Eesti"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Den samvittighedsfulde kriminalinspektør Hae-joon undersøger en mystisk sag om en klatrer, som er styrtet i døden. Afdødes forførende enke, Seo-rae, er mistænkt, men hun får snart snoet Hae-joon om sin lillefinger. For den smukke, unge kvinde er omsorgsperson for ældre mennesker, og hun kan da ikke være morder? Lidenskab og retfærdighed er drivkrafterne i en historie, hvor handlingen er umulig at forudse.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Decision to Leave"
+            },
+            "english_name": "Danish",
+            "iso_3166_1": "DK",
+            "iso_639_1": "da",
+            "name": "Dansk"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Lēmums aiziet"
+            },
+            "english_name": "Latvian",
+            "iso_3166_1": "LV",
+            "iso_639_1": "lv",
+            "name": "Latviešu"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 1529
     },
     "71822": {
       "adult": false,
@@ -361596,6 +365559,29 @@
         "vote_count": 2
       }
     ],
+    "decision to leave|": [
+      {
+        "adult": false,
+        "backdrop_path": "/A1bWhTFQKkhF1yhSKWosSyzn2Hp.jpg",
+        "genre_ids": [
+          53,
+          9648,
+          10749
+        ],
+        "id": 705996,
+        "original_language": "ko",
+        "original_title": "헤어질 결심",
+        "overview": "Un austero detective deve indagare su un possibile caso di omicidio in una zona rurale limitrofa. Non ci vorrà molto, però, prima che i suoi sospetti ricadano sulla moglie della vittima, per la quale il detective comincia anche a provare qualcosa.",
+        "popularity": 6.7645,
+        "poster_path": "/980Zfix859QLVEBN4QRt8m5tZEC.jpg",
+        "release_date": "2023-02-02",
+        "softcore": false,
+        "title": "Decision to Leave",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 1529
+      }
+    ],
     "diaz non pulire questo sangue ried|": [],
     "diaz non pulire questo sangue|": [
       {
@@ -368653,6 +372639,29 @@
         "vote_count": 4774
       }
     ],
+    "la casa dalle finestre che ridono|": [
+      {
+        "adult": false,
+        "backdrop_path": "/hN8BEjmyqsPdwSPsdDWenoid1as.jpg",
+        "genre_ids": [
+          9648,
+          53,
+          27
+        ],
+        "id": 57447,
+        "original_language": "it",
+        "original_title": "La casa dalle finestre che ridono",
+        "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
+        "popularity": 0.9578,
+        "poster_path": "/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
+        "release_date": "1976-08-20",
+        "softcore": false,
+        "title": "La casa dalle finestre che ridono",
+        "video": false,
+        "vote_average": 7.245,
+        "vote_count": 392
+      }
+    ],
     "la casa il rogo del male|": [
       {
         "adult": false,
@@ -370649,6 +374658,28 @@
         "video": false,
         "vote_average": 7.582,
         "vote_count": 159
+      }
+    ],
+    "let my puppets come|": [
+      {
+        "adult": false,
+        "backdrop_path": "/DZAKxqyoIxoi3UauGD3YgjOZYb.jpg",
+        "genre_ids": [
+          35,
+          10402
+        ],
+        "id": 223922,
+        "original_language": "en",
+        "original_title": "Let My Puppets Come",
+        "overview": "",
+        "popularity": 0.6309,
+        "poster_path": "/tkEC35oeLKSTJbsdlXkJcLLK15O.jpg",
+        "release_date": "1976-02-16",
+        "softcore": false,
+        "title": "Let My Puppets Come",
+        "video": false,
+        "vote_average": 5.389,
+        "vote_count": 18
       }
     ],
     "lisbon story|": [
@@ -379983,6 +384014,27 @@
         "vote_count": 31
       }
     ],
+    "separazioni|": [
+      {
+        "adult": false,
+        "backdrop_path": "/cmE5qVfpwYHe0D0Pb2jeunaLDAl.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1575560,
+        "original_language": "it",
+        "original_title": "Separazioni",
+        "overview": "Il film dipinge una rete di legami famigliari e sentimentali il cui equilibrio apparente viene sconvolto dalla scomparsa di due ragazzi sulle vette innevate del Gran Sasso, che farà emergere intrecci segreti e tradimenti.",
+        "popularity": 0.5571,
+        "poster_path": "/jpIjT6atZo6xWDcTzGxbR9NDT5s.jpg",
+        "release_date": "2026-07-02",
+        "softcore": false,
+        "title": "Separazioni",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
     "shining|": [
       {
         "adult": false,
@@ -380988,6 +385040,7 @@
         "vote_count": 0
       }
     ],
+    "sono andata al tangeri a ballare|": [],
     "sorry baby|": [
       {
         "adult": false,
