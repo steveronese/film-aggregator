@@ -1,12 +1,5 @@
 [
   {
-    "raw_title": "PRINCIPESSA MONONOKE",
-    "tmdb_id": 128,
-    "matched_title": "Princess Mononoke",
-    "method": "fuzzy",
-    "confidence": 91.89189189189189
-  },
-  {
     "raw_title": "THE ODYSSEY - ODISSEA",
     "tmdb_id": 42853,
     "matched_title": "Odissea",
@@ -105,6 +98,13 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "SENZA PELLE (10 E LUCE)",
+    "tmdb_id": 56397,
+    "matched_title": "Senza pelle",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "LE BAMBINE (MOSQUITOES)",
     "tmdb_id": 1510300,
     "matched_title": "Le bambine",
@@ -115,13 +115,6 @@
     "raw_title": "LA CRONOLOGIA DELL'ACQUA (THE CHRONOLOGY OF WATER)",
     "tmdb_id": 524635,
     "matched_title": "La cronologia dell’acqua",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "SENZA PELLE (10 E LUCE)",
-    "tmdb_id": 56397,
-    "matched_title": "Senza pelle",
     "method": "ai",
     "confidence": 100.0
   },
