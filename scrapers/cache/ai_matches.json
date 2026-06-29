@@ -79,6 +79,14 @@
     "title": "KEEP CALM",
     "year": null
   },
+  "::extract::la casa delle finestre che ridono": {
+    "title": "La Casa delle Finestre che Ridono",
+    "year": null
+  },
+  "::extract::la goccia": {
+    "title": "LA GOCCIA",
+    "year": null
+  },
   "::extract::la valle scalza": {
     "title": "La valle scalza",
     "year": null
@@ -144,6 +152,10 @@
     "year": null
   },
   "::extract::space jam - 30mo anniversario": {
+    "title": "",
+    "year": null
+  },
+  "::extract::the odissey (o.v.) - con talk": {
     "title": "",
     "year": null
   },
@@ -298,6 +310,10 @@
   "la festa e finita the party s over": {
     "confidence": 100,
     "tmdb_id": 1313211
+  },
+  "la goccia": {
+    "confidence": null,
+    "tmdb_id": null
   },
   "la mia famiglia a taipei left handed girl": {
     "confidence": 100,
