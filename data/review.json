@@ -7,13 +7,6 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "LA TESTIMONE",
-    "tmdb_id": 1320414,
-    "matched_title": "La testimone - Shahed",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "APOCALYPSE NOW - FINAL CUT",
     "tmdb_id": 28,
     "matched_title": "Apocalypse Now",
@@ -84,6 +77,13 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "LA MATTINA SCRIVO - A PIED D'OEUVRE",
+    "tmdb_id": 1430820,
+    "matched_title": "La mattina scrivo",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
     "tmdb_id": 1314481,
     "matched_title": "Il diavolo veste Prada 2",
@@ -91,16 +91,9 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA) - V. O.",
-    "tmdb_id": 1303613,
-    "matched_title": "Il silenzio degli altri",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "SENZA PELLE (10 E LUCE)",
-    "tmdb_id": 56397,
-    "matched_title": "Senza pelle",
+    "raw_title": "LA DONNA PIÙ RICCA DEL MONDO (LA FEMME LA PLUS RICHE DU MONDE)",
+    "tmdb_id": 1309725,
+    "matched_title": "La donna più ricca del mondo",
     "method": "ai",
     "confidence": 100.0
   },
