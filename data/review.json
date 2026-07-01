@@ -1,12 +1,5 @@
 [
   {
-    "raw_title": "THE ODYSSEY - ODISSEA",
-    "tmdb_id": 42853,
-    "matched_title": "Odissea",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "APOCALYPSE NOW - FINAL CUT",
     "tmdb_id": 28,
     "matched_title": "Apocalypse Now",
@@ -21,7 +14,21 @@
     "confidence": 95.0
   },
   {
+    "raw_title": "THE DOORS. THE FINAL CUT",
+    "tmdb_id": 10537,
+    "matched_title": "The Doors",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "V.O. SOTT. ITA - ALLORA BALLIAMO (PARTIR UN JOUR)",
+    "tmdb_id": 1277884,
+    "matched_title": "Allora balliamo",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR)",
     "tmdb_id": 1277884,
     "matched_title": "Allora balliamo",
     "method": "ai",
@@ -33,6 +40,13 @@
     "matched_title": "Cos'è l'amore?",
     "method": "ai",
     "confidence": 95.0
+  },
+  {
+    "raw_title": "LA MISURA DEL DUBBIO (LE FIL)",
+    "tmdb_id": 1136394,
+    "matched_title": "La misura del dubbio",
+    "method": "ai",
+    "confidence": 100.0
   },
   {
     "raw_title": "V.O. SOTT.ITA - ALICE NELLE CITTÀ (ALICE IN DEN STADTEN)",
@@ -56,16 +70,9 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR)",
-    "tmdb_id": 1277884,
-    "matched_title": "Allora balliamo",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
-    "raw_title": "L'AMICO AMERICANO (DER AMERIKANISCHE FREUND)",
-    "tmdb_id": 11222,
-    "matched_title": "L'amico americano",
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "tmdb_id": 1314481,
+    "matched_title": "Il diavolo veste Prada 2",
     "method": "ai",
     "confidence": 100.0
   },
@@ -77,16 +84,16 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "LA MATTINA SCRIVO - A PIED D'OEUVRE",
-    "tmdb_id": 1430820,
-    "matched_title": "La mattina scrivo",
+    "raw_title": "L'AMICO AMERICANO (DER AMERIKANISCHE FREUND)",
+    "tmdb_id": 11222,
+    "matched_title": "L'amico americano",
     "method": "ai",
     "confidence": 100.0
   },
   {
-    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
-    "tmdb_id": 1314481,
-    "matched_title": "Il diavolo veste Prada 2",
+    "raw_title": "LA MATTINA SCRIVO - A PIED D'OEUVRE",
+    "tmdb_id": 1430820,
+    "matched_title": "La mattina scrivo",
     "method": "ai",
     "confidence": 100.0
   },
@@ -98,11 +105,11 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "LE BAMBINE (MOSQUITOES)",
-    "tmdb_id": 1510300,
-    "matched_title": "Le bambine",
+    "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA)",
+    "tmdb_id": 1303613,
+    "matched_title": "Il silenzio degli altri",
     "method": "ai",
-    "confidence": 95.0
+    "confidence": 100.0
   },
   {
     "raw_title": "LA CRONOLOGIA DELL'ACQUA (THE CHRONOLOGY OF WATER)",
@@ -112,11 +119,18 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA)",
-    "tmdb_id": 1303613,
-    "matched_title": "Il silenzio degli altri",
+    "raw_title": "LE BAMBINE (MOSQUITOES)",
+    "tmdb_id": 1510300,
+    "matched_title": "Le bambine",
     "method": "ai",
-    "confidence": 100.0
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR) - V. O.",
+    "tmdb_id": 1277884,
+    "matched_title": "Allora balliamo",
+    "method": "ai",
+    "confidence": 95.0
   },
   {
     "raw_title": "L'ISOLA DEI RICORDI (AMRUM)",
@@ -140,30 +154,9 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "C'ERA UNA VOLTA MIA MADRE (MA MÈRE, DIEU ET SYLVIE VARTAN)",
-    "tmdb_id": 1107215,
-    "matched_title": "C'era una volta mia madre",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "UNA BATTAGLIA DOPO L'ALTRA (ONE BATTLE AFTER ANOTHER)",
     "tmdb_id": 1054867,
     "matched_title": "Una battaglia dopo l’altra",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "Scary Movie 6",
-    "tmdb_id": 1273221,
-    "matched_title": "Scary Movie",
-    "method": "fuzzy",
-    "confidence": 91.66666666666666
-  },
-  {
-    "raw_title": "(Ov Chinese Sub.) Toy Story 5",
-    "tmdb_id": 1084244,
-    "matched_title": "Toy Story 5",
     "method": "ai",
     "confidence": 100.0
   },
@@ -182,10 +175,31 @@
     "confidence": 90.9090909090909
   },
   {
+    "raw_title": "Rufus - Il Draghetto Autism Friendly",
+    "tmdb_id": 1512207,
+    "matched_title": "Rufus - Il draghetto marino che non sapeva nuotare",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "Rufus - Il Draghetto Marino",
+    "tmdb_id": 1512207,
+    "matched_title": "Rufus - Il draghetto marino che non sapeva nuotare",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "The Mandalorian & Grogu",
     "tmdb_id": 1228710,
     "matched_title": "The Mandalorian and Grogu",
     "method": "fuzzy",
     "confidence": 91.30434782608697
+  },
+  {
+    "raw_title": "Scary Movie 6",
+    "tmdb_id": 1273221,
+    "matched_title": "Scary Movie",
+    "method": "fuzzy",
+    "confidence": 91.66666666666666
   }
 ]
