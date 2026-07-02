@@ -21,13 +21,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "V.O. SOTT. ITA - ALLORA BALLIAMO (PARTIR UN JOUR)",
-    "tmdb_id": 1277884,
-    "matched_title": "Allora balliamo",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR)",
     "tmdb_id": 1277884,
     "matched_title": "Allora balliamo",
@@ -105,20 +98,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "IL SILENZIO DEGLI ALTRI (SORDA)",
-    "tmdb_id": 1303613,
-    "matched_title": "Il silenzio degli altri",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "LA CRONOLOGIA DELL'ACQUA (THE CHRONOLOGY OF WATER)",
-    "tmdb_id": 524635,
-    "matched_title": "La cronologia dell’acqua",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "LE BAMBINE (MOSQUITOES)",
     "tmdb_id": 1510300,
     "matched_title": "Le bambine",
@@ -131,6 +110,13 @@
     "matched_title": "Allora balliamo",
     "method": "ai",
     "confidence": 95.0
+  },
+  {
+    "raw_title": "LA CRONOLOGIA DELL'ACQUA (THE CHRONOLOGY OF WATER)",
+    "tmdb_id": 524635,
+    "matched_title": "La cronologia dell’acqua",
+    "method": "ai",
+    "confidence": 100.0
   },
   {
     "raw_title": "L'ISOLA DEI RICORDI (AMRUM)",
@@ -147,23 +133,9 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "LA MIA FAMIGLIA A TAIPEI (LEFT-HANDED GIRL)",
-    "tmdb_id": 999075,
-    "matched_title": "La mia famiglia a Taipei",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "UNA BATTAGLIA DOPO L'ALTRA (ONE BATTLE AFTER ANOTHER)",
     "tmdb_id": 1054867,
     "matched_title": "Una battaglia dopo l’altra",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "After Life - Qual E' Il Tuo Ricordo...",
-    "tmdb_id": 17962,
-    "matched_title": "After Life - Qual è il tuo ricordo più bello?",
     "method": "ai",
     "confidence": 100.0
   },
@@ -173,6 +145,13 @@
     "matched_title": "Odissea",
     "method": "fuzzy",
     "confidence": 90.9090909090909
+  },
+  {
+    "raw_title": "Backrooms - Everything Must Go Edition",
+    "tmdb_id": 1083381,
+    "matched_title": "Backrooms",
+    "method": "ai",
+    "confidence": 100.0
   },
   {
     "raw_title": "Rufus - Il Draghetto Autism Friendly",
@@ -187,13 +166,6 @@
     "matched_title": "Rufus - Il draghetto marino che non sapeva nuotare",
     "method": "ai",
     "confidence": 95.0
-  },
-  {
-    "raw_title": "The Mandalorian & Grogu",
-    "tmdb_id": 1228710,
-    "matched_title": "The Mandalorian and Grogu",
-    "method": "fuzzy",
-    "confidence": 91.30434782608697
   },
   {
     "raw_title": "Scary Movie 6",
