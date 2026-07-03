@@ -1,5 +1,19 @@
 [
   {
+    "raw_title": "BACKROOMS - EVERYTHING MUST GO EDITION",
+    "tmdb_id": 1083381,
+    "matched_title": "Backrooms",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "THE ODYSSEY - ODISSEA",
+    "tmdb_id": 42853,
+    "matched_title": "Odissea",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "APOCALYPSE NOW - FINAL CUT",
     "tmdb_id": 28,
     "matched_title": "Apocalypse Now",
@@ -70,6 +84,27 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "CORTOCIRCUITO - PRIMO GIORNO",
+    "tmdb_id": 1406354,
+    "matched_title": "Cortocircuito",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "CORTOCIRCUITO - SECONDO GIORNO",
+    "tmdb_id": 1406354,
+    "matched_title": "Cortocircuito",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "CORTO CIRCUITO - TERZO GIORNO",
+    "tmdb_id": 2605,
+    "matched_title": "Corto circuito",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "NON BUSSARE ALLA MIA PORTA (DON'T COME KNOCKING)",
     "tmdb_id": 3527,
     "matched_title": "Non bussare alla mia porta",
@@ -98,13 +133,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "LE BAMBINE (MOSQUITOES)",
-    "tmdb_id": 1510300,
-    "matched_title": "Le bambine",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR) - V. O.",
     "tmdb_id": 1277884,
     "matched_title": "Allora balliamo",
@@ -112,16 +140,16 @@
     "confidence": 95.0
   },
   {
+    "raw_title": "LE BAMBINE (MOSQUITOES)",
+    "tmdb_id": 1510300,
+    "matched_title": "Le bambine",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "LA CRONOLOGIA DELL'ACQUA (THE CHRONOLOGY OF WATER)",
     "tmdb_id": 524635,
     "matched_title": "La cronologia dell’acqua",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "L'ISOLA DEI RICORDI (AMRUM)",
-    "tmdb_id": 1269644,
-    "matched_title": "L'isola dei ricordi",
     "method": "ai",
     "confidence": 100.0
   },
@@ -136,6 +164,55 @@
     "raw_title": "UNA BATTAGLIA DOPO L'ALTRA (ONE BATTLE AFTER ANOTHER)",
     "tmdb_id": 1054867,
     "matched_title": "Una battaglia dopo l’altra",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "SPRINGSTEEN: LIBERAMI DAL NULLA (SPRINGSTEEN: DELIVER ME FROM NOWHERE)",
+    "tmdb_id": 1230368,
+    "matched_title": "Springsteen - Liberami dal nulla",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "THE SEA (HA'YAM)",
+    "tmdb_id": 1509676,
+    "matched_title": "The Sea",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "LA MIA FAMIGLIA A TAIPEI (LEFT-HANDED GIRL)",
+    "tmdb_id": 999075,
+    "matched_title": "La mia famiglia a Taipei",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "NORIMBERGA (NUREMBERG)",
+    "tmdb_id": 1214931,
+    "matched_title": "Norimberga",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "LA TORTA DEL PRESIDENTE (THE PRESIDENT'S CAKE)",
+    "tmdb_id": 1464883,
+    "matched_title": "La torta del presidente",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "I COLORI DEL TEMPO (LA VENUE DE L'AVENIR)",
+    "tmdb_id": 1235304,
+    "matched_title": "I colori del tempo",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "LA VILLA PORTOGHESE (UNA QUINTA PORTUGUESA)",
+    "tmdb_id": 1440171,
+    "matched_title": "La villa portoghese",
     "method": "ai",
     "confidence": 100.0
   },

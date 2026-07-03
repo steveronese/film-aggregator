@@ -51,8 +51,24 @@
     "title": "",
     "year": null
   },
+  "::extract::concerto: spielberg, williams e la musica dello spazio": {
+    "title": "",
+    "year": null
+  },
   "::extract::corrado levi marrakech theorie (2006-2019)": {
     "title": "",
+    "year": null
+  },
+  "::extract::corto circuito - terzo giorno": {
+    "title": "Corto Circuito",
+    "year": null
+  },
+  "::extract::cortocircuito - primo giorno": {
+    "title": "Cortocircuito",
+    "year": null
+  },
+  "::extract::cortocircuito - secondo giorno": {
+    "title": "Cortocircuito",
     "year": null
   },
   "::extract::diaz - non pulite questo sangue": {
@@ -153,6 +169,10 @@
   },
   "::extract::sacro cuore - il suo regno": {
     "title": "Sacro Cuore - Il Suo Regno",
+    "year": null
+  },
+  "::extract::santiago - un cammino per ricominciare (compostelle)": {
+    "title": "SANTIAGO - UN CAMMINO PER RICOMINCIARE",
     "year": null
   },
   "::extract::senza pelle (10 e luce)": {
@@ -371,6 +391,14 @@
     "confidence": 95,
     "tmdb_id": 1320414
   },
+  "la torta del presidente the president s cake": {
+    "confidence": 100,
+    "tmdb_id": 1464883
+  },
+  "la villa portoghese una quinta portuguesa": {
+    "confidence": 100,
+    "tmdb_id": 1440171
+  },
   "le bambine mosquitoes": {
     "confidence": 95,
     "tmdb_id": 1510300
@@ -407,6 +435,10 @@
     "confidence": 100,
     "tmdb_id": 3527
   },
+  "norimberga nuremberg": {
+    "confidence": 95,
+    "tmdb_id": 1214931
+  },
   "notte al museo": {
     "confidence": 100,
     "tmdb_id": 1593
@@ -422,6 +454,10 @@
   "scalfire la roccia": {
     "confidence": 100,
     "tmdb_id": 1400793
+  },
+  "springsteen liberami dal nulla springsteen deliver me from nowhere": {
+    "confidence": 100,
+    "tmdb_id": 1230368
   },
   "star wars the mandalorian and grogu": {
     "confidence": 100,
@@ -442,6 +478,10 @@
   "the odyssey odissea": {
     "confidence": 95,
     "tmdb_id": 42853
+  },
+  "the sea ha yam": {
+    "confidence": 95,
+    "tmdb_id": 1509676
   },
   "tra amore e inganni you me tuscany": {
     "confidence": 100,
