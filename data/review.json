@@ -14,11 +14,11 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "APOCALYPSE NOW - FINAL CUT",
-    "tmdb_id": 28,
-    "matched_title": "Apocalypse Now",
+    "raw_title": "UN SOGNO LUNGO UN GIORNO. REPRISE",
+    "tmdb_id": 41291,
+    "matched_title": "Un sogno lungo un giorno",
     "method": "ai",
-    "confidence": 100.0
+    "confidence": 95.0
   },
   {
     "raw_title": "NO OTHER CHOICE",
@@ -52,13 +52,6 @@
     "raw_title": "LA MISURA DEL DUBBIO (LE FIL)",
     "tmdb_id": 1136394,
     "matched_title": "La misura del dubbio",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "V.O. SOTT.ITA - ALICE NELLE CITTÀ (ALICE IN DEN STADTEN)",
-    "tmdb_id": 2204,
-    "matched_title": "Alice nelle città",
     "method": "ai",
     "confidence": 100.0
   },
@@ -119,6 +112,13 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "V.O. SOTT.ITA - ALICE NELLE CITTÀ (ALICE IN DEN STADTEN)",
+    "tmdb_id": 2204,
+    "matched_title": "Alice nelle città",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "LA MATTINA SCRIVO - A PIED D'OEUVRE",
     "tmdb_id": 1430820,
     "matched_title": "La mattina scrivo",
@@ -140,6 +140,13 @@
     "confidence": 95.0
   },
   {
+    "raw_title": "LA CRONOLOGIA DELL'ACQUA (THE CHRONOLOGY OF WATER)",
+    "tmdb_id": 524635,
+    "matched_title": "La cronologia dell’acqua",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "LE BAMBINE (MOSQUITOES)",
     "tmdb_id": 1510300,
     "matched_title": "Le bambine",
@@ -147,9 +154,9 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "LA CRONOLOGIA DELL'ACQUA (THE CHRONOLOGY OF WATER)",
-    "tmdb_id": 524635,
-    "matched_title": "La cronologia dell’acqua",
+    "raw_title": "UN INVERNO IN COREA (HIVER A SOKCO)",
+    "tmdb_id": 1001010,
+    "matched_title": "Un inverno in Corea",
     "method": "ai",
     "confidence": 100.0
   },
@@ -161,9 +168,51 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "UNA BATTAGLIA DOPO L'ALTRA (ONE BATTLE AFTER ANOTHER)",
-    "tmdb_id": 1054867,
-    "matched_title": "Una battaglia dopo l’altra",
+    "raw_title": "LA PIÚ PICCOLA (LA PETITE DERNIÈRE)",
+    "tmdb_id": 961077,
+    "matched_title": "La più piccola",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "UN MONDO MERAVIGLIOSO (UN MONDE MARVEILLEUX)",
+    "tmdb_id": 1154725,
+    "matched_title": "Un mondo meraviglioso",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "TERAPIA DI FAMIGLIA (JAMAIS SANS MON PSY)",
+    "tmdb_id": 1130402,
+    "matched_title": "Terapia di famiglia",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "CALLE MALAGA (CALLE MÁLAGA)",
+    "tmdb_id": 1399462,
+    "matched_title": "Calle Málaga",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "I PECCATORI (SINNERS)",
+    "tmdb_id": 1233413,
+    "matched_title": "I peccatori",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "IL SENTIERO AZZURRO (O ÚLTIMO AZUL)",
+    "tmdb_id": 1172265,
+    "matched_title": "Il sentiero azzurro",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "LA MIA FAMIGLIA A TAIPEI (LEFT-HANDED GIRL)",
+    "tmdb_id": 999075,
+    "matched_title": "La mia famiglia a Taipei",
     "method": "ai",
     "confidence": 100.0
   },
@@ -180,13 +229,6 @@
     "matched_title": "The Sea",
     "method": "ai",
     "confidence": 95.0
-  },
-  {
-    "raw_title": "LA MIA FAMIGLIA A TAIPEI (LEFT-HANDED GIRL)",
-    "tmdb_id": 999075,
-    "matched_title": "La mia famiglia a Taipei",
-    "method": "ai",
-    "confidence": 100.0
   },
   {
     "raw_title": "NORIMBERGA (NUREMBERG)",

@@ -255,8 +255,16 @@
     "title": "Ugo La Pietra. Sistema disequilibrante",
     "year": null
   },
+  "::extract::un inverno in corea (hiver a sokco)": {
+    "title": "Un inverno in Corea (Hiver à Sokcho)",
+    "year": null
+  },
   "::extract::un mondo meraviglioso": {
     "title": "Un mondo meraviglioso",
+    "year": null
+  },
+  "::extract::un mondo meraviglioso (un monde marveilleux)": {
+    "title": "Un mondo meraviglioso (Un monde merveilleux)",
     "year": null
   },
   "::extract::un popolo di ombre": {
@@ -303,6 +311,10 @@
     "confidence": 100,
     "tmdb_id": 1107215
   },
+  "calle malaga calle malaga": {
+    "confidence": 100,
+    "tmdb_id": 1399462
+  },
   "cos e l amore c est quoi l amour": {
     "confidence": 95,
     "tmdb_id": 1369286
@@ -323,6 +335,10 @@
     "confidence": 100,
     "tmdb_id": 1235304
   },
+  "i peccatori sinners": {
+    "confidence": 95,
+    "tmdb_id": 1233413
+  },
   "il diavolo veste prada 2 the devil wears prada 2": {
     "confidence": 100,
     "tmdb_id": 1314481
@@ -338,6 +354,10 @@
   "il mistero delle 12 sedie": {
     "confidence": 100,
     "tmdb_id": 24918
+  },
+  "il sentiero azzurro o ultimo azul": {
+    "confidence": 100,
+    "tmdb_id": 1172265
   },
   "il silenzio degli altri sorda": {
     "confidence": 100,
@@ -382,6 +402,10 @@
   "la misura del dubbio le fil": {
     "confidence": 100,
     "tmdb_id": 1136394
+  },
+  "la piu piccola la petite derniere": {
+    "confidence": 100,
+    "tmdb_id": 961077
   },
   "la storia della principessa": {
     "confidence": 95,
@@ -467,6 +491,10 @@
     "confidence": 95,
     "tmdb_id": 25050
   },
+  "terapia di famiglia jamais sans mon psy": {
+    "confidence": 100,
+    "tmdb_id": 1130402
+  },
   "the amazing digital circus": {
     "confidence": null,
     "tmdb_id": null
@@ -494,6 +522,18 @@
   "tutto quello che resta di te all that s left of you": {
     "confidence": 95,
     "tmdb_id": 1219620
+  },
+  "un inverno in corea hiver a sokcho": {
+    "confidence": 100,
+    "tmdb_id": 1001010
+  },
+  "un mondo meraviglioso un monde merveilleux": {
+    "confidence": 100,
+    "tmdb_id": 1154725
+  },
+  "un sogno lungo un giorno reprise": {
+    "confidence": 95,
+    "tmdb_id": 41291
   },
   "una battaglia dopo l altra one battle after another": {
     "confidence": 100,
