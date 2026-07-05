@@ -34614,6 +34614,1411 @@
       "vote_average": 6.487,
       "vote_count": 75
     },
+    "1092": {
+      "adult": false,
+      "backdrop_path": "/rLLhOCgAjuvlKmjUqVb7P1UAbUI.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 8,
+            "character": "Holly Martins",
+            "credit_id": "52fe42e7c3a36847f802babd",
+            "gender": 2,
+            "id": 7664,
+            "known_for_department": "Acting",
+            "name": "Joseph Cotten",
+            "order": 0,
+            "original_name": "Joseph Cotten",
+            "popularity": 1.1858,
+            "profile_path": "/djfCB0jPOgmq3w7RD3BMLzWsAu8.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 9,
+            "character": "Anna Schmidt",
+            "credit_id": "52fe42e7c3a36847f802bac1",
+            "gender": 1,
+            "id": 15385,
+            "known_for_department": "Acting",
+            "name": "Alida Valli",
+            "order": 1,
+            "original_name": "Alida Valli",
+            "popularity": 0.8851,
+            "profile_path": "/11s7AosF2LHIGgdACpyPyoPlAyI.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 11,
+            "character": "Major Calloway",
+            "credit_id": "52fe42e7c3a36847f802bac9",
+            "gender": 2,
+            "id": 12726,
+            "known_for_department": "Acting",
+            "name": "Trevor Howard",
+            "order": 2,
+            "original_name": "Trevor Howard",
+            "popularity": 0.8952,
+            "profile_path": "/6HDJGXcedqyHx7oCPtUdCXn4z76.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 10,
+            "character": "Harry Lime",
+            "credit_id": "52fe42e7c3a36847f802bac5",
+            "gender": 2,
+            "id": 40,
+            "known_for_department": "Directing",
+            "name": "Orson Welles",
+            "order": 3,
+            "original_name": "Orson Welles",
+            "popularity": 2.3689,
+            "profile_path": "/e9lGmqQq3EsHeUQgQLByo275hcc.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 13,
+            "character": "Karl the Porter",
+            "credit_id": "52fe42e7c3a36847f802bad1",
+            "gender": 2,
+            "id": 14120,
+            "known_for_department": "Acting",
+            "name": "Paul Hörbiger",
+            "order": 4,
+            "original_name": "Paul Hörbiger",
+            "popularity": 0.8038,
+            "profile_path": "/jrTXAidwAiHz5xW5M96uzvkTcDN.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 19,
+            "character": "'Baron' Kurtz",
+            "credit_id": "52fe42e7c3a36847f802bae9",
+            "gender": 2,
+            "id": 29177,
+            "known_for_department": "Acting",
+            "name": "Ernst Deutsch",
+            "order": 5,
+            "original_name": "Ernst Deutsch",
+            "popularity": 0.4666,
+            "profile_path": "/5pKarwCYLqpCACoh2zrNGrgudLg.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 18,
+            "character": "Dr. Winkel",
+            "credit_id": "52fe42e7c3a36847f802bae5",
+            "gender": 2,
+            "id": 13376,
+            "known_for_department": "Acting",
+            "name": "Erich Ponto",
+            "order": 6,
+            "original_name": "Erich Ponto",
+            "popularity": 0.427,
+            "profile_path": "/rzAmMnbpSIOCJZSMghiqacc7vrj.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 14,
+            "character": "Popescu",
+            "credit_id": "52fe42e7c3a36847f802bad5",
+            "gender": 2,
+            "id": 15386,
+            "known_for_department": "Acting",
+            "name": "Siegfried Breuer",
+            "order": 7,
+            "original_name": "Siegfried Breuer",
+            "popularity": 0.3826,
+            "profile_path": "/rXhySWLa7Sj1Q9yy6pe9lFqKyce.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 16,
+            "character": "Anna's Landlady",
+            "credit_id": "52fe42e7c3a36847f802badd",
+            "gender": 1,
+            "id": 15388,
+            "known_for_department": "Acting",
+            "name": "Hedwig Bleibtreu",
+            "order": 8,
+            "original_name": "Hedwig Bleibtreu",
+            "popularity": 0.4877,
+            "profile_path": "/aPW8uce3ynVXn2W0qKMYwYin4XO.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 12,
+            "character": "Sergeant Paine",
+            "credit_id": "52fe42e7c3a36847f802bacd",
+            "gender": 2,
+            "id": 9874,
+            "known_for_department": "Acting",
+            "name": "Bernard Lee",
+            "order": 9,
+            "original_name": "Bernard Lee",
+            "popularity": 1.0605,
+            "profile_path": "/sOSY7nVivP73ucBk0CBDMvyYDw1.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 15,
+            "character": "Crabbin",
+            "credit_id": "52fe42e7c3a36847f802bad9",
+            "gender": 2,
+            "id": 15387,
+            "known_for_department": "Acting",
+            "name": "Wilfrid Hyde-White",
+            "order": 10,
+            "original_name": "Wilfrid Hyde-White",
+            "popularity": 0.861,
+            "profile_path": "/dqdw6iQgMxHp7v5wdI5a2VI6Rwp.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 31,
+            "character": "Col. Brodsky the Russian Liaison Officer (uncredited)",
+            "credit_id": "5a78193a925141776300cf46",
+            "gender": 2,
+            "id": 1973072,
+            "known_for_department": "Acting",
+            "name": "Alexis Chesnakov",
+            "order": 11,
+            "original_name": "Alexis Chesnakov",
+            "popularity": 0.3253,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 32,
+            "character": "Taxi Driver (uncredited)",
+            "credit_id": "5a781990925141775c00d698",
+            "gender": 2,
+            "id": 136982,
+            "known_for_department": "Acting",
+            "name": "Thomas Gallagher",
+            "order": 12,
+            "original_name": "Thomas Gallagher",
+            "popularity": 0.5192,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 28,
+            "character": "Hänsel the Little Boy with Ball (uncredited)",
+            "credit_id": "556ab378c3a368254b000e71",
+            "gender": 0,
+            "id": 1472415,
+            "known_for_department": "Acting",
+            "name": "Herbert Halbik",
+            "order": 13,
+            "original_name": "Herbert Halbik",
+            "popularity": 0.1037,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 23,
+            "character": "Actress at Josefstadt Theater (uncredited)",
+            "credit_id": "556ab32092514173e0002cf1",
+            "gender": 1,
+            "id": 1472414,
+            "known_for_department": "Acting",
+            "name": "Hannah Norbert",
+            "order": 14,
+            "original_name": "Hannah Norbert",
+            "popularity": 0.0518,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 22,
+            "character": "Waiter at Smolka's (uncredited)",
+            "credit_id": "556ab30c925141672d00070a",
+            "gender": 2,
+            "id": 21609,
+            "known_for_department": "Acting",
+            "name": "Eric Pohlmann",
+            "order": 15,
+            "original_name": "Eric Pohlmann",
+            "popularity": 0.9706,
+            "profile_path": "/qAhphq0SaLBjb82AuVDCZJEapl1.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 21,
+            "character": "UK Version's Opening Narrator (uncredited)",
+            "credit_id": "556ab2f39251415408001cc2",
+            "gender": 2,
+            "id": 15378,
+            "known_for_department": "Directing",
+            "name": "Carol Reed",
+            "order": 16,
+            "original_name": "Carol Reed",
+            "popularity": 1.0805,
+            "profile_path": "/wpoGvHCNPM9hGVTYTOA2sDVqaZ4.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 17,
+            "character": "The Porter's Wife (uncredited)",
+            "credit_id": "52fe42e7c3a36847f802bae1",
+            "gender": 1,
+            "id": 11931,
+            "known_for_department": "Acting",
+            "name": "Annie Rosar",
+            "order": 17,
+            "original_name": "Annie Rosar",
+            "popularity": 0.5045,
+            "profile_path": "/wDCJT9HbTrxXOFcHNBYCvmj3X9J.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 34,
+            "character": "Hansel's Father (uncredited)",
+            "credit_id": "5a781fad925141775c00db57",
+            "gender": 2,
+            "id": 107267,
+            "known_for_department": "Acting",
+            "name": "Frederick Schrecker",
+            "order": 18,
+            "original_name": "Frederick Schrecker",
+            "popularity": 0.1283,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 25,
+            "character": "Waiter (uncredited)",
+            "credit_id": "556ab3489251411a42000c90",
+            "gender": 2,
+            "id": 1332578,
+            "known_for_department": "Acting",
+            "name": "Hugo Schuster",
+            "order": 19,
+            "original_name": "Hugo Schuster",
+            "popularity": 0.2276,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 26,
+            "character": "Actor at Josefstadt Theater (uncredited)",
+            "credit_id": "556ab35b92514173e0002cfd",
+            "gender": 2,
+            "id": 38050,
+            "known_for_department": "Acting",
+            "name": "Karl Stepanek",
+            "order": 20,
+            "original_name": "Karl Stepanek",
+            "popularity": 0.4814,
+            "profile_path": "/7ylkAd2FaALya2t0QCM6M4J9s6M.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 27,
+            "character": "Man on Street (uncredited)",
+            "credit_id": "556ab36ac3a3685489002f5e",
+            "gender": 2,
+            "id": 16413,
+            "known_for_department": "Acting",
+            "name": "Theodore Gottlieb",
+            "order": 21,
+            "original_name": "Theodore Gottlieb",
+            "popularity": 0.5262,
+            "profile_path": "/ptFZedDF5Xt7N61tJeg5wAtZYOP.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 33,
+            "character": "Dr. Winkel's Maid Hilde (uncredited)",
+            "credit_id": "5a781a82925141775c00d781",
+            "gender": 1,
+            "id": 1720155,
+            "known_for_department": "Acting",
+            "name": "Jenny Werner",
+            "order": 22,
+            "original_name": "Jenny Werner",
+            "popularity": 0.0545,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 61,
+            "character": "American Military Policeman(uncredited)",
+            "credit_id": "64e75bf7594c9400acaf7635",
+            "gender": 2,
+            "id": 111845,
+            "known_for_department": "Acting",
+            "name": "Reed De Rouen",
+            "order": 23,
+            "original_name": "Reed De Rouen",
+            "popularity": 0.3243,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 62,
+            "character": "British Military Policeman (uncredited)",
+            "credit_id": "65e3659adb72c0017cf60189",
+            "gender": 2,
+            "id": 10462,
+            "known_for_department": "Acting",
+            "name": "Geoffrey Keen",
+            "order": 24,
+            "original_name": "Geoffrey Keen",
+            "popularity": 0.8711,
+            "profile_path": "/dvxVrI845NAKGGekU95FNcF5ysv.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 63,
+            "character": "Britush Military Policeman in Sewer Chase (uncredited)",
+            "credit_id": "65e365c1a672540185a964fc",
+            "gender": 2,
+            "id": 10513,
+            "known_for_department": "Acting",
+            "name": "Robert Brown",
+            "order": 25,
+            "original_name": "Robert Brown",
+            "popularity": 0.9108,
+            "profile_path": "/zSWXxFXi5nAcZK6AzmVPY4nHvMB.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 67,
+            "character": "International Patrol D (uncredited)",
+            "credit_id": "69cf95d6132e44bf5359ffe2",
+            "gender": 2,
+            "id": 109848,
+            "known_for_department": "Acting",
+            "name": "Paul Carpenter",
+            "order": 26,
+            "original_name": "Paul Carpenter",
+            "popularity": 0.829,
+            "profile_path": "/rUbfbyaet0CpEBHU9u63lsrcaq9.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "52fe42e7c3a36847f802baa7",
+            "department": "Production",
+            "gender": 2,
+            "id": 15378,
+            "job": "Producer",
+            "known_for_department": "Directing",
+            "name": "Carol Reed",
+            "original_name": "Carol Reed",
+            "popularity": 1.0805,
+            "profile_path": "/wpoGvHCNPM9hGVTYTOA2sDVqaZ4.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe42e7c3a36847f802bab3",
+            "department": "Camera",
+            "gender": 2,
+            "id": 12720,
+            "job": "Director of Photography",
+            "known_for_department": "Camera",
+            "name": "Robert Krasker",
+            "original_name": "Robert Krasker",
+            "popularity": 0.2009,
+            "profile_path": "/h7HmJjV9KKt5YMa8qWx3a83I3P7.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe42e7c3a36847f802baad",
+            "department": "Sound",
+            "gender": 2,
+            "id": 15383,
+            "job": "Original Music Composer",
+            "known_for_department": "Sound",
+            "name": "Anton Karas",
+            "original_name": "Anton Karas",
+            "popularity": 0.0427,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe42e7c3a36847f802ba9b",
+            "department": "Writing",
+            "gender": 2,
+            "id": 15379,
+            "job": "Screenplay",
+            "known_for_department": "Writing",
+            "name": "Graham Greene",
+            "original_name": "Graham Greene",
+            "popularity": 1.1707,
+            "profile_path": "/gNLyIPcvh7MlKXFBSzviMFtMBQj.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe42e7c3a36847f802ba95",
+            "department": "Directing",
+            "gender": 2,
+            "id": 15378,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Carol Reed",
+            "original_name": "Carol Reed",
+            "popularity": 1.0805,
+            "profile_path": "/wpoGvHCNPM9hGVTYTOA2sDVqaZ4.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe42e7c3a36847f802bab9",
+            "department": "Editing",
+            "gender": 2,
+            "id": 15384,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "Oswald Hafenrichter",
+            "original_name": "Oswald Hafenrichter",
+            "popularity": 0.244,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "53934f3dc3a36864340019b8",
+            "department": "Camera",
+            "gender": 2,
+            "id": 30670,
+            "job": "Additional Photography",
+            "known_for_department": "Camera",
+            "name": "John Wilcox",
+            "original_name": "John Wilcox",
+            "popularity": 0.1208,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "66293e673780620165da79a2",
+            "department": "Production",
+            "gender": 2,
+            "id": 2490,
+            "job": "Executive Producer",
+            "known_for_department": "Production",
+            "name": "Alexander Korda",
+            "original_name": "Alexander Korda",
+            "popularity": 0.5531,
+            "profile_path": "/etqG9tufDO5Lee6tjsQVkRCMgAf.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "66293e7039549a018901aaba",
+            "department": "Production",
+            "gender": 2,
+            "id": 3248,
+            "job": "Executive Producer",
+            "known_for_department": "Production",
+            "name": "David O. Selznick",
+            "original_name": "David O. Selznick",
+            "popularity": 0.4569,
+            "profile_path": "/7BAijrUZxGv9vF5jXh0yUxbDHMP.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5aef46e1925141768f006aef",
+            "department": "Production",
+            "gender": 2,
+            "id": 15382,
+            "job": "Associate Producer",
+            "known_for_department": "Production",
+            "name": "Hugh Perceval",
+            "original_name": "Hugh Perceval",
+            "popularity": 0.2702,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5aef482d0e0a261d7200712e",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 14748,
+            "job": "Makeup Artist",
+            "known_for_department": "Costume & Make-Up",
+            "name": "George Frost",
+            "original_name": "George Frost",
+            "popularity": 0.1506,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5aef4a6ec3a368141b00a05a",
+            "department": "Sound",
+            "gender": 0,
+            "id": 2037560,
+            "job": "Sound Editor",
+            "known_for_department": "Sound",
+            "name": "Jack Drake",
+            "original_name": "Jack Drake",
+            "popularity": 0.0564,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5aef49419251417629005505",
+            "department": "Production",
+            "gender": 0,
+            "id": 1649801,
+            "job": "Production Manager",
+            "known_for_department": "Production",
+            "name": "T.S. Lyndon-Haynes",
+            "original_name": "T.S. Lyndon-Haynes",
+            "popularity": 0.1645,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5aef4a89925141763e0084b9",
+            "department": "Sound",
+            "gender": 0,
+            "id": 20139,
+            "job": "Sound Recordist",
+            "known_for_department": "Sound",
+            "name": "Red Law",
+            "original_name": "Red Law",
+            "popularity": 0.2206,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5aef4af40e0a261d8c0080b9",
+            "department": "Costume & Make-Up",
+            "gender": 1,
+            "id": 1582136,
+            "job": "Wardrobe Supervisor",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Ivy Baker",
+            "original_name": "Ivy Baker",
+            "popularity": 0.1815,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5aef4ac39251417664005a05",
+            "department": "Sound",
+            "gender": 2,
+            "id": 108814,
+            "job": "Sound Recordist",
+            "known_for_department": "Sound",
+            "name": "Bert Ross",
+            "original_name": "Bert Ross",
+            "popularity": 0.2758,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5aef4c110e0a261d8600824e",
+            "department": "Art",
+            "gender": 2,
+            "id": 33261,
+            "job": "Set Designer",
+            "known_for_department": "Art",
+            "name": "Vincent Korda",
+            "original_name": "Vincent Korda",
+            "popularity": 0.3009,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5bdff4190e0a26058d0393f2",
+            "department": "Crew",
+            "gender": 0,
+            "id": 2168614,
+            "job": "Editorial Staff",
+            "known_for_department": "Editing",
+            "name": "Noreen Best",
+            "original_name": "Noreen Best",
+            "popularity": 0.0363,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5d1222900e0a2637c2cb9e38",
+            "department": "Directing",
+            "gender": 2,
+            "id": 2344990,
+            "job": "Third Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Jack N. Green",
+            "original_name": "Jack N. Green",
+            "popularity": 0.1498,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5d136b119251416e14b84313",
+            "department": "Directing",
+            "gender": 1,
+            "id": 2345011,
+            "job": "Continuity",
+            "known_for_department": "Directing",
+            "name": "Peggy McClafferty",
+            "original_name": "Peggy McClafferty",
+            "popularity": 0.1106,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5e9369e354508d001317177b",
+            "department": "Art",
+            "gender": 2,
+            "id": 158274,
+            "job": "Assistant Set Designer",
+            "known_for_department": "Writing",
+            "name": "John Hawkesworth",
+            "original_name": "John Hawkesworth",
+            "popularity": 0.6799,
+            "profile_path": "/7IivbC2Wm4ImJb782In6ubcuEqp.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5e936b7fccb15f061c6eaa6c",
+            "department": "Crew",
+            "gender": 1,
+            "id": 108822,
+            "job": "Technical Advisor",
+            "known_for_department": "Writing",
+            "name": "Elizabeth Montagu",
+            "original_name": "Elizabeth Montagu",
+            "popularity": 0.1596,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5e936a68cedac40016eb652d",
+            "department": "Directing",
+            "gender": 2,
+            "id": 9915,
+            "job": "Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Guy Hamilton",
+            "original_name": "Guy Hamilton",
+            "popularity": 0.7563,
+            "profile_path": "/xXRi72ziu0jE6g3k37mxzk4E2oD.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5e9369ef84448e001490bd33",
+            "department": "Art",
+            "gender": 2,
+            "id": 958944,
+            "job": "Assistant Set Designer",
+            "known_for_department": "Art",
+            "name": "Joseph Bato",
+            "original_name": "Joseph Bato",
+            "popularity": 0.1046,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5e936b127a97ab00140d93fa",
+            "department": "Camera",
+            "gender": 2,
+            "id": 31292,
+            "job": "Additional Photography",
+            "known_for_department": "Camera",
+            "name": "Stanley Pavey",
+            "original_name": "Stanley Pavey",
+            "popularity": 0.1896,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5e936aa954508d0015171910",
+            "department": "Camera",
+            "gender": 2,
+            "id": 21783,
+            "job": "Camera Operator",
+            "known_for_department": "Camera",
+            "name": "Edward Scaife",
+            "original_name": "Edward Scaife",
+            "popularity": 0.1539,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5e936b452cde980021c463da",
+            "department": "Art",
+            "gender": 0,
+            "id": 1604162,
+            "job": "Assistant Art Director",
+            "known_for_department": "Art",
+            "name": "James Sawyer",
+            "original_name": "James Sawyer",
+            "popularity": 0.0569,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5e936c4384448e001a90940e",
+            "department": "Editing",
+            "gender": 2,
+            "id": 93959,
+            "job": "Assistant Editor",
+            "known_for_department": "Editing",
+            "name": "Peter Taylor",
+            "original_name": "Peter Taylor",
+            "popularity": 0.1418,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5e936a2e875d1a0014445806",
+            "department": "Sound",
+            "gender": 2,
+            "id": 15383,
+            "job": "Musician",
+            "known_for_department": "Sound",
+            "name": "Anton Karas",
+            "original_name": "Anton Karas",
+            "popularity": 0.0427,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5e936bc0ca4f67001a80eaf8",
+            "department": "Sound",
+            "gender": 2,
+            "id": 12246,
+            "job": "Sound Supervisor",
+            "known_for_department": "Sound",
+            "name": "John Cox",
+            "original_name": "John Cox",
+            "popularity": 0.2064,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5e936abe8e87020014ccf2d8",
+            "department": "Camera",
+            "gender": 2,
+            "id": 20105,
+            "job": "Camera Operator",
+            "known_for_department": "Camera",
+            "name": "Denys N. Coop",
+            "original_name": "Denys N. Coop",
+            "popularity": 0.2027,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5e936b3384448e001490be34",
+            "department": "Art",
+            "gender": 2,
+            "id": 1411156,
+            "job": "Assistant Art Director",
+            "known_for_department": "Art",
+            "name": "Ferdinand Bellan",
+            "original_name": "Ferdinand Bellan",
+            "popularity": 0.2153,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5e936caaccb15f061c6eab79",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 2037555,
+            "job": "Hairdresser",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Joe Shear",
+            "original_name": "Joe Shear",
+            "popularity": 0.0962,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "676ffa368258294bb8618956",
+            "department": "Writing",
+            "gender": 2,
+            "id": 15379,
+            "job": "Book",
+            "known_for_department": "Writing",
+            "name": "Graham Greene",
+            "original_name": "Graham Greene",
+            "popularity": 1.1707,
+            "profile_path": "/gNLyIPcvh7MlKXFBSzviMFtMBQj.jpg"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 9648,
+          "name": "Mistero"
+        }
+      ],
+      "homepage": "",
+      "id": 1092,
+      "imdb_id": "tt0041959",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_title": "The Third Man",
+      "overview": "Nel 1946 in una Vienna devastata dalla guerra e divisa in quattro zone di occupazione, lo scrittore americano di western Holly Martins (Cotten) assiste ai funerali dell'amico Harry Lime (Welles), ma è veramente morto? Inseguimento finale nelle fogne della città.",
+      "popularity": 4.142,
+      "poster_path": "/oVXG2WI7EgTyJ2zhFbUaj50SkhH.jpg",
+      "production_companies": [
+        {
+          "id": 659,
+          "logo_path": null,
+          "name": "London Films Productions",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "release_date": "1949-08-31",
+      "revenue": 1226098,
+      "runtime": 104,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        },
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Il terzo uomo",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "In postwar Vienna, Austria, Holly Martins, a writer of pulp Westerns, arrives penniless as a guest of his childhood chum Harry Lime, only to learn he has died. Martins develops a conspiracy theory after learning of a \"third man\" present at the time of Harry's death, running into interference from British officer Major Calloway, and falling head-over-heels for Harry's grief-stricken lover, Anna.",
+              "runtime": 105,
+              "tagline": "Hunted by men ... Sought by WOMEN!",
+              "title": ""
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Wien, 1948: Der amerikanische Schriftsteller Holly Martins will in der besetzten Stadt seinen alten Freund Harry Lime besuchen. Bei seiner Ankunft erfährt er jedoch, dass Lime bei einem mysteriösen Verkehrsunfall ums Leben gekommen ist. Die preisgekrönte Graham-Greene-Verfilmung gehört nicht nur dank der weltberühmten Zither-Musik von Anton Karas zu den legendärsten Werken der Filmgeschichte.",
+              "runtime": 104,
+              "tagline": "",
+              "title": "Der dritte Mann"
+            },
+            "english_name": "German",
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Kioskikirjailija Holly Martens saapuu Wieniin tapaamaan vanhaa ystäväänsä Harry Limea. Järkytys on suuri, kun Holly kuulee ystävänsä kuolleen. Suru vaihtuu tuohtumukseksi, kun viranomaiset vihjaavat Harryn olleen rikollinen. Holly päättää puhdistaa ystävänsä maineen. Graham Greenen kirjoittama jännäri rakentaa kiehtovasti sodanjälkeisen Wienin tunnelmaa. Oudot kuvakulmat ja Anton Karasin sitra-tunnari jäävät mieleen.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Kolmas mies"
+            },
+            "english_name": "Finnish",
+            "iso_3166_1": "FI",
+            "iso_639_1": "fi",
+            "name": "suomi"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Orson Welles es Harry Lime y Joseph Cotten actúa como su amigo de la infancia, Holly Martins, en este clásico thriller de Graham Greene, dirigido por Carol Reed. Martins busca a Lime en la caótica postguerra de Viena, y se encuentra así mismo metido en un entorno de amores, decepción y asesinatos.",
+              "runtime": 104,
+              "tagline": "Cazado por hombres ... Buscado por MUJERES!",
+              "title": "El tercer hombre"
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Nel 1946 in una Vienna devastata dalla guerra e divisa in quattro zone di occupazione, lo scrittore americano di western Holly Martins (Cotten) assiste ai funerali dell'amico Harry Lime (Welles), ma è veramente morto? Inseguimento finale nelle fogne della città.",
+              "runtime": 104,
+              "tagline": "",
+              "title": "Il terzo uomo"
+            },
+            "english_name": "Italian",
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Au lendemain de la Seconde Guerre mondiale. Invité par son ami Harry Lime, le romancier américain Holly Martins se rend à Vienne, divisée en quatre zones d'occupation. Tout juste arrivé, il apprend que Lime vient de perdre la vie dans un accident de la circulation et qu'on l'enterre ce jour même. L'écrivain n'est pas au bout de ses surprises. Au cimetière, il est abordé par le major Calloway, pour qui Lime n'était qu'un vulgaire trafiquant, une crapule. Choqué, Martins décide de mener une enquête sur le défunt. Il fait bientôt la connaissance du mystérieux baron Kurtz, l'un des deux témoins de l'accident, l'autre étant un Roumain du nom de Popescu… Palme d'Or 1949.",
+              "runtime": 104,
+              "tagline": "Rien ne l'a préparé à ce qu'il va découvrir…",
+              "title": "Le Troisième Homme"
+            },
+            "english_name": "French",
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Холли Мартинс, автор бульварных романов, в надежде получить работу приезжает в послевоенную Вену по приглашению старинного приятеля Гарри Лайма. Увы, буквально накануне тот погиб в результате несчастного случая. По мнению полицейского Кэллоуэя, Лайм был темной личностью, рэкетиром и спекулянтом. Мартинс решает провести собственное расследование, чтобы снять с друга обвинения в преступлениях, которые, как он уверен, тот не совершал. Более того, Мартинс уверен, что его друг был убит, а его убийца где-то рядом...",
+              "runtime": 104,
+              "tagline": "",
+              "title": "Третий человек"
+            },
+            "english_name": "Russian",
+            "iso_3166_1": "RU",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "低俗小说作家霍利·马丁斯来到阴影笼罩的战后维也纳，却发现自己竟开始调查一位老友——黑市投机者哈里·莱姆的神秘死亡。一段关于爱情、欺骗与谋杀的传奇由此展开。得益于约瑟夫·科顿、阿莉达·瓦利与奥逊·威尔斯的精湛表演，安东·卡拉斯那令人魂牵梦萦的齐特琴配乐，格雷厄姆·格林如刀锋般锐利的对白，以及罗伯特·克拉斯克对光影极具张力的运用，卡罗尔·里德执导的这部影片历经岁月洗礼，愈显其不朽地位。",
+              "runtime": 0,
+              "tagline": "被男人追杀……受女人追捧！",
+              "title": "第三人"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Andenrangsforfatteren Holly Martins kommer til Wien umiddelbart efter anden verdenskrig, hvor han er blevet lovet et job af sin gamle ven Harry Lime. Ved ankomsten får han at vide at Lime er død, og at han var en svindler og morder. Martins er først oprørt over anklagen, men finder snart ud af, at vennen afgjort var kriminel, men også at han ikke er død. Herefter venter den endelige konfrontation mellem den retskafne Martins og hans tidligere ven.",
+              "runtime": 105,
+              "tagline": "Jaget af mænd. Eftertragtet af kvinder.",
+              "title": "Den tredje mand"
+            },
+            "english_name": "Danish",
+            "iso_3166_1": "DK",
+            "iso_639_1": "da",
+            "name": "Dansk"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Bécs közvetlenül a második világháború befejezését követően. Romok, leszerelő katonák, élelem- és áruhiány, feketepiac, közigazgatási székekben a négy szövetségi hatalom képviselői ülnek. Egyszóval káosz. A fiatal amerikai író itt akar találkozni barátjával, aki munkát ígér neki. Az illető azonban egy baleset következtében meghalt, így a férfi már csak a temetését nézheti végig. Lehetetlen helyzetében barátaihoz fordul, akik különböző történeteket mondanak el a tragédiáról, s gyanút ébresztenek benne: lehet, hogy barátját valójában meggyilkolták...",
+              "runtime": 108,
+              "tagline": "",
+              "title": "A harmadik ember"
+            },
+            "english_name": "Hungarian",
+            "iso_3166_1": "HU",
+            "iso_639_1": "hu",
+            "name": "Magyar"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Ucuz western romanları yazan Holly Martins (Joseph Cotten), kendisine iş teklif eden dostunu görmek üzere savaş-sonrası Viyanasına gelir. Ancak arkadaşının öldürüldüğünü öğrenir ve bir anda kendisini cinayet soruşturmasının içinde bulur...  Olayı gören kişilerle konuşan ve dostunun tanıdıklarına olay anını anlattıran Martins, bir süre sonra olayda bir \"üçüncü adam\" olduğunun farkına varır.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Üçüncü Adam"
+            },
+            "english_name": "Turkish",
+            "iso_3166_1": "TR",
+            "iso_639_1": "tr",
+            "name": "Türkçe"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "\"O Terceiro Homem\" fez sucesso no pós-guerra e recebeu a Palma de Ouro em Cannes, além do Óscar de Melhor Fotografia. Em poucos anos, tornou-se uma obra reverenciada pelos cinéfilos.\r Um escritor americano chega na Viena pós segunda guerra e descobre que o amigo que iria encontrá lo foi morto sobre circunstâncias misteriosas. Ao investigar o que de fato aconteceu, ele descobre uma trama que envolve o mercado negro de armas, espionagem internacional e uma sedutora jovem.",
+              "runtime": 104,
+              "tagline": "Você nunca viu ninguém como ele",
+              "title": "O Terceiro Homem"
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "PT",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Čím byli pro americký film noir autoři tzv. drsné školy Raymond Chandler, James M. Cain a Dashiell Hammett, tím byl pro tradici britského kriminálního filmu Graham Greene. Právě podle jeho románu (v tom prvním případě) a na základě jeho původního scénáře (v případě druhém) byly natočeny nejvýznamnější „britské noiry\" Brightonský špalek a Třetí muž. Druhý jmenovaný titul vznikl v rámci Greenovy spolupráce s uznávaným britským režisérem Carolem Reedem. Film má ale mnohem kosmopolitnější ráz – odehrává se v poválečné Vídni, produkčně se na něm podílel Američan David O. Selznick a do ústředních rolí byli obsazeni jeho krajané Joseph Cotten a Orson Welles. Kafkovský příběh zasazený do kulis rozbořené rakouské metropole zdobí Oscarem oceněná kamera Roberta Kraskera a nezapomenutelný hudební doprovod Antona Karase.  Noir Film Festival",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Třetí muž"
+            },
+            "english_name": "Czech",
+            "iso_3166_1": "CZ",
+            "iso_639_1": "cs",
+            "name": "Český"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Ένας συγγραφέας λαϊκών μυθιστορημάτων γουέστερν καταφθάνει στην κατεστραμμένη Βιέννη μετά το τέλος του Β’ Παγκοσμίου Πολέμου, ύστερα από πρόσκληση ενός παλιού του φίλου, του Χάρι Λάιμ. Όταν όμως φτάνει εκεί τον περιμένει μια δυσάρεστη έκπληξη: ο Λάιμ έχει ήδη πεθάνει σε αυτοκινητιστικό ατύχημα. Και ενώ είναι έτοιμος να φύγει πάλι πίσω στην Αμερική, αρχίζει να υποψιάζεται ότι ο θάνατος του Χάρι μπορεί και να μην ήταν τόσο ατύχημα. Υπήρχε «τρίτος άνθρωπος» στο χώρο του δυστυχήματος;",
+              "runtime": 104,
+              "tagline": "",
+              "title": "Ο Τρίτος Άνθρωπος"
+            },
+            "english_name": "Greek",
+            "iso_3166_1": "GR",
+            "iso_639_1": "el",
+            "name": "ελληνικά"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Een Amerikaanse pulpschrijver arriveert in post-WWII Wenen waar hij ontdekt dat de vriend die op hem wachtte onder mysterieuze omstandigheden is gedood. Het daarop volgende mysterie verwikkelt hem in zijn vriend's betrokkenheid bij de zwarte markt, de internationale politie en zijn Tjechische vriendin.",
+              "runtime": 100,
+              "tagline": "Opgejaagd door mannen... Gezoucht door VROUWEN!",
+              "title": ""
+            },
+            "english_name": "Dutch",
+            "iso_3166_1": "NL",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Kioskromanförfattaren Holly Martins anländer till efterkrigstidens Wien för att hälsa på sin gamle vän Harry Lime men möts av beskedet att denne omkommit i en mystisk bilolycka. Han fångas upp i en väv av kärlek, svek, olagligheter och mord och finner sig snart jaga sin barndomsväns spöke genom Wiens trånga gränder och mörka kloaksystem på jakt efter sanningen.",
+              "runtime": 104,
+              "tagline": "",
+              "title": "Den tredje mannen"
+            },
+            "english_name": "Swedish",
+            "iso_3166_1": "SE",
+            "iso_639_1": "sv",
+            "name": "svenska"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "מבקרים רבים מאמינים ש\"האדם השלישי\" הוא סרט הפילם נואר הטוב ביותר שנעשה באירופה. יש לו הכל: עלילה מרתקת ורבת פיתולים שנכתבה בידי גרהאם גרין, דמות של אחד הנבלים השפלים והכריזמטים בתולדות הקולנוע, בימוי מיומן ועתיר המצאות, פס-קול בלתי נשכח, וצילום שממצה את כל הקסם של המדיום. השילוב של הישג אמנותי וסרט פופולרי הוא שהופך את \"האדם השלישי\" ליצירת מופת. הולי מרטין, סופר מערבונים אמריקאי, מגיע לוינה של אחרי מלה\"ע ה-2 כדי לעבוד עם ידידו הארי ליים. עם בואו הוא מגלה שהארי נהרג בתאונת דרכים, אבל הולי משוכנע שיש כאן משהו חשוד ופותח בחקירה. הוא מתחיל את הסרט כאדם תמים ונאיבי, עד סוף הסיפור הוא ילמד מעט על טיבם של ידידות, נאמנות וצדק.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "האדם השלישי"
+            },
+            "english_name": "Hebrew",
+            "iso_3166_1": "IL",
+            "iso_639_1": "he",
+            "name": "עִבְרִית"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Holly Martins, scriitor american de romane de duzină, ajunge în Viena devastată de al Doilea Război Mondial, în căutarea vechiului său prieten Harry Lime. El descoperă că Harry a murit, călcat de o maşină, şi începe să investigheze de unul singur, hotărât să-i demaşte pe asasinii prietenului său. Între timp, Holly o întâlneşte pe iubita lui Harry, Anna şi povestea devine din ce în ce mai complicată.",
+              "runtime": 104,
+              "tagline": "Vânat de bărbați... Căutat de femei!",
+              "title": "Al treilea om"
+            },
+            "english_name": "Romanian",
+            "iso_3166_1": "RO",
+            "iso_639_1": "ro",
+            "name": "Română"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "2차 대전 직후 미국의 소설가 홀리 마틴스는 친구 해리의 연락을 받고 빈에 도착한다. 그를 반긴 것은 해리가 교통사고로 죽었다는 소식. 홀리는 친구의 애인 안나를 만나고 해리가 가짜 페니실린을 밀매했다는 혐의로 연합군의 추적을 받아왔음을 알게 된다. 친구의 죽음을 의심하던 홀리 앞에 홀연히 나타나는 해리. 홀리는 가짜 페니실린으로 고통받는 사람들을 접하고 해리를 체포하려는 칼로웨이 소령에게 협조하기로 결심한다.  그레이엄 그린의 원작 소설을 영화로 만든 작품.",
+              "runtime": 104,
+              "tagline": "",
+              "title": "제3의 사나이"
+            },
+            "english_name": "Korean",
+            "iso_3166_1": "KR",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Um escritor americano chega na Viena pós segunda guerra e descobre que o amigo que iria encontrá lo foi morto sobre circunstâncias misteriosas. Ao investigar o que de fato aconteceu, ele descobre uma trama que envolve o mercado negro de armas, espionagem internacional e uma sedutora jovem.",
+              "runtime": 104,
+              "tagline": "Você nunca viu ninguém como ele",
+              "title": "O 3º Homem"
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Wiedeń tuż po wojnie. Amerykański pisarz Holly Martins przyjeżdża do tego podzielonego na cztery strefy okupacyjne, zniszczonego miasta zaproszony przez swojego przyjaciela. Okazuje się jednak, że ten nie żyje. Został potrącony przez ciężarówkę. Okoliczności wypadku są dość niejasne. Pisarz, autor powieści kowbojskich, próbuje zgłębić tajemnicę śmierci przyjaciela. W pewnym momencie stwierdza, że jest obserwowany...",
+              "runtime": 104,
+              "tagline": "",
+              "title": "Trzeci człowiek"
+            },
+            "english_name": "Polish",
+            "iso_3166_1": "PL",
+            "iso_639_1": "pl",
+            "name": "Polski"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "映画史に燦然と輝く名作として知られるキャロル・リード監督の傑作サスペンス。第2次大戦後のウィーンを舞台に、謎の死を遂げた友人の真相究明に奔走する男の姿を描く。  第2次大戦後のウィーンに、アメリカから友人ハリーを訪ねてやってきた作家ホリーは到着早々、ハリーが事故で死んだと知らされる。不審に思ったホリーは、事件の真相究明を決意。事故現場にいた3人のうち、身元の確認がとれない“第三の男”とは…。  イギリスの作家グレアム・グリーンの原作・脚本を、名匠キャロル・リード監督が光と影を効果的に使った映像美で描いた不滅の名作。アカデミー撮影賞、カンヌ映画祭グランプリ受賞。",
+              "runtime": 105,
+              "tagline": "たちきれぬ愛の想いを胸に秘め、あのメロディと共に絢爛と甦える映画史上ベストワンの名作!",
+              "title": "第三の男"
+            },
+            "english_name": "Japanese",
+            "iso_3166_1": "JP",
+            "iso_639_1": "ja",
+            "name": "日本語"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Дія фільму відбувається у другій половині 1940-х років в напівзруйнованому післявоєнному Відні. Місто поділено на чотири зони окупації: Американський, Англійська, Радянський та Французький сектори, а центр міста, так звана, «Міжнародна зона», управляється усіма чотирма союзниками спільно. У місті, внаслідок нестачі практично будь-якого товару, процвітає чорний ринок, і орудують банди.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Третя людина"
+            },
+            "english_name": "Ukrainian",
+            "iso_3166_1": "UA",
+            "iso_639_1": "uk",
+            "name": "Український"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "奧斯卡金獎導演卡羅李德（Carol Reed）執導經典黑色電影，英國知名作家葛拉罕葛林（Graham Green）編劇，奧森威爾斯（Orson Welles）、約瑟夫考登（Joseph Cotten）、艾莉達瓦利（Alida Valli）參與演出。獲1951年奧斯卡最佳黑白片攝影獎。以二次大戰後的維也納為背景，描寫一位神秘人物的撲朔迷離故事。 二次大戰後，失業的美國通俗小說家何利馬丁到維也納投靠一名黑市投機客老友哈利連，抵達時他發現哈利已經慘遭殺害。然而，在一個偶然的場合，他竟然看見哈利連的身影…詢問哈利的友人，何利越覺得他的死因並不單純，於是決定展開調查。第三人，第三個人，The Third Man",
+              "runtime": 0,
+              "tagline": "",
+              "title": "黑獄亡魂"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "TW",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Kriminálny triler nakrútený na motívy románu Grahama Greena. Úspešný autor rodokapsov v ňom prichádza do povojnovej Viedne (nakrúcalo sa v reáloch) za svojím priateľom zo školy. Ten však umrel pri autonehode. Záhadný „tretí muž“ sa ponúkne, že mu objasní priateľovu smrť.",
+              "runtime": 105,
+              "tagline": "",
+              "title": "Tretí muž"
+            },
+            "english_name": "Slovak",
+            "iso_3166_1": "SK",
+            "iso_639_1": "sk",
+            "name": "Slovenčina"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Следвоенна Виена е опустошен и призрачен град, просмукан от страх, цинизъм и корупция. В него пристига наивният и алкохолизиран американец, автор на пълп-уестърни Холи Мартинс. Той идва при стария си приятел от колежа Хари Лайм, който, оказва се, е загинал предишния ден при пътен инцидент.",
+              "runtime": 105,
+              "tagline": "",
+              "title": "Третият човек"
+            },
+            "english_name": "Bulgarian",
+            "iso_3166_1": "BG",
+            "iso_639_1": "bg",
+            "name": "български език"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Comienzos de la Guerra Fría, en Viena, 1947. El norteamericano Holly Martins, un mediocre escritor de novelas del Oeste, llega a la capital austríaca cuando la ciudad está dividida en cuatro zonas ocupadas por los estados aliados de la II Guerra Mundial. Holly va a visitar a Harry Lime, un amigo de la infancia que le ha prometido trabajo. Pero su llegada coincide con el entierro de Harry, que ha muerto atropellado por un coche en plena calle. El jefe de la policía militar británica le hace saber a Martins que Lime estaba gravemente implicado en el mercado negro. Pero a Martins no le cuadra un detalle: todos dicen haber visto a dos hombres en el lugar del atropello intentando ayudar a Lime, pero un testigo asegura haber visto a un tercer hombre... Adaptación de la novela homónima de Graham Greene.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "El tercer hombre"
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "MX",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Bedarbis bulvarinių skaitalų rašytojas Holly Martinsas atvyksta į pokario Vieną, karą laimėjusių sąjungininkų suskirstytą į sektorius. Ten atsargų trūkumas išaukštino juodosios rinkos klestėjimą. Jis atvyksta pakviestas buvusio mokyklos draugo Hario Laimo, kuris jam pasiūlė darbą, tačiau sužino, kad Laimas neseniai žuvo eismo įvykyje. Kalbėdamasis su Laimo draugais ir bendraminčiais, Martinsas netrukus pastebi, kad kai kurios istorijos nenuoseklios, ir nusprendžia sužinoti, kas iš tikrųjų nutiko Hariui Laimui.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Trečiasis asmuo"
+            },
+            "english_name": "Lithuanian",
+            "iso_3166_1": "LT",
+            "iso_639_1": "lt",
+            "name": "Lietuvių"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "هالی مارتینز یک رمان نویس داستان های تخیلی است که صاحب منصبی در جنگ وین که توسط متحدان پیروز، به چند بخش تقسیم شده است می شود؛ جایی که کمبود مواد غذایی سبب رونق بازار سیاه شده است. او به دعوت دوست سابق مدرسه ی خود، هری لایم، این کار را می پذیرد اما چندی بعد می فهمد که دوستش در یک حادثه ی عجیب کشته شده است. پس از صحبت با دوستان و همکاران لایم متوجه وجود تضادهایی در حرف های آنان شده و مصمم می شود که کشف کند واقعا چه اتفاقی برای لایم افتاده است.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "مرد سوم"
+            },
+            "english_name": "Persian",
+            "iso_3166_1": "IR",
+            "iso_639_1": "fa",
+            "name": "فارسی"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "في فيينا بعد الحرب ، بالنمسا ، وصلت هولي مارتينز ، وهي كاتبة من لب الغرب ، مفلسة كضيف على صديق طفولته هاري لايم ، لتعلم فقط أنه مات. يطور مارتينز نظرية مؤامرة بعد أن علم بوجود \"رجل ثالث\" وقت وفاة هاري ، وواجه تدخل من الضابط البريطاني الرائد كالواي ، وسقط في أعقاب آنا ، حبيبة هاري المنكوبة بالحزن.",
+              "runtime": 0,
+              "tagline": "مطارد من قبل الرجال ... سعت من قبل النساء!",
+              "title": ""
+            },
+            "english_name": "Arabic",
+            "iso_3166_1": "SA",
+            "iso_639_1": "ar",
+            "name": "العربية"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "En el període de postguerra, un escriptor estatunidenc de novel·les barates anomenat Holly Martins (Joseph Cotten) arriba a Viena, ocupada per les quatre potències aliades, on descobreix que el seu millor amic Harry Lime (Orson Welles) ha mort en un estrany accident de trànsit. El cap de la policia militar britànica li insinua que el seu amic s'havia barrejat en la trama del mercat negre de penicil·lina, per la qual cosa Holly intentarà esbrinar què s'amaga realment darrere de la mort del seu amic.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "El tercer home"
+            },
+            "english_name": "Catalan",
+            "iso_3166_1": "ES",
+            "iso_639_1": "ca",
+            "name": "Català"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Vietnamese",
+            "iso_3166_1": "VN",
+            "iso_639_1": "vi",
+            "name": "Tiếng Việt"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "ในกรุงเวียนนา ประเทศออสเตรีย หลังสงคราม ฮอลลี่ มาร์ตินส์ นักเขียนนิยายแนวตะวันตก เดินทางมาพร้อมกับแฮรี่ ไลม์ เพื่อนสมัยเด็กของเขาโดยไม่มีเงินติดตัว แต่กลับพบว่าเขาเสียชีวิตไปแล้ว มาร์ตินส์คิดทฤษฎีสมคบคิดขึ้นมาหลังจากได้รู้ว่ามี \"บุคคลที่สาม\" อยู่ในเหตุการณ์ที่แฮรี่เสียชีวิต ซึ่งทำให้แฮรี่ต้องพบกับการแทรกแซงจากพันตรีคาลโลเวย์ นายทหารอังกฤษ และตกหลุมรักแอนนา คนรักของแฮรี่ที่กำลังโศกเศร้าเสียใจอย่างหัวปักหัวปำ",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Thai",
+            "iso_3166_1": "TH",
+            "iso_639_1": "th",
+            "name": "ภาษาไทย"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Američki pisac vestern romana Holly Martins stiže u poslijeratni Beč, podijeljen na četiri okupacijske zone, na poziv svog prijatelja Harryja Limea, koji mu je obećao posao. No, po dolasku saznaje da je Harry poginuo u sumnjivoj prometnoj nesreći. Martins, sumnjajući u službenu verziju, počinje istraživati Harryjevu smrt, susrećući se s njegovim poznanicima i otkrivajući mračnu mrežu ilegalne trgovine lijekovima. U potrazi za istinom, Martins se upleće u opasnu igru mačke i miša, suočavajući se s korupcijom, izdajom i moralnim dilemama u razorenom gradu.",
+              "runtime": 0,
+              "tagline": "U sjeni porušenog Beča, istina ima tri lica.",
+              "title": "Treći čovjek"
+            },
+            "english_name": "Croatian",
+            "iso_3166_1": "HR",
+            "iso_639_1": "hr",
+            "name": "Hrvatski"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "奧斯卡金獎導演卡羅李德（Carol Reed）執導經典黑色電影，英國知名作家葛拉罕葛林（Graham Green）編劇，奧森威爾斯（Orson Welles）、約瑟夫考登（Joseph Cotten）、艾莉達瓦利（Alida Valli）參與演出。獲 1951 年奧斯卡最佳黑白片攝影獎。以二次大戰後的維也納為背景，描寫一位神秘人物的撲朔迷離故事。 二次大戰後，失業的美國通俗小説家何利馬丁到維也納投靠一名黑市投機客老友哈利連，抵達時他發現哈利已經慘遭殺害。然而，在一個偶然的場合，他竟然看見哈利連的身影…詢問哈利的友人，何利越覺得他的死因並不單純，於是決定展開調查。第三人，第三個人，The Third Man",
+              "runtime": 105,
+              "tagline": "",
+              "title": "黑獄亡魂"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "HK",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Sõjajärgsesse Viini saabub ammuse sõbra kutsel ameerika pulp-kirjanik Holly Martins. Kohale jõudes selgub aga, et kutse läkitanud Harry Lime on liiklusõnnetuses hukkunud. Et õnnetuse asjaolud kahtlased tunduvad ning asjaosaliste ütlused kuidagi kokku ei kõla, otsustab Martins selguse saamiseks Viini jääda.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Kolmas mees"
+            },
+            "english_name": "Estonian",
+            "iso_3166_1": "EE",
+            "iso_639_1": "et",
+            "name": "Eesti"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "I etterkrigstidens Wien i Østerrike ankommer Holly Martins, en forfatter av pulp-western, pengeløs som gjest hos barndomskameraten Harry Lime, bare for å få vite at han er død. Martins utvikler en konspirasjonsteori etter å ha fått vite om en «tredje mann» som var til stede da Harry døde, støter på innblanding fra den britiske offiseren major Calloway og forelsker seg hodestups i Harrys sorgrammede elskerinne, Anna.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Norwegian",
+            "iso_3166_1": "NO",
+            "iso_639_1": "no",
+            "name": "Norsk"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Trešais cilvēks"
+            },
+            "english_name": "Latvian",
+            "iso_3166_1": "LV",
+            "iso_639_1": "lv",
+            "name": "Latviešu"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Холи Мартинс је сиромашни амерички писац петпарачких вестерн романа који долази у послератни, подељени Беч на позив свог старог пријатеља из детињства Харија Лима, који му је обећао посао. Међутим, одмах по доласку, Холи са ужасом сазнаје да је Хари управо погинуо у необичној саобраћајној несрећи испред своје куће. Након што присуствује сахрани и разговара са британским војним полицајцима који тврде да је Лиме био безобзирни криминалац и шверцер лекова на црној берзи, Холи одлучује да спроведе сопствену истрагу како би спрао љагу са пријатељевог имена. Испитујући сведоке и Харијеву прелепу глумицу-девојку Ану, Мартинс наилази на контрадикторне изјаве о несрећи и открива да су Лимеово тело пренела двојица његових блиских сарадника, док неколико очевидаца тврди да је на лицу места постојао и мистериозни, никада идентификовани трећи човек.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Трећи човек"
+            },
+            "english_name": "Serbian",
+            "iso_3166_1": "RS",
+            "iso_639_1": "sr",
+            "name": "Srpski"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 7.893,
+      "vote_count": 2119
+    },
     "10970": {
       "adult": false,
       "backdrop_path": "/6MBo0C4G0O7A7JVVfVVJIJbh1fU.jpg",
@@ -437330,6 +438735,69 @@
         "video": false,
         "vote_average": 7.225,
         "vote_count": 100
+      }
+    ],
+    "il terzo uomo|": [
+      {
+        "adult": false,
+        "backdrop_path": "/rLLhOCgAjuvlKmjUqVb7P1UAbUI.jpg",
+        "genre_ids": [
+          53,
+          9648
+        ],
+        "id": 1092,
+        "original_language": "en",
+        "original_title": "The Third Man",
+        "overview": "Nel 1946 in una Vienna devastata dalla guerra e divisa in quattro zone di occupazione, lo scrittore americano di western Holly Martins (Cotten) assiste ai funerali dell'amico Harry Lime (Welles), ma è veramente morto? Inseguimento finale nelle fogne della città.",
+        "popularity": 4.142,
+        "poster_path": "/oVXG2WI7EgTyJ2zhFbUaj50SkhH.jpg",
+        "release_date": "1949-11-30",
+        "softcore": false,
+        "title": "Il terzo uomo",
+        "video": false,
+        "vote_average": 7.893,
+        "vote_count": 2119
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zDr78p0GGVeiO1yGb7zqtKfHVQB.jpg",
+        "genre_ids": [
+          9648
+        ],
+        "id": 55381,
+        "original_language": "en",
+        "original_title": "Trent's Last Case",
+        "overview": "L'investigatore Philip Trent deve indagare sulla morte del miliardario Sigsbee Manderson, che era stata ufficialmente archiviata come suicidio. Il mistero si rivela più intricato del previsto.",
+        "popularity": 0.4309,
+        "poster_path": "/lhBn1zv7QG4lC6Un0Ukq9e6D3Kj.jpg",
+        "release_date": "1952-09-22",
+        "softcore": false,
+        "title": "Ritorna il terzo uomo",
+        "video": false,
+        "vote_average": 5.545,
+        "vote_count": 11
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gad4GTmKva9W5EV1G5twdpinV21.jpg",
+        "genre_ids": [
+          18,
+          28,
+          53,
+          80
+        ],
+        "id": 70709,
+        "original_language": "en",
+        "original_title": "Ruby",
+        "overview": "La contrastata biografia di Jack Ruby, padrone di un nightclub e protettore di una bella ballerina, divenuto famoso perché nel 1963 uccise il presunto assassino del presidente degli Stati Uniti J. F. Kennedy.",
+        "popularity": 0.8237,
+        "poster_path": "/nV2QFj2TQBS2POOoACvKaJbwvvy.jpg",
+        "release_date": "1992-03-27",
+        "softcore": false,
+        "title": "Ruby - Il terzo uomo a Dallas",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 29
       }
     ],
     "illusione|": [
