@@ -197923,6 +197923,1217 @@
       "vote_average": 7.159,
       "vote_count": 88
     },
+    "1433680": {
+      "adult": false,
+      "backdrop_path": "/9C10gUV5uR1UZtvGs8uQtb6xi7Z.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 2,
+            "character": "Teniente Medina",
+            "credit_id": "67ae06f72375bfc5f6d0de97",
+            "gender": 2,
+            "id": 82700,
+            "known_for_department": "Acting",
+            "name": "Mario Casas",
+            "order": 0,
+            "original_name": "Mario Casas",
+            "popularity": 1.3989,
+            "profile_path": "/y0H8jDiOZqYKZkamv2z4cV9FLsl.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 3,
+            "character": "Genaro",
+            "credit_id": "67ae06fd8c5579ba6e36f446",
+            "gender": 2,
+            "id": 27462,
+            "known_for_department": "Acting",
+            "name": "Alberto San Juan",
+            "order": 1,
+            "original_name": "Alberto San Juan",
+            "popularity": 0.4815,
+            "profile_path": "/aHRMtaTfwm9KBcKwBcbJu9Sm8G2.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 7,
+            "character": "Alonso",
+            "credit_id": "67ae0749645669137e9f620e",
+            "gender": 2,
+            "id": 102228,
+            "known_for_department": "Acting",
+            "name": "Asier Etxeandia",
+            "order": 2,
+            "original_name": "Asier Etxeandia",
+            "popularity": 0.9271,
+            "profile_path": "/pi0zU6nfgUk7tulpgZaVtVZqHBY.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 8,
+            "character": "María",
+            "credit_id": "67ae075d2375bfc5f6d0dedc",
+            "gender": 1,
+            "id": 5244720,
+            "known_for_department": "Acting",
+            "name": "Nora Hernández",
+            "order": 3,
+            "original_name": "Nora Hernández",
+            "popularity": 0.0638,
+            "profile_path": "/z3rRJyXRo1Rdv7IU1eEVqYyTajd.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 9,
+            "character": "Ángel",
+            "credit_id": "67ae07652375bfc5f6d0dee4",
+            "gender": 0,
+            "id": 4432223,
+            "known_for_department": "Acting",
+            "name": "Óscar Lasarte",
+            "order": 4,
+            "original_name": "Óscar Lasarte",
+            "popularity": 0.2211,
+            "profile_path": "/vy9luk6gN009rOEQvFjpQDhNHFU.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 10,
+            "character": "Chapero",
+            "credit_id": "67ae076d645669137e9f621d",
+            "gender": 0,
+            "id": 3060218,
+            "known_for_department": "Acting",
+            "name": "Martín Páez",
+            "order": 5,
+            "original_name": "Martín Páez",
+            "popularity": 0.089,
+            "profile_path": "/285lxOw5Rr1LRrjI6PgjgZEfZUW.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 11,
+            "character": "Juana",
+            "credit_id": "67ae07738c5579ba6e36f48c",
+            "gender": 1,
+            "id": 24918,
+            "known_for_department": "Acting",
+            "name": "Elvira Mínguez",
+            "order": 6,
+            "original_name": "Elvira Mínguez",
+            "popularity": 0.3081,
+            "profile_path": "/8pF3yej8FGArlCjp6GoMLcJsGaJ.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 12,
+            "character": "El Rubio",
+            "credit_id": "67ae077e645669137e9f6228",
+            "gender": 2,
+            "id": 1288029,
+            "known_for_department": "Acting",
+            "name": "Carlos Serrano",
+            "order": 7,
+            "original_name": "Carlos Serrano",
+            "popularity": 0.422,
+            "profile_path": "/tZNn5kRx8I6wEGw98ZaD88U9Gle.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 13,
+            "character": "Flora",
+            "credit_id": "67ae0785645669137e9f622e",
+            "gender": 1,
+            "id": 43328,
+            "known_for_department": "Acting",
+            "name": "Carmen Balagué",
+            "order": 8,
+            "original_name": "Carmen Balagué",
+            "popularity": 0.3042,
+            "profile_path": "/eo9AiRk158etfNOB3ipug7i9cKN.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 14,
+            "character": "Luchi",
+            "credit_id": "67ae078d3e4967e13e36e552",
+            "gender": 1,
+            "id": 1155088,
+            "known_for_department": "Acting",
+            "name": "Eva Ugarte",
+            "order": 9,
+            "original_name": "Eva Ugarte",
+            "popularity": 0.3642,
+            "profile_path": "/2fgxGvUp0SgTLqXVvhGQIpGzrAV.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 15,
+            "character": "Antón",
+            "credit_id": "67ae07928c5579ba6e36f49d",
+            "gender": 2,
+            "id": 37569,
+            "known_for_department": "Acting",
+            "name": "Antonio Resines",
+            "order": 10,
+            "original_name": "Antonio Resines",
+            "popularity": 0.378,
+            "profile_path": "/jm4yMnneOWa5diykiBV13qbMsS2.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 22,
+            "character": "Francisco Franco",
+            "credit_id": "6909d9e03796079ff1112916",
+            "gender": 0,
+            "id": 1783148,
+            "known_for_department": "Acting",
+            "name": "Xavi Francés",
+            "order": 11,
+            "original_name": "Xavi Francés",
+            "popularity": 0.1949,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 23,
+            "character": "Carmen Polo",
+            "credit_id": "6909d9f000019f42d4c96a4a",
+            "gender": 1,
+            "id": 2783021,
+            "known_for_department": "Acting",
+            "name": "Gloria March",
+            "order": 12,
+            "original_name": "Gloria March",
+            "popularity": 0.2164,
+            "profile_path": "/seAKgaUsfKj3PdtcVi97bXm5z0c.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 24,
+            "character": "Mustafa",
+            "credit_id": "6909dbe6762a7b748682adf1",
+            "gender": 0,
+            "id": 5795670,
+            "known_for_department": "Acting",
+            "name": "Abdel Senouci",
+            "order": 13,
+            "original_name": "Abdel Senouci",
+            "popularity": 0.0214,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 25,
+            "character": "Asistente Alonso",
+            "credit_id": "6909dc4a62ac56b21782adc7",
+            "gender": 0,
+            "id": 5795671,
+            "known_for_department": "Acting",
+            "name": "Rafael Valls",
+            "order": 14,
+            "original_name": "Rafael Valls",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 27,
+            "character": "Dr. Beltrán",
+            "credit_id": "6909dcdfacb2bc30f070cb23",
+            "gender": 2,
+            "id": 234958,
+            "known_for_department": "Acting",
+            "name": "Sergio Caballero",
+            "order": 15,
+            "original_name": "Sergio Caballero",
+            "popularity": 0.3167,
+            "profile_path": "/qT6efqyEcVnO9hNA1iLOIYcUViX.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 28,
+            "character": "Sargento Mandó Cárcel",
+            "credit_id": "6909dd98a5e8412f5f82ae3e",
+            "gender": 0,
+            "id": 4948873,
+            "known_for_department": "Acting",
+            "name": "Vicent Domingo",
+            "order": 16,
+            "original_name": "Vicent Domingo",
+            "popularity": 0.1384,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 29,
+            "character": "Laura (Chelo)",
+            "credit_id": "6909ddb48fdcb2fd84db8d40",
+            "gender": 0,
+            "id": 2926930,
+            "known_for_department": "Acting",
+            "name": "Laura Botta",
+            "order": 17,
+            "original_name": "Laura Botta",
+            "popularity": 0.0261,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 30,
+            "character": "Sofía (Pianista)",
+            "credit_id": "6909de886b4edd01d91e5cdb",
+            "gender": 0,
+            "id": 5795674,
+            "known_for_department": "Acting",
+            "name": "Sofía Kofoed",
+            "order": 18,
+            "original_name": "Sofía Kofoed",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 31,
+            "character": "Perla del Palace (Violín)",
+            "credit_id": "6909debccd93d91827f5fe91",
+            "gender": 0,
+            "id": 5795675,
+            "known_for_department": "Acting",
+            "name": "Loures Serrano",
+            "order": 19,
+            "original_name": "Loures Serrano",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 32,
+            "character": "Perla del Palace (Contrabajo)",
+            "credit_id": "6909dee9045ff6cc1ac9671b",
+            "gender": 0,
+            "id": 1159722,
+            "known_for_department": "Acting",
+            "name": "Eva Serrano",
+            "order": 20,
+            "original_name": "Eva Serrano",
+            "popularity": 0.1557,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 33,
+            "character": "Perla del Palace (Guitarra)",
+            "credit_id": "6909defff1e1eaaa5e82aceb",
+            "gender": 0,
+            "id": 5795678,
+            "known_for_department": "Acting",
+            "name": "Ana Zomeño",
+            "order": 21,
+            "original_name": "Ana Zomeño",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 34,
+            "character": "Perla del Palace (Acordeón)",
+            "credit_id": "6909df23e3ddb79ebc4139e2",
+            "gender": 0,
+            "id": 5795679,
+            "known_for_department": "Acting",
+            "name": "Isabel Latorre",
+            "order": 22,
+            "original_name": "Isabel Latorre",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 35,
+            "character": "Oficial Tropas Ventas",
+            "credit_id": "6909df37c993b9a250c9673e",
+            "gender": 0,
+            "id": 5795680,
+            "known_for_department": "Acting",
+            "name": "Enrique Galán",
+            "order": 23,
+            "original_name": "Enrique Galán",
+            "popularity": 0.2011,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 36,
+            "character": "Adolf Hitler",
+            "credit_id": "6909df53045ff6cc1ac96720",
+            "gender": 0,
+            "id": 2735881,
+            "known_for_department": "Acting",
+            "name": "David Díaz",
+            "order": 24,
+            "original_name": "David Díaz",
+            "popularity": 0.1203,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 37,
+            "character": "Recluso",
+            "credit_id": "6909df6c0f5bebb538c966e8",
+            "gender": 0,
+            "id": 5795681,
+            "known_for_department": "Acting",
+            "name": "Ulises Alemán Delgado",
+            "order": 25,
+            "original_name": "Ulises Alemán Delgado",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 38,
+            "character": "General Español",
+            "credit_id": "6909df7ff1e1eaaa5e82acf2",
+            "gender": 0,
+            "id": 4386088,
+            "known_for_department": "Acting",
+            "name": "Fran Bartivas",
+            "order": 26,
+            "original_name": "Fran Bartivas",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 39,
+            "character": "Teniente Alemán",
+            "credit_id": "6909dfe6440e75b7731e5c9c",
+            "gender": 0,
+            "id": 5795682,
+            "known_for_department": "Acting",
+            "name": "Ricardo Bermejo",
+            "order": 27,
+            "original_name": "Ricardo Bermejo",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 40,
+            "character": "Mayor Alemán",
+            "credit_id": "6909e000acb2bc30f070cb35",
+            "gender": 0,
+            "id": 5795683,
+            "known_for_department": "Acting",
+            "name": "Christian García Tamayo",
+            "order": 28,
+            "original_name": "Christian García Tamayo",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 41,
+            "character": "General Alemán",
+            "credit_id": "6909e10f3c47569350db8ea6",
+            "gender": 0,
+            "id": 1517065,
+            "known_for_department": "Acting",
+            "name": "Eliseo Hernández",
+            "order": 29,
+            "original_name": "Eliseo Hernández",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 42,
+            "character": "Hombre Gestapo",
+            "credit_id": "6909e164d0d59bb542112936",
+            "gender": 0,
+            "id": 5795691,
+            "known_for_department": "Acting",
+            "name": "Luis Miguel Martín",
+            "order": 30,
+            "original_name": "Luis Miguel Martín",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 43,
+            "character": "General Español",
+            "credit_id": "6909e1c2dfd3d52154c96a29",
+            "gender": 0,
+            "id": 5795695,
+            "known_for_department": "Acting",
+            "name": "Pedro Pérez Rodríguez",
+            "order": 31,
+            "original_name": "Pedro Pérez Rodríguez",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 44,
+            "character": "General Español",
+            "credit_id": "6909e1d22436837f17f5fe2c",
+            "gender": 0,
+            "id": 5795696,
+            "known_for_department": "Acting",
+            "name": "Alberto Redruello",
+            "order": 32,
+            "original_name": "Alberto Redruello",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 75,
+            "character": "Guardia del Palace",
+            "credit_id": "69cd19a9dadd51df81c9d713",
+            "gender": 0,
+            "id": 5503066,
+            "known_for_department": "Directing",
+            "name": "Álvaro Leivas",
+            "order": 33,
+            "original_name": "Álvaro Leivas",
+            "popularity": 0.09,
+            "profile_path": "/mfgqzUjFksq2hQp4KeucMAEzv0P.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "67ae06df645669137e9f61c6",
+            "department": "Directing",
+            "gender": 2,
+            "id": 108499,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Manuel Gómez Pereira",
+            "original_name": "Manuel Gómez Pereira",
+            "popularity": 0.4728,
+            "profile_path": "/x7woQBsJhQuQMRvfnDz6iE2yrCB.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "67ae07bd3e4967e13e36e57b",
+            "department": "Production",
+            "gender": 0,
+            "id": 2435707,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Cristóbal García",
+            "original_name": "Cristóbal García",
+            "popularity": 0.1597,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "67ae07d83e4967e13e36e589",
+            "department": "Production",
+            "gender": 0,
+            "id": 2388429,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Lina Badenes",
+            "original_name": "Lina Badenes",
+            "popularity": 0.0999,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "67ae07ee3e4967e13e36e593",
+            "department": "Production",
+            "gender": 0,
+            "id": 2250809,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Roberto Butragueño",
+            "original_name": "Roberto Butragueño",
+            "popularity": 0.1926,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "67ffd3662c85e79663993324",
+            "department": "Writing",
+            "gender": 2,
+            "id": 43317,
+            "job": "Screenplay",
+            "known_for_department": "Writing",
+            "name": "Joaquín Oristrell",
+            "original_name": "Joaquín Oristrell",
+            "popularity": 0.5895,
+            "profile_path": "/wWafkx5cdolo0ssslWCvoQcJUQF.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "67ffd372437f0b80eead7d78",
+            "department": "Writing",
+            "gender": 2,
+            "id": 108499,
+            "job": "Screenplay",
+            "known_for_department": "Directing",
+            "name": "Manuel Gómez Pereira",
+            "original_name": "Manuel Gómez Pereira",
+            "popularity": 0.4728,
+            "profile_path": "/x7woQBsJhQuQMRvfnDz6iE2yrCB.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "67ffd381437f0b80eead7d85",
+            "department": "Writing",
+            "gender": 0,
+            "id": 96693,
+            "job": "Screenplay",
+            "known_for_department": "Writing",
+            "name": "Yolanda García Serrano",
+            "original_name": "Yolanda García Serrano",
+            "popularity": 0.3504,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909dc81651711471141382d",
+            "department": "Writing",
+            "gender": 0,
+            "id": 1062333,
+            "job": "Theatre Play",
+            "known_for_department": "Writing",
+            "name": "José Luis Alonso de Santos",
+            "original_name": "José Luis Alonso de Santos",
+            "popularity": 0.0799,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909e45b644c62e354c96866",
+            "department": "Production",
+            "gender": 0,
+            "id": 3529487,
+            "job": "Executive Producer",
+            "known_for_department": "Production",
+            "name": "Ana Camacho",
+            "original_name": "Ana Camacho",
+            "popularity": 0.0588,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909e712f383229c031e5ca0",
+            "department": "Production",
+            "gender": 0,
+            "id": 4895720,
+            "job": "Executive Producer",
+            "known_for_department": "Production",
+            "name": "Laura Castro Otero",
+            "original_name": "Laura Castro Otero",
+            "popularity": 0.0765,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909e74ddfd3d52154c96a3f",
+            "department": "Production",
+            "gender": 0,
+            "id": 1437424,
+            "job": "Co-Producer",
+            "known_for_department": "Production",
+            "name": "Alexandra Lebret",
+            "original_name": "Alexandra Lebret",
+            "popularity": 0.1323,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909e817c993b9a250c9675f",
+            "department": "Production",
+            "gender": 0,
+            "id": 4197987,
+            "job": "Co-Producer",
+            "known_for_department": "Acting",
+            "name": "Andrea Martelli",
+            "original_name": "Andrea Martelli",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909e82ac0524e109c4138da",
+            "department": "Production",
+            "gender": 2,
+            "id": 31409,
+            "job": "Co-Producer",
+            "known_for_department": "Production",
+            "name": "Edmon Roch",
+            "original_name": "Edmon Roch",
+            "popularity": 0.3834,
+            "profile_path": "/oS8SyQwYReGzNVtP3KPdtB6qzva.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6909e83db0c552006082ad1d",
+            "department": "Production",
+            "gender": 2,
+            "id": 979785,
+            "job": "Co-Producer",
+            "known_for_department": "Production",
+            "name": "Javier Ugarte",
+            "original_name": "Javier Ugarte",
+            "popularity": 0.1676,
+            "profile_path": "/jTdEJzluUIT1ZjliluoUzP2FOGL.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6909e872f895788e63112946",
+            "department": "Camera",
+            "gender": 0,
+            "id": 1345660,
+            "job": "Director of Photography",
+            "known_for_department": "Camera",
+            "name": "Aitor Mantxola",
+            "original_name": "Aitor Mantxola",
+            "popularity": 0.1653,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909e8d5f895788e6311294f",
+            "department": "Editing",
+            "gender": 0,
+            "id": 2373400,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "Vanessa Marimbert",
+            "original_name": "Vanessa Marimbert",
+            "popularity": 0.1494,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909e8e93c0b96732b112829",
+            "department": "Production",
+            "gender": 1,
+            "id": 2230103,
+            "job": "Casting",
+            "known_for_department": "Production",
+            "name": "Marichu Sanz",
+            "original_name": "Marichu Sanz",
+            "popularity": 0.1703,
+            "profile_path": "/bmGcGXGxMsybi5w8kGT81peJo1.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6909e942d945238373f5ff37",
+            "department": "Art",
+            "gender": 2,
+            "id": 1156953,
+            "job": "Production Design",
+            "known_for_department": "Art",
+            "name": "Koldo Vallés",
+            "original_name": "Koldo Vallés",
+            "popularity": 0.1858,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909e9e13796079ff1112957",
+            "department": "Art",
+            "gender": 0,
+            "id": 2793331,
+            "job": "Art Direction",
+            "known_for_department": "Art",
+            "name": "María Jesús Tarazona",
+            "original_name": "María Jesús Tarazona",
+            "popularity": 0.0916,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909e9f94969ef3ee3db8e76",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 1599939,
+            "job": "Costume Design",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Helena Sanchís",
+            "original_name": "Helena Sanchís",
+            "popularity": 0.2507,
+            "profile_path": "/AeHPH1hbYNwoA0ILCwC4UKiUCMP.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6909ea80b5b6250bbc70cb18",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 5696828,
+            "job": "Hair Department Head",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Ane Martínez",
+            "original_name": "Ane Martínez",
+            "popularity": 0.0214,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909eb02aaa2eff1fd1e5d74",
+            "department": "Costume & Make-Up",
+            "gender": 1,
+            "id": 2837135,
+            "job": "Makeup Designer",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Amparo Sánchez",
+            "original_name": "Amparo Sánchez",
+            "popularity": 0.068,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909ec1c5f65a88873f5ff6c",
+            "department": "Production",
+            "gender": 0,
+            "id": 1116674,
+            "job": "Production Manager",
+            "known_for_department": "Production",
+            "name": "Carlos Amoedo",
+            "original_name": "Carlos Amoedo",
+            "popularity": 0.1038,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909ec3e71d55676881e5d34",
+            "department": "Production",
+            "gender": 0,
+            "id": 2394334,
+            "job": "Unit Production Manager",
+            "known_for_department": "Production",
+            "name": "Eduardo Lis",
+            "original_name": "Eduardo Lis",
+            "popularity": 0.0549,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909ec59aaa2eff1fd1e5d7e",
+            "department": "Directing",
+            "gender": 2,
+            "id": 570391,
+            "job": "First Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Javier Petit",
+            "original_name": "Javier Petit",
+            "popularity": 0.1551,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909ec86045ff6cc1ac9674a",
+            "department": "Directing",
+            "gender": 1,
+            "id": 2960320,
+            "job": "Second Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Alba Simón",
+            "original_name": "Alba Simón",
+            "popularity": 0.073,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909ed9299ecfcbba3c96af3",
+            "department": "Directing",
+            "gender": 1,
+            "id": 3894794,
+            "job": "Third Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Ana Mayandía",
+            "original_name": "Ana Mayandía",
+            "popularity": 0.1919,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909f08a644c62e354c968b0",
+            "department": "Sound",
+            "gender": 1,
+            "id": 1758441,
+            "job": "Sound",
+            "known_for_department": "Sound",
+            "name": "Sofía Straface",
+            "original_name": "Sofía Straface",
+            "popularity": 0.1128,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909f09a479afac8b9413936",
+            "department": "Sound",
+            "gender": 1,
+            "id": 4657433,
+            "job": "Supervising Sound Editor",
+            "known_for_department": "Sound",
+            "name": "Miriam Pedregal",
+            "original_name": "Miriam Pedregal",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909f0b510f0d131ce82ae6b",
+            "department": "Visual Effects",
+            "gender": 0,
+            "id": 5795792,
+            "job": "Special Effects Supervisor",
+            "known_for_department": "Visual Effects",
+            "name": "Ignacio Miguel Montilla",
+            "original_name": "Ignacio Miguel Montilla",
+            "popularity": 0.0486,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909f0d2644c62e354c968b7",
+            "department": "Visual Effects",
+            "gender": 0,
+            "id": 5682196,
+            "job": "Visual Effects Supervisor",
+            "known_for_department": "Visual Effects",
+            "name": "Miguel Costa Templado",
+            "original_name": "Miguel Costa Templado",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909f135bfd846ffd682ae52",
+            "department": "Crew",
+            "gender": 0,
+            "id": 3580273,
+            "job": "Stunt Coordinator",
+            "known_for_department": "Crew",
+            "name": "Samuel Icasto",
+            "original_name": "Samuel Icasto",
+            "popularity": 0.1872,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909f17a65171147114138dd",
+            "department": "Crew",
+            "gender": 0,
+            "id": 5795794,
+            "job": "Stunt Double",
+            "known_for_department": "Crew",
+            "name": "Jose V. Iborra",
+            "original_name": "Jose V. Iborra",
+            "popularity": 0.0595,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909f34abb2e722f4670c9fc",
+            "department": "Crew",
+            "gender": 0,
+            "id": 3903761,
+            "job": "Stunts",
+            "known_for_department": "Crew",
+            "name": "Sira Herranz",
+            "original_name": "Sira Herranz",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6909f389045ff6cc1ac96761",
+            "department": "Camera",
+            "gender": 0,
+            "id": 3696479,
+            "job": "Key Grip",
+            "known_for_department": "Camera",
+            "name": "Jorge Casabán",
+            "original_name": "Jorge Casabán",
+            "popularity": 0.1124,
+            "profile_path": "/6chYU3fopaaUx7Mcevr4NjxPMJZ.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6909f3a4efd00b56eac96a73",
+            "department": "Camera",
+            "gender": 0,
+            "id": 1580204,
+            "job": "First Assistant Camera",
+            "known_for_department": "Camera",
+            "name": "José Ramón Delgado",
+            "original_name": "José Ramón Delgado",
+            "popularity": 0.1506,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "697690435ade9bd45fa3861b",
+            "department": "Sound",
+            "gender": 1,
+            "id": 2104632,
+            "job": "Original Music Composer",
+            "known_for_department": "Sound",
+            "name": "Anne-Sophie Versnaeyen",
+            "original_name": "Anne-Sophie Versnaeyen",
+            "popularity": 0.2378,
+            "profile_path": "/rk3xYs5O2XDb2bh3tLEXV4kkXm6.jpg"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 35,
+          "name": "Commedia"
+        },
+        {
+          "id": 36,
+          "name": "Storia"
+        },
+        {
+          "id": 18,
+          "name": "Dramma"
+        }
+      ],
+      "homepage": "",
+      "id": 1433680,
+      "imdb_id": "tt35657504",
+      "origin_country": [
+        "ES",
+        "FR"
+      ],
+      "original_language": "es",
+      "original_title": "La cena",
+      "overview": "Due settimane dopo la fine della Guerra civile, Francisco Franco ordina una cena celebrativa al Palace Hotel. Un giovane tenente, un meticoloso maître e un gruppo di prigionieri repubblicani con competenze culinarie devono preparare un banchetto impeccabile in tempi record. Tutto sembra procedere senza intoppi, ma in cucina si sta preparando qualcosa di più di un semplice menù. Il piano di fuga è ufficialmente in atto.",
+      "popularity": 1.3428,
+      "poster_path": "/vyXuBt4SWQOnxTI4AvplgNVTAkr.jpg",
+      "production_companies": [
+        {
+          "id": 113812,
+          "logo_path": "/n6SBbqa2mu8YLm6dIhxjDaWWZM7.png",
+          "name": "La Terraza Films",
+          "origin_country": "ES"
+        },
+        {
+          "id": 85835,
+          "logo_path": "/6i9V3Pc7R2wAECl8QNtUJgxSQh6.png",
+          "name": "Turanga Films",
+          "origin_country": "ES"
+        },
+        {
+          "id": 201424,
+          "logo_path": "/sppjVS3RjKTFeeHcBBvXhaYjG0J.png",
+          "name": "Sideral Cinema",
+          "origin_country": "ES"
+        },
+        {
+          "id": 158078,
+          "logo_path": "/f6aLJ65GNQ3TYdPQZ67Y7C8MYjC.png",
+          "name": "Halley Production",
+          "origin_country": "FR"
+        },
+        {
+          "id": 107262,
+          "logo_path": "/1zigukoYBEqJfsEl6fVhmamXXX9.png",
+          "name": "Crea SGR",
+          "origin_country": "ES"
+        },
+        {
+          "id": 265749,
+          "logo_path": "/vFqHb0z4jNbA4h6iMQ52OaQRdEQ.png",
+          "name": "RTVE",
+          "origin_country": "ES"
+        },
+        {
+          "id": 201633,
+          "logo_path": "/6Ox2aOmqNP6vEmlh02fqygwOkeE.png",
+          "name": "Instituto de la Cinematografía y de las Artes Audiovisuales",
+          "origin_country": "ES"
+        },
+        {
+          "id": 121972,
+          "logo_path": "/x2Umogd8FZBK2Pg09Wug28kv2er.png",
+          "name": "À Punt",
+          "origin_country": "ES"
+        },
+        {
+          "id": 53491,
+          "logo_path": "/7BYQ4l3DvvYYAGmxucVst5nLOJX.png",
+          "name": "Generalitat Valenciana",
+          "origin_country": "ES"
+        },
+        {
+          "id": 246607,
+          "logo_path": "/oYKOJecKAu9LU0iXCByWmQeY1qu.png",
+          "name": "Ayuntamiento de Madrid",
+          "origin_country": "ES"
+        },
+        {
+          "id": 29259,
+          "logo_path": null,
+          "name": "ICO",
+          "origin_country": "ES"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "ES",
+          "name": "Spain"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        }
+      ],
+      "release_date": "2025-10-17",
+      "revenue": 4264962,
+      "runtime": 106,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "La fuga è servita",
+      "title": "A cena con il dittatore",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "España, 15 de abril de 1939. Concluida la Guerra Civil, y con intención de celebrar su victoria, el general Franco asiste con sus generales a una cena en el hotel Palace.",
+              "runtime": 102,
+              "tagline": "La fuga está servida.",
+              "title": ""
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Spain, April 15, 1939. With the Civil War concluded, and with the intention of celebrating his victory, General Franco attends a dinner with his generals at the Palace Hotel.",
+              "runtime": 106,
+              "tagline": "",
+              "title": "The Dinner"
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Hiszpania, 15 kwietnia 1939 r. Po zakończeniu wojny domowej generał Franco udaje się na kolację ze swoimi generałami do Palace Hotel, aby uczcić swoje zwycięstwo.",
+              "runtime": 106,
+              "tagline": "",
+              "title": "La cena"
+            },
+            "english_name": "Polish",
+            "iso_3166_1": "PL",
+            "iso_639_1": "pl",
+            "name": "Polski"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Dos semanas después de acabar la Guerra Civil, Franco solicita una cena de celebración en el Hotel Palace. Un joven teniente, un maître meticuloso y un grupo de prisioneros republicanos expertos en cocina, deben preparar un banquete impecable en tiempo récord. Todo parece ir sobre ruedas, pero en la cocina se trama algo más que un menú. Adaptación de la obra de José Luis Alonso de Santos.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "MX",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Прошло две недели после окончания Гражданской войны в Испании. Франко заказывает банкет в знаменитом отеле «Палас». Ретивый лейтенант Сантьяго Медина берётся за организацию, но тут же сталкивается с трудностями: все лучшие повара Мадрида оказались левых взглядов и попали под арест. Метрдотель Хенаро предлагает срочно выпустить лучших из лучших. Получив глоток свободы, заключённые встают перед выбором: подчиниться врагам, попробовать их отравить или пуститься в бега.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Ужин"
+            },
+            "english_name": "Russian",
+            "iso_3166_1": "RU",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Espanya, 15 d'abril del 1939. Conclosa la Guerra Civil, i amb intenció de celebrar la seva victòria, el general Franco assisteix amb els seus generals a un sopar a l'hotel Palace.",
+              "runtime": 0,
+              "tagline": "La fugida està servida",
+              "title": "El sopar"
+            },
+            "english_name": "Catalan",
+            "iso_3166_1": "ES",
+            "iso_639_1": "ca",
+            "name": "Català"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Due settimane dopo la fine della Guerra civile, Francisco Franco ordina una cena celebrativa al Palace Hotel. Un giovane tenente, un meticoloso maître e un gruppo di prigionieri repubblicani con competenze culinarie devono preparare un banchetto impeccabile in tempi record. Tutto sembra procedere senza intoppi, ma in cucina si sta preparando qualcosa di più di un semplice menù. Il piano di fuga è ufficialmente in atto.",
+              "runtime": 0,
+              "tagline": "La fuga è servita",
+              "title": "A cena con il dittatore"
+            },
+            "english_name": "Italian",
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Το 1939, δύο εβδομάδες μετά το τέλος του Ισπανικού Εμφυλίου Πολέμου, ο στρατηγός Φράνκο διατάσσει να γιορταστεί ένα δείπνο στο ξενοδοχείο Παλλάς. Ωστόσο, το ξενοδοχείο, που έχει μετατραπεί σε στρατιωτικό νοσοκομείο, δεν είναι έτοιμο για κάτι τέτοιο. Επιπλέον, μέρος του προσωπικού είναι αντιφρανκικό.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Greek",
+            "iso_3166_1": "GR",
+            "iso_639_1": "el",
+            "name": "ελληνικά"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "1939 年 4 月 15 日，西班牙内战结束两周后，梅迪纳中尉突然闯入帕拉西奥酒店，带来一则出人意料的通知：佛朗哥当晚将携麾下高级将领在此用餐。然而他们并不知道，这顿晚餐将由一群共和党厨师负责烹制 —— 而这些厨师刚刚获得了逃离西班牙的最后机会。",
+              "runtime": 0,
+              "tagline": "",
+              "title": "晚餐"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 6.812,
+      "vote_count": 85
+    },
     "1437612": {
       "adult": false,
       "backdrop_path": "/cg5VIuHIRIkHIKh3rEfkptIgNqS.jpg",
@@ -240456,6 +241667,340 @@
       "vote_average": 0.0,
       "vote_count": 0
     },
+    "1708043": {
+      "adult": false,
+      "backdrop_path": "/fLCqYQi6n0gtJHED6pUmGv1pJs4.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 2,
+            "character": "Renata Innocenti",
+            "credit_id": "6a2158743cf7cccb0e80528a",
+            "gender": 1,
+            "id": 59640,
+            "known_for_department": "Acting",
+            "name": "Angela Finocchiaro",
+            "order": 0,
+            "original_name": "Angela Finocchiaro",
+            "popularity": 0.5332,
+            "profile_path": "/4ZgMeXRcZOBDwDLmucIB9gUkslP.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 5,
+            "character": "",
+            "credit_id": "6a29b02501ba01579a81e602",
+            "gender": 2,
+            "id": 224378,
+            "known_for_department": "Acting",
+            "name": "Giorgio Tirabassi",
+            "order": 1,
+            "original_name": "Giorgio Tirabassi",
+            "popularity": 0.4368,
+            "profile_path": "/o88lUmQ1FEqBRAgdPk833pBAaSa.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "6a2158c1877b1081d526d3a7",
+            "gender": 2,
+            "id": 125696,
+            "known_for_department": "Acting",
+            "name": "Antonio Gerardi",
+            "order": 2,
+            "original_name": "Antonio Gerardi",
+            "popularity": 0.6718,
+            "profile_path": "/7OI80SQpWPOsfZQR43l6HyU2tn4.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 6,
+            "character": "",
+            "credit_id": "6a29b09c901e1b685cae1299",
+            "gender": 1,
+            "id": 1450686,
+            "known_for_department": "Acting",
+            "name": "Crisula Stafida",
+            "order": 3,
+            "original_name": "Crisula Stafida",
+            "popularity": 0.2246,
+            "profile_path": "/zmN4vyzZKXt9ZCZdUz7OP0mzVpF.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 7,
+            "character": "",
+            "credit_id": "6a29b4fdcee8a02f6179b80a",
+            "gender": 1,
+            "id": 1898297,
+            "known_for_department": "Acting",
+            "name": "Giulia Gualano",
+            "order": 4,
+            "original_name": "Giulia Gualano",
+            "popularity": 0.1607,
+            "profile_path": "/uMndgqTAbfXhvDIbu7NV0J5hwnv.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 8,
+            "character": "",
+            "credit_id": "6a29b55bc62bb2accd6823a8",
+            "gender": 0,
+            "id": 6277305,
+            "known_for_department": "Acting",
+            "name": "Camilla Icardi",
+            "order": 5,
+            "original_name": "Camilla Icardi",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 9,
+            "character": "",
+            "credit_id": "6a29b5799cbfd0c26d81e6cc",
+            "gender": 2,
+            "id": 2997181,
+            "known_for_department": "Acting",
+            "name": "Livio Kone",
+            "order": 6,
+            "original_name": "Livio Kone",
+            "popularity": 0.1822,
+            "profile_path": "/lgDu8Mm5TCWwdMcEGPTQOpvEyKt.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 10,
+            "character": "",
+            "credit_id": "6a29b5a37784ceac9379b6fc",
+            "gender": 1,
+            "id": 1035430,
+            "known_for_department": "Acting",
+            "name": "Maria Amelia Monti",
+            "order": 7,
+            "original_name": "Maria Amelia Monti",
+            "popularity": 0.3125,
+            "profile_path": "/dTJvRjHl8A8PcWAiDAiQOeTv1H7.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 19,
+            "character": "",
+            "credit_id": "6a29e29f9cbfd0c26d81e94e",
+            "gender": 0,
+            "id": 6277660,
+            "known_for_department": "Acting",
+            "name": "Domenico Ruggiero",
+            "order": 8,
+            "original_name": "Domenico Ruggiero",
+            "popularity": 0.0286,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 20,
+            "character": "",
+            "credit_id": "6a29e2a5be2863a4356854ef",
+            "gender": 0,
+            "id": 6277662,
+            "known_for_department": "Acting",
+            "name": "Maximiliano Gigliucci",
+            "order": 9,
+            "original_name": "Maximiliano Gigliucci",
+            "popularity": 0.0,
+            "profile_path": null
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "6a21584abee2c2b5f5a6961a",
+            "department": "Directing",
+            "gender": 2,
+            "id": 1296223,
+            "job": "Director",
+            "known_for_department": "Writing",
+            "name": "Giorgio Amato",
+            "original_name": "Giorgio Amato",
+            "popularity": 0.2526,
+            "profile_path": "/9BMpgZeidLPIM2aamtkKVXnrRAA.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6a29e02b4889e18f2c9dafb8",
+            "department": "Writing",
+            "gender": 2,
+            "id": 1296223,
+            "job": "Writer",
+            "known_for_department": "Writing",
+            "name": "Giorgio Amato",
+            "original_name": "Giorgio Amato",
+            "popularity": 0.2526,
+            "profile_path": "/9BMpgZeidLPIM2aamtkKVXnrRAA.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6a29e0388044e218cc4d1549",
+            "department": "Camera",
+            "gender": 0,
+            "id": 3821127,
+            "job": "Director of Photography",
+            "known_for_department": "Camera",
+            "name": "Andrea Gabriele",
+            "original_name": "Andrea Gabriele",
+            "popularity": 0.0676,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a29e044a6fdf790be9db05a",
+            "department": "Editing",
+            "gender": 2,
+            "id": 1296223,
+            "job": "Editor",
+            "known_for_department": "Writing",
+            "name": "Giorgio Amato",
+            "original_name": "Giorgio Amato",
+            "popularity": 0.2526,
+            "profile_path": "/9BMpgZeidLPIM2aamtkKVXnrRAA.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6a29e0509dbf0412e29db15c",
+            "department": "Art",
+            "gender": 0,
+            "id": 2330802,
+            "job": "Production Design",
+            "known_for_department": "Art",
+            "name": "Massimiliano Mereu",
+            "original_name": "Massimiliano Mereu",
+            "popularity": 0.0604,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a29e060d39db0a4d39db0cf",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 1769775,
+            "job": "Costume Design",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Antonella Balsamo",
+            "original_name": "Antonella Balsamo",
+            "popularity": 0.1173,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a29e06acded88d96e685427",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1615552,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "Eugenio Vicedomini",
+            "original_name": "Eugenio Vicedomini",
+            "popularity": 0.117,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a29e0798d78a824724d12ef",
+            "department": "Production",
+            "gender": 0,
+            "id": 2330803,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Alessandro Carpigo",
+            "original_name": "Alessandro Carpigo",
+            "popularity": 0.0264,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a29e081dda49cfb672cdd8a",
+            "department": "Production",
+            "gender": 0,
+            "id": 2330804,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Bruno Frustaci",
+            "original_name": "Bruno Frustaci",
+            "popularity": 0.1395,
+            "profile_path": null
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 35,
+          "name": "Commedia"
+        }
+      ],
+      "homepage": "",
+      "id": 1708043,
+      "imdb_id": "tt39045046",
+      "origin_country": [
+        "IT"
+      ],
+      "original_language": "it",
+      "original_title": "Election Day",
+      "overview": "Mentre si avvicina il verdetto delle elezioni politiche, la notte dello scrutinio la deputata progressista Renata Innocenti – candidata di punta al ruolo di Ministro della Pubblica Istruzione in caso di vittoria della sua coalizione – segue l’andamento dei risultati dalla propria abitazione insieme al suo staff. I primi exit poll delineano uno scenario di perfetta parità, destinato a risolversi per pochissimi voti. Tuttavia, proprio quella stessa sera, Renata ignora che il suo compagno, il giornalista sportivo Carlo De Santis, è coinvolto in un caso mediatico: durante un collegamento dal campo, ha rivolto a un calciatore nero un’offesa di stampo razzista.",
+      "popularity": 1.88,
+      "poster_path": "/lYndI3wlV6QD1HGuEVUihAUkBsi.jpg",
+      "production_companies": [
+        {
+          "id": 176136,
+          "logo_path": null,
+          "name": "Sunshine Production",
+          "origin_country": "IT"
+        },
+        {
+          "id": 6246,
+          "logo_path": "/7X6pfxldTiOD7MLo2EQqUQlmOUw.png",
+          "name": "Medusa Film",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "release_date": "2026-07-09",
+      "revenue": 0,
+      "runtime": 0,
+      "softcore": false,
+      "spoken_languages": [],
+      "status": "Released",
+      "tagline": "Una candidata, un'elezione, una notte d'imprevisti.",
+      "title": "Election Day",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Mentre si avvicina il verdetto delle elezioni politiche, la notte dello scrutinio la deputata progressista Renata Innocenti – candidata di punta al ruolo di Ministro della Pubblica Istruzione in caso di vittoria della sua coalizione – segue l’andamento dei risultati dalla propria abitazione insieme al suo staff. I primi exit poll delineano uno scenario di perfetta parità, destinato a risolversi per pochissimi voti. Tuttavia, proprio quella stessa sera, Renata ignora che il suo compagno, il giornalista sportivo Carlo De Santis, è coinvolto in un caso mediatico: durante un collegamento dal campo, ha rivolto a un calciatore nero un’offesa di stampo razzista.",
+              "runtime": 0,
+              "tagline": "Una candidata, un'elezione, una notte d'imprevisti.",
+              "title": ""
+            },
+            "english_name": "Italian",
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
     "171061": {
       "adult": false,
       "backdrop_path": "/5qyNcOdKLiYPC5L7et1uO17e0iB.jpg",
@@ -240893,6 +242438,76 @@
             "iso_3166_1": "US",
             "iso_639_1": "en",
             "name": "English"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    "1722720": {
+      "adult": false,
+      "backdrop_path": null,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [],
+        "crew": []
+      },
+      "genres": [],
+      "homepage": "",
+      "id": 1722720,
+      "imdb_id": "tt43619348",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "en",
+      "original_title": "ATEEZ: LIGHT THE WAY IN CINEMAS",
+      "overview": "",
+      "popularity": 0.6353,
+      "poster_path": "/jPtUs7hVAp08FjOR2YnojdPhayX.jpg",
+      "production_companies": [],
+      "production_countries": [
+        {
+          "iso_3166_1": "KR",
+          "name": "South Korea"
+        }
+      ],
+      "release_date": "2026-08-06",
+      "revenue": 0,
+      "runtime": 65,
+      "softcore": false,
+      "spoken_languages": [],
+      "status": "In Production",
+      "tagline": "",
+      "title": "ATEEZ: LIGHT THE WAY IN CINEMAS",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "One day, a mysterious message arrives for ATEEZ, who had been spending a peaceful time in their hideout. At that moment, everything began to change. ATINY has vanished… As if under a spell, ATEEZ wanders through a dreamlike wasteland, into a collapsing world engulfed in flames, and the Dark City veiled in dense fog. Pursued by an unknown force, ATEEZ begins to fight back to find ATINY. Experience an intense immersion where every second counts with INCEPTION, an explosion of freedom and energy in the global hit BOUNCY (K-HOT CHILLI PEPPERS), and the pinnacle of refined charisma with Ice On My Teeth, now reimagined for the big screen. The world-class cinematic VR concert that captivated audiences around the globe has been fully refitted for cinemas, bringing ATEEZ's electrifying performances to life on the largest stage of all.",
+              "runtime": 65,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Um dia, uma mensagem misteriosa chega ao ATEEZ, que desfrutava de momentos tranquilos em seu esconderijo. Naquele instante, tudo começou a mudar. O ATINY desapareceu... Como se estivessem sob um feitiço, os integrantes do ATEEZ vagam por uma paisagem onírica e desolada, por um mundo em colapso envolto em chamas e pela Cidade Sombria encoberta por uma densa neblina. Perseguidos por uma força desconhecida, eles iniciam uma luta para encontrar o ATINY.",
+              "runtime": 65,
+              "tagline": "",
+              "title": "ATEEZ: 'Light the Way' in Cinemas"
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português"
           }
         ]
       },
@@ -257442,6 +259057,730 @@
       "video": false,
       "vote_average": 7.837,
       "vote_count": 6529
+    },
+    "237957": {
+      "adult": false,
+      "backdrop_path": "/lHbyThckFl6ynruXcGIzwatZU84.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 2,
+            "character": "Odysseus",
+            "credit_id": "52fe4e73c3a36847f8290c75",
+            "gender": 0,
+            "id": 1166314,
+            "known_for_department": "Acting",
+            "name": "Luigi Mezzanotte",
+            "order": 0,
+            "original_name": "Luigi Mezzanotte",
+            "popularity": 0.1233,
+            "profile_path": "/bQRxTcPeggfaTitdx5lqBmvqtiK.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 7,
+            "character": "Calypso",
+            "credit_id": "52fe4e73c3a36847f8290c89",
+            "gender": 1,
+            "id": 1201044,
+            "known_for_department": "Acting",
+            "name": "Branca de Camargo",
+            "order": 1,
+            "original_name": "Branca de Camargo",
+            "popularity": 0.1146,
+            "profile_path": "/hOjrIhVXja75mGZTnDxxcg34H8p.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 3,
+            "character": "Boatswain",
+            "credit_id": "52fe4e73c3a36847f8290c79",
+            "gender": 0,
+            "id": 1274647,
+            "known_for_department": "Acting",
+            "name": "Alex Carozzo",
+            "order": 2,
+            "original_name": "Alex Carozzo",
+            "popularity": 0.0621,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 5,
+            "character": "",
+            "credit_id": "52fe4e73c3a36847f8290c81",
+            "gender": 0,
+            "id": 1180381,
+            "known_for_department": "Acting",
+            "name": "Paola Agosti",
+            "order": 3,
+            "original_name": "Paola Agosti",
+            "popularity": 0.1792,
+            "profile_path": "/g7WYGd91qychvw18wVdVH3beFiz.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 4,
+            "character": "Sailor Admiring Seagulls and Seals",
+            "credit_id": "52fe4e73c3a36847f8290c7d",
+            "gender": 0,
+            "id": 1274648,
+            "known_for_department": "Acting",
+            "name": "Giuseppe Marcoli",
+            "order": 4,
+            "original_name": "Giuseppe Marcoli",
+            "popularity": 0.0362,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 16,
+            "character": "",
+            "credit_id": "5cfd72d2925141749abc8a31",
+            "gender": 1,
+            "id": 1204942,
+            "known_for_department": "Acting",
+            "name": "Mariella Fabbris",
+            "order": 5,
+            "original_name": "Mariella Fabbris",
+            "popularity": 0.1,
+            "profile_path": "/qt7eE83BNtzM3bs6JLBsWToTUqW.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 18,
+            "character": "",
+            "credit_id": "5da23aaca135330012304aac",
+            "gender": 0,
+            "id": 2431104,
+            "known_for_department": "Acting",
+            "name": "Lucilla Giagnoni",
+            "order": 6,
+            "original_name": "Lucilla Giagnoni",
+            "popularity": 0.0347,
+            "profile_path": "/c2tsIj0WVgtieyCC872ANOgKVHT.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "52fe4e73c3a36847f8290c71",
+            "department": "Directing",
+            "gender": 2,
+            "id": 1184377,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Franco Piavoli",
+            "original_name": "Franco Piavoli",
+            "popularity": 0.3333,
+            "profile_path": "/zmJtiwOEvqgD2baOw2FsvC8aGhm.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4e73c3a36847f8290c8f",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1274650,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "Giuseppe Mazzucca",
+            "original_name": "Giuseppe Mazzucca",
+            "popularity": 0.1198,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4e73c3a36847f8290c95",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1274651,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "Luca Tessadrelli",
+            "original_name": "Luca Tessadrelli",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4e73c3a36847f8290ca7",
+            "department": "Production",
+            "gender": 2,
+            "id": 1189898,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Giannandrea Pecorelli",
+            "original_name": "Giannandrea Pecorelli",
+            "popularity": 0.1053,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4e73c3a36847f8290cad",
+            "department": "Production",
+            "gender": 2,
+            "id": 1184377,
+            "job": "Producer",
+            "known_for_department": "Directing",
+            "name": "Franco Piavoli",
+            "original_name": "Franco Piavoli",
+            "popularity": 0.3333,
+            "profile_path": "/zmJtiwOEvqgD2baOw2FsvC8aGhm.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "63b1ac19875d1a00bdde53e8",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1661161,
+            "job": "Sound Mixer",
+            "known_for_department": "Sound",
+            "name": "Fausto Ancillai",
+            "original_name": "Fausto Ancillai",
+            "popularity": 0.3769,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "63b1ac23c56d2d00d8434957",
+            "department": "Sound",
+            "gender": 2,
+            "id": 1184377,
+            "job": "Sound",
+            "known_for_department": "Directing",
+            "name": "Franco Piavoli",
+            "original_name": "Franco Piavoli",
+            "popularity": 0.3333,
+            "profile_path": "/zmJtiwOEvqgD2baOw2FsvC8aGhm.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "63b1ac2d1d1bf400a02e7d18",
+            "department": "Sound",
+            "gender": 0,
+            "id": 2104334,
+            "job": "Sound Editor",
+            "known_for_department": "Editing",
+            "name": "Giuliana Zamariola",
+            "original_name": "Giuliana Zamariola",
+            "popularity": 0.0286,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "63b1ac3cc56d2d00d8434967",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 1274653,
+            "job": "Costume Design",
+            "known_for_department": "Art",
+            "name": "Ferruccio Bolognesi",
+            "original_name": "Ferruccio Bolognesi",
+            "popularity": 0.0398,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "66231fa3e894a6016439c104",
+            "department": "Crew",
+            "gender": 2,
+            "id": 9812,
+            "job": "Poem",
+            "known_for_department": "Writing",
+            "name": "Omero",
+            "original_name": "Homer",
+            "popularity": 0.5375,
+            "profile_path": "/sa8ZwKAApWurh2QW87miNQcv6iA.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "66231fc7258823017d904d8b",
+            "department": "Writing",
+            "gender": 2,
+            "id": 1184377,
+            "job": "Writer",
+            "known_for_department": "Directing",
+            "name": "Franco Piavoli",
+            "original_name": "Franco Piavoli",
+            "popularity": 0.3333,
+            "profile_path": "/zmJtiwOEvqgD2baOw2FsvC8aGhm.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "66231fede295b4013199233a",
+            "department": "Art",
+            "gender": 0,
+            "id": 1274653,
+            "job": "Sculptor",
+            "known_for_department": "Art",
+            "name": "Ferruccio Bolognesi",
+            "original_name": "Ferruccio Bolognesi",
+            "popularity": 0.0398,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "66232067258823017d904e71",
+            "department": "Directing",
+            "gender": 0,
+            "id": 1274648,
+            "job": "Assistant Director",
+            "known_for_department": "Acting",
+            "name": "Giuseppe Marcoli",
+            "original_name": "Giuseppe Marcoli",
+            "popularity": 0.0362,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "662320777a97ab017d8bdcae",
+            "department": "Directing",
+            "gender": 0,
+            "id": 2508145,
+            "job": "Assistant Director",
+            "known_for_department": "Acting",
+            "name": "Carlo Malacchini",
+            "original_name": "Carlo Malacchini",
+            "popularity": 0.0311,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "66232182221ba601631238af",
+            "department": "Sound",
+            "gender": 0,
+            "id": 4663928,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "Gianandrea Gazzola",
+            "original_name": "Gianandrea Gazzola",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6623218f7a97ab017d8bdf79",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1357304,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "Luciano Berio",
+            "original_name": "Luciano Berio",
+            "popularity": 0.1755,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "662321bae295b4014a992aea",
+            "department": "Sound",
+            "gender": 2,
+            "id": 2876480,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "Александр Бородин",
+            "original_name": "Александр Бородин",
+            "popularity": 0.0921,
+            "profile_path": "/q0dqynCkiIuC9F1qCt9QbhtOUW1.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "662322022e2b2c0187658d85",
+            "department": "Sound",
+            "gender": 0,
+            "id": 2668882,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "Rudolf Maros",
+            "original_name": "Rudolf Maros",
+            "popularity": 0.0748,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "66232219cb5c8e01643e89d2",
+            "department": "Sound",
+            "gender": 2,
+            "id": 95914,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "Claudio Monteverdi",
+            "original_name": "Claudio Monteverdi",
+            "popularity": 0.2007,
+            "profile_path": "/jOCDfg8XQABcdgQUXe62yrnKT2y.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6623223b7a97ab017d8be11f",
+            "department": "Sound",
+            "gender": 0,
+            "id": 4663932,
+            "job": "Musician",
+            "known_for_department": "Sound",
+            "name": "Anna Loro",
+            "original_name": "Anna Loro",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6623224cb9a0bd017ad43c4a",
+            "department": "Sound",
+            "gender": 0,
+            "id": 4663933,
+            "job": "Musician",
+            "known_for_department": "Sound",
+            "name": "Massimo Rubulotta",
+            "original_name": "Massimo Rubulotta",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6623225eaf9590016466d34e",
+            "department": "Sound",
+            "gender": 0,
+            "id": 3856440,
+            "job": "Conductor",
+            "known_for_department": "Sound",
+            "name": "Flavio Colusso",
+            "original_name": "Flavio Colusso",
+            "popularity": 0.0286,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "66232276e295b40187995e6b",
+            "department": "Camera",
+            "gender": 0,
+            "id": 4663935,
+            "job": "Still Photographer",
+            "known_for_department": "Camera",
+            "name": "Luciana Mulas",
+            "original_name": "Luciana Mulas",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6623229f63d9370164711a8f",
+            "department": "Editing",
+            "gender": 0,
+            "id": 3749648,
+            "job": "Color Timer",
+            "known_for_department": "Editing",
+            "name": "Sergio Lustri",
+            "original_name": "Sergio Lustri",
+            "popularity": 0.058,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6623dd76af9590017d67b35d",
+            "department": "Art",
+            "gender": 0,
+            "id": 3448452,
+            "job": "Assistant Production Design",
+            "known_for_department": "Art",
+            "name": "Giancarlo Aymerich",
+            "original_name": "Giancarlo Aymerich",
+            "popularity": 0.0593,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6623debe2dda890164e04456",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1710018,
+            "job": "Foley Artist",
+            "known_for_department": "Sound",
+            "name": "Paolo Frati",
+            "original_name": "Paolo Frati",
+            "popularity": 0.1193,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6623deeb63d937018771e457",
+            "department": "Crew",
+            "gender": 0,
+            "id": 4664844,
+            "job": "Thanks",
+            "known_for_department": "Crew",
+            "name": "Mario Mastrelli",
+            "original_name": "Mario Mastrelli",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6623defa07faa2018798ccc5",
+            "department": "Crew",
+            "gender": 0,
+            "id": 4664845,
+            "job": "Thanks",
+            "known_for_department": "Crew",
+            "name": "Dorotea Balhuf",
+            "original_name": "Dorotea Balhuf",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6623df09258823017d90e259",
+            "department": "Crew",
+            "gender": 0,
+            "id": 4664847,
+            "job": "Thanks",
+            "known_for_department": "Crew",
+            "name": "Carlo Guglielminetti",
+            "original_name": "Carlo Guglielminetti",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6623df16e295b4018799e9f9",
+            "department": "Crew",
+            "gender": 0,
+            "id": 4664848,
+            "job": "Thanks",
+            "known_for_department": "Crew",
+            "name": "Franca Grisoni",
+            "original_name": "Franca Grisoni",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6623df2662f335017dd84bd7",
+            "department": "Crew",
+            "gender": 0,
+            "id": 4664849,
+            "job": "Thanks",
+            "known_for_department": "Crew",
+            "name": "Sandro Campanelli",
+            "original_name": "Sandro Campanelli",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6623df35b9a0bd017ad4e081",
+            "department": "Crew",
+            "gender": 0,
+            "id": 4664851,
+            "job": "Thanks",
+            "known_for_department": "Crew",
+            "name": "Alberto Lorica",
+            "original_name": "Alberto Lorica",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5c539baf0e0a26495adeeb2a",
+            "department": "Camera",
+            "gender": 2,
+            "id": 1184377,
+            "job": "Director of Photography",
+            "known_for_department": "Directing",
+            "name": "Franco Piavoli",
+            "original_name": "Franco Piavoli",
+            "popularity": 0.3333,
+            "profile_path": "/zmJtiwOEvqgD2baOw2FsvC8aGhm.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5c539bc50e0a2662a4d05f3c",
+            "department": "Editing",
+            "gender": 2,
+            "id": 1184377,
+            "job": "Editor",
+            "known_for_department": "Directing",
+            "name": "Franco Piavoli",
+            "original_name": "Franco Piavoli",
+            "popularity": 0.3333,
+            "profile_path": "/zmJtiwOEvqgD2baOw2FsvC8aGhm.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "676b52ce162fa5e33a64a064",
+            "department": "Writing",
+            "gender": 2,
+            "id": 9812,
+            "job": "Original Story",
+            "known_for_department": "Writing",
+            "name": "Omero",
+            "original_name": "Homer",
+            "popularity": 0.5375,
+            "profile_path": "/sa8ZwKAApWurh2QW87miNQcv6iA.jpg"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 18,
+          "name": "Dramma"
+        },
+        {
+          "id": 12,
+          "name": "Avventura"
+        }
+      ],
+      "homepage": "",
+      "id": 237957,
+      "imdb_id": "tt0100271",
+      "origin_country": [
+        "IT"
+      ],
+      "original_language": "it",
+      "original_title": "Nostos: il ritorno",
+      "overview": "Alla fine della guerra, Ulisse, l'eroe errante, con i suoi compagni inizia la sua navigazione di ritorno a casa nel Mediterraneo. La conclusione della sua avventura è ritardata da molti ostacoli naturali e intraprende un viaggio interiore di ricordi fugaci della sua infanzia, dei suoi genitori, dell'amore per una bella ragazza, della nostalgia per il passato, del rimpianto per quello che ha fatto e del profondo silenzio che avvolge tutto. Affronta la solitudine più terribile in seguito a un naufragio in cui muoiono tutti i compagni.",
+      "popularity": 0.4773,
+      "poster_path": "/kKNUsI1DUmggpRgx4wpCtKKkEwB.jpg",
+      "production_companies": [
+        {
+          "id": 83351,
+          "logo_path": null,
+          "name": "Cooperativa Immaginazione",
+          "origin_country": "IT"
+        },
+        {
+          "id": 83350,
+          "logo_path": "/7Xr1LAytXlm5QkJMRYrPtRfIEJn.png",
+          "name": "Zefiro",
+          "origin_country": "IT"
+        },
+        {
+          "id": 13561,
+          "logo_path": null,
+          "name": "Ministero del Turismo e dello Spettacolo",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "release_date": "1990-05-26",
+      "revenue": 0,
+      "runtime": 88,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Nostos: Il ritorno",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "At the end of the war, Odysseus, the wandering hero, with his companions begins his sail back home to the Mediterranean. The conclusion of his adventure is delayed by many natural obstacles and he takes an internal journey of fleeting memories of his childhood, his parents, love for a beautiful girl, nostalgia for the past, regret for what he did, and the deep silence that envelops everything. He confronts the most terrible loneliness following a shipwreck in which all the comrades perish.",
+              "runtime": 88,
+              "tagline": "",
+              "title": "Nostos: The Return"
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "German",
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Alla fine della guerra, Ulisse, l'eroe errante, con i suoi compagni inizia la sua navigazione di ritorno a casa nel Mediterraneo. La conclusione della sua avventura è ritardata da molti ostacoli naturali e intraprende un viaggio interiore di ricordi fugaci della sua infanzia, dei suoi genitori, dell'amore per una bella ragazza, della nostalgia per il passato, del rimpianto per quello che ha fatto e del profondo silenzio che avvolge tutto. Affronta la solitudine più terribile in seguito a un naufragio in cui muoiono tutti i compagni.",
+              "runtime": 88,
+              "tagline": "",
+              "title": "Nostos: Il ritorno"
+            },
+            "english_name": "Italian",
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Após o fim da guerra, Ulisses e seus companheiros tentam, no meio de inúmeras adversidades, voltar para casa.",
+              "runtime": 88,
+              "tagline": "",
+              "title": "Nostos: il ritorno"
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "尤利西斯归来"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "À la fin de la guerre, Ulysse, le héros errant, entame avec ses compagnons son voyage de retour vers la Méditerranée. La conclusion de son aventure est retardée par de nombreux obstacles naturels et il entreprend un voyage intérieur fait de souvenirs fugaces de son enfance, de ses parents, de son amour pour une belle fille, de nostalgie du passé, de regrets pour ce qu'il a fait et du profond silence qui enveloppe tout. Il affronte la plus terrible des solitudes après un naufrage dans lequel tous ses camarades périssent.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "French",
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "尤利西斯歸來"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "HK",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 37
     },
     "239": {
       "adult": false,
@@ -391454,6 +393793,887 @@
       "vote_average": 6.2,
       "vote_count": 452
     },
+    "75363": {
+      "adult": false,
+      "backdrop_path": "/2u9BoSFs0gmOPoiQDrRqvOtE3BD.jpg",
+      "belongs_to_collection": null,
+      "budget": 4700000,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 2,
+            "character": "Captain Ernst Hardt",
+            "credit_id": "52fe48fdc3a368484e1150e1",
+            "gender": 2,
+            "id": 3001,
+            "known_for_department": "Acting",
+            "name": "Conrad Veidt",
+            "order": 0,
+            "original_name": "Conrad Veidt",
+            "popularity": 0.9286,
+            "profile_path": "/rmlK341dwK57BVWz1S96tpv7SSF.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 4,
+            "character": "Ashington",
+            "credit_id": "52fe48fdc3a368484e1150e9",
+            "gender": 2,
+            "id": 28235,
+            "known_for_department": "Acting",
+            "name": "Sebastian Shaw",
+            "order": 1,
+            "original_name": "Sebastian Shaw",
+            "popularity": 0.8084,
+            "profile_path": "/ouOX4GU9xYtaKOLxJYhwVArexSY.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 3,
+            "character": "The School Mistress",
+            "credit_id": "52fe48fdc3a368484e1150e5",
+            "gender": 1,
+            "id": 2924,
+            "known_for_department": "Acting",
+            "name": "Valerie Hobson",
+            "order": 2,
+            "original_name": "Valerie Hobson",
+            "popularity": 0.7702,
+            "profile_path": "/1sfD32ahPZwDIcWUIlx4tFG8fnr.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 5,
+            "character": "Lieutenant Felix Schuster",
+            "credit_id": "52fe48fdc3a368484e1150ed",
+            "gender": 2,
+            "id": 38037,
+            "known_for_department": "Acting",
+            "name": "Marius Goring",
+            "order": 3,
+            "original_name": "Marius Goring",
+            "popularity": 0.8289,
+            "profile_path": "/tBlkEduzwxRGP7Jq5NIGOy2O4E4.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 6,
+            "character": "Anne Burnett",
+            "credit_id": "53df10900e0a265a93003904",
+            "gender": 1,
+            "id": 39800,
+            "known_for_department": "Acting",
+            "name": "June Duprez",
+            "order": 4,
+            "original_name": "June Duprez",
+            "popularity": 0.695,
+            "profile_path": "/5aNLoJ9FkbtJR7FphXHXvSldX0V.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 7,
+            "character": "The Rev. Hector Matthews",
+            "credit_id": "53df10a00e0a265a830039fb",
+            "gender": 2,
+            "id": 140109,
+            "known_for_department": "Acting",
+            "name": "Athole Stewart",
+            "order": 5,
+            "original_name": "Athole Stewart",
+            "popularity": 0.4147,
+            "profile_path": "/8JvkxDqPjDjLfFOC1zTXUjcdn56.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 8,
+            "character": "Mrs. Matthews",
+            "credit_id": "53df10b40e0a265a90003950",
+            "gender": 0,
+            "id": 1300301,
+            "known_for_department": "Acting",
+            "name": "Agnes Lauchlan",
+            "order": 6,
+            "original_name": "Agnes Lauchlan",
+            "popularity": 0.2586,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 9,
+            "character": "Mrs. Sedley",
+            "credit_id": "53df10c40e0a265a9300390e",
+            "gender": 1,
+            "id": 3674,
+            "known_for_department": "Acting",
+            "name": "Helen Haye",
+            "order": 7,
+            "original_name": "Helen Haye",
+            "popularity": 2.8061,
+            "profile_path": "/hWQtfr9n08UjPOwNA8NduL5P9a6.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 18,
+            "character": "The Rev. John Harris",
+            "credit_id": "5547b333c3a3680cdb00bb86",
+            "gender": 2,
+            "id": 12729,
+            "known_for_department": "Acting",
+            "name": "Cyril Raymond",
+            "order": 8,
+            "original_name": "Cyril Raymond",
+            "popularity": 0.3893,
+            "profile_path": "/7EhrpdF8bVDMhi2k5VYrLyQC7wr.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 19,
+            "character": "Captain Ratter",
+            "credit_id": "5547b343925141114a00462c",
+            "gender": 0,
+            "id": 1023537,
+            "known_for_department": "Acting",
+            "name": "George Summers",
+            "order": 9,
+            "original_name": "George Summers",
+            "popularity": 0.0404,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 20,
+            "character": "Engineer",
+            "credit_id": "5547b350c3a36816bf004c62",
+            "gender": 2,
+            "id": 552408,
+            "known_for_department": "Acting",
+            "name": "Hay Petrie",
+            "order": 10,
+            "original_name": "Hay Petrie",
+            "popularity": 0.4075,
+            "profile_path": "/33sTp5sSEGS0aDQva2BQlKXPaMT.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 21,
+            "character": "Bob Bratt",
+            "credit_id": "5547b360925141114a00462f",
+            "gender": 2,
+            "id": 1023534,
+            "known_for_department": "Acting",
+            "name": "Grant Sutherland",
+            "order": 11,
+            "original_name": "Grant Sutherland",
+            "popularity": 0.119,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 22,
+            "character": "Admiral",
+            "credit_id": "5547b36d92514119e000927c",
+            "gender": 2,
+            "id": 967735,
+            "known_for_department": "Acting",
+            "name": "Robert Rendel",
+            "order": 12,
+            "original_name": "Robert Rendel",
+            "popularity": 0.2281,
+            "profile_path": "/hFiWSLTXVkjn2fjb9WyMcGJNzii.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 23,
+            "character": "Chauffeuse",
+            "credit_id": "5547b390925141114700485f",
+            "gender": 1,
+            "id": 568361,
+            "known_for_department": "Acting",
+            "name": "Mary Morris",
+            "order": 13,
+            "original_name": "Mary Morris",
+            "popularity": 0.7741,
+            "profile_path": "/hMio0icUzhPKb1YOQnAd8CrZFIg.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 24,
+            "character": "Kate",
+            "credit_id": "5547b4f09251414c370095e2",
+            "gender": 1,
+            "id": 1436935,
+            "known_for_department": "Acting",
+            "name": "Margaret Moffatt",
+            "order": 14,
+            "original_name": "Margaret Moffatt",
+            "popularity": 0.1669,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 46,
+            "character": "Commander Denis",
+            "credit_id": "5d1df2fc55b0c032356a80ac",
+            "gender": 0,
+            "id": 1049417,
+            "known_for_department": "Acting",
+            "name": "Kenneth Warrington",
+            "order": 15,
+            "original_name": "Kenneth Warrington",
+            "popularity": 0.152,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 25,
+            "character": "Submarine Officer",
+            "credit_id": "5547b509c3a36816bf004c82",
+            "gender": 2,
+            "id": 10925,
+            "known_for_department": "Acting",
+            "name": "Torin Thatcher",
+            "order": 16,
+            "original_name": "Torin Thatcher",
+            "popularity": 1.0019,
+            "profile_path": "/d5PZBimAcJjP239mVx98a2Ifv1o.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 26,
+            "character": "Maggie",
+            "credit_id": "5547b5199251414c370095e5",
+            "gender": 1,
+            "id": 84404,
+            "known_for_department": "Acting",
+            "name": "Esma Cannon",
+            "order": 17,
+            "original_name": "Esma Cannon",
+            "popularity": 0.2647,
+            "profile_path": "/qb2r6AeQpcpFDg7W5q4nHCChyL6.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 27,
+            "character": "Bit Part (uncredited)",
+            "credit_id": "5547b5289251417546000316",
+            "gender": 2,
+            "id": 115606,
+            "known_for_department": "Acting",
+            "name": "Cyril Chamberlain",
+            "order": 18,
+            "original_name": "Cyril Chamberlain",
+            "popularity": 0.2042,
+            "profile_path": "/gskpK1VUbASBnRUI6rMvHJji6is.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 28,
+            "character": "Corporal Guarding POW's on Ferry",
+            "credit_id": "5547b540c3a3680ce600bd26",
+            "gender": 0,
+            "id": 1290419,
+            "known_for_department": "Acting",
+            "name": "Bryan Herbert",
+            "order": 19,
+            "original_name": "Bryan Herbert",
+            "popularity": 0.1727,
+            "profile_path": "/snXdsdMNiatxTcQm5vAlRCfJUoL.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 29,
+            "character": "German Sailor looking for Capt. Hardt",
+            "credit_id": "5547b553c3a3680cdb00bbae",
+            "gender": 2,
+            "id": 100770,
+            "known_for_department": "Acting",
+            "name": "Skelton Knaggs",
+            "order": 20,
+            "original_name": "Skelton Knaggs",
+            "popularity": 0.3308,
+            "profile_path": "/xbUWhjciDvMOx1WdoFHwU4680Ph.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 31,
+            "character": "German Officer in Kieler Hof Hotel",
+            "credit_id": "5547b573c3a36816bf004c88",
+            "gender": 2,
+            "id": 32119,
+            "known_for_department": "Acting",
+            "name": "Howard Marion-Crawford",
+            "order": 21,
+            "original_name": "Howard Marion-Crawford",
+            "popularity": 0.5384,
+            "profile_path": "/j1pTA5wHQAiYS7BIsdeyy3uq6ng.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 32,
+            "character": "Hans - Hotel Receptionist",
+            "credit_id": "5547b583c3a36856e5008c88",
+            "gender": 2,
+            "id": 8239,
+            "known_for_department": "Acting",
+            "name": "Bernard Miles",
+            "order": 22,
+            "original_name": "Bernard Miles",
+            "popularity": 0.846,
+            "profile_path": "/wcg0mbHJEU7IXK5lihpMXEVy0jn.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 33,
+            "character": "Newlywed at Kiel Hotel",
+            "credit_id": "5547b5949251412dc600025d",
+            "gender": 2,
+            "id": 97249,
+            "known_for_department": "Acting",
+            "name": "John Penrose",
+            "order": 23,
+            "original_name": "John Penrose",
+            "popularity": 0.3064,
+            "profile_path": "/6mz45BrzD8nlAy9yrzM99uk86k7.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 34,
+            "character": "Armed Guard of POWs on Ferry",
+            "credit_id": "5547b5a492514119e00092ae",
+            "gender": 2,
+            "id": 938201,
+            "known_for_department": "Acting",
+            "name": "Johnnie Schofield",
+            "order": 24,
+            "original_name": "Johnnie Schofield",
+            "popularity": 0.3406,
+            "profile_path": "/dgOHlotFUMJtfZZaEhZ8iyPaHPW.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 35,
+            "character": "Undetermined Minor Role (uncredited)",
+            "credit_id": "5547b5b9c3a368573b008a0d",
+            "gender": 0,
+            "id": 1462969,
+            "known_for_department": "Acting",
+            "name": "Diana Sinclair-Hall",
+            "order": 25,
+            "original_name": "Diana Sinclair-Hall",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 36,
+            "character": "Bell Boy (uncredited)",
+            "credit_id": "5547b5c9c3a36816bf004c8b",
+            "gender": 2,
+            "id": 14107,
+            "known_for_department": "Acting",
+            "name": "Graham Stark",
+            "order": 26,
+            "original_name": "Graham Stark",
+            "popularity": 0.4738,
+            "profile_path": "/qPlAT4tr2ZspEKDCjqeEAs75x2G.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 42,
+            "character": "Passport Official (uncredited)",
+            "credit_id": "58653fc5c3a36852e0020a49",
+            "gender": 2,
+            "id": 133872,
+            "known_for_department": "Acting",
+            "name": "Jack Lambert",
+            "order": 27,
+            "original_name": "Jack Lambert",
+            "popularity": 0.3367,
+            "profile_path": "/7lJaaFvRb44pZ8mHedn9RL0d9F7.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 50,
+            "character": "German Girl (uncredited)",
+            "credit_id": "60c1ec1a839018006edd5475",
+            "gender": 0,
+            "id": 3120364,
+            "known_for_department": "Acting",
+            "name": "Jeanne Macintyre",
+            "order": 28,
+            "original_name": "Jeanne Macintyre",
+            "popularity": 0.0718,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 51,
+            "character": "",
+            "credit_id": "66518105944802d7b4230bbf",
+            "gender": 2,
+            "id": 2463301,
+            "known_for_department": "Acting",
+            "name": "Jack Sharp",
+            "order": 29,
+            "original_name": "Jack Sharp",
+            "popularity": 0.1458,
+            "profile_path": null
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "52fe48fdc3a368484e1150dd",
+            "department": "Directing",
+            "gender": 2,
+            "id": 68424,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Michael Powell",
+            "original_name": "Michael Powell",
+            "popularity": 0.4311,
+            "profile_path": "/qWXLb4nbYsGOrdrcTUL8s953JES.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "53df10d50e0a265a96003a89",
+            "department": "Writing",
+            "gender": 0,
+            "id": 1349479,
+            "job": "Story",
+            "known_for_department": "Writing",
+            "name": "J. Storer Clouston",
+            "original_name": "J. Storer Clouston",
+            "popularity": 0.0487,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "53df10e20e0a265a8a003768",
+            "department": "Writing",
+            "gender": 2,
+            "id": 37846,
+            "job": "Screenplay",
+            "known_for_department": "Writing",
+            "name": "Emeric Pressburger",
+            "original_name": "Emeric Pressburger",
+            "popularity": 0.3909,
+            "profile_path": "/wb8vDYVpKSjgJS1SmrX9PchDWc7.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "53df10ee0e0a265a8d003a83",
+            "department": "Writing",
+            "gender": 2,
+            "id": 929205,
+            "job": "Scenario Writer",
+            "known_for_department": "Writing",
+            "name": "Roland Pertwee",
+            "original_name": "Roland Pertwee",
+            "popularity": 0.2602,
+            "profile_path": "/w95854ADL2xrLMj7EiGlwiUTl5a.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "53df113a0e0a265a860039f2",
+            "department": "Art",
+            "gender": 0,
+            "id": 1349482,
+            "job": "Art Direction",
+            "known_for_department": "Art",
+            "name": "Frederick Pusey",
+            "original_name": "Frederick Pusey",
+            "popularity": 0.0724,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "53df112c0e0a265a96003a97",
+            "department": "Editing",
+            "gender": 2,
+            "id": 54033,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "Hugh Stewart",
+            "original_name": "Hugh Stewart",
+            "popularity": 0.1366,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "53df11030e0a265a8d003a86",
+            "department": "Production",
+            "gender": 2,
+            "id": 115373,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Irving Asher",
+            "original_name": "Irving Asher",
+            "popularity": 0.1095,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "56cfaeaa9251413e59004220",
+            "department": "Sound",
+            "gender": 2,
+            "id": 7647,
+            "job": "Original Music Composer",
+            "known_for_department": "Sound",
+            "name": "Miklós Rózsa",
+            "original_name": "Miklós Rózsa",
+            "popularity": 0.3782,
+            "profile_path": "/zvIVRP9H2SnznXIYqFIvSJwUo21.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "56cfae9fc3a3681e39003fbe",
+            "department": "Camera",
+            "gender": 0,
+            "id": 1348540,
+            "job": "Director of Photography",
+            "known_for_department": "Camera",
+            "name": "Bernard Browne",
+            "original_name": "Bernard Browne",
+            "popularity": 0.1637,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "56cfaec8c3a3681e3e004a6c",
+            "department": "Directing",
+            "gender": 0,
+            "id": 1582989,
+            "job": "Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Patrick Jennings",
+            "original_name": "Patrick Jennings",
+            "popularity": 0.0538,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5ba030499251417f2a003529",
+            "department": "Production",
+            "gender": 2,
+            "id": 2490,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Alexander Korda",
+            "original_name": "Alexander Korda",
+            "popularity": 0.4518,
+            "profile_path": "/etqG9tufDO5Lee6tjsQVkRCMgAf.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5ba0306e9251417f2000377c",
+            "department": "Sound",
+            "gender": 2,
+            "id": 960844,
+            "job": "Sound Director",
+            "known_for_department": "Sound",
+            "name": "A.W. Watkins",
+            "original_name": "A.W. Watkins",
+            "popularity": 0.2165,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5ba03079c3a3687106003ea0",
+            "department": "Sound",
+            "gender": 0,
+            "id": 12247,
+            "job": "Boom Operator",
+            "known_for_department": "Sound",
+            "name": "John W. Mitchell",
+            "original_name": "John W. Mitchell",
+            "popularity": 0.3039,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5d7abaa3069f0e066f315e3d",
+            "department": "Editing",
+            "gender": 2,
+            "id": 17762,
+            "job": "Supervising Film Editor",
+            "known_for_department": "Editing",
+            "name": "William Hornbeck",
+            "original_name": "William Hornbeck",
+            "popularity": 0.1905,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5d7abb2c069f0e066d31609a",
+            "department": "Sound",
+            "gender": 2,
+            "id": 39055,
+            "job": "Music Director",
+            "known_for_department": "Sound",
+            "name": "Muir Mathieson",
+            "original_name": "Muir Mathieson",
+            "popularity": 0.2144,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5d7aba5baf43247fa2979ccc",
+            "department": "Art",
+            "gender": 2,
+            "id": 33261,
+            "job": "Supervising Art Director",
+            "known_for_department": "Art",
+            "name": "Vincent Korda",
+            "original_name": "Vincent Korda",
+            "popularity": 0.2607,
+            "profile_path": null
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 10752,
+          "name": "Guerra"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "homepage": "",
+      "id": 75363,
+      "imdb_id": "tt0031968",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_title": "The Spy in Black",
+      "overview": "Quando un capitano di U-Boat tedesco viene inviato in missione di spionaggio nel nord della Scozia durante la prima guerra mondiale, trova più di quanto si aspettasse dal suo contatto, la insegnante della scuola locale.",
+      "popularity": 0.7048,
+      "poster_path": "/evfPIIDbxKyc2CsKDwszUTU6f1s.jpg",
+      "production_companies": [
+        {
+          "id": 73658,
+          "logo_path": null,
+          "name": "Irving Asher Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 659,
+          "logo_path": null,
+          "name": "London Films Productions",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "release_date": "1939-08-03",
+      "revenue": 0,
+      "runtime": 82,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        },
+        {
+          "english_name": "Hungarian",
+          "iso_639_1": "hu",
+          "name": "Magyar"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Dentro la storia di una guerra sottomarina!",
+      "title": "La spia in nero",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "A German submarine is sent to the Orkney Isles in 1917 to sink the British fleet.",
+              "runtime": 82,
+              "tagline": "Today's U-boat terror makes this the year's timeliest picture!",
+              "title": ""
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Un comandante alemán de submarinos, el capitán Hardt, es enviado a la islas Órcadas con la misión de destruir la flota británica apostada en Scapa Flow. Allí encontrará la colaboración del matrimonio Blacklock.",
+              "runtime": 90,
+              "tagline": "¡El terror de los submarinos de hoy hace que este sea el cuadro más oportuno del año!",
+              "title": "El espía negro"
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Pendant la Première Guerre mondiale, au large des côtés écossaises, un sous-marin allemand attend les instructions piour détruire la flotte britannique. Le commandant Hardt doit rencontrer Jill, une institutrice à la solde des allemands afin qu'elle lui procure de nouvelles informations. Ce que ne sait pas encore Hardt, c'est que Jill est un agent double...",
+              "runtime": 0,
+              "tagline": "",
+              "title": "L'Espion noir"
+            },
+            "english_name": "French",
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Als ein deutscher U-Boot-Kapitän während des Ersten Weltkriegs auf eine Spionagemission in den Norden Schottlands geschickt wird, findet er bei seiner Kontaktperson, der örtlichen Lehrerin, mehr, als er erwartet hatte.",
+              "runtime": 77,
+              "tagline": "",
+              "title": "Der Spion in Schwarz"
+            },
+            "english_name": "German",
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Quando un capitano di U-Boat tedesco viene inviato in missione di spionaggio nel nord della Scozia durante la prima guerra mondiale, trova più di quanto si aspettasse dal suo contatto, la insegnante della scuola locale.",
+              "runtime": 82,
+              "tagline": "Dentro la storia di una guerra sottomarina!",
+              "title": "La spia in nero"
+            },
+            "english_name": "Italian",
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Um submarino alemão é enviado para as Ilhas Orkney em 1917 para afundar a frota britânica.\r Quando um capitão de U-Boat alemão é enviado em uma missão de espionagem ao norte da Escócia durante a Primeira Guerra Mundial, ele encontra mais do que esperava com seu contato, a professora da escola local.",
+              "runtime": 82,
+              "tagline": "Longe da Europa em tempos em guerra",
+              "title": "O Espião Submarino"
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "O Espião Negro"
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "PT",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Κατά την διάρκεια του 1ου ΠΠ το 1917, ο πλοίαρχος ενός Γερμανικού υποβρυχίου έχει αποστολή να μεταβεί στην βόρεια Σκωτία και να κατασκοπεύσει τις κινήσεις των Βρετανών.",
+              "runtime": 0,
+              "tagline": "Ο Μαύρος Κατάσκοπος",
+              "title": "Ο Μαύρος Κατάσκοπος"
+            },
+            "english_name": "Greek",
+            "iso_3166_1": "GR",
+            "iso_639_1": "el",
+            "name": "ελληνικά"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "1917 年一战期间，德国 U 型潜艇艇长哈特上尉（康拉德・韦特饰）奉命潜入苏格兰奥克尼群岛，与潜伏的德国间谍接头，目标是侦察英国斯卡帕湾海军基地的舰队动向，引导 U 艇舰队发动突袭。\r 他的接头人是伪装成当地新女教师安妮・伯内特的德国间谍蒂尔小姐（瓦莱丽・霍布森饰），她已截杀并顶替了真教师的身份。同时，一名因酗酒被革职的英国海军前指挥官阿什顿，也被策反协助德军。\r 哈特获取英军舰队情报后，安排 U 艇舰队集结攻击。但他逐渐发现异常：所谓的 “叛徒” 阿什顿实为英国特工布莱克洛克，而 “蒂尔小姐” 正是他的妻子吉尔，两人都是双面间谍，整个任务从一开始就是英军设下的陷阱。\r 哈特察觉真相后试图逃脱，伪装成牧师登上渡轮，却在途中被英军追击。他试图控制渡轮前往接应点，却被自己的 U 艇误认并攻击。最终 U 艇被英军驱逐舰击沉，渡轮受损，哈特选择与船同沉，吉尔则与其他乘客获救。",
+              "runtime": 0,
+              "tagline": "今日的潜艇恐怖事件，使这部电影成为年度最应景之作！",
+              "title": "黑色间谍"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "제1차 세계대전 배경의 잠수함 영화.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "더 스파이 인 블랙"
+            },
+            "english_name": "Korean",
+            "iso_3166_1": "KR",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "U-båtspionen"
+            },
+            "english_name": "Swedish",
+            "iso_3166_1": "SE",
+            "iso_639_1": "sv",
+            "name": "svenska"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Kiel 1917, a német hadiflotta támaszpontja. Hardt kapitány, német tengerésztiszt legénységével különleges küldetést kap, Észak-Skóciában, a brit királyi flotta bázisát kell megsemmisíteniük. Feladatát ugyan pontosan még nem tudja, azonban háború idején a parancs az parancs. Longhope szigetére motorbiciklin érkezik, ez mindenképpen jó álca, senki nem gondolná, hogy éppen egy német tengeralattjáró fedélzetét hagyta el. A titkosügynökök sorsa néha kellemes is lehet, különösen, ha a parancsnokuk egy szép nő, ahogy ez Hardt kapitánnyal is történik. A bökkenő csupán csak az, hogy hamis tanárnőként, jó fellépéssel melyik oldalon áll? A film nagy tanulsága, hogy az ember soha ne számítson az ellenségeire. Ebben a kémfilmben senki sem az, aminek első pillanatban látszik... A film forgatókönyvét Pressburger Imre írta, J.Stobeh Clonston műve nyomán, a zeneszerző pedig a szintén magyar származású, háromszoros Oscar-díjas Rózsa Miklós.",
+              "runtime": 77,
+              "tagline": "",
+              "title": "Kém a sötétben"
+            },
+            "english_name": "Hungarian",
+            "iso_3166_1": "HU",
+            "iso_639_1": "hu",
+            "name": "Magyar"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "In 1917 wordt een Duitse onderzeeër naar de Orkney-eilanden gestuurd om de Britse vloot tot zinken te brengen.",
+              "runtime": 82,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Dutch",
+            "iso_3166_1": "NL",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 6.452,
+      "vote_count": 63
+    },
     "78206": {
       "adult": false,
       "backdrop_path": "/gF3ZLqfGgEXof1gpjvi6e3GkHoB.jpg",
@@ -410147,6 +413367,1093 @@
       "video": false,
       "vote_average": 5.36,
       "vote_count": 25
+    },
+    "92432": {
+      "adult": false,
+      "backdrop_path": "/ntHhAhIDkrELc9i6koBnmsvVF4E.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 2,
+            "character": "Sandra Dawson",
+            "credit_id": "52fe48fd9251416c750b9e35",
+            "gender": 1,
+            "id": 4959,
+            "known_for_department": "Acting",
+            "name": "Claudia Cardinale",
+            "order": 0,
+            "original_name": "Claudia Cardinale",
+            "popularity": 2.2794,
+            "profile_path": "/gbTVdZGrOwteJ7qYSzyn8XpUk0H.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 4,
+            "character": "Gianni Wald-Luzzati",
+            "credit_id": "52fe48fd9251416c750b9e3d",
+            "gender": 2,
+            "id": 9762,
+            "known_for_department": "Acting",
+            "name": "Jean Sorel",
+            "order": 1,
+            "original_name": "Jean Sorel",
+            "popularity": 0.9638,
+            "profile_path": "/fP0u5mPqTbBuJW1Uex0Wfv5rjbG.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 3,
+            "character": "Andrew Dawson",
+            "credit_id": "52fe48fd9251416c750b9e39",
+            "gender": 2,
+            "id": 25536,
+            "known_for_department": "Acting",
+            "name": "Michael Craig",
+            "order": 2,
+            "original_name": "Michael Craig",
+            "popularity": 0.7846,
+            "profile_path": "/uJcPCgWxNkJPY07DtO2bHtjpF5m.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 6,
+            "character": "Antonio Gilardini",
+            "credit_id": "52fe48fd9251416c750b9e45",
+            "gender": 2,
+            "id": 231979,
+            "known_for_department": "Acting",
+            "name": "Renzo Ricci",
+            "order": 3,
+            "original_name": "Renzo Ricci",
+            "popularity": 0.2602,
+            "profile_path": "/36K5gi48RbelsL2OdVZFVwDQWMh.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 7,
+            "character": "Pietro Formari",
+            "credit_id": "52fe48fd9251416c750b9e49",
+            "gender": 2,
+            "id": 44358,
+            "known_for_department": "Acting",
+            "name": "Fred Williams",
+            "order": 4,
+            "original_name": "Fred Williams",
+            "popularity": 0.4708,
+            "profile_path": "/dBvZnvcgzyvjoh2i6bpIR7KuBzC.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 8,
+            "character": "Fosca",
+            "credit_id": "52fe48fd9251416c750b9e4d",
+            "gender": 0,
+            "id": 994222,
+            "known_for_department": "Acting",
+            "name": "Amalia Troiani",
+            "order": 5,
+            "original_name": "Amalia Troiani",
+            "popularity": 0.0706,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 5,
+            "character": "Corinna Gilardini",
+            "credit_id": "52fe48fd9251416c750b9e41",
+            "gender": 1,
+            "id": 239232,
+            "known_for_department": "Acting",
+            "name": "Marie Bell",
+            "order": 6,
+            "original_name": "Marie Bell",
+            "popularity": 0.3783,
+            "profile_path": "/hp8eQUXm8vGyLSwUgdRDLnifRWk.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 23,
+            "character": "",
+            "credit_id": "61b1167c76eecf001929b7e6",
+            "gender": 0,
+            "id": 1872652,
+            "known_for_department": "Acting",
+            "name": "Vittorio Manfrino",
+            "order": 7,
+            "original_name": "Vittorio Manfrino",
+            "popularity": 0.0602,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 24,
+            "character": "",
+            "credit_id": "61b116861d01910064bbf81c",
+            "gender": 2,
+            "id": 101123,
+            "known_for_department": "Acting",
+            "name": "Renato Moretti",
+            "order": 8,
+            "original_name": "Renato Moretti",
+            "popularity": 0.2647,
+            "profile_path": "/yb4Jpcv9eN42YFExRHpvLiS8BCs.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 25,
+            "character": "",
+            "credit_id": "61b1169e326ec1004139ccf0",
+            "gender": 0,
+            "id": 1940013,
+            "known_for_department": "Acting",
+            "name": "Giovanni Rovini",
+            "order": 9,
+            "original_name": "Giovanni Rovini",
+            "popularity": 0.0635,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 26,
+            "character": "",
+            "credit_id": "61b116ab9a64c100852f3c3c",
+            "gender": 0,
+            "id": 2615578,
+            "known_for_department": "Acting",
+            "name": "Paola Piscini",
+            "order": 10,
+            "original_name": "Paola Piscini",
+            "popularity": 0.0264,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 27,
+            "character": "",
+            "credit_id": "61b116d36dea3a004144da72",
+            "gender": 0,
+            "id": 3340790,
+            "known_for_department": "Acting",
+            "name": "Isacco Politi",
+            "order": 11,
+            "original_name": "Isacco Politi",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 56,
+            "character": "Party Guest (uncredited)",
+            "credit_id": "65de5989c92c5d01634780cd",
+            "gender": 0,
+            "id": 102165,
+            "known_for_department": "Production",
+            "name": "Oscar Brazzi",
+            "order": 12,
+            "original_name": "Oscar Brazzi",
+            "popularity": 0.198,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 57,
+            "character": "Party Guest (uncredited)",
+            "credit_id": "65de5993903c520163bd238b",
+            "gender": 2,
+            "id": 131637,
+            "known_for_department": "Acting",
+            "name": "Glenn Saxson",
+            "order": 13,
+            "original_name": "Glenn Saxson",
+            "popularity": 0.3457,
+            "profile_path": "/febZmlBM1wjNOe74GczZXOlTWTf.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 58,
+            "character": "(uncredited)",
+            "credit_id": "65de59a13ff2df01640acdc3",
+            "gender": 2,
+            "id": 1155,
+            "known_for_department": "Art",
+            "name": "Ferdinando Scarfiotti",
+            "order": 14,
+            "original_name": "Ferdinando Scarfiotti",
+            "popularity": 0.2655,
+            "profile_path": "/j5qU1Dfl54QHx9UoIfT7kAfzKZ0.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 59,
+            "character": "(uncredited)",
+            "credit_id": "65de59ab719aeb017be85e20",
+            "gender": 2,
+            "id": 237382,
+            "known_for_department": "Acting",
+            "name": "Bruno Scipioni",
+            "order": 15,
+            "original_name": "Bruno Scipioni",
+            "popularity": 0.4176,
+            "profile_path": "/wXNrM7c0bu5eqYnHou0ekBXUYAy.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "52fe48fd9251416c750b9e6b",
+            "department": "Writing",
+            "gender": 2,
+            "id": 32048,
+            "job": "Screenplay",
+            "known_for_department": "Writing",
+            "name": "Enrico Medioli",
+            "original_name": "Enrico Medioli",
+            "popularity": 0.2959,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe48fd9251416c750b9e83",
+            "department": "Editing",
+            "gender": 2,
+            "id": 15132,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "Mario Serandrei",
+            "original_name": "Mario Serandrei",
+            "popularity": 0.3561,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe48fd9251416c750b9e31",
+            "department": "Directing",
+            "gender": 2,
+            "id": 15127,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Luchino Visconti",
+            "original_name": "Luchino Visconti",
+            "popularity": 1.0456,
+            "profile_path": "/g5jT360l0LlvT9WT2UkHnQo2DhE.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe48fd9251416c750b9e59",
+            "department": "Writing",
+            "gender": 2,
+            "id": 32048,
+            "job": "Story",
+            "known_for_department": "Writing",
+            "name": "Enrico Medioli",
+            "original_name": "Enrico Medioli",
+            "popularity": 0.2959,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe48fd9251416c750b9e77",
+            "department": "Production",
+            "gender": 2,
+            "id": 2378,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Franco Cristaldi",
+            "original_name": "Franco Cristaldi",
+            "popularity": 0.4572,
+            "profile_path": "/wDQ19zZKLBSiwSIIuTKdX6gszYn.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe48fd9251416c750b9e7d",
+            "department": "Camera",
+            "gender": 2,
+            "id": 24665,
+            "job": "Director of Photography",
+            "known_for_department": "Camera",
+            "name": "Armando Nannuzzi",
+            "original_name": "Armando Nannuzzi",
+            "popularity": 0.2229,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe48fd9251416c750b9e53",
+            "department": "Writing",
+            "gender": 1,
+            "id": 24658,
+            "job": "Story",
+            "known_for_department": "Writing",
+            "name": "Suso Cecchi d'Amico",
+            "original_name": "Suso Cecchi d'Amico",
+            "popularity": 0.593,
+            "profile_path": "/2it2PNMhCxKY2Q2VrX98fnrtJt8.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe48fd9251416c750b9e5f",
+            "department": "Writing",
+            "gender": 2,
+            "id": 15127,
+            "job": "Story",
+            "known_for_department": "Directing",
+            "name": "Luchino Visconti",
+            "original_name": "Luchino Visconti",
+            "popularity": 1.0456,
+            "profile_path": "/g5jT360l0LlvT9WT2UkHnQo2DhE.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe48fd9251416c750b9e71",
+            "department": "Writing",
+            "gender": 1,
+            "id": 24658,
+            "job": "Screenplay",
+            "known_for_department": "Writing",
+            "name": "Suso Cecchi d'Amico",
+            "original_name": "Suso Cecchi d'Amico",
+            "popularity": 0.593,
+            "profile_path": "/2it2PNMhCxKY2Q2VrX98fnrtJt8.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe48fd9251416c750b9e65",
+            "department": "Writing",
+            "gender": 2,
+            "id": 15127,
+            "job": "Screenplay",
+            "known_for_department": "Directing",
+            "name": "Luchino Visconti",
+            "original_name": "Luchino Visconti",
+            "popularity": 1.0456,
+            "profile_path": "/g5jT360l0LlvT9WT2UkHnQo2DhE.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "61b118af76eecf00410aae28",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 550631,
+            "job": "Hairstylist",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Iole Cecchini",
+            "original_name": "Iole Cecchini",
+            "popularity": 0.1791,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b11994af3da600412edb51",
+            "department": "Production",
+            "gender": 0,
+            "id": 240901,
+            "job": "Production Secretary",
+            "known_for_department": "Production",
+            "name": "Aldo U. Passalacqua",
+            "original_name": "Aldo U. Passalacqua",
+            "popularity": 0.1752,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b118161684f70061c1b529",
+            "department": "Camera",
+            "gender": 0,
+            "id": 1603951,
+            "job": "Assistant Camera",
+            "known_for_department": "Camera",
+            "name": "Sandro Tamborra",
+            "original_name": "Sandro Tamborra",
+            "popularity": 0.1588,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b117cf5800c4005f0beef8",
+            "department": "Camera",
+            "gender": 0,
+            "id": 70247,
+            "job": "Camera Operator",
+            "known_for_department": "Camera",
+            "name": "Claudio Cirillo",
+            "original_name": "Claudio Cirillo",
+            "popularity": 0.1151,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b1183a2b8a430042e74716",
+            "department": "Camera",
+            "gender": 0,
+            "id": 2357861,
+            "job": "Assistant Camera",
+            "known_for_department": "Camera",
+            "name": "Amedeo Nannuzzi",
+            "original_name": "Amedeo Nannuzzi",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b11798a242320041320bae",
+            "department": "Art",
+            "gender": 0,
+            "id": 95238,
+            "job": "Assistant Set Decoration",
+            "known_for_department": "Art",
+            "name": "Andrea Fantacci",
+            "original_name": "Andrea Fantacci",
+            "popularity": 0.2906,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b117c5326ec1004139ce1b",
+            "department": "Camera",
+            "gender": 2,
+            "id": 24677,
+            "job": "Camera Operator",
+            "known_for_department": "Camera",
+            "name": "Nino Cristiani",
+            "original_name": "Nino Cristiani",
+            "popularity": 0.1913,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b1180ce2ff32001c5dc9d9",
+            "department": "Camera",
+            "gender": 0,
+            "id": 3340801,
+            "job": "Assistant Camera",
+            "known_for_department": "Camera",
+            "name": "Massimo Nannuzzi",
+            "original_name": "Massimo Nannuzzi",
+            "popularity": 0.0404,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b118a5904f6d0087dd93a2",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 1166728,
+            "job": "Assistant Makeup Artist",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Alfredo Marazzi",
+            "original_name": "Alfredo Marazzi",
+            "popularity": 0.136,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b11885904f6d001e5d887a",
+            "department": "Camera",
+            "gender": 2,
+            "id": 1534645,
+            "job": "Still Photographer",
+            "known_for_department": "Camera",
+            "name": "Mario Tursi",
+            "original_name": "Mario Tursi",
+            "popularity": 0.1322,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b1182e9979d205d58f9321",
+            "department": "Camera",
+            "gender": 0,
+            "id": 1120173,
+            "job": "Assistant Camera",
+            "known_for_department": "Camera",
+            "name": "Enrico Umetelli",
+            "original_name": "Enrico Umetelli",
+            "popularity": 0.2326,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b11871af85de001be4824e",
+            "department": "Sound",
+            "gender": 0,
+            "id": 2015442,
+            "job": "Boom Operator",
+            "known_for_department": "Sound",
+            "name": "Bruno Borghi",
+            "original_name": "Bruno Borghi",
+            "popularity": 0.0928,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b1190133ad8f001935d32a",
+            "department": "Sound",
+            "gender": 2,
+            "id": 1193758,
+            "job": "Music",
+            "known_for_department": "Sound",
+            "name": "César Franck",
+            "original_name": "César Franck",
+            "popularity": 0.0692,
+            "profile_path": "/rm3okOLg0RqrztXEbICuuPkUOqP.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "61b1173f1e259a008cf1af3f",
+            "department": "Art",
+            "gender": 0,
+            "id": 1974604,
+            "job": "Set Decoration",
+            "known_for_department": "Art",
+            "name": "Laudomia Hercolani",
+            "original_name": "Laudomia Hercolani",
+            "popularity": 0.0143,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b1178c1684f70042a42bcb",
+            "department": "Art",
+            "gender": 0,
+            "id": 1325270,
+            "job": "Assistant Production Design",
+            "known_for_department": "Art",
+            "name": "Ferdinando Giovannoni",
+            "original_name": "Ferdinando Giovannoni",
+            "popularity": 0.102,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b119425800c4005f0bf0b8",
+            "department": "Editing",
+            "gender": 0,
+            "id": 3340228,
+            "job": "Assistant Editor",
+            "known_for_department": "Editing",
+            "name": "Eva Latini",
+            "original_name": "Eva Latini",
+            "popularity": 0.1038,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b119661684f7001cc72514",
+            "department": "Production",
+            "gender": 0,
+            "id": 1122686,
+            "job": "Production Manager",
+            "known_for_department": "Production",
+            "name": "Sergio Merolle",
+            "original_name": "Sergio Merolle",
+            "popularity": 0.1272,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b119842866fa0061ba07b3",
+            "department": "Production",
+            "gender": 0,
+            "id": 1626007,
+            "job": "Production Supervisor",
+            "known_for_department": "Production",
+            "name": "Rodolfo Martello",
+            "original_name": "Rodolfo Martello",
+            "popularity": 0.1592,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b119b4fc31d300191448b7",
+            "department": "Production",
+            "gender": 0,
+            "id": 3327286,
+            "job": "Administration",
+            "known_for_department": "Production",
+            "name": "Enzo Consolini",
+            "original_name": "Enzo Consolini",
+            "popularity": 0.0826,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b1177368929c0042fd0c63",
+            "department": "Directing",
+            "gender": 0,
+            "id": 1502720,
+            "job": "Second Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Albino Cocco",
+            "original_name": "Albino Cocco",
+            "popularity": 0.1269,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b1175f326ec1001c8b749a",
+            "department": "Directing",
+            "gender": 0,
+            "id": 1569880,
+            "job": "First Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Rinaldo Ricci",
+            "original_name": "Rinaldo Ricci",
+            "popularity": 0.3323,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b1189a33ad8f005ef74643",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 1586001,
+            "job": "Makeup Artist",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Michele Trimarchi",
+            "original_name": "Michele Trimarchi",
+            "popularity": 0.1665,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b118596d97e6008f2b0023",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1626009,
+            "job": "Sound",
+            "known_for_department": "Sound",
+            "name": "Claudio Maielli",
+            "original_name": "Claudio Maielli",
+            "popularity": 0.0999,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61b1194c68929c0093ed24b0",
+            "department": "Editing",
+            "gender": 0,
+            "id": 3044253,
+            "job": "Assistant Editor",
+            "known_for_department": "Editing",
+            "name": "Roberto Borghi",
+            "original_name": "Roberto Borghi",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "65de59cfc99826014a594c97",
+            "department": "Sound",
+            "gender": 0,
+            "id": 2015442,
+            "job": "Sound Mixer",
+            "known_for_department": "Sound",
+            "name": "Bruno Borghi",
+            "original_name": "Bruno Borghi",
+            "popularity": 0.0928,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "66078fba021cee01494788a4",
+            "department": "Crew",
+            "gender": 0,
+            "id": 128925,
+            "job": "Additional Writing",
+            "known_for_department": "Writing",
+            "name": "Giampiero Bona",
+            "original_name": "Giampiero Bona",
+            "popularity": 0.0948,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "660790185900860163b769c9",
+            "department": "Directing",
+            "gender": 0,
+            "id": 1203343,
+            "job": "Second Assistant Director",
+            "known_for_department": "Writing",
+            "name": "Fabio Rinaudo",
+            "original_name": "Fabio Rinaudo",
+            "popularity": 0.1311,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "660790e6f9183a017f48daab",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 2610928,
+            "job": "Seamstress",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Adriana Masseroni",
+            "original_name": "Adriana Masseroni",
+            "popularity": 0.0717,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "660790f4e1faed017dfb7506",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 2324285,
+            "job": "Seamstress",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Lucia Baldacci",
+            "original_name": "Lucia Baldacci",
+            "popularity": 0.1043,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "66079158283ed9017c19da3a",
+            "department": "Sound",
+            "gender": 2,
+            "id": 3340803,
+            "job": "Musician",
+            "known_for_department": "Sound",
+            "name": "Augusto D'Ottavi",
+            "original_name": "Augusto D'Ottavi",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "660792a2e6271901490c14ab",
+            "department": "Production",
+            "gender": 0,
+            "id": 102165,
+            "job": "General Manager",
+            "known_for_department": "Production",
+            "name": "Oscar Brazzi",
+            "original_name": "Oscar Brazzi",
+            "popularity": 0.198,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "58fe40fdc3a3687a03030e7c",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 1671232,
+            "job": "Costume Design",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Bice Brichetto",
+            "original_name": "Bice Brichetto",
+            "popularity": 0.0596,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "58fe40eec3a3687a15030974",
+            "department": "Art",
+            "gender": 2,
+            "id": 32382,
+            "job": "Production Design",
+            "known_for_department": "Art",
+            "name": "Mario Garbuglia",
+            "original_name": "Mario Garbuglia",
+            "popularity": 0.15,
+            "profile_path": "/ywMpot0GmMWeqBLfc8O8CM3YkTJ.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "58fe410c925141640b0341f6",
+            "department": "Directing",
+            "gender": 0,
+            "id": 1802933,
+            "job": "Script Supervisor",
+            "known_for_department": "Directing",
+            "name": "Giulio Biagetti",
+            "original_name": "Giulio Biagetti",
+            "popularity": 0.0071,
+            "profile_path": null
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 18,
+          "name": "Dramma"
+        },
+        {
+          "id": 9648,
+          "name": "Mistero"
+        }
+      ],
+      "homepage": "",
+      "id": 92432,
+      "imdb_id": "tt0059856",
+      "origin_country": [
+        "IT"
+      ],
+      "original_language": "it",
+      "original_title": "Vaghe stelle dell'Orsa...",
+      "overview": "Di ritorno a Volterra, sua città natale, una donna sposata è assalita dai fantasmi del passato. Sulla famiglia pesano diverse tragedie, tra le quali la morte del padre, ebreo, deportato dai nazisti in un campo di concentramento. La donna è accusata dal patrigno di aver denunciato il genitore e di aver avuto rapporti incestuosi col fratello. Lei, abbandonata dal marito, tronca ogni legame con i suoi, il fratello, disperato, si suicida.",
+      "popularity": 0.5602,
+      "poster_path": "/usLsMyLnF9o6pInfc32VDzpU9iY.jpg",
+      "production_companies": [
+        {
+          "id": 12111,
+          "logo_path": null,
+          "name": "Vides Cinematografica",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "release_date": "1965-09-16",
+      "revenue": 0,
+      "runtime": 105,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "Hebrew",
+          "iso_639_1": "he",
+          "name": "עִבְרִית"
+        },
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Vaghe stelle dell'Orsa...",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Après des années d'absence, Sandra revient à Volterra, sa ville natale pour assister à une cérémonie de donation du jardin familial à la Municipalité en la mémoire de son père. Elle est accompagnée de son mari Andrew, follement amoureux d'elle et désireux de connaître le lieu où son épouse a passé sa jeunesse. Dans cette immense maison, Sandra est envahie par les souvenirs du passé. Elle retrouve surtout son frère Gianni, jeune écrivain avec lequel elle entretient une relation ambiguë et qui écrit un roman autobiographique Vaghe stelle dell'Orsa...",
+              "runtime": 105,
+              "tagline": "",
+              "title": "Sandra"
+            },
+            "english_name": "French",
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Sandra returns to her hometown to take care of family business, but childhood memories and secrets soon overcome her.",
+              "runtime": 100,
+              "tagline": "Sandra is excitement! What Sandra does... is astonishing!",
+              "title": "Sandra"
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Di ritorno a Volterra, sua città natale, una donna sposata è assalita dai fantasmi del passato. Sulla famiglia pesano diverse tragedie, tra le quali la morte del padre, ebreo, deportato dai nazisti in un campo di concentramento. La donna è accusata dal patrigno di aver denunciato il genitore e di aver avuto rapporti incestuosi col fratello. Lei, abbandonata dal marito, tronca ogni legame con i suoi, il fratello, disperato, si suicida.",
+              "runtime": 105,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Italian",
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Sandra Dawson (Claudia Cardinale) regresa al pueblo de su infancia, Volterra, en la Toscana, y lo hace acompañada de Andrew, su marido (Michael Craig). Una vez instalada en su casa natal, la persigue el recuerdo de su padre, muerto en el campo de concentración de Auschwitz.",
+              "runtime": 93,
+              "tagline": "",
+              "title": "Sandra"
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 105,
+              "tagline": "",
+              "title": "Sandra - Die Triebhafte"
+            },
+            "english_name": "German",
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Η Σάντρα κι ο Αμερικανός σύζυγός της πηγαίνουν στη Βολτέρα, γενέθλια πόλη της γυναίκας,  για να παραστούν στη δωρεά του κήπου της οικογενειακής έπαυλης που θα γίνει δημόσιο πάρκο. Η επιστροφή προκαλεί αναστάτωση στη Σάντρα, καθώς ξαναβλέπει τη μητέρα της που νοσηλεύεται σε ψυχιατρική κλινική, αλλά και τον αδελφό της με τον οποίο διατηρούσε μια νοσηρή σχέση.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Τα Μακρυνά Αστέρια της Άρκτου"
+            },
+            "english_name": "Greek",
+            "iso_3166_1": "GR",
+            "iso_639_1": "el",
+            "name": "ελληνικά"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Sandra volta para Volterra, na Toscana, a pequena cidade onde passou a infância. Ela está com o marido americano, Andrew. Ela deseja homenagear seu pai que morreu em Auschwitz, quando ela ainda era criança pequena. Em Volterra, Andrew encontra pela primeira vez Gianni, o irmão de Sandra. Logo percebe que Sandra e Gianni têm um segredo desde sua infância. (e 18 - Estimado 18 Anos)  2 versões de duração:  - 105 min Itália  - 100 min Argentina",
+              "runtime": 105,
+              "tagline": "Sandra ama muito um deles",
+              "title": "Vagas Estrelas da Ursa"
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 105,
+              "tagline": "",
+              "title": "희미한 곰별자리"
+            },
+            "english_name": "Korean",
+            "iso_3166_1": "KR",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "　　意大利女子桑德拉（克劳迪娅·卡汀娜 Claudia Cardinale 饰）带着丈夫回到了自己的故乡，她此行只有一个目的，就是和弟弟姜尼（让·索里尔 Jean Sorel 饰）一起查明父亲真正的死因。姐弟两人的父亲受到纳粹迫害而死在了集中营里，桑德拉和姜尼一直怀疑，当年将父亲出卖给纳粹的正是母亲和她当年的情人，如今姐弟两的继父。  　　实际上，桑德拉和姜尼之间亦有着不可告人的过去，在萌动之际，他们曾经有过僭越了伦理和道德的亲密行为。如今，桑德拉早已经不愿再回想当年的无知和天真，可姜尼却对那段往事念念不忘，甚至妄图令往事重演。愤怒的桑德拉拒绝了弟弟的请求，悲伤和绝望中，姜尼做出了令全家人都追悔莫及的举动。",
+              "runtime": 0,
+              "tagline": "桑德拉真是令人兴奋！桑德拉所做的事情……简直令人惊叹！",
+              "title": "北斗七星"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Американец Эндрю сопровождает молодую жену Сандру в её итальянский дом в Вольтерре. Из шкафов благопорядочного итальянского семейства начинают появляться скелеты. Сандру осаждают воспоминания о погибшем в Освенциме отце, враждебные отношения с матерью и кровосмесительные — с братом Джанни.",
+              "runtime": 100,
+              "tagline": "",
+              "title": "Туманные звёзды Большой Медведицы"
+            },
+            "english_name": "Russian",
+            "iso_3166_1": "RU",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Georgian",
+            "iso_3166_1": "GE",
+            "iso_639_1": "ka",
+            "name": "ქართული"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "熊座の淡き星影"
+            },
+            "english_name": "Japanese",
+            "iso_3166_1": "JP",
+            "iso_639_1": "ja",
+            "name": "日本語"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Sandra återvänder till sin barndomsstad Volterra med sin amerikanska man Andrew. När Andrew för första gången träffar Sandras bror Gianni upptäcker han att de har en hemlighet sedan barndomen...",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Karlavagnens bleka stjärnor"
+            },
+            "english_name": "Swedish",
+            "iso_3166_1": "SE",
+            "iso_639_1": "sv",
+            "name": "svenska"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Sandra Dawson (Claudia Cardinale) torna al poble de la seva infància, Volterra, a la Toscana, i ho fa acompanyada d'Andrew, el seu marit (Michael Craig). Un cop instal·lada a casa natal, la persegueix el record del seu pare, mort al camp de concentració d'Auschwitz.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Sandra"
+            },
+            "english_name": "Catalan",
+            "iso_3166_1": "ES",
+            "iso_639_1": "ca",
+            "name": "Català"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Una mujer vuelve a su tierra para hacerle un homenaje a su difunto padre. Sin embargo, durante su estadía algunos secretos son desenterrados. Claudia Cardinale, Jean Sorel, Michael Craig. Dirigida por Luchino Visconti.",
+              "runtime": 100,
+              "tagline": "",
+              "title": "Sandra"
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "MX",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Egy fiatal zsidó nő az USA-ban él, és meglátogatja szülőhazáját. Ott aztán az emlékezés és a különféle intrikák szövevényébe bonyolódik, amiből nem tudja kivonni magát. Emellett fény derül bátyjához fűződő korábbi szexuális kapcsolatára is. Egyúttal világossá válik számára szenvedéllyel túlfűtött anyjának édesapja elhurcolásában és egy német koncentrációs táborban való megölésében játszott szerepe.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "A göncöl nyájas csillagai"
+            },
+            "english_name": "Hungarian",
+            "iso_3166_1": "HU",
+            "iso_639_1": "hu",
+            "name": "Magyar"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 80
     },
     "92990": {
       "adult": false,
@@ -432379,6 +436686,29 @@
     "3d minions monsters|": [],
     "3d supergirl|": [],
     "3d toy story 5|": [],
+    "a cena con il dittatore|": [
+      {
+        "adult": false,
+        "backdrop_path": "/9C10gUV5uR1UZtvGs8uQtb6xi7Z.jpg",
+        "genre_ids": [
+          35,
+          36,
+          18
+        ],
+        "id": 1433680,
+        "original_language": "es",
+        "original_title": "La cena",
+        "overview": "Due settimane dopo la fine della Guerra civile, Francisco Franco ordina una cena celebrativa al Palace Hotel. Un giovane tenente, un meticoloso maître e un gruppo di prigionieri repubblicani con competenze culinarie devono preparare un banchetto impeccabile in tempi record. Tutto sembra procedere senza intoppi, ma in cucina si sta preparando qualcosa di più di un semplice menù. Il piano di fuga è ufficialmente in atto.",
+        "popularity": 1.3428,
+        "poster_path": "/vyXuBt4SWQOnxTI4AvplgNVTAkr.jpg",
+        "release_date": "2026-04-09",
+        "softcore": false,
+        "title": "A cena con il dittatore",
+        "video": false,
+        "vote_average": 6.812,
+        "vote_count": 85
+      }
+    ],
     "a forbidden distance|": [],
     "a qualcuno piace caldo ed rest|": [],
     "a qualcuno piace caldo|": [
@@ -433305,6 +437635,25 @@
         "release_date": "",
         "softcore": false,
         "title": "The Story of Arion and the Dolphin",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "ateez light the way in cinemas|": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1722720,
+        "original_language": "en",
+        "original_title": "ATEEZ: LIGHT THE WAY IN CINEMAS",
+        "overview": "",
+        "popularity": 0.6353,
+        "poster_path": "/jPtUs7hVAp08FjOR2YnojdPhayX.jpg",
+        "release_date": "2026-08-06",
+        "softcore": false,
+        "title": "ATEEZ: LIGHT THE WAY IN CINEMAS",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0
@@ -438754,6 +443103,255 @@
         "vote_count": 54
       }
     ],
+    "election day|": [
+      {
+        "adult": false,
+        "backdrop_path": "/fLCqYQi6n0gtJHED6pUmGv1pJs4.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1708043,
+        "original_language": "it",
+        "original_title": "Election Day",
+        "overview": "Mentre si avvicina il verdetto delle elezioni politiche, la notte dello scrutinio la deputata progressista Renata Innocenti – candidata di punta al ruolo di Ministro della Pubblica Istruzione in caso di vittoria della sua coalizione – segue l’andamento dei risultati dalla propria abitazione insieme al suo staff. I primi exit poll delineano uno scenario di perfetta parità, destinato a risolversi per pochissimi voti. Tuttavia, proprio quella stessa sera, Renata ignora che il suo compagno, il giornalista sportivo Carlo De Santis, è coinvolto in un caso mediatico: durante un collegamento dal campo, ha rivolto a un calciatore nero un’offesa di stampo razzista.",
+        "popularity": 1.88,
+        "poster_path": "/lYndI3wlV6QD1HGuEVUihAUkBsi.jpg",
+        "release_date": "2026-07-09",
+        "softcore": false,
+        "title": "Election Day",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 263600,
+        "original_language": "en",
+        "original_title": "Election Day",
+        "overview": "",
+        "popularity": 0.35,
+        "poster_path": "/cxwBGZyyX4bQY9Wp5OVt5TQnAjo.jpg",
+        "release_date": "2007-03-10",
+        "softcore": false,
+        "title": "Election Day",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8yWsYzZC1LPbCRuw40xgJ8GO8Q2.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 233850,
+        "original_language": "en",
+        "original_title": "Election Day",
+        "overview": "",
+        "popularity": 0.2186,
+        "poster_path": "/e6wjgv1JEcj68iHWy24e0tMmuJn.jpg",
+        "release_date": "1929-01-12",
+        "softcore": false,
+        "title": "Election Day",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tdqZsXH7II02EygsBxRCVWcCpCb.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1325257,
+        "original_language": "en",
+        "original_title": "Election Day",
+        "overview": "",
+        "popularity": 0.0372,
+        "poster_path": "/77j9HzyjhuomcitEskmELGFdVSE.jpg",
+        "release_date": "2024-03-02",
+        "softcore": false,
+        "title": "Election Day",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
+        "id": 921023,
+        "original_language": "en",
+        "original_title": "Election Day Gaieties",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/aQt2cHbu985KzGfHXonKUvrkvvb.jpg",
+        "release_date": "1953-11-01",
+        "softcore": false,
+        "title": "Election Day Gaieties",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 754358,
+        "original_language": "en",
+        "original_title": "Election Day: Lens Across America",
+        "overview": "",
+        "popularity": 0.1236,
+        "poster_path": "/9eGeMxtO9KN3mrmEMg5pa8vPYmZ.jpg",
+        "release_date": "2017-01-17",
+        "softcore": false,
+        "title": "Election Day: Lens Across America",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c7oXvKYQ7kdPvuJ40sbDoixhJiy.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1709319,
+        "original_language": "en",
+        "original_title": "Election Day - The Day Thailand Dug Its Own Grave",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/cWqm0Tyrd5vNrapyu1Wgr75neEP.jpg",
+        "release_date": "2026-05-30",
+        "softcore": false,
+        "title": "Election Day - The Day Thailand Dug Its Own Grave",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 686191,
+        "original_language": "en",
+        "original_title": "Commodity Trading Part 1 of 3 (Election Day)",
+        "overview": "",
+        "popularity": 0.0593,
+        "poster_path": "/mAMj8WEWmkEw0vsUf3SbYsUhHuc.jpg",
+        "release_date": "2017-01-01",
+        "softcore": false,
+        "title": "Commodity Trading Part 1 of 3 (Election Day)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 192318,
+        "original_language": "ru",
+        "original_title": "День выборов",
+        "overview": "",
+        "popularity": 0.0949,
+        "poster_path": "/wZQLKuTYTWiEkjWd8CLWx6ofwPG.jpg",
+        "release_date": "2003-11-12",
+        "softcore": false,
+        "title": "День выборов",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 1708869,
+        "original_language": "tr",
+        "original_title": "Seçim Günü",
+        "overview": "",
+        "popularity": 0.8535,
+        "poster_path": "/8nWYeux9dFY3xHfM3etevtjJ2Qt.jpg",
+        "release_date": "",
+        "softcore": false,
+        "title": "Seçim Günü",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cAB5cbfiJqhbY4E1Z3nukDPwYs2.jpg",
+        "genre_ids": [
+          53,
+          18
+        ],
+        "id": 660809,
+        "original_language": "en",
+        "original_title": "In the Defense Against Tyranny",
+        "overview": "",
+        "popularity": 0.2237,
+        "poster_path": "/vM2jUsvdtyzT8wcEh8fphkaVz5K.jpg",
+        "release_date": "2020-10-03",
+        "softcore": false,
+        "title": "In the Defense Against Tyranny",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 633457,
+        "original_language": "ru",
+        "original_title": "Луганск. День выборов",
+        "overview": "",
+        "popularity": 0.1552,
+        "poster_path": "/zLcnmHaajUF4FjLxbUzP4rAotCo.jpg",
+        "release_date": "2019-01-12",
+        "softcore": false,
+        "title": "Луганск. День выборов",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3T1sfIF9hEtSWtmbkVel6vwskML.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 678506,
+        "original_language": "es",
+        "original_title": "90 días para el 2 de Julio",
+        "overview": "",
+        "popularity": 0.103,
+        "poster_path": "/7DkiNVCCkRiLNoCFsoW7D6BHHU.jpg",
+        "release_date": "2021-10-27",
+        "softcore": false,
+        "title": "90 días para el 2 de Julio",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
     "elettro muto vibes|": [],
     "eva|": [
       {
@@ -440940,6 +445538,7 @@
       }
     ],
     "fuze conto alla rovescia|": [],
+    "gente di roma 10 e luce|": [],
     "gente di roma|": [
       {
         "adult": false,
@@ -446958,6 +451557,49 @@
         "vote_count": 103
       }
     ],
+    "la spia in nero|": [
+      {
+        "adult": false,
+        "backdrop_path": "/2u9BoSFs0gmOPoiQDrRqvOtE3BD.jpg",
+        "genre_ids": [
+          10752,
+          53
+        ],
+        "id": 75363,
+        "original_language": "en",
+        "original_title": "The Spy in Black",
+        "overview": "Quando un capitano di U-Boat tedesco viene inviato in missione di spionaggio nel nord della Scozia durante la prima guerra mondiale, trova più di quanto si aspettasse dal suo contatto, la insegnante della scuola locale.",
+        "popularity": 0.7048,
+        "poster_path": "/evfPIIDbxKyc2CsKDwszUTU6f1s.jpg",
+        "release_date": "1939-08-03",
+        "softcore": false,
+        "title": "La spia in nero",
+        "video": false,
+        "vote_average": 6.452,
+        "vote_count": 63
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lRUPLav53tKBH742ZaSuYobIemP.jpg",
+        "genre_ids": [
+          18,
+          28,
+          53
+        ],
+        "id": 84766,
+        "original_language": "en",
+        "original_title": "The Cat Burglar",
+        "overview": "",
+        "popularity": 0.3339,
+        "poster_path": "/4sCzDaHDDxXIjmvP4cYnFB0mdYB.jpg",
+        "release_date": "1961-07-01",
+        "softcore": false,
+        "title": "La spia in nero",
+        "video": false,
+        "vote_average": 5.85,
+        "vote_count": 10
+      }
+    ],
     "la stazione|": [
       {
         "adult": false,
@@ -452863,6 +457505,28 @@
         "video": false,
         "vote_average": 6.9,
         "vote_count": 9
+      }
+    ],
+    "nostos il ritorno|": [
+      {
+        "adult": false,
+        "backdrop_path": "/lHbyThckFl6ynruXcGIzwatZU84.jpg",
+        "genre_ids": [
+          18,
+          12
+        ],
+        "id": 237957,
+        "original_language": "it",
+        "original_title": "Nostos: il ritorno",
+        "overview": "Alla fine della guerra, Ulisse, l'eroe errante, con i suoi compagni inizia la sua navigazione di ritorno a casa nel Mediterraneo. La conclusione della sua avventura è ritardata da molti ostacoli naturali e intraprende un viaggio interiore di ricordi fugaci della sua infanzia, dei suoi genitori, dell'amore per una bella ragazza, della nostalgia per il passato, del rimpianto per quello che ha fatto e del profondo silenzio che avvolge tutto. Affronta la solitudine più terribile in seguito a un naufragio in cui muoiono tutti i compagni.",
+        "popularity": 0.4773,
+        "poster_path": "/kKNUsI1DUmggpRgx4wpCtKKkEwB.jpg",
+        "release_date": "1990-05-26",
+        "softcore": false,
+        "title": "Nostos: Il ritorno",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 37
       }
     ],
     "notorious cult disclosure day|": [],
@@ -466177,6 +470841,28 @@
       }
     ],
     "v o sott ita amarga navidad|": [],
+    "vaghe stelle dell orsa|": [
+      {
+        "adult": false,
+        "backdrop_path": "/ntHhAhIDkrELc9i6koBnmsvVF4E.jpg",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 92432,
+        "original_language": "it",
+        "original_title": "Vaghe stelle dell'Orsa...",
+        "overview": "Di ritorno a Volterra, sua città natale, una donna sposata è assalita dai fantasmi del passato. Sulla famiglia pesano diverse tragedie, tra le quali la morte del padre, ebreo, deportato dai nazisti in un campo di concentramento. La donna è accusata dal patrigno di aver denunciato il genitore e di aver avuto rapporti incestuosi col fratello. Lei, abbandonata dal marito, tronca ogni legame con i suoi, il fratello, disperato, si suicida.",
+        "popularity": 0.5602,
+        "poster_path": "/usLsMyLnF9o6pInfc32VDzpU9iY.jpg",
+        "release_date": "1965-09-16",
+        "softcore": false,
+        "title": "Vaghe stelle dell'Orsa...",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 80
+      }
+    ],
     "vita privata|": [
       {
         "adult": false,
