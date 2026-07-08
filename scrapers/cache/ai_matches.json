@@ -1,4 +1,8 @@
 {
+  "::extract::(jp) a new dawn": {
+    "title": "(JP) A New Dawn",
+    "year": null
+  },
   "::extract::(jp) chao": {
     "title": "(JP) Chao",
     "year": null
@@ -111,6 +115,10 @@
     "title": "",
     "year": null
   },
+  "::extract::il mondo oltre": {
+    "title": "Il Mondo Oltre",
+    "year": null
+  },
   "::extract::keep calm": {
     "title": "KEEP CALM",
     "year": null
@@ -208,6 +216,10 @@
     "year": null
   },
   "::extract::tipi diabolici - masterclass di adolfo ceretti": {
+    "title": "",
+    "year": null
+  },
+  "::extract::troppo cattivi 2 autism friendly": {
     "title": "",
     "year": null
   },
@@ -326,6 +338,10 @@
   "cos e l amore c est quoi l amour": {
     "confidence": 95,
     "tmdb_id": 1369286
+  },
+  "dhamaal 4": {
+    "confidence": 100,
+    "tmdb_id": 1303331
   },
   "e i figli dopo di loro leurs enfants apres eux": {
     "confidence": 100,

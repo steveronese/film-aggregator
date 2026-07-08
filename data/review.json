@@ -7,6 +7,13 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "THE DOORS. THE FINAL CUT",
+    "tmdb_id": 10537,
+    "matched_title": "The Doors",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "THE ODYSSEY - ODISSEA",
     "tmdb_id": 42853,
     "matched_title": "Odissea",
@@ -17,20 +24,6 @@
     "raw_title": "NO OTHER CHOICE",
     "tmdb_id": 639988,
     "matched_title": "No Other Choice - Non c'è altra scelta",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
-    "raw_title": "THE DOORS. THE FINAL CUT",
-    "tmdb_id": 10537,
-    "matched_title": "The Doors",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR)",
-    "tmdb_id": 1277884,
-    "matched_title": "Allora balliamo",
     "method": "ai",
     "confidence": 95.0
   },
@@ -63,13 +56,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
-    "tmdb_id": 1314481,
-    "matched_title": "Il diavolo veste Prada 2",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "CORTOCIRCUITO - PRIMO GIORNO",
     "tmdb_id": 1406354,
     "matched_title": "Cortocircuito",
@@ -80,6 +66,13 @@
     "raw_title": "CORTOCIRCUITO - SECONDO GIORNO",
     "tmdb_id": 1406354,
     "matched_title": "Cortocircuito",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "V.O.SOTT.ITA CALLE MALAGA (CALLE MALAGA)",
+    "tmdb_id": 1399462,
+    "matched_title": "Calle Málaga",
     "method": "ai",
     "confidence": 100.0
   },
@@ -96,6 +89,13 @@
     "matched_title": "Corto circuito",
     "method": "ai",
     "confidence": 100.0
+  },
+  {
+    "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR)",
+    "tmdb_id": 1277884,
+    "matched_title": "Allora balliamo",
+    "method": "ai",
+    "confidence": 95.0
   },
   {
     "raw_title": "NON BUSSARE ALLA MIA PORTA (DON'T COME KNOCKING)",
@@ -119,6 +119,13 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "tmdb_id": 1314481,
+    "matched_title": "Il diavolo veste Prada 2",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "LA DONNA PIÙ RICCA DEL MONDO (LA FEMME LA PLUS RICHE DU MONDE)",
     "tmdb_id": 1309725,
     "matched_title": "La donna più ricca del mondo",
@@ -138,13 +145,6 @@
     "matched_title": "Allora balliamo",
     "method": "ai",
     "confidence": 95.0
-  },
-  {
-    "raw_title": "LA CRONOLOGIA DELL'ACQUA (THE CHRONOLOGY OF WATER)",
-    "tmdb_id": 524635,
-    "matched_title": "La cronologia dell’acqua",
-    "method": "ai",
-    "confidence": 100.0
   },
   {
     "raw_title": "UN INVERNO IN COREA (HIVER A SOKCO)",
@@ -271,6 +271,20 @@
     "matched_title": "Backrooms",
     "method": "ai",
     "confidence": 100.0
+  },
+  {
+    "raw_title": "Dhamaal 4",
+    "tmdb_id": 1303331,
+    "matched_title": "धमाल 4",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "Speak No Evil-Non Parlare Con Gli Scon.",
+    "tmdb_id": 1114513,
+    "matched_title": "Speak No Evil - Non parlare con gli sconosciuti",
+    "method": "fuzzy",
+    "confidence": 91.56626506024097
   },
   {
     "raw_title": "Scary Movie 6",
