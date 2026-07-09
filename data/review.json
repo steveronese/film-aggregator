@@ -21,25 +21,11 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "NO OTHER CHOICE",
-    "tmdb_id": 639988,
-    "matched_title": "No Other Choice - Non c'è altra scelta",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "COS'E' L'AMORE (C'EST QUOI L'AMOUR)",
     "tmdb_id": 1369286,
     "matched_title": "Cos'è l'amore?",
     "method": "ai",
     "confidence": 95.0
-  },
-  {
-    "raw_title": "LA MISURA DEL DUBBIO (LE FIL)",
-    "tmdb_id": 1136394,
-    "matched_title": "La misura del dubbio",
-    "method": "ai",
-    "confidence": 100.0
   },
   {
     "raw_title": "V.O. SOTT.ITA - L'AMICO AMERICANO (Der amerikanische Freund)",
@@ -126,20 +112,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "LA DONNA PIÙ RICCA DEL MONDO (LA FEMME LA PLUS RICHE DU MONDE)",
-    "tmdb_id": 1309725,
-    "matched_title": "La donna più ricca del mondo",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "LE BAMBINE (MOSQUITOES)",
-    "tmdb_id": 1510300,
-    "matched_title": "Le bambine",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR) - V. O.",
     "tmdb_id": 1277884,
     "matched_title": "Allora balliamo",
@@ -150,13 +122,6 @@
     "raw_title": "UN INVERNO IN COREA (HIVER A SOKCO)",
     "tmdb_id": 1001010,
     "matched_title": "Un inverno in Corea",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "GIOVANI MADRI (JEUNES MÈRES)",
-    "tmdb_id": 1242015,
-    "matched_title": "Giovani madri",
     "method": "ai",
     "confidence": 100.0
   },
@@ -285,12 +250,5 @@
     "matched_title": "Speak No Evil - Non parlare con gli sconosciuti",
     "method": "fuzzy",
     "confidence": 91.56626506024097
-  },
-  {
-    "raw_title": "Scary Movie 6",
-    "tmdb_id": 1273221,
-    "matched_title": "Scary Movie",
-    "method": "fuzzy",
-    "confidence": 91.66666666666666
   }
 ]
