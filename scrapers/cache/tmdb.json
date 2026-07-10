@@ -204917,6 +204917,553 @@
       "vote_average": 0.0,
       "vote_count": 0
     },
+    "1432474": {
+      "adult": false,
+      "backdrop_path": "/aVRRKTGJnnWvah99gLZaRG0wS17.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 1,
+            "character": "",
+            "credit_id": "67aa95eca2e2f99ed4bb1a25",
+            "gender": 2,
+            "id": 2803710,
+            "known_for_department": "Acting",
+            "name": "Mason Thames",
+            "order": 0,
+            "original_name": "Mason Thames",
+            "popularity": 3.1438,
+            "profile_path": "/kgEYHw8bblVtwRTkR9TLMOpx5WO.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 18,
+            "character": "",
+            "credit_id": "67b77b09bc84d56cbeba1d56",
+            "gender": 1,
+            "id": 1172108,
+            "known_for_department": "Acting",
+            "name": "Mckenna Grace",
+            "order": 1,
+            "original_name": "Mckenna Grace",
+            "popularity": 7.05,
+            "profile_path": "/mbY7ngjgYcrUPDVNBikB9sMdaIk.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 7,
+            "character": "",
+            "credit_id": "67aa96406be6ab6e139b890c",
+            "gender": 2,
+            "id": 1971197,
+            "known_for_department": "Acting",
+            "name": "Ryan Foust",
+            "order": 2,
+            "original_name": "Ryan Foust",
+            "popularity": 0.0738,
+            "profile_path": "/kTGCcDGNMrsUM53k3pQ8LymE6pe.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 2,
+            "character": "",
+            "credit_id": "67aa95f59d346d3ef49b8bd6",
+            "gender": 1,
+            "id": 51856,
+            "known_for_department": "Acting",
+            "name": "Jenna Fischer",
+            "order": 3,
+            "original_name": "Jenna Fischer",
+            "popularity": 2.6742,
+            "profile_path": "/mfKRbOHTPNi9jFSthtjl4FGVZv6.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 3,
+            "character": "",
+            "credit_id": "67aa95fd5bd9fe5057b08bb3",
+            "gender": 1,
+            "id": 113867,
+            "known_for_department": "Acting",
+            "name": "Angela Kinsey",
+            "order": 4,
+            "original_name": "Angela Kinsey",
+            "popularity": 1.1885,
+            "profile_path": "/qHFidnMcFqUWdMFyjmXufBlYckd.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 4,
+            "character": "",
+            "credit_id": "67aa96097c9910814f9b9065",
+            "gender": 2,
+            "id": 1424191,
+            "known_for_department": "Acting",
+            "name": "Keen Ruffalo",
+            "order": 5,
+            "original_name": "Keen Ruffalo",
+            "popularity": 0.5507,
+            "profile_path": "/mxFudk70A7lnedhBMvYzL2OQXGO.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 6,
+            "character": "",
+            "credit_id": "67aa96385bd9fe5057b08bdf",
+            "gender": 2,
+            "id": 3458679,
+            "known_for_department": "Acting",
+            "name": "Ignacio Diaz-Silverio",
+            "order": 6,
+            "original_name": "Ignacio Diaz-Silverio",
+            "popularity": 0.544,
+            "profile_path": "/ccNZXbW6Grb7ugr7JOkJfCZFekx.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 19,
+            "character": "",
+            "credit_id": "67b77b23bc84d56cbeba1d5b",
+            "gender": 2,
+            "id": 61110,
+            "known_for_department": "Acting",
+            "name": "Fred Armisen",
+            "order": 7,
+            "original_name": "Fred Armisen",
+            "popularity": 1.4944,
+            "profile_path": "/rhPN8Zx6nrtNiQN2JwPkJ3ZFJ9z.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 20,
+            "character": "",
+            "credit_id": "67b77b46a2284666f1eb052d",
+            "gender": 2,
+            "id": 198149,
+            "known_for_department": "Acting",
+            "name": "Bobby Lee",
+            "order": 8,
+            "original_name": "Bobby Lee",
+            "popularity": 1.4426,
+            "profile_path": "/90TyhVb7OfyHPmj3ZVX6hEjHGlD.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 21,
+            "character": "",
+            "credit_id": "67b77b4d5503292756222a8a",
+            "gender": 2,
+            "id": 51663,
+            "known_for_department": "Acting",
+            "name": "Sean Gunn",
+            "order": 9,
+            "original_name": "Sean Gunn",
+            "popularity": 1.1734,
+            "profile_path": "/tiolBlPytndQVGHO9vLnBKWWenq.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 22,
+            "character": "",
+            "credit_id": "67b77b6c5503292756222a95",
+            "gender": 0,
+            "id": 3264041,
+            "known_for_department": "Acting",
+            "name": "Kylr Coffman",
+            "order": 10,
+            "original_name": "Kylr Coffman",
+            "popularity": 0.5077,
+            "profile_path": "/yJByP7Umju2FjCY16ePt9wRRPTZ.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 23,
+            "character": "",
+            "credit_id": "67e95f46700a6a94c6e559cc",
+            "gender": 2,
+            "id": 95866,
+            "known_for_department": "Acting",
+            "name": "Billie Joe Armstrong",
+            "order": 11,
+            "original_name": "Billie Joe Armstrong",
+            "popularity": 0.6479,
+            "profile_path": "/upYUoLOi7xypknbNQmYVbLCekM4.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 24,
+            "character": "",
+            "credit_id": "67e95f50a98dc813b0f6dcdb",
+            "gender": 2,
+            "id": 95867,
+            "known_for_department": "Acting",
+            "name": "Mike Dirnt",
+            "order": 12,
+            "original_name": "Mike Dirnt",
+            "popularity": 0.3402,
+            "profile_path": null
+          },
+          {
+            "adult": true,
+            "cast_id": 25,
+            "character": "",
+            "credit_id": "67e95f593fca90d2dff6de92",
+            "gender": 2,
+            "id": 95868,
+            "known_for_department": "Acting",
+            "name": "Tré Cool",
+            "order": 13,
+            "original_name": "Tré Cool",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 26,
+            "character": "",
+            "credit_id": "689d6b906650cc05aac70870",
+            "gender": 2,
+            "id": 2674357,
+            "known_for_department": "Directing",
+            "name": "Chris Oz McIntosh",
+            "order": 14,
+            "original_name": "Chris Oz McIntosh",
+            "popularity": 0.2079,
+            "profile_path": "/o9qefqGuObtbsVLw9R2Z29HgvEo.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 27,
+            "character": "",
+            "credit_id": "6991410d94cd147c9f1aebe8",
+            "gender": 0,
+            "id": 5373339,
+            "known_for_department": "Acting",
+            "name": "Kevin Preston",
+            "order": 15,
+            "original_name": "Kevin Preston",
+            "popularity": 0.0739,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 28,
+            "character": "",
+            "credit_id": "6991411dec86d149f2fa2d67",
+            "gender": 0,
+            "id": 95872,
+            "known_for_department": "Acting",
+            "name": "Jason Freese",
+            "order": 16,
+            "original_name": "Jason Freese",
+            "popularity": 0.1704,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 29,
+            "character": "",
+            "credit_id": "699141336d6ccf38341aeb4c",
+            "gender": 2,
+            "id": 95874,
+            "known_for_department": "Acting",
+            "name": "Jason White",
+            "order": 17,
+            "original_name": "Jason White",
+            "popularity": 0.2268,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 30,
+            "character": "Bar Patron",
+            "credit_id": "69aa058dde72fe435e0c00fb",
+            "gender": 2,
+            "id": 6052180,
+            "known_for_department": "Acting",
+            "name": "Mike W. Miller",
+            "order": 18,
+            "original_name": "Mike W. Miller",
+            "popularity": 0.3608,
+            "profile_path": "/AeLJRd0gpB9Mms2JydVModXyzJI.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "67abb4095c0e67e56bbb3f08",
+            "department": "Writing",
+            "gender": 2,
+            "id": 1023127,
+            "job": "Writer",
+            "known_for_department": "Writing",
+            "name": "Lee Kirk",
+            "original_name": "Lee Kirk",
+            "popularity": 0.5687,
+            "profile_path": "/zlC0juvau9da0yE7PCh4I8v59uA.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "67abb412216fbd0f879bad0d",
+            "department": "Directing",
+            "gender": 2,
+            "id": 1023127,
+            "job": "Director",
+            "known_for_department": "Writing",
+            "name": "Lee Kirk",
+            "original_name": "Lee Kirk",
+            "popularity": 0.5687,
+            "profile_path": "/zlC0juvau9da0yE7PCh4I8v59uA.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "67abb42d6be6ab6e139bae11",
+            "department": "Production",
+            "gender": 2,
+            "id": 95866,
+            "job": "Producer",
+            "known_for_department": "Acting",
+            "name": "Billie Joe Armstrong",
+            "original_name": "Billie Joe Armstrong",
+            "popularity": 0.6479,
+            "profile_path": "/upYUoLOi7xypknbNQmYVbLCekM4.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "67abb4347f2fa9eb79bb2d7d",
+            "department": "Production",
+            "gender": 2,
+            "id": 95867,
+            "job": "Producer",
+            "known_for_department": "Acting",
+            "name": "Mike Dirnt",
+            "original_name": "Mike Dirnt",
+            "popularity": 0.3402,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "67abb44947051c54beb0c6cb",
+            "department": "Production",
+            "gender": 2,
+            "id": 4355014,
+            "job": "Producer",
+            "known_for_department": "Acting",
+            "name": "Tré Cool",
+            "original_name": "Tré Cool",
+            "popularity": 0.1509,
+            "profile_path": "/b26TPUV6c0mVN82lYkKHrTN5Wl.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "67abb8fef71a3783e1bb37d8",
+            "department": "Production",
+            "gender": 2,
+            "id": 25501,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Tim Perell",
+            "original_name": "Tim Perell",
+            "popularity": 0.1849,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "67abb90d9d346d3ef49bbf41",
+            "department": "Production",
+            "gender": 1,
+            "id": 1355183,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Stella Bulochnikov",
+            "original_name": "Stella Bulochnikov",
+            "popularity": 0.1943,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "67abb91f4ec593aea5bb0da3",
+            "department": "Production",
+            "gender": 2,
+            "id": 2705560,
+            "job": "Executive Producer",
+            "known_for_department": "Production",
+            "name": "Ryan Kroft",
+            "original_name": "Ryan Kroft",
+            "popularity": 0.3044,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "67abb92c9d346d3ef49bbf51",
+            "department": "Production",
+            "gender": 2,
+            "id": 1862165,
+            "job": "Executive Producer",
+            "known_for_department": "Production",
+            "name": "Michael Rapino",
+            "original_name": "Michael Rapino",
+            "popularity": 0.1976,
+            "profile_path": "/l34MH2VQ8Cu3DQl5VSHJSnbs26N.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "67abb938e09d6c9190b084d9",
+            "department": "Production",
+            "gender": 2,
+            "id": 1501748,
+            "job": "Executive Producer",
+            "known_for_department": "Production",
+            "name": "Jonathan Daniel",
+            "original_name": "Jonathan Daniel",
+            "popularity": 0.142,
+            "profile_path": null
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 35,
+          "name": "Commedia"
+        },
+        {
+          "id": 10402,
+          "name": "Musica"
+        }
+      ],
+      "homepage": "",
+      "id": 1432474,
+      "imdb_id": "tt34895535",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_title": "Nimrods",
+      "overview": "",
+      "popularity": 8.4994,
+      "poster_path": "/aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
+      "production_companies": [
+        {
+          "id": 81368,
+          "logo_path": "/hadEBzUTj8ZzmaC1yh8MrXKXqR5.png",
+          "name": "Live Nation Studios",
+          "origin_country": "US"
+        },
+        {
+          "id": 29060,
+          "logo_path": null,
+          "name": "Process Media",
+          "origin_country": "US"
+        },
+        {
+          "id": 67976,
+          "logo_path": null,
+          "name": "Green Day",
+          "origin_country": ""
+        },
+        {
+          "id": 108869,
+          "logo_path": "/tfK09IBUnfAwp5htKDPAdzf2z01.png",
+          "name": "Legion M",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2026-08-11",
+      "revenue": 0,
+      "runtime": 102,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Nimrods",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "https://nimrodsmovie.com",
+              "overview": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
+              "runtime": 102,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Trzech kumpli podróżuje przez kraj furgonetką, siejąc chaos i psikusy. Dojeżdżają do Los Angeles, gdzie czeka ich wielki przełom: występ jako support Green Day w Sylwestra.",
+              "runtime": 102,
+              "tagline": "",
+              "title": "New Year's Rev"
+            },
+            "english_name": "Polish",
+            "iso_3166_1": "PL",
+            "iso_639_1": "pl",
+            "name": "Polski"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Três amigos partem de Kansas City rumo a Los Angeles, acreditando por engano que sua banda vai abrir o show do Green Day na véspera de Ano Novo.",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "HK",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
     "1432596": {
       "adult": false,
       "backdrop_path": "/e5LTUuIumJCgeoAApfCXhKUZ1UH.jpg",
@@ -306561,6 +307108,985 @@
       "vote_average": 5.167,
       "vote_count": 6
     },
+    "307": {
+      "adult": false,
+      "backdrop_path": "/cztYhbawTjK9m8lFBd97Yl5Zd8r.jpg",
+      "belongs_to_collection": null,
+      "budget": 20000,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 13,
+            "character": "Don Pietro Pellegrini",
+            "credit_id": "52fe4235c3a36847f800c3f1",
+            "gender": 2,
+            "id": 4420,
+            "known_for_department": "Acting",
+            "name": "Aldo Fabrizi",
+            "order": 0,
+            "original_name": "Aldo Fabrizi",
+            "popularity": 0.3317,
+            "profile_path": "/uXHLyjiFRzccnYUzP2ENYQEkhVC.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 15,
+            "character": "Giorgio Manfredi aka Luigi Ferraris",
+            "credit_id": "52fe4235c3a36847f800c3f9",
+            "gender": 2,
+            "id": 4422,
+            "known_for_department": "Directing",
+            "name": "Marcello Pagliero",
+            "order": 1,
+            "original_name": "Marcello Pagliero",
+            "popularity": 0.7431,
+            "profile_path": "/1jd42Ze59lvPjcLG0mzLVjzAXZ9.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 16,
+            "character": "Major Fritz Bergmann",
+            "credit_id": "52fe4235c3a36847f800c3fd",
+            "gender": 2,
+            "id": 4424,
+            "known_for_department": "Acting",
+            "name": "Harry Feist",
+            "order": 2,
+            "original_name": "Harry Feist",
+            "popularity": 0.3007,
+            "profile_path": "/7aSAXOUFNtjyTzGxHD1EuP2RX5o.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 14,
+            "character": "Pina",
+            "credit_id": "52fe4235c3a36847f800c3f5",
+            "gender": 1,
+            "id": 4421,
+            "known_for_department": "Acting",
+            "name": "Anna Magnani",
+            "order": 3,
+            "original_name": "Anna Magnani",
+            "popularity": 1.6667,
+            "profile_path": "/iT6FUf7z5O2N9OOZFxhreVWRHYp.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 18,
+            "character": "Marina Mari",
+            "credit_id": "52fe4235c3a36847f800c405",
+            "gender": 1,
+            "id": 4426,
+            "known_for_department": "Acting",
+            "name": "Maria Michi",
+            "order": 4,
+            "original_name": "Maria Michi",
+            "popularity": 0.4239,
+            "profile_path": "/z4IJay0SUTnTzwkvK29fwQ8n1RV.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 17,
+            "character": "Francesco",
+            "credit_id": "52fe4235c3a36847f800c401",
+            "gender": 2,
+            "id": 4425,
+            "known_for_department": "Acting",
+            "name": "Francesco Grandjacquet",
+            "order": 5,
+            "original_name": "Francesco Grandjacquet",
+            "popularity": 0.1722,
+            "profile_path": "/nuG8gVafa3Qpf7UBbf3beS1UnLH.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 20,
+            "character": "Marcello",
+            "credit_id": "52fe4235c3a36847f800c409",
+            "gender": 2,
+            "id": 4423,
+            "known_for_department": "Acting",
+            "name": "Vito Annichiarico",
+            "order": 6,
+            "original_name": "Vito Annichiarico",
+            "popularity": 0.3213,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 22,
+            "character": "Austrian Deserter",
+            "credit_id": "52fe4235c3a36847f800c413",
+            "gender": 2,
+            "id": 5001,
+            "known_for_department": "Writing",
+            "name": "Ákos Tolnay",
+            "order": 7,
+            "original_name": "Ákos Tolnay",
+            "popularity": 0.3222,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 23,
+            "character": "Captain Hartmann",
+            "credit_id": "52fe4235c3a36847f800c417",
+            "gender": 2,
+            "id": 5002,
+            "known_for_department": "Acting",
+            "name": "Joop van Hulzen",
+            "order": 8,
+            "original_name": "Joop van Hulzen",
+            "popularity": 0.2791,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 24,
+            "character": "Lauretta",
+            "credit_id": "52fe4235c3a36847f800c41b",
+            "gender": 0,
+            "id": 5003,
+            "known_for_department": "Acting",
+            "name": "Carla Rovere",
+            "order": 9,
+            "original_name": "Carla Rovere",
+            "popularity": 0.0511,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 25,
+            "character": "Ingrid",
+            "credit_id": "52fe4235c3a36847f800c41f",
+            "gender": 1,
+            "id": 18337,
+            "known_for_department": "Acting",
+            "name": "Giovanna Galletti",
+            "order": 10,
+            "original_name": "Giovanna Galletti",
+            "popularity": 0.6316,
+            "profile_path": "/uRIcePqBd860nE6mBoMAEuHQ5JO.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 39,
+            "character": "Agostino the Sexton",
+            "credit_id": "562034359251413a74000886",
+            "gender": 2,
+            "id": 132194,
+            "known_for_department": "Acting",
+            "name": "Nando Bruno",
+            "order": 11,
+            "original_name": "Nando Bruno",
+            "popularity": 0.3938,
+            "profile_path": "/frBpf1CDNNrQ2c8LJUY1v5LgAu6.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 40,
+            "character": "Neighborhood Police Sergeant",
+            "credit_id": "5620348fc3a3680e24005efe",
+            "gender": 2,
+            "id": 374218,
+            "known_for_department": "Acting",
+            "name": "Eduardo Passarelli",
+            "order": 12,
+            "original_name": "Eduardo Passarelli",
+            "popularity": 0.2722,
+            "profile_path": "/k96lHLUYIfLI86kS3hMjDd6QIbn.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 41,
+            "character": "Police Commissioner",
+            "credit_id": "562034c4c3a3680e0e00601c",
+            "gender": 0,
+            "id": 32669,
+            "known_for_department": "Costume & Make-Up",
+            "name": "Carlo Sindici",
+            "order": 13,
+            "original_name": "Carlo Sindici",
+            "popularity": 0.107,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 42,
+            "character": "Grandfather (uncredited)",
+            "credit_id": "5620353992514171d4005aca",
+            "gender": 2,
+            "id": 132479,
+            "known_for_department": "Acting",
+            "name": "Turi Pandolfini",
+            "order": 14,
+            "original_name": "Turi Pandolfini",
+            "popularity": 0.2761,
+            "profile_path": "/5UlqZs6pzEY0x0dsXb0OmHyeCjP.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 43,
+            "character": "Nannina (uncredited)",
+            "credit_id": "56203555c3a3680e190057bb",
+            "gender": 0,
+            "id": 1459391,
+            "known_for_department": "Acting",
+            "name": "Amalia Pellegrini",
+            "order": 15,
+            "original_name": "Amalia Pellegrini",
+            "popularity": 0.1651,
+            "profile_path": "/tlRq2FcIOD2gMh0sU9JNRP60xfB.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 44,
+            "character": "The Priest (uncredited)",
+            "credit_id": "5620358392514171cb00573f",
+            "gender": 0,
+            "id": 543796,
+            "known_for_department": "Art",
+            "name": "Alberto Tavazzi",
+            "order": 16,
+            "original_name": "Alberto Tavazzi",
+            "popularity": 0.0306,
+            "profile_path": null
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "52fe4235c3a36847f800c3e7",
+            "department": "Editing",
+            "gender": 2,
+            "id": 4418,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "Eraldo Da Roma",
+            "original_name": "Eraldo Da Roma",
+            "popularity": 0.1268,
+            "profile_path": "/7mU29mK4NziwjL7GSHCIeDb4pb7.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4235c3a36847f800c43d",
+            "department": "Writing",
+            "gender": 2,
+            "id": 4413,
+            "job": "Screenplay",
+            "known_for_department": "Writing",
+            "name": "Sergio Amidei",
+            "original_name": "Sergio Amidei",
+            "popularity": 0.4729,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4235c3a36847f800c3e1",
+            "department": "Camera",
+            "gender": 0,
+            "id": 4417,
+            "job": "Director of Photography",
+            "known_for_department": "Camera",
+            "name": "Ubaldo Arata",
+            "original_name": "Ubaldo Arata",
+            "popularity": 0.156,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4235c3a36847f800c3c3",
+            "department": "Directing",
+            "gender": 2,
+            "id": 4410,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Roberto Rossellini",
+            "original_name": "Roberto Rossellini",
+            "popularity": 0.7555,
+            "profile_path": "/dEfCuU0CoIqhgoEDtHZpIoNWNVj.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4235c3a36847f800c3ed",
+            "department": "Art",
+            "gender": 0,
+            "id": 4419,
+            "job": "Production Design",
+            "known_for_department": "Art",
+            "name": "Rosario Megna",
+            "original_name": "Rosario Megna",
+            "popularity": 0.0239,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4235c3a36847f800c3db",
+            "department": "Sound",
+            "gender": 2,
+            "id": 4416,
+            "job": "Original Music Composer",
+            "known_for_department": "Sound",
+            "name": "Renzo Rossellini",
+            "original_name": "Renzo Rossellini",
+            "popularity": 0.0916,
+            "profile_path": "/roEI4WCBeyHvzCUIyp0OI8rHDWQ.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4235c3a36847f800c437",
+            "department": "Writing",
+            "gender": 2,
+            "id": 4413,
+            "job": "Story",
+            "known_for_department": "Writing",
+            "name": "Sergio Amidei",
+            "original_name": "Sergio Amidei",
+            "popularity": 0.4729,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "62793542713ea632887a9e01",
+            "department": "Editing",
+            "gender": 1,
+            "id": 22472,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "Jolanda Benvenuti",
+            "original_name": "Jolanda Benvenuti",
+            "popularity": 0.2077,
+            "profile_path": "/2qJTodsSTzZaxQ035RefWtUSXDv.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6279356172d8551306a8d05c",
+            "department": "Directing",
+            "gender": 2,
+            "id": 4415,
+            "job": "Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Federico Fellini",
+            "original_name": "Federico Fellini",
+            "popularity": 0.9774,
+            "profile_path": "/r0GTpMWUrxgPRbMmv38mNggOBvA.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "627934e9389da1006647bf4b",
+            "department": "Writing",
+            "gender": 2,
+            "id": 4410,
+            "job": "Screenplay",
+            "known_for_department": "Directing",
+            "name": "Roberto Rossellini",
+            "original_name": "Roberto Rossellini",
+            "popularity": 0.7555,
+            "profile_path": "/dEfCuU0CoIqhgoEDtHZpIoNWNVj.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "627934ff389da100a3255db6",
+            "department": "Production",
+            "gender": 2,
+            "id": 4411,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Giuseppe Amato",
+            "original_name": "Giuseppe Amato",
+            "popularity": 0.3352,
+            "profile_path": "/cdInEb32KWsw2FHvUlApiyLeZmQ.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6279352067e0f75369566a9b",
+            "department": "Production",
+            "gender": 0,
+            "id": 54928,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Rod E. Geiger",
+            "original_name": "Rod E. Geiger",
+            "popularity": 0.0882,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6279352c323eba5246bdb049",
+            "department": "Production",
+            "gender": 2,
+            "id": 4410,
+            "job": "Producer",
+            "known_for_department": "Directing",
+            "name": "Roberto Rossellini",
+            "original_name": "Roberto Rossellini",
+            "popularity": 0.7555,
+            "profile_path": "/dEfCuU0CoIqhgoEDtHZpIoNWNVj.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "61c0c22a2da846001d2d6af5",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1643892,
+            "job": "Conductor",
+            "known_for_department": "Sound",
+            "name": "Luigi Ricci",
+            "original_name": "Luigi Ricci",
+            "popularity": 0.1361,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61c0c1626a300b001d9be51c",
+            "department": "Sound",
+            "gender": 0,
+            "id": 4428,
+            "job": "Sound",
+            "known_for_department": "Sound",
+            "name": "Raffaele Del Monte",
+            "original_name": "Raffaele Del Monte",
+            "popularity": 0.1695,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61c0c1a70443c900600a441f",
+            "department": "Production",
+            "gender": 0,
+            "id": 2939782,
+            "job": "Production Secretary",
+            "known_for_department": "Production",
+            "name": "Alberto Manni",
+            "original_name": "Alberto Manni",
+            "popularity": 0.0906,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61c0c1ca2da8460092960065",
+            "department": "Directing",
+            "gender": 0,
+            "id": 1538558,
+            "job": "Script Supervisor",
+            "known_for_department": "Production",
+            "name": "Jone Tuzi",
+            "original_name": "Jone Tuzi",
+            "popularity": 0.1272,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "61c0c1ee6517d6001a52a39a",
+            "department": "Directing",
+            "gender": 2,
+            "id": 4413,
+            "job": "First Assistant Director",
+            "known_for_department": "Writing",
+            "name": "Sergio Amidei",
+            "original_name": "Sergio Amidei",
+            "popularity": 0.4729,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "561fe171c3a3680e16003c55",
+            "department": "Production",
+            "gender": 0,
+            "id": 4412,
+            "job": "Production Manager",
+            "known_for_department": "Production",
+            "name": "Ferruccio De Martino",
+            "original_name": "Ferruccio De Martino",
+            "popularity": 0.1096,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "561fe21a92514171cd0042b6",
+            "department": "Camera",
+            "gender": 0,
+            "id": 1187444,
+            "job": "Camera Operator",
+            "known_for_department": "Camera",
+            "name": "Vincenzo Seratrice",
+            "original_name": "Vincenzo Seratrice",
+            "popularity": 0.1185,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "63d109d59f51af008299d12f",
+            "department": "Writing",
+            "gender": 2,
+            "id": 4415,
+            "job": "Screenplay",
+            "known_for_department": "Directing",
+            "name": "Federico Fellini",
+            "original_name": "Federico Fellini",
+            "popularity": 0.9774,
+            "profile_path": "/r0GTpMWUrxgPRbMmv38mNggOBvA.jpg"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 18,
+          "name": "Dramma"
+        },
+        {
+          "id": 10752,
+          "name": "Guerra"
+        }
+      ],
+      "homepage": "",
+      "id": 307,
+      "imdb_id": "tt0038890",
+      "origin_country": [
+        "IT"
+      ],
+      "original_language": "it",
+      "original_title": "Roma città aperta",
+      "overview": "La vicenda inizia dopo l'armistizio di Cassibile: gli Alleati sono sbarcati in Italia e avanzano verso nord ma ancora non sono giunti nella capitale, dove la resistenza è già attiva. Giorgio Manfredi, militante comunista e uomo di spicco della resistenza, sfugge a una retata della polizia e si rifugia presso Francesco, un tipografo antifascista, il quale, il giorno seguente, dovrebbe sposare Pina, una vedova madre d'un bambino.",
+      "popularity": 2.1791,
+      "poster_path": "/r8Xg0Tcfsc9iouuXXJASgrJ0qUp.jpg",
+      "production_companies": [
+        {
+          "id": 193,
+          "logo_path": null,
+          "name": "Excelsa Film",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "release_date": "1945-10-08",
+      "revenue": 1000000,
+      "runtime": 100,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        },
+        {
+          "english_name": "Latin",
+          "iso_639_1": "la",
+          "name": "Latin"
+        },
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        }
+      ],
+      "status": "Released",
+      "tagline": "\"La realtà è là, perché manipolarla?\"",
+      "title": "Roma città aperta",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "During the Nazi occupation of 1944 Rome, Resistance leader Giorgio Manfredi is pursued by the Nazis as he seeks refuge and a means of escape.",
+              "runtime": 104,
+              "tagline": "Our battle has barely begun.",
+              "title": "Rome, Open City"
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Rom 1944: Hunger und Angst beherrschen die Stadt. Razzien, Verhaftungen und Folter durch die SS sind an der Tagesordnung. Mit gnadenloser Härte verfolgen die Faschisten jeden kleinsten Widerstand gegen die Deutschen. Der Widerstandskämpfer Manfredi flüchtet vor einer deutschen Patrouille in die Wohnung von Francesco und seiner schwangeren Verlobten Pina. Einen Tag später wird Francesco am Morgen seiner Hochzeit mit Pina von der SS verhaftet. Wahnsinnig vor Angst läuft Pina ihm hinterher und wird erschossen. Francesco gelingt zwar die Flucht vor der SS, nicht jedoch vor seinen Verrätern...",
+              "runtime": 105,
+              "tagline": "",
+              "title": "Rom, offene Stadt"
+            },
+            "english_name": "German",
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "La vicenda inizia dopo l'armistizio di Cassibile: gli Alleati sono sbarcati in Italia e avanzano verso nord ma ancora non sono giunti nella capitale, dove la resistenza è già attiva. Giorgio Manfredi, militante comunista e uomo di spicco della resistenza, sfugge a una retata della polizia e si rifugia presso Francesco, un tipografo antifascista, il quale, il giorno seguente, dovrebbe sposare Pina, una vedova madre d'un bambino.",
+              "runtime": 100,
+              "tagline": "\"La realtà è là, perché manipolarla?\"",
+              "title": ""
+            },
+            "english_name": "Italian",
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Rome, hiver 1944. Un ingénieur communiste, Giorgio Manfredi, tente d'échapper aux Allemands qui occupent la ville. Il se réfugie chez un ami dont la fiancée, Pina, le met en contact avec le curé de la paroisse Don Pietro. Mais la maîtresse de Manfredi va tous les dénoncer aux Allemands.",
+              "runtime": 100,
+              "tagline": "",
+              "title": "Rome, ville ouverte"
+            },
+            "english_name": "French",
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "二次大战结束前夕，占领罗马的德军仍大肆搜捕游击队。遭到追捕的地下党员工程师曼发弟逃出来，又在平娜的帮助下见到了唐 皮得罗神父，请神父将一笔巨款交给游击队。德军包围了平娜家，向逮捕曼发弟，神父镇静的应付德军，德军只抓走了平娜就要嫁给的工人弗兰西斯科，并杀死了平娜。曼发弟与绝处逢生的弗兰西斯克继续在城内活动。由于曼发弟的女友告密，曼发弟和神父被捕，他们都在敌人的酷刑和枪弹下英勇牺牲... ...",
+              "runtime": 0,
+              "tagline": "我们的战斗才刚刚开始。",
+              "title": "罗马，不设防的城市"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Segunda Guerra Mundial (1939-1945). Estando Roma ocupada por los nazis, la temible Gestapo trata de arrestar a Manfredi, el líder del Comité Nacional de Liberación. Annie Marie ofrece refugio en su casa a Manfredi y a algunos de sus camaradas, pero los alemanes descubren su escondrijo y rodean la vivienda; algunos partisanos consiguen escapar por los tejados, pero Manfredi es apresado.",
+              "runtime": 100,
+              "tagline": "Poderoso retrato de dignidad y coraje",
+              "title": "Roma. Ciudad abierta"
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Rome, 1944. Giorgio Manfredi, een van de leiders van het verzet, wordt herkend door de Nazi's. Hij vlucht naar zijn vriend Francesco en vraagt Pina, Francesco's verloofde om hulp. Pina moet een priester waarschuwen, Don Pietro Pellegrini, omdat Giorgio zo snel mogelijk de stad moet verlaten...",
+              "runtime": 100,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Dutch",
+            "iso_3166_1": "NL",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Ett monument över den italienska motståndsrörelsen och dess två största grupper, kommunisterna och katolikerna. Baserad på en verklig händelse, avrättningen av motståndsmannen och prästen Don Pietro. Okända skådespelare och svåra inspelningsförhållanden har gett filmen autenticitet som liknar en ögonvittnesskildring.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Rom, öppen stad"
+            },
+            "english_name": "Swedish",
+            "iso_3166_1": "SE",
+            "iso_639_1": "sv",
+            "name": "svenska"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Рим в последние месяцы оккупации. Умирающая немецкая армия отчаянно хранит последние свои оплоты и жестоко расправляется с мятежниками. Но в сердце города уже родился свой отряд Сопротивления. Близок конец войны…",
+              "runtime": 103,
+              "tagline": "",
+              "title": "Рим, открытый город"
+            },
+            "english_name": "Russian",
+            "iso_3166_1": "RU",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Róma, 1944: a német megszállás időszaka. Manfredó körül ellenállók csoportja tömörül, aki illegális sajtóterméket állít elő, üldözötteket rejteget, és a város felszabadításán munkálkodik. A történet középpontjában a nyomdász Marcallo, komor szépség barátnője, valamint az egy német dezertőrnek menedéket adó szerzetes-pap, Don Pietro áll. Az ellenállási mozgalomban aktívan résztvevő Don Pietrót, Manfredót, Marcello barátnőjét, Pinát a Gestapónak sikerül elfognia és kegyetlen kínzások után mindhármukat kivégzik.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Róma nyílt város"
+            },
+            "english_name": "Hungarian",
+            "iso_3166_1": "HU",
+            "iso_639_1": "hu",
+            "name": "Magyar"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "מהחשובים והמשפיעים ביותר שבין סרטי הניאו-ריאליזם האיטלקי. הסרט עוקב אחר שחרור איטליה מידי השלטון הפשיסטי והכיבוש הגרמני בידי הכוחות האמריקנים. הבמאי רוברטו רוסליני (גרמניה שנת אפס) בונה את הסרט מסיפורים שונים של גיבורים עממיים באיטלה. צילומי הרחובות ללא תאורה וללא תפאורה השפיעו על רבים מיוצרי הקולנוע החל משנות החמישים. עם אנה מניאני הגדולה (מאמא רומא, בליסימה).",
+              "runtime": 0,
+              "tagline": "",
+              "title": "רומא עיר פרזות"
+            },
+            "english_name": "Hebrew",
+            "iso_3166_1": "IL",
+            "iso_639_1": "he",
+            "name": "עִבְרִית"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Několik měsíců před válkou doslovně diktoval Rossellinimu a Sergiovi Amideovi jeden z vůdců partyzánského odboje jak den po dni probíhaly boje připravující osvobození Římu. Zanedlouho potom se filmaři rozhodli v troskách rozbombardovaného města natočit jeho příběh - Řím, otevřené město (1945). Ataliéry byly zničené, tak se natáčelo na autentických místech a na ukořistěný materiál od Němců. Centrem příběhu se stal osud kněze Dona Pietra, který financuje protifašistickou buňku v době, kdy nacisté svrhli Mussolliniho režim. Dalšími členy jsou komunista Manfredi a typograf Francesco. Manfrediho snoubenka Marina jejich činnost vyzradí gestapu a začíná dramatický souboj vrcholící obětí kněze i komunisty. Roberto Rossellini (1906-1977) využil svých zkušeností z dokumentaristické tvorby a vytvořil klíčové dílo italského filmového směru zvaného neorelismus.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Řím, otevřené město"
+            },
+            "english_name": "Czech",
+            "iso_3166_1": "CZ",
+            "iso_639_1": "cs",
+            "name": "Český"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "A localização: Roma ocupada pelos nazistas. Como Roma é classificada como uma cidade aberta, a maioria dos romanos pode passear pelas ruas sem medo de a cidade ser bombardeado ou eles serem mortos no processo. Mas a vida para os romanos ainda é difícil com a ocupação nazista. Há um toque de recolher, alimentos básicos são racionados, e os nazistas ainda estão procurando aqueles que trabalham para a resistência e fazem qualquer coisa para reprimir os que estão na resistência e ninguém  dá nenhuma ajuda aos partisans.",
+              "runtime": 103,
+              "tagline": "",
+              "title": "Roma, Cidade Aberta"
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "無防備都市"
+            },
+            "english_name": "Japanese",
+            "iso_3166_1": "JP",
+            "iso_639_1": "ja",
+            "name": "日本語"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Rooma – avoin kaupunki"
+            },
+            "english_name": "Finnish",
+            "iso_3166_1": "FI",
+            "iso_639_1": "fi",
+            "name": "suomi"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Започнахме нашия филм само 2 месеца след освобождението на Рим, въпреки недостига на филмова лента. Снимахме на същите места, на които са се случили възстановените от нас събития. За да платя разходите аз си продадох леглото, после шкафа, после гардероба... Роберто Роселини",
+              "runtime": 100,
+              "tagline": "",
+              "title": "Pим: Открит град"
+            },
+            "english_name": "Bulgarian",
+            "iso_3166_1": "BG",
+            "iso_639_1": "bg",
+            "name": "български език"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Enquanto Roma é ocupada pelos Nazis, cruzam-se histórias de vida. Entre as personagens, encontram-se Pina, Francesco e Manfredi, líder do movimento da resistência romana. O padre Pietro ajuda a resistência, transmitindo as suas mensagens e auxiliando o movimento financeiramente. A Gestapo captura o padre e interroga-o, tentando convencê-lo a trair a sua causa.",
+              "runtime": 100,
+              "tagline": "",
+              "title": "Roma, Cidade Aberta"
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "PT",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Året er 1944. Mussolini er faldet, og Roms gader giver genlyd af nazisternes støvletramp. I centrum for fortællingen finder vi en kvindelig arbejder, en katolsk præst og en modstandsmand, der alle personificerer det almindelige menneskes kamp mod overmagten. Rossellinis film (med manuskript af en blot 24-årig Fellini) blev indspillet i slutningen af 2. verdenskrig. Størstedelen af rollerne er besat af amatører, og filmen er skudt uden brug af kunstigt lys eller fast monteret kamera, hvilket giver den et usædvanligt realistisk præg. Filmen førte til en æstetisk revolution indenfor filmkunsten, og den var det første betydende værk inden for neorealismen under den italienske films storhedstid efter krigen.",
+              "runtime": 103,
+              "tagline": "",
+              "title": "Aaben By"
+            },
+            "english_name": "Danish",
+            "iso_3166_1": "DK",
+            "iso_639_1": "da",
+            "name": "Dansk"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "제2차 세계대전 말기 로마가 독일에 의해 점령되었던 시기에 실제로 일어났던 사건에서 소재를 취해 재구성한 영화. 연인의 밀고로 체포되어 사살된 레지스탕스 지도자, 레지스탕스를 돕다가 처형된 신부, 게슈타포에 끌려가는 애인을 향해 달려가다 총에 맞아 죽은 여인의 이야기 등이 엮여있다.",
+              "runtime": 103,
+              "tagline": "",
+              "title": "무방비 도시"
+            },
+            "english_name": "Korean",
+            "iso_3166_1": "KR",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "2.Dünya Savaşı 'nın sonlarına doğru 1944 yılında Nazi işgali altındaki Roma şehrinde yaşayan bir grup insanın hikayesi anlatılır.Gestapo Nazilere karşı yapılan direniş hareketinin lideri olan Giorgio Manfredi (Marcello Pagliero) 'nin peşine düşmüştür.Yakın arkadaşı Francesco (Francesco Grandjacquet),Francesco'nun evlenmek üzere olduğu dul Pina (Anna Magnani)ve Rahip Don Pietro Pellegrini (Aldo Fabrizi) birlikte Giorgio'nun bir an önce Roma'dan ayrılabilmesi için yeni bir kimlik edinmesine yardımcı olurlar.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Roma, Açık Şehir"
+            },
+            "english_name": "Turkish",
+            "iso_3166_1": "TR",
+            "iso_639_1": "tr",
+            "name": "Türkçe"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Ο Τζόρτζιο Μανφρέντι, κομμουνιστής και ένας από τους επικεφαλής της αντίστασης, αφού καταφέρνει με τη βοήθεια της σπιτονοικοκυράς του να ξεφύγει από τους Γερμανούς, που τον αναζητούν, αναζητά καταφύγιο στο σπίτι του Φραντζέσκο, ενός φίλου του τυπογράφου που μετέχει επίσης στην αντίσταση. Εκεί συναντά την αρραβωνιαστικιά του Φραντζέσκο, την Πίνα, που είναι χήρα, μητέρα ενός παιδιού, του Μαρτσέλλο και έγκυος και με την οποία ο Φραντζέσκο πρόκειται να παντρευτεί την επόμενη μέρα. Η Πίνα αρχικά αντιμετωπίζει τον Τζόρτζιο αρνητικά επειδή πιστεύει ότι είναι αστυνομικός όταν όμως καταλαβαίνει ότι είναι αντιστασιακός αλλάζει στάση απέναντί του. Με τη βοήθεια της Πίνα ο Τζόρτζιο έρχεται σε επαφή με τον καθολικό ιερέα Δον Πιέτρο Πελεγκρίνι (Άλντο Φαμπρίτσι), που βοηθάει την αντίσταση, και του ζητά να μεταφέρει μηνύματα και χρήματα σε μια ομάδα αντιστασιακών που βρίσκεται έξω από την πόλη, καθώς ο ίδιος δεν μπορεί να μετακινηθεί επειδή των αναζητά η Γκεστάπο.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Ρώμη, Ανοχύρωτη Πόλη"
+            },
+            "english_name": "Greek",
+            "iso_3166_1": "GR",
+            "iso_639_1": "el",
+            "name": "ελληνικά"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Durante la ocupación nazi de Roma en 1944, el líder de la resistencia, Giorgio Manfredi, es perseguido por los nazis mientras busca refugio y una forma de escapar.",
+              "runtime": 103,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "MX",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "ფილმში მოქმედება ნაცისტების მიერ ოკუპირებულ რომში მიმდინარეობს.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "რომი, ღია ქალაქი"
+            },
+            "english_name": "Georgian",
+            "iso_3166_1": "GE",
+            "iso_639_1": "ka",
+            "name": "ქართული"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Pierwsze klasyczne dzieło neorealizmu włoskiego jest zarazem pierwszą częścią trylogii o wojnie Rosseliniego. Dzieło to z początku przygotowywane jako dwa oddzielne filmy dokumentalne powstało na zgliszczach Rzymu. Przedstawia on historie inżyniera Manfreddiego, działacza komunistycznego, wzorowanego na autentycznej postaci Celeste Negarvilla.",
+              "runtime": 103,
+              "tagline": "",
+              "title": "Rzym, miasto otwarte"
+            },
+            "english_name": "Polish",
+            "iso_3166_1": "PL",
+            "iso_639_1": "pl",
+            "name": "Polski"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "1947 奧斯卡金像獎最佳劇本提名、1946 坎城影展大獎、1946 義大利銀緞帶獎最佳影片、女配角、1946 美國國家評論協會最佳外語片、女演員、1946 紐約影評人協會最佳外語片  嚴格說來，羅塞里尼的《不設防城市》才是第一部震撼全世界的新寫實主義電影，所有原則與圭臬都在這裡找到確切的定義。影片描述二次大戰末期，羅馬被納粹佔領，成為「不設防城市」，地下反抗軍如何面對蓋世太保的追捕。羅塞里尼以四處搜集而來的膠捲，拍出貼近真實的生命樣貌，把電影特性推到前所未有的高峰，不但改寫了電影史，正如〈生活〉雜誌所言，也成功贏回被墨索里尼踐踏的義大利尊榮。",
+              "runtime": 0,
+              "tagline": "",
+              "title": "不設防城市"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "TW",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Roma, ciutat oberta"
+            },
+            "english_name": "Catalan",
+            "iso_3166_1": "ES",
+            "iso_639_1": "ca",
+            "name": "Català"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Рим, відкрите місто"
+            },
+            "english_name": "Ukrainian",
+            "iso_3166_1": "UA",
+            "iso_639_1": "uk",
+            "name": "Український"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "رم شهر بی‌دفاع"
+            },
+            "english_name": "Persian",
+            "iso_3166_1": "IR",
+            "iso_639_1": "fa",
+            "name": "فارسی"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Roma – atklāta pilsēta"
+            },
+            "english_name": "Latvian",
+            "iso_3166_1": "LV",
+            "iso_639_1": "lv",
+            "name": "Latviešu"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Током нацистичке окупације Рима 1944. године, судбине неколико грађана испреплићу се у заједничкој борби за слободу. Вођа покрета отпора, Ђорђо Манфреди, покушава да избегне Гестапо уз помоћ свог пријатеља Франческа, Франческове трудне веренице Пине и храброг католичког свештеника дон Пјетра Пелегринија. Док фашистичке снаге стежу обруч око града користећи издају, мучење и доушнике, обични људи показују ванредну храброст и спремност на жртву. Ова сирова и емотивна драма верно осликава терор, моралне дилеме и неугасиви дух отпора италијанског народа у последњим данима Другог светског рата.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Рим, отворени град"
+            },
+            "english_name": "Serbian",
+            "iso_3166_1": "RS",
+            "iso_639_1": "sr",
+            "name": "Srpski"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 8.013,
+      "vote_count": 981
+    },
     "31225": {
       "adult": false,
       "backdrop_path": "/8yJg7SOv0hbuOYhFwq3FW8GajuM.jpg",
@@ -377442,6 +378968,1239 @@
       "video": false,
       "vote_average": 6.269,
       "vote_count": 13
+    },
+    "593": {
+      "adult": false,
+      "backdrop_path": "/jZv1u7uzpOE5JOc2MmrvPUZWoyb.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 29,
+            "character": "Hari",
+            "credit_id": "52fe4259c3a36847f80175c9",
+            "gender": 1,
+            "id": 1190211,
+            "known_for_department": "Acting",
+            "name": "Наталья Бондарчук",
+            "order": 0,
+            "original_name": "Наталья Бондарчук",
+            "popularity": 0.3656,
+            "profile_path": "/1AYN2lsvWCslftVEjEoMmKleI1a.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 28,
+            "character": "Kris Kelvin",
+            "credit_id": "52fe4259c3a36847f80175c5",
+            "gender": 2,
+            "id": 1190206,
+            "known_for_department": "Acting",
+            "name": "Donatas Banionis",
+            "order": 1,
+            "original_name": "Donatas Banionis",
+            "popularity": 0.6068,
+            "profile_path": "/vz0TKZFu1qW5HZFhvIi0JZG9W7D.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 18,
+            "character": "Dr. Snaut",
+            "credit_id": "52fe4259c3a36847f80175a3",
+            "gender": 2,
+            "id": 8474,
+            "known_for_department": "Acting",
+            "name": "Jüri Järvet",
+            "order": 2,
+            "original_name": "Jüri Järvet",
+            "popularity": 0.3622,
+            "profile_path": "/ubPaP60b2NCrsh7jcp8NT0hmS4z.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 20,
+            "character": "Henri Berton",
+            "credit_id": "52fe4259c3a36847f80175ab",
+            "gender": 2,
+            "id": 8476,
+            "known_for_department": "Acting",
+            "name": "Владислав Дворжецкий",
+            "order": 3,
+            "original_name": "Владислав Дворжецкий",
+            "popularity": 0.3619,
+            "profile_path": "/740a9El61imunBGNI5mg2gka8o4.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 31,
+            "character": "Kelvin's Father",
+            "credit_id": "52fe4259c3a36847f80175cd",
+            "gender": 2,
+            "id": 1190992,
+            "known_for_department": "Acting",
+            "name": "Микола Гринько",
+            "order": 4,
+            "original_name": "Микола Гринько",
+            "popularity": 0.7294,
+            "profile_path": "/n8lxXQbLYOed7AeowxA49yB2jyS.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 19,
+            "character": "Dr. Sartorius",
+            "credit_id": "52fe4259c3a36847f80175a7",
+            "gender": 2,
+            "id": 8475,
+            "known_for_department": "Acting",
+            "name": "Анатолий Солоницын",
+            "order": 5,
+            "original_name": "Анатолий Солоницын",
+            "popularity": 0.4612,
+            "profile_path": "/37Vb7vNMHAz1s2WI5kW4BHt0X0N.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 23,
+            "character": "Kelvin's Mother",
+            "credit_id": "52fe4259c3a36847f80175b3",
+            "gender": 1,
+            "id": 8479,
+            "known_for_department": "Acting",
+            "name": "Ольга Барнет",
+            "order": 6,
+            "original_name": "Ольга Барнет",
+            "popularity": 0.3522,
+            "profile_path": "/a6dtf0CFZL4BsO3eNSG3dLOPrnt.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 48,
+            "character": "Henri Berton's Son",
+            "credit_id": "66fc32134955b4a206f19579",
+            "gender": 0,
+            "id": 4974482,
+            "known_for_department": "Acting",
+            "name": "Vitalik Kerdimun",
+            "order": 7,
+            "original_name": "Vitalik Kerdimun",
+            "popularity": 0.0739,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 49,
+            "character": "Guest of Dr. Gibarian",
+            "credit_id": "66fc32344955b4a206f1959a",
+            "gender": 1,
+            "id": 2579448,
+            "known_for_department": "Acting",
+            "name": "Ольга Кизилова",
+            "order": 8,
+            "original_name": "Ольга Кизилова",
+            "popularity": 0.1172,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 50,
+            "character": "Kris Kelvin's Niece",
+            "credit_id": "66fc3260d8064165bdf1a461",
+            "gender": 0,
+            "id": 4974486,
+            "known_for_department": "Acting",
+            "name": "Tatyana Malykh",
+            "order": 9,
+            "original_name": "Tatyana Malykh",
+            "popularity": 0.067,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 51,
+            "character": "Shanahan, Chairman of the Anri Berton Commission",
+            "credit_id": "66fc32844955b4a206f195d5",
+            "gender": 2,
+            "id": 55517,
+            "known_for_department": "Writing",
+            "name": "Александр Мишарин",
+            "order": 10,
+            "original_name": "Александр Мишарин",
+            "popularity": 0.4403,
+            "profile_path": "/kZ75SzAjmY4JMH1EoVPCMlbrLMm.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 52,
+            "character": "Professor Tarkhe",
+            "credit_id": "66fc329d8aa734b376a69475",
+            "gender": 2,
+            "id": 1335417,
+            "known_for_department": "Directing",
+            "name": "Bagrat Oganesyan",
+            "order": 11,
+            "original_name": "Bagrat Oganesyan",
+            "popularity": 0.1857,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 24,
+            "character": "Anna",
+            "credit_id": "52fe4259c3a36847f80175b7",
+            "gender": 1,
+            "id": 8480,
+            "known_for_department": "Production",
+            "name": "Тамара Огородникова",
+            "order": 12,
+            "original_name": "Тамара Огородникова",
+            "popularity": 0.1738,
+            "profile_path": "/dpSKediIMxmz6L9rZzxthVDpgeK.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 22,
+            "character": "Dr. Gibarian",
+            "credit_id": "52fe4259c3a36847f80175af",
+            "gender": 2,
+            "id": 8478,
+            "known_for_department": "Acting",
+            "name": "Սոս Սարգսյան",
+            "order": 13,
+            "original_name": "Սոս Սարգսյան",
+            "popularity": 0.2634,
+            "profile_path": "/zhapwLXWbLyMk3RvCPBwC8I8QEr.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 53,
+            "character": "Chairman of the Scientific Conference",
+            "credit_id": "66fc32ebd8064165bdf1a47d",
+            "gender": 2,
+            "id": 1132676,
+            "known_for_department": "Writing",
+            "name": "Юлиан Семёнов",
+            "order": 14,
+            "original_name": "Юлиан Семёнов",
+            "popularity": 0.9206,
+            "profile_path": "/vgIkIu3C8RSGSCZFrb8rEyZn5yy.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 54,
+            "character": "Member of the Academic Council",
+            "credit_id": "66fc32fcf2b9c97c1dd64c6b",
+            "gender": 0,
+            "id": 4974492,
+            "known_for_department": "Acting",
+            "name": "Vitaliy Statsinskiy",
+            "order": 15,
+            "original_name": "Vitaliy Statsinskiy",
+            "popularity": 0.0214,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 55,
+            "character": "",
+            "credit_id": "66fc3302061afe114bf18e9e",
+            "gender": 1,
+            "id": 4974493,
+            "known_for_department": "Acting",
+            "name": "Вера Суменова",
+            "order": 16,
+            "original_name": "Вера Суменова",
+            "popularity": 0.2602,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 32,
+            "character": "Prof. Messenger",
+            "credit_id": "53d15307c3a368776a00a6a3",
+            "gender": 2,
+            "id": 564897,
+            "known_for_department": "Acting",
+            "name": "Георгий Тейх",
+            "order": 17,
+            "original_name": "Георгий Тейх",
+            "popularity": 0.7225,
+            "profile_path": "/w7h1CKJQL2hiGhVb3pZZJ7L0CQH.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "52fe4259c3a36847f801758d",
+            "department": "Editing",
+            "gender": 1,
+            "id": 8465,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "Nina Marcus",
+            "original_name": "Nina Marcus",
+            "popularity": 0.0623,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4259c3a36847f8017593",
+            "department": "Art",
+            "gender": 2,
+            "id": 8466,
+            "job": "Production Design",
+            "known_for_department": "Art",
+            "name": "Михаил Ромадин",
+            "original_name": "Михаил Ромадин",
+            "popularity": 0.0732,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4259c3a36847f8017587",
+            "department": "Editing",
+            "gender": 1,
+            "id": 8463,
+            "job": "Editor",
+            "known_for_department": "Editing",
+            "name": "Людмила Фейгинова",
+            "original_name": "Людмила Фейгинова",
+            "popularity": 0.242,
+            "profile_path": "/RKVyuvv5ZqGf9rjIkRWepJywcy.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4259c3a36847f801757b",
+            "department": "Sound",
+            "gender": 2,
+            "id": 8461,
+            "job": "Original Music Composer",
+            "known_for_department": "Sound",
+            "name": "Вячеслав Овчинников",
+            "original_name": "Вячеслав Овчинников",
+            "popularity": 0.1617,
+            "profile_path": "/qUfzhX7ZcmmAPisWbC0SF3hSaOu.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4259c3a36847f8017581",
+            "department": "Camera",
+            "gender": 2,
+            "id": 8462,
+            "job": "Director of Photography",
+            "known_for_department": "Camera",
+            "name": "Вадим Юсов",
+            "original_name": "Вадим Юсов",
+            "popularity": 0.2227,
+            "profile_path": "/8cgzIHQWMzmYlJN0beHPb52yZzX.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4259c3a36847f8017569",
+            "department": "Writing",
+            "gender": 2,
+            "id": 8452,
+            "job": "Screenplay",
+            "known_for_department": "Directing",
+            "name": "Andrei Tarkovsky",
+            "original_name": "Андрей Тарковский",
+            "popularity": 1.2978,
+            "profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4259c3a36847f8017599",
+            "department": "Costume & Make-Up",
+            "gender": 1,
+            "id": 8467,
+            "job": "Costume Design",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Нелли Фомина",
+            "original_name": "Нелли Фомина",
+            "popularity": 0.1321,
+            "profile_path": "/hJ8WExzL6x3sVpq1H6cGNLHNit4.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4259c3a36847f80175c1",
+            "department": "Writing",
+            "gender": 2,
+            "id": 8453,
+            "job": "Novel",
+            "known_for_department": "Writing",
+            "name": "Stanisław Lem",
+            "original_name": "Stanisław Lem",
+            "popularity": 0.5433,
+            "profile_path": "/uPhE30C0GETl8lX2ncRGFad3ab4.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe4259c3a36847f8017563",
+            "department": "Directing",
+            "gender": 2,
+            "id": 8452,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Andrei Tarkovsky",
+            "original_name": "Андрей Тарковский",
+            "popularity": 1.2978,
+            "profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "57594a9f92514108ff0025c2",
+            "department": "Writing",
+            "gender": 2,
+            "id": 1632783,
+            "job": "Script Editor",
+            "known_for_department": "Writing",
+            "name": "Л. Лазарев",
+            "original_name": "Л. Лазарев",
+            "popularity": 0.0528,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "57594a239251410a58000fff",
+            "department": "Camera",
+            "gender": 2,
+            "id": 1632781,
+            "job": "Camera Operator",
+            "known_for_department": "Camera",
+            "name": "Евгений Шведов",
+            "original_name": "Евгений Шведов",
+            "popularity": 0.1038,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "575949e592514108f40024ea",
+            "department": "Writing",
+            "gender": 2,
+            "id": 1111972,
+            "job": "Screenplay",
+            "known_for_department": "Writing",
+            "name": "Фридрих Горенштейн",
+            "original_name": "Фридрих Горенштейн",
+            "popularity": 0.3599,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "57594a75c3a368698100117a",
+            "department": "Writing",
+            "gender": 1,
+            "id": 1632782,
+            "job": "Script Editor",
+            "known_for_department": "Writing",
+            "name": "Нинель Боярова",
+            "original_name": "Нинель Боярова",
+            "popularity": 0.0644,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "63f42aa8a349110085ffc7fe",
+            "department": "Directing",
+            "gender": 1,
+            "id": 8471,
+            "job": "Assistant Director",
+            "known_for_department": "Acting",
+            "name": "Лариса Тарковская",
+            "original_name": "Лариса Тарковская",
+            "popularity": 0.2517,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5afdadf492514127f10002a0",
+            "department": "Sound",
+            "gender": 2,
+            "id": 560802,
+            "job": "Original Music Composer",
+            "known_for_department": "Sound",
+            "name": "Эдуард Артемьев",
+            "original_name": "Эдуард Артемьев",
+            "popularity": 0.6752,
+            "profile_path": "/yFRPDiSJcYkNLBzDjlS6xdBmP7S.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5bffece20e0a265b280610d8",
+            "department": "Art",
+            "gender": 0,
+            "id": 2185387,
+            "job": "First Assistant Art Direction",
+            "known_for_department": "Art",
+            "name": "Paolo Rocco Innamorato",
+            "original_name": "Paolo Rocco Innamorato",
+            "popularity": 0.0387,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c24c107320e40088b67f59",
+            "department": "Sound",
+            "gender": 2,
+            "id": 1632786,
+            "job": "Sound Director",
+            "known_for_department": "Sound",
+            "name": "Семён Литвинов",
+            "original_name": "Семён Литвинов",
+            "popularity": 0.1456,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c24c3a8d2fa5b50348f139",
+            "department": "Directing",
+            "gender": 2,
+            "id": 1637171,
+            "job": "First Assistant Director",
+            "known_for_department": "Production",
+            "name": "Юрий Кушнерёв",
+            "original_name": "Юрий Кушнерёв",
+            "popularity": 0.2786,
+            "profile_path": "/tTcwl7fBejooh4oEGLsL1XmnM4v.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69c24c6e0e58ef8819d24eaf",
+            "department": "Visual Effects",
+            "gender": 2,
+            "id": 4032887,
+            "job": "VFX Director of Photography",
+            "known_for_department": "Visual Effects",
+            "name": "V. Sevostyanov",
+            "original_name": "V. Sevostyanov",
+            "popularity": 0.0666,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c24c7c641582d66fd24ec9",
+            "department": "Visual Effects",
+            "gender": 2,
+            "id": 1632785,
+            "job": "VFX Supervisor",
+            "known_for_department": "Visual Effects",
+            "name": "Александр Клименко",
+            "original_name": "Александр Клименко",
+            "popularity": 0.1854,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c24c9bde937b03bdad589c",
+            "department": "Costume & Make-Up",
+            "gender": 1,
+            "id": 1632789,
+            "job": "Makeup & Hair",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Вера Рудина",
+            "original_name": "Вера Рудина",
+            "popularity": 0.0852,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c24cbecab03b2d6b7bc9ce",
+            "department": "Directing",
+            "gender": 2,
+            "id": 4763956,
+            "job": "Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Арнольд Идес",
+            "original_name": "Арнольд Идес",
+            "popularity": 0.0683,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c24cca3414274b39ad5895",
+            "department": "Directing",
+            "gender": 1,
+            "id": 1584743,
+            "job": "Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Мария Чугунова",
+            "original_name": "Мария Чугунова",
+            "popularity": 0.0214,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c24ce171cacc0354b67f14",
+            "department": "Camera",
+            "gender": 2,
+            "id": 8472,
+            "job": "Assistant Camera",
+            "known_for_department": "Camera",
+            "name": "Юрий Невский",
+            "original_name": "Юрий Невский",
+            "popularity": 0.0875,
+            "profile_path": "/uNnAPP1V1HxKzlbzafUpa5RJA1C.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69c24cf4cab03b2d6b7bc9d1",
+            "department": "Camera",
+            "gender": 2,
+            "id": 4309547,
+            "job": "Assistant Camera",
+            "known_for_department": "Camera",
+            "name": "Владимир Шмыга",
+            "original_name": "Владимир Шмыга",
+            "popularity": 0.0713,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c24d2fca7ec4cce9aeffee",
+            "department": "Art",
+            "gender": 0,
+            "id": 1632788,
+            "job": "Set Designer",
+            "known_for_department": "Art",
+            "name": "V. Prokofev",
+            "original_name": "V. Prokofev",
+            "popularity": 0.1015,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c24d55a26ae6bfd0af004e",
+            "department": "Camera",
+            "gender": 2,
+            "id": 4750606,
+            "job": "Still Photographer",
+            "known_for_department": "Camera",
+            "name": "Вадим Мурашко",
+            "original_name": "Вадим Мурашко",
+            "popularity": 0.0071,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c24d6b91f4deaf60aefff1",
+            "department": "Lighting",
+            "gender": 2,
+            "id": 1632784,
+            "job": "Chief Lighting Technician",
+            "known_for_department": "Lighting",
+            "name": "E. Paramanov",
+            "original_name": "E. Paramanov",
+            "popularity": 0.0843,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c24fbd599c9c3952ad589f",
+            "department": "Directing",
+            "gender": 0,
+            "id": 5973516,
+            "job": "First Assistant Director Trainee",
+            "known_for_department": "Directing",
+            "name": "N. Mann",
+            "original_name": "N. Mann",
+            "popularity": 0.0538,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c2500c15635bfa25d24ec1",
+            "department": "Writing",
+            "gender": 2,
+            "id": 6093174,
+            "job": "Script Consultant",
+            "known_for_department": "Writing",
+            "name": "Лев Лупичев",
+            "original_name": "Лев Лупичев",
+            "popularity": 0.0239,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c250723ef7c0d3b248f144",
+            "department": "Writing",
+            "gender": 2,
+            "id": 5507275,
+            "job": "Script Consultant",
+            "known_for_department": "Acting",
+            "name": "Iosif Shklovskiy",
+            "original_name": "Iosif Shklovskiy",
+            "popularity": 0.0362,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c250f52542a07099aeffdb",
+            "department": "Production",
+            "gender": 0,
+            "id": 8458,
+            "job": "Executive Producer",
+            "known_for_department": "Production",
+            "name": "Viacheslav Tarasov",
+            "original_name": "Viacheslav Tarasov",
+            "popularity": 0.0214,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c25253cab03b2d6b7bc9dd",
+            "department": "Art",
+            "gender": 2,
+            "id": 1816672,
+            "job": "Set Designer",
+            "known_for_department": "Art",
+            "name": "Святослав Гаврилов",
+            "original_name": "Святослав Гаврилов",
+            "popularity": 0.0461,
+            "profile_path": null
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 18,
+          "name": "Dramma"
+        },
+        {
+          "id": 878,
+          "name": "Fantascienza"
+        },
+        {
+          "id": 9648,
+          "name": "Mistero"
+        }
+      ],
+      "homepage": "",
+      "id": 593,
+      "imdb_id": "tt0069293",
+      "origin_country": [
+        "SU"
+      ],
+      "original_language": "ru",
+      "original_title": "Солярис",
+      "overview": "In un futuro imprecisato lo psicologo Kris Kelvin è incaricato di recarsi in una stazione scientifica presso il pianeta Solaris. Prima della partenza per il lunghissimo viaggio, egli trascorre alcuni giorni nella dacia paterna, consapevole che al suo ritorno non rivedrà l'anziano padre e sua zia Anna. Scorcio della città del futuro, percorsa in automobile da Henri Berton; scena girata ad Akasaka, distretto commerciale del quartiere di Tōkyō Minato Nel frattempo riceve la visita indesiderata di Henri Berton, un ex-astronauta amico del padre, che decenni anni prima, in missione su Solaris, avrebbe assistito a strani fenomeni che lo traumatizzarono rovinandogli la carriera.",
+      "popularity": 3.0906,
+      "poster_path": "/pR1D4XmzhMG0uxknwm5nUNkO6Ei.jpg",
+      "production_companies": [
+        {
+          "id": 77883,
+          "logo_path": null,
+          "name": "Unit Four",
+          "origin_country": ""
+        },
+        {
+          "id": 77882,
+          "logo_path": null,
+          "name": "Creative Unit of Writers & Cinema Workers",
+          "origin_country": ""
+        },
+        {
+          "id": 344,
+          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+          "name": "Mosfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "release_date": "1972-03-20",
+      "revenue": 0,
+      "runtime": 167,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "La risposta della cinematografia sovietica a \"2001: Odissea nello spazio\"",
+      "title": "Solaris",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
+              "runtime": 167,
+              "tagline": "The planet where nightmares come true…",
+              "title": "Solaris"
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Der Psychologe Kris Kelvin erhält den Auftrag, auf den Planeten Solaris zu fliegen. Bei seiner Ankunft sind dort nur noch zwei Mitglieder der ursprünglich 85 Mann starken Besatzung am Leben. Viel mehr als deren erschreckender psychischer Zustand verwirrt ihn jedoch das Erscheinen mehrerer Kinder und seiner verstorbenen Frau Hari auf der Station. Kelvin kommt zu dem Schluss, dass der Ozean auf Solaris für die Erscheinungen verantwortlich ist und das Vermögen besitzt, Träume und Figuren des Unterbewußten zu materialisieren.",
+              "runtime": 167,
+              "tagline": "",
+              "title": "Solaris"
+            },
+            "english_name": "German",
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Solaris est une planète mystérieuse qu’étudie une station orbitale. D’étranges phénomènes s’y sont produits. Un physicien s’est donné la mort, et deux autres sont devenus fous. Kris Kelvin, un scientifique spécialisé en psychologie, y est envoyé en mission. À peine arrivé, il croit sentir une forme de vie non humaine à bord de la station. Une femme lui apparaît, qui devient sa maîtresse. Elle n’est que le double de sa propre femme, qui s’est suicidée quelques années plus tôt, par sa faute. Elle disparaît ou surgit au gré de ses désirs. Il comprend que la planète Solaris fonctionne comme une mémoire affective, qui matérialise les pulsions de ceux qui l’approchent…",
+              "runtime": 165,
+              "tagline": "",
+              "title": "Solaris"
+            },
+            "english_name": "French",
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "На космическую станцию, сотрудники которой давно и тщетно пытаются сладить с загадкой планеты Солярис, покрытой Океаном, прибывает новый обитатель, психолог Крис Кельвин, чтобы разобраться в странных сообщениях, поступающих со станции, и «закрыть» ее вместе со всей бесплодной «соляристикой». Поначалу ему кажется, что немногие уцелевшие на станции ученые сошли с ума. Потом он и сам становится жертвой жуткого наваждения: ему является его бывшая возлюбленная Хари, некогда на земле покончившая с собой.",
+              "runtime": 169,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Russian",
+            "iso_3166_1": "RU",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Psühholoog Chris Kelvin saadetakse Solarise planeedile rajatud baasi, et asendada seal enesetapu sooritanud doktorit. Kosmosejaamas kohtub Chris kahe ellujäänuga, dr. Snautiga ja dr. Sartoriusega, kes on aga väga salatsevad. Nad soovitavad Chrisil aega võtta ja kohaneda, peagi aga hakkavad meest häirima veidrad pildid ja helid, kaasa arvatud ilmutused tema seitse aastat tagasi surnud naisest.",
+              "runtime": 167,
+              "tagline": "",
+              "title": "Solaris"
+            },
+            "english_name": "Estonian",
+            "iso_3166_1": "EE",
+            "iso_639_1": "et",
+            "name": "Eesti"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Solaris é um planeta distante, que é estudado há décadas, e cujo mistério sobre o seu oceano ainda não foi esclarecido, nem os seus efeitos. Por falta de interesse e de resultados, a solarística está a morrer e os membros da estação espacial que orbita o planeta estão a ser afetados pelo oceano. Por causa disto, o psicólogo Kelvin - conhecido de um dos doutores da solarística e amigo de um dos tripulantes - é enviado para a estação para investigar o fenómeno. Lá, ele percebe aos poucos que Solaris, mais do que um planeta, é um espelho da alma.",
+              "runtime": 165,
+              "tagline": "",
+              "title": "Solaris"
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "PT",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "地面控制中心持续收到来自索拉里斯空间站三名幸存宇航员的神秘信号。当宇航员兼心理学家克里斯·凯尔文被派往调查时，他遭遇了与空间站成员相同的奇异现象，由此踏上通往自我意识深处最黑暗角落的旅程。凭借本片，传奇俄罗斯导演安德烈·塔可夫斯基创造了一部极具独创性的科幻史诗，对爱、真理乃至人性本身的既有观念发起挑战。[标准收藏]",
+              "runtime": 165,
+              "tagline": "噩梦成真的星球……",
+              "title": "飞向太空"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "In un futuro imprecisato lo psicologo Kris Kelvin è incaricato di recarsi in una stazione scientifica presso il pianeta Solaris. Prima della partenza per il lunghissimo viaggio, egli trascorre alcuni giorni nella dacia paterna, consapevole che al suo ritorno non rivedrà l'anziano padre e sua zia Anna. Scorcio della città del futuro, percorsa in automobile da Henri Berton; scena girata ad Akasaka, distretto commerciale del quartiere di Tōkyō Minato Nel frattempo riceve la visita indesiderata di Henri Berton, un ex-astronauta amico del padre, che decenni anni prima, in missione su Solaris, avrebbe assistito a strani fenomeni che lo traumatizzarono rovinandogli la carriera.",
+              "runtime": 167,
+              "tagline": "La risposta della cinematografia sovietica a \"2001: Odissea nello spazio\"",
+              "title": "Solaris"
+            },
+            "english_name": "Italian",
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Stále působivá filosofická sci-fi Andreje Tarkovského se odehrává v blíže neurčené budoucnosti a líčí příběh kosmonautů, kroužících na vesmírné stanici kolem záhadné planety Solaris, jež představuje dosud neznámou formu vědomí - je totiž schopna zhmotňovat lidská přání, představy i vzpomínky. Kosmonauty tyto přeludy natolik stresují, že se ocitají na pokraji psychického selhání. Ušetřen není ani psycholog, jenž byl vyslán celý podivný případ vyšetřit: setkává se s přízrakem své zemřelé ženy, kterou nesmírně miloval. Tarkovského ovšem nezajímají napínavé vizuální efekty či nenadálé zvraty, chce dospět k podobenství o hranicích lidského poznání.  Film, který byl natočen na motivy stejnojmenného románu Stanislawa Lema, získal Zvláštní cenu kritiky na MFF v Cannes 1972 a Cenu ekumenické poroty. Kino Aero 2003/12",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Solaris"
+            },
+            "english_name": "Czech",
+            "iso_3166_1": "CZ",
+            "iso_639_1": "cs",
+            "name": "Český"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "A fantasztikus irodalom mai klasszikusa, Stanislaw Lem művének e filmváltozatát gyakran vetették össze Stanley Kubrick hasonló, bár jóval látványosabb kiállítású filmjével (2001: Űrodüsszeia, 1968). Az űrexpedíció célja itt is egy rejtély megfejtése: egy űrállomáson sorra halnak az emberek. Tarkovszkij filmjének az a legfőbb mozzanata, hogy hőse ráébred arra, hogy a plazmaóceán materializálja azokat, akikre a visszaemlékező bűntudattal és lelkiismeret furdalással gondol. Ezektől megszabadulni csak azáltal lehet, hogy eljuttatják az óceánba a főhős, Kris teljes tudati képét, illetve, hogy emberközpontúvá teszi azt a megújuló kötődés a földhöz, a családhoz és a hazához. Enélkül ugyanis senki nem szabadulhat meg bűnei és hibái terhétől, anélkül pedig nem kezdhet új életet.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Solaris"
+            },
+            "english_name": "Hungarian",
+            "iso_3166_1": "HU",
+            "iso_639_1": "hu",
+            "name": "Magyar"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Solaris – planeta, która materializuje obraz tych, z kim nie jesteśmy w stanie się rozstać w swoich myślach, uczuciach, życzeniach, bez względu na to, jakiego rodzaju są to uczucia: czy to miłość, żal, czy poczucie winy. Solaris nie więzi, ale i nie wypuszcza swoich gości, wciela jedynie w życie to, z czym nigdy nie będzie się w stanie rozstać. W dużej mierze film stanowi połączenie fantastyki z rozmyślaniami o kosmosie, Ziemi, człowieku, sumieniu, życiu, śmierci i odpowiedzialności przed przyszłością.",
+              "runtime": 167,
+              "tagline": "",
+              "title": "Solaris"
+            },
+            "english_name": "Polish",
+            "iso_3166_1": "PL",
+            "iso_639_1": "pl",
+            "name": "Polski"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Un científico es enviado a la estación espacial de un remoto planeta cubierto de agua para investigar la misteriosa muerte de un médico. Adaptación del clásico de ciencia-ficción del escritor polaco Stanislaw Lem.",
+              "runtime": 166,
+              "tagline": "",
+              "title": "Solaris"
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Ο εξωηλιακός πλανήτης Σολάρις, ένας διαστημικός ωκεανός τυλιγμένος από σύννεφα, είναι στόχος επιστημονικής μελέτης των ανθρώπων της Γης που έχουν εγκαταστήσει έναν διαστημικό σταθμό χωρητικότητας 85 αστροναυτών σε τροχιά γύρω από τον πλανήτη. Αν και αρχικά απλά τον παρακολουθούσαν, κάποτε διατύπωσαν την θεωρία, ότι ο πλανήτης αυτός μπορεί να είναι ένα νοήμον εξωγήινο ον τεράστιων διαστάσεων. Αποφασίζουν λοιπόν να τον ενεργοποιήσουν τρυπώντας τον με ακτίνες φωτός υψηλής ενέργειας. Ξαφνικά στον διαστημικό σταθμό αρχίζουν να συμβαίνουν περίεργα πράγματα που συνοδεύονται από ανεξήγητες παραισθήσεις του πληρώματος του διαστημικού σταθμού, αναγκάζοντας την γήινη διεύθυνση του διαστημικού σταθμού να λάβει μέτρα για τον τερματισμό του διαστημικού προγράμματος.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Σολάρις"
+            },
+            "english_name": "Greek",
+            "iso_3166_1": "GR",
+            "iso_639_1": "el",
+            "name": "ελληνικά"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Ünlü bilimkurgu yazarı Stanislaw Lem'in kitabından uyarlanmış olan Solaris'te, araştırma yapılan bir gezegendeki, bir çeşit zeka barındırdığı bilinen, fakat açıklanamayan olaylar yüzünden çok gizli tutulan Solaris Okyanusu görevi anlatılıyor. Uzay üssündeki üç bilim adamının başına açıklanamayan olayların gelmesiyle birlikte, filmimizin ana karakteri, görevi devamı hakkında karar vermek üzere Solaris Okyanusu üzerindeki üsse gönderilir. İstasyonda hayat durmuş gibidir ve hayatta kalan iki bilim adamı da çok gizemli ve ketum davranmaktadır. Üste, yedi yıl önce ölmüş olan karısıyla karşılaşmasıyla birlikte, bu yabancı zekanın doğasını anlamaya başlar...",
+              "runtime": 166,
+              "tagline": "",
+              "title": "Solaris"
+            },
+            "english_name": "Turkish",
+            "iso_3166_1": "TR",
+            "iso_639_1": "tr",
+            "name": "Türkçe"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "海と雲に覆われた惑星ソラリスを探索中の宇宙ステーション「プロメテウス」との通信が途切れたことから、心理学者のクリスは調査のために派遣される。  「プロメテウス」に到着したクリスが目にしたのは、友人の自殺死体、いないはずの人物の痕跡、そして知性を持つ有機体である海が及ぼす、不可解な現象の数々であった。",
+              "runtime": 165,
+              "tagline": "",
+              "title": "惑星ソラリス"
+            },
+            "english_name": "Japanese",
+            "iso_3166_1": "JP",
+            "iso_639_1": "ja",
+            "name": "日本語"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Neuvostoliittolaisohjaaja Andrei Tarkovskin ylistetyssä Stanislav Lemin romaaniin pohjautuvassa tieteiselokuvassa psykologi Kris Kelvin lähetetään Solaris-planeettaa kiertävälle avaruusasemalle tutkimaan sen miehistön salaperäisiä kohtaloita. Hänelle paljastuu pian, että planeetan meri on elävää ainetta, joka toimii kuin jättiläisen aivot. Meri on alkanut vaikuttaa kosmonautteihin luomalla heidän muistoistaan, haaveistaan ja pakkomielteistään eläviä olentoja. Onnistuuko hän itse selviytymään Solariksen vaaroilta?",
+              "runtime": 159,
+              "tagline": "",
+              "title": "Solaris"
+            },
+            "english_name": "Finnish",
+            "iso_3166_1": "FI",
+            "iso_639_1": "fi",
+            "name": "suomi"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "На космічну станцію, працівники якої давно і марно намагаються зрозуміти таємниці планети Соляріс, покритої Океаном, прибуває новий мешканець, психолог Кріс Кельвін, щоб розібратися в дивних повідомленнях, що надходять зі станції, і «закрити» її разом зі всією безплідною «соляристикою». Спочатку йому здається, що ті вчені, що вціліли на станції  з'їхали з глузду. Потім він і сам стає жертвою страшного марення: йому з'являється його колишня кохана Харі, що колись покінчила з собою на Землі.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Соляріс"
+            },
+            "english_name": "Ukrainian",
+            "iso_3166_1": "UA",
+            "iso_639_1": "uk",
+            "name": "Український"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "פסיכולוג נשלח אל תחנת החלל הממוקמת מעל אוקינוס סולאריס המסתורי כדי לחקור את מותו של מדען. שני המדענים האחרים שחיים בתחנת החלל מספרים לו על התרחשויות מוזרות במקום ובעצמם מתנהגים בריחוק לא ברור. כשהמדען פוגש שם את אשתו, שנפטרה שבע שנים קודם, הוא מתחיל להאמין לקיומן של ישויות אינטיליגנטיות לא מוכרות. מדע בדיוני מורכב ופילוסופי, מבית היוצר של אנדריי טרקובסקי, שגם השתתף בכתיבת התסריט. הסרט זכה בפרס חבר השופטים בפסטיבל קאן.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "סולאריס"
+            },
+            "english_name": "Hebrew",
+            "iso_3166_1": "IL",
+            "iso_639_1": "he",
+            "name": "עִבְרִית"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Solaris é um planeta distante, que vem sendo constantemente estudado há décadas, e cujo mistério sobre seu oceano ainda não foi esclarecido, nem seus efeitos. Por falta de interesse e resultados, a solarística está morrendo; aliado a isto, os membros na estação espacial que orbita o planeta estão sendo afetados pelo oceano. Por conta disto, o psicólogo Kelvin - conhecido de um dos doutores da solarística e amigo de um dos tripulantes - é mandado para a estação para averiguar a situação. Lá, ele percebe aos poucos que Solaris é, mais que um planeta, um espelho da alma.",
+              "runtime": 165,
+              "tagline": "",
+              "title": "Solaris"
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "별장에 있는 과학자 크리스 켈빈에게 연구소로부터 비디오 테이프가 전달된다. 연구소는 우주 정거장이 보내온 비디오 테이프를 보며 혹성 솔라리스에게 무슨 일이 벌어지고 있다는 결론을 내리고, 그 정거장에 크리스 켈빈을 보내기로 한 것이다. 우주 정거장에 온 켈빈은 여기에서 두 과학자 스나우토와 사리보리우스를 만난다. 물리학자 기바리안은 이미 자살한 후였다. 켈빈은 여기서 혹성 솔라리스의 생각하는 바다에 대해서 듣게 된다. 혹성 솔라리스에 접근하면 여기에 근접한 사람과 솔라리스가 정신작용을 일으켜 상대방의 기억 깊이 잠겨있는 과거를 물질화한다는 것이다. 이후 독극물 주사로 자살한 크리스 켈빈의 아내가 그의 앞에 물질이 되어 나타나는데..",
+              "runtime": 0,
+              "tagline": "",
+              "title": "솔라리스"
+            },
+            "english_name": "Korean",
+            "iso_3166_1": "KR",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Wanneer een psycholoog aankomt op een ruimtestation die een baan maakt om de oceaanplaneet Solaris, ontdekt hij dat de commandant van een expeditie naar de planeet op mysterieuze wijze overleden is.",
+              "runtime": 167,
+              "tagline": "",
+              "title": "Solyaris"
+            },
+            "english_name": "Dutch",
+            "iso_3166_1": "NL",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Kosmonauten Chris Kelvin anländer till en rymdstation i omloppsbana runt vattenplaneten Solaris. Han har i uppdrag att utreda en serie mystiska händelser på stationen - förträngda minnen tycks ta fysisk form och bli verkliga. Snart dyker hans egen döda fru upp. Fenomenen förefaller knutna till vattenplaneten som kanske, kanske inte, besitter ett slags medvetande.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Solaris"
+            },
+            "english_name": "Swedish",
+            "iso_3166_1": "SE",
+            "iso_639_1": "sv",
+            "name": "svenska"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Film științifico-fantastic inspirat din romanul omonim al lui Stanislaw Lem. Patru savanți aflați la bordul unei stații orbitale unde cercetările au fost abandonate, se confruntă cu stranii și inexplicabile fenomene, determinate de curioasa planetă Solaris, alcătuită dintr-o substanță înzestrată cu proprietățile creierului omenesc.",
+              "runtime": 165,
+              "tagline": "Planeta unde coșmarele devin realitate…",
+              "title": "Solaris"
+            },
+            "english_name": "Romanian",
+            "iso_3166_1": "RO",
+            "iso_639_1": "ro",
+            "name": "Română"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Solaris er et filosofisk foruroligende portræt af menneskets destruktive interaktion med omverdenen. Filmen er en visuel tour de force, der tematisk kredser om kærlighed, bevidsthed, personlig identitet, erindring og ikke mindst forsoning og nostalgi. En fremmed entitet, selvmordstraumer og store filosofiske spørgsmål skaber en foruroligende ubalance, der i samspil med tempoet og filmens lange spilletid tvinger seeren næsten fysisk ind i karakterernes ulidelige mentale trængsler.",
+              "runtime": 165,
+              "tagline": "",
+              "title": "Solaris"
+            },
+            "english_name": "Danish",
+            "iso_3166_1": "DK",
+            "iso_639_1": "da",
+            "name": "Dansk"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "هیات سولاریس یک پایگاه بر روی سیاره‌ای که نشانه‌هایی از حیات هوشمند در آن دیده شده، برپا کرده‌اند، اما جزئیات در این مورد مبهم و رازآلود است. بعد از مرگ مشکوک یکی از سه دانشمند ساکن در پایگاه، شخصیت اصلی داستان به جای او فرستاده می‌شود...",
+              "runtime": 0,
+              "tagline": "",
+              "title": "سولاریس"
+            },
+            "english_name": "Persian",
+            "iso_3166_1": "IR",
+            "iso_639_1": "fa",
+            "name": "فارسی"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Мисия \"Соларис\" основава база на планета, където сякаш битува някакъв интелект, подробностите обаче остават тайни и неясни. След мистериозната гибел на един от тримата учени в базата, главният герой бива изпратен да го замести. Той открива станцията в окаяно състояние, а поведението на другите двама учени е много хладно и потайно. Когато среща и съпругата си, която е мъртва от седем години, той започва да придобива представа за природата на чуждоземния интелект. Психологът Крис Келвин е изпратен на Соларис - космическа станция, изследваща планета със същото име.",
+              "runtime": 169,
+              "tagline": "",
+              "title": "Соларис"
+            },
+            "english_name": "Bulgarian",
+            "iso_3166_1": "BG",
+            "iso_639_1": "bg",
+            "name": "български език"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "心理學家克裡斯‧凱爾文（Donatas Banionis 飾）在飛往索拉瑞斯星之前來到兒時的父母家與當年的索拉瑞斯飛行員亨利‧伯頓（Vladislav Dvorzhetsky 飾）見面。伯頓警告凱爾文索拉瑞斯星上會有不可思議的奇事發生，但後者並不以為意。凱爾文離開前，當著父親（Nikolai Grinko 飾）的面焚燬了自己的個人物品。凱爾文到達索拉瑞斯星附近的太空站後，對科學家奇巴瑞安博士（Sos Sargsyan 飾）之死進行調查，卻發現自己多年前已經去世的妻子哈莉（Natalya Bondarchuk 飾）竟突然出現。驚慌失措的凱爾文與太空站上另三位科學家討論該如何面對怪事，卻發現原來每人都深受其擾，不明就裡……　本片被提名1972年嘎納電影節金棕櫚獎，並獲同年嘎納電影節評委會大獎和國際影評人協會大獎。",
+              "runtime": 0,
+              "tagline": "",
+              "title": "飛向太空"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "TW",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Un científico es enviado a la estación espacial de un remoto planeta cubierto de agua para investigar la misteriosa muerte de un médico. Adaptación del clásico de ciencia-ficción del escritor polaco Stanislaw Lem.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Solaris"
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "MX",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "La missió Solaris ha establert la seva base en un planeta que sembla albergar algun tipus d'intel·ligència. Un científic viatja fins allà per substituir un altre que ha desaparegut. Després de les seves investigacions, descobreix una realitat alternativa de la qual li serà molt difícil fugir.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Solaris"
+            },
+            "english_name": "Catalan",
+            "iso_3166_1": "ES",
+            "iso_639_1": "ca",
+            "name": "Català"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Skambant Bachui, jo muzikos taktu linguoja vandenų žolės, žmogus ruošiasi į tolimą kelionę, prieš tai dar atsisveikina su tėvu. Pasiekęs planetą Soliarį, jis randa erdvėlaivyje keistus ir beviltiškai nusiteikusius ten dirbančius mokslininkus. Soliaris šiems gali materializuoti sapnus. Netrukus Kelvinui tai atsitinka ir pačiam – pradeda po sapnų sugrįžinėti jo nusižudžiusi žmona, kurią labai sudėtinga iš naujo sunaikinti.\r Pirmoji Stanislawo Lemo knygos ekranizacija. Andrejus Tarkovskis nekuria mokslinės fantastikos filmo, jam įdomesnė vidinė Kriso Kelvino kelionė į save, kurią išprovokuoja mąstanti planeta Soliaris, ir apmąstymai apie žmogų...",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Soliaris"
+            },
+            "english_name": "Lithuanian",
+            "iso_3166_1": "LT",
+            "iso_639_1": "lt",
+            "name": "Lietuvių"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "เรื่องราวของ \"คริส\" นักจิตวิทยาที่ถูกส่งตัวขึ้นไปยังสถานีอวกาศเก่าแก่เพื่อประเมินสถานการณ์ว่า เหล่าลูกเรือยังสมควรปฏิบัติภารกิจสำรวจดาวเคราะห์โซลาริสต่อไปหรือไม่ ทว่าสิ่งที่เขาได้พบบนนั้นกลับเต็มไปด้วยความคลุมเครือ บรรยากาศที่ไม่น่าไว้วางใจ ท่าทีชวนสะพรึงของเพื่อนร่วมงานที่เหมือนเก็บงำอะไรบางอย่างไว้ หรือแม้แต่การต้องเผชิญหน้ากับภรรยาของเขาเอง...ทั้งที่เธอตายจากไปแล้ว!",
+              "runtime": 0,
+              "tagline": "",
+              "title": "โซลาริส"
+            },
+            "english_name": "Thai",
+            "iso_3166_1": "TH",
+            "iso_639_1": "th",
+            "name": "ภาษาไทย"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Basque",
+            "iso_3166_1": "ES",
+            "iso_639_1": "eu",
+            "name": "euskera"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "يتم إرسال عالم نفساني إلى محطة فضائية تدور حول كوكب يسمى سولاريس للتحقيق في وفاة طبيب والمشاكل العقلية لرواد الفضاء على المحطة. وسرعان ما يكتشف أن الماء الموجود على الكوكب هو نوع من الدماغ الذي يبرز الذكريات المكبوتة والهواجس.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "سولاريس"
+            },
+            "english_name": "Arabic",
+            "iso_3166_1": "SA",
+            "iso_639_1": "ar",
+            "name": "العربية"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "心理學家克里斯‧凱爾文（Donatas Banionis 飾）在飛往索拉瑞斯星之前來到兒時的父母家與當年的索拉瑞斯飛行員亨利‧伯頓（Vladislav Dvorzhetsky 飾）見面。伯頓警告凱爾文索拉瑞斯星上會有不可思議的奇事發生，但後者並不以為意。凱爾文離開前，當著父親（Nikolai Grinko 飾）的面焚燬了自己的個人物品。凱爾文到達索拉瑞斯星附近的太空站後，對科學家奇巴瑞安博士（Sos Sargsyan 飾）之死進行調查，卻發現自己多年前已經去世的妻子哈莉（Natalya Bondarchuk 飾）竟突然出現。驚慌失措的凱爾文與太空站上另三位科學家討論該如何面對怪事，卻發現原來每人都深受其擾，不明就裏……\r 本片被提名 1972 年嘎納電影節金棕櫚獎，並獲同年嘎納電影節評委會大獎和國際影評人協會大獎。",
+              "runtime": 0,
+              "tagline": "",
+              "title": "飛向太空"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "HK",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Một nhà tâm lý học được cử đến trạm vũ trụ quay quanh hành tinh Solaris để điều tra cái chết của một bác sĩ và các vấn đề tâm lý của các phi hành gia trên trạm. Ông sớm phát hiện ra rằng nước trên hành tinh này là một loại não bộ có khả năng khơi gợi những ký ức và nỗi ám ảnh bị kìm nén.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Solaris - Hành Tinh Bí Ẩn"
+            },
+            "english_name": "Vietnamese",
+            "iso_3166_1": "VN",
+            "iso_639_1": "vi",
+            "name": "Tiếng Việt"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Психолог Крис Келвин добија задатак да отпутује на свемирску станицу која кружи око тајанствене, океанске планете Соларис, како би истражио чудне менталне сломове и мистериозне догађаје који су задесили преосталу посаду. Након доласка на скоро напуштену станицу, Крис се суочава са хаотичним стањем научника и убрзо и сам доживљава шок када му се у соби појави Хари, његова давно преминула супруга која је извршила самоубиство пре много година. Крис полако схвата да живи океан планете Соларис поседује способност да материјализује најдубље потиснуте кривице, сећања и трауме људске подвести, увлачећи га у болну егзистенцијалну кризу где се брише граница између стварности и илузије.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Соларис"
+            },
+            "english_name": "Serbian",
+            "iso_3166_1": "RS",
+            "iso_639_1": "sr",
+            "name": "Srpski"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 7.767,
+      "vote_count": 1850
     },
     "60732": {
       "adult": false,
@@ -460268,6 +463027,48 @@
       }
     ],
     "elettro muto vibes|": [],
+    "eternal sunshine of the spotless mind|": [
+      {
+        "adult": false,
+        "backdrop_path": "/W1ffLQGHoxfAOq0ZYdPtJlvAdb.jpg",
+        "genre_ids": [
+          878,
+          18,
+          10749
+        ],
+        "id": 38,
+        "original_language": "en",
+        "original_title": "Eternal Sunshine of the Spotless Mind",
+        "overview": "Joel e Clementine sono una coppia molto innamorata. Un giorno però, la ragazza, stanca della sua relazione ormai in fase di declino, decide, mediante un esperimento scientifico, di farsi asportare dalla mente la parte relativa alla storia con Joel. Il giovane, una volta venuto a conoscenza di questo fatto, sceglie di fare altrettanto ma durante il procedimento cambia idea.",
+        "popularity": 17.2561,
+        "poster_path": "/uDuAYpBfFQvFMnlt2w8xUUZiWrr.jpg",
+        "release_date": "2004-10-22",
+        "softcore": false,
+        "title": "Se mi lasci ti cancello",
+        "video": false,
+        "vote_average": 8.091,
+        "vote_count": 16438
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gg41OD2wddfIZB8BZ0omxyhouF3.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1635723,
+        "original_language": "en",
+        "original_title": "A Look Inside Eternal Sunshine of the Spotless Mind",
+        "overview": "",
+        "popularity": 0.9889,
+        "poster_path": "/qCts6KGlSjHbDPt1f3wifSPpPCt.jpg",
+        "release_date": "2004-09-28",
+        "softcore": false,
+        "title": "A Look Inside Eternal Sunshine of the Spotless Mind",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+      }
+    ],
     "eva|": [
       {
         "adult": false,
@@ -474138,6 +476939,45 @@
         "vote_count": 2
       }
     ],
+    "nimrods|": [
+      {
+        "adult": false,
+        "backdrop_path": "/aVRRKTGJnnWvah99gLZaRG0wS17.jpg",
+        "genre_ids": [
+          35,
+          10402
+        ],
+        "id": 1432474,
+        "original_language": "en",
+        "original_title": "Nimrods",
+        "overview": "",
+        "popularity": 8.4994,
+        "poster_path": "/aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
+        "release_date": "2026-08-11",
+        "softcore": false,
+        "title": "Nimrods",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1363822,
+        "original_language": "en",
+        "original_title": "Nimrod's Christmas",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
+        "release_date": "",
+        "softcore": false,
+        "title": "Nimrod's Christmas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
     "no good men|": [
       {
         "adult": false,
@@ -479914,6 +482754,28 @@
         "vote_count": 0
       }
     ],
+    "roma citta aperta|": [
+      {
+        "adult": false,
+        "backdrop_path": "/cztYhbawTjK9m8lFBd97Yl5Zd8r.jpg",
+        "genre_ids": [
+          18,
+          10752
+        ],
+        "id": 307,
+        "original_language": "it",
+        "original_title": "Roma città aperta",
+        "overview": "La vicenda inizia dopo l'armistizio di Cassibile: gli Alleati sono sbarcati in Italia e avanzano verso nord ma ancora non sono giunti nella capitale, dove la resistenza è già attiva. Giorgio Manfredi, militante comunista e uomo di spicco della resistenza, sfugge a una retata della polizia e si rifugia presso Francesco, un tipografo antifascista, il quale, il giorno seguente, dovrebbe sposare Pina, una vedova madre d'un bambino.",
+        "popularity": 2.1791,
+        "poster_path": "/r8Xg0Tcfsc9iouuXXJASgrJ0qUp.jpg",
+        "release_date": "1945-10-08",
+        "softcore": false,
+        "title": "Roma città aperta",
+        "video": false,
+        "vote_average": 8.013,
+        "vote_count": 981
+      }
+    ],
     "romeria il mare dei ricordi|": [
       {
         "adult": false,
@@ -481812,6 +484674,385 @@
       }
     ],
     "softness i mesh designing the city|": [],
+    "solaris|": [
+      {
+        "adult": false,
+        "backdrop_path": "/avjG5EPgWXyLvsUId6hEn0iqT4A.jpg",
+        "genre_ids": [
+          18,
+          878,
+          9648
+        ],
+        "id": 2103,
+        "original_language": "en",
+        "original_title": "Solaris",
+        "overview": "Un astronauta riceve un messaggio dalla piattaforma che ruota intorno al pianeta Solaris. Stanno accadendo cose inspiegabili. Si decide di inviarlo in missione. Trova così che a bordo ci sono state morti violente ma, soprattutto, che il pianeta ha la forza di materializzare l'inconscio degli umani facendo comparire le persone che vivono nella loro mente. Ricompare cosi'la moglie e per lui sarà sempre più difficile liberarsi dalla sua presenza che sa essere non umana.",
+        "popularity": 2.453,
+        "poster_path": "/waTyYuoFmZGfseO4Db9lU8AhD3v.jpg",
+        "release_date": "2003-03-28",
+        "softcore": false,
+        "title": "Solaris",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1464
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jZv1u7uzpOE5JOc2MmrvPUZWoyb.jpg",
+        "genre_ids": [
+          18,
+          878,
+          9648
+        ],
+        "id": 593,
+        "original_language": "ru",
+        "original_title": "Солярис",
+        "overview": "In un futuro imprecisato lo psicologo Kris Kelvin è incaricato di recarsi in una stazione scientifica presso il pianeta Solaris. Prima della partenza per il lunghissimo viaggio, egli trascorre alcuni giorni nella dacia paterna, consapevole che al suo ritorno non rivedrà l'anziano padre e sua zia Anna. Scorcio della città del futuro, percorsa in automobile da Henri Berton; scena girata ad Akasaka, distretto commerciale del quartiere di Tōkyō Minato Nel frattempo riceve la visita indesiderata di Henri Berton, un ex-astronauta amico del padre, che decenni anni prima, in missione su Solaris, avrebbe assistito a strani fenomeni che lo traumatizzarono rovinandogli la carriera.",
+        "popularity": 3.0906,
+        "poster_path": "/pR1D4XmzhMG0uxknwm5nUNkO6Ei.jpg",
+        "release_date": "1972-03-20",
+        "softcore": false,
+        "title": "Solaris",
+        "video": false,
+        "vote_average": 7.767,
+        "vote_count": 1850
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          878
+        ],
+        "id": 889491,
+        "original_language": "ja",
+        "original_title": "Solaris",
+        "overview": "",
+        "popularity": 0.1729,
+        "poster_path": "/fNsSBqluKer3WcHaQ3baeZwAOAO.jpg",
+        "release_date": "2007-01-01",
+        "softcore": false,
+        "title": "Solaris",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tdFONLBYlJCmziGS5Ii0TIZOCZ5.jpg",
+        "genre_ids": [
+          99,
+          36
+        ],
+        "id": 650223,
+        "original_language": "pl",
+        "original_title": "Autor Solaris",
+        "overview": "",
+        "popularity": 1.5978,
+        "poster_path": "/iQamDdiXMY7QENM578w8ng0jl1q.jpg",
+        "release_date": "2016-11-02",
+        "softcore": false,
+        "title": "Autor Solaris",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1000055,
+        "original_language": "de",
+        "original_title": "Solaris",
+        "overview": "",
+        "popularity": 0.0382,
+        "poster_path": null,
+        "release_date": "2022-07-14",
+        "softcore": false,
+        "title": "Solaris",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          10402
+        ],
+        "id": 913030,
+        "original_language": "xx",
+        "original_title": "Solaris",
+        "overview": "",
+        "popularity": 0.1134,
+        "poster_path": "/d14AnfROKEAt2ETwIVz7wBV2Z6y.jpg",
+        "release_date": "2021-04-27",
+        "softcore": false,
+        "title": "Solaris",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1561951,
+        "original_language": "en",
+        "original_title": "Solaris",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/1npjYZEA6UtkfwuJdOwu7rfDaa5.jpg",
+        "release_date": "",
+        "softcore": false,
+        "title": "Solaris",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1014055,
+        "original_language": "en",
+        "original_title": "SOLARIS",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/1VeepRryB4TLUHLwetja7bDbwda.jpg",
+        "release_date": "2006-08-18",
+        "softcore": false,
+        "title": "SOLARIS",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 468449,
+        "original_language": "en",
+        "original_title": "Solaris",
+        "overview": "",
+        "popularity": 0.0362,
+        "poster_path": "/fmt6XZRo4oDEzO4NdMoNbs0q8fk.jpg",
+        "release_date": "2010-07-28",
+        "softcore": false,
+        "title": "Solaris",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 843212,
+        "original_language": "fr",
+        "original_title": "Solaris",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
+        "release_date": "",
+        "softcore": false,
+        "title": "Solaris",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          878,
+          99
+        ],
+        "id": 872230,
+        "original_language": "lt",
+        "original_title": "Revisiting Solaris",
+        "overview": "",
+        "popularity": 0.2039,
+        "poster_path": "/vJm2vyvIZ0hrQlnlOqAs7qD1Lsc.jpg",
+        "release_date": "2007-01-01",
+        "softcore": false,
+        "title": "Revisiting Solaris",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jiF3Ahce954v3ZMqx0fC3w0oy6J.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1462366,
+        "original_language": "pl",
+        "original_title": "OPUS SOLARIS",
+        "overview": "",
+        "popularity": 0.0592,
+        "poster_path": "/xL0vIrV58TNM8MfTjGpSgnQgv6q.jpg",
+        "release_date": "2025-04-11",
+        "softcore": false,
+        "title": "OPUS SOLARIS",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4sLbtKFe1n89BuOlAA38A89mxTv.jpg",
+        "genre_ids": [
+          27,
+          878,
+          99
+        ],
+        "id": 1300942,
+        "original_language": "en",
+        "original_title": "solaris bled",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/fVjWXS0BjulsbQxegDxBRAmC4xN.jpg",
+        "release_date": "2024-06-06",
+        "softcore": false,
+        "title": "solaris bled",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3a5ADtB59oorNZFeVN0TBoX0T6f.jpg",
+        "genre_ids": [
+          878,
+          99
+        ],
+        "id": 1126786,
+        "original_language": "pl",
+        "original_title": "Solaris Mon Amour",
+        "overview": "",
+        "popularity": 0.3913,
+        "poster_path": "/lL02fenJsBLG6GM43d0xPDjF1SX.jpg",
+        "release_date": "2023-05-12",
+        "softcore": false,
+        "title": "Solaris Mon Amour",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 759698,
+        "original_language": "cs",
+        "original_title": "Resonare De INTER Solaris",
+        "overview": "",
+        "popularity": 0.0327,
+        "poster_path": null,
+        "release_date": "2020-10-29",
+        "softcore": false,
+        "title": "Resonare De INTER Solaris",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1262133,
+        "original_language": "en",
+        "original_title": "Solaris - Marsbéli Krónikák",
+        "overview": "",
+        "popularity": 0.0382,
+        "poster_path": "/rBuZY4OjGKiPJaIj07IBunrO4Xd.jpg",
+        "release_date": "2015-01-01",
+        "softcore": false,
+        "title": "Solaris - Marsbéli Krónikák",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 699695,
+        "original_language": "de",
+        "original_title": "Solaris - als Grundfrage der Philosophie",
+        "overview": "",
+        "popularity": 0.0239,
+        "poster_path": null,
+        "release_date": "2003-11-04",
+        "softcore": false,
+        "title": "Solaris - als Grundfrage der Philosophie",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1250833,
+        "original_language": "en",
+        "original_title": "Solaris - Live At Los Angeles 1995",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/1Rwrwvyhlkw0cqCDrlMJDjIIQS7.jpg",
+        "release_date": "2010-01-01",
+        "softcore": false,
+        "title": "Solaris - Live At Los Angeles 1995",
+        "video": true,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/plKs6ckBGFRfMgihqFdxbWO4eFx.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1610685,
+        "original_language": "en",
+        "original_title": "The Abramović Method Practiced by Lady Gaga & Marathon Reading of Stanislaw Lem's \"Solaris\"",
+        "overview": "",
+        "popularity": 0.4403,
+        "poster_path": "/fMHbadrYeu86XI6gmBZYzDQB59N.jpg",
+        "release_date": "2013-08-09",
+        "softcore": false,
+        "title": "The Abramović Method Practiced by Lady Gaga & Marathon Reading of Stanislaw Lem's \"Solaris\"",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kr9d1AX9D82AjKMsW00t00FXFVn.jpg",
+        "genre_ids": [
+          10770,
+          18,
+          878
+        ],
+        "id": 321130,
+        "original_language": "ru",
+        "original_title": "Солярис",
+        "overview": "",
+        "popularity": 0.2364,
+        "poster_path": null,
+        "release_date": "2019-04-14",
+        "softcore": false,
+        "title": "Солярис",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 13
+      }
+    ],
     "somewhere|": [
       {
         "adult": false,
