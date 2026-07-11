@@ -28,30 +28,9 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "V.O. SOTT.ITA - L'AMICO AMERICANO (Der amerikanische Freund)",
-    "tmdb_id": 11222,
-    "matched_title": "L'amico americano",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "V.O. SOTT.ITA. -  NON BUSSARE ALLA MIA PORTA (Don't Come Knocking)",
     "tmdb_id": 3527,
     "matched_title": "Non bussare alla mia porta",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "CORTOCIRCUITO - SECONDO GIORNO",
-    "tmdb_id": 1406354,
-    "matched_title": "Cortocircuito",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "V.O.SOTT.ITA CALLE MALAGA (CALLE MALAGA)",
-    "tmdb_id": 1399462,
-    "matched_title": "Calle Málaga",
     "method": "ai",
     "confidence": 100.0
   },
@@ -66,6 +45,13 @@
     "raw_title": "CORTO CIRCUITO - TERZO GIORNO",
     "tmdb_id": 2605,
     "matched_title": "Corto circuito",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "V.O.SOTT.ITA CALLE MALAGA (CALLE MALAGA)",
+    "tmdb_id": 1399462,
+    "matched_title": "Calle Málaga",
     "method": "ai",
     "confidence": 100.0
   },
