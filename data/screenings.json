@@ -1,3666 +1,6 @@
 [
   {
     "cinema_id": "anteo",
-    "tmdb_id": 390,
-    "raw_title": "V.O. SOTT. ITA - LISBON STORY (RIED 2026)",
-    "start": "2026-07-12T10:00:00",
-    "hall": "Rubino",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/88792/c0ef5aa7-c1bb-43bc-84c9-ac30f7542b40#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": null,
-    "raw_title": "NO GOOD MEN",
-    "start": "2026-07-12T10:15:00",
-    "hall": "Excelsior",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/91494/79f03970-2d58-4750-8f54-c903c7d6d7b9#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1088548,
-    "raw_title": "AMARGA NAVIDAD",
-    "start": "2026-07-12T10:30:00",
-    "hall": "Obraz",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/91527/5560e494-a6df-411b-9fae-b5f89fe811bf#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1575560,
-    "raw_title": "SEPARAZIONI",
-    "start": "2026-07-12T10:30:00",
-    "hall": "De amicis",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/94957/7b21b94f-3e28-4391-9714-80ca5cefa50e#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1315657,
-    "raw_title": "YELLOW LETTERS",
-    "start": "2026-07-12T10:30:00",
-    "hall": "President",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/95220/9908081c-4988-4fce-8c42-7eea0ec01139#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1410189,
-    "raw_title": "V.O. SOTT. ITA - KONTINENTAL '25",
-    "start": "2026-07-12T10:30:00",
-    "hall": "Abanella",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93342/2de238b5-50d1-46bf-8a7c-1c556142f16f#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T10:30:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1081003,
-    "raw_title": "Supergirl",
-    "start": "2026-07-12T10:30:00",
-    "hall": "14",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 355993,
-    "raw_title": "THE WHISPERING STAR",
-    "start": "2026-07-12T10:40:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/the-whispering-star/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T10:40:00",
-    "hall": "15",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1175942,
-    "raw_title": "Troppo Cattivi 2",
-    "start": "2026-07-12T10:40:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1708043,
-    "raw_title": "ELECTION DAY",
-    "start": "2026-07-12T10:45:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/96870/de08b24d-02c2-459e-93fe-ba5f663e0c58#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1612018,
-    "raw_title": "Jackass: Best And Last",
-    "start": "2026-07-12T10:45:00",
-    "hall": "13",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T10:55:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1563588,
-    "raw_title": "V. O. SOTT ITA L'HANGAR ROSSO",
-    "start": "2026-07-12T11:00:00",
-    "hall": "Astra",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/96969/0cbceb73-3f40-42f3-9f73-5c851e7d5a1e#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T11:00:00",
-    "hall": "Abadan",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/87961/0cbb02ad-fdc7-4eb9-8568-a41a9c75cf90#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T11:00:00",
-    "hall": "Aurora",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/89413/9d4cf1f3-6219-4303-80ee-10c5def41918#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1369286,
-    "raw_title": "COS'E' L'AMORE (C'EST QUOI L'AMOUR)",
-    "start": "2026-07-12T11:00:00",
-    "hall": "Ariston",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/93373/88d1daab-cf52-43c6-970c-08c401c4829f#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T11:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
-    "raw_title": "Troppo Cattivi 2 Autism Friendly",
-    "start": "2026-07-12T11:00:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1084244,
-    "raw_title": "TOY STORY 5",
-    "start": "2026-07-12T11:10:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1212763,
-    "raw_title": "(O.V.) Evil Dead Burn",
-    "start": "2026-07-12T11:15:00",
-    "hall": "9",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T11:20:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "(Sala XL) Minions & Monsters",
-    "start": "2026-07-12T11:30:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1212763,
-    "raw_title": "LA CASA - IL ROGO DEL MALE",
-    "start": "2026-07-12T11:40:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 936075,
-    "raw_title": "Michael",
-    "start": "2026-07-12T11:40:00",
-    "hall": "5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T11:40:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1212763,
-    "raw_title": "La Casa - Il Rogo Del Male",
-    "start": "2026-07-12T11:50:00",
-    "hall": "3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 936075,
-    "raw_title": "(O.V.) Michael",
-    "start": "2026-07-12T12:00:00",
-    "hall": "8",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1275779,
-    "raw_title": "V.O.SOTT. ITA. - DISCLOSURE DAY",
-    "start": "2026-07-12T12:10:00",
-    "hall": "Excelsior",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/85487/4b2ef7da-61a3-4f6c-baec-694872e7032a#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1275779,
-    "raw_title": "V.O.SOTT. ITA. - DISCLOSURE DAY",
-    "start": "2026-07-12T12:10:00",
-    "hall": "Zenit",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85487/93e315fc-9bb4-4137-8c56-08ba83b63b7f#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 524635,
-    "raw_title": "V.O. SOTT ITA - LA CRONOLOGIA DELL'ACQUA",
-    "start": "2026-07-12T12:30:00",
-    "hall": "De amicis",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/81294/cb0ad356-fb6e-4ead-bf72-ec3fc786f294#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1370210,
-    "raw_title": "YALLA PARKOUR",
-    "start": "2026-07-12T12:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/yalla-parkour/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1084244,
-    "raw_title": "(O.V.) Toy Story 5",
-    "start": "2026-07-12T12:30:00",
-    "hall": "18",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "(Sala XL) Minions & Monsters",
-    "start": "2026-07-12T12:30:00",
-    "hall": "SALA 2 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1462322,
-    "raw_title": "LE CITTÀ DI PIANURA",
-    "start": "2026-07-12T12:45:00",
-    "hall": "Rubino",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/91557/8b4341ac-0048-4fc8-80b7-54ed78bda2b3#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1369286,
-    "raw_title": "COS'E' L'AMORE (C'EST QUOI L'AMOUR)",
-    "start": "2026-07-12T12:45:00",
-    "hall": "President",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93377/930eba7c-f369-4a3f-aebe-fc2825e74db2#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1410189,
-    "raw_title": "V.O. SOTT. ITA - KONTINENTAL '25",
-    "start": "2026-07-12T12:45:00",
-    "hall": "Abanella",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93342/80308e0c-48c2-4936-869e-f4e040a1cb4c#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1084244,
-    "raw_title": "V.O.SOTT.ITA. - TOY STORY 5",
-    "start": "2026-07-12T12:50:00",
-    "hall": "Ariston",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/89778/e4db27bb-56fc-4357-a376-bca25fb33b06#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 15014,
-    "raw_title": "BIANCA",
-    "start": "2026-07-12T12:50:00",
-    "hall": "Mignon",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/96936/11b955ac-e088-4365-ab62-0dbd13d2c770#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1563588,
-    "raw_title": "L'HANGAR ROSSO",
-    "start": "2026-07-12T13:00:00",
-    "hall": "Astra",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/96871/6e9d8a40-f131-48f3-970e-34a87bea902e#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": null,
-    "raw_title": "V. O. SOTT. ITA NO GOOD MEN",
-    "start": "2026-07-12T13:00:00",
-    "hall": "Obraz",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/91656/1c360474-79e0-4c9f-b97e-43f5a1ab6ab5#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1119537,
-    "raw_title": "V. O. SOTT. ITA LOVE LETTERS",
-    "start": "2026-07-12T13:00:00",
-    "hall": "Abadan",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/94990/8d624cb8-d682-430d-9e3d-f1d7dea95ddc#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1088548,
-    "raw_title": "AMARGA NAVIDAD",
-    "start": "2026-07-12T13:00:00",
-    "hall": "Corallo",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/91476/89511a0d-682f-47ca-b66e-4a9a8f21a1ae#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1462322,
-    "raw_title": "LE CITTÀ DI PIANURA",
-    "start": "2026-07-12T13:00:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/91482/f4ccc9ec-569a-422d-88b7-e0e34294a8dd#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1315772,
-    "raw_title": "V.O.SOTT.ITA - MINIONS & MONSTERS",
-    "start": "2026-07-12T13:15:00",
-    "hall": "Maestoso",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/89579/46652b4c-8971-42ae-9874-c5cbe08de917#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1303331,
-    "raw_title": "Dhamaal 4",
-    "start": "2026-07-12T13:30:00",
-    "hall": "14",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1084244,
-    "raw_title": "(O.V.) Toy Story 5",
-    "start": "2026-07-12T13:50:00",
-    "hall": "15",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "(Sala XL) Minions & Monsters",
-    "start": "2026-07-12T14:00:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T14:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "(O.V.) Minions & Monsters",
-    "start": "2026-07-12T14:15:00",
-    "hall": "1",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1563588,
-    "raw_title": "L'Hangar Rosso",
-    "start": "2026-07-12T14:15:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1563588,
-    "raw_title": "L’HANGAR ROSSO",
-    "start": "2026-07-12T14:20:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/lhangar-rosso/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1708043,
-    "raw_title": "Election Day",
-    "start": "2026-07-12T14:20:00",
-    "hall": "11",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
-    "raw_title": "Il Mondo Oltre",
-    "start": "2026-07-12T14:20:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "centrale",
-    "tmdb_id": 1083381,
-    "raw_title": "Backrooms Vm14",
-    "start": "2026-07-12T14:30:00",
-    "hall": "CENTRALE SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742"
-  },
-  {
-    "cinema_id": "centrale",
-    "tmdb_id": 1462322,
-    "raw_title": "Le Citta' Di Pianura",
-    "start": "2026-07-12T14:30:00",
-    "hall": "Centrale Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T14:30:00",
-    "hall": "GARBO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T14:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "3d - Minions & Monsters",
-    "start": "2026-07-12T14:30:00",
-    "hall": "5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1083381,
-    "raw_title": "Backrooms Vm14",
-    "start": "2026-07-12T14:40:00",
-    "hall": "SALA TORONTO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1084244,
-    "raw_title": "TOY STORY 5",
-    "start": "2026-07-12T14:40:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1212763,
-    "raw_title": "La Casa - Il Rogo Del Male",
-    "start": "2026-07-12T14:40:00",
-    "hall": "9",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1339713,
-    "raw_title": "(O.V.) Obsession V.M.14",
-    "start": "2026-07-12T14:45:00",
-    "hall": "SALA SUNDANCE",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T14:45:00",
-    "hall": "SALA CANNES",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1081003,
-    "raw_title": "SUPERGIRL",
-    "start": "2026-07-12T14:45:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1081003,
-    "raw_title": "Supergirl",
-    "start": "2026-07-12T14:45:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1708043,
-    "raw_title": "ELECTION DAY",
-    "start": "2026-07-12T14:50:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 936075,
-    "raw_title": "(O.V.) Michael",
-    "start": "2026-07-12T14:50:00",
-    "hall": "8",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "(Sala XL) Minions & Monsters",
-    "start": "2026-07-12T14:50:00",
-    "hall": "SALA 2 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T14:55:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T14:55:00",
-    "hall": "sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1275779,
-    "raw_title": "DISCLOSURE DAY",
-    "start": "2026-07-12T15:00:00",
-    "hall": "Excelsior",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/85518/9cc84df9-bb13-44ce-bf8c-586e1cc5d7c2#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": null,
-    "raw_title": "NO GOOD MEN",
-    "start": "2026-07-12T15:00:00",
-    "hall": "Obraz",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/91494/df71e283-cf80-49a1-adc1-16b7df85f319#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1560020,
-    "raw_title": "PICCOLO MIRACOLO",
-    "start": "2026-07-12T15:00:00",
-    "hall": "Rubino",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93306/2343d4f1-89a9-45a6-ba94-eaaf335bc14b#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1369286,
-    "raw_title": "COS'E' L'AMORE (C'EST QUOI L'AMOUR)",
-    "start": "2026-07-12T15:00:00",
-    "hall": "President",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93377/1c77b3eb-5aef-4138-9ee5-224f8e544ac8#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1410189,
-    "raw_title": "V.O. SOTT. ITA - KONTINENTAL '25",
-    "start": "2026-07-12T15:00:00",
-    "hall": "Abanella",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93342/3f9bd5b3-9ed6-4088-892b-fa0bbba2042e#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T15:00:00",
-    "hall": "Sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1081003,
-    "raw_title": "Atmos - Supergirl",
-    "start": "2026-07-12T15:00:00",
-    "hall": "SALA 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinemino",
-    "tmdb_id": 1575560,
-    "raw_title": "SEPARAZIONI",
-    "start": "2026-07-12T15:00:00",
-    "hall": "Sala  cinema revolution",
-    "language": "unknown",
-    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
-    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": 72113,
-    "raw_title": "CARNAGE",
-    "start": "2026-07-12T15:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/29735",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1708043,
-    "raw_title": "ELECTION DAY",
-    "start": "2026-07-12T15:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/97399",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-mic",
-    "tmdb_id": 2011,
-    "raw_title": "PERSEPOLIS",
-    "start": "2026-07-12T15:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/23652",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1084244,
-    "raw_title": "TOY STORY 5",
-    "start": "2026-07-12T15:00:00",
-    "hall": "Ariston",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/91296/ddc3bb88-fcf2-4804-a22d-a669350f8400#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1275779,
-    "raw_title": "DISCLOSURE DAY",
-    "start": "2026-07-12T15:00:00",
-    "hall": "Zenit",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85518/ea8f001c-a75a-479c-88a5-dc60f2e15016#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1708043,
-    "raw_title": "ELECTION DAY",
-    "start": "2026-07-12T15:00:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/96870/fde804de-fcee-4314-b7ad-388f5c17fa74#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1369286,
-    "raw_title": "COS'E' L'AMORE (C'EST QUOI L'AMOUR)",
-    "start": "2026-07-12T15:00:00",
-    "hall": "Aurora",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/93373/cc5c8639-aa9f-4e0c-b607-dad9d7144858#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1708043,
-    "raw_title": "Election Day",
-    "start": "2026-07-12T15:00:00",
-    "hall": "SALA LOCARNO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T15:00:00",
-    "hall": "SALA BERLINO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1462322,
-    "raw_title": "Le Citta' Di Pianura",
-    "start": "2026-07-12T15:00:00",
-    "hall": "sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T15:00:00",
-    "hall": "sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1369286,
-    "raw_title": "Cos'E' L'Amore?",
-    "start": "2026-07-12T15:00:00",
-    "hall": "SALA SCORSESE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 1254808,
-    "raw_title": "NOUVELLE VAGUE",
-    "start": "2026-07-12T15:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T15:00:00",
-    "hall": "MARILYN",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T15:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1275779,
-    "raw_title": "DISCLOSURE DAY",
-    "start": "2026-07-12T15:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T15:00:00",
-    "hall": "Sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1212763,
-    "raw_title": "La Casa - Il Rogo Del Male",
-    "start": "2026-07-12T15:10:00",
-    "hall": "SALA 5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1339713,
-    "raw_title": "Obsession Vm14",
-    "start": "2026-07-12T15:10:00",
-    "hall": "SALA 8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T15:10:00",
-    "hall": "SALA 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T15:10:00",
-    "hall": "3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1088548,
-    "raw_title": "V. O. SOTT. ITA AMARGA NAVIDAD",
-    "start": "2026-07-12T15:15:00",
-    "hall": "De amicis",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/91492/16236839-0a68-4b09-8cd0-abbdd767f2ca#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1563588,
-    "raw_title": "L’HANGAR ROSSO",
-    "start": "2026-07-12T15:15:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/97431",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T15:15:00",
-    "hall": "SALA VENEZIA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1119537,
-    "raw_title": "(O.V.) Love Letters",
-    "start": "2026-07-12T15:15:00",
-    "hall": "SALA TRUFFAUT",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1277884,
-    "raw_title": "Allora Balliamo",
-    "start": "2026-07-12T15:15:00",
-    "hall": "SALA KUBRICK",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1563588,
-    "raw_title": "L'Hangar Rosso",
-    "start": "2026-07-12T15:15:00",
-    "hall": "SALA OLMI",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T15:15:00",
-    "hall": "ROSSA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1708043,
-    "raw_title": "Election Day",
-    "start": "2026-07-12T15:20:00",
-    "hall": "SALA 7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T15:20:00",
-    "hall": "18",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1563588,
-    "raw_title": "V. O. SOTT ITA L'HANGAR ROSSO",
-    "start": "2026-07-12T15:30:00",
-    "hall": "Astra",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/96969/6f80da29-88a3-44da-8fd5-c701259dda0a#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T15:30:00",
-    "hall": "Abadan",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/87961/7e0c0f6b-a8b3-4988-a36d-5b1741e2acc2#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "ariosto",
-    "tmdb_id": 1277884,
-    "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR)",
-    "start": "2026-07-12T15:30:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://ariosto.spaziocinema.18tickets.it/film/91481/eef50233-4eba-45b3-8670-da54d8cc3d97#theater-init",
-    "source_url": "https://ariosto.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T15:30:00",
-    "hall": "SALA 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T15:30:00",
-    "hall": "SALA WENDERS",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "mexico",
-    "tmdb_id": 1708043,
-    "raw_title": "ELECTION DAY",
-    "start": "2026-07-12T15:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
-    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T15:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1438958,
-    "raw_title": "Antartica - Quasi Una Fiaba",
-    "start": "2026-07-12T15:30:00",
-    "hall": "Sala 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T15:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T15:30:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T15:40:00",
-    "hall": "VERDE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T16:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/minions-monsters/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T16:00:00",
-    "hall": "SALA 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T16:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "(Sala XL) Minions & Monsters",
-    "start": "2026-07-12T16:10:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T16:20:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T16:20:00",
-    "hall": "15",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1708043,
-    "raw_title": "ELECTION DAY",
-    "start": "2026-07-12T16:25:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1275779,
-    "raw_title": "(O.V.) Disclosure Day",
-    "start": "2026-07-12T16:25:00",
-    "hall": "12",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T16:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T16:30:00",
-    "hall": "SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T16:30:00",
-    "hall": "sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T16:30:00",
-    "hall": "GARBO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T16:30:00",
-    "hall": "BLU",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1275779,
-    "raw_title": "DISCLOSURE DAY",
-    "start": "2026-07-12T16:35:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1081003,
-    "raw_title": "Supergirl",
-    "start": "2026-07-12T16:35:00",
-    "hall": "14",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "centrale",
-    "tmdb_id": 307,
-    "raw_title": "Roma Citta' Aperta",
-    "start": "2026-07-12T16:40:00",
-    "hall": "Centrale Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
-    "raw_title": "Il Mondo Oltre",
-    "start": "2026-07-12T16:45:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1088548,
-    "raw_title": "AMARGA NAVIDAD",
-    "start": "2026-07-12T16:50:00",
-    "hall": "Obraz",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/91527/23f9fa52-9d75-4303-8e79-aa25fd370104#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T16:50:00",
-    "hall": "SALA LOCARNO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1339713,
-    "raw_title": "Obsession Vm14",
-    "start": "2026-07-12T16:50:00",
-    "hall": "SALA SUNDANCE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "3d - Minions & Monsters",
-    "start": "2026-07-12T16:50:00",
-    "hall": "5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1708043,
-    "raw_title": "Election Day",
-    "start": "2026-07-12T16:55:00",
-    "hall": "11",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinemino",
-    "tmdb_id": 1275779,
-    "raw_title": "DISCLOSURE DAY - V. O.",
-    "start": "2026-07-12T17:00:00",
-    "hall": "Sala",
-    "language": "original_subbed",
-    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
-    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": 12232,
-    "raw_title": "IL LADRO DI BAGDAD",
-    "start": "2026-07-12T17:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/93109",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1708043,
-    "raw_title": "ELECTION DAY",
-    "start": "2026-07-12T17:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/97399",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-mic",
-    "tmdb_id": 254320,
-    "raw_title": "THE LOBSTER",
-    "start": "2026-07-12T17:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/89117",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 936075,
-    "raw_title": "MICHAEL",
-    "start": "2026-07-12T17:00:00",
-    "hall": "Aurora",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/c39ee9fc-c63f-4f59-b5cf-22acabc5cda8#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1314481,
-    "raw_title": "Il Diavolo Veste Prada 2",
-    "start": "2026-07-12T17:00:00",
-    "hall": "SALA TORONTO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T17:00:00",
-    "hall": "SALA BERLINO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T17:00:00",
-    "hall": "sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 1054867,
-    "raw_title": "UNA BATTAGLIA DOPO L'ALTRA",
-    "start": "2026-07-12T17:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 936075,
-    "raw_title": "MICHAEL",
-    "start": "2026-07-12T17:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1084244,
-    "raw_title": "TOY STORY 5",
-    "start": "2026-07-12T17:05:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1369286,
-    "raw_title": "V. O. SOTT ITA COS'E' L'AMORE",
-    "start": "2026-07-12T17:10:00",
-    "hall": "President",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93378/eef2a0ee-b462-458c-95cb-536606c8e81d#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1462322,
-    "raw_title": "Le Citta' Di Pianura",
-    "start": "2026-07-12T17:10:00",
-    "hall": "Sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T17:10:00",
-    "hall": "Sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1084244,
-    "raw_title": "TOY STORY 5",
-    "start": "2026-07-12T17:10:00",
-    "hall": "Ariston",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/91296/9672fffe-c44d-4537-a02d-538ec06bc994#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1708043,
-    "raw_title": "ELECTION DAY",
-    "start": "2026-07-12T17:10:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/96870/04a5c5cc-06a3-4e3f-b761-e89fc7c9d16d#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T17:10:00",
-    "hall": "sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1369286,
-    "raw_title": "Cos'E' L'Amore?",
-    "start": "2026-07-12T17:10:00",
-    "hall": "SALA SCORSESE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T17:10:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "(Sala XL) Minions & Monsters",
-    "start": "2026-07-12T17:10:00",
-    "hall": "SALA 2 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1560020,
-    "raw_title": "PICCOLO MIRACOLO",
-    "start": "2026-07-12T17:15:00",
-    "hall": "Rubino",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93306/27659882-5507-4332-a737-1549345947c1#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1410189,
-    "raw_title": "V.O. SOTT. ITA - KONTINENTAL '25",
-    "start": "2026-07-12T17:15:00",
-    "hall": "Abanella",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93342/5ef6ecb2-f238-4e58-958f-9bde0189234e#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1563588,
-    "raw_title": "L’HANGAR ROSSO",
-    "start": "2026-07-12T17:15:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/97431",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1314481,
-    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
-    "start": "2026-07-12T17:15:00",
-    "hall": "Corallo",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/61659/9cd7695b-887a-4fc8-8685-78ec4a025dc5#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T17:15:00",
-    "hall": "SALA VENEZIA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T17:15:00",
-    "hall": "SALA TRUFFAUT",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "mexico",
-    "tmdb_id": 1563588,
-    "raw_title": "L'HANGAR ROSSO",
-    "start": "2026-07-12T17:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
-    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T17:15:00",
-    "hall": "MARILYN",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1081003,
-    "raw_title": "SUPERGIRL",
-    "start": "2026-07-12T17:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T17:15:00",
-    "hall": "Sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1339713,
-    "raw_title": "Obsession",
-    "start": "2026-07-12T17:15:00",
-    "hall": "9",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1273221,
-    "raw_title": "Scary Movie (2026)",
-    "start": "2026-07-12T17:15:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1277884,
-    "raw_title": "Allora Balliamo",
-    "start": "2026-07-12T17:20:00",
-    "hall": "SALA KUBRICK",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1563588,
-    "raw_title": "L'Hangar Rosso",
-    "start": "2026-07-12T17:20:00",
-    "hall": "SALA OLMI",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T17:20:00",
-    "hall": "ROSSA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1563588,
-    "raw_title": "L'HANGAR ROSSO",
-    "start": "2026-07-12T17:30:00",
-    "hall": "Astra",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/96871/3ef2dfae-54e4-462f-a616-57e879687f10#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1575560,
-    "raw_title": "SEPARAZIONI",
-    "start": "2026-07-12T17:30:00",
-    "hall": "De amicis",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/94957/6474c065-5919-42d9-ba5c-80534739a4dc#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T17:30:00",
-    "hall": "Abadan",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/87961/7a667b58-36f2-4f99-a5e0-74af0f456f03#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "centrale",
-    "tmdb_id": 1083381,
-    "raw_title": "Backrooms Vm14",
-    "start": "2026-07-12T17:30:00",
-    "hall": "CENTRALE SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1081003,
-    "raw_title": "Atmos - Supergirl",
-    "start": "2026-07-12T17:30:00",
-    "hall": "SALA 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1708043,
-    "raw_title": "Election Day",
-    "start": "2026-07-12T17:30:00",
-    "hall": "SALA 7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T17:30:00",
-    "hall": "SALA 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1708043,
-    "raw_title": "Election Day",
-    "start": "2026-07-12T17:30:00",
-    "hall": "SALA CANNES",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T17:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
-    "raw_title": "(O.V.) Backrooms -Everything Must Go Ed.",
-    "start": "2026-07-12T17:30:00",
-    "hall": "13",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T17:30:00",
-    "hall": "3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T17:35:00",
-    "hall": "VERDE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "ariosto",
-    "tmdb_id": 1563588,
-    "raw_title": "L'HANGAR ROSSO",
-    "start": "2026-07-12T17:40:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://ariosto.spaziocinema.18tickets.it/film/96871/ce57170c-2290-4aef-bd7a-f6b28801f215#theater-init",
-    "source_url": "https://ariosto.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1339713,
-    "raw_title": "OBSESSION",
-    "start": "2026-07-12T17:40:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/obsession/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1212763,
-    "raw_title": "La Casa - Il Rogo Del Male",
-    "start": "2026-07-12T17:40:00",
-    "hall": "SALA 5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T17:40:00",
-    "hall": "SALA 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1339713,
-    "raw_title": "Obsession Vm14",
-    "start": "2026-07-12T17:40:00",
-    "hall": "SALA 8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T17:40:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T17:40:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1212763,
-    "raw_title": "LA CASA - IL ROGO DEL MALE",
-    "start": "2026-07-12T17:45:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1212763,
-    "raw_title": "La Casa - Il Rogo Del Male",
-    "start": "2026-07-12T17:45:00",
-    "hall": "8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1275779,
-    "raw_title": "V.O.SOTT. ITA. - DISCLOSURE DAY",
-    "start": "2026-07-12T18:00:00",
-    "hall": "Excelsior",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/85487/bb03f41f-f27f-489f-977d-3792319ff002#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1275779,
-    "raw_title": "DISCLOSURE DAY",
-    "start": "2026-07-12T18:00:00",
-    "hall": "Zenit",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85518/4a24ebd4-5c23-4c6f-b42c-54ef9a901552#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1275779,
-    "raw_title": "DISCLOSURE DAY",
-    "start": "2026-07-12T18:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T18:10:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T18:10:00",
-    "hall": "sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T18:10:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T18:10:00",
-    "hall": "18",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T18:15:00",
-    "hall": "SALA 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T18:20:00",
-    "hall": "SALA WENDERS",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "(Sala XL) Minions & Monsters",
-    "start": "2026-07-12T18:20:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T18:30:00",
-    "hall": "Nobel",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/95121/601d605e-0392-4ca1-9a3f-0d2e6879909b#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1081003,
-    "raw_title": "SUPERGIRL",
-    "start": "2026-07-12T18:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T18:30:00",
-    "hall": "Sala 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T18:40:00",
-    "hall": "SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T18:40:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "centrale",
-    "tmdb_id": 1462322,
-    "raw_title": "Le Citta' Di Pianura",
-    "start": "2026-07-12T18:50:00",
-    "hall": "Centrale Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T18:50:00",
-    "hall": "SALA SUNDANCE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1275779,
-    "raw_title": "DISCLOSURE DAY",
-    "start": "2026-07-12T19:00:00",
-    "hall": "Astoria",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/85518/7b008da4-54cf-4104-b39a-951fbf313c4f#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": 1433680,
-    "raw_title": "A CENA CON IL DITTATORE",
-    "start": "2026-07-12T19:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/97266",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1708043,
-    "raw_title": "ELECTION DAY",
-    "start": "2026-07-12T19:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/97399",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T19:00:00",
-    "hall": "SALA BERLINO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T19:00:00",
-    "hall": "15",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T19:05:00",
-    "hall": "SALA TRUFFAUT",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1088548,
-    "raw_title": "V. O. SOTT. ITA AMARGA NAVIDAD",
-    "start": "2026-07-12T19:10:00",
-    "hall": "Obraz",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/91492/6ee70cc6-d92f-46d9-81ed-6ada2d29a9cd#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "mexico",
-    "tmdb_id": 1563588,
-    "raw_title": "L'HANGAR ROSSO",
-    "start": "2026-07-12T19:10:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
-    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "(O.V.) Minions & Monsters",
-    "start": "2026-07-12T19:10:00",
-    "hall": "5",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1575560,
-    "raw_title": "SEPARAZIONI",
-    "start": "2026-07-12T19:15:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/95352",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1081003,
-    "raw_title": "Supergirl",
-    "start": "2026-07-12T19:15:00",
-    "hall": "SALA TORONTO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1081003,
-    "raw_title": "Supergirl",
-    "start": "2026-07-12T19:15:00",
-    "hall": "GARBO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1212763,
-    "raw_title": "La Casa - Il Rogo Del Male (Vm14)",
-    "start": "2026-07-12T19:15:00",
-    "hall": "BLU",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T19:15:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T19:15:00",
-    "hall": "14",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1369286,
-    "raw_title": "COS'E' L'AMORE (C'EST QUOI L'AMOUR)",
-    "start": "2026-07-12T19:20:00",
-    "hall": "President",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93377/31fb7ef4-8fce-4fc1-8209-2bc117405d0e#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1084244,
-    "raw_title": "TOY STORY 5",
-    "start": "2026-07-12T19:20:00",
-    "hall": "Ariston",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/91296/6004f707-1a7a-4855-ab72-6abdbb50882c#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1708043,
-    "raw_title": "ELECTION DAY",
-    "start": "2026-07-12T19:20:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/96870/93e920b4-c5d6-450b-ab3f-d21f5c540d64#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T19:20:00",
-    "hall": "SALA VENEZIA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1339713,
-    "raw_title": "Obsession Vm14",
-    "start": "2026-07-12T19:20:00",
-    "hall": "SALA CANNES",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1369286,
-    "raw_title": "Cos'E' L'Amore?",
-    "start": "2026-07-12T19:20:00",
-    "hall": "SALA SCORSESE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T19:20:00",
-    "hall": "Sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1708043,
-    "raw_title": "Election Day",
-    "start": "2026-07-12T19:25:00",
-    "hall": "SALA LOCARNO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1277884,
-    "raw_title": "Allora Balliamo",
-    "start": "2026-07-12T19:25:00",
-    "hall": "SALA KUBRICK",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1563588,
-    "raw_title": "L'Hangar Rosso",
-    "start": "2026-07-12T19:25:00",
-    "hall": "SALA OLMI",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1340206,
-    "raw_title": "TUNER - L'ACCORDATORE",
-    "start": "2026-07-12T19:25:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T19:25:00",
-    "hall": "ROSSA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1563588,
-    "raw_title": "V. O. SOTT ITA L'HANGAR ROSSO",
-    "start": "2026-07-12T19:30:00",
-    "hall": "Astra",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/96969/deba3b08-7a2a-42a1-be36-fd4db9e6319c#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1560020,
-    "raw_title": "PICCOLO MIRACOLO",
-    "start": "2026-07-12T19:30:00",
-    "hall": "Abanella",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93306/af6dd95d-5d70-4177-84c8-166e15616ad3#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1315772,
-    "raw_title": "V.O.SOTT.ITA - MINIONS & MONSTERS",
-    "start": "2026-07-12T19:30:00",
-    "hall": "Abadan",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/94527/a6493b4e-545f-4fdb-bccf-341495424826#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1119537,
-    "raw_title": "V. O. SOTT. ITA LOVE LETTERS",
-    "start": "2026-07-12T19:30:00",
-    "hall": "De amicis",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/94990/0546a4fe-a706-4106-9e28-e856c966f351#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1410189,
-    "raw_title": "(O.V.) Kontinental '25",
-    "start": "2026-07-12T19:30:00",
-    "hall": "Sala 2",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1083381,
-    "raw_title": "Backrooms Vm14",
-    "start": "2026-07-12T19:30:00",
-    "hall": "Sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "ariosto",
-    "tmdb_id": 1369286,
-    "raw_title": "COS'E' L'AMORE (C'EST QUOI L'AMOUR)",
-    "start": "2026-07-12T19:30:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://ariosto.spaziocinema.18tickets.it/film/93377/335cdf67-1a41-487c-866f-62442fbf2c7a#theater-init",
-    "source_url": "https://ariosto.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cinemino",
-    "tmdb_id": 1119537,
-    "raw_title": "LOVE LETTERS",
-    "start": "2026-07-12T19:30:00",
-    "hall": "Sala  cinema revolution",
-    "language": "unknown",
-    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
-    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1369286,
-    "raw_title": "COS'E' L'AMORE (C'EST QUOI L'AMOUR)",
-    "start": "2026-07-12T19:30:00",
-    "hall": "Aurora",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/93373/70260f92-de1f-4bc3-94b5-c2bfbef7737e#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1410189,
-    "raw_title": "(O.V.) Kontinental '25",
-    "start": "2026-07-12T19:30:00",
-    "hall": "sala 4",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1083381,
-    "raw_title": "Backrooms Vm14",
-    "start": "2026-07-12T19:30:00",
-    "hall": "sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T19:30:00",
-    "hall": "MARILYN",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T19:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T19:30:00",
-    "hall": "VERDE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T19:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "(Sala XL) Minions & Monsters",
-    "start": "2026-07-12T19:30:00",
-    "hall": "SALA 2 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1275779,
-    "raw_title": "DISCLOSURE DAY",
-    "start": "2026-07-12T19:35:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1563588,
-    "raw_title": "L'Hangar Rosso",
-    "start": "2026-07-12T19:35:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 524635,
-    "raw_title": "LA CRONOLOGIA DELL'ACQUA",
-    "start": "2026-07-12T19:40:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/la-cronologia-dellacqua/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1081003,
-    "raw_title": "SUPERGIRL",
-    "start": "2026-07-12T19:40:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T19:45:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T19:45:00",
-    "hall": "sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1708043,
-    "raw_title": "Election Day",
-    "start": "2026-07-12T19:45:00",
-    "hall": "11",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T19:50:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1212763,
-    "raw_title": "(O.V.) Evil Dead Burn",
-    "start": "2026-07-12T19:50:00",
-    "hall": "9",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1708043,
-    "raw_title": "ELECTION DAY",
-    "start": "2026-07-12T19:55:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1081003,
-    "raw_title": "Atmos - Supergirl",
-    "start": "2026-07-12T20:00:00",
-    "hall": "SALA 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T20:00:00",
-    "hall": "SALA 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T20:00:00",
-    "hall": "SALA 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T20:00:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1212763,
-    "raw_title": "La Casa - Il Rogo Del Male",
-    "start": "2026-07-12T20:10:00",
-    "hall": "SALA 5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1212763,
-    "raw_title": "LA CASA - IL ROGO DEL MALE",
-    "start": "2026-07-12T20:10:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1212763,
-    "raw_title": "La Casa - Il Rogo Del Male",
-    "start": "2026-07-12T20:10:00",
-    "hall": "3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1708043,
-    "raw_title": "Election Day",
-    "start": "2026-07-12T20:15:00",
-    "hall": "SALA 7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 936075,
-    "raw_title": "Michael",
-    "start": "2026-07-12T20:15:00",
-    "hall": "8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1339713,
-    "raw_title": "Obsession",
-    "start": "2026-07-12T20:15:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1339713,
-    "raw_title": "Obsession Vm14",
-    "start": "2026-07-12T20:20:00",
-    "hall": "SALA 8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1084244,
-    "raw_title": "TOY STORY 5",
-    "start": "2026-07-12T20:20:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1083381,
-    "raw_title": "Backrooms - Everything Must Go Edition",
-    "start": "2026-07-12T20:20:00",
-    "hall": "13",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1563588,
-    "raw_title": "V. O. SOTT ITA L'HANGAR ROSSO",
-    "start": "2026-07-12T20:30:00",
-    "hall": "Nobel",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/96970/fb996b33-91df-47db-a6da-4346056e4cb7#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "centrale",
-    "tmdb_id": 1083381,
-    "raw_title": "Backrooms Vm14",
-    "start": "2026-07-12T20:30:00",
-    "hall": "CENTRALE SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T20:30:00",
-    "hall": "SALA 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cineteca-mic",
-    "tmdb_id": null,
-    "raw_title": "LA GOCCIA",
-    "start": "2026-07-12T20:30:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/78819",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 269,
-    "raw_title": "FINO ALL’ULTIMO RESPIRO",
-    "start": "2026-07-12T20:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "(Sala XL) Minions & Monsters",
-    "start": "2026-07-12T20:40:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T20:40:00",
-    "hall": "18",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1275779,
-    "raw_title": "V.O.SOTT. ITA. - DISCLOSURE DAY",
-    "start": "2026-07-12T21:00:00",
-    "hall": "Excelsior",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/85487/38df4fc6-59ce-4533-b36c-4a4d966312c4#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "centrale",
-    "tmdb_id": 307,
-    "raw_title": "Roma Citta' Aperta",
-    "start": "2026-07-12T21:00:00",
-    "hall": "Centrale Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T21:00:00",
-    "hall": "SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": 38289,
-    "raw_title": "ECCEZZZIUNALE... VERAMENTE",
-    "start": "2026-07-12T21:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/92877",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1708043,
-    "raw_title": "ELECTION DAY",
-    "start": "2026-07-12T21:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/97399",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1275779,
-    "raw_title": "DISCLOSURE DAY",
-    "start": "2026-07-12T21:00:00",
-    "hall": "Zenit",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85518/cdf67049-72b3-487d-a79d-fe35c116ea72#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1275779,
-    "raw_title": "(O.V.) Disclosure Day",
-    "start": "2026-07-12T21:00:00",
-    "hall": "SALA BERLINO",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1275779,
-    "raw_title": "(O.V.) Disclosure Day",
-    "start": "2026-07-12T21:00:00",
-    "hall": "SALA WENDERS",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "mexico",
-    "tmdb_id": 1708043,
-    "raw_title": "ELECTION DAY",
-    "start": "2026-07-12T21:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
-    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T21:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1275779,
-    "raw_title": "DISCLOSURE DAY",
-    "start": "2026-07-12T21:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T21:00:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1563588,
-    "raw_title": "L’HANGAR ROSSO",
-    "start": "2026-07-12T21:15:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/97431",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1212763,
-    "raw_title": "La Casa - Il Rogo Del Male",
-    "start": "2026-07-12T21:20:00",
-    "hall": "5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1563588,
-    "raw_title": "L'HANGAR ROSSO",
-    "start": "2026-07-12T21:30:00",
-    "hall": "Astra",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/96871/3ef2ef11-4184-4109-bff7-95523b6009d6#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1462322,
-    "raw_title": "LE CITTÀ DI PIANURA",
-    "start": "2026-07-12T21:30:00",
-    "hall": "Rubino",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/91557/fd86a4b8-799c-4535-bffe-c7965f18ed84#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1575560,
-    "raw_title": "SEPARAZIONI",
-    "start": "2026-07-12T21:30:00",
-    "hall": "De amicis",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/94957/6ea7c82c-52bb-466b-89ad-0eead846a670#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1560020,
-    "raw_title": "PICCOLO MIRACOLO",
-    "start": "2026-07-12T21:30:00",
-    "hall": "Obraz",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93306/b93ec9af-2f13-4e58-aadd-0c04e8062df0#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1315772,
-    "raw_title": "V.O.SOTT.ITA - MINIONS & MONSTERS",
-    "start": "2026-07-12T21:30:00",
-    "hall": "Abadan",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/94527/ce9cdd83-f09a-4d50-bb52-4ab59eb5abf3#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1369286,
-    "raw_title": "V. O. SOTT ITA COS'E' L'AMORE",
-    "start": "2026-07-12T21:30:00",
-    "hall": "President",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93378/80286146-f1cd-4b12-8cc2-217ca59ccaca#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T21:30:00",
-    "hall": "Sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T21:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1339713,
-    "raw_title": "Obsession Vm14",
-    "start": "2026-07-12T21:30:00",
-    "hall": "Sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "ariosto",
-    "tmdb_id": 1182861,
-    "raw_title": "ROMERÍA - IL MARE DEI RICORDI",
-    "start": "2026-07-12T21:30:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://ariosto.spaziocinema.18tickets.it/film/91526/3c803faa-c1dc-4fbf-a771-2fac1527b0e0#theater-init",
-    "source_url": "https://ariosto.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cinemino",
-    "tmdb_id": 1277884,
-    "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR) - V. O.",
-    "start": "2026-07-12T21:30:00",
-    "hall": "Sala  cinema revolution",
-    "language": "original_subbed",
-    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
-    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1084244,
-    "raw_title": "TOY STORY 5",
-    "start": "2026-07-12T21:30:00",
-    "hall": "Ariston",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/91296/b24a4bf2-e3a8-4d9e-b43b-c9c1141a1b47#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1275779,
-    "raw_title": "V.O.SOTT. ITA. - DISCLOSURE DAY",
-    "start": "2026-07-12T21:30:00",
-    "hall": "Corallo",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85487/f70d2457-8dc0-4544-8e09-2a97fb752234#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 936075,
-    "raw_title": "MICHAEL",
-    "start": "2026-07-12T21:30:00",
-    "hall": "Aurora",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/70807/3e6c5d8e-a006-4df3-9074-8df73a580fed#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1708043,
-    "raw_title": "ELECTION DAY",
-    "start": "2026-07-12T21:30:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/96870/c63a28d2-bba4-405b-8008-a934aecb42df#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1083381,
-    "raw_title": "(O.V.) Backrooms Vm14",
-    "start": "2026-07-12T21:30:00",
-    "hall": "SALA TORONTO",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1708043,
-    "raw_title": "Election Day",
-    "start": "2026-07-12T21:30:00",
-    "hall": "SALA LOCARNO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T21:30:00",
-    "hall": "SALA SUNDANCE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T21:30:00",
-    "hall": "SALA CANNES",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T21:30:00",
-    "hall": "sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T21:30:00",
-    "hall": "sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1339713,
-    "raw_title": "Obsession Vm14",
-    "start": "2026-07-12T21:30:00",
-    "hall": "sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1119537,
-    "raw_title": "(O.V.) Love Letters",
-    "start": "2026-07-12T21:30:00",
-    "hall": "SALA TRUFFAUT",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1277884,
-    "raw_title": "Allora Balliamo",
-    "start": "2026-07-12T21:30:00",
-    "hall": "SALA KUBRICK",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1369286,
-    "raw_title": "Cos'E' L'Amore?",
-    "start": "2026-07-12T21:30:00",
-    "hall": "SALA SCORSESE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1563588,
-    "raw_title": "L'Hangar Rosso",
-    "start": "2026-07-12T21:30:00",
-    "hall": "SALA OLMI",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1081003,
-    "raw_title": "Supergirl",
-    "start": "2026-07-12T21:30:00",
-    "hall": "GARBO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T21:30:00",
-    "hall": "ROSSA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1212763,
-    "raw_title": "La Casa - Il Rogo Del Male (Vm14)",
-    "start": "2026-07-12T21:30:00",
-    "hall": "BLU",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T21:30:00",
-    "hall": "VERDE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T21:30:00",
-    "hall": "Sala 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T21:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T21:30:00",
-    "hall": "Sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T21:30:00",
-    "hall": "15",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1339713,
-    "raw_title": "(O.V.) Obsession V.M.14",
-    "start": "2026-07-12T21:35:00",
-    "hall": "SALA VENEZIA",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1275779,
-    "raw_title": "Disclosure Day",
-    "start": "2026-07-12T21:40:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1410189,
-    "raw_title": "V.O. SOTT. ITA - KONTINENTAL '25",
-    "start": "2026-07-12T21:45:00",
-    "hall": "Abanella",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93342/3f6ff3bf-b698-4b34-976b-780be7a1d98c#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arianteo-palazzoreale",
-    "tmdb_id": 1473635,
-    "raw_title": "LE COSE NON DETTE",
-    "start": "2026-07-12T21:45:00",
-    "hall": "Arianteo Palazzo Reale",
-    "language": "unknown",
-    "booking_url": "https://palazzoreale.spaziocinema.18tickets.it/film/88092/4694981f-5c51-4b0e-ac8a-fa92cb11a736#theater-init",
-    "source_url": "https://palazzoreale.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T21:45:00",
-    "hall": "MARILYN",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T21:45:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1084244,
-    "raw_title": "TOY STORY 5",
-    "start": "2026-07-12T21:50:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1212763,
-    "raw_title": "(O.V.) Evil Dead Burn",
-    "start": "2026-07-12T21:50:00",
-    "hall": "14",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "(Sala XL) Minions & Monsters",
-    "start": "2026-07-12T21:50:00",
-    "hall": "SALA 2 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1083381,
-    "raw_title": "BACKROOMS - EVERYTHING MUST GO EDITION",
-    "start": "2026-07-12T22:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/backrooms/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-07-12T22:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T22:05:00",
-    "hall": "11",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T22:10:00",
-    "hall": "SALA 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1081003,
-    "raw_title": "SUPERGIRL",
-    "start": "2026-07-12T22:10:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1083381,
-    "raw_title": "BACKROOMS",
-    "start": "2026-07-12T22:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-07-12T22:15:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-07-12T22:20:00",
-    "hall": "SALA 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1081003,
-    "raw_title": "Atmos - Supergirl",
-    "start": "2026-07-12T22:30:00",
-    "hall": "SALA 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1339713,
-    "raw_title": "Obsession",
-    "start": "2026-07-12T22:30:00",
-    "hall": "9",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1081003,
-    "raw_title": "Supergirl",
-    "start": "2026-07-12T22:30:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1708043,
-    "raw_title": "Election Day",
-    "start": "2026-07-12T22:35:00",
-    "hall": "SALA 7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1212763,
-    "raw_title": "LA CASA - IL ROGO DEL MALE",
-    "start": "2026-07-12T22:35:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1273221,
-    "raw_title": "SCARY MOVIE",
-    "start": "2026-07-12T22:35:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1212763,
-    "raw_title": "La Casa - Il Rogo Del Male",
-    "start": "2026-07-12T22:40:00",
-    "hall": "SALA 5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1339713,
-    "raw_title": "Obsession Vm14",
-    "start": "2026-07-12T22:40:00",
-    "hall": "SALA 8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1212763,
-    "raw_title": "La Casa - Il Rogo Del Male",
-    "start": "2026-07-12T22:40:00",
-    "hall": "3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "(Sala XL) Minions & Monsters",
-    "start": "2026-07-12T22:50:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1273221,
-    "raw_title": "Scary Movie (2026)",
-    "start": "2026-07-12T22:50:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": null,
-    "raw_title": "NO GOOD MEN",
-    "start": "2026-07-13T10:15:00",
-    "hall": "Excelsior",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/91494/6c1edf51-138e-4a8b-b289-43e38af0299b#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
     "tmdb_id": 1088548,
     "raw_title": "AMARGA NAVIDAD",
     "start": "2026-07-13T10:30:00",
@@ -3930,6 +270,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1315772,
+    "raw_title": "MINIONS & MONSTERS",
+    "start": "2026-07-13T14:15:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1315772,
     "raw_title": "(O.V.) Minions & Monsters",
@@ -4000,6 +350,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1315772,
+    "raw_title": "MINIONS & MONSTERS",
+    "start": "2026-07-13T14:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "colosseo",
     "tmdb_id": 1083381,
     "raw_title": "Backrooms Vm14",
@@ -4008,6 +368,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1084244,
+    "raw_title": "TOY STORY 5",
+    "start": "2026-07-13T14:40:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -4050,6 +420,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1081003,
+    "raw_title": "SUPERGIRL",
+    "start": "2026-07-13T14:45:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1081003,
     "raw_title": "Supergirl",
@@ -4058,6 +438,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1708043,
+    "raw_title": "ELECTION DAY",
+    "start": "2026-07-13T14:50:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -4270,6 +660,26 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1315772,
+    "raw_title": "MINIONS & MONSTERS",
+    "start": "2026-07-13T15:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1275779,
+    "raw_title": "DISCLOSURE DAY",
+    "start": "2026-07-13T15:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "plinius",
     "tmdb_id": 1084244,
     "raw_title": "Toy Story 5",
@@ -4400,6 +810,26 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
   },
   {
+    "cinema_id": "mexico",
+    "tmdb_id": 1708043,
+    "raw_title": "ELECTION DAY",
+    "start": "2026-07-13T15:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
+    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1315772,
+    "raw_title": "MINIONS & MONSTERS",
+    "start": "2026-07-13T15:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "plinius",
     "tmdb_id": 1438958,
     "raw_title": "Antartica - Quasi Una Fiaba",
@@ -4460,6 +890,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1315772,
+    "raw_title": "MINIONS & MONSTERS",
+    "start": "2026-07-13T16:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
@@ -4478,6 +918,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 15371,
+    "raw_title": "LUPIN III - IL CASTELLO DI CAGLIOSTRO",
+    "start": "2026-07-13T16:15:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -4528,6 +978,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1275779,
+    "raw_title": "DISCLOSURE DAY",
+    "start": "2026-07-13T16:35:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "centrale",
@@ -4610,6 +1070,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
+    "cinema_id": "cinemino",
+    "tmdb_id": 1575560,
+    "raw_title": "SEPARAZIONI",
+    "start": "2026-07-13T17:00:00",
+    "hall": "Sala  cinema revolution",
+    "language": "unknown",
+    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
+    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
+  },
+  {
     "cinema_id": "cineteca-arlecchino",
     "tmdb_id": null,
     "raw_title": "SONO ANDATA AL TANGERI A BALLARE",
@@ -4648,6 +1118,26 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 10537,
+    "raw_title": "THE DOORS",
+    "start": "2026-07-13T17:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1084244,
+    "raw_title": "TOY STORY 5",
+    "start": "2026-07-13T17:05:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "arcobaleno",
@@ -4740,6 +1230,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1315772,
+    "raw_title": "MINIONS & MONSTERS",
+    "start": "2026-07-13T17:10:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
@@ -4780,6 +1280,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
   },
   {
+    "cinema_id": "mexico",
+    "tmdb_id": 1563588,
+    "raw_title": "L'HANGAR ROSSO",
+    "start": "2026-07-13T17:15:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
+    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
+  },
+  {
     "cinema_id": "notorious-gloria",
     "tmdb_id": 1315772,
     "raw_title": "Minions & Monsters",
@@ -4788,6 +1298,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1081003,
+    "raw_title": "SUPERGIRL",
+    "start": "2026-07-13T17:15:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "plinius",
@@ -5010,6 +1530,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1315772,
+    "raw_title": "MINIONS & MONSTERS",
+    "start": "2026-07-13T17:40:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1212763,
     "raw_title": "La Casa - Il Rogo Del Male",
@@ -5028,6 +1558,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1212763,
+    "raw_title": "LA CASA - IL ROGO DEL MALE",
+    "start": "2026-07-13T17:45:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "anteo",
@@ -5060,6 +1600,16 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1275779,
+    "raw_title": "DISCLOSURE DAY",
+    "start": "2026-07-13T18:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 10537,
     "raw_title": "The Doors (Ried. 2026)",
@@ -5068,6 +1618,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1315772,
+    "raw_title": "MINIONS & MONSTERS",
+    "start": "2026-07-13T18:10:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -5118,6 +1678,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1081003,
+    "raw_title": "SUPERGIRL",
+    "start": "2026-07-13T18:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "plinius",
@@ -5270,6 +1840,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
+    "cinema_id": "mexico",
+    "tmdb_id": 1563588,
+    "raw_title": "L'HANGAR ROSSO",
+    "start": "2026-07-13T19:10:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
+    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
+  },
+  {
     "cinema_id": "colosseo",
     "tmdb_id": 1081003,
     "raw_title": "Supergirl",
@@ -5410,6 +1990,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 15371,
+    "raw_title": "LUPIN III - IL CASTELLO DI CAGLIOSTRO",
+    "start": "2026-07-13T19:25:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "orfeo",
     "tmdb_id": 1084244,
     "raw_title": "Toy Story 5",
@@ -5540,6 +2130,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1315772,
+    "raw_title": "MINIONS & MONSTERS",
+    "start": "2026-07-13T19:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "orfeo",
     "tmdb_id": 1315772,
     "raw_title": "Minions & Monsters",
@@ -5578,6 +2178,36 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1708043,
+    "raw_title": "ELECTION DAY",
+    "start": "2026-07-13T19:35:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1081003,
+    "raw_title": "SUPERGIRL",
+    "start": "2026-07-13T19:40:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1315772,
+    "raw_title": "MINIONS & MONSTERS",
+    "start": "2026-07-13T19:50:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -5640,6 +2270,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1212763,
+    "raw_title": "LA CASA - IL ROGO DEL MALE",
+    "start": "2026-07-13T20:10:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1212763,
     "raw_title": "La Casa - Il Rogo Del Male",
@@ -5658,6 +2298,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1084244,
+    "raw_title": "TOY STORY 5",
+    "start": "2026-07-13T20:20:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -5708,6 +2358,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 10537,
+    "raw_title": "THE DOORS",
+    "start": "2026-07-13T20:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -5838,6 +2498,36 @@
     "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
+  },
+  {
+    "cinema_id": "mexico",
+    "tmdb_id": 1708043,
+    "raw_title": "ELECTION DAY",
+    "start": "2026-07-13T21:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
+    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1315772,
+    "raw_title": "MINIONS & MONSTERS",
+    "start": "2026-07-13T21:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1275779,
+    "raw_title": "DISCLOSURE DAY",
+    "start": "2026-07-13T21:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -6230,6 +2920,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1315772,
+    "raw_title": "MINIONS & MONSTERS",
+    "start": "2026-07-13T21:45:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1275779,
     "raw_title": "Disclosure Day",
@@ -6240,6 +2940,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1084244,
+    "raw_title": "TOY STORY 5",
+    "start": "2026-07-13T21:50:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1315772,
     "raw_title": "(Sala XL) Minions & Monsters",
@@ -6248,6 +2958,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1083381,
+    "raw_title": "BACKROOMS",
+    "start": "2026-07-13T22:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -6268,6 +2988,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1081003,
+    "raw_title": "SUPERGIRL",
+    "start": "2026-07-13T22:10:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "cinelandia-certosa",
@@ -6320,6 +3050,26 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1212763,
+    "raw_title": "LA CASA - IL ROGO DEL MALE",
+    "start": "2026-07-13T22:35:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1273221,
+    "raw_title": "SCARY MOVIE",
+    "start": "2026-07-13T22:35:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "cinelandia-certosa",
     "tmdb_id": 1212763,
     "raw_title": "La Casa - Il Rogo Del Male",
@@ -6328,6 +3078,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1339713,
+    "raw_title": "OBSESSION",
+    "start": "2026-07-13T22:40:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -9490,6 +6250,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742"
   },
   {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1083381,
+    "raw_title": "Backrooms Vm14",
+    "start": "2026-07-15T14:40:00",
+    "hall": "SALA TORONTO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1275779,
     "raw_title": "(O.V.) Disclosure Day",
@@ -9508,6 +6278,26 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1339713,
+    "raw_title": "(O.V.) Obsession V.M.14",
+    "start": "2026-07-15T14:45:00",
+    "hall": "SALA SUNDANCE",
+    "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1275779,
+    "raw_title": "Disclosure Day",
+    "start": "2026-07-15T14:45:00",
+    "hall": "SALA CANNES",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -9670,6 +6460,26 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1708043,
+    "raw_title": "Election Day",
+    "start": "2026-07-15T15:00:00",
+    "hall": "SALA LOCARNO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1084244,
+    "raw_title": "Toy Story 5",
+    "start": "2026-07-15T15:00:00",
+    "hall": "SALA BERLINO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "ducale",
     "tmdb_id": 1462322,
     "raw_title": "Le Citta' Di Pianura",
@@ -9748,6 +6558,16 @@
     "language": "original_subbed",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/91492/4a64baf6-45f6-4587-b573-1fca3801725c#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1315772,
+    "raw_title": "Minions & Monsters",
+    "start": "2026-07-15T15:15:00",
+    "hall": "SALA VENEZIA",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "eliseo",
@@ -9930,6 +6750,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "cinemino",
+    "tmdb_id": 1277884,
+    "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR) - V. O.",
+    "start": "2026-07-15T16:30:00",
+    "hall": "Sala  cinema revolution",
+    "language": "original_subbed",
+    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
+    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1315772,
     "raw_title": "Minions & Monsters",
@@ -9990,6 +6820,26 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1275779,
+    "raw_title": "Disclosure Day",
+    "start": "2026-07-15T16:50:00",
+    "hall": "SALA LOCARNO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1339713,
+    "raw_title": "Obsession Vm14",
+    "start": "2026-07-15T16:50:00",
+    "hall": "SALA SUNDANCE",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "cinelandia-certosa",
     "tmdb_id": 1708043,
     "raw_title": "Election Day",
@@ -10008,6 +6858,26 @@
     "language": "original_subbed",
     "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/97367",
     "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1314481,
+    "raw_title": "Il Diavolo Veste Prada 2",
+    "start": "2026-07-15T17:00:00",
+    "hall": "SALA TORONTO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1084244,
+    "raw_title": "Toy Story 5",
+    "start": "2026-07-15T17:00:00",
+    "hall": "SALA BERLINO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "anteo",
@@ -10138,6 +7008,16 @@
     "language": "original_subbed",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93342/8963e7b9-061f-4a9a-a494-124764f8f4fe#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1315772,
+    "raw_title": "Minions & Monsters",
+    "start": "2026-07-15T17:15:00",
+    "hall": "SALA VENEZIA",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "eliseo",
@@ -10278,6 +7158,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1708043,
+    "raw_title": "Election Day",
+    "start": "2026-07-15T17:30:00",
+    "hall": "SALA CANNES",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "plinius",
@@ -10510,6 +7400,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742"
   },
   {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1275779,
+    "raw_title": "Disclosure Day",
+    "start": "2026-07-15T18:50:00",
+    "hall": "SALA SUNDANCE",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1275779,
     "raw_title": "DISCLOSURE DAY",
@@ -10538,6 +7438,16 @@
     "language": "original_subbed",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85487/3816d450-d8aa-48d1-99db-ded7d66335c6#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1084244,
+    "raw_title": "Toy Story 5",
+    "start": "2026-07-15T19:00:00",
+    "hall": "SALA BERLINO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "ducale",
@@ -10610,6 +7520,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1081003,
+    "raw_title": "Supergirl",
+    "start": "2026-07-15T19:15:00",
+    "hall": "SALA TORONTO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1275779,
     "raw_title": "Disclosure Day",
@@ -10660,6 +7580,26 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1315772,
+    "raw_title": "Minions & Monsters",
+    "start": "2026-07-15T19:20:00",
+    "hall": "SALA VENEZIA",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1339713,
+    "raw_title": "Obsession Vm14",
+    "start": "2026-07-15T19:20:00",
+    "hall": "SALA CANNES",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "eliseo",
     "tmdb_id": 1369286,
     "raw_title": "Cos'E' L'Amore?",
@@ -10688,6 +7628,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1708043,
+    "raw_title": "Election Day",
+    "start": "2026-07-15T19:25:00",
+    "hall": "SALA LOCARNO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "eliseo",
@@ -11040,6 +7990,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
+    "cinema_id": "cinemino",
+    "tmdb_id": 1275779,
+    "raw_title": "DISCLOSURE DAY - V. O.",
+    "start": "2026-07-15T21:00:00",
+    "hall": "Sala",
+    "language": "original_subbed",
+    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
+    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
+  },
+  {
     "cinema_id": "cineteca-metropolis",
     "tmdb_id": 15371,
     "raw_title": "LUPIN III - IL CASTELLO DI CAGLIOSTRO",
@@ -11058,6 +8018,16 @@
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/85518/8114bcd2-4d35-4709-97c5-d6be21e69ae2#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1275779,
+    "raw_title": "(O.V.) Disclosure Day",
+    "start": "2026-07-15T21:00:00",
+    "hall": "SALA BERLINO",
+    "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "eliseo",
@@ -11260,6 +8230,46 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1083381,
+    "raw_title": "(O.V.) Backrooms Vm14",
+    "start": "2026-07-15T21:30:00",
+    "hall": "SALA TORONTO",
+    "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1708043,
+    "raw_title": "Election Day",
+    "start": "2026-07-15T21:30:00",
+    "hall": "SALA LOCARNO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1315772,
+    "raw_title": "Minions & Monsters",
+    "start": "2026-07-15T21:30:00",
+    "hall": "SALA SUNDANCE",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1084244,
+    "raw_title": "Toy Story 5",
+    "start": "2026-07-15T21:30:00",
+    "hall": "SALA CANNES",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "ducale",
     "tmdb_id": 1275779,
     "raw_title": "Disclosure Day",
@@ -11378,6 +8388,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1339713,
+    "raw_title": "(O.V.) Obsession V.M.14",
+    "start": "2026-07-15T21:35:00",
+    "hall": "SALA VENEZIA",
+    "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "anteo",
@@ -15418,6 +12438,26 @@
     "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 47251,
+    "raw_title": "LA PRIMA NOTTE DI QUIETE",
+    "start": "2026-07-26T17:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": null,
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": 539,
+    "raw_title": "PSYCHO",
+    "start": "2026-07-26T17:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/89779",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -19651,6 +16691,16 @@
   },
   {
     "cinema_id": "uci-bicocca",
+    "tmdb_id": 1728113,
+    "raw_title": "(O.V.) Katseye: Wild Hearts",
+    "start": "2026-08-12T19:00:00",
+    "hall": "14",
+    "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "uci-bicocca",
     "tmdb_id": 1432474,
     "raw_title": "(O.V.) Nimrods",
     "start": "2026-08-12T19:10:00",
@@ -19958,6 +17008,16 @@
     "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1728113,
+    "raw_title": "(O.V.) Katseye: Wild Hearts",
+    "start": "2026-08-15T15:00:00",
+    "hall": "14",
+    "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "arcobaleno",
