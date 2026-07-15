@@ -21,6 +21,13 @@
     "confidence": 95.0
   },
   {
+    "raw_title": "NO OTHER CHOICE",
+    "tmdb_id": 639988,
+    "matched_title": "No Other Choice - Non c'è altra scelta",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "V.O. SOTT ITA - AGENT OF HAPPINESS",
     "tmdb_id": 1164862,
     "matched_title": "Agent of Happiness - Il Bhutan e la felicità",
@@ -77,13 +84,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
-    "tmdb_id": 1314481,
-    "matched_title": "Il diavolo veste Prada 2",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "LA PIÚ PICCOLA (LA PETITE DERNIÈRE)",
     "tmdb_id": 961077,
     "matched_title": "La più piccola",
@@ -96,6 +96,27 @@
     "matched_title": "Allora balliamo",
     "method": "ai",
     "confidence": 95.0
+  },
+  {
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "tmdb_id": 1314481,
+    "matched_title": "Il diavolo veste Prada 2",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "CIME TEMPESTOSE (WUTHERING HEIGHTS) - V. O.",
+    "tmdb_id": 9364,
+    "matched_title": "Cime tempestose",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "GENTE DI ROMA (10 E LUCE)",
+    "tmdb_id": 58089,
+    "matched_title": "Gente di Roma",
+    "method": "ai",
+    "confidence": 100.0
   },
   {
     "raw_title": "UN INVERNO IN COREA (HIVER A SOKCO)",
@@ -206,6 +227,13 @@
     "raw_title": "Backrooms - Everything Must Go Edition",
     "tmdb_id": 1083381,
     "matched_title": "Backrooms",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "Il Robot Selvaggio - Autism Friendly",
+    "tmdb_id": 1184918,
+    "matched_title": "Il robot selvaggio",
     "method": "ai",
     "confidence": 100.0
   }

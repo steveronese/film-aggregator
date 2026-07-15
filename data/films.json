@@ -1,57 +1,5 @@
 [
   {
-    "tmdb_id": 1563588,
-    "title": "L'hangar rosso",
-    "original_title": "Hangar Rojo",
-    "italian_title": "L'hangar rosso",
-    "year": 2026,
-    "poster_path": "/owA1QtBUMmJ5DBN4eLL4fmrUxRH.jpg",
-    "overview": "Cile, 11 settembre 1973, colpo di stato militare. Il capitano Jorge Silva, ex capo dell’intelligence dell’Aeronautica, viene incaricato di trasformare l’Accademia in cui sta addestrando i giovani cadetti in un centro di detenzione e tortura. Mentre gli hangar si riempiono di prigionieri e la repressione diventa sempre più brutale, Silva si ritrova a un bivio: obbedire agli ordini e appoggiare il nuovo regime, o disobbedire e aiutare chi lotta per sopravvivere?",
-    "title_en": "The Red Hangar",
-    "overview_en": "Chile, 1973. The military coup will force Jorge Silva, an Air Force captain, to face the unfolding horror. Inside a military base, he must choose between becoming part of the repression or helping those fighting to stay alive.",
-    "runtime": 81,
-    "director": "Juan Pablo Sallato",
-    "genres": [
-      "Dramma",
-      "Storia",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1339713,
-    "title": "Obsession",
-    "original_title": "Obsession",
-    "italian_title": "Obsession",
-    "year": 2026,
-    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
-    "title_en": "Obsession",
-    "overview_en": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "runtime": 108,
-    "director": "Curry Barker",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1410189,
-    "title": "Kontinental '25",
-    "original_title": "Kontinental '25",
-    "italian_title": "Kontinental '25",
-    "year": 2025,
-    "poster_path": "/h1hjWAd2ekaVU583biDeIOkhrom.jpg",
-    "overview": "Dovrebbe essere un normale giorno di lavoro per Orsoloya, ufficiale addetta agli sfratti. Ma, quando caccia un senzatetto da un seminterrato in cui si era rifugiato, accade l’irreparabile: l’uomo si toglie la vita. Sopraffatta dal senso di colpa, Orsoloya si imbarca in una serie di incontri e situazioni sempre più assurdi per cercare goffamente di trovare una qualche forma di redenzione.",
-    "title_en": "Kontinental '25",
-    "overview_en": "Orsolya is a bailiff in Cluj, the main city in Transylvania. One day she has to evict a homeless man from a cellar, an action with tragic consequences that triggers a moral crisis which Orsolya must weather as best she can.",
-    "runtime": 109,
-    "director": "Radu Jude",
-    "genres": [
-      "Commedia",
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1315772,
     "title": "Minions & Monsters",
     "original_title": "Minions & Monsters",
@@ -104,6 +52,41 @@
       "Mistero",
       "Thriller",
       "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 1563588,
+    "title": "L'hangar rosso",
+    "original_title": "Hangar Rojo",
+    "italian_title": "L'hangar rosso",
+    "year": 2026,
+    "poster_path": "/owA1QtBUMmJ5DBN4eLL4fmrUxRH.jpg",
+    "overview": "Cile, 11 settembre 1973, colpo di stato militare. Il capitano Jorge Silva, ex capo dell’intelligence dell’Aeronautica, viene incaricato di trasformare l’Accademia in cui sta addestrando i giovani cadetti in un centro di detenzione e tortura. Mentre gli hangar si riempiono di prigionieri e la repressione diventa sempre più brutale, Silva si ritrova a un bivio: obbedire agli ordini e appoggiare il nuovo regime, o disobbedire e aiutare chi lotta per sopravvivere?",
+    "title_en": "The Red Hangar",
+    "overview_en": "Chile, 1973. The military coup will force Jorge Silva, an Air Force captain, to face the unfolding horror. Inside a military base, he must choose between becoming part of the repression or helping those fighting to stay alive.",
+    "runtime": 81,
+    "director": "Juan Pablo Sallato",
+    "genres": [
+      "Dramma",
+      "Storia",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1339713,
+    "title": "Obsession",
+    "original_title": "Obsession",
+    "italian_title": "Obsession",
+    "year": 2026,
+    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
+    "title_en": "Obsession",
+    "overview_en": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "runtime": 108,
+    "director": "Curry Barker",
+    "genres": [
+      "Horror",
+      "Thriller"
     ]
   },
   {
@@ -160,6 +143,39 @@
     ]
   },
   {
+    "tmdb_id": 1410189,
+    "title": "Kontinental '25",
+    "original_title": "Kontinental '25",
+    "italian_title": "Kontinental '25",
+    "year": 2025,
+    "poster_path": "/h1hjWAd2ekaVU583biDeIOkhrom.jpg",
+    "overview": "Dovrebbe essere un normale giorno di lavoro per Orsoloya, ufficiale addetta agli sfratti. Ma, quando caccia un senzatetto da un seminterrato in cui si era rifugiato, accade l’irreparabile: l’uomo si toglie la vita. Sopraffatta dal senso di colpa, Orsoloya si imbarca in una serie di incontri e situazioni sempre più assurdi per cercare goffamente di trovare una qualche forma di redenzione.",
+    "title_en": "Kontinental '25",
+    "overview_en": "Orsolya is a bailiff in Cluj, the main city in Transylvania. One day she has to evict a homeless man from a cellar, an action with tragic consequences that triggers a moral crisis which Orsolya must weather as best she can.",
+    "runtime": 109,
+    "director": "Radu Jude",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 524635,
+    "title": "La cronologia dell’acqua",
+    "original_title": "The Chronology of Water",
+    "italian_title": "La cronologia dell’acqua",
+    "year": 2025,
+    "poster_path": "/tuYSqA5U5KwpJjzv3O91fq6cR7o.jpg",
+    "overview": "Cresciuta in un ambiente distrutto da violenza e alcol, dopo un’infanzia segnata da abusi, l’irrequieta Lidia (Imogen Poots) trova rifugio nel nuoto agonistico, nella sperimentazione sessuale, in relazioni tossiche e nella dipendenza, prima di trovare la propria voce attraverso la scrittura. La strada verso l’autodistruzione svolta verso una inattesa nuova destinazione attraverso la letteratura.",
+    "title_en": "The Chronology of Water",
+    "overview_en": "Plagued by an abusive childhood, a woman finds escape in competitive swimming, sexual experimentation, toxic relationships, and addiction before ultimately finding her voice through writing.",
+    "runtime": 129,
+    "director": "Kristen Stewart",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 15371,
     "title": "Lupin III - Il castello di Cagliostro",
     "original_title": "ルパン三世 カリオストロの城",
@@ -176,58 +192,6 @@
       "Avventura",
       "Commedia",
       "Crime"
-    ]
-  },
-  {
-    "tmdb_id": 67068,
-    "title": "Maledetti vi amerò",
-    "original_title": "Maledetti vi amerò",
-    "italian_title": "Maledetti vi amerò",
-    "year": 1980,
-    "poster_path": "/xwr6j7ewXLbJunCz5IhBR7emzdA.jpg",
-    "overview": "Svitol torna in Italia dopo alcuni anni d'assenza e comincia a cercare persone e segni del '68 che ha vissuto da protagonista.",
-    "title_en": "To Love the Damned",
-    "overview_en": "Young radical Riccardo returns home after hiding in South America for five years, only to find out that his comrades either gave up their ideals or turned to drugs, while all they fought for seems to have set the stage for near-anarchy.",
-    "runtime": 85,
-    "director": "Marco Tullio Giordana",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 27517,
-    "title": "L'uomo che ride",
-    "original_title": "The Man Who Laughs",
-    "italian_title": "L'uomo che ride",
-    "year": 1928,
-    "poster_path": "/5KyEeTuid2qmC0KiFdDJD2ayOM4.jpg",
-    "overview": "Londra di fine '700. Un piccolo orfano dal volto sfigurato e dal ghigno perenne, Gwynpaline, vive passando di fiera in fiera insieme al fidato Ursus, a una bambina cieca, Dea, e al cane Homo. La sfortunata compagnia va avanti proponendolo come fenomeno da baraccone finché il ragazzo, cresciuto (Conrad Veidt), non scopre di essere figlio di un aristocratico. Ma in una dura requisitoria contro la nobiltà tenuta alla Camera dei Lord, Gwynpaline rinnega le proprie origini e sceglie di tornare alla sua vita con i fedeli amici di sempre che nel frattempo sono stati messi al bando.",
-    "title_en": "The Man Who Laughs",
-    "overview_en": "When a proud noble refuses to kiss the hand of the despotic King James in 1690, he is cruelly executed and his son surgically disfigured.",
-    "runtime": 110,
-    "director": "Paul Leni",
-    "genres": [
-      "Dramma",
-      "Romance",
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 343,
-    "title": "Harold e Maude",
-    "original_title": "Harold and Maude",
-    "italian_title": "Harold e Maude",
-    "year": 1971,
-    "poster_path": "/emdyDokptAJVCCCLUozmeOsn2t3.jpg",
-    "overview": "In una sontuosa villa della provincia americana vive Harold, un adolescente cervellotico e pieno di problemi. Il giovane si diverte a simulare - come dirà al suo psicanalista - quindici suicidi per scuotere la madre, giovane avvenente e sventata, che ormai non lo sopporta più. Oltre ai tentativi di suicidio Harold coltiva tendenze necrofile: non si perde un funerale cui si reca con una macchina delle pompe funebri. In una di queste visite fa amicizia con Maude, una vecchina percorsa da fremiti di vita nonostante sia vicina al suo ottantesimo anno di età.",
-    "title_en": "Harold and Maude",
-    "overview_en": "A deadpan young man obsessed with death meets an eccentric septuagenarian who teaches him to live life to the fullest.",
-    "runtime": 90,
-    "director": "Hal Ashby",
-    "genres": [
-      "Commedia",
-      "Dramma",
-      "Romance"
     ]
   },
   {
@@ -297,6 +261,24 @@
     ]
   },
   {
+    "tmdb_id": 153,
+    "title": "Lost in Translation - L'amore tradotto",
+    "original_title": "Lost in Translation",
+    "italian_title": "Lost in Translation - L'amore tradotto",
+    "year": 2003,
+    "poster_path": "/yGVhHMLgvPwXszMOxj1BLnInIZ7.jpg",
+    "overview": "Bob Harris e Charlotte sono due americani a Tokyo. Bob è una star del cinema ed è a Tokyo per girare uno spot pubblicitario per una marca di whisky, mentre Charlotte è una giovane donna che arranca dietro al marito fotografo instancabile. Colpiti entrambi da insonnia, Bob e Charlotte s'incontrano una notte per caso nel bar dell'hotel dove alloggiano.",
+    "title_en": "Lost in Translation",
+    "overview_en": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+    "runtime": 102,
+    "director": "Sofia Coppola",
+    "genres": [
+      "Dramma",
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
     "tmdb_id": 1368337,
     "title": "Odissea",
     "original_title": "The Odyssey",
@@ -312,6 +294,22 @@
       "Avventura",
       "Azione",
       "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 1164862,
+    "title": "Agent of Happiness - Il Bhutan e la felicità",
+    "original_title": "དགའ་བའི་འབྱུང་གནས།",
+    "italian_title": "Agent of Happiness - Il Bhutan e la felicità",
+    "year": 2024,
+    "poster_path": "/j68VOC5X1EbwK2B5MQ9es19Hxf0.jpg",
+    "overview": "Documentario che segue l'inchiesta di Amber (Amber Kumar Gurung) sulla felicità nel suo Paese, il Bhutan. Da quando è stato inventato un metodo per calcolare la Felicità Nazionale Lorda, ci sono degli agenti specializzati che viaggiano in lungo e in largo bussando alle porte della gente per calcolare il loro livello di felicità. Amber è un quarantenne che vive con sua madre e che sogna un giorno di trovare il grande amore. La sua natura di sognatore lo ha spinto a intraprendere questa professione. Accompagnato dall'agente della felicità Guna Raj Kuikel, Amber incontra persone di ogni età e estrazione sociale. Incontri che svelano la profondità e la fragilità dell'animo umano, in Bhutan come in qualsiasi altro luogo al mondo.",
+    "title_en": "Agent of Happiness",
+    "overview_en": "The documentary team follows two happiness agents in their forties who spend a month and a half on the road twice a year, going door-to-door with their questionnaires in isolated villages in the Himalayas. The filmmakers undertake to provide an intimate insight into the daily lives and desires of Bhutanese people, and also seek the answer to the universal question of whether happiness can really be measured. Gross National Happiness promises a heart-warming journey into a mysterious, fairytale-like world, which is the exact opposite of the social order dominated by consumption and desires.",
+    "runtime": 93,
+    "director": "Dorottya Zurbo, Arun Bhattarai",
+    "genres": [
+      "Documentario"
     ]
   },
   {
@@ -367,6 +365,41 @@
     ]
   },
   {
+    "tmdb_id": 2011,
+    "title": "Persepolis",
+    "original_title": "Persepolis",
+    "italian_title": "Persepolis",
+    "year": 2007,
+    "poster_path": "/dUvdyb2rkChGjDJELiuMXpChsqg.jpg",
+    "overview": "La storia di Marjane, una ragazza precoce e ribelle che, cresciuta portando scarpe da ginnastica e giocando alla lotta con i maschietti, si trova costretta ad affrontare, dall'infanzia all'età adulta,  drastici cambiamenti delle proprie abitudini di vita imposti prima dalla monarchia dello Scià e poi dal regime degli ayatollah, fino alla sua partenza per l'Europa.",
+    "title_en": "Persepolis",
+    "overview_en": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
+    "runtime": 95,
+    "director": "Vincent Paronnaud, Marjane Satrapi",
+    "genres": [
+      "Animazione",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 254320,
+    "title": "The Lobster",
+    "original_title": "The Lobster",
+    "italian_title": "The Lobster",
+    "year": 2015,
+    "poster_path": "/8vW5UY7ksIphLTqEUj46ly5Wclh.jpg",
+    "overview": "Una surreale commedia romantica a tinte sci-fi che ci porta in un prossimo futuro dispotico, dove il solo fatto di essere \"single\" diventa motivo di fermo da parte delle autorità con tanto di trasferimento in una apposita struttura \"riabilitativa\" e la potenziale conseguenza di essere trasformati in animali se non si ottempererà all'obbligo di avere un partner.",
+    "title_en": "The Lobster",
+    "overview_en": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.",
+    "runtime": 118,
+    "director": "Yórgos Lánthimos",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
     "tmdb_id": 43195,
     "title": "Senso",
     "original_title": "Senso",
@@ -403,6 +436,23 @@
     ]
   },
   {
+    "tmdb_id": 120467,
+    "title": "Grand Budapest Hotel",
+    "original_title": "The Grand Budapest Hotel",
+    "italian_title": "Grand Budapest Hotel",
+    "year": 2014,
+    "poster_path": "/tY8gmrOOzhJxfBLQNOxjbuSR52b.jpg",
+    "overview": "Una ragazza depone una chiave di una stanza d'hotel ai piedi del busto dedicato a uno scrittore scomparso. Lo stesso scrittore racconta delle origini del suo romanzo. Un uomo oramai anziano e stanco racconta in un albergo semi deserto ad un giovane scrittore la storia di Gustave H., il leggendario concierge del Grand Budapest Hotel, e del suo giovane protetto Zero, alle prese con il furto e il recupero di un dipinto rinascimentale inestimabile e la battaglia per un enorme patrimonio di famiglia.",
+    "title_en": "The Grand Budapest Hotel",
+    "overview_en": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+    "runtime": 99,
+    "director": "Wes Anderson",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1092,
     "title": "Il terzo uomo",
     "original_title": "The Third Man",
@@ -433,6 +483,22 @@
     "director": "Allison Anders, Alexandre Rockwell, Robert Rodriguez, Quentin Tarantino",
     "genres": [
       "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 67068,
+    "title": "Maledetti vi amerò",
+    "original_title": "Maledetti vi amerò",
+    "italian_title": "Maledetti vi amerò",
+    "year": 1980,
+    "poster_path": "/xwr6j7ewXLbJunCz5IhBR7emzdA.jpg",
+    "overview": "Svitol torna in Italia dopo alcuni anni d'assenza e comincia a cercare persone e segni del '68 che ha vissuto da protagonista.",
+    "title_en": "To Love the Damned",
+    "overview_en": "Young radical Riccardo returns home after hiding in South America for five years, only to find out that his comrades either gave up their ideals or turned to drugs, while all they fought for seems to have set the stage for near-anarchy.",
+    "runtime": 85,
+    "director": "Marco Tullio Giordana",
+    "genres": [
+      "Dramma"
     ]
   },
   {
@@ -488,23 +554,6 @@
     ]
   },
   {
-    "tmdb_id": 2011,
-    "title": "Persepolis",
-    "original_title": "Persepolis",
-    "italian_title": "Persepolis",
-    "year": 2007,
-    "poster_path": "/dUvdyb2rkChGjDJELiuMXpChsqg.jpg",
-    "overview": "La storia di Marjane, una ragazza precoce e ribelle che, cresciuta portando scarpe da ginnastica e giocando alla lotta con i maschietti, si trova costretta ad affrontare, dall'infanzia all'età adulta,  drastici cambiamenti delle proprie abitudini di vita imposti prima dalla monarchia dello Scià e poi dal regime degli ayatollah, fino alla sua partenza per l'Europa.",
-    "title_en": "Persepolis",
-    "overview_en": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
-    "runtime": 95,
-    "director": "Vincent Paronnaud, Marjane Satrapi",
-    "genres": [
-      "Animazione",
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 92432,
     "title": "Vaghe stelle dell'Orsa...",
     "original_title": "Vaghe stelle dell'Orsa...",
@@ -539,6 +588,24 @@
     ]
   },
   {
+    "tmdb_id": 639988,
+    "title": "No Other Choice - Non c'è altra scelta",
+    "original_title": "어쩔수가없다",
+    "italian_title": "No Other Choice - Non c'è altra scelta",
+    "year": 2025,
+    "poster_path": "/6U7LDiu4IBMxw9chpT79UhuE3bR.jpg",
+    "overview": "Man-su, specialista nella produzione di carta con venticinque anni di esperienza, è così soddisfatto della vita da potersi dire sinceramente: “Ho tutto”. Finché un giorno viene improvvisamente informato dalla sua azienda di essere stato licenziato. Sentendosi come se gli avessero reciso la testa con un’ascia, Man-su giura di trovare un nuovo lavoro entro i successivi tre mesi per il bene della famiglia. Nonostante la sua ferma determinazione, trascorre oltre un anno passando da un colloquio all’altro, finendo per lavorare in un negozio al dettaglio. Si ritrova a rischio di perdere quella stessa casa che ha faticato così tanto per comprare. Disperato, si presenta senza preavviso alla Moon Paper per consegnare il curriculum, ma viene umiliato dal responsabile di linea Sun-chul. Sapendo di essere più qualificato di chiunque altro per lavorare lì, prende una decisione: se non c’è un posto vacante per me, dovrò farmi assumere creandone uno.",
+    "title_en": "No Other Choice",
+    "overview_en": "After being laid off and humiliated by a ruthless job market, a veteran paper mill manager descends into violence in a desperate bid to reclaim his dignity.",
+    "runtime": 140,
+    "director": "Park Chan-wook",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 31225,
     "title": "Paris Is Burning",
     "original_title": "Paris Is Burning",
@@ -569,6 +636,39 @@
     "genres": [
       "Horror",
       "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 72113,
+    "title": "Carnage",
+    "original_title": "Carnage",
+    "italian_title": "Carnage",
+    "year": 2011,
+    "poster_path": "/h1alMY83aEgEq8CjlTlJEoFjL2B.jpg",
+    "overview": "In una lite al parco, un ragazzino di 11 anni colpisce un coetaneo al volto con un bastone. I genitori, due coppie di Brooklyn, decidono di incontrarsi per discutere del fatto e risolvere la cosa da persone civili. Gli iniziali convenevoli si trasformano in battibecchi velenosi e il comportamento delle due coppie degenera in situazioni assurde e ridicole.",
+    "title_en": "Carnage",
+    "overview_en": "Two pairs of parents hold a cordial meeting after their sons are involved in a fight, though as their time together progresses, increasingly childish behavior throws the discussion into chaos.",
+    "runtime": 79,
+    "director": "Roman Polanski",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 38289,
+    "title": "Eccezzziunale... veramente",
+    "original_title": "Eccezzziunale... veramente",
+    "italian_title": "Eccezzziunale... veramente",
+    "year": 1982,
+    "poster_path": "/e5spEevuXcY2NXPYbxPblUWNhNE.jpg",
+    "overview": "Film in tre episodi. Nel primo Donato, un meridionale emigrato a Milano, è il capo di un gruppo di scatenati tifosi milanesi dell'Inter. Nel secondo il camionista juventino Tirzan, pur di seguire la sua squadra in Belgio, scambia il suo camion con quello di un collega. Infine l'ultimo episodio: Franco, tifoso dell'Inter, è vittima di uno scherzo da parte degli amici che gli fanno credere di aver fatto 13 al totocalcio.",
+    "title_en": "Eccezzziunale... veramente",
+    "overview_en": "Diego Abatantuono in the shoes of three huge fans: the Juventus truck driver Tirzan, the head of the ultra Milanese Donato and the Franco inter.",
+    "runtime": 98,
+    "director": "Carlo Vanzina",
+    "genres": [
+      "Commedia"
     ]
   },
   {
@@ -678,24 +778,6 @@
     ]
   },
   {
-    "tmdb_id": 153,
-    "title": "Lost in Translation - L'amore tradotto",
-    "original_title": "Lost in Translation",
-    "italian_title": "Lost in Translation - L'amore tradotto",
-    "year": 2003,
-    "poster_path": "/yGVhHMLgvPwXszMOxj1BLnInIZ7.jpg",
-    "overview": "Bob Harris e Charlotte sono due americani a Tokyo. Bob è una star del cinema ed è a Tokyo per girare uno spot pubblicitario per una marca di whisky, mentre Charlotte è una giovane donna che arranca dietro al marito fotografo instancabile. Colpiti entrambi da insonnia, Bob e Charlotte s'incontrano una notte per caso nel bar dell'hotel dove alloggiano.",
-    "title_en": "Lost in Translation",
-    "overview_en": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
-    "runtime": 102,
-    "director": "Sofia Coppola",
-    "genres": [
-      "Dramma",
-      "Commedia",
-      "Romance"
-    ]
-  },
-  {
     "tmdb_id": 47251,
     "title": "La prima notte di quiete",
     "original_title": "La prima notte di quiete",
@@ -745,6 +827,40 @@
     "genres": [
       "Dramma",
       "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 771,
+    "title": "Mamma, ho perso l'aereo",
+    "original_title": "Home Alone",
+    "italian_title": "Mamma, ho perso l'aereo",
+    "year": 1990,
+    "poster_path": "/6XG37rotwNtaQ5sKBRFZILqIri0.jpg",
+    "overview": "Nella fretta di prendere l'aereo diretto a Parigi dove vogliono passare le vacanze di Natale, i McCallister, una famiglia numerosa, dimenticano il piccolo Kevin a casa. Due malviventi cercano quindi di entrare nella villetta per fare razzia, ma sarà peggio per loro...",
+    "title_en": "Home Alone",
+    "overview_en": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+    "runtime": 103,
+    "director": "Chris Columbus",
+    "genres": [
+      "Commedia",
+      "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 452,
+    "title": "Idioti",
+    "original_title": "Idioterne",
+    "italian_title": "Idioti",
+    "year": 1998,
+    "poster_path": "/c14lNKB2FBsjFQbotSdbCQDqjKo.jpg",
+    "overview": "Karen, una ragazza molto timida, incontra in un ristorante un piccolo gruppo formato da alcuni giovani con ritardo mentale insieme ai loro accompagnatori. Al momento di andar via, uno dei ragazzi ritardati prende per mano Karen e non vuole più lasciarla, tanto che questa è costretta a salire con loro su un taxi per non essere scortese. Una volta a bordo, scopre che il ritardo mentale era simulato, e viene così a conoscenza di una decina di ragazzi e ragazze che vivono insieme in una villa di Copenaghen...",
+    "title_en": "The Idiots",
+    "overview_en": "A group of people gather at a Copenhagen suburban home to break all the limitations and to bring out the 'inner idiot' in themselves.",
+    "runtime": 117,
+    "director": "Lars von Trier",
+    "genres": [
+      "Commedia",
+      "Dramma"
     ]
   },
   {
@@ -799,22 +915,6 @@
     ]
   },
   {
-    "tmdb_id": 1164862,
-    "title": "Agent of Happiness - Il Bhutan e la felicità",
-    "original_title": "དགའ་བའི་འབྱུང་གནས།",
-    "italian_title": "Agent of Happiness - Il Bhutan e la felicità",
-    "year": 2024,
-    "poster_path": "/j68VOC5X1EbwK2B5MQ9es19Hxf0.jpg",
-    "overview": "Documentario che segue l'inchiesta di Amber (Amber Kumar Gurung) sulla felicità nel suo Paese, il Bhutan. Da quando è stato inventato un metodo per calcolare la Felicità Nazionale Lorda, ci sono degli agenti specializzati che viaggiano in lungo e in largo bussando alle porte della gente per calcolare il loro livello di felicità. Amber è un quarantenne che vive con sua madre e che sogna un giorno di trovare il grande amore. La sua natura di sognatore lo ha spinto a intraprendere questa professione. Accompagnato dall'agente della felicità Guna Raj Kuikel, Amber incontra persone di ogni età e estrazione sociale. Incontri che svelano la profondità e la fragilità dell'animo umano, in Bhutan come in qualsiasi altro luogo al mondo.",
-    "title_en": "Agent of Happiness",
-    "overview_en": "The documentary team follows two happiness agents in their forties who spend a month and a half on the road twice a year, going door-to-door with their questionnaires in isolated villages in the Himalayas. The filmmakers undertake to provide an intimate insight into the daily lives and desires of Bhutanese people, and also seek the answer to the universal question of whether happiness can really be measured. Gross National Happiness promises a heart-warming journey into a mysterious, fairytale-like world, which is the exact opposite of the social order dominated by consumption and desires.",
-    "runtime": 93,
-    "director": "Dorottya Zurbo, Arun Bhattarai",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
     "tmdb_id": 1429348,
     "title": "Lo straniero",
     "original_title": "L'Étranger",
@@ -845,22 +945,6 @@
     "director": "Francesco Sossai",
     "genres": [
       "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 524635,
-    "title": "La cronologia dell’acqua",
-    "original_title": "The Chronology of Water",
-    "italian_title": "La cronologia dell’acqua",
-    "year": 2025,
-    "poster_path": "/tuYSqA5U5KwpJjzv3O91fq6cR7o.jpg",
-    "overview": "Cresciuta in un ambiente distrutto da violenza e alcol, dopo un’infanzia segnata da abusi, l’irrequieta Lidia (Imogen Poots) trova rifugio nel nuoto agonistico, nella sperimentazione sessuale, in relazioni tossiche e nella dipendenza, prima di trovare la propria voce attraverso la scrittura. La strada verso l’autodistruzione svolta verso una inattesa nuova destinazione attraverso la letteratura.",
-    "title_en": "The Chronology of Water",
-    "overview_en": "Plagued by an abusive childhood, a woman finds escape in competitive swimming, sexual experimentation, toxic relationships, and addiction before ultimately finding her voice through writing.",
-    "runtime": 129,
-    "director": "Kristen Stewart",
-    "genres": [
-      "Dramma"
     ]
   },
   {
@@ -948,6 +1032,24 @@
     ]
   },
   {
+    "tmdb_id": 858024,
+    "title": "Hamnet - Nel nome del figlio",
+    "original_title": "Hamnet",
+    "italian_title": "Hamnet - Nel nome del figlio",
+    "year": 2025,
+    "poster_path": "/ro2a5k5dx8RWXGY0TmhqxTAffaI.jpg",
+    "overview": "In un bosco, una giovane donna dorme rannicchiata nella culla formata dalla radice emersa di un albero secolare: è vestita di rosso cupo, accompagnata da un falco che risponde ai suoi richiami, conosce erbe e pozioni, si dice non sia nata da sua madre ma da una donna venuta da lontano. Si chiama Agnes e quando Will la vede se ne innamora subito. Will è il giovane William Shakespeare, che riesce a sposarla nonostante l’ostilità delle famiglie e ad avere con lei tre figli, Susannah e i gemelli Judith e Hamnet. Ma un lutto li colpisce, quando il drammaturgo lavora già a Londra, e Hamnet diventa Hamlet. Tratta dal romanzo del 2020 di Maggie O’Farrell, la storia di Agnes (più che di William), intessuta di magia e femminilità.",
+    "title_en": "Hamnet",
+    "overview_en": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+    "runtime": 126,
+    "director": "Chloé Zhao",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "Storia"
+    ]
+  },
+  {
     "tmdb_id": 390,
     "title": "Lisbon Story",
     "original_title": "Lisbon Story",
@@ -996,24 +1098,6 @@
     "genres": [
       "Dramma",
       "Western"
-    ]
-  },
-  {
-    "tmdb_id": 1471224,
-    "title": "Il delitto del 3° piano",
-    "original_title": "Le Crime du 3e étage",
-    "italian_title": "Il delitto del 3° piano",
-    "year": 2026,
-    "poster_path": "/8Piv68hegZuIwPvsh2nglwUowYi.jpg",
-    "overview": "La storia di Anna, appassionata di cinema hitchcockiano, e di suo marito Pierre, celebre autore di thriller. Vivono in un elegante palazzo borghese, immersi in una quotidianità raffinata ma logorata dalla routine. Passano le giornate a scrivere, correggere, limare parole… senza più riuscire a parlarsi davvero. Finché qualcosa cambia. Dalle finestre del loro appartamento iniziano a osservare i nuovi vicini: una coppia inquieta, nervosa, sempre sul punto di esplodere. Quello che nasce come un gioco voyeuristico si trasforma presto in un’ossessione. Una scomparsa improvvisa, un orologio macchiato di sangue, occhiali spia, rumori nel cuore della notte: ogni indizio sembra gridare che qualcosa di terribile sia avvenuto proprio lì, nell’appartamento del 3° piano. Convinti di trovarsi davanti a un vero delitto, Anna e Pierre si spingono in un’indagine pericolosa. E più si avvicinano alla verità, più il confine tra il thriller che scrivono e la vita che vivono inizia a sfumare.",
-    "title_en": "Murder in the Building",
-    "overview_en": "Misanthropic novelist François writes gripping crime stories – “Agatha Christie meets The Scarlet Pimpernel” – but outside of the swashbuckling imaginary world of his Marquis la Rose-novels, life is far from thrilling. His partner Colette, a professor at the Sorbonne and world-renowned expert on Alfred Hitchcock, is tired of watching François sit around their apartment in his pyjamas and yearns for the excitement of the classic films she watches with her students. When Colette begins to suspect their flamboyant actor neighbour of murdering his wife, the couple’s mundane lives are turned upside down – and their stale relationship is jolted back to life.",
-    "runtime": 106,
-    "director": "Rémi Bezançon",
-    "genres": [
-      "Commedia",
-      "Dramma",
-      "Crime"
     ]
   },
   {
@@ -1100,6 +1184,23 @@
     "genres": [
       "Dramma",
       "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 503627,
+    "title": "Nobody Knows",
+    "original_title": "Nobody Knows",
+    "italian_title": "Nobody Knows",
+    "year": 2018,
+    "poster_path": "/9g0idQnaGoKvqD9gwW37arz05B8.jpg",
+    "overview": null,
+    "title_en": "Nobody Knows",
+    "overview_en": "In the wake of his brother's death, a quiet high schooler navigates his small Texas town, all while knowing he is responsible for the accident.",
+    "runtime": 20,
+    "director": "Nolan Wilson Goff",
+    "genres": [
+      "Crime",
+      "Dramma"
     ]
   },
   {
@@ -1207,23 +1308,6 @@
     ]
   },
   {
-    "tmdb_id": 1314481,
-    "title": "Il diavolo veste Prada 2",
-    "original_title": "The Devil Wears Prada 2",
-    "italian_title": "Il diavolo veste Prada 2",
-    "year": 2026,
-    "poster_path": "/zDhu8axN365ytMTSHWxdK8WFH5t.jpg",
-    "overview": "Sono passati vent'anni da quando Miranda Priestley faceva il bello e il cattivo tempo come direttrice della rivista di moda Runway, e il mondo dell'editoria cartacea è completamente cambiato: la concorrenza Internet è spietata, i budget sono risicati e Miranda è costretta a chinare la testa di fronte agli investitori e agli stilisti dalle cui pubblicità dipende il destino del magazine, soprattutto dopo che Miranda ha lodato pubblicamente una casa di fast fashion che sfrutta il lavoro minorile. Per riparare al danno di immagine il proprietario di Runway, Irv, convoca Andy Sachs, l'ex stagista di Miranda che è diventata un'ottima giornalista, ma ha anche appena perso il lavoro per i tagli all'editoria.",
-    "title_en": "The Devil Wears Prada 2",
-    "overview_en": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-    "runtime": 119,
-    "director": "David Frankel",
-    "genres": [
-      "Commedia",
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 961077,
     "title": "La più piccola",
     "original_title": "La Petite Dernière",
@@ -1294,40 +1378,53 @@
     ]
   },
   {
-    "tmdb_id": 858024,
-    "title": "Hamnet - Nel nome del figlio",
-    "original_title": "Hamnet",
-    "italian_title": "Hamnet - Nel nome del figlio",
-    "year": 2025,
-    "poster_path": "/ro2a5k5dx8RWXGY0TmhqxTAffaI.jpg",
-    "overview": "In un bosco, una giovane donna dorme rannicchiata nella culla formata dalla radice emersa di un albero secolare: è vestita di rosso cupo, accompagnata da un falco che risponde ai suoi richiami, conosce erbe e pozioni, si dice non sia nata da sua madre ma da una donna venuta da lontano. Si chiama Agnes e quando Will la vede se ne innamora subito. Will è il giovane William Shakespeare, che riesce a sposarla nonostante l’ostilità delle famiglie e ad avere con lei tre figli, Susannah e i gemelli Judith e Hamnet. Ma un lutto li colpisce, quando il drammaturgo lavora già a Londra, e Hamnet diventa Hamlet. Tratta dal romanzo del 2020 di Maggie O’Farrell, la storia di Agnes (più che di William), intessuta di magia e femminilità.",
-    "title_en": "Hamnet",
-    "overview_en": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-    "runtime": 126,
-    "director": "Chloé Zhao",
+    "tmdb_id": 1314481,
+    "title": "Il diavolo veste Prada 2",
+    "original_title": "The Devil Wears Prada 2",
+    "italian_title": "Il diavolo veste Prada 2",
+    "year": 2026,
+    "poster_path": "/zDhu8axN365ytMTSHWxdK8WFH5t.jpg",
+    "overview": "Sono passati vent'anni da quando Miranda Priestley faceva il bello e il cattivo tempo come direttrice della rivista di moda Runway, e il mondo dell'editoria cartacea è completamente cambiato: la concorrenza Internet è spietata, i budget sono risicati e Miranda è costretta a chinare la testa di fronte agli investitori e agli stilisti dalle cui pubblicità dipende il destino del magazine, soprattutto dopo che Miranda ha lodato pubblicamente una casa di fast fashion che sfrutta il lavoro minorile. Per riparare al danno di immagine il proprietario di Runway, Irv, convoca Andy Sachs, l'ex stagista di Miranda che è diventata un'ottima giornalista, ma ha anche appena perso il lavoro per i tagli all'editoria.",
+    "title_en": "The Devil Wears Prada 2",
+    "overview_en": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+    "runtime": 119,
+    "director": "David Frankel",
     "genres": [
-      "Dramma",
-      "Romance",
-      "Storia"
+      "Commedia",
+      "Dramma"
     ]
   },
   {
-    "tmdb_id": 1257406,
-    "title": "Due procuratori",
-    "original_title": "Zwei Staatsanwälte",
-    "italian_title": "Due procuratori",
-    "year": 2025,
-    "poster_path": "/yrKLtuveqVuSIqf9ZN3skLb0gEj.jpg",
-    "overview": "Unione Sovietica, 1937. Migliaia di lettere di detenuti ingiustamente accusati dal regime vengono bruciate in una cella di prigione. Contro ogni previsione, una di queste richieste d’aiuto giunge a destinazione, sulla scrivania del procuratore locale appena nominato, Aleksandr Kornev. Il giovane Kornev fa del suo meglio per incontrare il prigioniero, vittima di agenti corrotti della polizia segreta, l’NKVD. Bolscevico convinto e integro, il giovane procuratore sospetta una serie di abusi e illegalità. La sua ricerca di giustizia lo porterà fino all’ufficio del Procuratore Generale a Mosca…",
-    "title_en": "Two Prosecutors",
-    "overview_en": "In 1937, amidst Stalin's Great Terror, a newly appointed prosecutor for the USSR is made aware of alleged corruption in the Secret Police, and takes it upon himself to investigate.",
-    "runtime": 118,
-    "director": "Сергей Лозница",
+    "tmdb_id": 9364,
+    "title": "Cime tempestose",
+    "original_title": "Wuthering Heights",
+    "italian_title": "Cime tempestose",
+    "year": 2011,
+    "poster_path": "/7gEcoCve3lmPOIPRp54K73b6rDv.jpg",
+    "overview": "Yorkshire, Inghilterra settentrionale, alla fine del XVIII secolo, il giovane Heathcliff, salvato dalle strade di Liverpool dal signor Earnshaw, il proprietario di Wuthering Heights, una fattoria isolata, sviluppa negli anni una folle passione per Cathy, sua sorella adottiva, un'ossessione malata destinata a finire tragicamente.",
+    "title_en": "Wuthering Heights",
+    "overview_en": "Yorkshire moorlands, northern England, in the late 18th century. Young Heathcliff, rescued from the streets of Liverpool by Mr. Earnshaw, the owner of Wuthering Heights, an isolated farm, develops over the years an insane passion for Cathy, his foster sister, a sick obsession destined to end tragically.",
+    "runtime": 124,
+    "director": "Andrea Arnold",
     "genres": [
       "Dramma",
-      "Mistero",
-      "Thriller",
-      "Storia"
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 58089,
+    "title": "Gente di Roma",
+    "original_title": "Gente di Roma",
+    "italian_title": "Gente di Roma",
+    "year": 2003,
+    "poster_path": "/fLziEgc6viePMk9swenNZUbMsA7.jpg",
+    "overview": "Una giornata qualunque nella città eterna. Tanti piccoli frammenti di vita si susseguono in una carrellata di personaggi attraverso le storie dei quali, dalla tragedia alla commedia, Scola ci racconta la sua amata Roma. Il filo conduttore dei tanti episodi slegati tra loro è un autobus che percorre le strade della città, dall'alba al tramonto. Per scrivere storie interessanti bisognerebbe tornare a prendere il tram (o,nel caso presente, l'autobus) come suggeriva Zavattini? Forse sì, ma di certo bisognerebbe avere interesse a narrare: interesse che Scola non sembra avere più.",
+    "title_en": "People of Rome",
+    "overview_en": "Rome 2003, the camera follows citizens of Rome. Night, in a flat, a woman prepares her husband's lunch. The man takes a bus, but the camera follow another bus ... a woman cleans the mayor's office... A man interviews passengers on a bus about immigration...... the owner of a bar is racist person... a survivor woman of Holocaust remembers the Ghetto deportation... deportation that is filmed by a director... Stefania Sandrelli plays with her grand daughter in a park a man tries to seduce the bus driver...gay night life... sunrise at Piazza Navona, a noble man and a tramp are sitting together. - - - Gente di Roma is a 2003 Italian comedy mockumentary film directed by Ettore Scola. It is close to Federico Fellini's Roma. The film is dedicated to Alberto Sordi, who Scola wanted to close the film, as a noble man, but he could not film him because he died. Scola's daughters helped to co-write the script. (From Wikipedia, the free encyclopedia)",
+    "runtime": 100,
+    "director": "Ettore Scola",
+    "genres": [
+      "Commedia"
     ]
   },
   {
@@ -1665,24 +1762,6 @@
     "director": "鄒時擎",
     "genres": [
       "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 639988,
-    "title": "No Other Choice - Non c'è altra scelta",
-    "original_title": "어쩔수가없다",
-    "italian_title": "No Other Choice - Non c'è altra scelta",
-    "year": 2025,
-    "poster_path": "/6U7LDiu4IBMxw9chpT79UhuE3bR.jpg",
-    "overview": "Man-su, specialista nella produzione di carta con venticinque anni di esperienza, è così soddisfatto della vita da potersi dire sinceramente: “Ho tutto”. Finché un giorno viene improvvisamente informato dalla sua azienda di essere stato licenziato. Sentendosi come se gli avessero reciso la testa con un’ascia, Man-su giura di trovare un nuovo lavoro entro i successivi tre mesi per il bene della famiglia. Nonostante la sua ferma determinazione, trascorre oltre un anno passando da un colloquio all’altro, finendo per lavorare in un negozio al dettaglio. Si ritrova a rischio di perdere quella stessa casa che ha faticato così tanto per comprare. Disperato, si presenta senza preavviso alla Moon Paper per consegnare il curriculum, ma viene umiliato dal responsabile di linea Sun-chul. Sapendo di essere più qualificato di chiunque altro per lavorare lì, prende una decisione: se non c’è un posto vacante per me, dovrò farmi assumere creandone uno.",
-    "title_en": "No Other Choice",
-    "overview_en": "After being laid off and humiliated by a ruthless job market, a veteran paper mill manager descends into violence in a desperate bid to reclaim his dignity.",
-    "runtime": 140,
-    "director": "Park Chan-wook",
-    "genres": [
-      "Commedia",
-      "Crime",
-      "Thriller"
     ]
   },
   {
@@ -2103,6 +2182,60 @@
     "runtime": 65,
     "director": null,
     "genres": []
+  },
+  {
+    "tmdb_id": 1650856,
+    "title": "Dastaar",
+    "original_title": "Dastaar",
+    "italian_title": "Dastaar",
+    "year": 2026,
+    "poster_path": "/3AJff1foTrXplV687A1NAMw7nV4.jpg",
+    "overview": null,
+    "title_en": "Dastaar",
+    "overview_en": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
+    "runtime": 150,
+    "director": "Amar Hundal",
+    "genres": [
+      "Storia",
+      "Azione",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1184918,
+    "title": "Il robot selvaggio",
+    "original_title": "The Wild Robot",
+    "italian_title": "Il robot selvaggio",
+    "year": 2024,
+    "poster_path": "/rTLuc7yMbrkl1V9uocfoRcjJqdm.jpg",
+    "overview": "L'epica avventura segue il viaggio di un robot - l'unità ROZZUM 7134, abbreviato Roz - che dopo un naufragio si ritrova su un'isola disabitata dove dovrà imparare ad adattarsi all’ostile ambiente circostante, costruendo gradualmente relazioni con gli altri animali dell’isola e adottando un'ochetta orfana.",
+    "title_en": "The Wild Robot",
+    "overview_en": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+    "runtime": 102,
+    "director": "Chris Sanders",
+    "genres": [
+      "Famiglia",
+      "Animazione",
+      "Fantascienza",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 426063,
+    "title": "Nosferatu",
+    "original_title": "Nosferatu",
+    "italian_title": "Nosferatu",
+    "year": 2024,
+    "poster_path": "/1SftujfE9iqZpGJfnREO4IBeeqV.jpg",
+    "overview": "Una racconto gotico sull'ossessione tra una giovane donna tormentata e il terrificante vampiro che si è infatuato di lei, provocando un indicibile orrore.",
+    "title_en": "Nosferatu",
+    "overview_en": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+    "runtime": 132,
+    "director": "Robert Eggers",
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ]
   },
   {
     "tmdb_id": 1273221,
