@@ -1,5 +1,12 @@
 [
   {
+    "raw_title": "THE ODYSSEY - ODISSEA",
+    "tmdb_id": 42853,
+    "matched_title": "Odissea",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "THE DOORS. THE FINAL CUT",
     "tmdb_id": 10537,
     "matched_title": "The Doors",
@@ -12,13 +19,6 @@
     "matched_title": "Backrooms",
     "method": "ai",
     "confidence": 100.0
-  },
-  {
-    "raw_title": "THE ODYSSEY - ODISSEA",
-    "tmdb_id": 42853,
-    "matched_title": "Odissea",
-    "method": "ai",
-    "confidence": 95.0
   },
   {
     "raw_title": "NO OTHER CHOICE",
@@ -89,13 +89,6 @@
     "matched_title": "La più piccola",
     "method": "ai",
     "confidence": 100.0
-  },
-  {
-    "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR) - V. O.",
-    "tmdb_id": 1277884,
-    "matched_title": "Allora balliamo",
-    "method": "ai",
-    "confidence": 95.0
   },
   {
     "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
@@ -206,13 +199,6 @@
     "raw_title": "LA VILLA PORTOGHESE (UNA QUINTA PORTUGUESA)",
     "tmdb_id": 1440171,
     "matched_title": "La villa portoghese",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "Lupin Iii: Il Castello Di Cagliostro Rie",
-    "tmdb_id": 15371,
-    "matched_title": "Lupin III - Il castello di Cagliostro",
     "method": "ai",
     "confidence": 100.0
   },
