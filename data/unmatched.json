@@ -15,7 +15,7 @@
     "raw_title": "NO GOOD MEN",
     "raw_year": null,
     "cinema_id": "anteo",
-    "occurrences": 9
+    "occurrences": 8
   },
   {
     "raw_title": "MABOROSI NO HIKARI - LA LUCE DELLE ILLUSIONI",
@@ -25,6 +25,12 @@
   },
   {
     "raw_title": "CONCERTO: Spielberg, Williams e la musica dello spazio",
+    "raw_year": null,
+    "cinema_id": "arianteo-incoronata",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "V.O.SOTT.ITA - MANAS (SORELLE)",
     "raw_year": null,
     "cinema_id": "arianteo-incoronata",
     "occurrences": 1
@@ -42,12 +48,6 @@
     "occurrences": 1
   },
   {
-    "raw_title": "The Odissey (O.V.) - Con Talk",
-    "raw_year": null,
-    "cinema_id": "colosseo",
-    "occurrences": 1
-  },
-  {
     "raw_title": "Vivere, Ridere, Rallentare",
     "raw_year": null,
     "cinema_id": "san-fedele",
@@ -60,9 +60,15 @@
     "occurrences": 6
   },
   {
-    "raw_title": "Il Mondo Oltre",
+    "raw_title": "Blue",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
     "occurrences": 6
+  },
+  {
+    "raw_title": "Il Mondo Oltre",
+    "raw_year": null,
+    "cinema_id": "uci-bicocca",
+    "occurrences": 5
   }
 ]

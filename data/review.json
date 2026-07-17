@@ -56,6 +56,13 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "TERAPIA DI FAMIGLIA (JAMAIS SANS MON PSY)",
+    "tmdb_id": 1130402,
+    "matched_title": "Terapia di famiglia",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR)",
     "tmdb_id": 1277884,
     "matched_title": "Allora balliamo",
@@ -122,13 +129,6 @@
     "raw_title": "UN MONDO MERAVIGLIOSO (UN MONDE MARVEILLEUX)",
     "tmdb_id": 1154725,
     "matched_title": "Un mondo meraviglioso",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "TERAPIA DI FAMIGLIA (JAMAIS SANS MON PSY)",
-    "tmdb_id": 1130402,
-    "matched_title": "Terapia di famiglia",
     "method": "ai",
     "confidence": 100.0
   },
@@ -201,6 +201,13 @@
     "matched_title": "La villa portoghese",
     "method": "ai",
     "confidence": 100.0
+  },
+  {
+    "raw_title": "Francesco Guccini: Fra La Via Emilia E..",
+    "tmdb_id": 1305782,
+    "matched_title": "Francesco Guccini - Fra la Via Emilia e il West",
+    "method": "fuzzy",
+    "confidence": 90.2439024390244
   },
   {
     "raw_title": "(O.V.) The Odissey",
