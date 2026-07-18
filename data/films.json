@@ -1,54 +1,20 @@
 [
   {
-    "tmdb_id": 1370210,
-    "title": "Yalla Parkour",
-    "original_title": "يلّا باركور",
-    "italian_title": "Yalla Parkour",
-    "year": 2024,
-    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
-    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
-    "title_en": "Yalla Parkour",
-    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
-    "runtime": 89,
-    "director": "Areeb Zuaiter",
-    "genres": [
-      "Documentario",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1410189,
-    "title": "Kontinental '25",
-    "original_title": "Kontinental '25",
-    "italian_title": "Kontinental '25",
-    "year": 2025,
-    "poster_path": "/h1hjWAd2ekaVU583biDeIOkhrom.jpg",
-    "overview": "Dovrebbe essere un normale giorno di lavoro per Orsoloya, ufficiale addetta agli sfratti. Ma, quando caccia un senzatetto da un seminterrato in cui si era rifugiato, accade l’irreparabile: l’uomo si toglie la vita. Sopraffatta dal senso di colpa, Orsoloya si imbarca in una serie di incontri e situazioni sempre più assurdi per cercare goffamente di trovare una qualche forma di redenzione.",
-    "title_en": "Kontinental '25",
-    "overview_en": "Orsolya is a bailiff in Cluj, the main city in Transylvania. One day she has to evict a homeless man from a cellar, an action with tragic consequences that triggers a moral crisis which Orsolya must weather as best she can.",
-    "runtime": 109,
-    "director": "Radu Jude",
-    "genres": [
-      "Commedia",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 42853,
-    "title": "Odissea",
-    "original_title": "Odissea",
-    "italian_title": "Odissea",
-    "year": 1968,
-    "poster_path": "/orlKW4piaeA5UMTMqrQsQuOKl5w.jpg",
-    "overview": "Odissea è una miniserie televisiva co-prodotta da svariati Paesi nel 1968, basata sull'omonimo poema di Omero. Ne è stata distribuita una versione ridotta cinematografica dal titolo Le avventure di Ulisse.",
-    "title_en": "Odissea",
-    "overview_en": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
+    "tmdb_id": 57447,
+    "title": "La casa dalle finestre che ridono",
+    "original_title": "La casa dalle finestre che ridono",
+    "italian_title": "La casa dalle finestre che ridono",
+    "year": 1976,
+    "poster_path": "/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
+    "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
+    "title_en": "The House with Laughing Windows",
+    "overview_en": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village.",
     "runtime": 110,
-    "director": "Piero Schivazappa, Franco Rossi, Mario Bava",
+    "director": "Pupi Avati",
     "genres": [
-      "televisione film",
-      "Avventura",
-      "Storia"
+      "Mistero",
+      "Thriller",
+      "Horror"
     ]
   },
   {
@@ -70,24 +36,6 @@
     ]
   },
   {
-    "tmdb_id": 57447,
-    "title": "La casa dalle finestre che ridono",
-    "original_title": "La casa dalle finestre che ridono",
-    "italian_title": "La casa dalle finestre che ridono",
-    "year": 1976,
-    "poster_path": "/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
-    "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
-    "title_en": "The House with Laughing Windows",
-    "overview_en": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village.",
-    "runtime": 110,
-    "director": "Pupi Avati",
-    "genres": [
-      "Mistero",
-      "Thriller",
-      "Horror"
-    ]
-  },
-  {
     "tmdb_id": 1315772,
     "title": "Minions & Monsters",
     "original_title": "Minions & Monsters",
@@ -105,6 +53,24 @@
       "Commedia",
       "Famiglia",
       "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 42853,
+    "title": "Odissea",
+    "original_title": "Odissea",
+    "italian_title": "Odissea",
+    "year": 1968,
+    "poster_path": "/orlKW4piaeA5UMTMqrQsQuOKl5w.jpg",
+    "overview": "Odissea è una miniserie televisiva co-prodotta da svariati Paesi nel 1968, basata sull'omonimo poema di Omero. Ne è stata distribuita una versione ridotta cinematografica dal titolo Le avventure di Ulisse.",
+    "title_en": "Odissea",
+    "overview_en": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
+    "runtime": 110,
+    "director": "Piero Schivazappa, Franco Rossi, Mario Bava",
+    "genres": [
+      "televisione film",
+      "Avventura",
+      "Storia"
     ]
   },
   {
@@ -142,6 +108,23 @@
     ]
   },
   {
+    "tmdb_id": 1410189,
+    "title": "Kontinental '25",
+    "original_title": "Kontinental '25",
+    "italian_title": "Kontinental '25",
+    "year": 2025,
+    "poster_path": "/h1hjWAd2ekaVU583biDeIOkhrom.jpg",
+    "overview": "Dovrebbe essere un normale giorno di lavoro per Orsoloya, ufficiale addetta agli sfratti. Ma, quando caccia un senzatetto da un seminterrato in cui si era rifugiato, accade l’irreparabile: l’uomo si toglie la vita. Sopraffatta dal senso di colpa, Orsoloya si imbarca in una serie di incontri e situazioni sempre più assurdi per cercare goffamente di trovare una qualche forma di redenzione.",
+    "title_en": "Kontinental '25",
+    "overview_en": "Orsolya is a bailiff in Cluj, the main city in Transylvania. One day she has to evict a homeless man from a cellar, an action with tragic consequences that triggers a moral crisis which Orsolya must weather as best she can.",
+    "runtime": 109,
+    "director": "Radu Jude",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1083381,
     "title": "Backrooms",
     "original_title": "Backrooms",
@@ -157,6 +140,23 @@
       "Horror",
       "Mistero",
       "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 1370210,
+    "title": "Yalla Parkour",
+    "original_title": "يلّا باركور",
+    "italian_title": "Yalla Parkour",
+    "year": 2024,
+    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
+    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
+    "title_en": "Yalla Parkour",
+    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
+    "runtime": 89,
+    "director": "Areeb Zuaiter",
+    "genres": [
+      "Documentario",
+      "Dramma"
     ]
   },
   {
@@ -191,93 +191,6 @@
       "Avventura",
       "Azione",
       "Fantasy"
-    ]
-  },
-  {
-    "tmdb_id": 2011,
-    "title": "Persepolis",
-    "original_title": "Persepolis",
-    "italian_title": "Persepolis",
-    "year": 2007,
-    "poster_path": "/dUvdyb2rkChGjDJELiuMXpChsqg.jpg",
-    "overview": "La storia di Marjane, una ragazza precoce e ribelle che, cresciuta portando scarpe da ginnastica e giocando alla lotta con i maschietti, si trova costretta ad affrontare, dall'infanzia all'età adulta,  drastici cambiamenti delle proprie abitudini di vita imposti prima dalla monarchia dello Scià e poi dal regime degli ayatollah, fino alla sua partenza per l'Europa.",
-    "title_en": "Persepolis",
-    "overview_en": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
-    "runtime": 95,
-    "director": "Vincent Paronnaud, Marjane Satrapi",
-    "genres": [
-      "Animazione",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 254320,
-    "title": "The Lobster",
-    "original_title": "The Lobster",
-    "italian_title": "The Lobster",
-    "year": 2015,
-    "poster_path": "/8vW5UY7ksIphLTqEUj46ly5Wclh.jpg",
-    "overview": "Una surreale commedia romantica a tinte sci-fi che ci porta in un prossimo futuro dispotico, dove il solo fatto di essere \"single\" diventa motivo di fermo da parte delle autorità con tanto di trasferimento in una apposita struttura \"riabilitativa\" e la potenziale conseguenza di essere trasformati in animali se non si ottempererà all'obbligo di avere un partner.",
-    "title_en": "The Lobster",
-    "overview_en": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.",
-    "runtime": 118,
-    "director": "Yórgos Lánthimos",
-    "genres": [
-      "Commedia",
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 1164862,
-    "title": "Agent of Happiness - Il Bhutan e la felicità",
-    "original_title": "དགའ་བའི་འབྱུང་གནས།",
-    "italian_title": "Agent of Happiness - Il Bhutan e la felicità",
-    "year": 2024,
-    "poster_path": "/j68VOC5X1EbwK2B5MQ9es19Hxf0.jpg",
-    "overview": "Documentario che segue l'inchiesta di Amber (Amber Kumar Gurung) sulla felicità nel suo Paese, il Bhutan. Da quando è stato inventato un metodo per calcolare la Felicità Nazionale Lorda, ci sono degli agenti specializzati che viaggiano in lungo e in largo bussando alle porte della gente per calcolare il loro livello di felicità. Amber è un quarantenne che vive con sua madre e che sogna un giorno di trovare il grande amore. La sua natura di sognatore lo ha spinto a intraprendere questa professione. Accompagnato dall'agente della felicità Guna Raj Kuikel, Amber incontra persone di ogni età e estrazione sociale. Incontri che svelano la profondità e la fragilità dell'animo umano, in Bhutan come in qualsiasi altro luogo al mondo.",
-    "title_en": "Agent of Happiness",
-    "overview_en": "The documentary team follows two happiness agents in their forties who spend a month and a half on the road twice a year, going door-to-door with their questionnaires in isolated villages in the Himalayas. The filmmakers undertake to provide an intimate insight into the daily lives and desires of Bhutanese people, and also seek the answer to the universal question of whether happiness can really be measured. Gross National Happiness promises a heart-warming journey into a mysterious, fairytale-like world, which is the exact opposite of the social order dominated by consumption and desires.",
-    "runtime": 93,
-    "director": "Dorottya Zurbo, Arun Bhattarai",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 43195,
-    "title": "Senso",
-    "original_title": "Senso",
-    "italian_title": "Senso",
-    "year": 1954,
-    "poster_path": "/qLwENVUnmb6ULiUKAh6dzDTwxUI.jpg",
-    "overview": "Ispirato ad una novella di Camillo Boito. Venezia, 1886: la storia d'amore tra la contessa Serpieri ed il tenente austriaco Mahler si intreccia con le guerre di indipendenza italiane.",
-    "title_en": "Senso",
-    "overview_en": "A troubled and neurotic Italian Countess betrays her entire country for a self-destructive love affair with an Austrian Lieutenant.",
-    "runtime": 118,
-    "director": "Luchino Visconti",
-    "genres": [
-      "Romance",
-      "Dramma",
-      "Guerra"
-    ]
-  },
-  {
-    "tmdb_id": 4689,
-    "title": "Mr. Vendetta",
-    "original_title": "복수는 나의 것",
-    "italian_title": "Mr. Vendetta",
-    "year": 2002,
-    "poster_path": "/jlwrTN38asdSfDPD9jb4uGrK5gr.jpg",
-    "overview": "Ryu è un ragazzo sordomuto che, per pagare le cure della sorella malata, cerca di vendere un rene: truffato dai trafficanti di organi, su consiglio della sua ragazza Yeong-mi organizza il rapimento della figlia dell'uomo che l'ha licenziato. Per un incidente, la bambina muore affogata, ed il padre, Park Dong-jin, dà la caccia a Ryu e Yeong-mi per vendicarsi.",
-    "title_en": "Sympathy for Mr. Vengeance",
-    "overview_en": "A deaf man and his girlfriend resort to desperate measures in order to fund a kidney transplant for his sister. Things go horribly wrong, and the situation spirals rapidly into a cycle of violence and revenge.",
-    "runtime": 129,
-    "director": "Park Chan-wook",
-    "genres": [
-      "Azione",
-      "Dramma",
-      "Thriller"
     ]
   },
   {
@@ -347,6 +260,22 @@
     ]
   },
   {
+    "tmdb_id": 1164862,
+    "title": "Agent of Happiness - Il Bhutan e la felicità",
+    "original_title": "དགའ་བའི་འབྱུང་གནས།",
+    "italian_title": "Agent of Happiness - Il Bhutan e la felicità",
+    "year": 2024,
+    "poster_path": "/j68VOC5X1EbwK2B5MQ9es19Hxf0.jpg",
+    "overview": "Documentario che segue l'inchiesta di Amber (Amber Kumar Gurung) sulla felicità nel suo Paese, il Bhutan. Da quando è stato inventato un metodo per calcolare la Felicità Nazionale Lorda, ci sono degli agenti specializzati che viaggiano in lungo e in largo bussando alle porte della gente per calcolare il loro livello di felicità. Amber è un quarantenne che vive con sua madre e che sogna un giorno di trovare il grande amore. La sua natura di sognatore lo ha spinto a intraprendere questa professione. Accompagnato dall'agente della felicità Guna Raj Kuikel, Amber incontra persone di ogni età e estrazione sociale. Incontri che svelano la profondità e la fragilità dell'animo umano, in Bhutan come in qualsiasi altro luogo al mondo.",
+    "title_en": "Agent of Happiness",
+    "overview_en": "The documentary team follows two happiness agents in their forties who spend a month and a half on the road twice a year, going door-to-door with their questionnaires in isolated villages in the Himalayas. The filmmakers undertake to provide an intimate insight into the daily lives and desires of Bhutanese people, and also seek the answer to the universal question of whether happiness can really be measured. Gross National Happiness promises a heart-warming journey into a mysterious, fairytale-like world, which is the exact opposite of the social order dominated by consumption and desires.",
+    "runtime": 93,
+    "director": "Dorottya Zurbo, Arun Bhattarai",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
     "tmdb_id": 67068,
     "title": "Maledetti vi amerò",
     "original_title": "Maledetti vi amerò",
@@ -359,6 +288,23 @@
     "runtime": 85,
     "director": "Marco Tullio Giordana",
     "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 2011,
+    "title": "Persepolis",
+    "original_title": "Persepolis",
+    "italian_title": "Persepolis",
+    "year": 2007,
+    "poster_path": "/dUvdyb2rkChGjDJELiuMXpChsqg.jpg",
+    "overview": "La storia di Marjane, una ragazza precoce e ribelle che, cresciuta portando scarpe da ginnastica e giocando alla lotta con i maschietti, si trova costretta ad affrontare, dall'infanzia all'età adulta,  drastici cambiamenti delle proprie abitudini di vita imposti prima dalla monarchia dello Scià e poi dal regime degli ayatollah, fino alla sua partenza per l'Europa.",
+    "title_en": "Persepolis",
+    "overview_en": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
+    "runtime": 95,
+    "director": "Vincent Paronnaud, Marjane Satrapi",
+    "genres": [
+      "Animazione",
       "Dramma"
     ]
   },
@@ -581,6 +527,24 @@
     "genres": [
       "Dramma",
       "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 43195,
+    "title": "Senso",
+    "original_title": "Senso",
+    "italian_title": "Senso",
+    "year": 1954,
+    "poster_path": "/qLwENVUnmb6ULiUKAh6dzDTwxUI.jpg",
+    "overview": "Ispirato ad una novella di Camillo Boito. Venezia, 1886: la storia d'amore tra la contessa Serpieri ed il tenente austriaco Mahler si intreccia con le guerre di indipendenza italiane.",
+    "title_en": "Senso",
+    "overview_en": "A troubled and neurotic Italian Countess betrays her entire country for a self-destructive love affair with an Austrian Lieutenant.",
+    "runtime": 118,
+    "director": "Luchino Visconti",
+    "genres": [
+      "Romance",
+      "Dramma",
+      "Guerra"
     ]
   },
   {
@@ -830,6 +794,24 @@
     ]
   },
   {
+    "tmdb_id": 22536,
+    "title": "Thirst",
+    "original_title": "박쥐",
+    "italian_title": "Thirst",
+    "year": 2009,
+    "poster_path": "/46hMBuDeuxgbZi1NKDTiXLpKKqV.jpg",
+    "overview": "Sang-hyun, un rispettato sacerdote, si offre volontario per una procedura sperimentale che potrebbe portare a una cura per un virus mortale.  Viene infettato e muore, ma una trasfusione di sangue di origine sconosciuta lo riporta in vita come vampiro.  Ora, Sang-hyun è diviso tra fede e sete di sangue e ha un nuovo desiderio per Tae-ju, la moglie del suo amico d'infanzia.",
+    "title_en": "Thirst",
+    "overview_en": "A respected priest volunteers for an experimental procedure that may lead to a cure for a deadly virus. He gets infected and dies, but a blood transfusion of unknown origin brings him back to life. Now, he’s torn between faith and bloodlust, and has a newfound desire for the wife of a childhood friend.",
+    "runtime": 134,
+    "director": "Park Chan-wook",
+    "genres": [
+      "Dramma",
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 1275779,
     "title": "Disclosure Day",
     "original_title": "Disclosure Day",
@@ -981,23 +963,6 @@
     ]
   },
   {
-    "tmdb_id": 390,
-    "title": "Lisbon Story",
-    "original_title": "Lisbon Story",
-    "italian_title": "Lisbon Story",
-    "year": 1994,
-    "poster_path": "/5E8Zc8sbRfMdrXa8G4MTMHliUad.jpg",
-    "overview": "Philip Winter raggiunge in auto il Portogallo. A Lisbona il suo amico regista  Friedrich Munro starebbe girando un film e Philip pensa di raggiungerlo per prestare il suo operato come fonico. Tributo alla città sottolineato dalla musica del gruppo portoghese dei \"Madredeus\". Dedicato anche al Regista italiano Federico Fellini.",
-    "title_en": "Lisbon Story",
-    "overview_en": "Wim Wenders' homage to Lisbon and films. A sound engineer obtains a mysterious postcard from a friend who at the moment is filming a film in Lisbon. He sets out across Europe to find him and help him.",
-    "runtime": 105,
-    "director": "Wim Wenders",
-    "genres": [
-      "Dramma",
-      "Musica"
-    ]
-  },
-  {
     "tmdb_id": 318,
     "title": "The Million Dollar Hotel",
     "original_title": "The Million Dollar Hotel",
@@ -1132,6 +1097,23 @@
     "genres": [
       "Dramma",
       "Commedia",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 390,
+    "title": "Lisbon Story",
+    "original_title": "Lisbon Story",
+    "italian_title": "Lisbon Story",
+    "year": 1994,
+    "poster_path": "/5E8Zc8sbRfMdrXa8G4MTMHliUad.jpg",
+    "overview": "Philip Winter raggiunge in auto il Portogallo. A Lisbona il suo amico regista  Friedrich Munro starebbe girando un film e Philip pensa di raggiungerlo per prestare il suo operato come fonico. Tributo alla città sottolineato dalla musica del gruppo portoghese dei \"Madredeus\". Dedicato anche al Regista italiano Federico Fellini.",
+    "title_en": "Lisbon Story",
+    "overview_en": "Wim Wenders' homage to Lisbon and films. A sound engineer obtains a mysterious postcard from a friend who at the moment is filming a film in Lisbon. He sets out across Europe to find him and help him.",
+    "runtime": 105,
+    "director": "Wim Wenders",
+    "genres": [
+      "Dramma",
       "Musica"
     ]
   },
