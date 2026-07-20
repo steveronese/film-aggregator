@@ -1,12 +1,5 @@
 [
   {
-    "raw_title": "THE DOORS. THE FINAL CUT",
-    "tmdb_id": 10537,
-    "matched_title": "The Doors",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "THE ODYSSEY - ODISSEA",
     "tmdb_id": 42853,
     "matched_title": "Odissea",
@@ -63,13 +56,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR)",
-    "tmdb_id": 1277884,
-    "matched_title": "Allora balliamo",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "NON BUSSARE ALLA MIA PORTA (DON'T COME KNOCKING)",
     "tmdb_id": 3527,
     "matched_title": "Non bussare alla mia porta",
@@ -105,16 +91,16 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
-    "tmdb_id": 1314481,
-    "matched_title": "Il diavolo veste Prada 2",
+    "raw_title": "GENTE DI ROMA (10 E LUCE)",
+    "tmdb_id": 58089,
+    "matched_title": "Gente di Roma",
     "method": "ai",
     "confidence": 100.0
   },
   {
-    "raw_title": "GENTE DI ROMA (10 E LUCE)",
-    "tmdb_id": 58089,
-    "matched_title": "Gente di Roma",
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "tmdb_id": 1314481,
+    "matched_title": "Il diavolo veste Prada 2",
     "method": "ai",
     "confidence": 100.0
   },
@@ -124,6 +110,13 @@
     "matched_title": "Un inverno in Corea",
     "method": "ai",
     "confidence": 100.0
+  },
+  {
+    "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR)",
+    "tmdb_id": 1277884,
+    "matched_title": "Allora balliamo",
+    "method": "ai",
+    "confidence": 95.0
   },
   {
     "raw_title": "UN MONDO MERAVIGLIOSO (UN MONDE MARVEILLEUX)",
@@ -220,13 +213,6 @@
     "raw_title": "Backrooms - Everything Must Go Edition",
     "tmdb_id": 1083381,
     "matched_title": "Backrooms",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "Il Robot Selvaggio - Autism Friendly",
-    "tmdb_id": 1184918,
-    "matched_title": "Il robot selvaggio",
     "method": "ai",
     "confidence": 100.0
   }
