@@ -1,40 +1,5 @@
 [
   {
-    "tmdb_id": 1410189,
-    "title": "Kontinental '25",
-    "original_title": "Kontinental '25",
-    "italian_title": "Kontinental '25",
-    "year": 2025,
-    "poster_path": "/h1hjWAd2ekaVU583biDeIOkhrom.jpg",
-    "overview": "Dovrebbe essere un normale giorno di lavoro per Orsoloya, ufficiale addetta agli sfratti. Ma, quando caccia un senzatetto da un seminterrato in cui si era rifugiato, accade l’irreparabile: l’uomo si toglie la vita. Sopraffatta dal senso di colpa, Orsoloya si imbarca in una serie di incontri e situazioni sempre più assurdi per cercare goffamente di trovare una qualche forma di redenzione.",
-    "title_en": "Kontinental '25",
-    "overview_en": "Orsolya is a bailiff in Cluj, the main city in Transylvania. One day she has to evict a homeless man from a cellar, an action with tragic consequences that triggers a moral crisis which Orsolya must weather as best she can.",
-    "runtime": 109,
-    "director": "Radu Jude",
-    "genres": [
-      "Commedia",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 57447,
-    "title": "La casa dalle finestre che ridono",
-    "original_title": "La casa dalle finestre che ridono",
-    "italian_title": "La casa dalle finestre che ridono",
-    "year": 1976,
-    "poster_path": "/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
-    "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
-    "title_en": "The House with Laughing Windows",
-    "overview_en": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village.",
-    "runtime": 110,
-    "director": "Pupi Avati",
-    "genres": [
-      "Mistero",
-      "Thriller",
-      "Horror"
-    ]
-  },
-  {
     "tmdb_id": 42853,
     "title": "Odissea",
     "original_title": "Odissea",
@@ -50,24 +15,6 @@
       "televisione film",
       "Avventura",
       "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1083381,
-    "title": "Backrooms",
-    "original_title": "Backrooms",
-    "italian_title": "Backrooms",
-    "year": 2026,
-    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
-    "title_en": "Backrooms",
-    "overview_en": "A strange doorway appears in the basement of a furniture showroom.",
-    "runtime": 111,
-    "director": "Kane Parsons",
-    "genres": [
-      "Horror",
-      "Mistero",
-      "Fantascienza"
     ]
   },
   {
@@ -106,6 +53,41 @@
     ]
   },
   {
+    "tmdb_id": 1410189,
+    "title": "Kontinental '25",
+    "original_title": "Kontinental '25",
+    "italian_title": "Kontinental '25",
+    "year": 2025,
+    "poster_path": "/h1hjWAd2ekaVU583biDeIOkhrom.jpg",
+    "overview": "Dovrebbe essere un normale giorno di lavoro per Orsoloya, ufficiale addetta agli sfratti. Ma, quando caccia un senzatetto da un seminterrato in cui si era rifugiato, accade l’irreparabile: l’uomo si toglie la vita. Sopraffatta dal senso di colpa, Orsoloya si imbarca in una serie di incontri e situazioni sempre più assurdi per cercare goffamente di trovare una qualche forma di redenzione.",
+    "title_en": "Kontinental '25",
+    "overview_en": "Orsolya is a bailiff in Cluj, the main city in Transylvania. One day she has to evict a homeless man from a cellar, an action with tragic consequences that triggers a moral crisis which Orsolya must weather as best she can.",
+    "runtime": 109,
+    "director": "Radu Jude",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 57447,
+    "title": "La casa dalle finestre che ridono",
+    "original_title": "La casa dalle finestre che ridono",
+    "italian_title": "La casa dalle finestre che ridono",
+    "year": 1976,
+    "poster_path": "/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
+    "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
+    "title_en": "The House with Laughing Windows",
+    "overview_en": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village.",
+    "runtime": 110,
+    "director": "Pupi Avati",
+    "genres": [
+      "Mistero",
+      "Thriller",
+      "Horror"
+    ]
+  },
+  {
     "tmdb_id": 524635,
     "title": "La cronologia dell’acqua",
     "original_title": "The Chronology of Water",
@@ -139,104 +121,36 @@
     ]
   },
   {
-    "tmdb_id": 75363,
-    "title": "La spia in nero",
-    "original_title": "The Spy in Black",
-    "italian_title": "La spia in nero",
-    "year": 1939,
-    "poster_path": "/evfPIIDbxKyc2CsKDwszUTU6f1s.jpg",
-    "overview": "Quando un capitano di U-Boat tedesco viene inviato in missione di spionaggio nel nord della Scozia durante la prima guerra mondiale, trova più di quanto si aspettasse dal suo contatto, la insegnante della scuola locale.",
-    "title_en": "The Spy in Black",
-    "overview_en": "A German submarine is sent to the Orkney Isles in 1917 to sink the British fleet.",
-    "runtime": 82,
-    "director": "Michael Powell",
-    "genres": [
-      "Guerra",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 2011,
-    "title": "Persepolis",
-    "original_title": "Persepolis",
-    "italian_title": "Persepolis",
-    "year": 2007,
-    "poster_path": "/dUvdyb2rkChGjDJELiuMXpChsqg.jpg",
-    "overview": "La storia di Marjane, una ragazza precoce e ribelle che, cresciuta portando scarpe da ginnastica e giocando alla lotta con i maschietti, si trova costretta ad affrontare, dall'infanzia all'età adulta,  drastici cambiamenti delle proprie abitudini di vita imposti prima dalla monarchia dello Scià e poi dal regime degli ayatollah, fino alla sua partenza per l'Europa.",
-    "title_en": "Persepolis",
-    "overview_en": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
-    "runtime": 95,
-    "director": "Vincent Paronnaud, Marjane Satrapi",
+    "tmdb_id": 1279865,
+    "title": "A New Dawn",
+    "original_title": "花緑青が明ける日に",
+    "italian_title": "A New Dawn",
+    "year": 2026,
+    "poster_path": "/a105UQIL5lblYEeYOtyrsCCjfjO.jpg",
+    "overview": "La Obito Fireworks, una fabbrica di fuochi d’artificio situata in una lussureggiante foresta, sta affrontando lo sfratto a causa della riqualificazione della città. Keitaro Tatewaki si è rintanato lì da quattro anni, dedicandosi alla produzione di fuochi d’artificio per completare il fantasma “Shuhari” al posto del padre scomparso. Nel frattempo, la sua amica d’infanzia Kaoru, che dopo un certo incidente ha lasciato la sua città natale, vive a Tokyo. Ma con l’avvicinarsi della data dello sfratto, fa visita alla famiglia Tatewaki. I due si incontrano di nuovo e escogitano un piano sorprendente per scoprire il segreto dei fuochi d’artificio perduti. La chiave è un bellissimo pigmento blu chiamato “verderame floreale",
+    "title_en": "A New Dawn",
+    "overview_en": "The Obinata Fireworks Shop factory is getting prepared for an administrative action for confiscation tomorrow. It has been six years since Keitaro has been holed up in a closed-down factory creating fireworks by himself, chasing after an illusion of his father who vanished. It is a story about three young people who overcome the extreme weather conditions, disasters and environmental problems imposed on them and establish their own identities.",
+    "runtime": 75,
+    "director": "四宮義俊",
     "genres": [
       "Animazione",
       "Dramma"
     ]
   },
   {
-    "tmdb_id": 1022995,
-    "title": "Sarajevo Safari",
-    "original_title": "Sarajevo Safari",
-    "italian_title": "Sarajevo Safari",
-    "year": 2022,
-    "poster_path": "/ljz3yK9wMdQEufyUAwS7aBYKyB1.jpg",
-    "overview": "Tra i molti episodi drammatici dell’assedio di Sarajevo dal 1992 al 1996, la storia di un safari umano è rimasta a lungo nascosta all’opinione pubblica. Solo pochi erano a conoscenza del fatto che, sul fronte serbo, all’assedio di Sarajevo partecipasse non solo l’Esercito Serbo-Bosniaco, insieme a volontari e mercenari, ma anche un altro piccolo gruppo clandestino. Si trattava di ricchi stranieri che pagavano cifre elevate per avere la possibilità di sparare contro gli abitanti della Sarajevo assediata.",
-    "title_en": "Sarajevo Safari",
-    "overview_en": "Among the many dramatic episodes of the siege of Sarajevo in the years 1992 to 1996, the story of a human safari has remained concealed from the public eye. Few people knew that those fighting the war on the Serbian side were not only the Bosnian Serb Army, volunteers and mercenaries but also a small, clandestine group: wealthy foreigners who paid high fees for the chance to shoot at the residents of the city under siege.",
-    "runtime": 75,
-    "director": "Miran Zupanič",
+    "tmdb_id": 42299,
+    "title": "Lavori in corso",
+    "original_title": "Busy Bodies",
+    "italian_title": "Lavori in corso",
+    "year": 1933,
+    "poster_path": "/oEA8Q3NRduh3JbuHNJJ34k3mIlu.jpg",
+    "overview": "Stanlio e Ollio sono due falegnami, che si dirigono a lavoro con la loro nuova automobile ricavata dalla vendita del loro vecchio negozio. Dopo aver volutamente fatto uno scherzo ad un operaio inizieranno a combinare dei memorabili disastri che lo offenderanno fin tutto il filmato, finendo per esser costretti a fuggire, inseguiti anche dal proprietario, con la loro macchina tagliandola accidentalmente a metà passando attraverso una grossa sega automatica.",
+    "title_en": "Busy Bodies",
+    "overview_en": "In this short film, Laurel and Hardy wage battle with inanimate objects, their co-workers, and the laws of physics during a routine work day at a sawmill.",
+    "runtime": 19,
+    "director": "Lloyd French",
     "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 92432,
-    "title": "Vaghe stelle dell'Orsa...",
-    "original_title": "Vaghe stelle dell'Orsa...",
-    "italian_title": "Vaghe stelle dell'Orsa...",
-    "year": 1965,
-    "poster_path": "/usLsMyLnF9o6pInfc32VDzpU9iY.jpg",
-    "overview": "Di ritorno a Volterra, sua città natale, una donna sposata è assalita dai fantasmi del passato. Sulla famiglia pesano diverse tragedie, tra le quali la morte del padre, ebreo, deportato dai nazisti in un campo di concentramento. La donna è accusata dal patrigno di aver denunciato il genitore e di aver avuto rapporti incestuosi col fratello. Lei, abbandonata dal marito, tronca ogni legame con i suoi, il fratello, disperato, si suicida.",
-    "title_en": "Sandra",
-    "overview_en": "Sandra returns to her hometown to take care of family business, but childhood memories and secrets soon overcome her.",
-    "runtime": 105,
-    "director": "Luchino Visconti",
-    "genres": [
-      "Dramma",
-      "Mistero"
-    ]
-  },
-  {
-    "tmdb_id": 1368337,
-    "title": "Odissea",
-    "original_title": "The Odyssey",
-    "italian_title": "Odissea",
-    "year": 2026,
-    "poster_path": "/5S4U3gM7N17ni028LJhO60zfcKJ.jpg",
-    "overview": "Ulisse, il leggendario re greco di Itaca, intraprende un lungo e pericoloso viaggio verso casa dopo la guerra di Troia, raccontando i suoi incontri con esseri mitici come il ciclope Polifemo, le Sirene e la dea strega Circe.",
-    "title_en": "The Odyssey",
-    "overview_en": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "runtime": 172,
-    "director": "Christopher Nolan",
-    "genres": [
-      "Avventura",
-      "Azione",
-      "Fantasy"
-    ]
-  },
-  {
-    "tmdb_id": 1164862,
-    "title": "Agent of Happiness - Il Bhutan e la felicità",
-    "original_title": "དགའ་བའི་འབྱུང་གནས།",
-    "italian_title": "Agent of Happiness - Il Bhutan e la felicità",
-    "year": 2024,
-    "poster_path": "/j68VOC5X1EbwK2B5MQ9es19Hxf0.jpg",
-    "overview": "Documentario che segue l'inchiesta di Amber (Amber Kumar Gurung) sulla felicità nel suo Paese, il Bhutan. Da quando è stato inventato un metodo per calcolare la Felicità Nazionale Lorda, ci sono degli agenti specializzati che viaggiano in lungo e in largo bussando alle porte della gente per calcolare il loro livello di felicità. Amber è un quarantenne che vive con sua madre e che sogna un giorno di trovare il grande amore. La sua natura di sognatore lo ha spinto a intraprendere questa professione. Accompagnato dall'agente della felicità Guna Raj Kuikel, Amber incontra persone di ogni età e estrazione sociale. Incontri che svelano la profondità e la fragilità dell'animo umano, in Bhutan come in qualsiasi altro luogo al mondo.",
-    "title_en": "Agent of Happiness",
-    "overview_en": "The documentary team follows two happiness agents in their forties who spend a month and a half on the road twice a year, going door-to-door with their questionnaires in isolated villages in the Himalayas. The filmmakers undertake to provide an intimate insight into the daily lives and desires of Bhutanese people, and also seek the answer to the universal question of whether happiness can really be measured. Gross National Happiness promises a heart-warming journey into a mysterious, fairytale-like world, which is the exact opposite of the social order dominated by consumption and desires.",
-    "runtime": 93,
-    "director": "Dorottya Zurbo, Arun Bhattarai",
-    "genres": [
-      "Documentario"
+      "Commedia"
     ]
   },
   {
@@ -257,6 +171,22 @@
     ]
   },
   {
+    "tmdb_id": 1164862,
+    "title": "Agent of Happiness - Il Bhutan e la felicità",
+    "original_title": "དགའ་བའི་འབྱུང་གནས།",
+    "italian_title": "Agent of Happiness - Il Bhutan e la felicità",
+    "year": 2024,
+    "poster_path": "/j68VOC5X1EbwK2B5MQ9es19Hxf0.jpg",
+    "overview": "Documentario che segue l'inchiesta di Amber (Amber Kumar Gurung) sulla felicità nel suo Paese, il Bhutan. Da quando è stato inventato un metodo per calcolare la Felicità Nazionale Lorda, ci sono degli agenti specializzati che viaggiano in lungo e in largo bussando alle porte della gente per calcolare il loro livello di felicità. Amber è un quarantenne che vive con sua madre e che sogna un giorno di trovare il grande amore. La sua natura di sognatore lo ha spinto a intraprendere questa professione. Accompagnato dall'agente della felicità Guna Raj Kuikel, Amber incontra persone di ogni età e estrazione sociale. Incontri che svelano la profondità e la fragilità dell'animo umano, in Bhutan come in qualsiasi altro luogo al mondo.",
+    "title_en": "Agent of Happiness",
+    "overview_en": "The documentary team follows two happiness agents in their forties who spend a month and a half on the road twice a year, going door-to-door with their questionnaires in isolated villages in the Himalayas. The filmmakers undertake to provide an intimate insight into the daily lives and desires of Bhutanese people, and also seek the answer to the universal question of whether happiness can really be measured. Gross National Happiness promises a heart-warming journey into a mysterious, fairytale-like world, which is the exact opposite of the social order dominated by consumption and desires.",
+    "runtime": 93,
+    "director": "Dorottya Zurbo, Arun Bhattarai",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
     "tmdb_id": 639988,
     "title": "No Other Choice - Non c'è altra scelta",
     "original_title": "어쩔수가없다",
@@ -272,6 +202,24 @@
       "Commedia",
       "Crime",
       "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1368337,
+    "title": "Odissea",
+    "original_title": "The Odyssey",
+    "italian_title": "Odissea",
+    "year": 2026,
+    "poster_path": "/5S4U3gM7N17ni028LJhO60zfcKJ.jpg",
+    "overview": "Ulisse, il leggendario re greco di Itaca, intraprende un lungo e pericoloso viaggio verso casa dopo la guerra di Troia, raccontando i suoi incontri con esseri mitici come il ciclope Polifemo, le Sirene e la dea strega Circe.",
+    "title_en": "The Odyssey",
+    "overview_en": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "runtime": 172,
+    "director": "Christopher Nolan",
+    "genres": [
+      "Avventura",
+      "Azione",
+      "Fantasy"
     ]
   },
   {
@@ -462,6 +410,23 @@
       "Guerra",
       "Dramma",
       "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 92432,
+    "title": "Vaghe stelle dell'Orsa...",
+    "original_title": "Vaghe stelle dell'Orsa...",
+    "italian_title": "Vaghe stelle dell'Orsa...",
+    "year": 1965,
+    "poster_path": "/usLsMyLnF9o6pInfc32VDzpU9iY.jpg",
+    "overview": "Di ritorno a Volterra, sua città natale, una donna sposata è assalita dai fantasmi del passato. Sulla famiglia pesano diverse tragedie, tra le quali la morte del padre, ebreo, deportato dai nazisti in un campo di concentramento. La donna è accusata dal patrigno di aver denunciato il genitore e di aver avuto rapporti incestuosi col fratello. Lei, abbandonata dal marito, tronca ogni legame con i suoi, il fratello, disperato, si suicida.",
+    "title_en": "Sandra",
+    "overview_en": "Sandra returns to her hometown to take care of family business, but childhood memories and secrets soon overcome her.",
+    "runtime": 105,
+    "director": "Luchino Visconti",
+    "genres": [
+      "Dramma",
+      "Mistero"
     ]
   },
   {
@@ -777,6 +742,24 @@
     ]
   },
   {
+    "tmdb_id": 88395,
+    "title": "Estate violenta",
+    "original_title": "Estate violenta",
+    "italian_title": "Estate violenta",
+    "year": 1959,
+    "poster_path": "/2KIqfnIDoF2xe3YrReuRMmisFKs.jpg",
+    "overview": "Alla fine della Seconda guerra mondiale sboccia l'amore tra il figlio di un gerarca fascista e la vedova di un ufficiale di marina in una località costiera italiana.",
+    "title_en": "Violent Summer",
+    "overview_en": "Summer, 1943: wealthy youth in the Riccione district of Rimini play while the war gets closer. Carlo Caremoli, a young man who follows the crowd, has found ways to avoid military service. Then, on the beach, he meets Roberta, a war widow with a child. Roberta's mother warns Roberta to avoid Carlo, but to her, he seems attentive and to her daughter he is kind. Romance develops. Within a few weeks, Roberta is risking everything. Can there be a resolution between passion, on the one hand, and war, duty, and social expectation on the other?",
+    "runtime": 98,
+    "director": "Valerio Zurlini",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "Guerra"
+    ]
+  },
+  {
     "tmdb_id": 1275779,
     "title": "Disclosure Day",
     "original_title": "Disclosure Day",
@@ -965,19 +948,21 @@
     ]
   },
   {
-    "tmdb_id": 1399462,
-    "title": "Calle Málaga",
-    "original_title": "Calle Málaga",
-    "italian_title": "Calle Málaga",
+    "tmdb_id": 1140498,
+    "title": "È l’ultima battuta?",
+    "original_title": "Is This Thing On?",
+    "italian_title": "È l’ultima battuta?",
     "year": 2025,
-    "poster_path": "/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
-    "overview": null,
-    "title_en": "Calle Malaga",
-    "overview_en": "Maria Angeles, a 79-year-old Spanish woman, lives alone in Tangier, Morocco, and enjoys her daily routine. However, her life is turned upside down when her daughter arrives from Madrid to sell the apartment in which she has always lived. Determined to stay, she does everything she can to get her home and her belongings back and, unexpectedly, rediscovers love and sensuality.",
-    "runtime": 116,
-    "director": "Maryam Touzani",
+    "poster_path": "/duMlNVMT2Xtexc0tg93tstcJPoA.jpg",
+    "overview": "Alex (Will Arnett) affronta la crisi di mezza età e un imminente divorzio, in cerca di un nuovo inizio nel mondo della stand-up comedy newyorkese, mentre Tess (Laura Dern) riflette sui sacrifici fatti per la famiglia. I due dovranno confrontarsi con la gestione condivisa dei figli, la propria identità e la possibilità che l’amore possa assumere una nuova forma.",
+    "title_en": "Is This Thing On?",
+    "overview_en": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confronts the sacrifices she made for their family—forcing them to navigate co-parenting, identity, and whether love can take a new form.",
+    "runtime": 121,
+    "director": "Bradley Cooper",
     "genres": [
-      "Dramma"
+      "Commedia",
+      "Dramma",
+      "Romance"
     ]
   },
   {
@@ -995,6 +980,22 @@
     "genres": [
       "Commedia",
       "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 1399462,
+    "title": "Calle Málaga",
+    "original_title": "Calle Málaga",
+    "italian_title": "Calle Málaga",
+    "year": 2025,
+    "poster_path": "/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
+    "overview": null,
+    "title_en": "Calle Malaga",
+    "overview_en": "Maria Angeles, a 79-year-old Spanish woman, lives alone in Tangier, Morocco, and enjoys her daily routine. However, her life is turned upside down when her daughter arrives from Madrid to sell the apartment in which she has always lived. Determined to stay, she does everything she can to get her home and her belongings back and, unexpectedly, rediscovers love and sensuality.",
+    "runtime": 116,
+    "director": "Maryam Touzani",
+    "genres": [
+      "Dramma"
     ]
   },
   {
@@ -1031,6 +1032,41 @@
     "genres": [
       "Dramma",
       "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 2011,
+    "title": "Persepolis",
+    "original_title": "Persepolis",
+    "italian_title": "Persepolis",
+    "year": 2007,
+    "poster_path": "/dUvdyb2rkChGjDJELiuMXpChsqg.jpg",
+    "overview": "La storia di Marjane, una ragazza precoce e ribelle che, cresciuta portando scarpe da ginnastica e giocando alla lotta con i maschietti, si trova costretta ad affrontare, dall'infanzia all'età adulta,  drastici cambiamenti delle proprie abitudini di vita imposti prima dalla monarchia dello Scià e poi dal regime degli ayatollah, fino alla sua partenza per l'Europa.",
+    "title_en": "Persepolis",
+    "overview_en": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
+    "runtime": 95,
+    "director": "Vincent Paronnaud, Marjane Satrapi",
+    "genres": [
+      "Animazione",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1254808,
+    "title": "Nouvelle Vague",
+    "original_title": "Nouvelle Vague",
+    "italian_title": "Nouvelle Vague",
+    "year": 2025,
+    "poster_path": "/h2vLjnuZHC4LGqEodpzyNNMEios.jpg",
+    "overview": "1959. La nouvelle vague impazza a Parigi e i primi film girati dai suoi esponenti François Truffaut e Claude Chabrol raccolgono un plauso unanime. Manca solo a Jean-Luc Godard di passare dietro la macchina da presa, ma si convince a farlo e trova l'aiuto del produttore Beauregarde. Ne nascerà \"Fino all'ultimo respiro\", film-simbolo della corrente, destinato a cambiare per sempre la storia del cinema.",
+    "title_en": "Nouvelle Vague",
+    "overview_en": "After writing for Cahiers du cinéma, a young Jean-Luc Godard decides making films is the best film criticism. He convinces producer Georges de Beauregard to fund a low-budget feature, and creates a treatment with fellow New Wave filmmaker François Truffaut about a gangster couple. The result? Breathless, one of the first features of the Nouvelle Vague era of French cinema.",
+    "runtime": 106,
+    "director": "Richard Linklater",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Storia"
     ]
   },
   {
@@ -1085,19 +1121,20 @@
     ]
   },
   {
-    "tmdb_id": 1315657,
-    "title": "Yellow Letters",
-    "original_title": "Gelbe Briefe",
-    "italian_title": "Yellow Letters",
-    "year": 2026,
-    "poster_path": "/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
-    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
-    "title_en": "Yellow Letters",
-    "overview_en": "The marriage of Derya and Aziz is under pressure after losing their jobs because of state arbitrariness and moving to Istanbul to live with Aziz's parents. They and their 13-year-old daughter Ezgi have to redefine their way of life.",
-    "runtime": 128,
-    "director": "İlker Çatak",
+    "tmdb_id": 25050,
+    "title": "Still Walking - Camminando in un giorno d'estate",
+    "original_title": "歩いても 歩いても",
+    "italian_title": "Still Walking - Camminando in un giorno d'estate",
+    "year": 2008,
+    "poster_path": "/8ubHo1bokxUKHZxOAUTYzK65CbR.jpg",
+    "overview": "Fratello e sorella vanno in visita dagli anziani genitori nella casa nella quale hanno vissuto per decenni, per commemorare la tragica morte del fratello più vecchio avvenuta in un incidente quindici anni prima. A dispetto della comodità della grande casa che ospita tutti, i cambiamenti intervenuti nella vita dei familiari riuniti ridefiniscono le relazioni facendo emergere un caleidoscopio di sentimenti che vanno dall'amore al risentimento.",
+    "title_en": "Still Walking",
+    "overview_en": "A family gathers together for a commemorative ritual whose nature only gradually becomes clear.",
+    "runtime": 114,
+    "director": "是枝裕和",
     "genres": [
-      "Dramma"
+      "Dramma",
+      "Famiglia"
     ]
   },
   {
@@ -1154,6 +1191,23 @@
     ]
   },
   {
+    "tmdb_id": 1493024,
+    "title": "Il Bene Comune",
+    "original_title": "Il Bene Comune",
+    "italian_title": "Il Bene Comune",
+    "year": 2026,
+    "poster_path": "/nUMekW0Zs12SniJuo1L1V9OypUd.jpg",
+    "overview": "Una guida turistica e un’attrice di “insuccesso” accompagnano quattro detenute sul massiccio del Pollino, alla ricerca del secolare Pino Loricato, simbolo di resilienza. Il cammino diventa presto un viaggio di trasformazione, fatto di incontri e cambiamenti, scandito da una musica che prende forma passo dopo passo, fino a diventare una voce collettiva capace di tenere insieme corpi, emozioni e storie diverse. In una natura dura e bellissima, attraversata da una solidarietà inattesa, emergono frammenti di vite complesse, ferite ancora aperte e il bisogno profondo di essere viste e ascoltate. Parlare, cantare, dare un nome a ciò che si è vissuto diventa un modo per sciogliere tensioni e ritrovare un senso di appartenenza, almeno finché un evento improvviso non rimette tutto in discussione. Perché, a volte, raccontarsi è già un primo passo verso qualcosa di più grande.",
+    "title_en": "Il Bene Comune",
+    "overview_en": "A tour guide and a failed actress accompany four inmates to the Pollino massif, in search of the centuries-old Bosnian pine, a symbol of resilience. The journey quickly becomes a journey of transformation, filled with encounters and changes, punctuated by a music that takes shape step by step, becoming a collective voice capable of bringing together diverse bodies, emotions, and stories. In a harsh yet beautiful landscape, punctuated by unexpected solidarity, fragments of complex lives emerge, along with open wounds and a profound need to be seen and heard. Talking, singing, and naming what has been experienced becomes a way to release tensions and rediscover a sense of belonging, at least until a sudden event calls everything into question. Because, sometimes, sharing one's story is already a first step toward something bigger.",
+    "runtime": 102,
+    "director": "Rocco Papaleo",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1708043,
     "title": "Election Day",
     "original_title": "Election Day",
@@ -1188,39 +1242,6 @@
     ]
   },
   {
-    "tmdb_id": 9364,
-    "title": "Cime tempestose",
-    "original_title": "Wuthering Heights",
-    "italian_title": "Cime tempestose",
-    "year": 2011,
-    "poster_path": "/7gEcoCve3lmPOIPRp54K73b6rDv.jpg",
-    "overview": "Yorkshire, Inghilterra settentrionale, alla fine del XVIII secolo, il giovane Heathcliff, salvato dalle strade di Liverpool dal signor Earnshaw, il proprietario di Wuthering Heights, una fattoria isolata, sviluppa negli anni una folle passione per Cathy, sua sorella adottiva, un'ossessione malata destinata a finire tragicamente.",
-    "title_en": "Wuthering Heights",
-    "overview_en": "Yorkshire moorlands, northern England, in the late 18th century. Young Heathcliff, rescued from the streets of Liverpool by Mr. Earnshaw, the owner of Wuthering Heights, an isolated farm, develops over the years an insane passion for Cathy, his foster sister, a sick obsession destined to end tragically.",
-    "runtime": 124,
-    "director": "Andrea Arnold",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 58089,
-    "title": "Gente di Roma",
-    "original_title": "Gente di Roma",
-    "italian_title": "Gente di Roma",
-    "year": 2003,
-    "poster_path": "/fLziEgc6viePMk9swenNZUbMsA7.jpg",
-    "overview": "Una giornata qualunque nella città eterna. Tanti piccoli frammenti di vita si susseguono in una carrellata di personaggi attraverso le storie dei quali, dalla tragedia alla commedia, Scola ci racconta la sua amata Roma. Il filo conduttore dei tanti episodi slegati tra loro è un autobus che percorre le strade della città, dall'alba al tramonto. Per scrivere storie interessanti bisognerebbe tornare a prendere il tram (o,nel caso presente, l'autobus) come suggeriva Zavattini? Forse sì, ma di certo bisognerebbe avere interesse a narrare: interesse che Scola non sembra avere più.",
-    "title_en": "People of Rome",
-    "overview_en": "Rome 2003, the camera follows citizens of Rome. Night, in a flat, a woman prepares her husband's lunch. The man takes a bus, but the camera follow another bus ... a woman cleans the mayor's office... A man interviews passengers on a bus about immigration...... the owner of a bar is racist person... a survivor woman of Holocaust remembers the Ghetto deportation... deportation that is filmed by a director... Stefania Sandrelli plays with her grand daughter in a park a man tries to seduce the bus driver...gay night life... sunrise at Piazza Navona, a noble man and a tramp are sitting together. - - - Gente di Roma is a 2003 Italian comedy mockumentary film directed by Ettore Scola. It is close to Federico Fellini's Roma. The film is dedicated to Alberto Sordi, who Scola wanted to close the film, as a noble man, but he could not film him because he died. Scola's daughters helped to co-write the script. (From Wikipedia, the free encyclopedia)",
-    "runtime": 100,
-    "director": "Ettore Scola",
-    "genres": [
-      "Commedia"
-    ]
-  },
-  {
     "tmdb_id": 1314481,
     "title": "Il diavolo veste Prada 2",
     "original_title": "The Devil Wears Prada 2",
@@ -1252,6 +1273,23 @@
     "genres": [
       "Musica",
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 9364,
+    "title": "Cime tempestose",
+    "original_title": "Wuthering Heights",
+    "italian_title": "Cime tempestose",
+    "year": 2011,
+    "poster_path": "/7gEcoCve3lmPOIPRp54K73b6rDv.jpg",
+    "overview": "Yorkshire, Inghilterra settentrionale, alla fine del XVIII secolo, il giovane Heathcliff, salvato dalle strade di Liverpool dal signor Earnshaw, il proprietario di Wuthering Heights, una fattoria isolata, sviluppa negli anni una folle passione per Cathy, sua sorella adottiva, un'ossessione malata destinata a finire tragicamente.",
+    "title_en": "Wuthering Heights",
+    "overview_en": "Yorkshire moorlands, northern England, in the late 18th century. Young Heathcliff, rescued from the streets of Liverpool by Mr. Earnshaw, the owner of Wuthering Heights, an isolated farm, develops over the years an insane passion for Cathy, his foster sister, a sick obsession destined to end tragically.",
+    "runtime": 124,
+    "director": "Andrea Arnold",
+    "genres": [
+      "Dramma",
+      "Romance"
     ]
   },
   {
@@ -1609,41 +1647,6 @@
     ]
   },
   {
-    "tmdb_id": 1254808,
-    "title": "Nouvelle Vague",
-    "original_title": "Nouvelle Vague",
-    "italian_title": "Nouvelle Vague",
-    "year": 2025,
-    "poster_path": "/h2vLjnuZHC4LGqEodpzyNNMEios.jpg",
-    "overview": "1959. La nouvelle vague impazza a Parigi e i primi film girati dai suoi esponenti François Truffaut e Claude Chabrol raccolgono un plauso unanime. Manca solo a Jean-Luc Godard di passare dietro la macchina da presa, ma si convince a farlo e trova l'aiuto del produttore Beauregarde. Ne nascerà \"Fino all'ultimo respiro\", film-simbolo della corrente, destinato a cambiare per sempre la storia del cinema.",
-    "title_en": "Nouvelle Vague",
-    "overview_en": "After writing for Cahiers du cinéma, a young Jean-Luc Godard decides making films is the best film criticism. He convinces producer Georges de Beauregard to fund a low-budget feature, and creates a treatment with fellow New Wave filmmaker François Truffaut about a gangster couple. The result? Breathless, one of the first features of the Nouvelle Vague era of French cinema.",
-    "runtime": 106,
-    "director": "Richard Linklater",
-    "genres": [
-      "Commedia",
-      "Dramma",
-      "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1493024,
-    "title": "Il Bene Comune",
-    "original_title": "Il Bene Comune",
-    "italian_title": "Il Bene Comune",
-    "year": 2026,
-    "poster_path": "/nUMekW0Zs12SniJuo1L1V9OypUd.jpg",
-    "overview": "Una guida turistica e un’attrice di “insuccesso” accompagnano quattro detenute sul massiccio del Pollino, alla ricerca del secolare Pino Loricato, simbolo di resilienza. Il cammino diventa presto un viaggio di trasformazione, fatto di incontri e cambiamenti, scandito da una musica che prende forma passo dopo passo, fino a diventare una voce collettiva capace di tenere insieme corpi, emozioni e storie diverse. In una natura dura e bellissima, attraversata da una solidarietà inattesa, emergono frammenti di vite complesse, ferite ancora aperte e il bisogno profondo di essere viste e ascoltate. Parlare, cantare, dare un nome a ciò che si è vissuto diventa un modo per sciogliere tensioni e ritrovare un senso di appartenenza, almeno finché un evento improvviso non rimette tutto in discussione. Perché, a volte, raccontarsi è già un primo passo verso qualcosa di più grande.",
-    "title_en": "Il Bene Comune",
-    "overview_en": "A tour guide and a failed actress accompany four inmates to the Pollino massif, in search of the centuries-old Bosnian pine, a symbol of resilience. The journey quickly becomes a journey of transformation, filled with encounters and changes, punctuated by a music that takes shape step by step, becoming a collective voice capable of bringing together diverse bodies, emotions, and stories. In a harsh yet beautiful landscape, punctuated by unexpected solidarity, fragments of complex lives emerge, along with open wounds and a profound need to be seen and heard. Talking, singing, and naming what has been experienced becomes a way to release tensions and rediscover a sense of belonging, at least until a sudden event calls everything into question. Because, sometimes, sharing one's story is already a first step toward something bigger.",
-    "runtime": 102,
-    "director": "Rocco Papaleo",
-    "genres": [
-      "Commedia",
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1508701,
     "title": "...che Dio perdona a tutti",
     "original_title": "...che Dio perdona a tutti",
@@ -1960,23 +1963,6 @@
     ]
   },
   {
-    "tmdb_id": 24128,
-    "title": "Talking Heads - Stop Making Sense",
-    "original_title": "Stop Making Sense",
-    "italian_title": "Talking Heads - Stop Making Sense",
-    "year": 1984,
-    "poster_path": "/mDCCtRTbMzvblwPk7FmW8xrjW2O.jpg",
-    "overview": "Nel dicembre 1983 i Talking Heads si esibiscono al Pantages Theater di Hollywood. Jonathan Demme riprende il concerto e lo trasforma in un evento cinematografico (è il primo film musicale a impiegare la registrazione digitale in presa diretta) dove le canzoni della band newyorkese si fondono a una scenografia sviluppata in movimento. David Byrne è il primo a entrare in scena.\r Edizione da collezione per il 40° anniversario di Stop Making Sense disponibile in Blu-ray HD standard o 4K UHD con HDR, suono in Dolby Atmos e mix stereo originali del 1984.\r Con il taglio cinematografico appena restaurato e remixato, un opuscolo interno di 64 pagine con fotografie inedite, documenti di produzione d'archivio, prefazione di Jerry Harrison e altro ancora.",
-    "title_en": "Stop Making Sense",
-    "overview_en": "A concert film documenting Talking Heads at the height of their popularity, on tour for their 1983 album \"Speaking in Tongues.\" The band takes the stage one by one and is joined by a cadre of guest musicians for a career-spanning and cinematic performance that features creative choreography and visuals.",
-    "runtime": 88,
-    "director": "Jonathan Demme",
-    "genres": [
-      "Documentario",
-      "Musica"
-    ]
-  },
-  {
     "tmdb_id": 1577457,
     "title": "Franco Battiato: Il lungo viaggio",
     "original_title": "Franco Battiato: Il lungo viaggio",
@@ -2011,6 +1997,24 @@
     ]
   },
   {
+    "tmdb_id": 1083381,
+    "title": "Backrooms",
+    "original_title": "Backrooms",
+    "italian_title": "Backrooms",
+    "year": 2026,
+    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
+    "title_en": "Backrooms",
+    "overview_en": "A strange doorway appears in the basement of a furniture showroom.",
+    "runtime": 111,
+    "director": "Kane Parsons",
+    "genres": [
+      "Horror",
+      "Mistero",
+      "Fantascienza"
+    ]
+  },
+  {
     "tmdb_id": 56798,
     "title": "Il mestiere delle armi",
     "original_title": "Il mestiere delle armi",
@@ -2026,6 +2030,23 @@
       "Dramma",
       "Storia",
       "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 1693400,
+    "title": "2 Big to Rig",
+    "original_title": "2 Big to Rig",
+    "italian_title": "2 Big to Rig",
+    "year": 2026,
+    "poster_path": "/nZnCOQNa4UcBNGjqbw12HPIFqBY.jpg",
+    "overview": null,
+    "title_en": "2 Big to Rig",
+    "overview_en": "Captured live over the course of GHOST’s two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX® in select locations.  Featuring the only pro-shot footage of Papa V Perpetua and his band of Nameless Ghouls from the phone-free SKELETOUR, 2 BIG TO RIG immerses the audience in the GHOST live ritual, including exclusive behind-the-scenes and backstage access.  2 BIG TO RIG was created to share the SKELETOUR experience with the faithful in the territories where staging the show was not logistically feasible — and is a love letter to all those who have shared the GHOST ritual.  Shot on 16mm film, GHOST has never looked or sounded better, ripping through material from the band's six albums — including 2025’s global #1 SKELETÁ as well as non-LP favorites including “Mary On A Cross,” “Kiss the Go-Goat,” and “The Future is a Foreign Land.”",
+    "runtime": 115,
+    "director": "Amir Juan Chamdin, Jim Parsons",
+    "genres": [
+      "Musica",
+      "Documentario"
     ]
   },
   {
@@ -2063,23 +2084,6 @@
     ]
   },
   {
-    "tmdb_id": 1279865,
-    "title": "A New Dawn",
-    "original_title": "花緑青が明ける日に",
-    "italian_title": "A New Dawn",
-    "year": 2026,
-    "poster_path": "/a105UQIL5lblYEeYOtyrsCCjfjO.jpg",
-    "overview": "La Obito Fireworks, una fabbrica di fuochi d’artificio situata in una lussureggiante foresta, sta affrontando lo sfratto a causa della riqualificazione della città. Keitaro Tatewaki si è rintanato lì da quattro anni, dedicandosi alla produzione di fuochi d’artificio per completare il fantasma “Shuhari” al posto del padre scomparso. Nel frattempo, la sua amica d’infanzia Kaoru, che dopo un certo incidente ha lasciato la sua città natale, vive a Tokyo. Ma con l’avvicinarsi della data dello sfratto, fa visita alla famiglia Tatewaki. I due si incontrano di nuovo e escogitano un piano sorprendente per scoprire il segreto dei fuochi d’artificio perduti. La chiave è un bellissimo pigmento blu chiamato “verderame floreale",
-    "title_en": "A New Dawn",
-    "overview_en": "The Obinata Fireworks Shop factory is getting prepared for an administrative action for confiscation tomorrow. It has been six years since Keitaro has been holed up in a closed-down factory creating fireworks by himself, chasing after an illusion of his father who vanished. It is a story about three young people who overcome the extreme weather conditions, disasters and environmental problems imposed on them and establish their own identities.",
-    "runtime": 75,
-    "director": "四宮義俊",
-    "genres": [
-      "Animazione",
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1722720,
     "title": "ATEEZ: LIGHT THE WAY IN CINEMAS",
     "original_title": "ATEEZ: LIGHT THE WAY IN CINEMAS",
@@ -2094,20 +2098,19 @@
     "genres": []
   },
   {
-    "tmdb_id": 426063,
-    "title": "Nosferatu",
-    "original_title": "Nosferatu",
-    "italian_title": "Nosferatu",
-    "year": 2024,
-    "poster_path": "/1SftujfE9iqZpGJfnREO4IBeeqV.jpg",
-    "overview": "Una racconto gotico sull'ossessione tra una giovane donna tormentata e il terrificante vampiro che si è infatuato di lei, provocando un indicibile orrore.",
-    "title_en": "Nosferatu",
-    "overview_en": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
-    "runtime": 132,
-    "director": "Robert Eggers",
+    "tmdb_id": 1430077,
+    "title": "Hokum",
+    "original_title": "Hokum",
+    "italian_title": "Hokum",
+    "year": 2026,
+    "poster_path": "/x6rHcQFiYcczLQPrmxXPAicm54E.jpg",
+    "overview": "Quando lo scrittore Ohm Bauman si ritira in una locanda isolata per spargere le ceneri dei suoi genitori, viene ossessionato dai racconti di una strega che infesta la suite nuziale. Visioni inquietanti e una scioccante scomparsa lo costringono a confrontarsi con gli angoli oscuri del suo passato.",
+    "title_en": "Hokum",
+    "overview_en": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+    "runtime": 108,
+    "director": "Damian McCarthy",
     "genres": [
-      "Horror",
-      "Fantasy"
+      "Horror"
     ]
   },
   {
