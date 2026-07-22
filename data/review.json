@@ -1,17 +1,10 @@
 [
   {
-    "raw_title": "THE ODYSSEY - ODISSEA",
-    "tmdb_id": 42853,
-    "matched_title": "Odissea",
+    "raw_title": "JOINT SECURITY AREA",
+    "tmdb_id": 2440,
+    "matched_title": "J.S.A. - Joint Security Area",
     "method": "ai",
-    "confidence": 95.0
-  },
-  {
-    "raw_title": "NO OTHER CHOICE",
-    "tmdb_id": 639988,
-    "matched_title": "No Other Choice - Non c'è altra scelta",
-    "method": "ai",
-    "confidence": 95.0
+    "confidence": 100.0
   },
   {
     "raw_title": "V.O. SOTT ITA - AGENT OF HAPPINESS",
@@ -19,6 +12,13 @@
     "matched_title": "Agent of Happiness - Il Bhutan e la felicità",
     "method": "ai",
     "confidence": 95.0
+  },
+  {
+    "raw_title": "A CENA CON IL DITTATORE (LA CENA)",
+    "tmdb_id": 1433680,
+    "matched_title": "A cena con il dittatore",
+    "method": "ai",
+    "confidence": 100.0
   },
   {
     "raw_title": "COS'E' L'AMORE (C'EST QUOI L'AMOUR)",
@@ -49,13 +49,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "NON BUSSARE ALLA MIA PORTA (DON'T COME KNOCKING)",
-    "tmdb_id": 3527,
-    "matched_title": "Non bussare alla mia porta",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "L'AMICO AMERICANO (DER AMERIKANISCHE FREUND)",
     "tmdb_id": 11222,
     "matched_title": "L'amico americano",
@@ -77,18 +70,18 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
-    "tmdb_id": 1314481,
-    "matched_title": "Il diavolo veste Prada 2",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "CIME TEMPESTOSE (WUTHERING HEIGHTS) - V. O.",
     "tmdb_id": 9364,
     "matched_title": "Cime tempestose",
     "method": "ai",
     "confidence": 95.0
+  },
+  {
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "tmdb_id": 1314481,
+    "matched_title": "Il diavolo veste Prada 2",
+    "method": "ai",
+    "confidence": 100.0
   },
   {
     "raw_title": "UN INVERNO IN COREA (HIVER A SOKCO)",
@@ -182,13 +175,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "Francesco Guccini: Fra La Via Emilia E..",
-    "tmdb_id": 1305782,
-    "matched_title": "Francesco Guccini - Fra la Via Emilia e il West",
-    "method": "fuzzy",
-    "confidence": 90.2439024390244
-  },
-  {
     "raw_title": "(O.V.) The Odissey",
     "tmdb_id": 1368337,
     "matched_title": "Odissea",
@@ -206,6 +192,13 @@
     "raw_title": "Backrooms - Everything Must Go Edition",
     "tmdb_id": 1083381,
     "matched_title": "Backrooms",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "Oceania (2026) Sing Along",
+    "tmdb_id": 1108427,
+    "matched_title": "Oceania",
     "method": "ai",
     "confidence": 100.0
   }

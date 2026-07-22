@@ -23,6 +23,10 @@
     "title": "",
     "year": null
   },
+  "::extract::(xl) ultimo - tutto. live a tor vergata": {
+    "title": "",
+    "year": null
+  },
   "::extract::a forbidden distance": {
     "title": "A FORBIDDEN DISTANCE",
     "year": null
@@ -183,6 +187,10 @@
     "title": "Notorious Cult",
     "year": null
   },
+  "::extract::oceania (2026) sing along": {
+    "title": "Oceania",
+    "year": 2026
+  },
   "::extract::omaggio a ennio morricone - mission": {
     "title": "",
     "year": null
@@ -236,6 +244,10 @@
     "year": null
   },
   "::extract::tipi diabolici - masterclass di adolfo ceretti": {
+    "title": "",
+    "year": null
+  },
+  "::extract::trolls 3-tutti insieme friendly autism": {
     "title": "",
     "year": null
   },
@@ -330,6 +342,10 @@
   "::extract::vivere, ridere, rallentare": {
     "title": "Vivere, Ridere, Rallentare",
     "year": null
+  },
+  "a cena con il dittatore la cena": {
+    "confidence": 100,
+    "tmdb_id": 1433680
   },
   "after life qual e il tuo ricordo": {
     "confidence": 100,
@@ -434,6 +450,10 @@
   "il silenzio degli altri sorda": {
     "confidence": 100,
     "tmdb_id": 1303613
+  },
+  "joint security area": {
+    "confidence": 100,
+    "tmdb_id": 2440
   },
   "keep calm": {
     "confidence": null,
@@ -594,6 +614,10 @@
   "tutto quello che resta di te all that s left of you": {
     "confidence": 95,
     "tmdb_id": 1219620
+  },
+  "ultimo tutto": {
+    "confidence": null,
+    "tmdb_id": null
   },
   "un inverno in corea hiver a sokcho": {
     "confidence": 100,
