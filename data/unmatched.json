@@ -1,5 +1,23 @@
 [
   {
+    "raw_title": "KEEP CALM",
+    "raw_year": null,
+    "cinema_id": "beltrade",
+    "occurrences": 4
+  },
+  {
+    "raw_title": "DUEMILA30 Productions - CORTOMETRAGGI DELL'EDIZIONE 2024",
+    "raw_year": null,
+    "cinema_id": "beltrade",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "DUEMILA30 Productions - CORTOMETRAGGI DELL'EDIZIONE 2025",
+    "raw_year": null,
+    "cinema_id": "beltrade",
+    "occurrences": 1
+  },
+  {
     "raw_title": "SONO ANDATA AL TANGERI A BALLARE",
     "raw_year": null,
     "cinema_id": "cineteca-arlecchino",
@@ -15,13 +33,19 @@
     "raw_title": "NO GOOD MEN",
     "raw_year": null,
     "cinema_id": "anteo",
-    "occurrences": 7
+    "occurrences": 5
   },
   {
     "raw_title": "BLUE",
     "raw_year": null,
     "cinema_id": "citylife-anteo",
     "occurrences": 12
+  },
+  {
+    "raw_title": "ULTIMO - TUTTO. LIVE A TOR VERGATA",
+    "raw_year": null,
+    "cinema_id": "citylife-anteo",
+    "occurrences": 9
   },
   {
     "raw_title": "CONCERTO: Spielberg, Williams e la musica dello spazio",
@@ -42,10 +66,16 @@
     "occurrences": 1
   },
   {
-    "raw_title": "SANTIAGO - UN CAMMINO PER RICOMINCIARE (COMPOSTELLE)",
+    "raw_title": "Ultimo - Tutto. Live A Tor Vergata",
     "raw_year": null,
-    "cinema_id": "arianteo-villareale",
-    "occurrences": 1
+    "cinema_id": "arcobaleno",
+    "occurrences": 18
+  },
+  {
+    "raw_title": "Ultimo - Tutto. Live A Tor Vergata",
+    "raw_year": null,
+    "cinema_id": "ducale",
+    "occurrences": 18
   },
   {
     "raw_title": "Deep Water - Incubo Dagli Abissi",
@@ -60,10 +90,22 @@
     "occurrences": 8
   },
   {
+    "raw_title": "Ultimo - Tutto. Live A Tor Vergata",
+    "raw_year": null,
+    "cinema_id": "colosseo",
+    "occurrences": 1
+  },
+  {
     "raw_title": "Vivere, Ridere, Rallentare",
     "raw_year": null,
     "cinema_id": "san-fedele",
     "occurrences": 1
+  },
+  {
+    "raw_title": "Deep Water - Incubo Dagli Abissi",
+    "raw_year": null,
+    "cinema_id": "notorious-gloria",
+    "occurrences": 6
   },
   {
     "raw_title": "(JP) A New Dawn",
@@ -90,12 +132,6 @@
     "occurrences": 26
   },
   {
-    "raw_title": "Il Mondo Oltre",
-    "raw_year": null,
-    "cinema_id": "uci-bicocca",
-    "occurrences": 1
-  },
-  {
     "raw_title": "Trolls 3-Tutti Insieme Friendly Autism",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
@@ -112,5 +148,23 @@
     "raw_year": null,
     "cinema_id": "cinelandia-certosa",
     "occurrences": 22
+  },
+  {
+    "raw_title": "Ultimo - Tutto.  Live A Tor Vergata",
+    "raw_year": null,
+    "cinema_id": "cinelandia-certosa",
+    "occurrences": 6
+  },
+  {
+    "raw_title": "DEEP WATER - INCUBO DAGLI ABISSI",
+    "raw_year": null,
+    "cinema_id": "notorious-merlata",
+    "occurrences": 4
+  },
+  {
+    "raw_title": "BLUE",
+    "raw_year": null,
+    "cinema_id": "notorious-merlata",
+    "occurrences": 3
   }
 ]
