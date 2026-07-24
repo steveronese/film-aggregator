@@ -91,13 +91,6 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "UN INVERNO IN COREA (HIVER A SOKCO)",
-    "tmdb_id": 1001010,
-    "matched_title": "Un inverno in Corea",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "ALLORA BALLIAMO (PARTIR UN JOUR)",
     "tmdb_id": 1277884,
     "matched_title": "Allora balliamo",
@@ -129,6 +122,13 @@
     "raw_title": "IL SENTIERO AZZURRO (O ÚLTIMO AZUL)",
     "tmdb_id": 1172265,
     "matched_title": "Il sentiero azzurro",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "UN INVERNO IN COREA (HIVER A SOKCO)",
+    "tmdb_id": 1001010,
+    "matched_title": "Un inverno in Corea",
     "method": "ai",
     "confidence": 100.0
   },
