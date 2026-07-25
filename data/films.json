@@ -1,37 +1,19 @@
 [
   {
-    "tmdb_id": 1339713,
-    "title": "Obsession",
-    "original_title": "Obsession",
-    "italian_title": "Obsession",
+    "tmdb_id": 1279865,
+    "title": "A New Dawn",
+    "original_title": "花緑青が明ける日に",
+    "italian_title": "A New Dawn",
     "year": 2026,
-    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
-    "title_en": "Obsession",
-    "overview_en": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "runtime": 108,
-    "director": "Curry Barker",
+    "poster_path": "/a105UQIL5lblYEeYOtyrsCCjfjO.jpg",
+    "overview": "La Obito Fireworks, una fabbrica di fuochi d’artificio situata in una lussureggiante foresta, sta affrontando lo sfratto a causa della riqualificazione della città. Keitaro Tatewaki si è rintanato lì da quattro anni, dedicandosi alla produzione di fuochi d’artificio per completare il fantasma “Shuhari” al posto del padre scomparso. Nel frattempo, la sua amica d’infanzia Kaoru, che dopo un certo incidente ha lasciato la sua città natale, vive a Tokyo. Ma con l’avvicinarsi della data dello sfratto, fa visita alla famiglia Tatewaki. I due si incontrano di nuovo e escogitano un piano sorprendente per scoprire il segreto dei fuochi d’artificio perduti. La chiave è un bellissimo pigmento blu chiamato “verderame floreale",
+    "title_en": "A New Dawn",
+    "overview_en": "The Obinata Fireworks Shop factory is getting prepared for an administrative action for confiscation tomorrow. It has been six years since Keitaro has been holed up in a closed-down factory creating fireworks by himself, chasing after an illusion of his father who vanished. It is a story about three young people who overcome the extreme weather conditions, disasters and environmental problems imposed on them and establish their own identities.",
+    "runtime": 75,
+    "director": "四宮義俊",
     "genres": [
-      "Horror",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 42853,
-    "title": "Odissea",
-    "original_title": "Odissea",
-    "italian_title": "Odissea",
-    "year": 1968,
-    "poster_path": "/orlKW4piaeA5UMTMqrQsQuOKl5w.jpg",
-    "overview": "Odissea è una miniserie televisiva co-prodotta da svariati Paesi nel 1968, basata sull'omonimo poema di Omero. Ne è stata distribuita una versione ridotta cinematografica dal titolo Le avventure di Ulisse.",
-    "title_en": "Odissea",
-    "overview_en": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
-    "runtime": 110,
-    "director": "Piero Schivazappa, Franco Rossi, Mario Bava",
-    "genres": [
-      "televisione film",
-      "Avventura",
-      "Storia"
+      "Animazione",
+      "Dramma"
     ]
   },
   {
@@ -53,6 +35,58 @@
     ]
   },
   {
+    "tmdb_id": 1370210,
+    "title": "Yalla Parkour",
+    "original_title": "يلّا باركور",
+    "italian_title": "Yalla Parkour",
+    "year": 2024,
+    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
+    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
+    "title_en": "Yalla Parkour",
+    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
+    "runtime": 89,
+    "director": "Areeb Zuaiter",
+    "genres": [
+      "Documentario",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 42853,
+    "title": "Odissea",
+    "original_title": "Odissea",
+    "italian_title": "Odissea",
+    "year": 1968,
+    "poster_path": "/orlKW4piaeA5UMTMqrQsQuOKl5w.jpg",
+    "overview": "Odissea è una miniserie televisiva co-prodotta da svariati Paesi nel 1968, basata sull'omonimo poema di Omero. Ne è stata distribuita una versione ridotta cinematografica dal titolo Le avventure di Ulisse.",
+    "title_en": "Odissea",
+    "overview_en": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
+    "runtime": 110,
+    "director": "Piero Schivazappa, Franco Rossi, Mario Bava",
+    "genres": [
+      "televisione film",
+      "Avventura",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1339713,
+    "title": "Obsession",
+    "original_title": "Obsession",
+    "italian_title": "Obsession",
+    "year": 2026,
+    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
+    "title_en": "Obsession",
+    "overview_en": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "runtime": 108,
+    "director": "Curry Barker",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 1563588,
     "title": "L'hangar rosso",
     "original_title": "Hangar Rojo",
@@ -68,40 +102,6 @@
       "Dramma",
       "Storia",
       "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1279865,
-    "title": "A New Dawn",
-    "original_title": "花緑青が明ける日に",
-    "italian_title": "A New Dawn",
-    "year": 2026,
-    "poster_path": "/a105UQIL5lblYEeYOtyrsCCjfjO.jpg",
-    "overview": "La Obito Fireworks, una fabbrica di fuochi d’artificio situata in una lussureggiante foresta, sta affrontando lo sfratto a causa della riqualificazione della città. Keitaro Tatewaki si è rintanato lì da quattro anni, dedicandosi alla produzione di fuochi d’artificio per completare il fantasma “Shuhari” al posto del padre scomparso. Nel frattempo, la sua amica d’infanzia Kaoru, che dopo un certo incidente ha lasciato la sua città natale, vive a Tokyo. Ma con l’avvicinarsi della data dello sfratto, fa visita alla famiglia Tatewaki. I due si incontrano di nuovo e escogitano un piano sorprendente per scoprire il segreto dei fuochi d’artificio perduti. La chiave è un bellissimo pigmento blu chiamato “verderame floreale",
-    "title_en": "A New Dawn",
-    "overview_en": "The Obinata Fireworks Shop factory is getting prepared for an administrative action for confiscation tomorrow. It has been six years since Keitaro has been holed up in a closed-down factory creating fireworks by himself, chasing after an illusion of his father who vanished. It is a story about three young people who overcome the extreme weather conditions, disasters and environmental problems imposed on them and establish their own identities.",
-    "runtime": 75,
-    "director": "四宮義俊",
-    "genres": [
-      "Animazione",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1370210,
-    "title": "Yalla Parkour",
-    "original_title": "يلّا باركور",
-    "italian_title": "Yalla Parkour",
-    "year": 2024,
-    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
-    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
-    "title_en": "Yalla Parkour",
-    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
-    "runtime": 89,
-    "director": "Areeb Zuaiter",
-    "genres": [
-      "Documentario",
-      "Dramma"
     ]
   },
   {
@@ -172,37 +172,20 @@
     ]
   },
   {
-    "tmdb_id": 1130402,
-    "title": "Terapia di famiglia",
-    "original_title": "Jamais sans mon psy",
-    "italian_title": "Terapia di famiglia",
-    "year": 2024,
-    "poster_path": "/cJUjUI1hyIlCax8GRmxIiaHxRFq.jpg",
-    "overview": "Cinque anni di psicoterapia non sono serviti ad alleviare l'ansia che mette a repentaglio la vita di Damien. Il dottor Beranger non lo sopporta più. Così lo caccia con una sfida terapeutica: trovare la donna della sua vita. E indovinate un po'? Ci riesce! Tre mesi dopo, la sua fidanzata Alice lo invita a casa dei suoi genitori, che stanno organizzando una grande festa per il loro trentesimo anniversario. Appena Damien e Alice arrivano, nulla va per il verso giusto. Ma la cosa peggiore è che il padre di Alice non è altri che il dottor Beranger in persona! Determinato a convincere sua figlia a rompere con Damien, il dottore non si fermerà davanti a nulla per rendergli la vita un inferno!",
-    "title_en": "Not Without My Shrink",
-    "overview_en": "A successful psychoanalyst's life is turned upside down by a very anxious and extremely clingy patient who starts dating his daughter.",
-    "runtime": 91,
-    "director": "Arnaud Lemort",
-    "genres": [
-      "Commedia",
-      "Famiglia"
-    ]
-  },
-  {
-    "tmdb_id": 24711,
-    "title": "Al di sopra di ogni sospetto",
-    "original_title": "Above Suspicion",
-    "italian_title": "Al di sopra di ogni sospetto",
-    "year": 1995,
-    "poster_path": "/8nLc5gGXs9UrGRuttNtwN118164.jpg",
-    "overview": "Dempsey, un tempo apprezzato e abile agente di polizia, dopo un tragico avvenimento è rimasto paralizzato e conduce una vita drammatica. Dalla carrozzina, non può far altro che assistere alla distruzione del suo mondo: gli amici, il lavoro, la famiglia. La moglie Gail ha un amante. E Dempsey decide di organizzare il delitto perfetto: contando sulla possibilità di non essere sospettato, perché disabile, l'ex poliziotto medita di uccidere sia Gail che il compagno.",
-    "title_en": "Above Suspicion",
-    "overview_en": "Dempsey Cain is an honored cop, a loving husband and father, and mentor to his handsome younger brother. Then a drug dealer's bullet paralyzes him for life and Dempsey's world is shattered. Suddenly, his wife and brother seem to care less about him than for each other, and a million-dollar insurance.",
-    "runtime": 95,
-    "director": "Steven Schachter",
+    "tmdb_id": 92432,
+    "title": "Vaghe stelle dell'Orsa...",
+    "original_title": "Vaghe stelle dell'Orsa...",
+    "italian_title": "Vaghe stelle dell'Orsa...",
+    "year": 1965,
+    "poster_path": "/usLsMyLnF9o6pInfc32VDzpU9iY.jpg",
+    "overview": "Di ritorno a Volterra, sua città natale, una donna sposata è assalita dai fantasmi del passato. Sulla famiglia pesano diverse tragedie, tra le quali la morte del padre, ebreo, deportato dai nazisti in un campo di concentramento. La donna è accusata dal patrigno di aver denunciato il genitore e di aver avuto rapporti incestuosi col fratello. Lei, abbandonata dal marito, tronca ogni legame con i suoi, il fratello, disperato, si suicida.",
+    "title_en": "Sandra",
+    "overview_en": "Sandra returns to her hometown to take care of family business, but childhood memories and secrets soon overcome her.",
+    "runtime": 105,
+    "director": "Luchino Visconti",
     "genres": [
       "Dramma",
-      "Thriller"
+      "Mistero"
     ]
   },
   {
@@ -222,41 +205,6 @@
     ]
   },
   {
-    "tmdb_id": 26648,
-    "title": "Il portiere di notte",
-    "original_title": "Il portiere di notte",
-    "italian_title": "Il portiere di notte",
-    "year": 1974,
-    "poster_path": "/mdhbiHwAFEldqGiAAusDzoMGxnT.jpg",
-    "overview": "Nel 1957 a Vienna, ex deportata, moglie di un direttore d'orchestra, riconosce nel portiere dell'albergo l'ufficiale delle SS di cui, giovanissima, era diventata l'oggetto sessuale in campo di concentramento, in un tortuoso rapporto sadomasochistico.",
-    "title_en": "The Night Porter",
-    "overview_en": "A concentration camp survivor discovers her former torturer and lover working as a porter at a hotel in postwar Vienna. When the couple attempt to re-create their sadomasochistic relationship, his former SS comrades begin to stalk them.",
-    "runtime": 115,
-    "director": "Liliana Cavani",
-    "genres": [
-      "Guerra",
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 92432,
-    "title": "Vaghe stelle dell'Orsa...",
-    "original_title": "Vaghe stelle dell'Orsa...",
-    "italian_title": "Vaghe stelle dell'Orsa...",
-    "year": 1965,
-    "poster_path": "/usLsMyLnF9o6pInfc32VDzpU9iY.jpg",
-    "overview": "Di ritorno a Volterra, sua città natale, una donna sposata è assalita dai fantasmi del passato. Sulla famiglia pesano diverse tragedie, tra le quali la morte del padre, ebreo, deportato dai nazisti in un campo di concentramento. La donna è accusata dal patrigno di aver denunciato il genitore e di aver avuto rapporti incestuosi col fratello. Lei, abbandonata dal marito, tronca ogni legame con i suoi, il fratello, disperato, si suicida.",
-    "title_en": "Sandra",
-    "overview_en": "Sandra returns to her hometown to take care of family business, but childhood memories and secrets soon overcome her.",
-    "runtime": 105,
-    "director": "Luchino Visconti",
-    "genres": [
-      "Dramma",
-      "Mistero"
-    ]
-  },
-  {
     "tmdb_id": 86825,
     "title": "Stoker",
     "original_title": "Stoker",
@@ -272,6 +220,23 @@
       "Dramma",
       "Horror",
       "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1130402,
+    "title": "Terapia di famiglia",
+    "original_title": "Jamais sans mon psy",
+    "italian_title": "Terapia di famiglia",
+    "year": 2024,
+    "poster_path": "/cJUjUI1hyIlCax8GRmxIiaHxRFq.jpg",
+    "overview": "Cinque anni di psicoterapia non sono serviti ad alleviare l'ansia che mette a repentaglio la vita di Damien. Il dottor Beranger non lo sopporta più. Così lo caccia con una sfida terapeutica: trovare la donna della sua vita. E indovinate un po'? Ci riesce! Tre mesi dopo, la sua fidanzata Alice lo invita a casa dei suoi genitori, che stanno organizzando una grande festa per il loro trentesimo anniversario. Appena Damien e Alice arrivano, nulla va per il verso giusto. Ma la cosa peggiore è che il padre di Alice non è altri che il dottor Beranger in persona! Determinato a convincere sua figlia a rompere con Damien, il dottore non si fermerà davanti a nulla per rendergli la vita un inferno!",
+    "title_en": "Not Without My Shrink",
+    "overview_en": "A successful psychoanalyst's life is turned upside down by a very anxious and extremely clingy patient who starts dating his daughter.",
+    "runtime": 91,
+    "director": "Arnaud Lemort",
+    "genres": [
+      "Commedia",
+      "Famiglia"
     ]
   },
   {
@@ -832,6 +797,75 @@
     ]
   },
   {
+    "tmdb_id": 670,
+    "title": "Old Boy",
+    "original_title": "올드보이",
+    "italian_title": "Old Boy",
+    "year": 2003,
+    "poster_path": "/bVL3wpVhjmkWdG2jWj1cv9L8pjR.jpg",
+    "overview": "È la storia di Dae-su, imprigionato per 15 anni senza sapere perché, e della sua implacabile vendetta una volta libero. Non dovrà cercare lontano, perché il suo persecutore non ha ancora chiuso la partita. L'appena conosciuta e subito amata Mi-do lo accompagnerà alla ricerca della rivincita e, più ancora, del motivo della sua prigionia.",
+    "title_en": "Oldboy",
+    "overview_en": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate man seeks revenge on his captors.",
+    "runtime": 119,
+    "director": "Park Chan-wook",
+    "genres": [
+      "Thriller",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 139,
+    "title": "Mifune - Dogma 3",
+    "original_title": "Mifunes sidste sang",
+    "italian_title": "Mifune - Dogma 3",
+    "year": 1999,
+    "poster_path": "/6TLakgj4tDath3gFsuNviqxQXLB.jpg",
+    "overview": "Kresten è un giovane in carriera che ha appena sposato la figlia del suo datore di lavoro a Copenaghen, nascondendo a tutti le proprie umili origini. La prima notte di nozze riceve la notizia dell’improvvisa morte del padre, evento che lo costringe a tornare nella fatiscente fattoria di famiglia nella campagna danese per prendersi cura del fratello Rud, un uomo con un grave ritardo mentale. Per gestire la situazione e la casa, Kresten decide di assumere come governante Liva, una prostituta in fuga dalle minacce della città, dando inizio a una convivenza che cambierà radicalmente le loro esistenze.",
+    "title_en": "Mifune",
+    "overview_en": "Kresten, newly wed, is on the threshold of a great career success in his father-in-law’s company. But when the death of his own father takes him back to his poverty-stricken childhood home, far out in the country, his career plans fall apart. For one thing he has to deal with his loveable, backward brother, who is now all alone; for another, he meets a stunning woman who comes to the farm as a housekeeper, in disguise of her real profession as a call-girl.",
+    "runtime": 98,
+    "director": "Søren Kragh-Jacobsen",
+    "genres": [
+      "Dramma",
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 80557,
+    "title": "Cronaca familiare",
+    "original_title": "Cronaca familiare",
+    "italian_title": "Cronaca familiare",
+    "year": 1962,
+    "poster_path": "/gRkJGXO5ZSt5XTBfAL8mORaJ0Ab.jpg",
+    "overview": "Enrico, scrittore e giornalista in povertà, rievoca la propria vita e quella del fratello minore Lorenzo del quale ha appreso la morte.",
+    "title_en": "Family Diary",
+    "overview_en": "Enrico is a struggling journalist in the Rome of 1945. He receives a phone call informing him that his younger brother Lorenzo has died. Enrico recalls their long and difficult relationship; he was brought up by their poor but warm-hearted grandmother, Lorenzo was raised as a gentleman by a wealthy local aristocrat. Reunited in the Florence of the 1930s, Enrico becomes his spoilt brother's keeper, forever haunted by a sense of guilty responsibility towards a man he both hates and loves.",
+    "runtime": 121,
+    "director": "Valerio Zurlini",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 251,
+    "title": "Ghost - Fantasma",
+    "original_title": "Ghost",
+    "italian_title": "Ghost - Fantasma",
+    "year": 1990,
+    "poster_path": "/hUJnkXbLpAt0NlD1K68vX0MrDFq.jpg",
+    "overview": "Sam e Molly sono una coppia felice. Vivono insieme da poco e si direbbe che nulla possa scalfire il loro amore, ma una sera in un vicolo un po' troppo buio Sam viene ucciso da un ladro. Il suo spirito resta imprigionato sulla Terra. Scopre qualcosa su quella sera che è stato assassinato, ma non riesce a comunicare con i vivi, almeno fino a quando non incontra un'esoterica molto suscettibile.",
+    "title_en": "Ghost",
+    "overview_en": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
+    "runtime": 122,
+    "director": "Jerry Zucker",
+    "genres": [
+      "Fantasy",
+      "Romance",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 1275779,
     "title": "Disclosure Day",
     "original_title": "Disclosure Day",
@@ -973,23 +1007,6 @@
     ]
   },
   {
-    "tmdb_id": 318,
-    "title": "The Million Dollar Hotel",
-    "original_title": "The Million Dollar Hotel",
-    "italian_title": "The Million Dollar Hotel",
-    "year": 2000,
-    "poster_path": "/yqCCyeP1r0fUYG9CmGbGb8mXI5D.jpg",
-    "overview": "In un albergo che un tempo fu splendido vive una comunità di reietti, falliti, ladri, puttane, artisti e alcolisti. Un ragazzo muore. Un poliziotto indaga. Un mondo insospettato si rivela. Nasce un amore e un amore finisce, volando verso il sole, all'alba, come una colomba. Bono scrive storia e musiche. Wenders dirige il film. Insieme producono e radunano un cast che fa scintille: la bellissima Milla Jovovich, tenera ragazza perduta, Jeremy Davies, un pazzo dall'anima pura e innocente e il grande Mel Gibson, un duro dal collo d'acciaio.",
-    "title_en": "The Million Dollar Hotel",
-    "overview_en": "A federal agent searches for a potential killer among the bizarre residents of a dilapidated Los Angeles hotel.",
-    "runtime": 121,
-    "director": "Wim Wenders",
-    "genres": [
-      "Dramma",
-      "Thriller"
-    ]
-  },
-  {
     "tmdb_id": 3527,
     "title": "Non bussare alla mia porta",
     "original_title": "Don't Come Knocking",
@@ -1024,22 +1041,6 @@
     ]
   },
   {
-    "tmdb_id": 1399462,
-    "title": "Calle Málaga",
-    "original_title": "Calle Málaga",
-    "italian_title": "Calle Málaga",
-    "year": 2025,
-    "poster_path": "/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
-    "overview": null,
-    "title_en": "Calle Malaga",
-    "overview_en": "Maria Angeles, a 79-year-old Spanish woman, lives alone in Tangier, Morocco, and enjoys her daily routine. However, her life is turned upside down when her daughter arrives from Madrid to sell the apartment in which she has always lived. Determined to stay, she does everything she can to get her home and her belongings back and, unexpectedly, rediscovers love and sensuality.",
-    "runtime": 116,
-    "director": "Maryam Touzani",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 969681,
     "title": "Spider-Man: Brand New Day",
     "original_title": "Spider-Man: Brand New Day",
@@ -1055,6 +1056,22 @@
       "Fantascienza",
       "Azione",
       "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 1399462,
+    "title": "Calle Málaga",
+    "original_title": "Calle Málaga",
+    "italian_title": "Calle Málaga",
+    "year": 2025,
+    "poster_path": "/fWagBXNDk44UaupYtwQOAvDwGiT.jpg",
+    "overview": null,
+    "title_en": "Calle Malaga",
+    "overview_en": "Maria Angeles, a 79-year-old Spanish woman, lives alone in Tangier, Morocco, and enjoys her daily routine. However, her life is turned upside down when her daughter arrives from Madrid to sell the apartment in which she has always lived. Determined to stay, she does everything she can to get her home and her belongings back and, unexpectedly, rediscovers love and sensuality.",
+    "runtime": 116,
+    "director": "Maryam Touzani",
+    "genres": [
+      "Dramma"
     ]
   },
   {
@@ -1146,23 +1163,6 @@
     ]
   },
   {
-    "tmdb_id": 25050,
-    "title": "Still Walking - Camminando in un giorno d'estate",
-    "original_title": "歩いても 歩いても",
-    "italian_title": "Still Walking - Camminando in un giorno d'estate",
-    "year": 2008,
-    "poster_path": "/8ubHo1bokxUKHZxOAUTYzK65CbR.jpg",
-    "overview": "Fratello e sorella vanno in visita dagli anziani genitori nella casa nella quale hanno vissuto per decenni, per commemorare la tragica morte del fratello più vecchio avvenuta in un incidente quindici anni prima. A dispetto della comodità della grande casa che ospita tutti, i cambiamenti intervenuti nella vita dei familiari riuniti ridefiniscono le relazioni facendo emergere un caleidoscopio di sentimenti che vanno dall'amore al risentimento.",
-    "title_en": "Still Walking",
-    "overview_en": "A family gathers together for a commemorative ritual whose nature only gradually becomes clear.",
-    "runtime": 114,
-    "director": "是枝裕和",
-    "genres": [
-      "Dramma",
-      "Famiglia"
-    ]
-  },
-  {
     "tmdb_id": 1084244,
     "title": "Toy Story 5",
     "original_title": "Toy Story 5",
@@ -1232,24 +1232,6 @@
     ]
   },
   {
-    "tmdb_id": 1471224,
-    "title": "Il delitto del 3° piano",
-    "original_title": "Le Crime du 3e étage",
-    "italian_title": "Il delitto del 3° piano",
-    "year": 2026,
-    "poster_path": "/8Piv68hegZuIwPvsh2nglwUowYi.jpg",
-    "overview": "La storia di Anna, appassionata di cinema hitchcockiano, e di suo marito Pierre, celebre autore di thriller. Vivono in un elegante palazzo borghese, immersi in una quotidianità raffinata ma logorata dalla routine. Passano le giornate a scrivere, correggere, limare parole… senza più riuscire a parlarsi davvero. Finché qualcosa cambia. Dalle finestre del loro appartamento iniziano a osservare i nuovi vicini: una coppia inquieta, nervosa, sempre sul punto di esplodere. Quello che nasce come un gioco voyeuristico si trasforma presto in un’ossessione. Una scomparsa improvvisa, un orologio macchiato di sangue, occhiali spia, rumori nel cuore della notte: ogni indizio sembra gridare che qualcosa di terribile sia avvenuto proprio lì, nell’appartamento del 3° piano. Convinti di trovarsi davanti a un vero delitto, Anna e Pierre si spingono in un’indagine pericolosa. E più si avvicinano alla verità, più il confine tra il thriller che scrivono e la vita che vivono inizia a sfumare.",
-    "title_en": "Murder in the Building",
-    "overview_en": "Misanthropic novelist François writes gripping crime stories – “Agatha Christie meets The Scarlet Pimpernel” – but outside of the swashbuckling imaginary world of his Marquis la Rose-novels, life is far from thrilling. His partner Colette, a professor at the Sorbonne and world-renowned expert on Alfred Hitchcock, is tired of watching François sit around their apartment in his pyjamas and yearns for the excitement of the classic films she watches with her students. When Colette begins to suspect their flamboyant actor neighbour of murdering his wife, the couple’s mundane lives are turned upside down – and their stale relationship is jolted back to life.",
-    "runtime": 106,
-    "director": "Rémi Bezançon",
-    "genres": [
-      "Commedia",
-      "Dramma",
-      "Crime"
-    ]
-  },
-  {
     "tmdb_id": 1092936,
     "title": "La valle dei sorrisi",
     "original_title": "La valle dei sorrisi",
@@ -1265,6 +1247,24 @@
       "Horror",
       "Thriller",
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1471224,
+    "title": "Il delitto del 3° piano",
+    "original_title": "Le Crime du 3e étage",
+    "italian_title": "Il delitto del 3° piano",
+    "year": 2026,
+    "poster_path": "/8Piv68hegZuIwPvsh2nglwUowYi.jpg",
+    "overview": "La storia di Anna, appassionata di cinema hitchcockiano, e di suo marito Pierre, celebre autore di thriller. Vivono in un elegante palazzo borghese, immersi in una quotidianità raffinata ma logorata dalla routine. Passano le giornate a scrivere, correggere, limare parole… senza più riuscire a parlarsi davvero. Finché qualcosa cambia. Dalle finestre del loro appartamento iniziano a osservare i nuovi vicini: una coppia inquieta, nervosa, sempre sul punto di esplodere. Quello che nasce come un gioco voyeuristico si trasforma presto in un’ossessione. Una scomparsa improvvisa, un orologio macchiato di sangue, occhiali spia, rumori nel cuore della notte: ogni indizio sembra gridare che qualcosa di terribile sia avvenuto proprio lì, nell’appartamento del 3° piano. Convinti di trovarsi davanti a un vero delitto, Anna e Pierre si spingono in un’indagine pericolosa. E più si avvicinano alla verità, più il confine tra il thriller che scrivono e la vita che vivono inizia a sfumare.",
+    "title_en": "Murder in the Building",
+    "overview_en": "Misanthropic novelist François writes gripping crime stories – “Agatha Christie meets The Scarlet Pimpernel” – but outside of the swashbuckling imaginary world of his Marquis la Rose-novels, life is far from thrilling. His partner Colette, a professor at the Sorbonne and world-renowned expert on Alfred Hitchcock, is tired of watching François sit around their apartment in his pyjamas and yearns for the excitement of the classic films she watches with her students. When Colette begins to suspect their flamboyant actor neighbour of murdering his wife, the couple’s mundane lives are turned upside down – and their stale relationship is jolted back to life.",
+    "runtime": 106,
+    "director": "Rémi Bezançon",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Crime"
     ]
   },
   {
@@ -1385,23 +1385,6 @@
       "Dramma",
       "Storia",
       "Avventura"
-    ]
-  },
-  {
-    "tmdb_id": 1397375,
-    "title": "La vita va così",
-    "original_title": "La vita va così",
-    "italian_title": "La vita va così",
-    "year": 2025,
-    "poster_path": "/qvaD0vZ78w3hFuEBGyhpEkmHUOS.jpg",
-    "overview": "Un racconto ironico e appassionato lungo vent’anni, ambientato in un angolo meraviglioso della Sardegna, dove una comunità si troverà stretta tra il sogno del lavoro e la difesa del territorio e della sua identità.",
-    "title_en": "Life Is Life",
-    "overview_en": "An elderly shepherd takes on big business when he becomes the only holdout against property developers building a luxury resort in his tiny Sardinian village.",
-    "runtime": 118,
-    "director": "Riccardo Milani",
-    "genres": [
-      "Commedia",
-      "Dramma"
     ]
   },
   {
@@ -1755,6 +1738,23 @@
     ]
   },
   {
+    "tmdb_id": 1397375,
+    "title": "La vita va così",
+    "original_title": "La vita va così",
+    "italian_title": "La vita va così",
+    "year": 2025,
+    "poster_path": "/qvaD0vZ78w3hFuEBGyhpEkmHUOS.jpg",
+    "overview": "Un racconto ironico e appassionato lungo vent’anni, ambientato in un angolo meraviglioso della Sardegna, dove una comunità si troverà stretta tra il sogno del lavoro e la difesa del territorio e della sua identità.",
+    "title_en": "Life Is Life",
+    "overview_en": "An elderly shepherd takes on big business when he becomes the only holdout against property developers building a luxury resort in his tiny Sardinian village.",
+    "runtime": 118,
+    "director": "Riccardo Milani",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1151272,
     "title": "Sirāt",
     "original_title": "Sirāt",
@@ -1887,23 +1887,6 @@
     "director": "Stefano Pistolini",
     "genres": [
       "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 1151531,
-    "title": "Mutiny in Heaven: The Birthday Party",
-    "original_title": "Mutiny in Heaven: The Birthday Party",
-    "italian_title": "Mutiny in Heaven: The Birthday Party",
-    "year": 2023,
-    "poster_path": "/fRhQRM9dM8y6RRABXONQkquNHlD.jpg",
-    "overview": "Diretto da Ian White e prodotto da Wim Wenders, l’atteso documentario che porta per la prima volta sullo schermo la storia della band guidata da NICK CAVE, i BIRTHDAY PARTY, uno dei gruppi post-punk più selvaggi di sempre, risucchiato nel caos vorticoso dei locali fumosi di Londra e Berlino.\r Utilizzando interviste esclusive e incredibilmente schiette a Nick Cave e compagni, un ricco repertorio di immagini d’archivio rare e inedite, opere d'arte, brani musicali, filmati in studio, animazioni e contenuti multimediali, Ian White realizza un film visivamente ricco e narrativamente avvincente.",
-    "title_en": "Mutiny in Heaven: The Birthday Party",
-    "overview_en": "The thrilling, debauched and frequently hilarious adventures of the legendary Melbourne post-punk band, in their own words.",
-    "runtime": 98,
-    "director": "Ian White",
-    "genres": [
-      "Documentario",
-      "Musica"
     ]
   },
   {
