@@ -1,75 +1,5 @@
 [
   {
-    "tmdb_id": 1279865,
-    "title": "A New Dawn",
-    "original_title": "花緑青が明ける日に",
-    "italian_title": "A New Dawn",
-    "year": 2026,
-    "poster_path": "/a105UQIL5lblYEeYOtyrsCCjfjO.jpg",
-    "overview": "La Obito Fireworks, una fabbrica di fuochi d’artificio situata in una lussureggiante foresta, sta affrontando lo sfratto a causa della riqualificazione della città. Keitaro Tatewaki si è rintanato lì da quattro anni, dedicandosi alla produzione di fuochi d’artificio per completare il fantasma “Shuhari” al posto del padre scomparso. Nel frattempo, la sua amica d’infanzia Kaoru, che dopo un certo incidente ha lasciato la sua città natale, vive a Tokyo. Ma con l’avvicinarsi della data dello sfratto, fa visita alla famiglia Tatewaki. I due si incontrano di nuovo e escogitano un piano sorprendente per scoprire il segreto dei fuochi d’artificio perduti. La chiave è un bellissimo pigmento blu chiamato “verderame floreale",
-    "title_en": "A New Dawn",
-    "overview_en": "The Obinata Fireworks Shop factory is getting prepared for an administrative action for confiscation tomorrow. It has been six years since Keitaro has been holed up in a closed-down factory creating fireworks by himself, chasing after an illusion of his father who vanished. It is a story about three young people who overcome the extreme weather conditions, disasters and environmental problems imposed on them and establish their own identities.",
-    "runtime": 75,
-    "director": "四宮義俊",
-    "genres": [
-      "Animazione",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 57447,
-    "title": "La casa dalle finestre che ridono",
-    "original_title": "La casa dalle finestre che ridono",
-    "italian_title": "La casa dalle finestre che ridono",
-    "year": 1976,
-    "poster_path": "/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
-    "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
-    "title_en": "The House with Laughing Windows",
-    "overview_en": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village.",
-    "runtime": 110,
-    "director": "Pupi Avati",
-    "genres": [
-      "Mistero",
-      "Thriller",
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 1370210,
-    "title": "Yalla Parkour",
-    "original_title": "يلّا باركور",
-    "italian_title": "Yalla Parkour",
-    "year": 2024,
-    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
-    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
-    "title_en": "Yalla Parkour",
-    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
-    "runtime": 89,
-    "director": "Areeb Zuaiter",
-    "genres": [
-      "Documentario",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 42853,
-    "title": "Odissea",
-    "original_title": "Odissea",
-    "italian_title": "Odissea",
-    "year": 1968,
-    "poster_path": "/orlKW4piaeA5UMTMqrQsQuOKl5w.jpg",
-    "overview": "Odissea è una miniserie televisiva co-prodotta da svariati Paesi nel 1968, basata sull'omonimo poema di Omero. Ne è stata distribuita una versione ridotta cinematografica dal titolo Le avventure di Ulisse.",
-    "title_en": "Odissea",
-    "overview_en": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
-    "runtime": 110,
-    "director": "Piero Schivazappa, Franco Rossi, Mario Bava",
-    "genres": [
-      "televisione film",
-      "Avventura",
-      "Storia"
-    ]
-  },
-  {
     "tmdb_id": 1339713,
     "title": "Obsession",
     "original_title": "Obsession",
@@ -105,6 +35,59 @@
     ]
   },
   {
+    "tmdb_id": 42853,
+    "title": "Odissea",
+    "original_title": "Odissea",
+    "italian_title": "Odissea",
+    "year": 1968,
+    "poster_path": "/orlKW4piaeA5UMTMqrQsQuOKl5w.jpg",
+    "overview": "Odissea è una miniserie televisiva co-prodotta da svariati Paesi nel 1968, basata sull'omonimo poema di Omero. Ne è stata distribuita una versione ridotta cinematografica dal titolo Le avventure di Ulisse.",
+    "title_en": "Odissea",
+    "overview_en": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
+    "runtime": 110,
+    "director": "Piero Schivazappa, Franco Rossi, Mario Bava",
+    "genres": [
+      "televisione film",
+      "Avventura",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1279865,
+    "title": "A New Dawn",
+    "original_title": "花緑青が明ける日に",
+    "italian_title": "A New Dawn",
+    "year": 2026,
+    "poster_path": "/a105UQIL5lblYEeYOtyrsCCjfjO.jpg",
+    "overview": "La Obito Fireworks, una fabbrica di fuochi d’artificio situata in una lussureggiante foresta, sta affrontando lo sfratto a causa della riqualificazione della città. Keitaro Tatewaki si è rintanato lì da quattro anni, dedicandosi alla produzione di fuochi d’artificio per completare il fantasma “Shuhari” al posto del padre scomparso. Nel frattempo, la sua amica d’infanzia Kaoru, che dopo un certo incidente ha lasciato la sua città natale, vive a Tokyo. Ma con l’avvicinarsi della data dello sfratto, fa visita alla famiglia Tatewaki. I due si incontrano di nuovo e escogitano un piano sorprendente per scoprire il segreto dei fuochi d’artificio perduti. La chiave è un bellissimo pigmento blu chiamato “verderame floreale",
+    "title_en": "A New Dawn",
+    "overview_en": "The Obinata Fireworks Shop factory is getting prepared for an administrative action for confiscation tomorrow. It has been six years since Keitaro has been holed up in a closed-down factory creating fireworks by himself, chasing after an illusion of his father who vanished. It is a story about three young people who overcome the extreme weather conditions, disasters and environmental problems imposed on them and establish their own identities.",
+    "runtime": 75,
+    "director": "四宮義俊",
+    "genres": [
+      "Animazione",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 57447,
+    "title": "La casa dalle finestre che ridono",
+    "original_title": "La casa dalle finestre che ridono",
+    "italian_title": "La casa dalle finestre che ridono",
+    "year": 1976,
+    "poster_path": "/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
+    "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
+    "title_en": "The House with Laughing Windows",
+    "overview_en": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village.",
+    "runtime": 110,
+    "director": "Pupi Avati",
+    "genres": [
+      "Mistero",
+      "Thriller",
+      "Horror"
+    ]
+  },
+  {
     "tmdb_id": 42299,
     "title": "Lavori in corso",
     "original_title": "Busy Bodies",
@@ -118,6 +101,23 @@
     "director": "Lloyd French",
     "genres": [
       "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1370210,
+    "title": "Yalla Parkour",
+    "original_title": "يلّا باركور",
+    "italian_title": "Yalla Parkour",
+    "year": 2024,
+    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
+    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
+    "title_en": "Yalla Parkour",
+    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
+    "runtime": 89,
+    "director": "Areeb Zuaiter",
+    "genres": [
+      "Documentario",
+      "Dramma"
     ]
   },
   {
@@ -172,20 +172,20 @@
     ]
   },
   {
-    "tmdb_id": 92432,
-    "title": "Vaghe stelle dell'Orsa...",
-    "original_title": "Vaghe stelle dell'Orsa...",
-    "italian_title": "Vaghe stelle dell'Orsa...",
-    "year": 1965,
-    "poster_path": "/usLsMyLnF9o6pInfc32VDzpU9iY.jpg",
-    "overview": "Di ritorno a Volterra, sua città natale, una donna sposata è assalita dai fantasmi del passato. Sulla famiglia pesano diverse tragedie, tra le quali la morte del padre, ebreo, deportato dai nazisti in un campo di concentramento. La donna è accusata dal patrigno di aver denunciato il genitore e di aver avuto rapporti incestuosi col fratello. Lei, abbandonata dal marito, tronca ogni legame con i suoi, il fratello, disperato, si suicida.",
-    "title_en": "Sandra",
-    "overview_en": "Sandra returns to her hometown to take care of family business, but childhood memories and secrets soon overcome her.",
-    "runtime": 105,
-    "director": "Luchino Visconti",
+    "tmdb_id": 2011,
+    "title": "Persepolis",
+    "original_title": "Persepolis",
+    "italian_title": "Persepolis",
+    "year": 2007,
+    "poster_path": "/dUvdyb2rkChGjDJELiuMXpChsqg.jpg",
+    "overview": "La storia di Marjane, una ragazza precoce e ribelle che, cresciuta portando scarpe da ginnastica e giocando alla lotta con i maschietti, si trova costretta ad affrontare, dall'infanzia all'età adulta,  drastici cambiamenti delle proprie abitudini di vita imposti prima dalla monarchia dello Scià e poi dal regime degli ayatollah, fino alla sua partenza per l'Europa.",
+    "title_en": "Persepolis",
+    "overview_en": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
+    "runtime": 95,
+    "director": "Vincent Paronnaud, Marjane Satrapi",
     "genres": [
-      "Dramma",
-      "Mistero"
+      "Animazione",
+      "Dramma"
     ]
   },
   {
@@ -202,76 +202,6 @@
     "director": "Dorottya Zurbo, Arun Bhattarai",
     "genres": [
       "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 86825,
-    "title": "Stoker",
-    "original_title": "Stoker",
-    "italian_title": "Stoker",
-    "year": 2013,
-    "poster_path": "/pGClxbopKtit1WbzV2MHAS2z8Jd.jpg",
-    "overview": "Dopo la morte del padre in un incidente l'adolescente India si ritrova a vivere da sola con la madre, sofferente di problemi mentali. Per aiutare la famiglia, si trasferisce a casa loro lo zio Charlie, di cui la ragazza ignorava l'esistenza. Lentamente, India comincia a sospettare che Charlie nasconda qualcosa, ma allo stesso tempo non può fare a meno di sentirsi attratta da lui.",
-    "title_en": "Stoker",
-    "overview_en": "After India’s father dies suddenly, her uncle Charlie, whom she never knew existed, comes to live with her and her emotionally unstable mother. Soon after his arrival, she begins to suspect that this mysterious, charming man has ulterior motives. But instead of feeling outrage or horror, the friendless girl becomes increasingly infatuated with him.",
-    "runtime": 99,
-    "director": "Park Chan-wook",
-    "genres": [
-      "Dramma",
-      "Horror",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1130402,
-    "title": "Terapia di famiglia",
-    "original_title": "Jamais sans mon psy",
-    "italian_title": "Terapia di famiglia",
-    "year": 2024,
-    "poster_path": "/cJUjUI1hyIlCax8GRmxIiaHxRFq.jpg",
-    "overview": "Cinque anni di psicoterapia non sono serviti ad alleviare l'ansia che mette a repentaglio la vita di Damien. Il dottor Beranger non lo sopporta più. Così lo caccia con una sfida terapeutica: trovare la donna della sua vita. E indovinate un po'? Ci riesce! Tre mesi dopo, la sua fidanzata Alice lo invita a casa dei suoi genitori, che stanno organizzando una grande festa per il loro trentesimo anniversario. Appena Damien e Alice arrivano, nulla va per il verso giusto. Ma la cosa peggiore è che il padre di Alice non è altri che il dottor Beranger in persona! Determinato a convincere sua figlia a rompere con Damien, il dottore non si fermerà davanti a nulla per rendergli la vita un inferno!",
-    "title_en": "Not Without My Shrink",
-    "overview_en": "A successful psychoanalyst's life is turned upside down by a very anxious and extremely clingy patient who starts dating his daughter.",
-    "runtime": 91,
-    "director": "Arnaud Lemort",
-    "genres": [
-      "Commedia",
-      "Famiglia"
-    ]
-  },
-  {
-    "tmdb_id": 153,
-    "title": "Lost in Translation - L'amore tradotto",
-    "original_title": "Lost in Translation",
-    "italian_title": "Lost in Translation - L'amore tradotto",
-    "year": 2003,
-    "poster_path": "/yGVhHMLgvPwXszMOxj1BLnInIZ7.jpg",
-    "overview": "Bob Harris e Charlotte sono due americani a Tokyo. Bob è una star del cinema ed è a Tokyo per girare uno spot pubblicitario per una marca di whisky, mentre Charlotte è una giovane donna che arranca dietro al marito fotografo instancabile. Colpiti entrambi da insonnia, Bob e Charlotte s'incontrano una notte per caso nel bar dell'hotel dove alloggiano.",
-    "title_en": "Lost in Translation",
-    "overview_en": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
-    "runtime": 102,
-    "director": "Sofia Coppola",
-    "genres": [
-      "Dramma",
-      "Commedia",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 2011,
-    "title": "Persepolis",
-    "original_title": "Persepolis",
-    "italian_title": "Persepolis",
-    "year": 2007,
-    "poster_path": "/dUvdyb2rkChGjDJELiuMXpChsqg.jpg",
-    "overview": "La storia di Marjane, una ragazza precoce e ribelle che, cresciuta portando scarpe da ginnastica e giocando alla lotta con i maschietti, si trova costretta ad affrontare, dall'infanzia all'età adulta,  drastici cambiamenti delle proprie abitudini di vita imposti prima dalla monarchia dello Scià e poi dal regime degli ayatollah, fino alla sua partenza per l'Europa.",
-    "title_en": "Persepolis",
-    "overview_en": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
-    "runtime": 95,
-    "director": "Vincent Paronnaud, Marjane Satrapi",
-    "genres": [
-      "Animazione",
-      "Dramma"
     ]
   },
   {
@@ -307,6 +237,23 @@
       "Horror",
       "Thriller",
       "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 1130402,
+    "title": "Terapia di famiglia",
+    "original_title": "Jamais sans mon psy",
+    "italian_title": "Terapia di famiglia",
+    "year": 2024,
+    "poster_path": "/cJUjUI1hyIlCax8GRmxIiaHxRFq.jpg",
+    "overview": "Cinque anni di psicoterapia non sono serviti ad alleviare l'ansia che mette a repentaglio la vita di Damien. Il dottor Beranger non lo sopporta più. Così lo caccia con una sfida terapeutica: trovare la donna della sua vita. E indovinate un po'? Ci riesce! Tre mesi dopo, la sua fidanzata Alice lo invita a casa dei suoi genitori, che stanno organizzando una grande festa per il loro trentesimo anniversario. Appena Damien e Alice arrivano, nulla va per il verso giusto. Ma la cosa peggiore è che il padre di Alice non è altri che il dottor Beranger in persona! Determinato a convincere sua figlia a rompere con Damien, il dottore non si fermerà davanti a nulla per rendergli la vita un inferno!",
+    "title_en": "Not Without My Shrink",
+    "overview_en": "A successful psychoanalyst's life is turned upside down by a very anxious and extremely clingy patient who starts dating his daughter.",
+    "runtime": 91,
+    "director": "Arnaud Lemort",
+    "genres": [
+      "Commedia",
+      "Famiglia"
     ]
   },
   {
@@ -866,6 +813,92 @@
     ]
   },
   {
+    "tmdb_id": 1365683,
+    "title": "Primavera",
+    "original_title": "Primavera",
+    "italian_title": "Primavera",
+    "year": 2025,
+    "poster_path": "/6Giqb3a9ITCKhlkNeWtfzGWOxU0.jpg",
+    "overview": "Primi del Settecento. L'Ospedale della Pietà è il più grande orfanotrofio di Venezia, ma è anche un'istituzione che avvia le orfane più brillanti allo studio della musica. La sua orchestra è una delle più apprezzate al mondo. Cecilia ha vent'anni, vive da sempre alla Pietà ed è una straordinaria violinista. L'arte ha dischiuso la sua mente ma non le porte dell'orfanotrofio; può esibirsi solo lì dentro, dietro una grata, per ricchi mecenati. Questo fino a che un vento di primavera scuote improvvisamente la sua vita. Tutto cambia con l'arrivo del nuovo insegnante di violino. Il suo nome è Antonio Vivaldi.",
+    "title_en": "Primavera",
+    "overview_en": "In 18th-century Venice, 20-year-old violin virtuoso Cecilia lives at the Pièta orphanage, where, despite her talent, she remains confined, knowing that marriage is the only way out. Yet, her life takes a turn after she meets Antonio Vivaldi, a brilliant and ambitious composer who becomes the new violin teacher. Guided by Vivaldi and his music, Cecilia finds the strength to challenge the destiny that once seemed inevitable.",
+    "runtime": 120,
+    "director": "Damiano Michieletto",
+    "genres": [
+      "Musica",
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 400617,
+    "title": "Il filo nascosto",
+    "original_title": "Phantom Thread",
+    "italian_title": "Il filo nascosto",
+    "year": 2017,
+    "poster_path": "/pg4fQzIzXjUon8ey2pBO5Sv7ffb.jpg",
+    "overview": "Londra, anni Cinquanta. Reynolds Woodcock, celebre stilista, fa palpitare il cuore della moda inglese abbigliando la famiglia reale, le star del cinema, le ricche ereditiere, le celebrità mondane, le debuttanti e le signore dell'alta società. Lavoratore bulimico e uomo impossibile, Reynolds dispone delle sue conquiste secondo l'umore e dirige la sua maison con aria solenne, affiancato da Cyril, sorella e socia altrettanto ieratica. Mr. Woodcock ha un debole per la bellezza che riconosce in Alma, cameriera in un hotel della costa. La giovane donna, immediatamente sedotta da quel \"ragazzo affamato\", lo segue a Londra e ne diventa la musa. Stabilitasi nella casa di Knightsbridge, Alma rivela presto un carattere tenace, vincendo lo scetticismo di Cyril, che la crede di passaggio, e accomodando le (brusche) maniere del suo Pigmalione. Ma la difficoltà crescente di ottenere un vero impegno da Reynolds la spinge a trovare un rimedio.",
+    "title_en": "Phantom Thread",
+    "overview_en": "In 1950s London, a renowned dressmaker's meticulous lifestyle begins drastically changing as his relationship with his young muse intensifies.",
+    "runtime": 130,
+    "director": "Paul Thomas Anderson",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1480,
+    "title": "L'infernale Quinlan",
+    "original_title": "Touch of Evil",
+    "italian_title": "L'infernale Quinlan",
+    "year": 1958,
+    "poster_path": "/liLUacZTs3J5UXt1OlBNuvGOZ5T.jpg",
+    "overview": "Mike Vargas, ispettore della polizia messicana e sua moglie Susan, devono interrompere il loro viaggio di nozze per venire a capo dell'uccisione del ricco proprietario Linnekar, avvenuta al confine tra gli Stati Uniti e il Messico. Vargas partecipa alle indagini affiancando l'ispettore americano Quinlan. Nel frattempo Susan viene circuita da un tipo losco, che, ricattando la donna, mira a liberare suo fratello arrestato dall'ispettore messicano.",
+    "title_en": "Touch of Evil",
+    "overview_en": "A border-town bombing draws Mexican investigator Miguel Vargas into a corruption-ridden police investigation led by crooked captain Hank Quinlan, setting off a deadly struggle over power, justice, and truth.",
+    "runtime": 112,
+    "director": "Orson Welles",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 289,
+    "title": "Casablanca",
+    "original_title": "Casablanca",
+    "italian_title": "Casablanca",
+    "year": 1943,
+    "poster_path": "/cdD6aBaiApx0n6cIYEDkSA5vNSv.jpg",
+    "overview": "Nel principale porto del Marocco nel 1941 si incontrano poliziotti francesi, spie naziste, fuoriusciti antifascisti, avventurieri di rango, piccoli sciacalli. L'americano Rick Blaine, proprietario di un bar, aiuta Ilsa, la donna che amava (e ama ancora) e suo marito, perseguitato politico, a lasciare in aereo la città.",
+    "title_en": "Casablanca",
+    "overview_en": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+    "runtime": 102,
+    "director": "Michael Curtiz",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 42881,
+    "title": "Julien Donkey-Boy",
+    "original_title": "Julien Donkey-Boy",
+    "italian_title": "Julien Donkey-Boy",
+    "year": 1999,
+    "poster_path": "/mK8pJA05Sdp3Hc4KWHMqhaMEbVW.jpg",
+    "overview": null,
+    "title_en": "Julien Donkey-Boy",
+    "overview_en": "Undiagnosed, untreated and generally untethered schizophrenic Julien lives with his pregnant younger sister, anorexic aspiring wrestler brother, sympathetic grandmother, and severely depressed and abusive German father.",
+    "runtime": 100,
+    "director": "Harmony Korine",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1275779,
     "title": "Disclosure Day",
     "original_title": "Disclosure Day",
@@ -1232,20 +1265,19 @@
     ]
   },
   {
-    "tmdb_id": 1092936,
-    "title": "La valle dei sorrisi",
-    "original_title": "La valle dei sorrisi",
-    "italian_title": "La valle dei sorrisi",
-    "year": 2025,
-    "poster_path": "/wZWBXIsX3QBXf94vzCSUqlZDp57.jpg",
-    "overview": "Sergio Rossetti, un insegnate di educazione fisica, viene trasferito a Remis, un piccolo paese di montagna nel quale regna una serenità inscalfibile. Scoprirà che dietro a quell’equilibrio dorato si cela un inquietante rituale. Una notte a settimana gli abitanti di Remis si liberano del proprio dolore grazie a un adolescente, Matteo Corbin: basta abbracciarlo per stare meglio. Nel tentativo di salvare Matteo dalla follia della sua comunità, Sergio scatenerà il lato oscuro di quello che tutti chiamano l’angelo di Remis.",
-    "title_en": "The Holy Boy",
-    "overview_en": "A PE teacher moves to a isolated mountain village where the people appear to live in unshakeable serenity, but soon stumbles across a disturbing ritual. Once a week, the locals are freed of their pain by a lonely boy born with the power to heal one's soul just by hugging them. Trying to rescue him from this madness, the man unleashes his dark side.",
-    "runtime": 122,
-    "director": "Paolo Strippoli",
+    "tmdb_id": 1314481,
+    "title": "Il diavolo veste Prada 2",
+    "original_title": "The Devil Wears Prada 2",
+    "italian_title": "Il diavolo veste Prada 2",
+    "year": 2026,
+    "poster_path": "/zDhu8axN365ytMTSHWxdK8WFH5t.jpg",
+    "overview": "Sono passati vent'anni da quando Miranda Priestley faceva il bello e il cattivo tempo come direttrice della rivista di moda Runway, e il mondo dell'editoria cartacea è completamente cambiato: la concorrenza Internet è spietata, i budget sono risicati e Miranda è costretta a chinare la testa di fronte agli investitori e agli stilisti dalle cui pubblicità dipende il destino del magazine, soprattutto dopo che Miranda ha lodato pubblicamente una casa di fast fashion che sfrutta il lavoro minorile. Per riparare al danno di immagine il proprietario di Runway, Irv, convoca Andy Sachs, l'ex stagista di Miranda che è diventata un'ottima giornalista, ma ha anche appena perso il lavoro per i tagli all'editoria.",
+    "title_en": "The Devil Wears Prada 2",
+    "overview_en": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+    "runtime": 119,
+    "director": "David Frankel",
     "genres": [
-      "Horror",
-      "Thriller",
+      "Commedia",
       "Dramma"
     ]
   },
@@ -1268,19 +1300,20 @@
     ]
   },
   {
-    "tmdb_id": 1314481,
-    "title": "Il diavolo veste Prada 2",
-    "original_title": "The Devil Wears Prada 2",
-    "italian_title": "Il diavolo veste Prada 2",
-    "year": 2026,
-    "poster_path": "/zDhu8axN365ytMTSHWxdK8WFH5t.jpg",
-    "overview": "Sono passati vent'anni da quando Miranda Priestley faceva il bello e il cattivo tempo come direttrice della rivista di moda Runway, e il mondo dell'editoria cartacea è completamente cambiato: la concorrenza Internet è spietata, i budget sono risicati e Miranda è costretta a chinare la testa di fronte agli investitori e agli stilisti dalle cui pubblicità dipende il destino del magazine, soprattutto dopo che Miranda ha lodato pubblicamente una casa di fast fashion che sfrutta il lavoro minorile. Per riparare al danno di immagine il proprietario di Runway, Irv, convoca Andy Sachs, l'ex stagista di Miranda che è diventata un'ottima giornalista, ma ha anche appena perso il lavoro per i tagli all'editoria.",
-    "title_en": "The Devil Wears Prada 2",
-    "overview_en": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-    "runtime": 119,
-    "director": "David Frankel",
+    "tmdb_id": 1092936,
+    "title": "La valle dei sorrisi",
+    "original_title": "La valle dei sorrisi",
+    "italian_title": "La valle dei sorrisi",
+    "year": 2025,
+    "poster_path": "/wZWBXIsX3QBXf94vzCSUqlZDp57.jpg",
+    "overview": "Sergio Rossetti, un insegnate di educazione fisica, viene trasferito a Remis, un piccolo paese di montagna nel quale regna una serenità inscalfibile. Scoprirà che dietro a quell’equilibrio dorato si cela un inquietante rituale. Una notte a settimana gli abitanti di Remis si liberano del proprio dolore grazie a un adolescente, Matteo Corbin: basta abbracciarlo per stare meglio. Nel tentativo di salvare Matteo dalla follia della sua comunità, Sergio scatenerà il lato oscuro di quello che tutti chiamano l’angelo di Remis.",
+    "title_en": "The Holy Boy",
+    "overview_en": "A PE teacher moves to a isolated mountain village where the people appear to live in unshakeable serenity, but soon stumbles across a disturbing ritual. Once a week, the locals are freed of their pain by a lonely boy born with the power to heal one's soul just by hugging them. Trying to rescue him from this madness, the man unleashes his dark side.",
+    "runtime": 122,
+    "director": "Paolo Strippoli",
     "genres": [
-      "Commedia",
+      "Horror",
+      "Thriller",
       "Dramma"
     ]
   },
@@ -1871,22 +1904,6 @@
     "genres": [
       "Documentario",
       "Musica"
-    ]
-  },
-  {
-    "tmdb_id": 1517157,
-    "title": "Francesco de Gregori - Nevergreen",
-    "original_title": "Francesco de Gregori - Nevergreen",
-    "italian_title": "Francesco de Gregori - Nevergreen",
-    "year": 2025,
-    "poster_path": "/mB4ISPKagS2syQvBwckughHvJYJ.jpg",
-    "overview": "Nel suo fare musica, dieci mesi orsono Francesco De Gregori ha scelto un punto di partenza insolito: ha deciso di suonare per un mese, tutte le sere, in un piccolo teatro di Milano, l’Out Off, presentando le canzoni meno conosciute del proprio repertorio – o addirittura le “perfette sconosciute”, le nevergreen, mai insignite del titolo di “evergreen” – ogni volta con una scaletta diversa, condividendone alcune con degli ospiti a sorpresa.",
-    "title_en": "Francesco de Gregori - Nevergreen",
-    "overview_en": "De Gregori's last concert that flopped really hard.",
-    "runtime": 89,
-    "director": "Stefano Pistolini",
-    "genres": [
-      "Documentario"
     ]
   },
   {
