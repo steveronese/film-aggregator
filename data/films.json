@@ -1,20 +1,19 @@
 [
   {
-    "tmdb_id": 57447,
-    "title": "La casa dalle finestre che ridono",
-    "original_title": "La casa dalle finestre che ridono",
-    "italian_title": "La casa dalle finestre che ridono",
-    "year": 1976,
-    "poster_path": "/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
-    "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
-    "title_en": "The House with Laughing Windows",
-    "overview_en": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village.",
-    "runtime": 110,
-    "director": "Pupi Avati",
+    "tmdb_id": 1370210,
+    "title": "Yalla Parkour",
+    "original_title": "يلّا باركور",
+    "italian_title": "Yalla Parkour",
+    "year": 2024,
+    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
+    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
+    "title_en": "Yalla Parkour",
+    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
+    "runtime": 89,
+    "director": "Areeb Zuaiter",
     "genres": [
-      "Mistero",
-      "Thriller",
-      "Horror"
+      "Documentario",
+      "Dramma"
     ]
   },
   {
@@ -35,6 +34,23 @@
     ]
   },
   {
+    "tmdb_id": 961077,
+    "title": "La più piccola",
+    "original_title": "La Petite Dernière",
+    "italian_title": "La più piccola",
+    "year": 2025,
+    "poster_path": "/juKJfuG7PwpVSQSX7G4nxbaNl0K.jpg",
+    "overview": "Fatima, diciassette anni, è la più piccola di tre sorelle in una famiglia musulmana. Cresciuta tra affetto familiare e tradizioni, affronta il delicato equilibrio tra preghiere sussurrate e sogni proibiti. Studentessa di filosofia a Parigi, intraprende un viaggio intenso alla ricerca della propria identità nel tentativo di conciliare cuore, amore e devozione.",
+    "title_en": "The Little Sister",
+    "overview_en": "Fatima, 17, the youngest daughter of a French-Algerian family in a Paris suburb, leaves school for a prestigious prep class. She plays football, has a secret boyfriend, but hides that she loves women. In Paris, new freedoms clash with family tradition and faith, forcing her to find her own path.",
+    "runtime": 112,
+    "director": "Hafsia Herzi",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
     "tmdb_id": 42853,
     "title": "Odissea",
     "original_title": "Odissea",
@@ -50,40 +66,6 @@
       "televisione film",
       "Avventura",
       "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1370210,
-    "title": "Yalla Parkour",
-    "original_title": "يلّا باركور",
-    "italian_title": "Yalla Parkour",
-    "year": 2024,
-    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
-    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
-    "title_en": "Yalla Parkour",
-    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
-    "runtime": 89,
-    "director": "Areeb Zuaiter",
-    "genres": [
-      "Documentario",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 961077,
-    "title": "La più piccola",
-    "original_title": "La Petite Dernière",
-    "italian_title": "La più piccola",
-    "year": 2025,
-    "poster_path": "/juKJfuG7PwpVSQSX7G4nxbaNl0K.jpg",
-    "overview": "Fatima, diciassette anni, è la più piccola di tre sorelle in una famiglia musulmana. Cresciuta tra affetto familiare e tradizioni, affronta il delicato equilibrio tra preghiere sussurrate e sogni proibiti. Studentessa di filosofia a Parigi, intraprende un viaggio intenso alla ricerca della propria identità nel tentativo di conciliare cuore, amore e devozione.",
-    "title_en": "The Little Sister",
-    "overview_en": "Fatima, 17, the youngest daughter of a French-Algerian family in a Paris suburb, leaves school for a prestigious prep class. She plays football, has a secret boyfriend, but hides that she loves women. In Paris, new freedoms clash with family tradition and faith, forcing her to find her own path.",
-    "runtime": 112,
-    "director": "Hafsia Herzi",
-    "genres": [
-      "Dramma",
-      "Romance"
     ]
   },
   {
@@ -156,40 +138,6 @@
     ]
   },
   {
-    "tmdb_id": 43231,
-    "title": "Le notti bianche",
-    "original_title": "Le notti bianche",
-    "italian_title": "Le notti bianche",
-    "year": 1957,
-    "poster_path": "/ez8LiPfL8kMLkzrIrW55xn3Nyea.jpg",
-    "overview": "Mario incontra Natalia che, come tutte le sere, sta aspettando di incontrare un uomo di cui è perdutamente innamorata. Sembra che un sentimento debba nascere tra i due, quando lo sconosciuto compare davvero.",
-    "title_en": "White Nights",
-    "overview_en": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return.",
-    "runtime": 107,
-    "director": "Luchino Visconti",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 1130402,
-    "title": "Terapia di famiglia",
-    "original_title": "Jamais sans mon psy",
-    "italian_title": "Terapia di famiglia",
-    "year": 2024,
-    "poster_path": "/cJUjUI1hyIlCax8GRmxIiaHxRFq.jpg",
-    "overview": "Cinque anni di psicoterapia non sono serviti ad alleviare l'ansia che mette a repentaglio la vita di Damien. Il dottor Beranger non lo sopporta più. Così lo caccia con una sfida terapeutica: trovare la donna della sua vita. E indovinate un po'? Ci riesce! Tre mesi dopo, la sua fidanzata Alice lo invita a casa dei suoi genitori, che stanno organizzando una grande festa per il loro trentesimo anniversario. Appena Damien e Alice arrivano, nulla va per il verso giusto. Ma la cosa peggiore è che il padre di Alice non è altri che il dottor Beranger in persona! Determinato a convincere sua figlia a rompere con Damien, il dottore non si fermerà davanti a nulla per rendergli la vita un inferno!",
-    "title_en": "Not Without My Shrink",
-    "overview_en": "A successful psychoanalyst's life is turned upside down by a very anxious and extremely clingy patient who starts dating his daughter.",
-    "runtime": 91,
-    "director": "Arnaud Lemort",
-    "genres": [
-      "Commedia",
-      "Famiglia"
-    ]
-  },
-  {
     "tmdb_id": 11220,
     "title": "Angeli perduti",
     "original_title": "墮落天使",
@@ -239,6 +187,23 @@
     "genres": [
       "Commedia",
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1130402,
+    "title": "Terapia di famiglia",
+    "original_title": "Jamais sans mon psy",
+    "italian_title": "Terapia di famiglia",
+    "year": 2024,
+    "poster_path": "/cJUjUI1hyIlCax8GRmxIiaHxRFq.jpg",
+    "overview": "Cinque anni di psicoterapia non sono serviti ad alleviare l'ansia che mette a repentaglio la vita di Damien. Il dottor Beranger non lo sopporta più. Così lo caccia con una sfida terapeutica: trovare la donna della sua vita. E indovinate un po'? Ci riesce! Tre mesi dopo, la sua fidanzata Alice lo invita a casa dei suoi genitori, che stanno organizzando una grande festa per il loro trentesimo anniversario. Appena Damien e Alice arrivano, nulla va per il verso giusto. Ma la cosa peggiore è che il padre di Alice non è altri che il dottor Beranger in persona! Determinato a convincere sua figlia a rompere con Damien, il dottore non si fermerà davanti a nulla per rendergli la vita un inferno!",
+    "title_en": "Not Without My Shrink",
+    "overview_en": "A successful psychoanalyst's life is turned upside down by a very anxious and extremely clingy patient who starts dating his daughter.",
+    "runtime": 91,
+    "director": "Arnaud Lemort",
+    "genres": [
+      "Commedia",
+      "Famiglia"
     ]
   },
   {
@@ -430,6 +395,23 @@
       "Crime",
       "Thriller",
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 43231,
+    "title": "Le notti bianche",
+    "original_title": "Le notti bianche",
+    "italian_title": "Le notti bianche",
+    "year": 1957,
+    "poster_path": "/ez8LiPfL8kMLkzrIrW55xn3Nyea.jpg",
+    "overview": "Mario incontra Natalia che, come tutte le sere, sta aspettando di incontrare un uomo di cui è perdutamente innamorata. Sembra che un sentimento debba nascere tra i due, quando lo sconosciuto compare davvero.",
+    "title_en": "White Nights",
+    "overview_en": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return.",
+    "runtime": 107,
+    "director": "Luchino Visconti",
+    "genres": [
+      "Dramma",
+      "Romance"
     ]
   },
   {
@@ -849,6 +831,74 @@
     ]
   },
   {
+    "tmdb_id": 89642,
+    "title": "Seduto alla sua destra",
+    "original_title": "Seduto alla sua destra",
+    "italian_title": "Seduto alla sua destra",
+    "year": 1968,
+    "poster_path": "/dvcf4uLkKiuGH2WSgwfK11VuhMj.jpg",
+    "overview": "La storia riprende alla lontana quella del sacrificio di Cristo e meno alla lontana è modellata sulle ultime ore del leader congolese Patrice Lumumba, assassinato dai mercenari al soldo dei proprietari di miniere belghe. Mentre, tra una tortura e l'altra, Lumumba (qui Ubi) giace in una misera cella, stringe amicizia con un ladruncolo italiano che verrà ucciso insieme al leader perché non rimangano testimoni.",
+    "title_en": "Black Jesus",
+    "overview_en": "A thinly-disguised biography of African leader Patrice Lumumba, here called Lalubi. Lalubi, a Christ-like leader determined to save his people, by passive resistance, from the dictatorial regime propped up by European colonialists, is imprisoned and tortured, along with a thief who comes to a greater understanding through his contact with Lalubi.",
+    "runtime": 89,
+    "director": "Valerio Zurlini",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 816660,
+    "title": "Open Hearts",
+    "original_title": "Open Hearts",
+    "italian_title": "Open Hearts",
+    "year": 2021,
+    "poster_path": null,
+    "overview": null,
+    "title_en": "Open Hearts",
+    "overview_en": "Dr. Jeff Kempf from Akron Children’s Hospital (Ohio, USA), and doctors from the USA, Italy, Haiti, and France, demonstrate a new way of helping as they attempt to complete 12 complicated operations while simultaneously challenging conventional wisdom by building up the staff and facilities at St. Damien’s Hospital (Port-au-Prince, Haiti) to become self sufficient. These unprecedented efforts, spearheaded by Gift of Life and Rotary Club, have enabled St. Damien’s to become the first hospital in Haiti capable of treating children with Heart Disease, have allowed Dr. Alexandra Noisette to become the first Haitian pediatric cardiologist, and represents the only collaboration of charities providing heart surgery in Haiti. “Charity” must change, and this bold re-imagination of how charity can work paints a picture of how countries like Haiti can become self sustaining.",
+    "runtime": 59,
+    "director": "Travis Pollert, Jacob Kostelli",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 4232,
+    "title": "Scream",
+    "original_title": "Scream",
+    "italian_title": "Scream",
+    "year": 1996,
+    "poster_path": "/gtT1QDC4h19IPTeAAlEDGgpby0b.jpg",
+    "overview": "Attenti, ragazzi: un serial killer si aggira in mezzo a voi!Sidney si trova a dover affrontare qualcosa che supera le sue crisi adolescenziali. Sua madre infatti è stata assassinata un anno prima, il padre è sempre assente per lavoro e il suo ragazzo Billy la sta spingendo a fuggire di casa. Ci si mette anche un serial killer che ha iniziato a terrorizzare la città usando la sua passione per i film dell'orrore. Avvalendosi di tutte le sue conoscenze in materia, gioca con le sue vittime e riesce a sviare la polizia.  Il film sta tra lo scherzo e l'esercitazione sulla paura: un gioco di ragazzi che si rivela subito una vera, sanguinosa corsa all'incubo. L'ironia stempera la tensione, ma il gran finale notturno è trascinante. Film \"teorico\" che ha rilanciato Craven e generato vari seguiti apocrifi e non. Nella parte del preside c'è Harry \"Fonzie\" Winkler.",
+    "title_en": "Scream",
+    "overview_en": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+    "runtime": 111,
+    "director": "Wes Craven",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 969681,
+    "title": "Spider-Man: Brand New Day",
+    "original_title": "Spider-Man: Brand New Day",
+    "italian_title": "Spider-Man: Brand New Day",
+    "year": 2026,
+    "poster_path": "/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
+    "overview": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter è ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce più il suo nome, si è dedicato interamente alla protezione della sua città. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, dà origine a una delle minacce più potenti che abbia mai affrontato.",
+    "title_en": "Spider-Man: Brand New Day",
+    "overview_en": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+    "runtime": null,
+    "director": "Destin Daniel Cretton",
+    "genres": [
+      "Fantascienza",
+      "Azione",
+      "Avventura"
+    ]
+  },
+  {
     "tmdb_id": 1275779,
     "title": "Disclosure Day",
     "original_title": "Disclosure Day",
@@ -881,6 +931,24 @@
     "genres": [
       "Dramma",
       "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1325734,
+    "title": "The Drama - Un segreto è per sempre",
+    "original_title": "The Drama",
+    "italian_title": "The Drama - Un segreto è per sempre",
+    "year": 2026,
+    "poster_path": "/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
+    "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
+    "title_en": "The Drama",
+    "overview_en": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+    "runtime": 106,
+    "director": "Kristoffer Borgli",
+    "genres": [
+      "Romance",
+      "Commedia",
+      "Dramma"
     ]
   },
   {
@@ -1040,21 +1108,37 @@
     ]
   },
   {
-    "tmdb_id": 969681,
-    "title": "Spider-Man: Brand New Day",
-    "original_title": "Spider-Man: Brand New Day",
-    "italian_title": "Spider-Man: Brand New Day",
-    "year": 2026,
-    "poster_path": "/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
-    "overview": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter è ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce più il suo nome, si è dedicato interamente alla protezione della sua città. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, dà origine a una delle minacce più potenti che abbia mai affrontato.",
-    "title_en": "Spider-Man: Brand New Day",
-    "overview_en": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-    "runtime": null,
-    "director": "Destin Daniel Cretton",
+    "tmdb_id": 57447,
+    "title": "La casa dalle finestre che ridono",
+    "original_title": "La casa dalle finestre che ridono",
+    "italian_title": "La casa dalle finestre che ridono",
+    "year": 1976,
+    "poster_path": "/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
+    "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
+    "title_en": "The House with Laughing Windows",
+    "overview_en": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village.",
+    "runtime": 110,
+    "director": "Pupi Avati",
     "genres": [
-      "Fantascienza",
-      "Azione",
-      "Avventura"
+      "Mistero",
+      "Thriller",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 1485975,
+    "title": "Kim Novak's Vertigo",
+    "original_title": "Kim Novak's Vertigo",
+    "italian_title": "Kim Novak's Vertigo",
+    "year": 2025,
+    "poster_path": "/6QdEBZybmgpcYnzd8IgyXGxlbOO.jpg",
+    "overview": "Un ritratto intimo di una star hollywoodiana fieramente indipendente che si è lasciata tutto alle spalle per vivere secondo le proprie regole, che rivela in un viaggio resiliente e indimenticabile di arte, identità e autenticità sulla scia di uno dei ruoli più celebri del cinema.",
+    "title_en": "Kim Novak's Vertigo",
+    "overview_en": "Explores Kim Novak's life, highlighting her role in Alfred Hitchcock's Vertigo, and her journey from stardom to a reclusive life as an artist in Oregon, using rare archival footage and Novak's own reflections.",
+    "runtime": 77,
+    "director": "Alexandre O. Philippe",
+    "genres": [
+      "Documentario"
     ]
   },
   {
@@ -1127,24 +1211,6 @@
     ]
   },
   {
-    "tmdb_id": 1254808,
-    "title": "Nouvelle Vague",
-    "original_title": "Nouvelle Vague",
-    "italian_title": "Nouvelle Vague",
-    "year": 2025,
-    "poster_path": "/h2vLjnuZHC4LGqEodpzyNNMEios.jpg",
-    "overview": "1959. La nouvelle vague impazza a Parigi e i primi film girati dai suoi esponenti François Truffaut e Claude Chabrol raccolgono un plauso unanime. Manca solo a Jean-Luc Godard di passare dietro la macchina da presa, ma si convince a farlo e trova l'aiuto del produttore Beauregarde. Ne nascerà \"Fino all'ultimo respiro\", film-simbolo della corrente, destinato a cambiare per sempre la storia del cinema.",
-    "title_en": "Nouvelle Vague",
-    "overview_en": "After writing for Cahiers du cinéma, a young Jean-Luc Godard decides making films is the best film criticism. He convinces producer Georges de Beauregard to fund a low-budget feature, and creates a treatment with fellow New Wave filmmaker François Truffaut about a gangster couple. The result? Breathless, one of the first features of the Nouvelle Vague era of French cinema.",
-    "runtime": 106,
-    "director": "Richard Linklater",
-    "genres": [
-      "Commedia",
-      "Dramma",
-      "Storia"
-    ]
-  },
-  {
     "tmdb_id": 11222,
     "title": "L'amico americano",
     "original_title": "Der amerikanische Freund",
@@ -1160,6 +1226,23 @@
       "Dramma",
       "Thriller",
       "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 17962,
+    "title": "After Life - Qual è il tuo ricordo più bello?",
+    "original_title": "ワンダフルライフ",
+    "italian_title": "After Life - Qual è il tuo ricordo più bello?",
+    "year": 1999,
+    "poster_path": "/yfxd7XVMPpTDtvU3lU8RXUqnvmt.jpg",
+    "overview": "In un freddo lunedì mattina, un gruppo di consulenti timbra il cartellino in un ufficio di servizi sociali vecchio stile. Il loro compito è quello di intervistare le persone recentemente decedute, registrare i loro dettagli personali, poi, nel corso della settimana, assisterle nella scelta di un singolo ricordo da conservare per l'eternità.",
+    "title_en": "After Life",
+    "overview_en": "On a cold Monday morning, a group of counselors clock in at an old-fashioned social services office. Their task is to interview the recently deceased, record their personal details, then, over the course of the week, assist them in choosing a single memory to keep for eternity.",
+    "runtime": 118,
+    "director": "是枝裕和",
+    "genres": [
+      "Fantasy",
+      "Dramma"
     ]
   },
   {
@@ -1179,22 +1262,19 @@
     ]
   },
   {
-    "tmdb_id": 1084244,
-    "title": "Toy Story 5",
-    "original_title": "Toy Story 5",
-    "italian_title": "Toy Story 5",
+    "tmdb_id": 1312390,
+    "title": "Nel tepore del ballo",
+    "original_title": "Nel tepore del ballo",
+    "italian_title": "Nel tepore del ballo",
     "year": 2026,
-    "poster_path": "/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
-    "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
-    "title_en": "Toy Story 5",
-    "overview_en": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-    "runtime": 102,
-    "director": "Andrew Stanton",
+    "poster_path": "/ng9NBZ5qAJ4k4KlvQWgxKTuM1XT.jpg",
+    "overview": "Il film racconta la parabola umana e sentimentale di Gianni Riccio (Massimo Ghini) conduttore televisivo di successo travolto da uno scandalo giudiziario che lo costringe a rimettere in discussione tutta la sua esistenza.  Una storia di caduta e rinascita, dove il ritorno alle origini e l’incontro con un amore passato si intrecciano con la riscoperta di sé.",
+    "title_en": "The Warmth Of Dance",
+    "overview_en": "A famous TV host, who grew up without parents and with a painful past, sees his brilliant career and power called into question during a train journey from Rome to Milan.",
+    "runtime": 100,
+    "director": "Pupi Avati",
     "genres": [
-      "Animazione",
-      "Famiglia",
-      "Commedia",
-      "Avventura"
+      "Dramma"
     ]
   },
   {
@@ -1229,6 +1309,25 @@
     "genres": [
       "Commedia",
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1084244,
+    "title": "Toy Story 5",
+    "original_title": "Toy Story 5",
+    "italian_title": "Toy Story 5",
+    "year": 2026,
+    "poster_path": "/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
+    "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
+    "title_en": "Toy Story 5",
+    "overview_en": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+    "runtime": 102,
+    "director": "Andrew Stanton",
+    "genres": [
+      "Animazione",
+      "Famiglia",
+      "Commedia",
+      "Avventura"
     ]
   },
   {
@@ -1622,22 +1721,6 @@
     ]
   },
   {
-    "tmdb_id": 1606533,
-    "title": "Giulio Regeni: Tutto Il Male Del Mondo",
-    "original_title": "Giulio Regeni: Tutto Il Male Del Mondo",
-    "italian_title": "Giulio Regeni: Tutto Il Male Del Mondo",
-    "year": 2026,
-    "poster_path": "/5lnDD2sFErBF27j3NM5rSdhLXTI.jpg",
-    "overview": "Simone Manetti dall’inizio del processo sta filmando tutte le udienze e seguendo in aula i genitori di Giulio, Paola Deffendi e Claudio Regeni e l’Avvocata Alessandra Ballerini, che, con il supporto del “popolo giallo” e della “scorta mediatica” stanno cercando di ottenere una verità processuale. La drammatica vicenda del giovane ricercatore italiano rapito, torturato e ucciso in Egitto tra il 25 gennaio e il 3 febbraio 2016, che ha fatto il giro del mondo, e ha coinvolto coscienze e modificato leggi e giurisprudenza, da sei mesi ha iniziato a trovare finalmente spazio anche nelle aule di tribunale. 103 mesi di depistaggi, colpi di scena e segreti che dall’inizio del 2024 vengono analizzati nel processo in Corte d’Assise che si sta svolgendo presso il Tribunale di Roma. Una vicenda tragica e cruenta che ha coinvolto alte sfere della politica egiziana, italiana e internazionale, sollevando la mai risolta questione: può, la ragione di Stato prevalere sulle ragioni della Giustizia?",
-    "title_en": "Giulio Regeni: All The Evil In The World",
-    "overview_en": "The events related to the death of Giulio Regeni, kidnapped, tortured and killed in Egypt, with the reconstruction of his family and lawyer Alessandra Ballerini, showing the stages of the kidnapping, the torture and killing.",
-    "runtime": 96,
-    "director": "Simone Manetti",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
     "tmdb_id": 1508701,
     "title": "...che Dio perdona a tutti",
     "original_title": "...che Dio perdona a tutti",
@@ -1753,20 +1836,21 @@
     ]
   },
   {
-    "tmdb_id": 1151272,
-    "title": "Sirāt",
-    "original_title": "Sirāt",
-    "italian_title": "Sirāt",
+    "tmdb_id": 1254808,
+    "title": "Nouvelle Vague",
+    "original_title": "Nouvelle Vague",
+    "italian_title": "Nouvelle Vague",
     "year": 2025,
-    "poster_path": "/edEDZwU3kZerqdylZsyCn7feH23.jpg",
-    "overview": "Luis con il giovane figlio Esteban si aggira in un rave party mostrando una foto della figlia Mar della quale ha perso da alcuni mesi le tracce e che vorrebbe trovare. Nessuno la conosce ma, nel corso della ricerca, l'uomo fa delle conoscenze che, dopo la chiusura della festa da parte dei militari, lo indirizzano verso un altro rave. Il viaggio non sarà dei più facili e non solo per le asperità del terreno.",
-    "title_en": "Sirāt",
-    "overview_en": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
-    "runtime": 115,
-    "director": "Oliver Laxe",
+    "poster_path": "/h2vLjnuZHC4LGqEodpzyNNMEios.jpg",
+    "overview": "1959. La nouvelle vague impazza a Parigi e i primi film girati dai suoi esponenti François Truffaut e Claude Chabrol raccolgono un plauso unanime. Manca solo a Jean-Luc Godard di passare dietro la macchina da presa, ma si convince a farlo e trova l'aiuto del produttore Beauregarde. Ne nascerà \"Fino all'ultimo respiro\", film-simbolo della corrente, destinato a cambiare per sempre la storia del cinema.",
+    "title_en": "Nouvelle Vague",
+    "overview_en": "After writing for Cahiers du cinéma, a young Jean-Luc Godard decides making films is the best film criticism. He convinces producer Georges de Beauregard to fund a low-budget feature, and creates a treatment with fellow New Wave filmmaker François Truffaut about a gangster couple. The result? Breathless, one of the first features of the Nouvelle Vague era of French cinema.",
+    "runtime": 106,
+    "director": "Richard Linklater",
     "genres": [
+      "Commedia",
       "Dramma",
-      "Thriller"
+      "Storia"
     ]
   },
   {
@@ -1855,20 +1939,22 @@
     ]
   },
   {
-    "tmdb_id": 857800,
-    "title": "Becoming Led Zeppelin",
-    "original_title": "Becoming Led Zeppelin",
-    "italian_title": "Becoming Led Zeppelin",
-    "year": 2025,
-    "poster_path": "/rnnDKMVUepNLhHoEgE87QyOdPdg.jpg",
-    "overview": "BECOMING LED ZEPPELIN è il primo film ufficialmente autorizzato sul gruppo e ripercorre la storia creativa, musicale e personale dei Led Zeppelin, raccontata attraverso le stesse parole della band. Il film concerto svela anche un'enorme quantità di filmati rari e inediti sulle performance del gruppo: il risultato è un'esperienza musicale viscerale, che trasporterà gli spettatori nelle sale da concerto dei primi tour, accompagnati da commenti intimi ed esclusivi della band, notoriamente riservata.",
-    "title_en": "Becoming Led Zeppelin",
-    "overview_en": "The individual journeys of the four members of the band, as they move through the music scene of the 1960s, playing small clubs throughout Britain and performing some of the biggest hits of the era, until their meeting in the summer of 1968 for a rehearsal that changes their lives forever.",
-    "runtime": 137,
-    "director": "Bernard MacMahon",
+    "tmdb_id": 1108427,
+    "title": "Oceania",
+    "original_title": "Moana",
+    "italian_title": "Oceania",
+    "year": 2026,
+    "poster_path": "/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
+    "overview": null,
+    "title_en": "Moana",
+    "overview_en": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "runtime": 115,
+    "director": "Thomas Kail",
     "genres": [
-      "Documentario",
-      "Musica"
+      "Famiglia",
+      "Fantasy",
+      "Commedia",
+      "Avventura"
     ]
   },
   {
@@ -1905,25 +1991,6 @@
     ]
   },
   {
-    "tmdb_id": 1108427,
-    "title": "Oceania",
-    "original_title": "Moana",
-    "italian_title": "Oceania",
-    "year": 2026,
-    "poster_path": "/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
-    "overview": null,
-    "title_en": "Moana",
-    "overview_en": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-    "runtime": 115,
-    "director": "Thomas Kail",
-    "genres": [
-      "Famiglia",
-      "Fantasy",
-      "Commedia",
-      "Avventura"
-    ]
-  },
-  {
     "tmdb_id": 1728113,
     "title": "KATSEYE: WILD HEARTS",
     "original_title": "KATSEYE: WILD HEARTS",
@@ -1935,6 +2002,23 @@
     "overview_en": "This celebrates the group's new era and the fans who made it possible. Features exclusive behind-the-scenes footage, EYEKONS fan videos, and intimate interviews with the members.",
     "runtime": 80,
     "director": "Nadia Hallgren",
+    "genres": [
+      "Documentario",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 1684016,
+    "title": "Katy Perry: The Lifetimes Tour - Live from Paris",
+    "original_title": "Katy Perry: The Lifetimes Tour - Live from Paris",
+    "italian_title": "Katy Perry: The Lifetimes Tour - Live from Paris",
+    "year": 2026,
+    "poster_path": "/hMhQBN3fyGtR3zlO8GntrpYzrKp.jpg",
+    "overview": null,
+    "title_en": "Katy Perry: The Lifetimes Tour - Live from Paris",
+    "overview_en": "Capturing Katy Perry’s electrifying, immersive concert experience, Katy Perry: The Lifetimes Tour – Live from Paris blends powerhouse performances, exhilarating cinematography, and intimate moments to bring audiences into the spectacular world of this creative artist.",
+    "runtime": 119,
+    "director": "Paul Dugdale",
     "genres": [
       "Documentario",
       "Musica"
@@ -1972,24 +2056,6 @@
     "genres": []
   },
   {
-    "tmdb_id": 1083381,
-    "title": "Backrooms",
-    "original_title": "Backrooms",
-    "italian_title": "Backrooms",
-    "year": 2026,
-    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
-    "title_en": "Backrooms",
-    "overview_en": "A strange doorway appears in the basement of a furniture showroom.",
-    "runtime": 111,
-    "director": "Kane Parsons",
-    "genres": [
-      "Horror",
-      "Mistero",
-      "Fantascienza"
-    ]
-  },
-  {
     "tmdb_id": 1212763,
     "title": "La casa - Il rogo del Male",
     "original_title": "Evil Dead Burn",
@@ -2022,6 +2088,25 @@
       "Fantascienza",
       "Mistero",
       "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1284465,
+    "title": "Robin Hood - Il prezzo del sangue",
+    "original_title": "The Death of Robin Hood",
+    "italian_title": "Robin Hood - Il prezzo del sangue",
+    "year": 2026,
+    "poster_path": "/knUCsVWsLv5583lsvs2cP1VRrGx.jpg",
+    "overview": "Il principe dei ladri, il difensore degli oppressi, l’eroe che ruba ai ricchi per dare ai poveri. Sono tutte bugie: Robin Hood non è mai stato un paladino della giustizia, ma solo un efferato bandito, e le sue “allegre scorribande” erano vere e proprie carneficine. Ma quando dedichi la tua vita al crimine, alla violenza e alla menzogna, devi essere pronto a pagarne il prezzo…",
+    "title_en": "The Death of Robin Hood",
+    "overview_en": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+    "runtime": 123,
+    "director": "Michael Sarnoski",
+    "genres": [
+      "Avventura",
+      "Dramma",
+      "Thriller",
+      "Azione"
     ]
   },
   {
