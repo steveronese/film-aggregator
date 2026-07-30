@@ -1,40 +1,5 @@
 [
   {
-    "tmdb_id": 1563588,
-    "title": "L'hangar rosso",
-    "original_title": "Hangar Rojo",
-    "italian_title": "L'hangar rosso",
-    "year": 2026,
-    "poster_path": "/owA1QtBUMmJ5DBN4eLL4fmrUxRH.jpg",
-    "overview": "Cile, 11 settembre 1973, colpo di stato militare. Il capitano Jorge Silva, ex capo dell’intelligence dell’Aeronautica, viene incaricato di trasformare l’Accademia in cui sta addestrando i giovani cadetti in un centro di detenzione e tortura. Mentre gli hangar si riempiono di prigionieri e la repressione diventa sempre più brutale, Silva si ritrova a un bivio: obbedire agli ordini e appoggiare il nuovo regime, o disobbedire e aiutare chi lotta per sopravvivere?",
-    "title_en": "The Red Hangar",
-    "overview_en": "Chile, 1973. The military coup will force Jorge Silva, an Air Force captain, to face the unfolding horror. Inside a military base, he must choose between becoming part of the repression or helping those fighting to stay alive.",
-    "runtime": 81,
-    "director": "Juan Pablo Sallato",
-    "genres": [
-      "Dramma",
-      "Storia",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1370210,
-    "title": "Yalla Parkour",
-    "original_title": "يلّا باركور",
-    "italian_title": "Yalla Parkour",
-    "year": 2024,
-    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
-    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
-    "title_en": "Yalla Parkour",
-    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
-    "runtime": 89,
-    "director": "Areeb Zuaiter",
-    "genres": [
-      "Documentario",
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 42853,
     "title": "Odissea",
     "original_title": "Odissea",
@@ -50,23 +15,6 @@
       "televisione film",
       "Avventura",
       "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 961077,
-    "title": "La più piccola",
-    "original_title": "La Petite Dernière",
-    "italian_title": "La più piccola",
-    "year": 2025,
-    "poster_path": "/juKJfuG7PwpVSQSX7G4nxbaNl0K.jpg",
-    "overview": "Fatima, diciassette anni, è la più piccola di tre sorelle in una famiglia musulmana. Cresciuta tra affetto familiare e tradizioni, affronta il delicato equilibrio tra preghiere sussurrate e sogni proibiti. Studentessa di filosofia a Parigi, intraprende un viaggio intenso alla ricerca della propria identità nel tentativo di conciliare cuore, amore e devozione.",
-    "title_en": "The Little Sister",
-    "overview_en": "Fatima, 17, the youngest daughter of a French-Algerian family in a Paris suburb, leaves school for a prestigious prep class. She plays football, has a secret boyfriend, but hides that she loves women. In Paris, new freedoms clash with family tradition and faith, forcing her to find her own path.",
-    "runtime": 112,
-    "director": "Hafsia Herzi",
-    "genres": [
-      "Dramma",
-      "Romance"
     ]
   },
   {
@@ -102,6 +50,40 @@
       "Mistero",
       "Thriller",
       "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 1370210,
+    "title": "Yalla Parkour",
+    "original_title": "يلّا باركور",
+    "italian_title": "Yalla Parkour",
+    "year": 2024,
+    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
+    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
+    "title_en": "Yalla Parkour",
+    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
+    "runtime": 89,
+    "director": "Areeb Zuaiter",
+    "genres": [
+      "Documentario",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 961077,
+    "title": "La più piccola",
+    "original_title": "La Petite Dernière",
+    "italian_title": "La più piccola",
+    "year": 2025,
+    "poster_path": "/juKJfuG7PwpVSQSX7G4nxbaNl0K.jpg",
+    "overview": "Fatima, diciassette anni, è la più piccola di tre sorelle in una famiglia musulmana. Cresciuta tra affetto familiare e tradizioni, affronta il delicato equilibrio tra preghiere sussurrate e sogni proibiti. Studentessa di filosofia a Parigi, intraprende un viaggio intenso alla ricerca della propria identità nel tentativo di conciliare cuore, amore e devozione.",
+    "title_en": "The Little Sister",
+    "overview_en": "Fatima, 17, the youngest daughter of a French-Algerian family in a Paris suburb, leaves school for a prestigious prep class. She plays football, has a secret boyfriend, but hides that she loves women. In Paris, new freedoms clash with family tradition and faith, forcing her to find her own path.",
+    "runtime": 112,
+    "director": "Hafsia Herzi",
+    "genres": [
+      "Dramma",
+      "Romance"
     ]
   },
   {
@@ -206,59 +188,6 @@
     ]
   },
   {
-    "tmdb_id": 205,
-    "title": "Hotel Rwanda",
-    "original_title": "Hotel Rwanda",
-    "italian_title": "Hotel Rwanda",
-    "year": 2004,
-    "poster_path": "/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
-    "overview": "La storia vera di Paul Rusesabagina, direttore di un hotel a quattro stelle in Rwanda, che ha aiutato milioni di rifugiati Tutsi a nascondersi dalle milizie Hutu che negli anni '90 scatenarono il terrore nello stato africano. Allo scoppio del conflitto, non si limita a mettere in salvo i suoi familiari, ma, facendo leva sui suoi privilegi lavorativi, apre le porte dell'hotel a quanti rischiavano di essere uccisi nel terribile eccidio.",
-    "title_en": "Hotel Rwanda",
-    "overview_en": "Inspired by true events, this film takes place in Rwanda in the 1990s when more than a million Tutsis were killed in a genocide that went mostly unnoticed by the rest of the world. Hotel owner Paul Rusesabagina houses over a thousand refuges in his hotel in attempt to save their lives.",
-    "runtime": 121,
-    "director": "Terry George",
-    "genres": [
-      "Dramma",
-      "Storia",
-      "Guerra"
-    ]
-  },
-  {
-    "tmdb_id": 290098,
-    "title": "Mademoiselle",
-    "original_title": "아가씨",
-    "italian_title": "Mademoiselle",
-    "year": 2016,
-    "poster_path": "/1oAhyXfE3ytjS6PxUjg5Yx2DtO8.jpg",
-    "overview": "La giovane ereditiera Hideko, alle soglie della maggiore età, è orfana di entrambi i genitori ed ha perso una zia, sorella della madre, cui era particolarmente legata. Vive quasi reclusa nella grande villa dello zio, un ricco collezionista di libri erotici che intende sposarla per impadronirsi del suo patrimonio.  Uno spregiudicato truffatore, che da tempo si fa chiamare Conte Fujiwara millantando origini nobiliari, riesce a far assumere come domestica di Hideko l'abile borseggiatrice Sook-hee. Egli intende servirsi della ragazza per scardinare l'equilibrio della casa, sposare Hideko, mettere le mani sul suo patrimonio e infine sbarazzarsene, rinchiudendola in manicomio.",
-    "title_en": "The Handmaiden",
-    "overview_en": "1930s Korea, in the period of Japanese occupation, a new girl, Sook-hee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to steal her fortune.",
-    "runtime": 144,
-    "director": "Park Chan-wook",
-    "genres": [
-      "Thriller",
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 49697,
-    "title": "La ragazza con la valigia",
-    "original_title": "La ragazza con la valigia",
-    "italian_title": "La ragazza con la valigia",
-    "year": 1961,
-    "poster_path": "/xla77zaETgUZk2q6Z3Kpn3TNNEz.jpg",
-    "overview": "Aida è una ballerina dal passato burrascoso. Lorenzo è uno studente serio e di buona famiglia. Nonostante tutto congiuri contro la possibilità di una loro unione, Lorenzo decide di invitare Aida a raggiungerlo a Parma, dove si accolla anche il suo mantenimento. Interviene a un certo punto il professore di matematica di Lorenzo, che convince Aida della rovina a cui questa unione porterà inevitabilmente il ragazzo. Aida suo malgrado capisce che il professore (nonché sacerdote) ha ragione e decide di andarsene.",
-    "title_en": "Girl with a Suitcase",
-    "overview_en": "Lorenzo, who's 16 and born to a wealthy family in Parma, tries to make things right toward a showgirl, Aida, whom his older brother has mistreated. In extending kindness and standing up for her, he comes of age. But, is there anything he can do that will alter Aida's situation or her prospects?",
-    "runtime": 121,
-    "director": "Valerio Zurlini",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
     "tmdb_id": 1130402,
     "title": "Terapia di famiglia",
     "original_title": "Jamais sans mon psy",
@@ -273,6 +202,24 @@
     "genres": [
       "Commedia",
       "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 1563588,
+    "title": "L'hangar rosso",
+    "original_title": "Hangar Rojo",
+    "italian_title": "L'hangar rosso",
+    "year": 2026,
+    "poster_path": "/owA1QtBUMmJ5DBN4eLL4fmrUxRH.jpg",
+    "overview": "Cile, 11 settembre 1973, colpo di stato militare. Il capitano Jorge Silva, ex capo dell’intelligence dell’Aeronautica, viene incaricato di trasformare l’Accademia in cui sta addestrando i giovani cadetti in un centro di detenzione e tortura. Mentre gli hangar si riempiono di prigionieri e la repressione diventa sempre più brutale, Silva si ritrova a un bivio: obbedire agli ordini e appoggiare il nuovo regime, o disobbedire e aiutare chi lotta per sopravvivere?",
+    "title_en": "The Red Hangar",
+    "overview_en": "Chile, 1973. The military coup will force Jorge Silva, an Air Force captain, to face the unfolding horror. Inside a military base, he must choose between becoming part of the repression or helping those fighting to stay alive.",
+    "runtime": 81,
+    "director": "Juan Pablo Sallato",
+    "genres": [
+      "Dramma",
+      "Storia",
+      "Thriller"
     ]
   },
   {
@@ -1052,6 +999,57 @@
     ]
   },
   {
+    "tmdb_id": 18415,
+    "title": "Gummo",
+    "original_title": "Gummo",
+    "italian_title": "Gummo",
+    "year": 1997,
+    "poster_path": "/8R5uYYkSVyN0LN7eyavHxy7X9mz.jpg",
+    "overview": "Xenia. Ohio. Una cittadina di provincia è stata sconvolta dall'uragano Gummo. Il protagonista è un giovane ragazzino, contaminato dall'amoralità dei mostri che vivono intorno a lui e con i quali interagisce. Fuma e piscia sopra un cavalcavia con in testa orecchie da coniglio, uccide gatti insieme ad un amico per venderli ad un ristorante cinese e comprarsi della colla da sniffare, si lascia lavare dalla mamma in una vasca di acqua putrida, mentre mangia degli spaghetti.",
+    "title_en": "Gummo",
+    "overview_en": "Teenagers Solomon and Tummler kill time in Xenia, Ohio, a small town that has never recovered from the tornado that ravaged the community in the 1970s.",
+    "runtime": 89,
+    "director": "Harmony Korine",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 335984,
+    "title": "Blade Runner 2049",
+    "original_title": "Blade Runner 2049",
+    "italian_title": "Blade Runner 2049",
+    "year": 2017,
+    "poster_path": "/4XJQG11Ytl8mKfgbl2jkoY5ZuFX.jpg",
+    "overview": "Trent'anni dopo gli eventi del primo film, un nuovo blade runner, l'Agente K della Polizia di Los Angeles  scopre un segreto sepolto da tempo che ha il potenziale di far precipitare nel caos quello che è rimasto della società. La scoperta di K lo spinge verso la ricerca di Rick Deckard, un ex-blade runner della polizia di Los Angeles sparito nel nulla da 30 anni.",
+    "title_en": "Blade Runner 2049",
+    "overview_en": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+    "runtime": 164,
+    "director": "Denis Villeneuve",
+    "genres": [
+      "Fantascienza",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 11631,
+    "title": "Mamma Mia!",
+    "original_title": "Mamma Mia!",
+    "italian_title": "Mamma Mia!",
+    "year": 2008,
+    "poster_path": "/iHQyTBxUcgUWE3q7kyb97DSJqy9.jpg",
+    "overview": "Grecia, 1999. La giovane Sophie ha un sogno: conoscere suo padre e farsi condurre all'altare nell'incantevole isola di Kalokairi. Alla vigilia delle sue nozze con Sky ha scoperto il diario segreto e i segreti del cuore della madre, una donna indipendente e piena di vita che gestisce un piccolo hotel sul mare di Afrodite oggi. All'insaputa di Donna, Sophie invita a nozze i suoi potenziali padri: un uomo d'affari, un avventuriero e un banchiere impacciato. Scoperta molto presto la loro presenza sull'isola, Donna li invita \"amabilmente\" a rimettersi in mare ma niente andrà come previsto. Gli dei in cielo hanno lanciato i dadi e versato amore, tanto amore, nei calici.\"amabilmente\" a rimettersi in mare ma niente andrà come previsto. Gli dei in cielo hanno lanciato i dadi e versato amore, tanto amore, nei calici.",
+    "title_en": "Mamma Mia!",
+    "overview_en": "A spirited young bride-to-be living with her single mother on a small Greek island secretly invites three of her mother's ex-boyfriends in hope of finding her biological father to walk her down the aisle.",
+    "runtime": 108,
+    "director": "Phyllida Lloyd",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
     "tmdb_id": 969681,
     "title": "Spider-Man: Brand New Day",
     "original_title": "Spider-Man: Brand New Day",
@@ -1139,22 +1137,6 @@
     ]
   },
   {
-    "tmdb_id": 1575560,
-    "title": "Separazioni",
-    "original_title": "Separazioni",
-    "italian_title": "Separazioni",
-    "year": 2026,
-    "poster_path": "/jpIjT6atZo6xWDcTzGxbR9NDT5s.jpg",
-    "overview": "Il film dipinge una rete di legami famigliari e sentimentali il cui equilibrio apparente viene sconvolto dalla scomparsa di due ragazzi sulle vette innevate del Gran Sasso, che farà emergere intrecci segreti e tradimenti.",
-    "title_en": "Separazioni",
-    "overview_en": null,
-    "runtime": 97,
-    "director": "Stefano Chiantini",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1214684,
     "title": "Il bacio della donna ragno",
     "original_title": "Kiss of the Spider Woman",
@@ -1190,26 +1172,6 @@
     ]
   },
   {
-    "tmdb_id": 1315772,
-    "title": "Minions & Monsters",
-    "original_title": "Minions & Monsters",
-    "italian_title": "Minions & Monsters",
-    "year": 2026,
-    "poster_path": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-    "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
-    "title_en": "Minions & Monsters",
-    "overview_en": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-    "runtime": 90,
-    "director": "Pierre Coffin",
-    "genres": [
-      "Avventura",
-      "Animazione",
-      "Commedia",
-      "Famiglia",
-      "Fantasy"
-    ]
-  },
-  {
     "tmdb_id": 1369286,
     "title": "Cos'è l'amore?",
     "original_title": "C’est quoi l’amour ?",
@@ -1241,23 +1203,6 @@
     "genres": [
       "Dramma",
       "Western"
-    ]
-  },
-  {
-    "tmdb_id": 1410189,
-    "title": "Kontinental '25",
-    "original_title": "Kontinental '25",
-    "italian_title": "Kontinental '25",
-    "year": 2025,
-    "poster_path": "/h1hjWAd2ekaVU583biDeIOkhrom.jpg",
-    "overview": "Dovrebbe essere un normale giorno di lavoro per Orsoloya, ufficiale addetta agli sfratti. Ma, quando caccia un senzatetto da un seminterrato in cui si era rifugiato, accade l’irreparabile: l’uomo si toglie la vita. Sopraffatta dal senso di colpa, Orsoloya si imbarca in una serie di incontri e situazioni sempre più assurdi per cercare goffamente di trovare una qualche forma di redenzione.",
-    "title_en": "Kontinental '25",
-    "overview_en": "Orsolya is a bailiff in Cluj, the main city in Transylvania. One day she has to evict a homeless man from a cellar, an action with tragic consequences that triggers a moral crisis which Orsolya must weather as best she can.",
-    "runtime": 109,
-    "director": "Radu Jude",
-    "genres": [
-      "Commedia",
-      "Dramma"
     ]
   },
   {
@@ -1363,24 +1308,6 @@
     ]
   },
   {
-    "tmdb_id": 11222,
-    "title": "L'amico americano",
-    "original_title": "Der amerikanische Freund",
-    "italian_title": "L'amico americano",
-    "year": 1977,
-    "poster_path": "/9Xpa1M6d7yZFiYPHLXhyxHCM9N7.jpg",
-    "overview": "Afflitto da un male incurabile, il corniciaio Jonathan Zimmermann, conduce una tranquilla ma precaria esistenza tra lavoro e famiglia. Tom Ripley, losco e ambiguo mercante d'arte americano, saputa della malattia di Jonathan, ne parla a Minot, un gangster alla ricerca di un insospettabile killer. Jonathan si fa convincere e accetta di compiere un primo omicidio. Ma a Minot non basta...",
-    "title_en": "The American Friend",
-    "overview_en": "Tom Ripley, an American who deals in forged art, is slighted at an auction in Hamburg by picture framer Jonathan Zimmerman. When Ripley is asked by gangster Raoul Minot to kill a rival, he suggests Zimmerman, and the two, exploiting Zimmerman's terminal illness, coerce him into being a hitman.",
-    "runtime": 125,
-    "director": "Wim Wenders",
-    "genres": [
-      "Dramma",
-      "Thriller",
-      "Crime"
-    ]
-  },
-  {
     "tmdb_id": 17962,
     "title": "After Life - Qual è il tuo ricordo più bello?",
     "original_title": "ワンダフルライフ",
@@ -1466,19 +1393,23 @@
     ]
   },
   {
-    "tmdb_id": 1708043,
-    "title": "Election Day",
-    "original_title": "Election Day",
-    "italian_title": "Election Day",
+    "tmdb_id": 1315772,
+    "title": "Minions & Monsters",
+    "original_title": "Minions & Monsters",
+    "italian_title": "Minions & Monsters",
     "year": 2026,
-    "poster_path": "/lYndI3wlV6QD1HGuEVUihAUkBsi.jpg",
-    "overview": "Mentre si avvicina il verdetto delle elezioni politiche, la notte dello scrutinio la deputata progressista Renata Innocenti – candidata di punta al ruolo di Ministro della Pubblica Istruzione in caso di vittoria della sua coalizione – segue l’andamento dei risultati dalla propria abitazione insieme al suo staff. I primi exit poll delineano uno scenario di perfetta parità, destinato a risolversi per pochissimi voti. Tuttavia, proprio quella stessa sera, Renata ignora che il suo compagno, il giornalista sportivo Carlo De Santis, è coinvolto in un caso mediatico: durante un collegamento dal campo, ha rivolto a un calciatore nero un’offesa di stampo razzista.",
-    "title_en": "Election Day",
-    "overview_en": null,
-    "runtime": null,
-    "director": "Giorgio Amato",
+    "poster_path": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+    "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
+    "title_en": "Minions & Monsters",
+    "overview_en": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+    "runtime": 90,
+    "director": "Pierre Coffin",
     "genres": [
-      "Commedia"
+      "Avventura",
+      "Animazione",
+      "Commedia",
+      "Famiglia",
+      "Fantasy"
     ]
   },
   {
@@ -1497,24 +1428,6 @@
       "Commedia",
       "Dramma",
       "Crime"
-    ]
-  },
-  {
-    "tmdb_id": 1092936,
-    "title": "La valle dei sorrisi",
-    "original_title": "La valle dei sorrisi",
-    "italian_title": "La valle dei sorrisi",
-    "year": 2025,
-    "poster_path": "/wZWBXIsX3QBXf94vzCSUqlZDp57.jpg",
-    "overview": "Sergio Rossetti, un insegnate di educazione fisica, viene trasferito a Remis, un piccolo paese di montagna nel quale regna una serenità inscalfibile. Scoprirà che dietro a quell’equilibrio dorato si cela un inquietante rituale. Una notte a settimana gli abitanti di Remis si liberano del proprio dolore grazie a un adolescente, Matteo Corbin: basta abbracciarlo per stare meglio. Nel tentativo di salvare Matteo dalla follia della sua comunità, Sergio scatenerà il lato oscuro di quello che tutti chiamano l’angelo di Remis.",
-    "title_en": "The Holy Boy",
-    "overview_en": "A PE teacher moves to a isolated mountain village where the people appear to live in unshakeable serenity, but soon stumbles across a disturbing ritual. Once a week, the locals are freed of their pain by a lonely boy born with the power to heal one's soul just by hugging them. Trying to rescue him from this madness, the man unleashes his dark side.",
-    "runtime": 122,
-    "director": "Paolo Strippoli",
-    "genres": [
-      "Horror",
-      "Thriller",
-      "Dramma"
     ]
   },
   {
@@ -1548,6 +1461,24 @@
     "director": "David Frankel",
     "genres": [
       "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1092936,
+    "title": "La valle dei sorrisi",
+    "original_title": "La valle dei sorrisi",
+    "italian_title": "La valle dei sorrisi",
+    "year": 2025,
+    "poster_path": "/wZWBXIsX3QBXf94vzCSUqlZDp57.jpg",
+    "overview": "Sergio Rossetti, un insegnate di educazione fisica, viene trasferito a Remis, un piccolo paese di montagna nel quale regna una serenità inscalfibile. Scoprirà che dietro a quell’equilibrio dorato si cela un inquietante rituale. Una notte a settimana gli abitanti di Remis si liberano del proprio dolore grazie a un adolescente, Matteo Corbin: basta abbracciarlo per stare meglio. Nel tentativo di salvare Matteo dalla follia della sua comunità, Sergio scatenerà il lato oscuro di quello che tutti chiamano l’angelo di Remis.",
+    "title_en": "The Holy Boy",
+    "overview_en": "A PE teacher moves to a isolated mountain village where the people appear to live in unshakeable serenity, but soon stumbles across a disturbing ritual. Once a week, the locals are freed of their pain by a lonely boy born with the power to heal one's soul just by hugging them. Trying to rescue him from this madness, the man unleashes his dark side.",
+    "runtime": 122,
+    "director": "Paolo Strippoli",
+    "genres": [
+      "Horror",
+      "Thriller",
       "Dramma"
     ]
   },
@@ -2093,36 +2024,21 @@
     ]
   },
   {
-    "tmdb_id": 1119537,
-    "title": "Love Letters",
-    "original_title": "Des preuves d'amour",
-    "italian_title": "Love Letters",
-    "year": 2025,
-    "poster_path": "/lDsWm55KptwEIa0eQXfDcdDCsUn.jpg",
-    "overview": "Una giovane donna, Céline, aspetta il suo primo figlio. Ma non è lei quella incinta. Fra pochi mesi, sua moglie Nadia darà alla luce la loro bambina. Tra amici, famiglia e leggi, Céline cerca il proprio ruolo e la legittimità nel nuovo contesto familiare. Il film, tutto al femminile con Ella Rumpf e Monia Chokri, esplora le prospettive e le difficoltà delle famiglie moderne.",
-    "title_en": "Love Letters",
-    "overview_en": "Céline is expecting her firstborn. But she’s not the one who’s pregnant. In three months, her wife Nadia will give birth to their daughter. Under the gaze of her friends, her mother, and the law, Céline looks for her place and sense of legitimacy.",
-    "runtime": 97,
-    "director": "Alice Douard",
+    "tmdb_id": 1263012,
+    "title": "Il filo del ricatto -  Dead Man's Wire",
+    "original_title": "Dead Man's Wire",
+    "italian_title": "Il filo del ricatto -  Dead Man's Wire",
+    "year": 2026,
+    "poster_path": "/oJ6NJSGFvhwlzFebNy5oMyW61Fv.jpg",
+    "overview": "La mattina dell’8 febbraio 1977, Anthony G. “Tony” Kiritsis, quarantaquattro anni, entrò nell’ufficio di Richard O. Hall, presidente della Meridian Mortgage Company, e lo prese in ostaggio con un fucile a canne mozze calibro 12 collegato con un “dead man’s wire”, un cavo teso dal grilletto al collo di Hall. Questa è la vera storia del confronto che sconvolse il mondo: Tony chiese cinque milioni di dollari, di non essere né accusato né processato, e delle scuse personali da parte degli Hall per averlo truffato di ciò che gli era “dovuto”.",
+    "title_en": "Dead Man's Wire",
+    "overview_en": "In 1977, former real estate developer Tony Kiritsis puts a dead man's switch on himself and the mortgage banker who did him wrong, demanding $5 million and a personal apology.",
+    "runtime": 106,
+    "director": "Gus Van Sant",
     "genres": [
+      "Crime",
       "Dramma",
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1245193,
-    "title": "E.1027 - Eileen Gray e la casa sul mare",
-    "original_title": "E.1027: Eileen Gray et la maison au bord de la mer",
-    "italian_title": "E.1027 - Eileen Gray e la casa sul mare",
-    "year": 2024,
-    "poster_path": "/jKNpOl8wLXv5L97qHlgSwLzSw3R.jpg",
-    "overview": "Nel 1929 la designer irlandese Eileen Gray realizza in Costa Azzurra un rifugio modernista, intimo e radicale. La sua prima architettura, battezzata E.1027, nasce dall’intreccio delle sue iniziali con quelle di Jean Badovici, con cui la progetta. Quando Le Corbusier scopre la villa, ne rimane affascinato fino all’ossessione: dipinge murali sulle pareti senza permesso e ne pubblica le immagini. Gray definisce quei gesti un atto di vandalismo e chiede che vengano rimossi. Lui ignora la richiesta e costruisce il suo Cabanon proprio alle spalle della casa, imponendo la propria presenza sul luogo fino a oggi.",
-    "title_en": "E.1027: Eileen Gray and the House by the Sea",
-    "overview_en": "A love triangle of jealousy in the Parisian art scene of the 1930s is brought to life in a stylish docufiction about iconic artist and architect Eileen Gray, who built her modernist dream house on the Riviera, only to be upstaged by Le Corbusier.",
-    "runtime": 90,
-    "director": "Beatrice Minger",
-    "genres": [
-      "Documentario"
+      "Thriller"
     ]
   },
   {

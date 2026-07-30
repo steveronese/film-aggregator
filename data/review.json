@@ -49,23 +49,9 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "L'AMICO AMERICANO (DER AMERIKANISCHE FREUND)",
-    "tmdb_id": 11222,
-    "matched_title": "L'amico americano",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "V.O. SOTT.ITA - ALICE NELLE CITTÀ (ALICE IN DEN STADTEN)",
     "tmdb_id": 2204,
     "matched_title": "Alice nelle città",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "LA PIÚ PICCOLA (LA PETITE DERNIÈRE)",
-    "tmdb_id": 961077,
-    "matched_title": "La più piccola",
     "method": "ai",
     "confidence": 100.0
   },
@@ -80,6 +66,13 @@
     "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
     "tmdb_id": 1314481,
     "matched_title": "Il diavolo veste Prada 2",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "LA PIÚ PICCOLA (LA PETITE DERNIÈRE)",
+    "tmdb_id": 961077,
+    "matched_title": "La più piccola",
     "method": "ai",
     "confidence": 100.0
   },
