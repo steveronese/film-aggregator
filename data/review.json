@@ -1,12 +1,5 @@
 [
   {
-    "raw_title": "THE ODYSSEY - ODISSEA",
-    "tmdb_id": 42853,
-    "matched_title": "Odissea",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "JOINT SECURITY AREA",
     "tmdb_id": 2440,
     "matched_title": "J.S.A. - Joint Security Area",
@@ -166,6 +159,13 @@
     "matched_title": "2 Big to Rig",
     "method": "ai",
     "confidence": 95.0
+  },
+  {
+    "raw_title": "Katy Perry: The Lifetimes Tour - Paris",
+    "tmdb_id": 1684016,
+    "matched_title": "Katy Perry: The Lifetimes Tour - Live from Paris",
+    "method": "fuzzy",
+    "confidence": 90.625
   },
   {
     "raw_title": "(O.V.) The Odissey",
