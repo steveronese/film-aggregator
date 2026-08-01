@@ -1,5 +1,12 @@
 [
   {
+    "raw_title": "THE ODYSSEY - ODISSEA",
+    "tmdb_id": 42853,
+    "matched_title": "Odissea",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "JOINT SECURITY AREA",
     "tmdb_id": 2440,
     "matched_title": "J.S.A. - Joint Security Area",
@@ -21,20 +28,6 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "V.O. SOTT.ITA. -  NON BUSSARE ALLA MIA PORTA (Don't Come Knocking)",
-    "tmdb_id": 3527,
-    "matched_title": "Non bussare alla mia porta",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "V.O.SOTT.ITA CALLE MALAGA (CALLE MALAGA)",
-    "tmdb_id": 1399462,
-    "matched_title": "Calle Málaga",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "TERAPIA DI FAMIGLIA (JAMAIS SANS MON PSY)",
     "tmdb_id": 1130402,
     "matched_title": "Terapia di famiglia",
@@ -47,13 +40,6 @@
     "matched_title": "Alice nelle città",
     "method": "ai",
     "confidence": 100.0
-  },
-  {
-    "raw_title": "CIME TEMPESTOSE (WUTHERING HEIGHTS) - V. O.",
-    "tmdb_id": 9364,
-    "matched_title": "Cime tempestose",
-    "method": "ai",
-    "confidence": 95.0
   },
   {
     "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
@@ -168,11 +154,25 @@
     "confidence": 90.625
   },
   {
+    "raw_title": "(O.V.) Harry Potter And The Sorcerer -25",
+    "tmdb_id": 671,
+    "matched_title": "Harry Potter e la pietra filosofale",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "(O.V.) The Odissey",
     "tmdb_id": 1368337,
     "matched_title": "Odissea",
     "method": "fuzzy",
     "confidence": 90.9090909090909
+  },
+  {
+    "raw_title": "Harry Potter E La Pietra Filosofale - 25",
+    "tmdb_id": 671,
+    "matched_title": "Harry Potter e la pietra filosofale",
+    "method": "ai",
+    "confidence": 100.0
   },
   {
     "raw_title": "Oceania (2026) Sing Along",

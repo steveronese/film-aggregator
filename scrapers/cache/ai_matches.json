@@ -15,6 +15,10 @@
     "title": "(O.V.) Backrooms -Everything Must Go",
     "year": null
   },
+  "::extract::(o.v.) harry potter and the sorcerer -25": {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": null
+  },
   "::extract::(o.v.) the amazing digital circus": {
     "title": "The Amazing Digital Circus",
     "year": null
@@ -126,6 +130,10 @@
   "::extract::gente di roma (10 e luce)": {
     "title": "Gente di Roma",
     "year": null
+  },
+  "::extract::harry potter e la pietra filosofale - 25": {
+    "title": "Harry Potter e la Pietra Filosofale",
+    "year": 2001
   },
   "::extract::hopper e il segreto autism friendly": {
     "title": "Hopper e il segreto",
@@ -438,6 +446,10 @@
   "giovani madri jeunes meres": {
     "confidence": 100,
     "tmdb_id": 1242015
+  },
+  "harry potter and the sorcerer s stone": {
+    "confidence": 100,
+    "tmdb_id": 671
   },
   "hopper e il segreto": {
     "confidence": 95,
