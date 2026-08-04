@@ -1,56 +1,5 @@
 [
   {
-    "tmdb_id": 1279865,
-    "title": "A New Dawn",
-    "original_title": "花緑青が明ける日に",
-    "italian_title": "A New Dawn",
-    "year": 2026,
-    "poster_path": "/a105UQIL5lblYEeYOtyrsCCjfjO.jpg",
-    "overview": "La Obito Fireworks, una fabbrica di fuochi d’artificio situata in una lussureggiante foresta, sta affrontando lo sfratto a causa della riqualificazione della città. Keitaro Tatewaki si è rintanato lì da quattro anni, dedicandosi alla produzione di fuochi d’artificio per completare il fantasma “Shuhari” al posto del padre scomparso. Nel frattempo, la sua amica d’infanzia Kaoru, che dopo un certo incidente ha lasciato la sua città natale, vive a Tokyo. Ma con l’avvicinarsi della data dello sfratto, fa visita alla famiglia Tatewaki. I due si incontrano di nuovo e escogitano un piano sorprendente per scoprire il segreto dei fuochi d’artificio perduti. La chiave è un bellissimo pigmento blu chiamato “verderame floreale",
-    "title_en": "A New Dawn",
-    "overview_en": "The Obinata Fireworks Shop factory is getting prepared for an administrative action for confiscation tomorrow. It has been six years since Keitaro has been holed up in a closed-down factory creating fireworks by himself, chasing after an illusion of his father who vanished. It is a story about three young people who overcome the extreme weather conditions, disasters and environmental problems imposed on them and establish their own identities.",
-    "runtime": 75,
-    "director": "四宮義俊",
-    "genres": [
-      "Animazione",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1339713,
-    "title": "Obsession",
-    "original_title": "Obsession",
-    "italian_title": "Obsession",
-    "year": 2026,
-    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
-    "title_en": "Obsession",
-    "overview_en": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "runtime": 108,
-    "director": "Curry Barker",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 961077,
-    "title": "La più piccola",
-    "original_title": "La Petite Dernière",
-    "italian_title": "La più piccola",
-    "year": 2025,
-    "poster_path": "/juKJfuG7PwpVSQSX7G4nxbaNl0K.jpg",
-    "overview": "Fatima, diciassette anni, è la più piccola di tre sorelle in una famiglia musulmana. Cresciuta tra affetto familiare e tradizioni, affronta il delicato equilibrio tra preghiere sussurrate e sogni proibiti. Studentessa di filosofia a Parigi, intraprende un viaggio intenso alla ricerca della propria identità nel tentativo di conciliare cuore, amore e devozione.",
-    "title_en": "The Little Sister",
-    "overview_en": "Fatima, 17, the youngest daughter of a French-Algerian family in a Paris suburb, leaves school for a prestigious prep class. She plays football, has a secret boyfriend, but hides that she loves women. In Paris, new freedoms clash with family tradition and faith, forcing her to find her own path.",
-    "runtime": 112,
-    "director": "Hafsia Herzi",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
     "tmdb_id": 42853,
     "title": "Odissea",
     "original_title": "Odissea",
@@ -81,6 +30,57 @@
     "runtime": 80,
     "director": "Alberto Palmiero",
     "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 961077,
+    "title": "La più piccola",
+    "original_title": "La Petite Dernière",
+    "italian_title": "La più piccola",
+    "year": 2025,
+    "poster_path": "/juKJfuG7PwpVSQSX7G4nxbaNl0K.jpg",
+    "overview": "Fatima, diciassette anni, è la più piccola di tre sorelle in una famiglia musulmana. Cresciuta tra affetto familiare e tradizioni, affronta il delicato equilibrio tra preghiere sussurrate e sogni proibiti. Studentessa di filosofia a Parigi, intraprende un viaggio intenso alla ricerca della propria identità nel tentativo di conciliare cuore, amore e devozione.",
+    "title_en": "The Little Sister",
+    "overview_en": "Fatima, 17, the youngest daughter of a French-Algerian family in a Paris suburb, leaves school for a prestigious prep class. She plays football, has a secret boyfriend, but hides that she loves women. In Paris, new freedoms clash with family tradition and faith, forcing her to find her own path.",
+    "runtime": 112,
+    "director": "Hafsia Herzi",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1339713,
+    "title": "Obsession",
+    "original_title": "Obsession",
+    "italian_title": "Obsession",
+    "year": 2026,
+    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
+    "title_en": "Obsession",
+    "overview_en": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "runtime": 108,
+    "director": "Curry Barker",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1279865,
+    "title": "A New Dawn",
+    "original_title": "花緑青が明ける日に",
+    "italian_title": "A New Dawn",
+    "year": 2026,
+    "poster_path": "/a105UQIL5lblYEeYOtyrsCCjfjO.jpg",
+    "overview": "La Obito Fireworks, una fabbrica di fuochi d’artificio situata in una lussureggiante foresta, sta affrontando lo sfratto a causa della riqualificazione della città. Keitaro Tatewaki si è rintanato lì da quattro anni, dedicandosi alla produzione di fuochi d’artificio per completare il fantasma “Shuhari” al posto del padre scomparso. Nel frattempo, la sua amica d’infanzia Kaoru, che dopo un certo incidente ha lasciato la sua città natale, vive a Tokyo. Ma con l’avvicinarsi della data dello sfratto, fa visita alla famiglia Tatewaki. I due si incontrano di nuovo e escogitano un piano sorprendente per scoprire il segreto dei fuochi d’artificio perduti. La chiave è un bellissimo pigmento blu chiamato “verderame floreale",
+    "title_en": "A New Dawn",
+    "overview_en": "The Obinata Fireworks Shop factory is getting prepared for an administrative action for confiscation tomorrow. It has been six years since Keitaro has been holed up in a closed-down factory creating fireworks by himself, chasing after an illusion of his father who vanished. It is a story about three young people who overcome the extreme weather conditions, disasters and environmental problems imposed on them and establish their own identities.",
+    "runtime": 75,
+    "director": "四宮義俊",
+    "genres": [
+      "Animazione",
       "Dramma"
     ]
   },
@@ -153,6 +153,23 @@
     ]
   },
   {
+    "tmdb_id": 25312,
+    "title": "Yes",
+    "original_title": "Yes",
+    "italian_title": "Yes",
+    "year": 2005,
+    "poster_path": "/70PQCYF3ExuKHqyieJhYV0GJg9H.jpg",
+    "overview": null,
+    "title_en": "Yes",
+    "overview_en": "She is a scientist. He is a Lebanese doctor. They meet at a banquet and fall into a carefree, passionate relationship. But difficulties abound because of his heritage and her loveless marriage. She flies to Havana to sort things out on the beach and in the cabarets. She sends him a ticket, but harbors no illusions that He will join her in this Caribbean melting pot.",
+    "runtime": 100,
+    "director": "Sally Potter",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
     "tmdb_id": 1368337,
     "title": "Odissea",
     "original_title": "The Odyssey",
@@ -168,24 +185,6 @@
       "Avventura",
       "Azione",
       "Fantasy"
-    ]
-  },
-  {
-    "tmdb_id": 88395,
-    "title": "Estate violenta",
-    "original_title": "Estate violenta",
-    "italian_title": "Estate violenta",
-    "year": 1959,
-    "poster_path": "/2KIqfnIDoF2xe3YrReuRMmisFKs.jpg",
-    "overview": "Alla fine della Seconda guerra mondiale sboccia l'amore tra il figlio di un gerarca fascista e la vedova di un ufficiale di marina in una località costiera italiana.",
-    "title_en": "Violent Summer",
-    "overview_en": "Summer, 1943: wealthy youth in the Riccione district of Rimini play while the war gets closer. Carlo Caremoli, a young man who follows the crowd, has found ways to avoid military service. Then, on the beach, he meets Roberta, a war widow with a child. Roberta's mother warns Roberta to avoid Carlo, but to her, he seems attentive and to her daughter he is kind. Romance develops. Within a few weeks, Roberta is risking everything. Can there be a resolution between passion, on the one hand, and war, duty, and social expectation on the other?",
-    "runtime": 98,
-    "director": "Valerio Zurlini",
-    "genres": [
-      "Dramma",
-      "Romance",
-      "Guerra"
     ]
   },
   {
@@ -1045,6 +1044,24 @@
     ]
   },
   {
+    "tmdb_id": 88395,
+    "title": "Estate violenta",
+    "original_title": "Estate violenta",
+    "italian_title": "Estate violenta",
+    "year": 1959,
+    "poster_path": "/2KIqfnIDoF2xe3YrReuRMmisFKs.jpg",
+    "overview": "Alla fine della Seconda guerra mondiale sboccia l'amore tra il figlio di un gerarca fascista e la vedova di un ufficiale di marina in una località costiera italiana.",
+    "title_en": "Violent Summer",
+    "overview_en": "Summer, 1943: wealthy youth in the Riccione district of Rimini play while the war gets closer. Carlo Caremoli, a young man who follows the crowd, has found ways to avoid military service. Then, on the beach, he meets Roberta, a war widow with a child. Roberta's mother warns Roberta to avoid Carlo, but to her, he seems attentive and to her daughter he is kind. Romance develops. Within a few weeks, Roberta is risking everything. Can there be a resolution between passion, on the one hand, and war, duty, and social expectation on the other?",
+    "runtime": 98,
+    "director": "Valerio Zurlini",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "Guerra"
+    ]
+  },
+  {
     "tmdb_id": 3766,
     "title": "La signora di Shanghai",
     "original_title": "The Lady from Shanghai",
@@ -1100,6 +1117,22 @@
     ]
   },
   {
+    "tmdb_id": 9552,
+    "title": "L'esorcista",
+    "original_title": "The Exorcist",
+    "italian_title": "L'esorcista",
+    "year": 1973,
+    "poster_path": "/49uIBJqG4ugL7KC2yBhz0nCLeHG.jpg",
+    "overview": "In un quartiere tranquillo, in una casa dotata di tutti i moderni comfort, una ragazzina modello cade ammalata. La madre non può aiutarla. I medici non riescono ad elaborare una diagnosi. Temendo che le crisi di cui soffre la figlia non riguardino solo la sfera fisica, ma anche quella spirituale, la donna si rivolge a un sacerdote. L'uomo però dubita della presenza del diavolo in quella casa, in quel corpo e la debolezza delle sue convinzioni non farà altro che rendere più forte il maligno.",
+    "title_en": "The Exorcist",
+    "overview_en": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+    "runtime": 122,
+    "director": "William Friedkin",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
     "tmdb_id": 969681,
     "title": "Spider-Man: Brand New Day",
     "original_title": "Spider-Man: Brand New Day",
@@ -1150,6 +1183,23 @@
     "genres": [
       "Dramma",
       "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1317288,
+    "title": "Marty Supreme",
+    "original_title": "Marty Supreme",
+    "italian_title": "Marty Supreme",
+    "year": 2025,
+    "poster_path": "/et9WEOYIel2xTEPL1xwBkifgO2V.jpg",
+    "overview": "Marty Mauser (Timothée Chalamet) è un venditore di scarpe con un’irrefrenabile ossessione per il ping pong che si muove nella New York degli anni ’50 fra truffe, scommesse, passioni proibite e sogni di gloria. Un’esistenza rocambolesca per un personaggio larger than life, eccentrico e ambiziosissimo, smodato e leggendario.",
+    "title_en": "Marty Supreme",
+    "overview_en": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+    "runtime": 149,
+    "director": "Josh Safdie",
+    "genres": [
+      "Dramma",
+      "Thriller"
     ]
   },
   {
@@ -1220,19 +1270,19 @@
     ]
   },
   {
-    "tmdb_id": 1485975,
-    "title": "Kim Novak's Vertigo",
-    "original_title": "Kim Novak's Vertigo",
-    "italian_title": "Kim Novak's Vertigo",
-    "year": 2025,
-    "poster_path": "/6QdEBZybmgpcYnzd8IgyXGxlbOO.jpg",
-    "overview": "Un ritratto intimo di una star hollywoodiana fieramente indipendente che si è lasciata tutto alle spalle per vivere secondo le proprie regole, che rivela in un viaggio resiliente e indimenticabile di arte, identità e autenticità sulla scia di uno dei ruoli più celebri del cinema.",
-    "title_en": "Kim Novak's Vertigo",
-    "overview_en": "Explores Kim Novak's life, highlighting her role in Alfred Hitchcock's Vertigo, and her journey from stardom to a reclusive life as an artist in Oregon, using rare archival footage and Novak's own reflections.",
-    "runtime": 77,
-    "director": "Alexandre O. Philippe",
+    "tmdb_id": 2204,
+    "title": "Alice nelle città",
+    "original_title": "Alice in den Städten",
+    "italian_title": "Alice nelle città",
+    "year": 1974,
+    "poster_path": "/rTv4OUyadugblv59RETHSB0HTVg.jpg",
+    "overview": "Felix Winter rientra in Germania dagli Stati Uniti, senza il reportage che doveva realizzare, ma solo con un pacco di foto Polaroid. All'aeroporto si vede affidare la figlia di una sua connazionale, che promette di raggiungerli in patria qualche giorno più tardi. L'uomo e la bambina incominciano così un viaggio (la madre nel frattempo non dà più notizie di sé) alla ricerca della casa della nonna. Intanto la polizia è riuscita a rintracciare la donna. Andata e ritorno dall'America svuotata dal mito e dal sogno, all'Europa teatro di esasperati esistenzialismi.",
+    "title_en": "Alice in the Cities",
+    "overview_en": "German journalist Philip Winter has a case of writer’s block when trying to write an article about the United States. He decides to return to Germany, and while trying to book a flight, encounters a German woman and her nine year old daughter Alice doing the same. The three become friends (almost out of necessity) and while the mother asks Winter to mind Alice temporarily, it quickly becomes apparent that Alice will be his responsibility for longer than he expected.",
+    "runtime": 110,
+    "director": "Wim Wenders",
     "genres": [
-      "Documentario"
+      "Dramma"
     ]
   },
   {
@@ -1249,6 +1299,39 @@
     "director": "毕赣",
     "genres": [
       "Fantascienza",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1485975,
+    "title": "Kim Novak's Vertigo",
+    "original_title": "Kim Novak's Vertigo",
+    "italian_title": "Kim Novak's Vertigo",
+    "year": 2025,
+    "poster_path": "/6QdEBZybmgpcYnzd8IgyXGxlbOO.jpg",
+    "overview": "Un ritratto intimo di una star hollywoodiana fieramente indipendente che si è lasciata tutto alle spalle per vivere secondo le proprie regole, che rivela in un viaggio resiliente e indimenticabile di arte, identità e autenticità sulla scia di uno dei ruoli più celebri del cinema.",
+    "title_en": "Kim Novak's Vertigo",
+    "overview_en": "Explores Kim Novak's life, highlighting her role in Alfred Hitchcock's Vertigo, and her journey from stardom to a reclusive life as an artist in Oregon, using rare archival footage and Novak's own reflections.",
+    "runtime": 77,
+    "director": "Alexandre O. Philippe",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1294698,
+    "title": "Il caso 137",
+    "original_title": "Dossier 137",
+    "italian_title": "Il caso 137",
+    "year": 2025,
+    "poster_path": "/5MemnGyR35TBztl1J1K80tE2HAa.jpg",
+    "overview": "Stéphanie è un'ispettrice dell'IGPN, l'organismo disciplinare che vigila sulla polizia francese. È lei che si trova a indagare sul caso di Guillaume, un ragazzo partito con la famiglia alla volta di Parigi per partecipare a una manifestazione e ferito gravemente da un proiettile antisommossa. Quando Stéphanie inizia a ricostruire l'accaduto capisce che il caso la tocca anche a livello personale, ma malgrado l'ostilità di molti colleghi decide di andare fino in fondo.",
+    "title_en": "Case 137",
+    "overview_en": "Stéphanie, a police officer working for Internal Affairs, is assigned to a case involving a young man severely wounded during a tense and chaotic demonstration in Paris. While she finds no evidence of illegitimate police violence, the case takes a personal turn when she discovers the victim is from her hometown.",
+    "runtime": 115,
+    "director": "Dominik Moll",
+    "genres": [
+      "Crime",
       "Dramma"
     ]
   },
@@ -1302,40 +1385,6 @@
     "director": "Vincent Paronnaud, Marjane Satrapi",
     "genres": [
       "Animazione",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1325734,
-    "title": "The Drama - Un segreto è per sempre",
-    "original_title": "The Drama",
-    "italian_title": "The Drama - Un segreto è per sempre",
-    "year": 2026,
-    "poster_path": "/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg",
-    "overview": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
-    "title_en": "The Drama",
-    "overview_en": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-    "runtime": 106,
-    "director": "Kristoffer Borgli",
-    "genres": [
-      "Romance",
-      "Commedia",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 2204,
-    "title": "Alice nelle città",
-    "original_title": "Alice in den Städten",
-    "italian_title": "Alice nelle città",
-    "year": 1974,
-    "poster_path": "/rTv4OUyadugblv59RETHSB0HTVg.jpg",
-    "overview": "Felix Winter rientra in Germania dagli Stati Uniti, senza il reportage che doveva realizzare, ma solo con un pacco di foto Polaroid. All'aeroporto si vede affidare la figlia di una sua connazionale, che promette di raggiungerli in patria qualche giorno più tardi. L'uomo e la bambina incominciano così un viaggio (la madre nel frattempo non dà più notizie di sé) alla ricerca della casa della nonna. Intanto la polizia è riuscita a rintracciare la donna. Andata e ritorno dall'America svuotata dal mito e dal sogno, all'Europa teatro di esasperati esistenzialismi.",
-    "title_en": "Alice in the Cities",
-    "overview_en": "German journalist Philip Winter has a case of writer’s block when trying to write an article about the United States. He decides to return to Germany, and while trying to book a flight, encounters a German woman and her nine year old daughter Alice doing the same. The three become friends (almost out of necessity) and while the mother asks Winter to mind Alice temporarily, it quickly becomes apparent that Alice will be his responsibility for longer than he expected.",
-    "runtime": 110,
-    "director": "Wim Wenders",
-    "genres": [
       "Dramma"
     ]
   },
@@ -1430,20 +1479,72 @@
     ]
   },
   {
-    "tmdb_id": 936075,
-    "title": "Michael",
-    "original_title": "Michael",
-    "italian_title": "Michael",
+    "tmdb_id": 870092,
+    "title": "Greta e le favole vere",
+    "original_title": "Greta e le favole vere",
+    "italian_title": "Greta e le favole vere",
     "year": 2026,
-    "poster_path": "/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-    "overview": "Il film racconta la vita di Michael Jackson oltre la musica, tracciando il suo viaggio dalla scoperta del suo straordinario talento come protagonista dei Jackson Five, all'artista visionario la cui ambizione creativa ha alimentato un'incessante ricerca per diventare il più grande intrattenitore del mondo. Evidenziando sia la sua vita fuori dal palco che alcune delle performance più iconiche degli inizi della sua carriera da solista, il film offre al pubblico un posto in prima fila a Michael Jackson come mai prima d'ora. È qui che inizia la sua storia.",
-    "title_en": "Michael",
-    "overview_en": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-    "runtime": 128,
-    "director": "Antoine Fuqua",
+    "poster_path": "/cbviggp1WTZeijGuFKOoF6XYpsg.jpg",
+    "overview": "Greta ha nove anni ed è bravissima a realizzare gli addobbi natalizi con la sua babysitter, Katy. La bambina crede così tanto in Babbo Natale, da decidere di portare una letterina a Nicola, il suo vicino di casa, che le fa credere di essere l’assistente personale di Babbo Natale. Ovviamente Nicola le ha mentito e, quando viene smascherato da Greta, le confessa di non avere nessun rapporto con Babbo Natale. Nicola - che è un bravissimo illustratore - per farsi perdonare, le disegna una fiaba animata che le cambierà la vita: la protagonista della fiaba è Greta Thunberg, una ragazzina che si chiama come lei e che è riuscita a cambiare il mondo, portando al centro dell’attenzione i problemi ambientali e trascinando con la sua determinazione milioni di ragazzi.",
+    "title_en": "Greta e le favole vere",
+    "overview_en": "Nine-year-old Greta loves making Christmas decorations with her babysitter, Katy. She believes so strongly in Santa Claus that she decides to deliver a letter to her neighbor, Nicola, who leads her to believe he is Santa's personal assistant. Of course, Nicola has been lying; when Greta exposes the truth, he confesses that he has no connection to Santa Claus. To make amends, Nicola—a talented illustrator—draws an animated fairy tale for her that will change her life.",
+    "runtime": 93,
+    "director": "Berardo Carboni",
     "genres": [
-      "Musica",
-      "Dramma"
+      "Commedia",
+      "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 1432474,
+    "title": "Nimrods",
+    "original_title": "Nimrods",
+    "italian_title": "Nimrods",
+    "year": 2026,
+    "poster_path": "/aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
+    "overview": null,
+    "title_en": "Nimrods",
+    "overview_en": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
+    "runtime": 102,
+    "director": "Lee Kirk",
+    "genres": [
+      "Commedia",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 1101383,
+    "title": "La fine di Oak Street",
+    "original_title": "The End of Oak Street",
+    "italian_title": "La fine di Oak Street",
+    "year": 2026,
+    "poster_path": "/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
+    "overview": "Quando un misterioso evento cosmico strappa Oak Street dalla periferia e trasporta l’intero quartiere in un luogo sconosciuto, la famiglia Platt si rende presto conto che la propria sopravvivenza dipende dalla capacità di restare uniti cercando di orientarsi in un ambiente ormai irriconoscibile.",
+    "title_en": "The End of Oak Street",
+    "overview_en": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+    "runtime": null,
+    "director": "David Robert Mitchell",
+    "genres": [
+      "Fantascienza",
+      "Mistero",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 635767,
+    "title": "Sacrifice",
+    "original_title": "Sacrifice",
+    "italian_title": "Sacrifice",
+    "year": 2018,
+    "poster_path": "/ahYQSnxQGAN4sAgAbIyaaWn0gY5.jpg",
+    "overview": null,
+    "title_en": "Sacrifice",
+    "overview_en": "'Sacrifice' follows the love story between James Hunter and Blake Robinson as they begin a new phase in their life together. Forces out of their control tear them apart but to what extent and consequence? How much will they sacrifice? A traditional military love story from a perspective which has not yet been seen before.",
+    "runtime": 19,
+    "director": "Anna Maguire",
+    "genres": [
+      "Dramma",
+      "Guerra"
     ]
   },
   {
@@ -1464,23 +1565,6 @@
     ]
   },
   {
-    "tmdb_id": 1317288,
-    "title": "Marty Supreme",
-    "original_title": "Marty Supreme",
-    "italian_title": "Marty Supreme",
-    "year": 2025,
-    "poster_path": "/et9WEOYIel2xTEPL1xwBkifgO2V.jpg",
-    "overview": "Marty Mauser (Timothée Chalamet) è un venditore di scarpe con un’irrefrenabile ossessione per il ping pong che si muove nella New York degli anni ’50 fra truffe, scommesse, passioni proibite e sogni di gloria. Un’esistenza rocambolesca per un personaggio larger than life, eccentrico e ambiziosissimo, smodato e leggendario.",
-    "title_en": "Marty Supreme",
-    "overview_en": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-    "runtime": 149,
-    "director": "Josh Safdie",
-    "genres": [
-      "Dramma",
-      "Thriller"
-    ]
-  },
-  {
     "tmdb_id": 1291659,
     "title": "Il mago del Cremlino - Le origini di Putin",
     "original_title": "Le Mage du Kremlin",
@@ -1494,24 +1578,6 @@
     "director": "Olivier Assayas",
     "genres": [
       "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1154725,
-    "title": "Un mondo meraviglioso",
-    "original_title": "Un monde merveilleux",
-    "italian_title": "Un mondo meraviglioso",
-    "year": 2025,
-    "poster_path": "/g5DQUmj13LOQY2Frcx6nzoIFNju.jpg",
-    "overview": "In un futuro sempre più prossimo, in cui gli esseri umani dipendono completamente dai robot, Max — un’ex insegnante restia alla tecnologia — si arrangia per sopravvivere insieme alla figlia grazie a piccoli espedienti. Ha un piano: rapire un robot all’avanguardia, smontarlo e rivenderne i pezzi. Ma tutto va storto. Affiancata da questo robot che la esaspera, Max si ritrova coinvolta in un inseguimento per ritrovare sua figlia e dimostrare che, in questo mondo, è rimasta ancora un po’ di umanità.",
-    "title_en": "Robot T-O",
-    "overview_en": "In a near future, Max and her daughter are selling stolen robots on the black market. When Max loses custody of her daughter following their latest scheme, she must rely on the last robot she took, T-O, who is ready to do anything to help.",
-    "runtime": 78,
-    "director": "Giulio Callegari",
-    "genres": [
-      "Commedia",
-      "Dramma",
-      "Fantascienza"
     ]
   },
   {
@@ -1699,18 +1765,19 @@
     ]
   },
   {
-    "tmdb_id": 1509676,
-    "title": "The Sea",
-    "original_title": "הים البحر",
-    "italian_title": "The Sea",
+    "tmdb_id": 936075,
+    "title": "Michael",
+    "original_title": "Michael",
+    "italian_title": "Michael",
     "year": 2026,
-    "poster_path": "/xydX5OVnjHf12zvJm9HofbI0dEu.jpg",
-    "overview": "Khaled ha dodici anni e vive vicino a Ramallah. Il mare è a un’ora di distanza, eppure sembra irraggiungibile: permessi, posti di blocco, divieti. Il giorno della gita scolastica tutto pare finalmente possibile, finché al checkpoint le autorità lo fermano e lo rispediscono indietro. Umiliato e determinato, Khaled scappa e si mette in viaggio da solo verso il Mediterraneo, senza conoscere la lingua né la strada. Quando Ribhi, suo padre, scopre che il figlio è scomparso, lascia il lavoro e lo cerca attraversando città e periferie, consapevole che ogni controllo può costargli l’arresto e l’unica fonte di reddito. Tra tensione e tenerezza, The Sea trasforma un tragitto breve in un’odissea e un desiderio semplice in una sfida per la dignità, l’infanzia e la libertà di muoversi.",
-    "title_en": "The Sea",
-    "overview_en": "Khaled (12), a Palestinian boy is on his way to visit the sea for the first time in his life, at the checkpoint, the Israeli authorities deny his entry. Determined, Khaled sneaks into Israel and embarks on a dangerous journey to the sea. Meanwhile, Ribhi, his father, is trying to trace his whereabouts, putting himself at risk of being arrested and losing his job.",
-    "runtime": 93,
-    "director": "Shai Carmeli-Pollak",
+    "poster_path": "/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+    "overview": "Il film racconta la vita di Michael Jackson oltre la musica, tracciando il suo viaggio dalla scoperta del suo straordinario talento come protagonista dei Jackson Five, all'artista visionario la cui ambizione creativa ha alimentato un'incessante ricerca per diventare il più grande intrattenitore del mondo. Evidenziando sia la sua vita fuori dal palco che alcune delle performance più iconiche degli inizi della sua carriera da solista, il film offre al pubblico un posto in prima fila a Michael Jackson come mai prima d'ora. È qui che inizia la sua storia.",
+    "title_en": "Michael",
+    "overview_en": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+    "runtime": 128,
+    "director": "Antoine Fuqua",
     "genres": [
+      "Musica",
       "Dramma"
     ]
   },
@@ -1915,23 +1982,6 @@
     ]
   },
   {
-    "tmdb_id": 1432474,
-    "title": "Nimrods",
-    "original_title": "Nimrods",
-    "italian_title": "Nimrods",
-    "year": 2026,
-    "poster_path": "/aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
-    "overview": null,
-    "title_en": "Nimrods",
-    "overview_en": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
-    "runtime": 102,
-    "director": "Lee Kirk",
-    "genres": [
-      "Commedia",
-      "Musica"
-    ]
-  },
-  {
     "tmdb_id": 1684016,
     "title": "Katy Perry: The Lifetimes Tour - Live from Paris",
     "original_title": "Katy Perry: The Lifetimes Tour - Live from Paris",
@@ -1965,23 +2015,6 @@
       "Fantasy",
       "Commedia",
       "Avventura"
-    ]
-  },
-  {
-    "tmdb_id": 870092,
-    "title": "Greta e le favole vere",
-    "original_title": "Greta e le favole vere",
-    "italian_title": "Greta e le favole vere",
-    "year": 2026,
-    "poster_path": "/cbviggp1WTZeijGuFKOoF6XYpsg.jpg",
-    "overview": "Greta ha nove anni ed è bravissima a realizzare gli addobbi natalizi con la sua babysitter, Katy. La bambina crede così tanto in Babbo Natale, da decidere di portare una letterina a Nicola, il suo vicino di casa, che le fa credere di essere l’assistente personale di Babbo Natale. Ovviamente Nicola le ha mentito e, quando viene smascherato da Greta, le confessa di non avere nessun rapporto con Babbo Natale. Nicola - che è un bravissimo illustratore - per farsi perdonare, le disegna una fiaba animata che le cambierà la vita: la protagonista della fiaba è Greta Thunberg, una ragazzina che si chiama come lei e che è riuscita a cambiare il mondo, portando al centro dell’attenzione i problemi ambientali e trascinando con la sua determinazione milioni di ragazzi.",
-    "title_en": "Greta e le favole vere",
-    "overview_en": "Nine-year-old Greta loves making Christmas decorations with her babysitter, Katy. She believes so strongly in Santa Claus that she decides to deliver a letter to her neighbor, Nicola, who leads her to believe he is Santa's personal assistant. Of course, Nicola has been lying; when Greta exposes the truth, he confesses that he has no connection to Santa Claus. To make amends, Nicola—a talented illustrator—draws an animated fairy tale for her that will change her life.",
-    "runtime": 93,
-    "director": "Berardo Carboni",
-    "genres": [
-      "Commedia",
-      "Famiglia"
     ]
   },
   {
@@ -2049,24 +2082,6 @@
     "runtime": 65,
     "director": null,
     "genres": []
-  },
-  {
-    "tmdb_id": 1101383,
-    "title": "La fine di Oak Street",
-    "original_title": "The End of Oak Street",
-    "italian_title": "La fine di Oak Street",
-    "year": 2026,
-    "poster_path": "/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
-    "overview": "Quando un misterioso evento cosmico strappa Oak Street dalla periferia e trasporta l’intero quartiere in un luogo sconosciuto, la famiglia Platt si rende presto conto che la propria sopravvivenza dipende dalla capacità di restare uniti cercando di orientarsi in un ambiente ormai irriconoscibile.",
-    "title_en": "The End of Oak Street",
-    "overview_en": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-    "runtime": null,
-    "director": "David Robert Mitchell",
-    "genres": [
-      "Fantascienza",
-      "Mistero",
-      "Thriller"
-    ]
   },
   {
     "tmdb_id": 1433367,
