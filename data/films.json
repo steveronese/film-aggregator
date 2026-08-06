@@ -1,90 +1,5 @@
 [
   {
-    "tmdb_id": 1430077,
-    "title": "Hokum",
-    "original_title": "Hokum",
-    "italian_title": "Hokum",
-    "year": 2026,
-    "poster_path": "/x6rHcQFiYcczLQPrmxXPAicm54E.jpg",
-    "overview": "Quando lo scrittore Ohm Bauman si ritira in una locanda isolata per spargere le ceneri dei suoi genitori, viene ossessionato dai racconti di una strega che infesta la suite nuziale. Visioni inquietanti e una scioccante scomparsa lo costringono a confrontarsi con gli angoli oscuri del suo passato.",
-    "title_en": "Hokum",
-    "overview_en": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
-    "runtime": 108,
-    "director": "Damian McCarthy",
-    "genres": [
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 57447,
-    "title": "La casa dalle finestre che ridono",
-    "original_title": "La casa dalle finestre che ridono",
-    "italian_title": "La casa dalle finestre che ridono",
-    "year": 1976,
-    "poster_path": "/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
-    "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
-    "title_en": "The House with Laughing Windows",
-    "overview_en": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village.",
-    "runtime": 110,
-    "director": "Pupi Avati",
-    "genres": [
-      "Mistero",
-      "Thriller",
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 1555887,
-    "title": "Tienimi presente",
-    "original_title": "Tienimi presente",
-    "italian_title": "Tienimi presente",
-    "year": 2026,
-    "poster_path": "/i2Jh0vxBtwNmGumwicojwAJz8Qm.jpg",
-    "overview": "Alberto, giovane regista disilluso, è convinto che il cinema non abbia più nulla da offrirgli. Ma è proprio rinunciando al suo sogno che ne scopre il senso più profondo. Dopo anni vissuti a Roma nella speranza di fare un film – tra progetti incerti e produttori perennemente in fuga – Alberto, ormai vicino ai trent’anni, decide di fare marcia indietro e tornare nella sua città natale. La vita da aspirante artista si è rivelata più solitaria del previsto, e la provincia, con i suoi ritmi lenti e volti familiari, sembra offrirgli un rifugio inaspettato. Tra vecchi amici, nuove conoscenze e qualche momento di pace, Alberto ritrova una tranquillità che aveva perduto. Ma basta poco perché riaffiorino i dubbi, i desideri messi da parte e quella domanda che non smette mai di tormentarlo: cosa fare davvero della propria vita? Il bivio è chiaro: restare, ricominciare o trasformare questo frammento di vita in racconto",
-    "title_en": "Tienimi presente",
-    "overview_en": "Alberto, a disillusioned young director, is convinced that cinema has nothing left to offer him. But it is precisely by giving up on his dream that he discovers its deeper meaning.",
-    "runtime": 80,
-    "director": "Alberto Palmiero",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 42853,
-    "title": "Odissea",
-    "original_title": "Odissea",
-    "italian_title": "Odissea",
-    "year": 1968,
-    "poster_path": "/orlKW4piaeA5UMTMqrQsQuOKl5w.jpg",
-    "overview": "Odissea è una miniserie televisiva co-prodotta da svariati Paesi nel 1968, basata sull'omonimo poema di Omero. Ne è stata distribuita una versione ridotta cinematografica dal titolo Le avventure di Ulisse.",
-    "title_en": "Odissea",
-    "overview_en": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
-    "runtime": 110,
-    "director": "Piero Schivazappa, Franco Rossi, Mario Bava",
-    "genres": [
-      "televisione film",
-      "Avventura",
-      "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1339713,
-    "title": "Obsession",
-    "original_title": "Obsession",
-    "italian_title": "Obsession",
-    "year": 2026,
-    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
-    "title_en": "Obsession",
-    "overview_en": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "runtime": 108,
-    "director": "Curry Barker",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ]
-  },
-  {
     "tmdb_id": 961077,
     "title": "La più piccola",
     "original_title": "La Petite Dernière",
@@ -136,6 +51,73 @@
     ]
   },
   {
+    "tmdb_id": 1555887,
+    "title": "Tienimi presente",
+    "original_title": "Tienimi presente",
+    "italian_title": "Tienimi presente",
+    "year": 2026,
+    "poster_path": "/i2Jh0vxBtwNmGumwicojwAJz8Qm.jpg",
+    "overview": "Alberto, giovane regista disilluso, è convinto che il cinema non abbia più nulla da offrirgli. Ma è proprio rinunciando al suo sogno che ne scopre il senso più profondo. Dopo anni vissuti a Roma nella speranza di fare un film – tra progetti incerti e produttori perennemente in fuga – Alberto, ormai vicino ai trent’anni, decide di fare marcia indietro e tornare nella sua città natale. La vita da aspirante artista si è rivelata più solitaria del previsto, e la provincia, con i suoi ritmi lenti e volti familiari, sembra offrirgli un rifugio inaspettato. Tra vecchi amici, nuove conoscenze e qualche momento di pace, Alberto ritrova una tranquillità che aveva perduto. Ma basta poco perché riaffiorino i dubbi, i desideri messi da parte e quella domanda che non smette mai di tormentarlo: cosa fare davvero della propria vita? Il bivio è chiaro: restare, ricominciare o trasformare questo frammento di vita in racconto",
+    "title_en": "Tienimi presente",
+    "overview_en": "Alberto, a disillusioned young director, is convinced that cinema has nothing left to offer him. But it is precisely by giving up on his dream that he discovers its deeper meaning.",
+    "runtime": 80,
+    "director": "Alberto Palmiero",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1430077,
+    "title": "Hokum",
+    "original_title": "Hokum",
+    "italian_title": "Hokum",
+    "year": 2026,
+    "poster_path": "/x6rHcQFiYcczLQPrmxXPAicm54E.jpg",
+    "overview": "Quando lo scrittore Ohm Bauman si ritira in una locanda isolata per spargere le ceneri dei suoi genitori, viene ossessionato dai racconti di una strega che infesta la suite nuziale. Visioni inquietanti e una scioccante scomparsa lo costringono a confrontarsi con gli angoli oscuri del suo passato.",
+    "title_en": "Hokum",
+    "overview_en": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+    "runtime": 108,
+    "director": "Damian McCarthy",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 42853,
+    "title": "Odissea",
+    "original_title": "Odissea",
+    "italian_title": "Odissea",
+    "year": 1968,
+    "poster_path": "/orlKW4piaeA5UMTMqrQsQuOKl5w.jpg",
+    "overview": "Odissea è una miniserie televisiva co-prodotta da svariati Paesi nel 1968, basata sull'omonimo poema di Omero. Ne è stata distribuita una versione ridotta cinematografica dal titolo Le avventure di Ulisse.",
+    "title_en": "Odissea",
+    "overview_en": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
+    "runtime": 110,
+    "director": "Piero Schivazappa, Franco Rossi, Mario Bava",
+    "genres": [
+      "televisione film",
+      "Avventura",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1339713,
+    "title": "Obsession",
+    "original_title": "Obsession",
+    "italian_title": "Obsession",
+    "year": 2026,
+    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
+    "title_en": "Obsession",
+    "overview_en": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "runtime": 108,
+    "director": "Curry Barker",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 1084244,
     "title": "Toy Story 5",
     "original_title": "Toy Story 5",
@@ -155,6 +137,24 @@
     ]
   },
   {
+    "tmdb_id": 57447,
+    "title": "La casa dalle finestre che ridono",
+    "original_title": "La casa dalle finestre che ridono",
+    "italian_title": "La casa dalle finestre che ridono",
+    "year": 1976,
+    "poster_path": "/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
+    "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
+    "title_en": "The House with Laughing Windows",
+    "overview_en": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village.",
+    "runtime": 110,
+    "director": "Pupi Avati",
+    "genres": [
+      "Mistero",
+      "Thriller",
+      "Horror"
+    ]
+  },
+  {
     "tmdb_id": 1119537,
     "title": "Love Letters",
     "original_title": "Des preuves d'amour",
@@ -169,6 +169,22 @@
     "genres": [
       "Dramma",
       "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1278338,
+    "title": "Tre chilometri alla fine del mondo",
+    "original_title": "Trei kilometri până la capătul lumii",
+    "italian_title": "Tre chilometri alla fine del mondo",
+    "year": 2024,
+    "poster_path": "/txYLAHerdJVrxaNk9kRsbmhveF9.jpg",
+    "overview": "Ambientato nel delta del Danubio, il film racconta la storia di Adi, un adolescente la cui tranquilla estate viene sconvolta dopo un'aggressione omofoba, mettendo in luce il conflitto tra la sua identità e i rigidi valori tradizionali della famiglia e della comunità.",
+    "title_en": "Three Kilometres to the End of the World",
+    "overview_en": "Adi, a gay teenager, is spending the summer in his home village in the Danube Delta. One night he is brutally attacked on the street, the next day his world is turned upside-down. His parents no longer look at him as they did, and the seeming tranquility of the village starts to crack.",
+    "runtime": 105,
+    "director": "Emanuel Pârvu",
+    "genres": [
+      "Dramma"
     ]
   },
   {
@@ -238,127 +254,6 @@
     "genres": [
       "Commedia",
       "Famiglia"
-    ]
-  },
-  {
-    "tmdb_id": 1429348,
-    "title": "Lo straniero",
-    "original_title": "L'Étranger",
-    "italian_title": "Lo straniero",
-    "year": 2025,
-    "poster_path": "/mn7NG3TVqAPKAG4l1LcGyhl4Xk.jpg",
-    "overview": "Algeri, 1938. Meursault, un tranquillo e modesto impiegato sulla trentina, partecipa al funerale della madre senza versare una lacrima. Il giorno dopo inizia una relazione occasionale con Marie, una collega, e torna rapidamente alla solita routine. Ben presto, però, la sua vita quotidiana è sconvolta dal vicino, Raymond Sintès, che lo trascina nei suoi loschi affari, finché su una spiaggia, in una giornata torrida, si abbatte la tragedia.",
-    "title_en": "The Stranger",
-    "overview_en": "Algiers, 1938. Meursault, a quiet and unassuming employee in his early thirties, attends his mother's funeral without shedding a tear. The next day, he begins a casual affair with Marie, a work colleague. He quickly slips back into his usual routine.",
-    "runtime": 122,
-    "director": "François Ozon",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ]
-  },
-  {
-    "tmdb_id": 47406,
-    "title": "Il fiore delle Mille e una notte",
-    "original_title": "Il fiore delle Mille e una notte",
-    "italian_title": "Il fiore delle Mille e una notte",
-    "year": 1974,
-    "poster_path": "/w4f9hcKsrLtreP5GBJVgY3WRjD3.jpg",
-    "overview": "La storia di Nur-el-Din e della bellissima schiava Zumurrud; la trappola tesa da Tiffané e Zeudé per scoprire chi sia miglior amante fra un ragazzo e una ragazza. E ancora: i diversi destini di Aziz e di Tagi, il primo punito con l'evirazione per un tradimento amoroso, il secondo, invece molto più fortunato. Infine due prìncipi, per cammini diversi ma ugualmente avventurosi, finiscono per farsi bonzi. È l'ultimo capitolo della celebre \"Trilogia della vita\" pasoliniana.",
-    "title_en": "Arabian Nights",
-    "overview_en": "The final part of Pasolini's Trilogy of Life series is rich with exotic tales of slaves and kings, potions, betrayals, demons and, most of all, love and lovemaking in all its myriad forms. Mysterious and liberating, this is an exquisitely dreamlike and adult interpretation of the original folk tales.",
-    "runtime": 130,
-    "director": "Pier Paolo Pasolini",
-    "genres": [
-      "Avventura",
-      "Fantasy"
-    ]
-  },
-  {
-    "tmdb_id": 237957,
-    "title": "Nostos: Il ritorno",
-    "original_title": "Nostos: il ritorno",
-    "italian_title": "Nostos: Il ritorno",
-    "year": 1990,
-    "poster_path": "/kKNUsI1DUmggpRgx4wpCtKKkEwB.jpg",
-    "overview": "Alla fine della guerra, Ulisse, l'eroe errante, con i suoi compagni inizia la sua navigazione di ritorno a casa nel Mediterraneo. La conclusione della sua avventura è ritardata da molti ostacoli naturali e intraprende un viaggio interiore di ricordi fugaci della sua infanzia, dei suoi genitori, dell'amore per una bella ragazza, della nostalgia per il passato, del rimpianto per quello che ha fatto e del profondo silenzio che avvolge tutto. Affronta la solitudine più terribile in seguito a un naufragio in cui muoiono tutti i compagni.",
-    "title_en": "Nostos: The Return",
-    "overview_en": "At the end of the war, Odysseus, the wandering hero, with his companions begins his sail back home to the Mediterranean. The conclusion of his adventure is delayed by many natural obstacles and he takes an internal journey of fleeting memories of his childhood, his parents, love for a beautiful girl, nostalgia for the past, regret for what he did, and the deep silence that envelops everything. He confronts the most terrible loneliness following a shipwreck in which all the comrades perish.",
-    "runtime": 88,
-    "director": "Franco Piavoli",
-    "genres": [
-      "Dramma",
-      "Avventura"
-    ]
-  },
-  {
-    "tmdb_id": 1462322,
-    "title": "Le città di pianura",
-    "original_title": "Le città di pianura",
-    "italian_title": "Le città di pianura",
-    "year": 2025,
-    "poster_path": "/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg",
-    "overview": "La storia di Carlobianchi (Sergio Romano) e Doriano (Pierpaolo Capovilla), due cinquantenni al verde con una filosofia di vita che ruota attorno all'ultimo bicchiere, e del loro incontro con Giulio (Filippo Scotti), un giovane e timido studente di architettura in crisi. Quello che sembra un incontro casuale si trasforma in un road movie disordinato attraverso le pianure del Veneto: tra sbronze, cattivi consigli e una sorprendente amicizia che rimescola le carte del destino di Giulio.  Il film ha conquistato i David di Donatello 2026 nelle categorie più prestigiose, tra cui Miglior Film, Migliore Regia e Migliore Attore Protagonista per Sergio Romano.",
-    "title_en": "The Last One for the Road",
-    "overview_en": "A couple of jovial life-long drunkards run into a shy architecture undergrad, whose way of seeing things will be transformed as the trio wanders from pub to pub in search of a buried treasure.",
-    "runtime": 100,
-    "director": "Francesco Sossai",
-    "genres": [
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 36685,
-    "title": "The Rocky Horror Picture Show",
-    "original_title": "The Rocky Horror Picture Show",
-    "italian_title": "The Rocky Horror Picture Show",
-    "year": 1975,
-    "poster_path": "/5ycpwyUkYBwm2VFoE3TkP3OtuFw.jpg",
-    "overview": "Janet e Brad, due fidanzati molto pudichi, trovano rifugio da un temporale in un castello inquietante. Il non meno inquietante maggiordomo Riff Raff li introduce al padrone di casa, il Dr. Frank-N-Furter, abbigliato solo di tacchi a spillo, calze a rete, baby doll e guanti di pizzo. Sono capitati in un'occasione molto speciale: la convention dei trans-vestiti della Transilvania, il fatidico momento in cui Frank-N-Furter darà vita a Rocky, la perfetta creatura sessuale. I due fidanzatini sono sconvolti dai bizzarri personaggi che abitano il castello ma sono costretti a rimanere per la notte, che segnerà la loro iniziazione al sesso.",
-    "title_en": "The Rocky Horror Picture Show",
-    "overview_en": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man.",
-    "runtime": 95,
-    "director": "Jim Sharman",
-    "genres": [
-      "Commedia",
-      "Fantascienza",
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 144,
-    "title": "Il cielo sopra Berlino",
-    "original_title": "Der Himmel über Berlin",
-    "italian_title": "Il cielo sopra Berlino",
-    "year": 1987,
-    "poster_path": "/lP5RCnonnc7jq7bq6NHRSfBgSvB.jpg",
-    "overview": "Due angeli, Damiel e Cassiel, scendono dal cielo sopra Berlino sulla città ed osservano il comportamento degli umani, la loro disperazione, ma non possono fare nulla per aiutarli. Alla fine Damiel, innamoratosi di una bella trapezista dal cuore puro, perderà la sua condizione di angelo e resterà nella città.",
-    "title_en": "Wings of Desire",
-    "overview_en": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
-    "runtime": 130,
-    "director": "Wim Wenders",
-    "genres": [
-      "Dramma",
-      "Fantasy",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 718032,
-    "title": "Licorice Pizza",
-    "original_title": "Licorice Pizza",
-    "italian_title": "Licorice Pizza",
-    "year": 2021,
-    "poster_path": "/bQDv8j0IMpGI4sQAGKeWZDY4wpm.jpg",
-    "overview": "Los Angeles, 1973. Gary Valentine, adolescente intraprendente e fanfarone, incontra Alana Kane, venticinquenne sul cammino dell'indipendenza. Lei gli porge specchio e pettine per la foto dell'annuario scolastico, lui le dichiara il suo amore eterno. Lei rifiuta e lui insiste. In cosa crede Gary? A cosa si oppone Alana? Dieci anni li separano ma tutto sembra unirli. Irresistibilmente attratti l'uno dall'altra, non sanno come amarsi, non sanno nemmeno se si amano o se amano soltanto l'idea di amarsi. Tra choc petrolifero, e crepuscolo della Hollywood classica, il loro ipotetico grande amore parte, avanza, sterza, vaga, sosta, svolta, si riallinea in fondo alla notte e alla San Fernando Valley.",
-    "title_en": "Licorice Pizza",
-    "overview_en": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
-    "runtime": 133,
-    "director": "Paul Thomas Anderson",
-    "genres": [
-      "Dramma",
-      "Commedia",
-      "Romance"
     ]
   },
   {
@@ -827,6 +722,23 @@
     ]
   },
   {
+    "tmdb_id": 237957,
+    "title": "Nostos: Il ritorno",
+    "original_title": "Nostos: il ritorno",
+    "italian_title": "Nostos: Il ritorno",
+    "year": 1990,
+    "poster_path": "/kKNUsI1DUmggpRgx4wpCtKKkEwB.jpg",
+    "overview": "Alla fine della guerra, Ulisse, l'eroe errante, con i suoi compagni inizia la sua navigazione di ritorno a casa nel Mediterraneo. La conclusione della sua avventura è ritardata da molti ostacoli naturali e intraprende un viaggio interiore di ricordi fugaci della sua infanzia, dei suoi genitori, dell'amore per una bella ragazza, della nostalgia per il passato, del rimpianto per quello che ha fatto e del profondo silenzio che avvolge tutto. Affronta la solitudine più terribile in seguito a un naufragio in cui muoiono tutti i compagni.",
+    "title_en": "Nostos: The Return",
+    "overview_en": "At the end of the war, Odysseus, the wandering hero, with his companions begins his sail back home to the Mediterranean. The conclusion of his adventure is delayed by many natural obstacles and he takes an internal journey of fleeting memories of his childhood, his parents, love for a beautiful girl, nostalgia for the past, regret for what he did, and the deep silence that envelops everything. He confronts the most terrible loneliness following a shipwreck in which all the comrades perish.",
+    "runtime": 88,
+    "director": "Franco Piavoli",
+    "genres": [
+      "Dramma",
+      "Avventura"
+    ]
+  },
+  {
     "tmdb_id": 18415,
     "title": "Gummo",
     "original_title": "Gummo",
@@ -841,6 +753,23 @@
     "genres": [
       "Dramma",
       "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1429348,
+    "title": "Lo straniero",
+    "original_title": "L'Étranger",
+    "italian_title": "Lo straniero",
+    "year": 2025,
+    "poster_path": "/mn7NG3TVqAPKAG4l1LcGyhl4Xk.jpg",
+    "overview": "Algeri, 1938. Meursault, un tranquillo e modesto impiegato sulla trentina, partecipa al funerale della madre senza versare una lacrima. Il giorno dopo inizia una relazione occasionale con Marie, una collega, e torna rapidamente alla solita routine. Ben presto, però, la sua vita quotidiana è sconvolta dal vicino, Raymond Sintès, che lo trascina nei suoi loschi affari, finché su una spiaggia, in una giornata torrida, si abbatte la tragedia.",
+    "title_en": "The Stranger",
+    "overview_en": "Algiers, 1938. Meursault, a quiet and unassuming employee in his early thirties, attends his mother's funeral without shedding a tear. The next day, he begins a casual affair with Marie, a work colleague. He quickly slips back into his usual routine.",
+    "runtime": 122,
+    "director": "François Ozon",
+    "genres": [
+      "Dramma",
+      "Crime"
     ]
   },
   {
@@ -1256,6 +1185,55 @@
     ]
   },
   {
+    "tmdb_id": 1124566,
+    "title": "Sentimental Value",
+    "original_title": "Affeksjonsverdi",
+    "italian_title": "Sentimental Value",
+    "year": 2025,
+    "poster_path": "/lk0Tfskd5V84AbpJs9M1ZXJjVPf.jpg",
+    "overview": "Nora e Agnes sono due sorelle profondamente unite. L’improvviso rientro nella loro vita del padre Gustav – regista carismatico e affascinante ma genitore cronicamente inaffidabile – riapre ferite mai del tutto rimarginate. Conoscendo il talento di attrice di Nora, Gustav vorrebbe che sua figlia interpretasse il ruolo principale nel film che dovrebbe rilanciare la sua carriera; lei rifiuta e quella parte finisce a una giovane star di Hollywood, Rachel Kemp. Il suo arrivo getta scompiglio nelle delicate dinamiche della famiglia: per le due sorelle sarà il momento di confrontarsi con il padre e con il loro passato.",
+    "title_en": "Sentimental Value",
+    "overview_en": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
+    "runtime": 133,
+    "director": "Joachim Trier",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 12104,
+    "title": "Pink Floyd: The Wall",
+    "original_title": "Pink Floyd: The Wall",
+    "italian_title": "Pink Floyd: The Wall",
+    "year": 1982,
+    "poster_path": "/oL3VhMexgIPY1Q0peNRNWKDw41N.jpg",
+    "overview": "In attesa di esibirsi all'ennesimo concerto, Pink, cantante rock tossicodipendente, ripensa agli episodi salienti della sua vita. Un film di guerra trasmesso in tv è l'occasione per questo percorso nella memoria a cavallo fra ricordi e allucinazioni.  Diretto da Alan Parker su sceneggiatura dello stesso Waters, Pink Floyd The Wall non ebbe una genesi facile, e del resto accostare due personalità forti come Parker e Waters non poteva non far nascere qualche contrasto. Menzione speciale agli splendidi disegni di Gerald Scarfe, fumettista britannico, responsabile della scenografia e delle animazioni che danno vita ai deliri onirici di Pink.",
+    "title_en": "Pink Floyd: The Wall",
+    "overview_en": "A troubled rock star descends into madness in the midst of his physical and social isolation from everyone.",
+    "runtime": 95,
+    "director": "Alan Parker",
+    "genres": [
+      "Musica",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 38528,
+    "title": "Febbre da cavallo",
+    "original_title": "Febbre da cavallo",
+    "italian_title": "Febbre da cavallo",
+    "year": 1976,
+    "poster_path": "/zprLOtwwjjTF84YOGIZxakRu9Mc.jpg",
+    "overview": "Le peripezie di tre amici alle prese col vizio delle scommesse ippiche: Mandrake, indossatore morto di fame, Er Pomata, disoccupato, ricco solo di grandi risorse truffaldine, e Felice, guardamacchine abusivo. I tre trascorrono gran parte del loro tempo cercando di mettere insieme i soldi per scommettere, solitamente a Tor di Valle, e in altri ippodromi della penisola; mettono a segno furberie e truffe di ogni genere, spesso ai danni di Manzotin, al secolo Rinaldi Otello, macellaio e nemico giurato dei tre protagonisti.",
+    "title_en": "Horse Fever",
+    "overview_en": "Bruno Fioretti, known as \"Mandrake\", is an inveterate gambler who never misses a day at the horse racing track in Rome. He is doubly unlucky: he bets too much on one horse, and his wife is sleeping with his best friend because Mandrake is always at the track. Penniless and cuckolded, Mandrake decides to make one last bet.",
+    "runtime": 100,
+    "director": "Steno",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
     "tmdb_id": 969681,
     "title": "Spider-Man: Brand New Day",
     "original_title": "Spider-Man: Brand New Day",
@@ -1339,6 +1317,22 @@
     "director": "Dorottya Zurbo, Arun Bhattarai",
     "genres": [
       "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1462322,
+    "title": "Le città di pianura",
+    "original_title": "Le città di pianura",
+    "italian_title": "Le città di pianura",
+    "year": 2025,
+    "poster_path": "/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg",
+    "overview": "La storia di Carlobianchi (Sergio Romano) e Doriano (Pierpaolo Capovilla), due cinquantenni al verde con una filosofia di vita che ruota attorno all'ultimo bicchiere, e del loro incontro con Giulio (Filippo Scotti), un giovane e timido studente di architettura in crisi. Quello che sembra un incontro casuale si trasforma in un road movie disordinato attraverso le pianure del Veneto: tra sbronze, cattivi consigli e una sorprendente amicizia che rimescola le carte del destino di Giulio.  Il film ha conquistato i David di Donatello 2026 nelle categorie più prestigiose, tra cui Miglior Film, Migliore Regia e Migliore Attore Protagonista per Sergio Romano.",
+    "title_en": "The Last One for the Road",
+    "overview_en": "A couple of jovial life-long drunkards run into a shy architecture undergrad, whose way of seeing things will be transformed as the trio wanders from pub to pub in search of a buried treasure.",
+    "runtime": 100,
+    "director": "Francesco Sossai",
+    "genres": [
+      "Commedia"
     ]
   },
   {
@@ -1495,19 +1489,20 @@
     ]
   },
   {
-    "tmdb_id": 1312390,
-    "title": "Nel tepore del ballo",
-    "original_title": "Nel tepore del ballo",
-    "italian_title": "Nel tepore del ballo",
+    "tmdb_id": 870092,
+    "title": "Greta e le favole vere",
+    "original_title": "Greta e le favole vere",
+    "italian_title": "Greta e le favole vere",
     "year": 2026,
-    "poster_path": "/ng9NBZ5qAJ4k4KlvQWgxKTuM1XT.jpg",
-    "overview": "Il film racconta la parabola umana e sentimentale di Gianni Riccio (Massimo Ghini) conduttore televisivo di successo travolto da uno scandalo giudiziario che lo costringe a rimettere in discussione tutta la sua esistenza.  Una storia di caduta e rinascita, dove il ritorno alle origini e l’incontro con un amore passato si intrecciano con la riscoperta di sé.",
-    "title_en": "The Warmth Of Dance",
-    "overview_en": "A famous TV host, who grew up without parents and with a painful past, sees his brilliant career and power called into question during a train journey from Rome to Milan.",
-    "runtime": 100,
-    "director": "Pupi Avati",
+    "poster_path": "/cbviggp1WTZeijGuFKOoF6XYpsg.jpg",
+    "overview": "Greta ha nove anni ed è bravissima a realizzare gli addobbi natalizi con la sua babysitter, Katy. La bambina crede così tanto in Babbo Natale, da decidere di portare una letterina a Nicola, il suo vicino di casa, che le fa credere di essere l’assistente personale di Babbo Natale. Ovviamente Nicola le ha mentito e, quando viene smascherato da Greta, le confessa di non avere nessun rapporto con Babbo Natale. Nicola - che è un bravissimo illustratore - per farsi perdonare, le disegna una fiaba animata che le cambierà la vita: la protagonista della fiaba è Greta Thunberg, una ragazzina che si chiama come lei e che è riuscita a cambiare il mondo, portando al centro dell’attenzione i problemi ambientali e trascinando con la sua determinazione milioni di ragazzi.",
+    "title_en": "Greta e le favole vere",
+    "overview_en": "Nine-year-old Greta loves making Christmas decorations with her babysitter, Katy. She believes so strongly in Santa Claus that she decides to deliver a letter to her neighbor, Nicola, who leads her to believe he is Santa's personal assistant. Of course, Nicola has been lying; when Greta exposes the truth, he confesses that he has no connection to Santa Claus. To make amends, Nicola—a talented illustrator—draws an animated fairy tale for her that will change her life.",
+    "runtime": 93,
+    "director": "Berardo Carboni",
     "genres": [
-      "Dramma"
+      "Commedia",
+      "Famiglia"
     ]
   },
   {
@@ -1528,23 +1523,6 @@
       "Commedia",
       "Famiglia",
       "Fantasy"
-    ]
-  },
-  {
-    "tmdb_id": 870092,
-    "title": "Greta e le favole vere",
-    "original_title": "Greta e le favole vere",
-    "italian_title": "Greta e le favole vere",
-    "year": 2026,
-    "poster_path": "/cbviggp1WTZeijGuFKOoF6XYpsg.jpg",
-    "overview": "Greta ha nove anni ed è bravissima a realizzare gli addobbi natalizi con la sua babysitter, Katy. La bambina crede così tanto in Babbo Natale, da decidere di portare una letterina a Nicola, il suo vicino di casa, che le fa credere di essere l’assistente personale di Babbo Natale. Ovviamente Nicola le ha mentito e, quando viene smascherato da Greta, le confessa di non avere nessun rapporto con Babbo Natale. Nicola - che è un bravissimo illustratore - per farsi perdonare, le disegna una fiaba animata che le cambierà la vita: la protagonista della fiaba è Greta Thunberg, una ragazzina che si chiama come lei e che è riuscita a cambiare il mondo, portando al centro dell’attenzione i problemi ambientali e trascinando con la sua determinazione milioni di ragazzi.",
-    "title_en": "Greta e le favole vere",
-    "overview_en": "Nine-year-old Greta loves making Christmas decorations with her babysitter, Katy. She believes so strongly in Santa Claus that she decides to deliver a letter to her neighbor, Nicola, who leads her to believe he is Santa's personal assistant. Of course, Nicola has been lying; when Greta exposes the truth, he confesses that he has no connection to Santa Claus. To make amends, Nicola—a talented illustrator—draws an animated fairy tale for her that will change her life.",
-    "runtime": 93,
-    "director": "Berardo Carboni",
-    "genres": [
-      "Commedia",
-      "Famiglia"
     ]
   },
   {
@@ -1637,6 +1615,24 @@
     ]
   },
   {
+    "tmdb_id": 1433367,
+    "title": "One Night Only - Quando tutto è possibile",
+    "original_title": "One Night Only",
+    "italian_title": "One Night Only - Quando tutto è possibile",
+    "year": 2026,
+    "poster_path": "/gSWPoxU6e0C4tAQNq5a5zjNGmuN.jpg",
+    "overview": "Allie e Owen, due sconosciuti affamati d'amore si incontrano in una New York leggermente romanzata nell'unica notte dell'anno in cui ai single è permesso fare sesso. Owen, appena lasciato, e Allie, romantica e piena di speranze, potrebbero essere gli unici due single in città alla ricerca di qualcosa di più di un semplice incontro occasionale. Entrambi sentono una scintilla quando si incontrano, ma una serie di passi falsi e di vicissitudini complicano la loro serata, tenendoli separati. Mentre corrono l’uno verso l’altra e poi si allontanano attraverso la città, potrebbero scoprire che l’unica cosa che desiderano di più è più vicina di quanto pensino.",
+    "title_en": "One Night Only",
+    "overview_en": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+    "runtime": 102,
+    "director": "Will Gluck",
+    "genres": [
+      "Commedia",
+      "Romance",
+      "Fantascienza"
+    ]
+  },
+  {
     "tmdb_id": 277834,
     "title": "Oceania",
     "original_title": "Moana",
@@ -1653,6 +1649,22 @@
       "Commedia",
       "Famiglia",
       "Animazione"
+    ]
+  },
+  {
+    "tmdb_id": 1523111,
+    "title": "La salita",
+    "original_title": "La salita",
+    "italian_title": "La salita",
+    "year": 2026,
+    "poster_path": "/t5ZZ9bufzCSqjso77zVxBgLxaiS.jpg",
+    "overview": "Napoli. 1983. A causa di alcune lesioni dovute al bradisismo il carcere femminile di Pozzuoli viene chiuso e le detenute smistate provvisoriamente in altre strutture penitenziarie della Regione. Alcune di queste vengono momentaneamente ospitate presso il Carcere minorile di Nisida. Intanto, Eduardo De Filippo, nominato Senatore a vita, si reca più volte a Nisida, contribuisce alla ristrutturazione del Teatro del carcere e impianta una scuola di scenotecnica e una di recitazione, inviando gli attori della sua compagnia per mettere in scena il primo spettacolo teatrale in un Istituto penitenziario minorile italiano.",
+    "title_en": "La salita",
+    "overview_en": "There’s a Naples of the imagination and there’s the real city: the city of fiction and the one with its tales of a past very much alive. Massimilano Gallo’s directorial debut, La salita, is a film about a little-known anecdote from the life of Eduardo De Filippo, featuring a Nisida very different from the image it has in the series Mare fuori, yet Gallo’s take on prison and women behind bars is just as contemporary. Courtesy of Panamafilm and the Film Commission Regione Campania.",
+    "runtime": 90,
+    "director": "Massimiliano Gallo",
+    "genres": [
+      "Dramma"
     ]
   },
   {
@@ -1776,22 +1788,6 @@
     ]
   },
   {
-    "tmdb_id": 1265063,
-    "title": "After the Hunt - Dopo la caccia",
-    "original_title": "After the Hunt",
-    "italian_title": "After the Hunt - Dopo la caccia",
-    "year": 2025,
-    "poster_path": "/uYD4mUNZOqSL3HiMZ0kCLIDimgC.jpg",
-    "overview": "Una professoressa universitaria si trova in un momento cruciale della sua vita personale e professionale, quando una studentessa modello muove delle accuse verso uno dei suoi colleghi e un oscuro segreto del suo passato rischia di venire alla luce.",
-    "title_en": "After the Hunt",
-    "overview_en": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and a dark secret from her own past threatens to come to light.",
-    "runtime": 139,
-    "director": "Luca Guadagnino",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1493021,
     "title": "Lavoreremo da grandi",
     "original_title": "Lavoreremo da grandi",
@@ -1875,6 +1871,22 @@
     ]
   },
   {
+    "tmdb_id": 1265063,
+    "title": "After the Hunt - Dopo la caccia",
+    "original_title": "After the Hunt",
+    "italian_title": "After the Hunt - Dopo la caccia",
+    "year": 2025,
+    "poster_path": "/uYD4mUNZOqSL3HiMZ0kCLIDimgC.jpg",
+    "overview": "Una professoressa universitaria si trova in un momento cruciale della sua vita personale e professionale, quando una studentessa modello muove delle accuse verso uno dei suoi colleghi e un oscuro segreto del suo passato rischia di venire alla luce.",
+    "title_en": "After the Hunt",
+    "overview_en": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and a dark secret from her own past threatens to come to light.",
+    "runtime": 139,
+    "director": "Luca Guadagnino",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1214931,
     "title": "Norimberga",
     "original_title": "Nuremberg",
@@ -1919,22 +1931,6 @@
     "overview_en": "A small group of scientists, unreachable for eight months, explores the future of humanity. Maria Medri, a foreign genius, arrives in Antarctica, challenging Fulvio Cadorna's plans. They are similar but conflicting, as everyone desires their own. This scientific, ideological, and emotional conflict unfolds.",
     "runtime": null,
     "director": "Lucia Calamaro",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1464883,
-    "title": "La torta del presidente",
-    "original_title": "The President's Cake",
-    "italian_title": "La torta del presidente",
-    "year": 2025,
-    "poster_path": "/qvxykSWxdbjjpSweWaiIdGFXldx.jpg",
-    "overview": "Mentre la popolazione dell'Iraq degli anni '90 lotta per sopravvivere alla guerra e alla carestia, in tutte le scuole del Paese è obbligatorio preparare una torta per festeggiare il compleanno del Presidente Saddam Hussein. Nonostante le sue preghiere di non essere scelta, la piccola Lamia di 9 anni viene sorteggiata per questo ‘prestigioso’ compito. Giunta in città con la nonna, sfuggirà al suo controllo per cercare gli ingredienti necessari per la torta. Insieme al suo amico Saeed e al suo gallo andrà incontro a una serie di peripezie a volte avventurose a volte pericolose, ma anche buffe riuscendo alla fine – forse - nel suo intento.",
-    "title_en": "The President's Cake",
-    "overview_en": "While people across 1990s Iraq struggle to survive the war and food shortages, Saddam Hussein requires each school in the country to prepare a cake to celebrate his birthday. Despite her efforts to avoid getting picked, 9-year-old Lamia is chosen among her classmates. The young girl must now use her wits and imagination to gather ingredients for the mandatory cake or face the consequences.",
-    "runtime": 106,
-    "director": "Hasan Hadi",
     "genres": [
       "Dramma"
     ]
@@ -2077,24 +2073,6 @@
     ]
   },
   {
-    "tmdb_id": 1277884,
-    "title": "Allora balliamo",
-    "original_title": "Partir un jour",
-    "italian_title": "Allora balliamo",
-    "year": 2025,
-    "poster_path": "/dUREuQwE8sZUbKS7EH4KChdceIf.jpg",
-    "overview": "Alla vigilia dell'apertura del suo ristorante a Parigi, la chef Cécile, si vede costretta, a causa di un malessere del padre, a tornate nel suo paese d'infanzia. Tra vecchie passioni e la gestione della trattoria dei suoi genitori, il suo passato riemerge inaspettatamente.",
-    "title_en": "Leave One Day",
-    "overview_en": "Cécile is about to open her own gourmet restaurant, finally making her dream come true, when suddenly her father has a heart attack and she is called back to the village where she was born. Far from the hubbub of Paris life, she runs into her teenage crush. The memories come flooding back, destabilizing her certainties.",
-    "runtime": 98,
-    "director": "Amélie Bonnin",
-    "genres": [
-      "Dramma",
-      "Commedia",
-      "Musica"
-    ]
-  },
-  {
     "tmdb_id": 671,
     "title": "Harry Potter e la pietra filosofale",
     "original_title": "Harry Potter and the Philosopher's Stone",
@@ -2178,21 +2156,17 @@
     ]
   },
   {
-    "tmdb_id": 1433367,
-    "title": "One Night Only - Quando tutto è possibile",
-    "original_title": "One Night Only",
-    "italian_title": "One Night Only - Quando tutto è possibile",
+    "tmdb_id": 1735283,
+    "title": "Yaar Jigree Kasooti Degree",
+    "original_title": "Yaar Jigree Kasooti Degree",
+    "italian_title": "Yaar Jigree Kasooti Degree",
     "year": 2026,
-    "poster_path": "/gSWPoxU6e0C4tAQNq5a5zjNGmuN.jpg",
-    "overview": "Allie e Owen, due sconosciuti affamati d'amore si incontrano in una New York leggermente romanzata nell'unica notte dell'anno in cui ai single è permesso fare sesso. Owen, appena lasciato, e Allie, romantica e piena di speranze, potrebbero essere gli unici due single in città alla ricerca di qualcosa di più di un semplice incontro occasionale. Entrambi sentono una scintilla quando si incontrano, ma una serie di passi falsi e di vicissitudini complicano la loro serata, tenendoli separati. Mentre corrono l’uno verso l’altra e poi si allontanano attraverso la città, potrebbero scoprire che l’unica cosa che desiderano di più è più vicina di quanto pensino.",
-    "title_en": "One Night Only",
-    "overview_en": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-    "runtime": 102,
-    "director": "Will Gluck",
-    "genres": [
-      "Commedia",
-      "Romance",
-      "Fantascienza"
-    ]
+    "poster_path": "/hkadGHWqcOPCkQy82eU8J2zMlvI.jpg",
+    "overview": null,
+    "title_en": "Yaar Jigree Kasooti Degree",
+    "overview_en": null,
+    "runtime": null,
+    "director": "Rabby Tiwana",
+    "genres": []
   }
 ]
