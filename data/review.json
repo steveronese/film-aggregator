@@ -1,19 +1,5 @@
 [
   {
-    "raw_title": "THE ODYSSEY - ODISSEA",
-    "tmdb_id": 42853,
-    "matched_title": "Odissea",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
-    "raw_title": "TOY STORY 5 #cinecircolino",
-    "tmdb_id": 1084244,
-    "matched_title": "Toy Story 5",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "OCEANIA (MOANA)",
     "tmdb_id": 277834,
     "matched_title": "Oceania",
@@ -38,13 +24,6 @@
     "raw_title": "V.O. SOTT.ITA - ALICE NELLE CITTÀ (ALICE IN DEN STADTEN)",
     "tmdb_id": 2204,
     "matched_title": "Alice nelle città",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "IL CASO 137 (DOSSIER 137)",
-    "tmdb_id": 1294698,
-    "matched_title": "Il caso 137",
     "method": "ai",
     "confidence": 100.0
   },
@@ -84,13 +63,6 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "UN INVERNO IN COREA (HIVER A SOKCO)",
-    "tmdb_id": 1001010,
-    "matched_title": "Un inverno in Corea",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "NORIMBERGA (NUREMBERG)",
     "tmdb_id": 1214931,
     "matched_title": "Norimberga",
@@ -105,9 +77,16 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "LA VILLA PORTOGHESE (UNA QUINTA PORTUGUESA)",
-    "tmdb_id": 1440171,
-    "matched_title": "La villa portoghese",
+    "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
+    "tmdb_id": 1314481,
+    "matched_title": "Il diavolo veste Prada 2",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "TOFU IN JAPAN - LA RICETTA SEGRETA DEL SIGNOR TAKANO (TAKANO TOFU)",
+    "tmdb_id": 1167490,
+    "matched_title": "Tofu in Japan. La ricetta segreta del Signor Takano",
     "method": "ai",
     "confidence": 100.0
   },
