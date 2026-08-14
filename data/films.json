@@ -1,23 +1,5 @@
 [
   {
-    "tmdb_id": 57447,
-    "title": "La casa dalle finestre che ridono",
-    "original_title": "La casa dalle finestre che ridono",
-    "italian_title": "La casa dalle finestre che ridono",
-    "year": 1976,
-    "poster_path": "/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
-    "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
-    "title_en": "The House with Laughing Windows",
-    "overview_en": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village.",
-    "runtime": 110,
-    "director": "Pupi Avati",
-    "genres": [
-      "Mistero",
-      "Thriller",
-      "Horror"
-    ]
-  },
-  {
     "tmdb_id": 1555887,
     "title": "Tienimi presente",
     "original_title": "Tienimi presente",
@@ -68,24 +50,6 @@
     ]
   },
   {
-    "tmdb_id": 42853,
-    "title": "Odissea",
-    "original_title": "Odissea",
-    "italian_title": "Odissea",
-    "year": 1968,
-    "poster_path": "/orlKW4piaeA5UMTMqrQsQuOKl5w.jpg",
-    "overview": "Odissea è una miniserie televisiva co-prodotta da svariati Paesi nel 1968, basata sull'omonimo poema di Omero. Ne è stata distribuita una versione ridotta cinematografica dal titolo Le avventure di Ulisse.",
-    "title_en": "Odissea",
-    "overview_en": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
-    "runtime": 110,
-    "director": "Piero Schivazappa, Franco Rossi, Mario Bava",
-    "genres": [
-      "televisione film",
-      "Avventura",
-      "Storia"
-    ]
-  },
-  {
     "tmdb_id": 1430077,
     "title": "Hokum",
     "original_title": "Hokum",
@@ -119,6 +83,24 @@
     ]
   },
   {
+    "tmdb_id": 42853,
+    "title": "Odissea",
+    "original_title": "Odissea",
+    "italian_title": "Odissea",
+    "year": 1968,
+    "poster_path": "/orlKW4piaeA5UMTMqrQsQuOKl5w.jpg",
+    "overview": "Odissea è una miniserie televisiva co-prodotta da svariati Paesi nel 1968, basata sull'omonimo poema di Omero. Ne è stata distribuita una versione ridotta cinematografica dal titolo Le avventure di Ulisse.",
+    "title_en": "Odissea",
+    "overview_en": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
+    "runtime": 110,
+    "director": "Piero Schivazappa, Franco Rossi, Mario Bava",
+    "genres": [
+      "televisione film",
+      "Avventura",
+      "Storia"
+    ]
+  },
+  {
     "tmdb_id": 1084244,
     "title": "Toy Story 5",
     "original_title": "Toy Story 5",
@@ -135,6 +117,24 @@
       "Famiglia",
       "Commedia",
       "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 57447,
+    "title": "La casa dalle finestre che ridono",
+    "original_title": "La casa dalle finestre che ridono",
+    "italian_title": "La casa dalle finestre che ridono",
+    "year": 1976,
+    "poster_path": "/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
+    "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
+    "title_en": "The House with Laughing Windows",
+    "overview_en": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village.",
+    "runtime": 110,
+    "director": "Pupi Avati",
+    "genres": [
+      "Mistero",
+      "Thriller",
+      "Horror"
     ]
   },
   {
@@ -239,144 +239,6 @@
     ]
   },
   {
-    "tmdb_id": 1368337,
-    "title": "Odissea",
-    "original_title": "The Odyssey",
-    "italian_title": "Odissea",
-    "year": 2026,
-    "poster_path": "/5S4U3gM7N17ni028LJhO60zfcKJ.jpg",
-    "overview": "Ulisse, il leggendario re greco di Itaca, intraprende un lungo e pericoloso viaggio verso casa dopo la guerra di Troia, raccontando i suoi incontri con esseri mitici come il ciclope Polifemo, le Sirene e la dea strega Circe.",
-    "title_en": "The Odyssey",
-    "overview_en": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "runtime": 172,
-    "director": "Christopher Nolan",
-    "genres": [
-      "Avventura",
-      "Azione",
-      "Fantasy"
-    ]
-  },
-  {
-    "tmdb_id": 1369286,
-    "title": "Cos'è l'amore?",
-    "original_title": "C’est quoi l’amour ?",
-    "italian_title": "Cos'è l'amore?",
-    "year": 2026,
-    "poster_path": "/e0mc2OSX6jRaWBFS0CJbKzJ7rGy.jpg",
-    "overview": "A Rouen, Marguerite vive serena con il compagno e la figlia adolescente, mantenendo al tempo stesso un rapporto amichevole con Fred, suo primo marito da cui ha divorziato. Un giorno l'uomo le annuncia di volersi risposare, e le chiede aiuto per una semplice pratica di annullamento anche della loro unione religiosa. Marguerite si mostra disponibile, ma la burocrazia della Chiesa complica le cose e la costringe a rimettere in esame la natura del suo rapporto con Fred, nonché la storia trascorsa insieme e la figlia che condividono. Il caso finirà per coinvolgere tutti i membri di questa strana famiglia allargata, portando la comitiva fino a confrontarsi con i vertici del Vaticano.",
-    "title_en": "What is Love?",
-    "overview_en": "Marguerite has no reason to refuse the church’s annulment of her marriage to Fred. She also has a new partner with whom she has a child. However, to convince the church that their previous marriage was doomed from the start, Marguerite and Fred must examine their shared past.",
-    "runtime": 100,
-    "director": "Fabien Gorgeart",
-    "genres": [
-      "Commedia",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1480,
-    "title": "L'infernale Quinlan",
-    "original_title": "Touch of Evil",
-    "italian_title": "L'infernale Quinlan",
-    "year": 1958,
-    "poster_path": "/liLUacZTs3J5UXt1OlBNuvGOZ5T.jpg",
-    "overview": "Mike Vargas, ispettore della polizia messicana e sua moglie Susan, devono interrompere il loro viaggio di nozze per venire a capo dell'uccisione del ricco proprietario Linnekar, avvenuta al confine tra gli Stati Uniti e il Messico. Vargas partecipa alle indagini affiancando l'ispettore americano Quinlan. Nel frattempo Susan viene circuita da un tipo losco, che, ricattando la donna, mira a liberare suo fratello arrestato dall'ispettore messicano.",
-    "title_en": "Touch of Evil",
-    "overview_en": "A border-town bombing draws Mexican investigator Miguel Vargas into a corruption-ridden police investigation led by crooked captain Hank Quinlan, setting off a deadly struggle over power, justice, and truth.",
-    "runtime": 112,
-    "director": "Orson Welles",
-    "genres": [
-      "Crime",
-      "Thriller",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 81799,
-    "title": "Le soldatesse",
-    "original_title": "Le soldatesse",
-    "italian_title": "Le soldatesse",
-    "year": 1965,
-    "poster_path": "/5nFuWY7FEutHeYlHfGuGx1TWoNl.jpg",
-    "overview": "Grecia, 1942. Un tenente italiano riceve a malincuore l'incarico di accompagnare un gruppo di prostitute, destinate ai soldati. Durante il viaggio impara a conoscerle.",
-    "title_en": "The Camp Followers",
-    "overview_en": "In WWII, Lieut. Martino and his men are assigned to lead a group of prostitutes through the mountainous ways to serve in brothels for Italian soldiers in Albania.",
-    "runtime": 120,
-    "director": "Valerio Zurlini",
-    "genres": [
-      "Dramma",
-      "Guerra"
-    ]
-  },
-  {
-    "tmdb_id": 43231,
-    "title": "Le notti bianche",
-    "original_title": "Le notti bianche",
-    "italian_title": "Le notti bianche",
-    "year": 1957,
-    "poster_path": "/ez8LiPfL8kMLkzrIrW55xn3Nyea.jpg",
-    "overview": "Mario incontra Natalia che, come tutte le sere, sta aspettando di incontrare un uomo di cui è perdutamente innamorata. Sembra che un sentimento debba nascere tra i due, quando lo sconosciuto compare davvero.",
-    "title_en": "White Nights",
-    "overview_en": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return.",
-    "runtime": 107,
-    "director": "Luchino Visconti",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 1230368,
-    "title": "Springsteen - Liberami dal nulla",
-    "original_title": "Springsteen: Deliver Me from Nowhere",
-    "italian_title": "Springsteen - Liberami dal nulla",
-    "year": 2025,
-    "poster_path": "/cZP90XTGXv3FisAiSdp8O8Tradt.jpg",
-    "overview": "Il film segue la realizzazione dell’album “Nebraska” di Bruce Springsteen del 1982, anno in cui era un giovane musicista sul punto di diventare una superstar mondiale, alle prese con il difficile equilibrio tra la pressione del successo e i fantasmi del suo passato. Inciso con un registratore a quattro piste nella sua camera da letto in New Jersey, l’album segnò un momento di svolta nella sua vita ed è considerato una delle sue opere più durature: un album acustico puro e tormentato, popolato da anime perse in cerca di una ragione per credere.",
-    "title_en": "Springsteen: Deliver Me from Nowhere",
-    "overview_en": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past.",
-    "runtime": 119,
-    "director": "Scott Cooper",
-    "genres": [
-      "Dramma",
-      "Musica"
-    ]
-  },
-  {
-    "tmdb_id": 34584,
-    "title": "La storia infinita",
-    "original_title": "Die unendliche Geschichte",
-    "italian_title": "La storia infinita",
-    "year": 1984,
-    "poster_path": "/m5plr6ylu6sXPPRQ5hlQC8JkYWx.jpg",
-    "overview": "Il piccolo Bastian che ha da poco perso la mamma, si rifugia nella soffitta della scuola a leggere un vecchio libro che si rivela magico; così Bastian “entra” nella storia e combatte contro il Nulla per difendere il mondo di Fantasia con l'aiuto di un drago volante e di un fanciullo guerriero. Suggestiva superproduzione tedesca, girata però in inglese, che all'epoca ottenne un grande successo grazie alla fiabesca vicenda del romanzo di Michael Ende (debitamente semplificata) e alla colonna sonora di Giorgio Moroder. Appassionante e non stucchevole.",
-    "title_en": "The NeverEnding Story",
-    "overview_en": "While hiding from bullies in his school's attic, a young boy discovers the extraordinary land of Fantasia, through a magical book called The Neverending Story. The book tells the tale of Atreyu, a young warrior who, with the help of a luck dragon named Falkor, must save Fantasia from the destruction of The Nothing.",
-    "runtime": 102,
-    "director": "Wolfgang Petersen",
-    "genres": [
-      "Avventura",
-      "Fantasy",
-      "Famiglia"
-    ]
-  },
-  {
-    "tmdb_id": 68722,
-    "title": "The Master",
-    "original_title": "The Master",
-    "italian_title": "The Master",
-    "year": 2012,
-    "poster_path": "/japQvZ7z0wPvRQdLd9xxI7N8Y4P.jpg",
-    "overview": "Freddie Quell è un soldato uscito dalla Seconda Guerra Mondiale con il sistema nervoso a pezzi. A poco servono le cure che l'esercito gli offre, se non a rendere esplicita un'ossessione per il sesso. A ciò si aggiunge un forte interesse per l'alcol che si traduce in misture che lui stesso si prepara e che offre agli altri con esiti non sempre positivi. Finché un giorno, in modo del tutto casuale, Freddie incontra Lancaster Dodd. Costui ha inventato un metodo di introspezione che sperimenta sul disturbato Marine, il quale sembra trarne giovamento. Da quel momento ha inizio un sodalizio che li vedrà percorrere insieme un lungo tratto di strada. Anche se il loro viaggio finirà con l'offrire loro esiti assolutamente diversi.",
-    "title_en": "The Master",
-    "overview_en": "Freddie, a volatile, heavy-drinking veteran who suffers from post-traumatic stress disorder, finds some semblance of a family when he stumbles onto the ship of Lancaster Dodd, the charismatic leader of a new \"religion\" he forms after World War II.",
-    "runtime": 137,
-    "director": "Paul Thomas Anderson",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1254808,
     "title": "Nouvelle Vague",
     "original_title": "Nouvelle Vague",
@@ -392,6 +254,24 @@
       "Commedia",
       "Dramma",
       "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1368337,
+    "title": "Odissea",
+    "original_title": "The Odyssey",
+    "italian_title": "Odissea",
+    "year": 2026,
+    "poster_path": "/5S4U3gM7N17ni028LJhO60zfcKJ.jpg",
+    "overview": "Ulisse, il leggendario re greco di Itaca, intraprende un lungo e pericoloso viaggio verso casa dopo la guerra di Troia, raccontando i suoi incontri con esseri mitici come il ciclope Polifemo, le Sirene e la dea strega Circe.",
+    "title_en": "The Odyssey",
+    "overview_en": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "runtime": 172,
+    "director": "Christopher Nolan",
+    "genres": [
+      "Avventura",
+      "Azione",
+      "Fantasy"
     ]
   },
   {
@@ -579,6 +459,23 @@
       "Azione",
       "Romance",
       "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 1369286,
+    "title": "Cos'è l'amore?",
+    "original_title": "C’est quoi l’amour ?",
+    "italian_title": "Cos'è l'amore?",
+    "year": 2026,
+    "poster_path": "/e0mc2OSX6jRaWBFS0CJbKzJ7rGy.jpg",
+    "overview": "A Rouen, Marguerite vive serena con il compagno e la figlia adolescente, mantenendo al tempo stesso un rapporto amichevole con Fred, suo primo marito da cui ha divorziato. Un giorno l'uomo le annuncia di volersi risposare, e le chiede aiuto per una semplice pratica di annullamento anche della loro unione religiosa. Marguerite si mostra disponibile, ma la burocrazia della Chiesa complica le cose e la costringe a rimettere in esame la natura del suo rapporto con Fred, nonché la storia trascorsa insieme e la figlia che condividono. Il caso finirà per coinvolgere tutti i membri di questa strana famiglia allargata, portando la comitiva fino a confrontarsi con i vertici del Vaticano.",
+    "title_en": "What is Love?",
+    "overview_en": "Marguerite has no reason to refuse the church’s annulment of her marriage to Fred. She also has a new partner with whom she has a child. However, to convince the church that their previous marriage was doomed from the start, Marguerite and Fred must examine their shared past.",
+    "runtime": 100,
+    "director": "Fabien Gorgeart",
+    "genres": [
+      "Commedia",
+      "Dramma"
     ]
   },
   {
@@ -1029,6 +926,23 @@
     ]
   },
   {
+    "tmdb_id": 81799,
+    "title": "Le soldatesse",
+    "original_title": "Le soldatesse",
+    "italian_title": "Le soldatesse",
+    "year": 1965,
+    "poster_path": "/5nFuWY7FEutHeYlHfGuGx1TWoNl.jpg",
+    "overview": "Grecia, 1942. Un tenente italiano riceve a malincuore l'incarico di accompagnare un gruppo di prostitute, destinate ai soldati. Durante il viaggio impara a conoscerle.",
+    "title_en": "The Camp Followers",
+    "overview_en": "In WWII, Lieut. Martino and his men are assigned to lead a group of prostitutes through the mountainous ways to serve in brothels for Italian soldiers in Albania.",
+    "runtime": 120,
+    "director": "Valerio Zurlini",
+    "genres": [
+      "Dramma",
+      "Guerra"
+    ]
+  },
+  {
     "tmdb_id": 688,
     "title": "I ponti di Madison County",
     "original_title": "The Bridges of Madison County",
@@ -1143,6 +1057,42 @@
     "genres": [
       "Horror",
       "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 13763,
+    "title": "Purple Rain",
+    "original_title": "Purple Rain",
+    "italian_title": "Purple Rain",
+    "year": 1984,
+    "poster_path": "/vkQmzaSuDj8QyXmwNhCceCAmwUe.jpg",
+    "overview": "\"The Kid\" giovane cantante di colore è sostenuto da un'orchestra di amici che credono nel suo talento e da un paio di ragazze volenterose, che lo affiancano nelle esibizioni canore e nell'animazione dei balli in un night, dove si è affermato. A questa vita notturna se ne affianca una familiare, diurna, con un paio di genitori litigiosi e violenti, che lo deprimono. Incontrata una cantante, Apollonia, si sente attratto da lei e ne è ricambiato, ma i suoi modi strafottenti e maneschi inducono la donna a esibirsi con gruppo \"funk\" rivale...",
+    "title_en": "Purple Rain",
+    "overview_en": "A victim of his own anger, the Kid is a Minneapolis musician on the rise with his band, the Revolution, escaping a tumultuous home life through music. While trying to avoid making the same mistakes as his truculent father, the Kid navigates the club scene and a rocky relationship with a captivating singer, Apollonia. But another musician, Morris, looks to steal the Kid's spotlight -- and his girl.",
+    "runtime": 111,
+    "director": "Albert Magnoli",
+    "genres": [
+      "Dramma",
+      "Musica",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1280,
+    "title": "Ferro 3 - La casa vuota",
+    "original_title": "빈집",
+    "italian_title": "Ferro 3 - La casa vuota",
+    "year": 2004,
+    "poster_path": "/6lJR5bOtJzNrzVaHoJjM7sQBu9T.jpg",
+    "overview": "Tae-suk è un ragazzo che passa il tempo alla ricerca di case altrui da abitare in assenza dei proprietari. Visitandone una si imbatte nella ricca Sun-hwa, maltrattata dal marito. I due sceglieranno di vivere ai margini, spostandosi di casa in casa, finchè la scoperta di un cadavere negherà loro la promessa di libertà.",
+    "title_en": "3-Iron",
+    "overview_en": "A drifter lives in people's houses while they are away and repays them by doing chores for them. His life changes when he meets a beautiful woman who wants to escape her unhappy marriage.",
+    "runtime": 95,
+    "director": "Kim Ki-duk",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "Crime"
     ]
   },
   {
@@ -1283,21 +1233,20 @@
     ]
   },
   {
-    "tmdb_id": 1287141,
-    "title": "Pillion - Amore senza freni",
-    "original_title": "Pillion",
-    "italian_title": "Pillion - Amore senza freni",
-    "year": 2025,
-    "poster_path": "/as93xiDvY1RwfLoNp4GRFmaOCjo.jpg",
-    "overview": "Colin, timido e introverso, vede la sua vita piacevolmente travolta dall’incontro con Ray, carismatico e fascinoso leader di un gruppo di bikers. Tra i due si instaura presto una relazione BDSM che vede Ray nel ruolo del padrone e Colin in quelli del suo devotissimo sottomesso. Sarà l’inizio di una storia d’amore inconsueta e travolgente, che cambierà profondamente entrambi.",
-    "title_en": "Pillion",
-    "overview_en": "Colin, a timid gay man, is swept off his feet when Ray, an enigmatic and impossibly handsome biker, takes him on as his submissive in a crazy and erotic BDSM-focused relationship.",
-    "runtime": 107,
-    "director": "Harry Lighton",
+    "tmdb_id": 1130402,
+    "title": "Terapia di famiglia",
+    "original_title": "Jamais sans mon psy",
+    "italian_title": "Terapia di famiglia",
+    "year": 2024,
+    "poster_path": "/cJUjUI1hyIlCax8GRmxIiaHxRFq.jpg",
+    "overview": "Cinque anni di psicoterapia non sono serviti ad alleviare l'ansia che mette a repentaglio la vita di Damien. Il dottor Beranger non lo sopporta più. Così lo caccia con una sfida terapeutica: trovare la donna della sua vita. E indovinate un po'? Ci riesce! Tre mesi dopo, la sua fidanzata Alice lo invita a casa dei suoi genitori, che stanno organizzando una grande festa per il loro trentesimo anniversario. Appena Damien e Alice arrivano, nulla va per il verso giusto. Ma la cosa peggiore è che il padre di Alice non è altri che il dottor Beranger in persona! Determinato a convincere sua figlia a rompere con Damien, il dottore non si fermerà davanti a nulla per rendergli la vita un inferno!",
+    "title_en": "Not Without My Shrink",
+    "overview_en": "A successful psychoanalyst's life is turned upside down by a very anxious and extremely clingy patient who starts dating his daughter.",
+    "runtime": 91,
+    "director": "Arnaud Lemort",
     "genres": [
-      "Romance",
-      "Dramma",
-      "Commedia"
+      "Commedia",
+      "Famiglia"
     ]
   },
   {
@@ -1314,23 +1263,6 @@
     "director": "Alexandre O. Philippe",
     "genres": [
       "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 1130402,
-    "title": "Terapia di famiglia",
-    "original_title": "Jamais sans mon psy",
-    "italian_title": "Terapia di famiglia",
-    "year": 2024,
-    "poster_path": "/cJUjUI1hyIlCax8GRmxIiaHxRFq.jpg",
-    "overview": "Cinque anni di psicoterapia non sono serviti ad alleviare l'ansia che mette a repentaglio la vita di Damien. Il dottor Beranger non lo sopporta più. Così lo caccia con una sfida terapeutica: trovare la donna della sua vita. E indovinate un po'? Ci riesce! Tre mesi dopo, la sua fidanzata Alice lo invita a casa dei suoi genitori, che stanno organizzando una grande festa per il loro trentesimo anniversario. Appena Damien e Alice arrivano, nulla va per il verso giusto. Ma la cosa peggiore è che il padre di Alice non è altri che il dottor Beranger in persona! Determinato a convincere sua figlia a rompere con Damien, il dottore non si fermerà davanti a nulla per rendergli la vita un inferno!",
-    "title_en": "Not Without My Shrink",
-    "overview_en": "A successful psychoanalyst's life is turned upside down by a very anxious and extremely clingy patient who starts dating his daughter.",
-    "runtime": 91,
-    "director": "Arnaud Lemort",
-    "genres": [
-      "Commedia",
-      "Famiglia"
     ]
   },
   {

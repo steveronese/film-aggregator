@@ -1,2316 +1,6 @@
 [
   {
     "cinema_id": "anteo",
-    "tmdb_id": 989474,
-    "raw_title": "V. O. SOTT ITA BORGO",
-    "start": "2026-08-13T10:00:00",
-    "hall": "Abadan PROMO 3,50",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/101590/5081fd9b-f395-4ee0-be98-06a29fea6d58#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1287141,
-    "raw_title": "V.O.SOTT.ITA - PILLION",
-    "start": "2026-08-13T10:00:00",
-    "hall": "Abanella RIVEDIAMOLI ANTEO",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/102051/b5b05007-a35b-43e3-9d75-91a0ea822cc6#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1368337,
-    "raw_title": "V.O. SOTT.ITA THE ODYSSEY",
-    "start": "2026-08-13T10:30:00",
-    "hall": "President",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/90930/efb1dd45-1f05-4497-908c-b3b6c369fc93#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": null,
-    "raw_title": "NO GOOD MEN",
-    "start": "2026-08-13T10:30:00",
-    "hall": "Astoria PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/91494/951b9b99-3e8f-4da7-ac51-1677bffa337d#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 390,
-    "raw_title": "V.O. SOTT.ITA - LISBON STORY",
-    "start": "2026-08-13T10:30:00",
-    "hall": "Rubino PROMO 3,50",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/88793/883b7578-4f59-452f-ac86-46e455393cd7#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1088548,
-    "raw_title": "AMARGA NAVIDAD",
-    "start": "2026-08-13T10:30:00",
-    "hall": "Corallo PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/91476/23e384bd-ab9e-4f27-9b91-75b8bb67b9bf#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1369286,
-    "raw_title": "COS'E' L'AMORE (C'EST QUOI L'AMOUR)",
-    "start": "2026-08-13T10:30:00",
-    "hall": "Capitol PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/93373/8db4158b-c20e-45d8-9a05-23dcc1c121f7#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1130402,
-    "raw_title": "TERAPIA DI FAMIGLIA (JAMAIS SANS MON PSY)",
-    "start": "2026-08-13T10:30:00",
-    "hall": "Aurora PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/99708/edd41863-b5d9-48d7-8462-163d6cf74e78#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-08-13T10:30:00",
-    "hall": "Mignon",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/89413/8d799041-84d3-4ff1-845f-c0fbd6326a56#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-13T10:40:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-13T10:45:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1563588,
-    "raw_title": "L'HANGAR ROSSO",
-    "start": "2026-08-13T11:00:00",
-    "hall": "De amicis PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/96871/2d08605e-200a-4b88-b277-047b0a5fbdc8#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 57447,
-    "raw_title": "LA CASA DALLE FINESTRE CHE RIDONO",
-    "start": "2026-08-13T11:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/lacasadallefinestrecheridono/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-13T11:40:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-13T12:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1560020,
-    "raw_title": "PICCOLO MIRACOLO",
-    "start": "2026-08-13T12:20:00",
-    "hall": "Abadan PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93306/eca8073c-50dd-449e-b953-877bced9c25b#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 969681,
-    "raw_title": "V.O.SOTT.ITA. - SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-13T12:30:00",
-    "hall": "Astoria",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/99675/804050c5-f4b7-4ee8-bca7-e24f8cdaa2fd#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1462322,
-    "raw_title": "LE CITTÀ DI PIANURA",
-    "start": "2026-08-13T12:30:00",
-    "hall": "Capitol PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/91482/a9ee34c6-a30b-4434-bbc2-f533af5f2f2f#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 969681,
-    "raw_title": "V.O.SOTT.ITA. - SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-13T12:40:00",
-    "hall": "Maestoso",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/97234/217a6f8b-2be4-4547-b6da-f198eb8ff5a4#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1563588,
-    "raw_title": "V. O. SOTT ITA L'HANGAR ROSSO",
-    "start": "2026-08-13T12:45:00",
-    "hall": "Rubino PROMO 3,50",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/96969/3f7f82f8-140f-4e14-aa14-75f7f462a424#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1164862,
-    "raw_title": "AGENT OF HAPPINESS-IL BHUTAN E LA FELICITA'",
-    "start": "2026-08-13T12:45:00",
-    "hall": "Obraz PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/98619/2c081671-a7f2-4c06-bea5-e53de0ff587f#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 870092,
-    "raw_title": "GRETA E LE FAVOLE VERE",
-    "start": "2026-08-13T12:45:00",
-    "hall": "Corallo PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/101787/34f07aa9-d04c-407a-9cbf-85ad27af4ba6#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1485975,
-    "raw_title": "KIM NOVAK'S VERTIGO",
-    "start": "2026-08-13T12:50:00",
-    "hall": "Abanella",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/100533/61ed5f20-bd72-4a59-bb87-21a87c0d6fcc#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1369286,
-    "raw_title": "COS'E' L'AMORE (C'EST QUOI L'AMOUR)",
-    "start": "2026-08-13T13:00:00",
-    "hall": "De amicis PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/93377/86d3339c-83c7-49ad-a6d0-c4ef584a93b9#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1555887,
-    "raw_title": "TIENIMI PRESENTE",
-    "start": "2026-08-13T13:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/tienimi-presente/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1130402,
-    "raw_title": "TERAPIA DI FAMIGLIA (JAMAIS SANS MON PSY)",
-    "start": "2026-08-13T13:00:00",
-    "hall": "Aurora PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/99708/0066e4df-203d-400b-9c9a-de509babd523#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-13T13:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1563588,
-    "raw_title": "L'HANGAR ROSSO",
-    "start": "2026-08-13T13:20:00",
-    "hall": "Ariston PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/96871/c6a7a738-1ec3-4ca0-95f4-6926335af7c0#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1084244,
-    "raw_title": "TOY STORY 5",
-    "start": "2026-08-13T13:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-13T13:40:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-13T14:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/97563",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-08-13T14:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T14:00:00",
-    "hall": "18",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1284465,
-    "raw_title": "Robin Hood - Il Prezzo Del Sangue",
-    "start": "2026-08-13T14:00:00",
-    "hall": "11",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 870092,
-    "raw_title": "GRETA E LE FAVOLE VERE",
-    "start": "2026-08-13T14:10:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T14:10:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-13T14:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 870092,
-    "raw_title": "Greta E Le Favole Vere",
-    "start": "2026-08-13T14:15:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1284465,
-    "raw_title": "(O.V.) The Death Of Robin Hood",
-    "start": "2026-08-13T14:20:00",
-    "hall": "12",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "(Sala XL) Minions & Monsters",
-    "start": "2026-08-13T14:20:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 989474,
-    "raw_title": "BORGO",
-    "start": "2026-08-13T14:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/borgo/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T14:30:00",
-    "hall": "Sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1101383,
-    "raw_title": "(O.V.) La Fine Di Oak Street",
-    "start": "2026-08-13T14:30:00",
-    "hall": "14",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-08-13T14:30:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1101383,
-    "raw_title": "LA FINE DI OAK STREET",
-    "start": "2026-08-13T14:40:00",
-    "hall": "Zenit",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/101820/a1106df6-67b4-4a6f-bc53-e12d8b43706e#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T14:40:00",
-    "hall": "SALA VENEZIA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1284465,
-    "raw_title": "Robin Hood - Il Prezzo Del Sangue",
-    "start": "2026-08-13T14:40:00",
-    "hall": "SALA TORONTO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T14:40:00",
-    "hall": "SALA LOCARNO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1101383,
-    "raw_title": "La Fine Di Oak Street",
-    "start": "2026-08-13T14:40:00",
-    "hall": "3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1368337,
-    "raw_title": "V.O. SOTT.ITA THE ODYSSEY",
-    "start": "2026-08-13T14:45:00",
-    "hall": "Rubino",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/90930/7e1c5e8f-f3e7-4c9a-9f77-06760c5e4683#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1432474,
-    "raw_title": "NIMRODS - A GREEN DAY COMEDY",
-    "start": "2026-08-13T14:45:00",
-    "hall": "Capitol EVENTO 10 ANTEO",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/101721/ac34648b-85ff-4a7d-894e-cc48f7b1fcdf#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "(O.V.) The Odissey",
-    "start": "2026-08-13T14:45:00",
-    "hall": "10",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1164862,
-    "raw_title": "AGENT OF HAPPINESS-IL BHUTAN E LA FELICITA'",
-    "start": "2026-08-13T15:00:00",
-    "hall": "Astra PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/98619/09cf159b-8dd8-4ac4-8422-a65e87a9658d#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 989474,
-    "raw_title": "BORGO",
-    "start": "2026-08-13T15:00:00",
-    "hall": "Abadan PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/101589/99cb1c80-a943-468e-bef9-c8a48130aad0#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1287141,
-    "raw_title": "V.O.SOTT.ITA - PILLION",
-    "start": "2026-08-13T15:00:00",
-    "hall": "Abanella RIVEDIAMOLI ANTEO",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/102051/00ebcfb1-40a3-4799-a5d8-a68d9ae0bf9f#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1432474,
-    "raw_title": "(O.V.) Nimrods",
-    "start": "2026-08-13T15:00:00",
-    "hall": "Sala 2",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T15:00:00",
-    "hall": "Sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T15:00:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "cineteca-mic",
-    "tmdb_id": 1369286,
-    "raw_title": "COS'È L'AMORE?",
-    "start": "2026-08-13T15:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/93207",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-08-13T15:00:00",
-    "hall": "Mignon",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/89413/aa2242c3-0ff8-4623-98a4-6bc095e062a3#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 635767,
-    "raw_title": "SACRIFICE",
-    "start": "2026-08-13T15:00:00",
-    "hall": "Aurora",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/101853/0e5a18a3-ec2d-4f95-bd25-da45875727e3#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T15:00:00",
-    "hall": "SALA SUNDANCE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T15:00:00",
-    "hall": "SALA BERLINO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1432474,
-    "raw_title": "(O.V.) Nimrods",
-    "start": "2026-08-13T15:00:00",
-    "hall": "sala 3",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T15:00:00",
-    "hall": "sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T15:00:00",
-    "hall": "sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-13T15:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "(Sala XL) Spider-Man: Brand New Day",
-    "start": "2026-08-13T15:10:00",
-    "hall": "SALA 2 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1563588,
-    "raw_title": "L'HANGAR ROSSO",
-    "start": "2026-08-13T15:15:00",
-    "hall": "De amicis PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/96871/d58114b6-b684-41b5-99db-98d980eff5c1#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1101383,
-    "raw_title": "La Fine Di Oak Street",
-    "start": "2026-08-13T15:15:00",
-    "hall": "SALA CANNES",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1101383,
-    "raw_title": "LA FINE DI OAK STREET",
-    "start": "2026-08-13T15:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T15:20:00",
-    "hall": "8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 969681,
-    "raw_title": "V.O.SOTT.ITA. - SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-13T15:30:00",
-    "hall": "Astoria",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/99675/17e62354-745c-40f8-b257-3fdb35a00eb4#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-13T15:30:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/97233/f4d5fcb5-fe0b-4cf4-8947-02a398c24e39#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-13T15:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-08-13T15:30:00",
-    "hall": "Sala 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T15:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-08-13T15:40:00",
-    "hall": "9",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "3d - Spider-Man: Brand New Day",
-    "start": "2026-08-13T15:50:00",
-    "hall": "5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-13T16:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T16:00:00",
-    "hall": "13",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1315772,
-    "raw_title": "MINIONS & MONSTERS",
-    "start": "2026-08-13T16:10:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T16:10:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 870092,
-    "raw_title": "GRETA E LE FAVOLE VERE",
-    "start": "2026-08-13T16:20:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-13T16:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "(O.V.) Spider-Man: Brand New Day",
-    "start": "2026-08-13T16:30:00",
-    "hall": "7",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1119537,
-    "raw_title": "LOVE LETTERS",
-    "start": "2026-08-13T16:40:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/love-letters/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-13T16:40:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "(Sala XL) Odissea",
-    "start": "2026-08-13T16:40:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-13T16:45:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-08-13T16:45:00",
-    "hall": "11",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1101383,
-    "raw_title": "LA FINE DI OAK STREET",
-    "start": "2026-08-13T16:50:00",
-    "hall": "Zenit",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/101820/835e2e4e-75f3-4808-819d-65878fd7f69d#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T16:55:00",
-    "hall": "SALA TORONTO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 989474,
-    "raw_title": "BORGO",
-    "start": "2026-08-13T17:00:00",
-    "hall": "Obraz PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/101589/43ffab70-308d-44ea-9e53-5f722647807b#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T17:00:00",
-    "hall": "Sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T17:00:00",
-    "hall": "SALA 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T17:00:00",
-    "hall": "SALA 7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": 81799,
-    "raw_title": "LE SOLDATESSE",
-    "start": "2026-08-13T17:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/98389",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-mic",
-    "tmdb_id": 1480,
-    "raw_title": "L'INFERNALE QUINLAN",
-    "start": "2026-08-13T17:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/59877",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1284465,
-    "raw_title": "ROBIN HOOD - IL PREZZO DEL SANGUE",
-    "start": "2026-08-13T17:00:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/101490/c4da630d-7649-4d65-96a8-c0498f830d12#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T17:00:00",
-    "hall": "sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 635767,
-    "raw_title": "Sacrifice",
-    "start": "2026-08-13T17:00:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1284465,
-    "raw_title": "Robin Hood - Il Prezzo Del Sangue",
-    "start": "2026-08-13T17:05:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1432474,
-    "raw_title": "(O.V.) Nimrods",
-    "start": "2026-08-13T17:10:00",
-    "hall": "SALA 8",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T17:10:00",
-    "hall": "SALA 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1101383,
-    "raw_title": "La Fine Di Oak Street",
-    "start": "2026-08-13T17:10:00",
-    "hall": "3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1088548,
-    "raw_title": "AMARGA NAVIDAD",
-    "start": "2026-08-13T17:15:00",
-    "hall": "De amicis PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/91527/18a95040-365e-45ec-94d4-4eba680e4b38#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T17:15:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1462322,
-    "raw_title": "LE CITTÀ DI PIANURA",
-    "start": "2026-08-13T17:20:00",
-    "hall": "Abadan PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/91557/7229d0b7-9235-4bc6-953c-cc3f2ffc5b3a#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1130402,
-    "raw_title": "V.O. SOTT. ITA - TERAPIA DI FAMIGLIA",
-    "start": "2026-08-13T17:20:00",
-    "hall": "Abanella PROMO 3,50",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/99840/1b95bb82-0ae3-4d4b-8171-0e311905e04c#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "(O.V.) The Odissey",
-    "start": "2026-08-13T17:20:00",
-    "hall": "14",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T17:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1101383,
-    "raw_title": "La Fine Di Oak Street",
-    "start": "2026-08-13T17:30:00",
-    "hall": "SALA LOCARNO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1284465,
-    "raw_title": "Robin Hood - Il Prezzo Del Sangue",
-    "start": "2026-08-13T17:30:00",
-    "hall": "SALA CANNES",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T17:30:00",
-    "hall": "sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-13T17:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1315772,
-    "raw_title": "Minions & Monsters",
-    "start": "2026-08-13T17:30:00",
-    "hall": "Sala 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1101383,
-    "raw_title": "LA FINE DI OAK STREET",
-    "start": "2026-08-13T17:35:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1101383,
-    "raw_title": "La Fine Di Oak Street",
-    "start": "2026-08-13T17:40:00",
-    "hall": "SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T17:40:00",
-    "hall": "18",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1368337,
-    "raw_title": "V.O. SOTT.ITA THE ODYSSEY",
-    "start": "2026-08-13T17:45:00",
-    "hall": "President",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/90930/a8e9b7d9-3f68-4c4c-9c48-467bd17c2064#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 870092,
-    "raw_title": "GRETA E LE FAVOLE VERE",
-    "start": "2026-08-13T17:50:00",
-    "hall": "Corallo PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/101787/c5412505-df89-4139-8d95-8f2d9a5db2ad#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T17:50:00",
-    "hall": "SALA VENEZIA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T17:50:00",
-    "hall": "Sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T17:50:00",
-    "hall": "9",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T18:00:00",
-    "hall": "SALA 5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T18:00:00",
-    "hall": "SALA SUNDANCE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T18:00:00",
-    "hall": "SALA BERLINO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 969681,
-    "raw_title": "Atmos - Spider-Man: Brand New Day",
-    "start": "2026-08-13T18:10:00",
-    "hall": "SALA 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-13T18:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "(Sala XL) Spider-Man: Brand New Day",
-    "start": "2026-08-13T18:15:00",
-    "hall": "SALA 2 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-13T18:20:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/97233/b1c96bce-b412-42c8-94ed-2703c1755f36#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T18:20:00",
-    "hall": "10",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 969681,
-    "raw_title": "V.O.SOTT.ITA. - SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-13T18:30:00",
-    "hall": "Astoria",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/99675/1b76d861-69fc-468a-86cd-ab6e497aa4cd#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 42853,
-    "raw_title": "THE ODYSSEY - ODISSEA",
-    "start": "2026-08-13T18:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/odissea/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-13T18:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-13T18:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T18:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": null,
-    "raw_title": "DEEP WATER - INCUBO DAGLI ABISSI",
-    "start": "2026-08-13T18:40:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T19:00:00",
-    "hall": "Sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": 43231,
-    "raw_title": "LE NOTTI BIANCHE",
-    "start": "2026-08-13T19:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/90435",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T19:00:00",
-    "hall": "sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "(O.V.) Spider-Man: Brand New Day",
-    "start": "2026-08-13T19:00:00",
-    "hall": "8",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T19:10:00",
-    "hall": "SALA 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1432474,
-    "raw_title": "(O.V.) Nimrods",
-    "start": "2026-08-13T19:10:00",
-    "hall": "11",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T19:15:00",
-    "hall": "5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 989474,
-    "raw_title": "V. O. SOTT ITA BORGO",
-    "start": "2026-08-13T19:20:00",
-    "hall": "Abanella PROMO 3,50",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/101590/d9b19738-1b93-4a46-8f33-e7b93f8f5c68#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T19:20:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-13T19:25:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1563588,
-    "raw_title": "V. O. SOTT ITA L'HANGAR ROSSO",
-    "start": "2026-08-13T19:30:00",
-    "hall": "De amicis PROMO 3,50",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/96969/11b16fa3-c44a-421b-a67f-d3cf124dbc8d#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1287141,
-    "raw_title": "V.O.SOTT.ITA - PILLION",
-    "start": "2026-08-13T19:30:00",
-    "hall": "Abadan RIVEDIAMOLI ANTEO",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/102051/9843ad5d-c95e-4a8f-83cb-d4df4d815afc#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1432474,
-    "raw_title": "(O.V.) Nimrods",
-    "start": "2026-08-13T19:30:00",
-    "hall": "Sala 2",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1432474,
-    "raw_title": "NIMRODS - A GREEN DAY COMEDY",
-    "start": "2026-08-13T19:30:00",
-    "hall": "Capitol EVENTO 10 ANTEO",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/101721/d697df85-d9e3-4284-ae44-2b4f923e4b10#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1101383,
-    "raw_title": "La Fine Di Oak Street",
-    "start": "2026-08-13T19:30:00",
-    "hall": "SALA LOCARNO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1284465,
-    "raw_title": "Robin Hood - Il Prezzo Del Sangue",
-    "start": "2026-08-13T19:30:00",
-    "hall": "SALA TORONTO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1432474,
-    "raw_title": "(O.V.) Nimrods",
-    "start": "2026-08-13T19:30:00",
-    "hall": "sala 3",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 870092,
-    "raw_title": "Greta E Le Favole Vere",
-    "start": "2026-08-13T19:30:00",
-    "hall": "Sala 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1101383,
-    "raw_title": "(O.V.) La Fine Di Oak Street",
-    "start": "2026-08-13T19:30:00",
-    "hall": "6",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1101383,
-    "raw_title": "LA FINE DI OAK STREET",
-    "start": "2026-08-13T19:40:00",
-    "hall": "Corallo",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/101820/5b1b8259-7638-474e-8569-9bff9e6004f5#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-13T19:40:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1101383,
-    "raw_title": "La Fine Di Oak Street",
-    "start": "2026-08-13T19:40:00",
-    "hall": "3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1284465,
-    "raw_title": "(O.V.) The Death Of Robin Hood",
-    "start": "2026-08-13T19:50:00",
-    "hall": "13",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1430077,
-    "raw_title": "Hokum",
-    "start": "2026-08-13T19:55:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1284465,
-    "raw_title": "Robin Hood - Il Prezzo Del Sangue",
-    "start": "2026-08-13T20:00:00",
-    "hall": "SALA 7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1284465,
-    "raw_title": "ROBIN HOOD - IL PREZZO DEL SANGUE",
-    "start": "2026-08-13T20:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1101383,
-    "raw_title": "LA FINE DI OAK STREET",
-    "start": "2026-08-13T20:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T20:00:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1430077,
-    "raw_title": "Hokum",
-    "start": "2026-08-13T20:10:00",
-    "hall": "SALA 8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T20:15:00",
-    "hall": "SALA 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T20:15:00",
-    "hall": "SALA CANNES",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1430077,
-    "raw_title": "HOKUM",
-    "start": "2026-08-13T20:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1101383,
-    "raw_title": "La Fine Di Oak Street",
-    "start": "2026-08-13T20:20:00",
-    "hall": "SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T20:20:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T20:30:00",
-    "hall": "SALA 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "(Sala XL) Odissea",
-    "start": "2026-08-13T20:40:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T20:45:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T20:45:00",
-    "hall": "sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1101383,
-    "raw_title": "La Fine Di Oak Street",
-    "start": "2026-08-13T20:50:00",
-    "hall": "9",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1368337,
-    "raw_title": "V.O. SOTT.ITA THE ODYSSEY",
-    "start": "2026-08-13T21:00:00",
-    "hall": "President",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/90930/9b41bd32-b89d-4a3c-9058-c09535692d6e#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": 68722,
-    "raw_title": "THE MASTER",
-    "start": "2026-08-13T21:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/9127",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-castello",
-    "tmdb_id": 34584,
-    "raw_title": "LA STORIA INFINITA",
-    "start": "2026-08-13T21:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": null,
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-mic",
-    "tmdb_id": 1230368,
-    "raw_title": "SPRINGSTEEN - LIBERAMI DAL NULLA",
-    "start": "2026-08-13T21:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/31607",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1368337,
-    "raw_title": "(O.V.) Odissea",
-    "start": "2026-08-13T21:00:00",
-    "hall": "SALA VENEZIA",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 969681,
-    "raw_title": "(O.V.) Spider-Man: Brand New Day",
-    "start": "2026-08-13T21:00:00",
-    "hall": "SALA BERLINO",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 969681,
-    "raw_title": "(O.V.) Spider-Man: Brand New Day",
-    "start": "2026-08-13T21:00:00",
-    "hall": "SALA SUNDANCE",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-13T21:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "(O.V.) The Odissey",
-    "start": "2026-08-13T21:00:00",
-    "hall": "14",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 969681,
-    "raw_title": "Atmos - Spider-Man: Brand New Day",
-    "start": "2026-08-13T21:15:00",
-    "hall": "SALA 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-13T21:15:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/97233/d467470f-e4ef-4dbc-b14a-daa4c83d798f#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-13T21:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "(Sala XL) Spider-Man: Brand New Day",
-    "start": "2026-08-13T21:20:00",
-    "hall": "SALA 2 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 969681,
-    "raw_title": "V.O.SOTT.ITA. - SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-13T21:30:00",
-    "hall": "Astoria",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/99675/d1396784-311d-4578-8cbf-f879dc9e90d4#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1563588,
-    "raw_title": "L'HANGAR ROSSO",
-    "start": "2026-08-13T21:30:00",
-    "hall": "De amicis PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/96871/8a465057-fe3b-47c6-9765-3e134e7b8b62#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1130402,
-    "raw_title": "TERAPIA DI FAMIGLIA",
-    "start": "2026-08-13T21:30:00",
-    "hall": "Obraz PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/99873/c14cdd60-ed93-4dae-a91d-a4ccfd511a07#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1432474,
-    "raw_title": "(O.V.) Nimrods",
-    "start": "2026-08-13T21:30:00",
-    "hall": "Sala 2",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T21:30:00",
-    "hall": "Sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T21:30:00",
-    "hall": "SALA 5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1284465,
-    "raw_title": "Robin Hood - Il Prezzo Del Sangue",
-    "start": "2026-08-13T21:30:00",
-    "hall": "SALA LOCARNO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1432474,
-    "raw_title": "(O.V.) Nimrods",
-    "start": "2026-08-13T21:30:00",
-    "hall": "sala 3",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T21:30:00",
-    "hall": "sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-13T21:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1432474,
-    "raw_title": "NIMRODS",
-    "start": "2026-08-13T21:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 870092,
-    "raw_title": "Greta E Le Favole Vere",
-    "start": "2026-08-13T21:30:00",
-    "hall": "Sala 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T21:30:00",
-    "hall": "Sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T21:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T21:30:00",
-    "hall": "18",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1462322,
-    "raw_title": "LE CITTÀ DI PIANURA",
-    "start": "2026-08-13T21:40:00",
-    "hall": "Abanella PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/91557/7014ff6d-ffd0-4e33-a976-6fe021cf3ec2#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 989474,
-    "raw_title": "BORGO",
-    "start": "2026-08-13T21:40:00",
-    "hall": "Abadan PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/101589/56b0ae52-38d9-49ab-a5ab-00b4da737131#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1430077,
-    "raw_title": "HOKUM",
-    "start": "2026-08-13T21:40:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/hokum/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1101383,
-    "raw_title": "La Fine Di Oak Street",
-    "start": "2026-08-13T21:40:00",
-    "hall": "SALA TORONTO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1284465,
-    "raw_title": "ROBIN HOOD - IL PREZZO DEL SANGUE",
-    "start": "2026-08-13T21:45:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/101490/15ed4ca0-5afe-41aa-9276-69b13ad13d60#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1101383,
-    "raw_title": "V.O. SOTT. ITA - LA FINE DI OAK STREET",
-    "start": "2026-08-13T21:45:00",
-    "hall": "Corallo",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/102249/5c0813a0-1f43-47d8-819d-a47484a849f3#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T21:50:00",
-    "hall": "11",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1430077,
-    "raw_title": "Hokum",
-    "start": "2026-08-13T21:55:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-13T22:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-13T22:00:00",
-    "hall": "10",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1101383,
-    "raw_title": "La Fine Di Oak Street",
-    "start": "2026-08-13T22:10:00",
-    "hall": "3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T22:15:00",
-    "hall": "SALA 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1101383,
-    "raw_title": "LA FINE DI OAK STREET",
-    "start": "2026-08-13T22:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "(O.V.) Spider-Man: Brand New Day",
-    "start": "2026-08-13T22:15:00",
-    "hall": "8",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1284465,
-    "raw_title": "Robin Hood - Il Prezzo Del Sangue",
-    "start": "2026-08-13T22:20:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1284465,
-    "raw_title": "ROBIN HOOD - IL PREZZO DEL SANGUE",
-    "start": "2026-08-13T22:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-13T22:30:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1430077,
-    "raw_title": "HOKUM",
-    "start": "2026-08-13T22:35:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 635767,
-    "raw_title": "Sacrifice",
-    "start": "2026-08-13T22:35:00",
-    "hall": "13",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1430077,
-    "raw_title": "Hokum",
-    "start": "2026-08-13T22:40:00",
-    "hall": "SALA 8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1101383,
-    "raw_title": "La Fine Di Oak Street",
-    "start": "2026-08-13T22:40:00",
-    "hall": "SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1284465,
-    "raw_title": "Robin Hood - Il Prezzo Del Sangue",
-    "start": "2026-08-13T22:40:00",
-    "hall": "SALA 7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-13T22:40:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 635767,
-    "raw_title": "SACRIFICE",
-    "start": "2026-08-13T22:45:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1430077,
-    "raw_title": "Hokum",
-    "start": "2026-08-13T22:50:00",
-    "hall": "5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
     "tmdb_id": 1368337,
     "raw_title": "V.O. SOTT.ITA THE ODYSSEY",
     "start": "2026-08-14T10:30:00",
@@ -2390,6 +80,26 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 969681,
+    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
+    "start": "2026-08-14T10:40:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-08-14T10:45:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1563588,
     "raw_title": "L'HANGAR ROSSO",
@@ -2418,6 +128,26 @@
     "language": "original_subbed",
     "booking_url": "https://bandhi.it/bah/beltrade/production/tienimi-presente/",
     "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 969681,
+    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
+    "start": "2026-08-14T11:40:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-08-14T12:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "anteo",
@@ -2530,6 +260,16 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 969681,
+    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
+    "start": "2026-08-14T13:15:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "citylife-anteo",
     "tmdb_id": 1563588,
     "raw_title": "L'HANGAR ROSSO",
@@ -2540,14 +280,34 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-14T14:00:00",
-    "hall": "18",
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1084244,
+    "raw_title": "TOY STORY 5",
+    "start": "2026-08-14T13:30:00",
+    "hall": null,
     "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 969681,
+    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
+    "start": "2026-08-14T13:40:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1315772,
+    "raw_title": "MINIONS & MONSTERS",
+    "start": "2026-08-14T14:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -2561,6 +321,26 @@
   },
   {
     "cinema_id": "uci-bicocca",
+    "tmdb_id": 1368337,
+    "raw_title": "Odissea",
+    "start": "2026-08-14T14:05:00",
+    "hall": "18",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 870092,
+    "raw_title": "GRETA E LE FAVOLE VERE",
+    "start": "2026-08-14T14:10:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "uci-bicocca",
     "tmdb_id": 969681,
     "raw_title": "Spider-Man: Brand New Day",
     "start": "2026-08-14T14:10:00",
@@ -2570,12 +350,22 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 969681,
+    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
+    "start": "2026-08-14T14:15:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": 870092,
-    "raw_title": "Greta E Le Favole Vere",
+    "tmdb_id": 1728113,
+    "raw_title": "(O.V.) Katseye: Wild Hearts",
     "start": "2026-08-14T14:15:00",
     "hall": "7",
-    "language": "unknown",
+    "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
@@ -2615,6 +405,16 @@
     "raw_title": "(O.V.) La Fine Di Oak Street",
     "start": "2026-08-14T14:30:00",
     "hall": "13",
+    "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 969681,
+    "raw_title": "(O.V.) Spider-Man: Brand New Day",
+    "start": "2026-08-14T14:30:00",
+    "hall": "15",
     "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
@@ -2830,6 +630,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-08-14T15:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "arcobaleno",
     "tmdb_id": 969681,
     "raw_title": "Spider-Man: Brand New Day",
@@ -2880,6 +690,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1101383,
+    "raw_title": "LA FINE DI OAK STREET",
+    "start": "2026-08-14T15:15:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1368337,
     "raw_title": "Odissea",
@@ -2918,6 +738,16 @@
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/97233/9f3e71a6-853e-4d2e-8204-01f19400a294#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 969681,
+    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
+    "start": "2026-08-14T15:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "plinius",
@@ -2960,6 +790,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-08-14T16:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1368337,
     "raw_title": "Odissea",
@@ -2968,6 +808,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1315772,
+    "raw_title": "MINIONS & MONSTERS",
+    "start": "2026-08-14T16:10:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -2980,6 +830,26 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 870092,
+    "raw_title": "GRETA E LE FAVOLE VERE",
+    "start": "2026-08-14T16:20:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 969681,
+    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
+    "start": "2026-08-14T16:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 969681,
     "raw_title": "(O.V.) Spider-Man: Brand New Day",
@@ -2990,6 +860,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 969681,
+    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
+    "start": "2026-08-14T16:40:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1368337,
     "raw_title": "(Sala XL) Odissea",
@@ -2998,6 +878,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-08-14T16:45:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -3240,6 +1130,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-08-14T17:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "plinius",
     "tmdb_id": 1315772,
     "raw_title": "Minions & Monsters",
@@ -3250,6 +1150,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1101383,
+    "raw_title": "LA FINE DI OAK STREET",
+    "start": "2026-08-14T17:35:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "cinelandia-certosa",
     "tmdb_id": 1101383,
     "raw_title": "La Fine Di Oak Street",
@@ -3258,6 +1168,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1101383,
+    "raw_title": "(O.V.) La Fine Di Oak Street",
+    "start": "2026-08-14T17:40:00",
+    "hall": "15",
+    "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -3360,6 +1280,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 969681,
+    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
+    "start": "2026-08-14T18:15:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 969681,
     "raw_title": "(Sala XL) Spider-Man: Brand New Day",
@@ -3410,6 +1340,26 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-08-14T18:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 969681,
+    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
+    "start": "2026-08-14T18:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "plinius",
     "tmdb_id": 969681,
     "raw_title": "Spider-Man: Brand New Day",
@@ -3418,6 +1368,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": null,
+    "raw_title": "DEEP WATER - INCUBO DAGLI ABISSI",
+    "start": "2026-08-14T18:40:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "arcobaleno",
@@ -3508,6 +1468,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-08-14T19:25:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "anteo",
@@ -3610,6 +1580,16 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 969681,
+    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
+    "start": "2026-08-14T19:40:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1101383,
     "raw_title": "La Fine Di Oak Street",
@@ -3660,12 +1640,42 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1284465,
+    "raw_title": "ROBIN HOOD - IL PREZZO DEL SANGUE",
+    "start": "2026-08-14T20:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1101383,
+    "raw_title": "LA FINE DI OAK STREET",
+    "start": "2026-08-14T20:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": null,
     "raw_title": "(Kor) 2026 Cortis Tour In La: Live View",
     "start": "2026-08-14T20:00:00",
     "hall": "9",
     "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1284465,
+    "raw_title": "Robin Hood - Il Prezzo Del Sangue",
+    "start": "2026-08-14T20:00:00",
+    "hall": "15",
+    "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
@@ -3698,6 +1708,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1430077,
+    "raw_title": "HOKUM",
+    "start": "2026-08-14T20:15:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "cinelandia-certosa",
@@ -3840,6 +1860,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-08-14T21:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1368337,
     "raw_title": "(O.V.) The Odissey",
@@ -3898,6 +1928,16 @@
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/97233/096785ec-0fbb-427f-951e-cfdd024dfa22#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 969681,
+    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
+    "start": "2026-08-14T21:15:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -4010,6 +2050,26 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 969681,
+    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
+    "start": "2026-08-14T21:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1432474,
+    "raw_title": "NIMRODS",
+    "start": "2026-08-14T21:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "plinius",
     "tmdb_id": 870092,
     "raw_title": "Greta E Le Favole Vere",
@@ -4100,6 +2160,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-08-14T22:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1368337,
     "raw_title": "Odissea",
@@ -4130,6 +2200,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1101383,
+    "raw_title": "LA FINE DI OAK STREET",
+    "start": "2026-08-14T22:15:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 969681,
     "raw_title": "(O.V.) Spider-Man: Brand New Day",
@@ -4150,6 +2230,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1284465,
+    "raw_title": "ROBIN HOOD - IL PREZZO DEL SANGUE",
+    "start": "2026-08-14T22:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 969681,
     "raw_title": "Spider-Man: Brand New Day",
@@ -4158,6 +2248,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1430077,
+    "raw_title": "HOKUM",
+    "start": "2026-08-14T22:35:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "cinelandia-certosa",
@@ -4190,6 +2290,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 969681,
+    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
+    "start": "2026-08-14T22:40:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1430077,
     "raw_title": "Hokum",
@@ -4200,11 +2310,21 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 635767,
+    "raw_title": "SACRIFICE",
+    "start": "2026-08-14T22:45:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-14T22:40:00",
-    "hall": "13",
+    "tmdb_id": 635767,
+    "raw_title": "Sacrifice",
+    "start": "2026-08-14T22:45:00",
+    "hall": "15",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
@@ -4215,6 +2335,16 @@
     "raw_title": "Terrifier 3",
     "start": "2026-08-14T22:50:00",
     "hall": "5",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1101383,
+    "raw_title": "La Fine Di Oak Street",
+    "start": "2026-08-14T23:00:00",
+    "hall": "13",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
@@ -5421,8 +3551,18 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": 635767,
-    "raw_title": "Sacrifice",
+    "tmdb_id": 1284465,
+    "raw_title": "Robin Hood - Il Prezzo Del Sangue",
+    "start": "2026-08-15T19:50:00",
+    "hall": "13",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1430077,
+    "raw_title": "Hokum",
     "start": "2026-08-15T19:55:00",
     "hall": "12",
     "language": "unknown",
@@ -5468,16 +3608,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1430077,
-    "raw_title": "Hokum",
-    "start": "2026-08-15T20:10:00",
-    "hall": "13",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "cinelandia-certosa",
@@ -5560,16 +3690,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
   },
   {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1284465,
-    "raw_title": "Robin Hood - Il Prezzo Del Sangue",
-    "start": "2026-08-15T20:50:00",
-    "hall": "9",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
     "cinema_id": "anteo",
     "tmdb_id": 1368337,
     "raw_title": "V.O. SOTT.ITA THE ODYSSEY",
@@ -5626,6 +3746,16 @@
     "start": "2026-08-15T21:00:00",
     "hall": "14",
     "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1101383,
+    "raw_title": "La Fine Di Oak Street",
+    "start": "2026-08-15T21:00:00",
+    "hall": "9",
+    "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
@@ -6471,11 +4601,21 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": 870092,
-    "raw_title": "Greta E Le Favole Vere",
+    "tmdb_id": 1084244,
+    "raw_title": "Toy Story 5",
+    "start": "2026-08-16T14:10:00",
+    "hall": "6",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1728113,
+    "raw_title": "(O.V.) Katseye: Wild Hearts",
     "start": "2026-08-16T14:15:00",
     "hall": "7",
-    "language": "unknown",
+    "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
@@ -6498,16 +4638,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1084244,
-    "raw_title": "Toy Story 5",
-    "start": "2026-08-16T14:30:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "citylife-anteo",
@@ -6961,6 +5091,16 @@
   },
   {
     "cinema_id": "uci-bicocca",
+    "tmdb_id": 969681,
+    "raw_title": "Spider-Man: Brand New Day",
+    "start": "2026-08-16T16:40:00",
+    "hall": "6",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "uci-bicocca",
     "tmdb_id": 1315772,
     "raw_title": "Minions & Monsters",
     "start": "2026-08-16T16:45:00",
@@ -7058,16 +5198,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 635767,
-    "raw_title": "Sacrifice",
-    "start": "2026-08-16T17:00:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -7740,16 +5870,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
   },
   {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1101383,
-    "raw_title": "La Fine Di Oak Street",
-    "start": "2026-08-16T20:50:00",
-    "hall": "9",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
     "cinema_id": "anteo",
     "tmdb_id": 1368337,
     "raw_title": "V.O. SOTT.ITA THE ODYSSEY",
@@ -7806,6 +5926,16 @@
     "start": "2026-08-16T21:00:00",
     "hall": "14",
     "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1101383,
+    "raw_title": "La Fine Di Oak Street",
+    "start": "2026-08-16T21:00:00",
+    "hall": "9",
+    "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
@@ -11644,7 +9774,7 @@
     "tmdb_id": 969681,
     "raw_title": "(O.V.) Spider-Man: Brand New Day",
     "start": "2026-08-18T21:00:00",
-    "hall": "SALA SUNDANCE",
+    "hall": "SALA BERLINO",
     "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
@@ -11654,7 +9784,7 @@
     "tmdb_id": 969681,
     "raw_title": "(O.V.) Spider-Man: Brand New Day",
     "start": "2026-08-18T21:00:00",
-    "hall": "SALA BERLINO",
+    "hall": "SALA SUNDANCE",
     "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
@@ -12430,6 +10560,46 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1368337,
+    "raw_title": "Odissea",
+    "start": "2026-08-19T14:40:00",
+    "hall": "SALA BERLINO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1284465,
+    "raw_title": "Robin Hood - Il Prezzo Del Sangue",
+    "start": "2026-08-19T14:40:00",
+    "hall": "SALA TORONTO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 969681,
+    "raw_title": "Spider-Man: Brand New Day",
+    "start": "2026-08-19T14:40:00",
+    "hall": "SALA LOCARNO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 969681,
+    "raw_title": "Spider-Man: Brand New Day",
+    "start": "2026-08-19T14:40:00",
+    "hall": "SALA SUNDANCE",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1101383,
     "raw_title": "La Fine Di Oak Street",
@@ -12530,6 +10700,16 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1101383,
+    "raw_title": "La Fine Di Oak Street",
+    "start": "2026-08-19T15:00:00",
+    "hall": "SALA CANNES",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "ducale",
     "tmdb_id": 1108427,
     "raw_title": "Oceania (2026)",
@@ -12588,6 +10768,16 @@
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/96871/f66c1251-0b39-49e0-a117-c96b320d4c88#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1108427,
+    "raw_title": "Oceania (2026)",
+    "start": "2026-08-19T15:15:00",
+    "hall": "SALA VENEZIA",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -12740,6 +10930,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "colosseo",
+    "tmdb_id": 969681,
+    "raw_title": "Spider-Man: Brand New Day",
+    "start": "2026-08-19T16:55:00",
+    "hall": "SALA TORONTO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 277834,
     "raw_title": "OCEANIA (MOANA)",
@@ -12808,6 +11008,16 @@
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/101689/237def79-3632-430e-9fa7-6a16afb16b8a#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1284465,
+    "raw_title": "Robin Hood - Il Prezzo Del Sangue",
+    "start": "2026-08-19T17:00:00",
+    "hall": "SALA CANNES",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -12910,6 +11120,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "colosseo",
+    "tmdb_id": 969681,
+    "raw_title": "Spider-Man: Brand New Day",
+    "start": "2026-08-19T17:25:00",
+    "hall": "SALA SUNDANCE",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1130402,
     "raw_title": "V.O. SOTT. ITA - TERAPIA DI FAMIGLIA",
@@ -12938,6 +11158,16 @@
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/102283/b3675d9a-e0d2-451b-a758-10ca6a5be9d5#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1101383,
+    "raw_title": "La Fine Di Oak Street",
+    "start": "2026-08-19T17:30:00",
+    "hall": "SALA LOCARNO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "ducale",
@@ -12988,6 +11218,26 @@
     "language": "original_subbed",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/90930/79e6b295-415d-46fd-bf98-77848fc5fd2a#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1108427,
+    "raw_title": "Oceania (2026)",
+    "start": "2026-08-19T17:45:00",
+    "hall": "SALA VENEZIA",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1368337,
+    "raw_title": "Odissea",
+    "start": "2026-08-19T17:50:00",
+    "hall": "SALA BERLINO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -13170,6 +11420,16 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1108427,
+    "raw_title": "Oceania (2026)",
+    "start": "2026-08-19T19:15:00",
+    "hall": "SALA CANNES",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 277834,
     "raw_title": "OCEANIA (MOANA)",
@@ -13228,6 +11488,26 @@
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/102283/ff9c39bf-c4dc-4da0-a2f9-7be350838b32#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1101383,
+    "raw_title": "La Fine Di Oak Street",
+    "start": "2026-08-19T19:30:00",
+    "hall": "SALA LOCARNO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1284465,
+    "raw_title": "Robin Hood - Il Prezzo Del Sangue",
+    "start": "2026-08-19T19:30:00",
+    "hall": "SALA TORONTO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "ducale",
@@ -13370,6 +11650,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1368337,
+    "raw_title": "Odissea",
+    "start": "2026-08-19T20:15:00",
+    "hall": "SALA SUNDANCE",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "cinelandia-certosa",
     "tmdb_id": 1291595,
     "raw_title": "Insidious: Fuori Dall'Altrove",
@@ -13408,6 +11698,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 969681,
+    "raw_title": "(O.V.) Spider-Man: Brand New Day",
+    "start": "2026-08-19T20:30:00",
+    "hall": "SALA VENEZIA",
+    "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -13508,6 +11808,16 @@
     "language": "original_subbed",
     "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/73508",
     "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1368337,
+    "raw_title": "(O.V.) Odissea",
+    "start": "2026-08-19T21:00:00",
+    "hall": "SALA BERLINO",
+    "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -13650,6 +11960,26 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1108427,
+    "raw_title": "Oceania (2026)",
+    "start": "2026-08-19T21:30:00",
+    "hall": "SALA CANNES",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1284465,
+    "raw_title": "Robin Hood - Il Prezzo Del Sangue",
+    "start": "2026-08-19T21:30:00",
+    "hall": "SALA LOCARNO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "ducale",
     "tmdb_id": 1108427,
     "raw_title": "Oceania (2026)",
@@ -13718,6 +12048,16 @@
     "language": "original_subbed",
     "booking_url": "https://bandhi.it/bah/beltrade/production/camp-miasma/",
     "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1101383,
+    "raw_title": "La Fine Di Oak Street",
+    "start": "2026-08-19T21:40:00",
+    "hall": "SALA TORONTO",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
     "cinema_id": "citylife-anteo",
@@ -16250,6 +14590,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
   },
   {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 452,
+    "raw_title": "IDIOTI",
+    "start": "2026-08-27T15:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/98421",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "orfeo",
     "tmdb_id": 1108427,
     "raw_title": "Oceania (2026)",
@@ -16410,6 +14760,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": 1092,
+    "raw_title": "IL TERZO UOMO",
+    "start": "2026-08-27T20:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/14089",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
     "cinema_id": "arianteo-villareale",
     "tmdb_id": 1084244,
     "raw_title": "TOY STORY 5",
@@ -16458,6 +14818,26 @@
     "language": "unknown",
     "booking_url": "https://incoronata.spaziocinema.18tickets.it/film/102613/ebd9fa5c-ffef-402b-bd3c-81f0ff24ec4e#theater-init",
     "source_url": "https://incoronata.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 1280,
+    "raw_title": "FERRO 3 - LA CASA VUOTA",
+    "start": "2026-08-27T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/98653",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cineteca-mic",
+    "tmdb_id": 13763,
+    "raw_title": "PURPLE RAIN",
+    "start": "2026-08-27T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/100831",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
     "cinema_id": "orfeo",
