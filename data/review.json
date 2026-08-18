@@ -14,6 +14,13 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "TIME",
+    "tmdb_id": 429200,
+    "matched_title": "Good Time",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "OCEANIA (MOANA)",
     "tmdb_id": 277834,
     "matched_title": "Oceania",
@@ -28,9 +35,37 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "V.O. SOTT ITA - AGENT OF HAPPINESS",
+    "tmdb_id": 1164862,
+    "matched_title": "Agent of Happiness - Il Bhutan e la felicità",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "COS'E' L'AMORE (C'EST QUOI L'AMOUR)",
     "tmdb_id": 1369286,
     "matched_title": "Cos'è l'amore?",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "V.O. SOTT.ITA - L'AMICO AMERICANO (Der amerikanische Freund)",
+    "tmdb_id": 11222,
+    "matched_title": "L'amico americano",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "SPEZIE E BUGIE (LA PETITE CUISINE DE MEHDI)",
+    "tmdb_id": 1266826,
+    "matched_title": "Spezie e bugie - La piccola cucina di Mehdi",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "V.O. SOTT. ITA - SPEZIE E BUGIE",
+    "tmdb_id": 1266826,
+    "matched_title": "Spezie e bugie - La piccola cucina di Mehdi",
     "method": "ai",
     "confidence": 95.0
   },
@@ -45,6 +80,13 @@
     "raw_title": "NIMRODS - A GREEN DAY COMEDY",
     "tmdb_id": 1432474,
     "matched_title": "Nimrods",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "V.O.SOTT.ITA CAMP MIASMA",
+    "tmdb_id": 1240889,
+    "matched_title": "Camp Miasma - Adolescenza, sesso e morte",
     "method": "ai",
     "confidence": 95.0
   },
@@ -110,6 +152,13 @@
     "matched_title": "Harry Potter e la pietra filosofale",
     "method": "ai",
     "confidence": 100.0
+  },
+  {
+    "raw_title": "(O.V.) Oasis: Don'T Look Back In Anger",
+    "tmdb_id": 1447853,
+    "matched_title": "Don't Look Back in Anger",
+    "method": "ai",
+    "confidence": 95.0
   },
   {
     "raw_title": "(O.V.) The Odissey",

@@ -1,39 +1,5 @@
 [
   {
-    "tmdb_id": 989474,
-    "title": "Borgo",
-    "original_title": "Borgo",
-    "italian_title": "Borgo",
-    "year": 2024,
-    "poster_path": "/48xwJpo5tecapOAEq0Gio1LQ3Q1.jpg",
-    "overview": null,
-    "title_en": "Borgo",
-    "overview_en": "Melissa is an experienced, exemplary prison guard. But a dangerous spiral is set into motion when she transfers to a Corsican jail, where she accepts help and protection from inmate Saveriu to get her bearings. Upon his release, he contacts Melissa expecting to collect.",
-    "runtime": 118,
-    "director": "Stéphane Demoustier",
-    "genres": [
-      "Dramma",
-      "Crime"
-    ]
-  },
-  {
-    "tmdb_id": 1370210,
-    "title": "Yalla Parkour",
-    "original_title": "يلّا باركور",
-    "italian_title": "Yalla Parkour",
-    "year": 2024,
-    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
-    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
-    "title_en": "Yalla Parkour",
-    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
-    "runtime": 89,
-    "director": "Areeb Zuaiter",
-    "genres": [
-      "Documentario",
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1278338,
     "title": "Tre chilometri alla fine del mondo",
     "original_title": "Trei kilometri până la capătul lumii",
@@ -64,6 +30,24 @@
     "genres": [
       "Dramma",
       "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 57447,
+    "title": "La casa dalle finestre che ridono",
+    "original_title": "La casa dalle finestre che ridono",
+    "italian_title": "La casa dalle finestre che ridono",
+    "year": 1976,
+    "poster_path": "/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
+    "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
+    "title_en": "The House with Laughing Windows",
+    "overview_en": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village.",
+    "runtime": 110,
+    "director": "Pupi Avati",
+    "genres": [
+      "Mistero",
+      "Thriller",
+      "Horror"
     ]
   },
   {
@@ -101,24 +85,6 @@
     ]
   },
   {
-    "tmdb_id": 57447,
-    "title": "La casa dalle finestre che ridono",
-    "original_title": "La casa dalle finestre che ridono",
-    "italian_title": "La casa dalle finestre che ridono",
-    "year": 1976,
-    "poster_path": "/i4UUf7sK3qTzyjAxHtL5yj6P06b.jpg",
-    "overview": "Stefano è chiamato a restaurare un affresco in una chiesa di campagna, terrificante opera di un folle morto suicida. Gli abitanti del luogo manifestano comportamenti sempre più insoliti e il ragazzo inizia a temere per la propria incolumità.",
-    "title_en": "The House with Laughing Windows",
-    "overview_en": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village.",
-    "runtime": 110,
-    "director": "Pupi Avati",
-    "genres": [
-      "Mistero",
-      "Thriller",
-      "Horror"
-    ]
-  },
-  {
     "tmdb_id": 1339713,
     "title": "Obsession",
     "original_title": "Obsession",
@@ -150,6 +116,40 @@
     "genres": [
       "Horror",
       "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1370210,
+    "title": "Yalla Parkour",
+    "original_title": "يلّا باركور",
+    "italian_title": "Yalla Parkour",
+    "year": 2024,
+    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
+    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
+    "title_en": "Yalla Parkour",
+    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
+    "runtime": 89,
+    "director": "Areeb Zuaiter",
+    "genres": [
+      "Documentario",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 989474,
+    "title": "Borgo",
+    "original_title": "Borgo",
+    "italian_title": "Borgo",
+    "year": 2024,
+    "poster_path": "/48xwJpo5tecapOAEq0Gio1LQ3Q1.jpg",
+    "overview": null,
+    "title_en": "Borgo",
+    "overview_en": "Melissa is an experienced, exemplary prison guard. But a dangerous spiral is set into motion when she transfers to a Corsican jail, where she accepts help and protection from inmate Saveriu to get her bearings. Upon his release, he contacts Melissa expecting to collect.",
+    "runtime": 118,
+    "director": "Stéphane Demoustier",
+    "genres": [
+      "Dramma",
+      "Crime"
     ]
   },
   {
@@ -239,23 +239,6 @@
     ]
   },
   {
-    "tmdb_id": 400617,
-    "title": "Il filo nascosto",
-    "original_title": "Phantom Thread",
-    "italian_title": "Il filo nascosto",
-    "year": 2017,
-    "poster_path": "/pg4fQzIzXjUon8ey2pBO5Sv7ffb.jpg",
-    "overview": "Londra, anni Cinquanta. Reynolds Woodcock, celebre stilista, fa palpitare il cuore della moda inglese abbigliando la famiglia reale, le star del cinema, le ricche ereditiere, le celebrità mondane, le debuttanti e le signore dell'alta società. Lavoratore bulimico e uomo impossibile, Reynolds dispone delle sue conquiste secondo l'umore e dirige la sua maison con aria solenne, affiancato da Cyril, sorella e socia altrettanto ieratica. Mr. Woodcock ha un debole per la bellezza che riconosce in Alma, cameriera in un hotel della costa. La giovane donna, immediatamente sedotta da quel \"ragazzo affamato\", lo segue a Londra e ne diventa la musa. Stabilitasi nella casa di Knightsbridge, Alma rivela presto un carattere tenace, vincendo lo scetticismo di Cyril, che la crede di passaggio, e accomodando le (brusche) maniere del suo Pigmalione. Ma la difficoltà crescente di ottenere un vero impegno da Reynolds la spinge a trovare un rimedio.",
-    "title_en": "Phantom Thread",
-    "overview_en": "In 1950s London, a renowned dressmaker's meticulous lifestyle begins drastically changing as his relationship with his young muse intensifies.",
-    "runtime": 130,
-    "director": "Paul Thomas Anderson",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
     "tmdb_id": 1368337,
     "title": "Odissea",
     "original_title": "The Odyssey",
@@ -271,39 +254,6 @@
       "Avventura",
       "Azione",
       "Fantasy"
-    ]
-  },
-  {
-    "tmdb_id": 40652,
-    "title": "Una donna sposata",
-    "original_title": "Une femme mariée: Suite de fragments d'un film tourné en 1964",
-    "italian_title": "Una donna sposata",
-    "year": 1964,
-    "poster_path": "/f3WUKHz4nujnv4rzhfls9u3jPJi.jpg",
-    "overview": "Una donna superficiale è in conflitto tra la scelta del marito violento e il suo amante vanitoso.",
-    "title_en": "The Married Woman",
-    "overview_en": "A superficial woman finds conflict choosing between her abusive husband and her vain lover.",
-    "runtime": 95,
-    "director": "Jean-Luc Godard",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 9552,
-    "title": "L'esorcista",
-    "original_title": "The Exorcist",
-    "italian_title": "L'esorcista",
-    "year": 1973,
-    "poster_path": "/49uIBJqG4ugL7KC2yBhz0nCLeHG.jpg",
-    "overview": "In un quartiere tranquillo, in una casa dotata di tutti i moderni comfort, una ragazzina modello cade ammalata. La madre non può aiutarla. I medici non riescono ad elaborare una diagnosi. Temendo che le crisi di cui soffre la figlia non riguardino solo la sfera fisica, ma anche quella spirituale, la donna si rivolge a un sacerdote. L'uomo però dubita della presenza del diavolo in quella casa, in quel corpo e la debolezza delle sue convinzioni non farà altro che rendere più forte il maligno.",
-    "title_en": "The Exorcist",
-    "overview_en": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
-    "runtime": 122,
-    "director": "William Friedkin",
-    "genres": [
-      "Horror"
     ]
   },
   {
@@ -582,6 +532,23 @@
     ]
   },
   {
+    "tmdb_id": 1369286,
+    "title": "Cos'è l'amore?",
+    "original_title": "C’est quoi l’amour ?",
+    "italian_title": "Cos'è l'amore?",
+    "year": 2026,
+    "poster_path": "/e0mc2OSX6jRaWBFS0CJbKzJ7rGy.jpg",
+    "overview": "A Rouen, Marguerite vive serena con il compagno e la figlia adolescente, mantenendo al tempo stesso un rapporto amichevole con Fred, suo primo marito da cui ha divorziato. Un giorno l'uomo le annuncia di volersi risposare, e le chiede aiuto per una semplice pratica di annullamento anche della loro unione religiosa. Marguerite si mostra disponibile, ma la burocrazia della Chiesa complica le cose e la costringe a rimettere in esame la natura del suo rapporto con Fred, nonché la storia trascorsa insieme e la figlia che condividono. Il caso finirà per coinvolgere tutti i membri di questa strana famiglia allargata, portando la comitiva fino a confrontarsi con i vertici del Vaticano.",
+    "title_en": "What is Love?",
+    "overview_en": "Marguerite has no reason to refuse the church’s annulment of her marriage to Fred. She also has a new partner with whom she has a child. However, to convince the church that their previous marriage was doomed from the start, Marguerite and Fred must examine their shared past.",
+    "runtime": 100,
+    "director": "Fabien Gorgeart",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 16,
     "title": "Dancer in the Dark",
     "original_title": "Dancer in the Dark",
@@ -768,6 +735,24 @@
     "director": "Kim Ki-duk",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 88395,
+    "title": "Estate violenta",
+    "original_title": "Estate violenta",
+    "italian_title": "Estate violenta",
+    "year": 1959,
+    "poster_path": "/2KIqfnIDoF2xe3YrReuRMmisFKs.jpg",
+    "overview": "Alla fine della Seconda guerra mondiale sboccia l'amore tra il figlio di un gerarca fascista e la vedova di un ufficiale di marina in una località costiera italiana.",
+    "title_en": "Violent Summer",
+    "overview_en": "Summer, 1943: wealthy youth in the Riccione district of Rimini play while the war gets closer. Carlo Caremoli, a young man who follows the crowd, has found ways to avoid military service. Then, on the beach, he meets Roberta, a war widow with a child. Roberta's mother warns Roberta to avoid Carlo, but to her, he seems attentive and to her daughter he is kind. Romance develops. Within a few weeks, Roberta is risking everything. Can there be a resolution between passion, on the one hand, and war, duty, and social expectation on the other?",
+    "runtime": 98,
+    "director": "Valerio Zurlini",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "Guerra"
     ]
   },
   {
@@ -989,6 +974,41 @@
     ]
   },
   {
+    "tmdb_id": 48203,
+    "title": "Il deserto dei Tartari",
+    "original_title": "Il deserto dei Tartari",
+    "italian_title": "Il deserto dei Tartari",
+    "year": 1976,
+    "poster_path": "/1lxmfJ5chPmeUdyGQ4YZnoelLyR.jpg",
+    "overview": "Giovan Battista Drogo, tenente di fresca nomina, si ritrova a svolgere il servizio militare presso la fortezza Bastiani, baluardo del vecchio impero austroungarico, situata in un luogo fantastico davanti ad un deserto cosiddetto dei Tartari. La lunga attesa del nemico che, secondo le visioni del capitano Ortiz dovrebbe arrivare da un momento all'altro, diventa l'unica ragione di vita dei militari.",
+    "title_en": "The Desert of the Tartars",
+    "overview_en": "Lieutenant Giovanni Drogo is assigned to the old Bastiani border fortress where he expects an imminent attack by nomadic fearsome Tartars.",
+    "runtime": 140,
+    "director": "Valerio Zurlini",
+    "genres": [
+      "Storia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 429200,
+    "title": "Good Time",
+    "original_title": "Good Time",
+    "italian_title": "Good Time",
+    "year": 2017,
+    "poster_path": "/qYPDDIWh8KUeOQFwx7QCJnc9t73.jpg",
+    "overview": "La storia di Good Time è quella di Constantine \"Connie\" Nickas, deciso a ritrovare il fratello finito in carcere per una rapina in banca andata male. Inizia così una scellerata odissea nel sottobosco criminale di New York, nel disperato tentativo prima di tirare il ragazzo handicappato mentale fuori di galera, e poi dall'ospedale dove viene ricoverato in seguito a un pestaggio dietro le sbarre. Nell'adrenalinica ricerca lunga l'intera notte, Connie si getterà in una corsa contro il tempo per salvare se stesso e suo fratello da un destino incerto e crudele.",
+    "title_en": "Good Time",
+    "overview_en": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+    "runtime": 99,
+    "director": "Josh Safdie, Benny Safdie",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 969681,
     "title": "Spider-Man: Brand New Day",
     "original_title": "Spider-Man: Brand New Day",
@@ -1004,6 +1024,24 @@
       "Fantascienza",
       "Azione",
       "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 1295400,
+    "title": "Mio fratello è un vichingo",
+    "original_title": "Den sidste viking",
+    "italian_title": "Mio fratello è un vichingo",
+    "year": 2025,
+    "poster_path": "/7U6sjWTdcpRbS6rfCyoffsN6igY.jpg",
+    "overview": "Anker viene rilasciato dal carcere dopo una condanna a quindici anni per rapina. A seppellire il bottino era stato Manfred, suo fratello. Solo lui sa dove si trova. Purtroppo Manfred ha sviluppato un disturbo mentale che gli ha fatto dimenticare tutto. I fratelli intraprendono un inatteso viaggio alla scoperta del denaro – e di sé stessi. Den sidste viking è una storia divertente, affascinante e provocatoria sull’identità.",
+    "title_en": "The Last Viking",
+    "overview_en": "After serving fourteen years for robbery, Anker is released from prison and reunites with his mentally ill brother Manfred, who alone knows where the stolen money is hidden but has forgotten its location, sending them on a journey to recover the loot and confront who they are.",
+    "runtime": 116,
+    "director": "Anders Thomas Jensen",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Dramma"
     ]
   },
   {
@@ -1092,20 +1130,20 @@
     ]
   },
   {
-    "tmdb_id": 1369286,
-    "title": "Cos'è l'amore?",
-    "original_title": "C’est quoi l’amour ?",
-    "italian_title": "Cos'è l'amore?",
-    "year": 2026,
-    "poster_path": "/e0mc2OSX6jRaWBFS0CJbKzJ7rGy.jpg",
-    "overview": "A Rouen, Marguerite vive serena con il compagno e la figlia adolescente, mantenendo al tempo stesso un rapporto amichevole con Fred, suo primo marito da cui ha divorziato. Un giorno l'uomo le annuncia di volersi risposare, e le chiede aiuto per una semplice pratica di annullamento anche della loro unione religiosa. Marguerite si mostra disponibile, ma la burocrazia della Chiesa complica le cose e la costringe a rimettere in esame la natura del suo rapporto con Fred, nonché la storia trascorsa insieme e la figlia che condividono. Il caso finirà per coinvolgere tutti i membri di questa strana famiglia allargata, portando la comitiva fino a confrontarsi con i vertici del Vaticano.",
-    "title_en": "What is Love?",
-    "overview_en": "Marguerite has no reason to refuse the church’s annulment of her marriage to Fred. She also has a new partner with whom she has a child. However, to convince the church that their previous marriage was doomed from the start, Marguerite and Fred must examine their shared past.",
-    "runtime": 100,
-    "director": "Fabien Gorgeart",
+    "tmdb_id": 1130402,
+    "title": "Terapia di famiglia",
+    "original_title": "Jamais sans mon psy",
+    "italian_title": "Terapia di famiglia",
+    "year": 2024,
+    "poster_path": "/cJUjUI1hyIlCax8GRmxIiaHxRFq.jpg",
+    "overview": "Cinque anni di psicoterapia non sono serviti ad alleviare l'ansia che mette a repentaglio la vita di Damien. Il dottor Beranger non lo sopporta più. Così lo caccia con una sfida terapeutica: trovare la donna della sua vita. E indovinate un po'? Ci riesce! Tre mesi dopo, la sua fidanzata Alice lo invita a casa dei suoi genitori, che stanno organizzando una grande festa per il loro trentesimo anniversario. Appena Damien e Alice arrivano, nulla va per il verso giusto. Ma la cosa peggiore è che il padre di Alice non è altri che il dottor Beranger in persona! Determinato a convincere sua figlia a rompere con Damien, il dottore non si fermerà davanti a nulla per rendergli la vita un inferno!",
+    "title_en": "Not Without My Shrink",
+    "overview_en": "A successful psychoanalyst's life is turned upside down by a very anxious and extremely clingy patient who starts dating his daughter.",
+    "runtime": 91,
+    "director": "Arnaud Lemort",
     "genres": [
       "Commedia",
-      "Dramma"
+      "Famiglia"
     ]
   },
   {
@@ -1126,20 +1164,38 @@
     ]
   },
   {
-    "tmdb_id": 1130402,
-    "title": "Terapia di famiglia",
-    "original_title": "Jamais sans mon psy",
-    "italian_title": "Terapia di famiglia",
-    "year": 2024,
-    "poster_path": "/cJUjUI1hyIlCax8GRmxIiaHxRFq.jpg",
-    "overview": "Cinque anni di psicoterapia non sono serviti ad alleviare l'ansia che mette a repentaglio la vita di Damien. Il dottor Beranger non lo sopporta più. Così lo caccia con una sfida terapeutica: trovare la donna della sua vita. E indovinate un po'? Ci riesce! Tre mesi dopo, la sua fidanzata Alice lo invita a casa dei suoi genitori, che stanno organizzando una grande festa per il loro trentesimo anniversario. Appena Damien e Alice arrivano, nulla va per il verso giusto. Ma la cosa peggiore è che il padre di Alice non è altri che il dottor Beranger in persona! Determinato a convincere sua figlia a rompere con Damien, il dottore non si fermerà davanti a nulla per rendergli la vita un inferno!",
-    "title_en": "Not Without My Shrink",
-    "overview_en": "A successful psychoanalyst's life is turned upside down by a very anxious and extremely clingy patient who starts dating his daughter.",
-    "runtime": 91,
-    "director": "Arnaud Lemort",
+    "tmdb_id": 11222,
+    "title": "L'amico americano",
+    "original_title": "Der amerikanische Freund",
+    "italian_title": "L'amico americano",
+    "year": 1977,
+    "poster_path": "/9Xpa1M6d7yZFiYPHLXhyxHCM9N7.jpg",
+    "overview": "Afflitto da un male incurabile, il corniciaio Jonathan Zimmermann, conduce una tranquilla ma precaria esistenza tra lavoro e famiglia. Tom Ripley, losco e ambiguo mercante d'arte americano, saputa della malattia di Jonathan, ne parla a Minot, un gangster alla ricerca di un insospettabile killer. Jonathan si fa convincere e accetta di compiere un primo omicidio. Ma a Minot non basta...",
+    "title_en": "The American Friend",
+    "overview_en": "Tom Ripley, an American who deals in forged art, is slighted at an auction in Hamburg by picture framer Jonathan Zimmerman. When Ripley is asked by gangster Raoul Minot to kill a rival, he suggests Zimmerman, and the two, exploiting Zimmerman's terminal illness, coerce him into being a hitman.",
+    "runtime": 125,
+    "director": "Wim Wenders",
+    "genres": [
+      "Dramma",
+      "Thriller",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 1266826,
+    "title": "Spezie e bugie - La piccola cucina di Mehdi",
+    "original_title": "La Petite Cuisine de Mehdi",
+    "italian_title": "Spezie e bugie - La piccola cucina di Mehdi",
+    "year": 2025,
+    "poster_path": "/mOZyiorBFLBiHopLsyLpFmgiGzx.jpg",
+    "overview": "Mehdi ha due passioni: la cucina francese e la sua ragazza, Léa, francese purosangue. Lavorano entrambi in un bistrot parigino, dove Mehdi fa lo chef, molto apprezzato. Ma Mehdi vuole anche compiacere la mamma Fatima, davanti alla quale si finge un perfetto, ubbidiente figlio algerino. I suoi guai cominciano quando Léa, dopo tre anni di relazione, esige finalmente di incontrare Fatima. Percorsa da un gruppo eterogeneo di personaggi umanissimi, una commedia degli equivoci che mescola amore e cucina, etnie e generazioni, sapori e sentimenti.",
+    "title_en": "Spices and Lies",
+    "overview_en": "Mehdi's life lies on a fragile balance. He plays the role of the perfect Algerian son for his mother Fatima, while hiding his relationship with Léa and his passion for French cuisine and wine, which he pursues as a chef at the bistro where he works. But Léa can no longer tolerate his family secrets and demands to meet Fatima. Cornered, Mehdi comes up with the worst possible solution...",
+    "runtime": 104,
+    "director": "Amine Adjina",
     "genres": [
       "Commedia",
-      "Famiglia"
+      "Dramma"
     ]
   },
   {
@@ -1210,6 +1266,23 @@
     "genres": [
       "Dramma",
       "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 1493024,
+    "title": "Il Bene Comune",
+    "original_title": "Il Bene Comune",
+    "italian_title": "Il Bene Comune",
+    "year": 2026,
+    "poster_path": "/nUMekW0Zs12SniJuo1L1V9OypUd.jpg",
+    "overview": "Una guida turistica e un’attrice di “insuccesso” accompagnano quattro detenute sul massiccio del Pollino, alla ricerca del secolare Pino Loricato, simbolo di resilienza. Il cammino diventa presto un viaggio di trasformazione, fatto di incontri e cambiamenti, scandito da una musica che prende forma passo dopo passo, fino a diventare una voce collettiva capace di tenere insieme corpi, emozioni e storie diverse. In una natura dura e bellissima, attraversata da una solidarietà inattesa, emergono frammenti di vite complesse, ferite ancora aperte e il bisogno profondo di essere viste e ascoltate. Parlare, cantare, dare un nome a ciò che si è vissuto diventa un modo per sciogliere tensioni e ritrovare un senso di appartenenza, almeno finché un evento improvviso non rimette tutto in discussione. Perché, a volte, raccontarsi è già un primo passo verso qualcosa di più grande.",
+    "title_en": "Il Bene Comune",
+    "overview_en": "A tour guide and a failed actress accompany four inmates to the Pollino massif, in search of the centuries-old Bosnian pine, a symbol of resilience. The journey quickly becomes a journey of transformation, filled with encounters and changes, punctuated by a music that takes shape step by step, becoming a collective voice capable of bringing together diverse bodies, emotions, and stories. In a harsh yet beautiful landscape, punctuated by unexpected solidarity, fragments of complex lives emerge, along with open wounds and a profound need to be seen and heard. Talking, singing, and naming what has been experienced becomes a way to release tensions and rediscover a sense of belonging, at least until a sudden event calls everything into question. Because, sometimes, sharing one's story is already a first step toward something bigger.",
+    "runtime": 102,
+    "director": "Rocco Papaleo",
+    "genres": [
+      "Commedia",
+      "Dramma"
     ]
   },
   {
@@ -1285,20 +1358,21 @@
     ]
   },
   {
-    "tmdb_id": 635767,
-    "title": "Sacrifice",
-    "original_title": "Sacrifice",
-    "italian_title": "Sacrifice",
-    "year": 2018,
-    "poster_path": "/ahYQSnxQGAN4sAgAbIyaaWn0gY5.jpg",
-    "overview": null,
-    "title_en": "Sacrifice",
-    "overview_en": "'Sacrifice' follows the love story between James Hunter and Blake Robinson as they begin a new phase in their life together. Forces out of their control tear them apart but to what extent and consequence? How much will they sacrifice? A traditional military love story from a perspective which has not yet been seen before.",
-    "runtime": 19,
-    "director": "Anna Maguire",
+    "tmdb_id": 1433367,
+    "title": "One Night Only - Quando tutto è possibile",
+    "original_title": "One Night Only",
+    "italian_title": "One Night Only - Quando tutto è possibile",
+    "year": 2026,
+    "poster_path": "/gSWPoxU6e0C4tAQNq5a5zjNGmuN.jpg",
+    "overview": "Allie e Owen, due sconosciuti affamati d'amore si incontrano in una New York leggermente romanzata nell'unica notte dell'anno in cui ai single è permesso fare sesso. Owen, appena lasciato, e Allie, romantica e piena di speranze, potrebbero essere gli unici due single in città alla ricerca di qualcosa di più di un semplice incontro occasionale. Entrambi sentono una scintilla quando si incontrano, ma una serie di passi falsi e di vicissitudini complicano la loro serata, tenendoli separati. Mentre corrono l’uno verso l’altra e poi si allontanano attraverso la città, potrebbero scoprire che l’unica cosa che desiderano di più è più vicina di quanto pensino.",
+    "title_en": "One Night Only",
+    "overview_en": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+    "runtime": 102,
+    "director": "Will Gluck",
     "genres": [
-      "Dramma",
-      "Guerra"
+      "Commedia",
+      "Romance",
+      "Fantascienza"
     ]
   },
   {
@@ -1321,24 +1395,6 @@
     ]
   },
   {
-    "tmdb_id": 1433367,
-    "title": "One Night Only - Quando tutto è possibile",
-    "original_title": "One Night Only",
-    "italian_title": "One Night Only - Quando tutto è possibile",
-    "year": 2026,
-    "poster_path": "/gSWPoxU6e0C4tAQNq5a5zjNGmuN.jpg",
-    "overview": "Allie e Owen, due sconosciuti affamati d'amore si incontrano in una New York leggermente romanzata nell'unica notte dell'anno in cui ai single è permesso fare sesso. Owen, appena lasciato, e Allie, romantica e piena di speranze, potrebbero essere gli unici due single in città alla ricerca di qualcosa di più di un semplice incontro occasionale. Entrambi sentono una scintilla quando si incontrano, ma una serie di passi falsi e di vicissitudini complicano la loro serata, tenendoli separati. Mentre corrono l’uno verso l’altra e poi si allontanano attraverso la città, potrebbero scoprire che l’unica cosa che desiderano di più è più vicina di quanto pensino.",
-    "title_en": "One Night Only",
-    "overview_en": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-    "runtime": 102,
-    "director": "Will Gluck",
-    "genres": [
-      "Commedia",
-      "Romance",
-      "Fantascienza"
-    ]
-  },
-  {
     "tmdb_id": 1523111,
     "title": "La salita",
     "original_title": "La salita",
@@ -1352,6 +1408,76 @@
     "director": "Massimiliano Gallo",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 635767,
+    "title": "Sacrifice",
+    "original_title": "Sacrifice",
+    "italian_title": "Sacrifice",
+    "year": 2018,
+    "poster_path": "/ahYQSnxQGAN4sAgAbIyaaWn0gY5.jpg",
+    "overview": null,
+    "title_en": "Sacrifice",
+    "overview_en": "'Sacrifice' follows the love story between James Hunter and Blake Robinson as they begin a new phase in their life together. Forces out of their control tear them apart but to what extent and consequence? How much will they sacrifice? A traditional military love story from a perspective which has not yet been seen before.",
+    "runtime": 19,
+    "director": "Anna Maguire",
+    "genres": [
+      "Dramma",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 1083381,
+    "title": "Backrooms",
+    "original_title": "Backrooms",
+    "italian_title": "Backrooms",
+    "year": 2026,
+    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "overview": "Se non fai attenzione e superi la barriera della realtà, entrerai nelle backrooms. Se finisci lì dentro, resta vigile, perché i passi che echeggiano in quelle stanze potrebbero non essere solo i tuoi…",
+    "title_en": "Backrooms",
+    "overview_en": "A strange doorway appears in the basement of a furniture showroom.",
+    "runtime": 111,
+    "director": "Kane Parsons",
+    "genres": [
+      "Horror",
+      "Mistero",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 1384216,
+    "title": "The Dog Stars - Le stelle dopo la fine",
+    "original_title": "The Dog Stars",
+    "italian_title": "The Dog Stars - Le stelle dopo la fine",
+    "year": 2026,
+    "poster_path": "/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
+    "overview": "In un mondo post apocalittico, un virus annienta l'umanità. I sopravvissuti dovranno vedersela con degli spazzini vaganti chiamati Mietitori. Il protagonista Hig, un pilota, sopravvisse all'influenza ma perse la moglie.",
+    "title_en": "The Dog Stars",
+    "overview_en": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+    "runtime": 100,
+    "director": "Ridley Scott",
+    "genres": [
+      "Avventura",
+      "Fantascienza",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1279493,
+    "title": "La vendetta perfetta - Bear Country",
+    "original_title": "The Get Out",
+    "italian_title": "La vendetta perfetta - Bear Country",
+    "year": 2026,
+    "poster_path": "/nDHdFt5EtpZRk8bRkJowruVXqGP.jpg",
+    "overview": "Manko Kapac è il proprietario di un nightclub che decide di lasciarsi alle spalle il suo passato pericoloso per godersi la pensione insieme alla donna che ama (Teresa Palmer). Quando due figure armate e mascherate (Aaron Paul e Nina Dobrev) lo rapinano e lui si ritrova stretto nella morsa dei cartelli, si presenta un uomo misterioso (Luke Evans) interessato ad acquistare il suo club. Con il pericolo che incombe da ogni parte, dovrà districarsi in una rete mortale di inganni, potere e sopravvivenza, dove la fuga potrebbe non essere più un'opzione.",
+    "title_en": "The Get Out",
+    "overview_en": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+    "runtime": 111,
+    "director": "Derrick Borte",
+    "genres": [
+      "Azione",
+      "Thriller"
     ]
   },
   {
@@ -1401,23 +1527,6 @@
     "runtime": 116,
     "director": "Maryam Touzani",
     "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1266826,
-    "title": "Spezie e bugie - La piccola cucina di Mehdi",
-    "original_title": "La Petite Cuisine de Mehdi",
-    "italian_title": "Spezie e bugie - La piccola cucina di Mehdi",
-    "year": 2025,
-    "poster_path": "/mOZyiorBFLBiHopLsyLpFmgiGzx.jpg",
-    "overview": "Mehdi ha due passioni: la cucina francese e la sua ragazza, Léa, francese purosangue. Lavorano entrambi in un bistrot parigino, dove Mehdi fa lo chef, molto apprezzato. Ma Mehdi vuole anche compiacere la mamma Fatima, davanti alla quale si finge un perfetto, ubbidiente figlio algerino. I suoi guai cominciano quando Léa, dopo tre anni di relazione, esige finalmente di incontrare Fatima. Percorsa da un gruppo eterogeneo di personaggi umanissimi, una commedia degli equivoci che mescola amore e cucina, etnie e generazioni, sapori e sentimenti.",
-    "title_en": "Spices and Lies",
-    "overview_en": "Mehdi's life lies on a fragile balance. He plays the role of the perfect Algerian son for his mother Fatima, while hiding his relationship with Léa and his passion for French cuisine and wine, which he pursues as a chef at the bistro where he works. But Léa can no longer tolerate his family secrets and demands to meet Fatima. Cornered, Mehdi comes up with the worst possible solution...",
-    "runtime": 104,
-    "director": "Amine Adjina",
-    "genres": [
-      "Commedia",
       "Dramma"
     ]
   },
@@ -1590,22 +1699,6 @@
     ]
   },
   {
-    "tmdb_id": 1508701,
-    "title": "...che Dio perdona a tutti",
-    "original_title": "...che Dio perdona a tutti",
-    "italian_title": "...che Dio perdona a tutti",
-    "year": 2026,
-    "poster_path": "/prhcVqoZlWYRve1Wn3c1KXmxhtS.jpg",
-    "overview": "Arturo è un agente immobiliare siciliano, solo, goloso e disilluso. La sua vita monotona trova finalmente una scintilla grazie alla sua unica, vera passione: la pasticceria siciliana. È proprio davanti a un vassoio di cannoli che incontra la sua anima gemella, Flora. Lei è tutto ciò che ha sempre sognato: bella, spiritosa e brillante. Come se non bastasse, è anche una pasticcera!  Tuttavia, tra i due si frappone un ostacolo divino: Dio.  Mentre Flora è una cattolica devota e fervente, Arturo ha abbandonato la fede quando era ancora un bambino. Nel disperato tentativo di non perdere la donna dei suoi sogni, decide di \"fingere finché non diventa vero\", spacciandosi per un uomo dalle profonde convinzioni religiose. Ad accompagnare Arturo in questo caotico viaggio verso la verità, la fede e il cuore di Flora, ci sarà un mentore e amico d'eccezione: Papa Francesco in persona.",
-    "title_en": "...God Forgives All",
-    "overview_en": "Arturo is a lonely, gluttonous, and disillusioned Sicilian real estate agent. His mundane life finally finds its spark through his one true passion: Sicilian pastries. It’s over a tray of cannoli that he meets his soulmate, Flora. She is everything he ever dreamed of—beautiful, witty, and brilliant. To top it off, she’s a pastry chef.  However, a divine obstacle stands between them: God.  While Flora is a devout, fervent Catholic, Arturo abandoned his faith as a child. Desperate not to lose the woman of his dreams, he decides to \"fake it 'til he makes it,\" pretending to be a man of deep conviction. Guiding Arturo on this chaotic journey toward truth, faith, and Flora’s heart is an unlikely mentor and friend: Pope Francis himself.",
-    "runtime": 113,
-    "director": "Pif",
-    "genres": [
-      "Commedia"
-    ]
-  },
-  {
     "tmdb_id": 1432596,
     "title": "Palestina 36",
     "original_title": "Palestine 36",
@@ -1763,24 +1856,6 @@
     ]
   },
   {
-    "tmdb_id": 1384216,
-    "title": "The Dog Stars - Le stelle dopo la fine",
-    "original_title": "The Dog Stars",
-    "italian_title": "The Dog Stars - Le stelle dopo la fine",
-    "year": 2026,
-    "poster_path": "/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
-    "overview": "In un mondo post apocalittico, un virus annienta l'umanità. I sopravvissuti dovranno vedersela con degli spazzini vaganti chiamati Mietitori. Il protagonista Hig, un pilota, sopravvisse all'influenza ma perse la moglie.",
-    "title_en": "The Dog Stars",
-    "overview_en": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-    "runtime": 100,
-    "director": "Ridley Scott",
-    "genres": [
-      "Avventura",
-      "Fantascienza",
-      "Thriller"
-    ]
-  },
-  {
     "tmdb_id": 671,
     "title": "Harry Potter e la pietra filosofale",
     "original_title": "Harry Potter and the Philosopher's Stone",
@@ -1812,6 +1887,23 @@
     "genres": [
       "Horror",
       "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1447853,
+    "title": "Don't Look Back in Anger",
+    "original_title": "Don't Look Back in Anger",
+    "italian_title": "Don't Look Back in Anger",
+    "year": 2026,
+    "poster_path": "/bZI6PLsq9ZLg1yYXEgwFDUmWnoR.jpg",
+    "overview": null,
+    "title_en": "Don't Look Back in Anger",
+    "overview_en": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
+    "runtime": null,
+    "director": "Dylan Southern, Will Lovelace",
+    "genres": [
+      "Documentario",
+      "Musica"
     ]
   },
   {
@@ -1865,22 +1957,6 @@
     "genres": [
       "Azione",
       "Fantascienza",
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 1034541,
-    "title": "Terrifier 3",
-    "original_title": "Terrifier 3",
-    "italian_title": "Terrifier 3",
-    "year": 2024,
-    "poster_path": "/h24qwvXSXIAVXsbftPhNtYEkoLg.jpg",
-    "overview": "Quando gli abitanti di Miles County si coricano nelle loro case alla Vigilia di Natale, non hanno idea che a scendere dal camino stavolta sarà Art il Clown. Il folle killer ha preso il posto di Babbo Natale e le sue povere vittime sono ignare che, invece dei giocattoli, saranno loro a riempire il sacco dei regali.",
-    "title_en": "Terrifier 3",
-    "overview_en": "Five years after surviving Art the Clown's Halloween massacre, Sienna and Jonathan are still struggling to rebuild their shattered lives. As the holiday season approaches, they try to embrace the Christmas spirit and leave the horrors of the past behind. But just when they think they're safe, Art returns, determined to turn their holiday cheer into a new nightmare. The festive season quickly unravels as Art unleashes his twisted brand of terror, proving that no holiday is safe.",
-    "runtime": 125,
-    "director": "Damien Leone",
-    "genres": [
       "Horror"
     ]
   }
