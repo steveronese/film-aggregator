@@ -175,6 +175,10 @@
     "title": "LA GOCCIA",
     "year": null
   },
+  "::extract::la sposa della tempesta": {
+    "title": "La sposa della tempesta",
+    "year": null
+  },
   "::extract::la valle scalza": {
     "title": "La valle scalza",
     "year": null
@@ -678,6 +682,10 @@
   "the amazing digital circus": {
     "confidence": null,
     "tmdb_id": null
+  },
+  "the dog stars le stelle dopo": {
+    "confidence": 95,
+    "tmdb_id": 1384216
   },
   "the doors the final cut": {
     "confidence": 100,
