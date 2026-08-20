@@ -1,73 +1,5 @@
 [
   {
-    "tmdb_id": 1240889,
-    "title": "Camp Miasma - Adolescenza, sesso e morte",
-    "original_title": "Teenage Sex and Death at Camp Miasma",
-    "italian_title": "Camp Miasma - Adolescenza, sesso e morte",
-    "year": 2026,
-    "poster_path": "/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
-    "overview": "Kris è una regista queer di 29 anni che si è fatta conoscere con un film che è un omaggio a Psycho, visto però sotto la prospettiva della tenda della doccia. Ora le viene affidato il reboot di una lunga saga horror, Camp Miasma, il cui capostipite, realizzato negli anni '80, ha avuto un grandissimo successo al box-office. Successivamente però, nei continui rifacimenti, è entrata in crisi. Entusiasta del progetto, cerca di coinvolgere l'attrice che interpretava la ragazza sopravvissuta del primo film, Billy Presley. La donna, da anni, vive reclusa nello stesso luogo dove è stato girato Camp Miasma che si trova nel Pacifico settentrionale, vicino al Canada. Così Kris la raggiunge nella sua dimora per convincerla ad accettare la parte. Billy invita Kris a cena e poi a dormire a casa sua. Da quel momento la regista s'immergerà totalmente nell'atmosfera terrificante della saga e il suo rapporto con Billy si evolverà in modo sorprendente.",
-    "title_en": "Teenage Sex and Death at Camp Miasma",
-    "overview_en": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-    "runtime": 112,
-    "director": "Jane Schoenbrun",
-    "genres": [
-      "Horror",
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1278338,
-    "title": "Tre chilometri alla fine del mondo",
-    "original_title": "Trei kilometri până la capătul lumii",
-    "italian_title": "Tre chilometri alla fine del mondo",
-    "year": 2024,
-    "poster_path": "/txYLAHerdJVrxaNk9kRsbmhveF9.jpg",
-    "overview": "Ambientato nel delta del Danubio, il film racconta la storia di Adi, un adolescente la cui tranquilla estate viene sconvolta dopo un'aggressione omofoba, mettendo in luce il conflitto tra la sua identità e i rigidi valori tradizionali della famiglia e della comunità.",
-    "title_en": "Three Kilometres to the End of the World",
-    "overview_en": "Adi, a gay teenager, is spending the summer in his home village in the Danube Delta. One night he is brutally attacked on the street, the next day his world is turned upside-down. His parents no longer look at him as they did, and the seeming tranquility of the village starts to crack.",
-    "runtime": 105,
-    "director": "Emanuel Pârvu",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1370210,
-    "title": "Yalla Parkour",
-    "original_title": "يلّا باركور",
-    "italian_title": "Yalla Parkour",
-    "year": 2024,
-    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
-    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
-    "title_en": "Yalla Parkour",
-    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
-    "runtime": 89,
-    "director": "Areeb Zuaiter",
-    "genres": [
-      "Documentario",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 42853,
-    "title": "Odissea",
-    "original_title": "Odissea",
-    "italian_title": "Odissea",
-    "year": 1968,
-    "poster_path": "/orlKW4piaeA5UMTMqrQsQuOKl5w.jpg",
-    "overview": "Odissea è una miniserie televisiva co-prodotta da svariati Paesi nel 1968, basata sull'omonimo poema di Omero. Ne è stata distribuita una versione ridotta cinematografica dal titolo Le avventure di Ulisse.",
-    "title_en": "Odissea",
-    "overview_en": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
-    "runtime": 110,
-    "director": "Piero Schivazappa, Franco Rossi, Mario Bava",
-    "genres": [
-      "televisione film",
-      "Avventura",
-      "Storia"
-    ]
-  },
-  {
     "tmdb_id": 1430077,
     "title": "Hokum",
     "original_title": "Hokum",
@@ -118,6 +50,22 @@
     ]
   },
   {
+    "tmdb_id": 1278338,
+    "title": "Tre chilometri alla fine del mondo",
+    "original_title": "Trei kilometri până la capătul lumii",
+    "italian_title": "Tre chilometri alla fine del mondo",
+    "year": 2024,
+    "poster_path": "/txYLAHerdJVrxaNk9kRsbmhveF9.jpg",
+    "overview": "Ambientato nel delta del Danubio, il film racconta la storia di Adi, un adolescente la cui tranquilla estate viene sconvolta dopo un'aggressione omofoba, mettendo in luce il conflitto tra la sua identità e i rigidi valori tradizionali della famiglia e della comunità.",
+    "title_en": "Three Kilometres to the End of the World",
+    "overview_en": "Adi, a gay teenager, is spending the summer in his home village in the Danube Delta. One night he is brutally attacked on the street, the next day his world is turned upside-down. His parents no longer look at him as they did, and the seeming tranquility of the village starts to crack.",
+    "runtime": 105,
+    "director": "Emanuel Pârvu",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 25312,
     "title": "Yes",
     "original_title": "Yes",
@@ -132,6 +80,23 @@
     "genres": [
       "Dramma",
       "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1240889,
+    "title": "Camp Miasma - Adolescenza, sesso e morte",
+    "original_title": "Teenage Sex and Death at Camp Miasma",
+    "italian_title": "Camp Miasma - Adolescenza, sesso e morte",
+    "year": 2026,
+    "poster_path": "/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
+    "overview": "Kris è una regista queer di 29 anni che si è fatta conoscere con un film che è un omaggio a Psycho, visto però sotto la prospettiva della tenda della doccia. Ora le viene affidato il reboot di una lunga saga horror, Camp Miasma, il cui capostipite, realizzato negli anni '80, ha avuto un grandissimo successo al box-office. Successivamente però, nei continui rifacimenti, è entrata in crisi. Entusiasta del progetto, cerca di coinvolgere l'attrice che interpretava la ragazza sopravvissuta del primo film, Billy Presley. La donna, da anni, vive reclusa nello stesso luogo dove è stato girato Camp Miasma che si trova nel Pacifico settentrionale, vicino al Canada. Così Kris la raggiunge nella sua dimora per convincerla ad accettare la parte. Billy invita Kris a cena e poi a dormire a casa sua. Da quel momento la regista s'immergerà totalmente nell'atmosfera terrificante della saga e il suo rapporto con Billy si evolverà in modo sorprendente.",
+    "title_en": "Teenage Sex and Death at Camp Miasma",
+    "overview_en": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+    "runtime": 112,
+    "director": "Jane Schoenbrun",
+    "genres": [
+      "Horror",
+      "Commedia"
     ]
   },
   {
@@ -164,6 +129,24 @@
     "director": "Kadour Naimi",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 42853,
+    "title": "Odissea",
+    "original_title": "Odissea",
+    "italian_title": "Odissea",
+    "year": 1968,
+    "poster_path": "/orlKW4piaeA5UMTMqrQsQuOKl5w.jpg",
+    "overview": "Odissea è una miniserie televisiva co-prodotta da svariati Paesi nel 1968, basata sull'omonimo poema di Omero. Ne è stata distribuita una versione ridotta cinematografica dal titolo Le avventure di Ulisse.",
+    "title_en": "Odissea",
+    "overview_en": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
+    "runtime": 110,
+    "director": "Piero Schivazappa, Franco Rossi, Mario Bava",
+    "genres": [
+      "televisione film",
+      "Avventura",
+      "Storia"
     ]
   },
   {
@@ -218,125 +201,6 @@
       "Dramma",
       "Storia",
       "Guerra"
-    ]
-  },
-  {
-    "tmdb_id": 1368337,
-    "title": "Odissea",
-    "original_title": "The Odyssey",
-    "italian_title": "Odissea",
-    "year": 2026,
-    "poster_path": "/5S4U3gM7N17ni028LJhO60zfcKJ.jpg",
-    "overview": "Ulisse, il leggendario re greco di Itaca, intraprende un lungo e pericoloso viaggio verso casa dopo la guerra di Troia, raccontando i suoi incontri con esseri mitici come il ciclope Polifemo, le Sirene e la dea strega Circe.",
-    "title_en": "The Odyssey",
-    "overview_en": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "runtime": 172,
-    "director": "Christopher Nolan",
-    "genres": [
-      "Avventura",
-      "Azione",
-      "Fantasy"
-    ]
-  },
-  {
-    "tmdb_id": 1092,
-    "title": "Il terzo uomo",
-    "original_title": "The Third Man",
-    "italian_title": "Il terzo uomo",
-    "year": 1949,
-    "poster_path": "/oVXG2WI7EgTyJ2zhFbUaj50SkhH.jpg",
-    "overview": "Nel 1946 in una Vienna devastata dalla guerra e divisa in quattro zone di occupazione, lo scrittore americano di western Holly Martins (Cotten) assiste ai funerali dell'amico Harry Lime (Welles), ma è veramente morto? Inseguimento finale nelle fogne della città.",
-    "title_en": "The Third Man",
-    "overview_en": "In postwar Vienna, Austria, Holly Martins, a writer of pulp Westerns, arrives penniless as a guest of his childhood chum Harry Lime, only to learn he has died. Martins develops a conspiracy theory after learning of a \"third man\" present at the time of Harry's death, running into interference from British officer Major Calloway, and falling head-over-heels for Harry's grief-stricken lover, Anna.",
-    "runtime": 104,
-    "director": "Carol Reed",
-    "genres": [
-      "Thriller",
-      "Mistero"
-    ]
-  },
-  {
-    "tmdb_id": 1275779,
-    "title": "Disclosure Day",
-    "original_title": "Disclosure Day",
-    "italian_title": "Disclosure Day",
-    "year": 2026,
-    "poster_path": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
-    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
-    "title_en": "Disclosure Day",
-    "overview_en": "A cybersecurity expert becomes a whistleblower to reveal secrets about aliens, putting him on the run from a corporation while a meteorologist experiences strange phenomena and joins forces with him to prove there's life beyond our knowledge.",
-    "runtime": 145,
-    "director": "Steven Spielberg",
-    "genres": [
-      "Mistero",
-      "Fantascienza",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1124566,
-    "title": "Sentimental Value",
-    "original_title": "Affeksjonsverdi",
-    "italian_title": "Sentimental Value",
-    "year": 2025,
-    "poster_path": "/lk0Tfskd5V84AbpJs9M1ZXJjVPf.jpg",
-    "overview": "Nora e Agnes sono due sorelle profondamente unite. L’improvviso rientro nella loro vita del padre Gustav – regista carismatico e affascinante ma genitore cronicamente inaffidabile – riapre ferite mai del tutto rimarginate. Conoscendo il talento di attrice di Nora, Gustav vorrebbe che sua figlia interpretasse il ruolo principale nel film che dovrebbe rilanciare la sua carriera; lei rifiuta e quella parte finisce a una giovane star di Hollywood, Rachel Kemp. Il suo arrivo getta scompiglio nelle delicate dinamiche della famiglia: per le due sorelle sarà il momento di confrontarsi con il padre e con il loro passato.",
-    "title_en": "Sentimental Value",
-    "overview_en": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
-    "runtime": 133,
-    "director": "Joachim Trier",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 12104,
-    "title": "Pink Floyd: The Wall",
-    "original_title": "Pink Floyd: The Wall",
-    "italian_title": "Pink Floyd: The Wall",
-    "year": 1982,
-    "poster_path": "/oL3VhMexgIPY1Q0peNRNWKDw41N.jpg",
-    "overview": "In attesa di esibirsi all'ennesimo concerto, Pink, cantante rock tossicodipendente, ripensa agli episodi salienti della sua vita. Un film di guerra trasmesso in tv è l'occasione per questo percorso nella memoria a cavallo fra ricordi e allucinazioni.  Diretto da Alan Parker su sceneggiatura dello stesso Waters, Pink Floyd The Wall non ebbe una genesi facile, e del resto accostare due personalità forti come Parker e Waters non poteva non far nascere qualche contrasto. Menzione speciale agli splendidi disegni di Gerald Scarfe, fumettista britannico, responsabile della scenografia e delle animazioni che danno vita ai deliri onirici di Pink.",
-    "title_en": "Pink Floyd: The Wall",
-    "overview_en": "A troubled rock star descends into madness in the midst of his physical and social isolation from everyone.",
-    "runtime": 95,
-    "director": "Alan Parker",
-    "genres": [
-      "Musica",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 38528,
-    "title": "Febbre da cavallo",
-    "original_title": "Febbre da cavallo",
-    "italian_title": "Febbre da cavallo",
-    "year": 1976,
-    "poster_path": "/zprLOtwwjjTF84YOGIZxakRu9Mc.jpg",
-    "overview": "Le peripezie di tre amici alle prese col vizio delle scommesse ippiche: Mandrake, indossatore morto di fame, Er Pomata, disoccupato, ricco solo di grandi risorse truffaldine, e Felice, guardamacchine abusivo. I tre trascorrono gran parte del loro tempo cercando di mettere insieme i soldi per scommettere, solitamente a Tor di Valle, e in altri ippodromi della penisola; mettono a segno furberie e truffe di ogni genere, spesso ai danni di Manzotin, al secolo Rinaldi Otello, macellaio e nemico giurato dei tre protagonisti.",
-    "title_en": "Horse Fever",
-    "overview_en": "Bruno Fioretti, known as \"Mandrake\", is an inveterate gambler who never misses a day at the horse racing track in Rome. He is doubly unlucky: he bets too much on one horse, and his wife is sleeping with his best friend because Mandrake is always at the track. Penniless and cuckolded, Mandrake decides to make one last bet.",
-    "runtime": 100,
-    "director": "Steno",
-    "genres": [
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 18415,
-    "title": "Gummo",
-    "original_title": "Gummo",
-    "italian_title": "Gummo",
-    "year": 1997,
-    "poster_path": "/8R5uYYkSVyN0LN7eyavHxy7X9mz.jpg",
-    "overview": "Xenia. Ohio. Una cittadina di provincia è stata sconvolta dall'uragano Gummo. Il protagonista è un giovane ragazzino, contaminato dall'amoralità dei mostri che vivono intorno a lui e con i quali interagisce. Fuma e piscia sopra un cavalcavia con in testa orecchie da coniglio, uccide gatti insieme ad un amico per venderli ad un ristorante cinese e comprarsi della colla da sniffare, si lascia lavare dalla mamma in una vasca di acqua putrida, mentre mangia degli spaghetti.",
-    "title_en": "Gummo",
-    "overview_en": "Teenagers Solomon and Tummler kill time in Xenia, Ohio, a small town that has never recovered from the tornado that ravaged the community in the 1970s.",
-    "runtime": 89,
-    "director": "Harmony Korine",
-    "genres": [
-      "Dramma",
-      "Commedia"
     ]
   },
   {
@@ -459,6 +323,24 @@
     "genres": [
       "Dramma",
       "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 1275779,
+    "title": "Disclosure Day",
+    "original_title": "Disclosure Day",
+    "italian_title": "Disclosure Day",
+    "year": 2026,
+    "poster_path": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
+    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
+    "title_en": "Disclosure Day",
+    "overview_en": "A cybersecurity expert becomes a whistleblower to reveal secrets about aliens, putting him on the run from a corporation while a meteorologist experiences strange phenomena and joins forces with him to prove there's life beyond our knowledge.",
+    "runtime": 145,
+    "director": "Steven Spielberg",
+    "genres": [
+      "Mistero",
+      "Fantascienza",
+      "Thriller"
     ]
   },
   {
@@ -703,19 +585,21 @@
     ]
   },
   {
-    "tmdb_id": 107032,
-    "title": "Lo svitato",
-    "original_title": "Lo svitato",
-    "italian_title": "Lo svitato",
-    "year": 1956,
-    "poster_path": "/k0HFUwhqAQ3IKtBgOF5mFnLedzx.jpg",
-    "overview": "Achille, fattorino nelle sede di un importante quotidiano, sogna di fare il giornalista, ed un giorno è scambiato per tale. Il suo amico Gigi, un affarista, contando sulla sua ingenuità, lo induce a preparare insieme una grossa rapina, giusto per essere il primo ad annunziare la notizia al giornale. Il colpo consiste nel rapire dei cani di razza, sostituendoli con dei bastardi. Alla fine le cose prendono un'altra piega. I cani sono rapiti, ma fuggono e, così, lo scoop svanisce. Comunque, Gigi trae vantaggio dalla situazione e fugge con Elena, il vecchio amore di Achille. L'ingenuo Achille torna alla sua solita e grama esistenza : troverà conforto fra le braccia di Diana, che lo ama da tempo.",
-    "title_en": "The Screwball",
-    "overview_en": "Achilles, a Hulot-like factotum for an evening newspaper, travels around looking for a scoop in the Milan of the \"economic miracle.\"",
-    "runtime": 83,
-    "director": "Carlo Lizzani",
+    "tmdb_id": 1368337,
+    "title": "Odissea",
+    "original_title": "The Odyssey",
+    "italian_title": "Odissea",
+    "year": 2026,
+    "poster_path": "/5S4U3gM7N17ni028LJhO60zfcKJ.jpg",
+    "overview": "Ulisse, il leggendario re greco di Itaca, intraprende un lungo e pericoloso viaggio verso casa dopo la guerra di Troia, raccontando i suoi incontri con esseri mitici come il ciclope Polifemo, le Sirene e la dea strega Circe.",
+    "title_en": "The Odyssey",
+    "overview_en": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "runtime": 172,
+    "director": "Christopher Nolan",
     "genres": [
-      "Commedia"
+      "Avventura",
+      "Azione",
+      "Fantasy"
     ]
   },
   {
@@ -783,6 +667,23 @@
     "genres": [
       "Commedia",
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1092,
+    "title": "Il terzo uomo",
+    "original_title": "The Third Man",
+    "italian_title": "Il terzo uomo",
+    "year": 1949,
+    "poster_path": "/oVXG2WI7EgTyJ2zhFbUaj50SkhH.jpg",
+    "overview": "Nel 1946 in una Vienna devastata dalla guerra e divisa in quattro zone di occupazione, lo scrittore americano di western Holly Martins (Cotten) assiste ai funerali dell'amico Harry Lime (Welles), ma è veramente morto? Inseguimento finale nelle fogne della città.",
+    "title_en": "The Third Man",
+    "overview_en": "In postwar Vienna, Austria, Holly Martins, a writer of pulp Westerns, arrives penniless as a guest of his childhood chum Harry Lime, only to learn he has died. Martins develops a conspiracy theory after learning of a \"third man\" present at the time of Harry's death, running into interference from British officer Major Calloway, and falling head-over-heels for Harry's grief-stricken lover, Anna.",
+    "runtime": 104,
+    "director": "Carol Reed",
+    "genres": [
+      "Thriller",
+      "Mistero"
     ]
   },
   {
@@ -951,6 +852,39 @@
     "overview_en": "A reluctant summer together transforms into an enchanting adventure when a young boy discovers his aunt's mysterious Sicilian house holds secrets and, perhaps, ancient spirits lurking within its walls.",
     "runtime": 90,
     "director": "Margherita Spampinato",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1340206,
+    "title": "Tuner - L’accordatore",
+    "original_title": "Tuner",
+    "italian_title": "Tuner - L’accordatore",
+    "year": 2026,
+    "poster_path": "/8FpjELUTd4mBhbvyq0Ke5irAUh4.jpg",
+    "overview": "Niki è un ex bambino prodigio del pianoforte con un dono rarissimo: un udito assoluto capace di cogliere ogni vibrazione, ogni micro–suono nascosto nel mondo. Un talento straordinario, ma anche una condanna. La sua ipersensibilità ai rumori è talmente acuta da costringerlo a indossare protezioni auricolari e ad abbandonare il sogno di diventare pianista. Il giovane si reinventa così come accordatore di pianoforti, preciso e solitario, ma la sua vita tranquilla cambia quando qualcuno scopre che il suo orecchio perfetto può essere usato per molto più che accordare strumenti. Da quel momento Niki si ritrova coinvolto in un gioco che non ha scelto e dovrà fare i conti con il peso del suo dono e con i limiti che gli ha imposto per anni.",
+    "title_en": "Tuner",
+    "overview_en": "A talented piano tuner's life is turned upside down when he discovers that his meticulous skills for tuning pianos can equally be applied to cracking safes.",
+    "runtime": 107,
+    "director": "Daniel Roher",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1279,
+    "title": "La samaritana",
+    "original_title": "사마리아",
+    "italian_title": "La samaritana",
+    "year": 2004,
+    "poster_path": "/2f2pz7UXwpINGbi6FXVOUnxzUF1.jpg",
+    "overview": "Jae-Young e Yeo-Jin sono due amiche del cuore e socie in affari per guadagnare i soldi necessari per un viaggio in Europa. La prima lavora come prostituta, mentre la seconda le procura i \"clienti\" e fa il palo per avvertire l'amica di eventuali retate della polizia. Un giorno per sfuggire ad un blitz della polizia, Jae-Young si getta da una finestra, restando gravemente ferita alla testa. Sul letto di morte la ragazza esprime all'amica il desiderio di rivedere un'ultima volta l'uomo che ama: un cliente incontrato poco prima. L'uomo freddamente acconsente a rivedere Jae-Young, ma solo dopo che Yeo-Jin gli si conceda. La ragazza accetta a malincuore, ma i due arrivano all'ospedale troppo tardi: Jae-Young è morta.",
+    "title_en": "Samaritan Girl",
+    "overview_en": "Jae-Young is an amateur prostitute who sleeps with men while her best friend Yeo-Jin \"manages\" her, fixing dates, taking care of the money, and making sure the coast is clear. When Jae-Young falls in love with one of those men, she suppresses her feelings towards him in respect of her friend who's jealous.",
+    "runtime": 95,
+    "director": "Kim Ki-duk",
     "genres": [
       "Dramma"
     ]
@@ -1125,22 +1059,6 @@
     ]
   },
   {
-    "tmdb_id": 1560020,
-    "title": "Piccolo miracolo",
-    "original_title": "Piccolo miracolo",
-    "italian_title": "Piccolo miracolo",
-    "year": 2026,
-    "poster_path": "/yORPBlonS8FKOvx9QqkcKSDrRQx.jpg",
-    "overview": "Davide Lancia, ricco quarantenne dai gusti raffinati e un debole per tutto ciò che è bello, dalle donne all’arte, deve la sua fortuna al fatto di essere figlio di uno dei più potenti e spregiudicati costruttori romani. Il padre, per spronarlo, gli offre l’occasione per dimostrare finalmente di poter essere il degno erede del suo impero: dovrà demolire una palazzina malandata e realizzare al suo posto un edificio di lusso. Un affare al quale Davide non può rinunciare. Nella palazzina però vive ancora una inquilina che non intende lasciare il suo appartamento: Ursula, una donna cieca, bella, determinata e battagliera. L’incontro con Ursula scompaginerà i piani di Davide e gli permetterà di aprirsi a un nuovo modo di vivere e vedere le cose.",
-    "title_en": "Piccolo miracolo",
-    "overview_en": "Davide Lancia, a wealthy forty-year-old with refined tastes and a weakness for all things beautiful, from women to art, owes his fortune to being the son of one of Rome's most powerful and unscrupulous builders. To spur him on, his father offers him the opportunity to finally prove himself a worthy heir to his empire: he must demolish a run-down building and build a luxury residence in its place. A deal Davide cannot refuse. However, a tenant still lives in the building who refuses to leave her apartment: Ursula, a blind, beautiful, determined, and feisty woman. His encounter with Ursula will upend Davide's plans and allow him to embrace a new way of living and seeing things.",
-    "runtime": 102,
-    "director": "Guido Chiesa",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1130402,
     "title": "Terapia di famiglia",
     "original_title": "Jamais sans mon psy",
@@ -1297,19 +1215,40 @@
     ]
   },
   {
-    "tmdb_id": 1523111,
-    "title": "La salita",
-    "original_title": "La salita",
-    "italian_title": "La salita",
-    "year": 2026,
-    "poster_path": "/t5ZZ9bufzCSqjso77zVxBgLxaiS.jpg",
-    "overview": "Napoli. 1983. A causa di alcune lesioni dovute al bradisismo il carcere femminile di Pozzuoli viene chiuso e le detenute smistate provvisoriamente in altre strutture penitenziarie della Regione. Alcune di queste vengono momentaneamente ospitate presso il Carcere minorile di Nisida. Intanto, Eduardo De Filippo, nominato Senatore a vita, si reca più volte a Nisida, contribuisce alla ristrutturazione del Teatro del carcere e impianta una scuola di scenotecnica e una di recitazione, inviando gli attori della sua compagnia per mettere in scena il primo spettacolo teatrale in un Istituto penitenziario minorile italiano.",
-    "title_en": "La salita",
-    "overview_en": "There’s a Naples of the imagination and there’s the real city: the city of fiction and the one with its tales of a past very much alive. Massimilano Gallo’s directorial debut, La salita, is a film about a little-known anecdote from the life of Eduardo De Filippo, featuring a Nisida very different from the image it has in the series Mare fuori, yet Gallo’s take on prison and women behind bars is just as contemporary. Courtesy of Panamafilm and the Film Commission Regione Campania.",
-    "runtime": 90,
-    "director": "Massimiliano Gallo",
+    "tmdb_id": 635767,
+    "title": "Sacrifice",
+    "original_title": "Sacrifice",
+    "italian_title": "Sacrifice",
+    "year": 2018,
+    "poster_path": "/ahYQSnxQGAN4sAgAbIyaaWn0gY5.jpg",
+    "overview": null,
+    "title_en": "Sacrifice",
+    "overview_en": "'Sacrifice' follows the love story between James Hunter and Blake Robinson as they begin a new phase in their life together. Forces out of their control tear them apart but to what extent and consequence? How much will they sacrifice? A traditional military love story from a perspective which has not yet been seen before.",
+    "runtime": 19,
+    "director": "Anna Maguire",
     "genres": [
-      "Dramma"
+      "Dramma",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 1315772,
+    "title": "Minions & Monsters",
+    "original_title": "Minions & Monsters",
+    "italian_title": "Minions & Monsters",
+    "year": 2026,
+    "poster_path": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+    "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
+    "title_en": "Minions & Monsters",
+    "overview_en": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+    "runtime": 90,
+    "director": "Pierre Coffin",
+    "genres": [
+      "Avventura",
+      "Animazione",
+      "Commedia",
+      "Famiglia",
+      "Fantasy"
     ]
   },
   {
@@ -1331,23 +1270,6 @@
     ]
   },
   {
-    "tmdb_id": 635767,
-    "title": "Sacrifice",
-    "original_title": "Sacrifice",
-    "italian_title": "Sacrifice",
-    "year": 2018,
-    "poster_path": "/ahYQSnxQGAN4sAgAbIyaaWn0gY5.jpg",
-    "overview": null,
-    "title_en": "Sacrifice",
-    "overview_en": "'Sacrifice' follows the love story between James Hunter and Blake Robinson as they begin a new phase in their life together. Forces out of their control tear them apart but to what extent and consequence? How much will they sacrifice? A traditional military love story from a perspective which has not yet been seen before.",
-    "runtime": 19,
-    "director": "Anna Maguire",
-    "genres": [
-      "Dramma",
-      "Guerra"
-    ]
-  },
-  {
     "tmdb_id": 1284465,
     "title": "Robin Hood - Il prezzo del sangue",
     "original_title": "The Death of Robin Hood",
@@ -1364,26 +1286,6 @@
       "Dramma",
       "Thriller",
       "Azione"
-    ]
-  },
-  {
-    "tmdb_id": 1315772,
-    "title": "Minions & Monsters",
-    "original_title": "Minions & Monsters",
-    "italian_title": "Minions & Monsters",
-    "year": 2026,
-    "poster_path": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-    "overview": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
-    "title_en": "Minions & Monsters",
-    "overview_en": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-    "runtime": 90,
-    "director": "Pierre Coffin",
-    "genres": [
-      "Avventura",
-      "Animazione",
-      "Commedia",
-      "Famiglia",
-      "Fantasy"
     ]
   },
   {
@@ -1761,6 +1663,23 @@
     "genres": [
       "Musica",
       "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1400789,
+    "title": "2000 metri ad Andriivka",
+    "original_title": "2000 Meters to Andriivka",
+    "italian_title": "2000 metri ad Andriivka",
+    "year": 2025,
+    "poster_path": "/mRnSjHNbaSR4BlHIlA5nRluWHXn.jpg",
+    "overview": "Il regista, giornalista, scrittore e fotoreporter Mstyslav Chernov torna a narrare una porzione del conflitto russo-ucraino. Al centro del documentario c’è un plotone ucraino incaricato di percorrere una foresta disseminata di esplosivi e di liberare Andriivka, un villaggio collocato in una posizione strategica e ormai ridotto in macerie. Il racconto segue la marcia dei soldati, mentre le riprese delle bodycam, dei droni e delle Go-Pro montate sui caschi producono un inedito effetto di prossimità e d’immersività. Sullo sfondo, la desolazione del paesaggio, simile alle lande devastate della Prima guerra mondiale, capace di simboleggiare tutta la crudeltà di una guerra che appare drammaticamente senza soluzione.",
+    "title_en": "2000 Meters to Andriivka",
+    "overview_en": "Amid the failing counteroffensive, a journalist follows a Ukrainian platoon on their mission to traverse one mile of heavily fortified forest and liberate a strategic village from Russian occupation. But the farther they advance through their destroyed homeland, the more they realize that this war may never end.",
+    "runtime": 108,
+    "director": "Мстислав Чернов",
+    "genres": [
+      "Documentario",
+      "Guerra"
     ]
   },
   {
