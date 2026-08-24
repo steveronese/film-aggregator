@@ -1,12 +1,5 @@
 [
   {
-    "raw_title": "THE ODYSSEY - ODISSEA",
-    "tmdb_id": 42853,
-    "matched_title": "Odissea",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "TIME",
     "tmdb_id": 429200,
     "matched_title": "Good Time",
@@ -31,27 +24,6 @@
     "raw_title": "COUTURE (COUTURES)",
     "tmdb_id": 1390382,
     "matched_title": "Coutures",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
-    "raw_title": "V.O. SOTT ITA - AGENT OF HAPPINESS",
-    "tmdb_id": 1164862,
-    "matched_title": "Agent of Happiness - Il Bhutan e la felicità",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
-    "raw_title": "SPEZIE E BUGIE (LA PETITE CUISINE DE MEHDI)",
-    "tmdb_id": 1266826,
-    "matched_title": "Spezie e bugie - La piccola cucina di Mehdi",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "V.O. SOTT. ITA - SPEZIE E BUGIE",
-    "tmdb_id": 1266826,
-    "matched_title": "Spezie e bugie - La piccola cucina di Mehdi",
     "method": "ai",
     "confidence": 95.0
   },
@@ -136,6 +108,13 @@
     "raw_title": "(O.V.) Oasis: Don'T Look Back In Anger",
     "tmdb_id": 1447853,
     "matched_title": "Don't Look Back in Anger",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "(O.V.) Queen Budapest",
+    "tmdb_id": 142773,
+    "matched_title": "Hungarian Rhapsody: Queen Live in Budapest '86",
     "method": "ai",
     "confidence": 95.0
   },
