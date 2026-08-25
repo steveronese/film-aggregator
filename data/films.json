@@ -1,5 +1,54 @@
 [
   {
+    "tmdb_id": 1555887,
+    "title": "Tienimi presente",
+    "original_title": "Tienimi presente",
+    "italian_title": "Tienimi presente",
+    "year": 2026,
+    "poster_path": "/i2Jh0vxBtwNmGumwicojwAJz8Qm.jpg",
+    "overview": "Alberto, giovane regista disilluso, è convinto che il cinema non abbia più nulla da offrirgli. Ma è proprio rinunciando al suo sogno che ne scopre il senso più profondo. Dopo anni vissuti a Roma nella speranza di fare un film – tra progetti incerti e produttori perennemente in fuga – Alberto, ormai vicino ai trent’anni, decide di fare marcia indietro e tornare nella sua città natale. La vita da aspirante artista si è rivelata più solitaria del previsto, e la provincia, con i suoi ritmi lenti e volti familiari, sembra offrirgli un rifugio inaspettato. Tra vecchi amici, nuove conoscenze e qualche momento di pace, Alberto ritrova una tranquillità che aveva perduto. Ma basta poco perché riaffiorino i dubbi, i desideri messi da parte e quella domanda che non smette mai di tormentarlo: cosa fare davvero della propria vita? Il bivio è chiaro: restare, ricominciare o trasformare questo frammento di vita in racconto",
+    "title_en": "Tienimi presente",
+    "overview_en": "Alberto, a disillusioned young director, is convinced that cinema has nothing left to offer him. But it is precisely by giving up on his dream that he discovers its deeper meaning.",
+    "runtime": 80,
+    "director": "Alberto Palmiero",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1278338,
+    "title": "Tre chilometri alla fine del mondo",
+    "original_title": "Trei kilometri până la capătul lumii",
+    "italian_title": "Tre chilometri alla fine del mondo",
+    "year": 2024,
+    "poster_path": "/txYLAHerdJVrxaNk9kRsbmhveF9.jpg",
+    "overview": "Ambientato nel delta del Danubio, il film racconta la storia di Adi, un adolescente la cui tranquilla estate viene sconvolta dopo un'aggressione omofoba, mettendo in luce il conflitto tra la sua identità e i rigidi valori tradizionali della famiglia e della comunità.",
+    "title_en": "Three Kilometres to the End of the World",
+    "overview_en": "Adi, a gay teenager, is spending the summer in his home village in the Danube Delta. One night he is brutally attacked on the street, the next day his world is turned upside-down. His parents no longer look at him as they did, and the seeming tranquility of the village starts to crack.",
+    "runtime": 105,
+    "director": "Emanuel Pârvu",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1119537,
+    "title": "Love Letters",
+    "original_title": "Des preuves d'amour",
+    "italian_title": "Love Letters",
+    "year": 2025,
+    "poster_path": "/lDsWm55KptwEIa0eQXfDcdDCsUn.jpg",
+    "overview": "Una giovane donna, Céline, aspetta il suo primo figlio. Ma non è lei quella incinta. Fra pochi mesi, sua moglie Nadia darà alla luce la loro bambina. Tra amici, famiglia e leggi, Céline cerca il proprio ruolo e la legittimità nel nuovo contesto familiare. Il film, tutto al femminile con Ella Rumpf e Monia Chokri, esplora le prospettive e le difficoltà delle famiglie moderne.",
+    "title_en": "Love Letters",
+    "overview_en": "Céline is expecting her firstborn. But she’s not the one who’s pregnant. In three months, her wife Nadia will give birth to their daughter. Under the gaze of her friends, her mother, and the law, Céline looks for her place and sense of legitimacy.",
+    "runtime": 97,
+    "director": "Alice Douard",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
     "tmdb_id": 1240889,
     "title": "Camp Miasma - Adolescenza, sesso e morte",
     "original_title": "Teenage Sex and Death at Camp Miasma",
@@ -14,6 +63,40 @@
     "genres": [
       "Horror",
       "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1430077,
+    "title": "Hokum",
+    "original_title": "Hokum",
+    "italian_title": "Hokum",
+    "year": 2026,
+    "poster_path": "/x6rHcQFiYcczLQPrmxXPAicm54E.jpg",
+    "overview": "Quando lo scrittore Ohm Bauman si ritira in una locanda isolata per spargere le ceneri dei suoi genitori, viene ossessionato dai racconti di una strega che infesta la suite nuziale. Visioni inquietanti e una scioccante scomparsa lo costringono a confrontarsi con gli angoli oscuri del suo passato.",
+    "title_en": "Hokum",
+    "overview_en": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+    "runtime": 108,
+    "director": "Damian McCarthy",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 42853,
+    "title": "Odissea",
+    "original_title": "Odissea",
+    "italian_title": "Odissea",
+    "year": 1968,
+    "poster_path": "/orlKW4piaeA5UMTMqrQsQuOKl5w.jpg",
+    "overview": "Odissea è una miniserie televisiva co-prodotta da svariati Paesi nel 1968, basata sull'omonimo poema di Omero. Ne è stata distribuita una versione ridotta cinematografica dal titolo Le avventure di Ulisse.",
+    "title_en": "Odissea",
+    "overview_en": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
+    "runtime": 110,
+    "director": "Piero Schivazappa, Franco Rossi, Mario Bava",
+    "genres": [
+      "televisione film",
+      "Avventura",
+      "Storia"
     ]
   },
   {
@@ -33,37 +116,140 @@
     ]
   },
   {
-    "tmdb_id": 207932,
-    "title": "Inferno",
-    "original_title": "Inferno",
-    "italian_title": "Inferno",
-    "year": 2016,
-    "poster_path": "/sjKypTkmnPfhPcA2nTkRQrwopiJ.jpg",
-    "overview": "Il famoso simbolista Robert Langdon questa volta è sulle tracce di una serie di indizi legati al grande poeta Dante. Quando si risveglia in un ospedale italiano colpito da amnesia, si affida al medico Sienna Brooks per recuperare i suoi ricordi. In una corsa contro il tempo che ha per sfondo tutta l’Europa, cercheranno di prevenire le azioni di un folle che ha intenzione di scatenare una piaga strettamente connessa con l'Inferno di Dante Alighieri.",
-    "title_en": "Inferno",
-    "overview_en": "After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.",
-    "runtime": 121,
-    "director": "Ron Howard",
+    "tmdb_id": 1553969,
+    "title": "Sheep in the Box",
+    "original_title": "箱の中の羊",
+    "italian_title": "Sheep in the Box",
+    "year": 2026,
+    "poster_path": "/aUeOpkCfGJHgQYFy89vTb0OvgWF.jpg",
+    "overview": null,
+    "title_en": "Sheep in the Box",
+    "overview_en": "Set in the near future, Otone Komoto works as an architect. She is married to Kensuke Komoto, who runs a construction company. The married couple decide to welcome a humanoid robot into their home as their son.",
+    "runtime": 126,
+    "director": "是枝裕和",
     "genres": [
-      "Mistero",
-      "Thriller",
-      "Azione"
+      "Dramma",
+      "Fantascienza"
     ]
   },
   {
-    "tmdb_id": 1963,
-    "title": "L'arco",
-    "original_title": "활",
-    "italian_title": "L'arco",
-    "year": 2005,
-    "poster_path": "/rPBJNh2Xw2nS3ElSRZv7ZhHErNO.jpg",
-    "overview": "Una bambina di sei anni rimasta sola al mondo, viene accolta da un uomo che la porta a vivere con se a bordo di un peschereccio dove gli unici ospiti sono le persone che di tanto in tanto affittano l'imbarcazione. L'uomo che col tempo si é innamorato della bambina, decide di sposarla quando compirà 17 anni ma uno studente s'intromette nel suo progetto innamorandosi a sua volta della ragazza..",
-    "title_en": "The Bow",
-    "overview_en": "On a fishing boat at sea, a 60-year old man has been raising a girl since she was a child. It is agreed that they will get married on her 17th birthday. They live a quiet and secluded life, renting the boat to day fishermen and practicing strange divination rites. Their life changes when a teenage student comes aboard.",
-    "runtime": 90,
-    "director": "Kim Ki-duk",
+    "tmdb_id": 1329016,
+    "title": "Tony - Diario di un giovane cuoco",
+    "original_title": "Tony",
+    "italian_title": "Tony - Diario di un giovane cuoco",
+    "year": 2026,
+    "poster_path": "/nJwhcJyoUipwf5TKf2mE460Tf98.jpg",
+    "overview": "Quando il diciannovenne Anthony Bourdain arriva a Provincetown, finisce per ritrovarsi nel mondo caotico della cucina di un ristorante, dando il via a un'estate che segnerà il corso della sua vita.",
+    "title_en": "Tony",
+    "overview_en": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+    "runtime": 106,
+    "director": "Matt Johnson",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1339713,
+    "title": "Obsession",
+    "original_title": "Obsession",
+    "italian_title": "Obsession",
+    "year": 2026,
+    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "overview": "Dopo aver spezzato il misterioso bastoncino del desiderio per conquistare il cuore della ragazza che ama un romantico senza speranza ottiene esattamente ciò che ha chiesto ma presto scopre che alcuni desideri hanno un prezzo sinistro e pericoloso.",
+    "title_en": "Obsession",
+    "overview_en": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "runtime": 108,
+    "director": "Curry Barker",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1370210,
+    "title": "Yalla Parkour",
+    "original_title": "يلّا باركور",
+    "italian_title": "Yalla Parkour",
+    "year": 2024,
+    "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
+    "overview": "Nella sua incessante ricerca di un ricordo che rafforzi il suo senso di appartenenza, Areeb incrocia il cammino di Ahmed, un atleta di parkour di Gaza, dando inizio a un viaggio in cui si intrecciano aspirazioni contrastanti. La nostalgia incontra l'ambizione, e il peso di un passato limitato incontra un futuro imprevedibile.",
+    "title_en": "Yalla Parkour",
+    "overview_en": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
+    "runtime": 89,
+    "director": "Areeb Zuaiter",
+    "genres": [
+      "Documentario",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1512207,
+    "title": "Rufus - Il draghetto marino che non sapeva nuotare",
+    "original_title": "Ruffen: Sjøormen som ikke kunne svømme",
+    "italian_title": "Rufus - Il draghetto marino che non sapeva nuotare",
+    "year": 2025,
+    "poster_path": "/8thnn6W9p3oayv6cf1M3RezNah8.jpg",
+    "overview": "Nel cuore dell’oceano, su un’isola segreta, vive una simpatica comunità di draghi marini. Tra loro c’è Rufus, un piccolo draghetto diverso dagli altri, con tanto cuore… ma zero talento per il nuoto. Quando però lo zio Ludvig, che tiene l'isola nascosta agli umani con il suo fumo magico, perde i poteri, sarà proprio Rufus a partire per un viaggio straordinario fino in Scozia, alla ricerca della prozia Nessie e della mitica sciarpa magica.",
+    "title_en": "Rufus: The Sea Serpent Who Couldn't Swim",
+    "overview_en": "Rufus does not really fit in - in his community of sea serpents, he is the only one who can't swim. But when disaster strikes and their secret island needs protection, Rufus must face his deepest fear and save his family.",
+    "runtime": null,
+    "director": "Endre Skandfer",
+    "genres": [
+      "Animazione",
+      "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 1204680,
+    "title": "Coyote vs. Acme",
+    "original_title": "Coyote vs. Acme",
+    "italian_title": "Coyote vs. Acme",
+    "year": 2026,
+    "poster_path": "/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
+    "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
+    "title_en": "Coyote vs. Acme",
+    "overview_en": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+    "runtime": 98,
+    "director": "Dave Green",
+    "genres": [
+      "Commedia",
+      "Avventura",
+      "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 1401832,
+    "title": "Ketticè",
+    "original_title": "Ketticè",
+    "italian_title": "Ketticè",
+    "year": 2026,
+    "poster_path": "/lRg0437Vsgc9tGcqvSib6rBgKQy.jpg",
+    "overview": "Palermo, 2012. Giulio ha sedici anni e la sua vita si divide tra scuola, motorini, i primi amori, Facebook e le serate con gli amici. Con i genitori la comunicazione è quasi inesistente: sembra che parlino due lingue completamente diverse. Tutto cambia quando incontra Ketty, una ragazza imprevedibile che vive senza condizionamenti. Insieme a lei, Giulio si ritrova a vivere un intero anno scolastico intenso e fuori dal tempo. Intorno a loro, il mondo degli adulti continua a parlare, ma sembra aver perso del tutto la capacità di ascoltare davvero. È tra i coetanei che Giulio cerca il proprio posto, e in particolare nel legame esclusivo con Ketty, che diventa un rifugio sicuro, lontano dagli sguardi e dai giudizi dei grandi.",
+    "title_en": "Ketticè",
+    "overview_en": "Palermo, 2012. Giulio, a listless and dissatisfied 16-year-old, drifts through his days with no enthusiasm for school and no prospects for the future. His encounter with Ketty, a more self-assured peer, offers him an escape from the monotony.",
+    "runtime": 107,
+    "director": "Giovanni Tortorici",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 643,
+    "title": "La corazzata Potëmkin",
+    "original_title": "Броненосец Потёмкин",
+    "italian_title": "La corazzata Potëmkin",
+    "year": 1925,
+    "poster_path": "/7Gd1FOmFD3fyY3bCUt7GwQTwcza.jpg",
+    "overview": "Odessa, 1905: a bordo della Potëmkin, un'unità da guerra della flotta zarista, le condizioni dell'equipaggio sono intollerabili. Iniziano così a serpeggiare fermenti di rivolta: davanti all'ennesimo sopruso, la situazione esplode, scatenando un sanguinoso ammutinamento. La gente di Odessa dimostra la propria solidarietà con la sollevazione e affolla la scalinata del porto, ma viene brutalmente massacrata da un reparto di cosacchi...",
+    "title_en": "Battleship Potemkin",
+    "overview_en": "A dramatized account of a great Russian naval mutiny and a resultant public demonstration, showing support, which brought on a police massacre.",
+    "runtime": 72,
+    "director": "Сергей Эйзенштейн",
+    "genres": [
+      "Dramma",
+      "Storia",
+      "Guerra"
     ]
   },
   {
@@ -526,6 +712,24 @@
     ]
   },
   {
+    "tmdb_id": 49978,
+    "title": "Il mio XX secolo",
+    "original_title": "Az én XX. századom",
+    "italian_title": "Il mio XX secolo",
+    "year": 1989,
+    "poster_path": "/mu80LgWaRvnBME7dOuNWv4JiJ6q.jpg",
+    "overview": null,
+    "title_en": "My Twentieth Century",
+    "overview_en": "A tale of twin girls, Dóra and Lili, who are born in 1880 Budapest at the same moment Thomas Edison presents his electric lightbulb to the world. The sisters are soon orphaned and separated in childhood, and follow different paths: one grows up to be a naïvely idealistic, bomb-toting anarchist, the other a pampered, hedonistic courtesan. Their paths cross once again on the Orient Express on New Year's Eve 1899...",
+    "runtime": 102,
+    "director": "Enyedi Ildikó",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Fantascienza"
+    ]
+  },
+  {
     "tmdb_id": 969681,
     "title": "Spider-Man: Brand New Day",
     "original_title": "Spider-Man: Brand New Day",
@@ -594,6 +798,22 @@
       "Dramma",
       "Storia",
       "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1464883,
+    "title": "La torta del presidente",
+    "original_title": "The President's Cake",
+    "italian_title": "La torta del presidente",
+    "year": 2025,
+    "poster_path": "/qvxykSWxdbjjpSweWaiIdGFXldx.jpg",
+    "overview": "Mentre la popolazione dell'Iraq degli anni '90 lotta per sopravvivere alla guerra e alla carestia, in tutte le scuole del Paese è obbligatorio preparare una torta per festeggiare il compleanno del Presidente Saddam Hussein. Nonostante le sue preghiere di non essere scelta, la piccola Lamia di 9 anni viene sorteggiata per questo ‘prestigioso’ compito. Giunta in città con la nonna, sfuggirà al suo controllo per cercare gli ingredienti necessari per la torta. Insieme al suo amico Saeed e al suo gallo andrà incontro a una serie di peripezie a volte avventurose a volte pericolose, ma anche buffe riuscendo alla fine – forse - nel suo intento.",
+    "title_en": "The President's Cake",
+    "overview_en": "While people across 1990s Iraq struggle to survive the war and food shortages, Saddam Hussein requires each school in the country to prepare a cake to celebrate his birthday. Despite her efforts to avoid getting picked, 9-year-old Lamia is chosen among her classmates. The young girl must now use her wits and imagination to gather ingredients for the mandatory cake or face the consequences.",
+    "runtime": 106,
+    "director": "Hasan Hadi",
+    "genres": [
+      "Dramma"
     ]
   },
   {
@@ -763,6 +983,38 @@
     ]
   },
   {
+    "tmdb_id": 2204,
+    "title": "Alice nelle città",
+    "original_title": "Alice in den Städten",
+    "italian_title": "Alice nelle città",
+    "year": 1974,
+    "poster_path": "/rTv4OUyadugblv59RETHSB0HTVg.jpg",
+    "overview": "Felix Winter rientra in Germania dagli Stati Uniti, senza il reportage che doveva realizzare, ma solo con un pacco di foto Polaroid. All'aeroporto si vede affidare la figlia di una sua connazionale, che promette di raggiungerli in patria qualche giorno più tardi. L'uomo e la bambina incominciano così un viaggio (la madre nel frattempo non dà più notizie di sé) alla ricerca della casa della nonna. Intanto la polizia è riuscita a rintracciare la donna. Andata e ritorno dall'America svuotata dal mito e dal sogno, all'Europa teatro di esasperati esistenzialismi.",
+    "title_en": "Alice in the Cities",
+    "overview_en": "German journalist Philip Winter has a case of writer’s block when trying to write an article about the United States. He decides to return to Germany, and while trying to book a flight, encounters a German woman and her nine year old daughter Alice doing the same. The three become friends (almost out of necessity) and while the mother asks Winter to mind Alice temporarily, it quickly becomes apparent that Alice will be his responsibility for longer than he expected.",
+    "runtime": 110,
+    "director": "Wim Wenders",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1731347,
+    "title": "Marco Bellocchio - La porta della realtà",
+    "original_title": "Marco Bellocchio - La porta della realtà",
+    "italian_title": "Marco Bellocchio - La porta della realtà",
+    "year": 2026,
+    "poster_path": "/lKtcKzZHoZyFVFrF2VNdfJo5imw.jpg",
+    "overview": "Il documentario mostra per la prima volta Marco Bellocchio al lavoro sul set e racconta il suo approccio quotidiano alla regia.",
+    "title_en": "Marco Bellocchio - La porta della realtà",
+    "overview_en": "After 20 years of working with Marco Bellocchio, a close collaborator feels the need to share what he experienced with him.",
+    "runtime": 65,
+    "director": "Fabio Lovino",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
     "tmdb_id": 747687,
     "title": "La scuola cattolica",
     "original_title": "La scuola cattolica",
@@ -816,19 +1068,19 @@
     ]
   },
   {
-    "tmdb_id": 1493024,
-    "title": "Il Bene Comune",
-    "original_title": "Il Bene Comune",
-    "italian_title": "Il Bene Comune",
-    "year": 2026,
-    "poster_path": "/nUMekW0Zs12SniJuo1L1V9OypUd.jpg",
-    "overview": "Una guida turistica e un’attrice di “insuccesso” accompagnano quattro detenute sul massiccio del Pollino, alla ricerca del secolare Pino Loricato, simbolo di resilienza. Il cammino diventa presto un viaggio di trasformazione, fatto di incontri e cambiamenti, scandito da una musica che prende forma passo dopo passo, fino a diventare una voce collettiva capace di tenere insieme corpi, emozioni e storie diverse. In una natura dura e bellissima, attraversata da una solidarietà inattesa, emergono frammenti di vite complesse, ferite ancora aperte e il bisogno profondo di essere viste e ascoltate. Parlare, cantare, dare un nome a ciò che si è vissuto diventa un modo per sciogliere tensioni e ritrovare un senso di appartenenza, almeno finché un evento improvviso non rimette tutto in discussione. Perché, a volte, raccontarsi è già un primo passo verso qualcosa di più grande.",
-    "title_en": "Il Bene Comune",
-    "overview_en": "A tour guide and a failed actress accompany four inmates to the Pollino massif, in search of the centuries-old Bosnian pine, a symbol of resilience. The journey quickly becomes a journey of transformation, filled with encounters and changes, punctuated by a music that takes shape step by step, becoming a collective voice capable of bringing together diverse bodies, emotions, and stories. In a harsh yet beautiful landscape, punctuated by unexpected solidarity, fragments of complex lives emerge, along with open wounds and a profound need to be seen and heard. Talking, singing, and naming what has been experienced becomes a way to release tensions and rediscover a sense of belonging, at least until a sudden event calls everything into question. Because, sometimes, sharing one's story is already a first step toward something bigger.",
-    "runtime": 102,
-    "director": "Rocco Papaleo",
+    "tmdb_id": 1294698,
+    "title": "Il caso 137",
+    "original_title": "Dossier 137",
+    "italian_title": "Il caso 137",
+    "year": 2025,
+    "poster_path": "/5MemnGyR35TBztl1J1K80tE2HAa.jpg",
+    "overview": "Stéphanie è un'ispettrice dell'IGPN, l'organismo disciplinare che vigila sulla polizia francese. È lei che si trova a indagare sul caso di Guillaume, un ragazzo partito con la famiglia alla volta di Parigi per partecipare a una manifestazione e ferito gravemente da un proiettile antisommossa. Quando Stéphanie inizia a ricostruire l'accaduto capisce che il caso la tocca anche a livello personale, ma malgrado l'ostilità di molti colleghi decide di andare fino in fondo.",
+    "title_en": "Case 137",
+    "overview_en": "Stéphanie, a police officer working for Internal Affairs, is assigned to a case involving a young man severely wounded during a tense and chaotic demonstration in Paris. While she finds no evidence of illegitimate police violence, the case takes a personal turn when she discovers the victim is from her hometown.",
+    "runtime": 115,
+    "director": "Dominik Moll",
     "genres": [
-      "Commedia",
+      "Crime",
       "Dramma"
     ]
   },
@@ -977,6 +1229,60 @@
     ]
   },
   {
+    "tmdb_id": 1108427,
+    "title": "Oceania",
+    "original_title": "Moana",
+    "italian_title": "Oceania",
+    "year": 2026,
+    "poster_path": "/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
+    "overview": null,
+    "title_en": "Moana",
+    "overview_en": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "runtime": 115,
+    "director": "Thomas Kail",
+    "genres": [
+      "Famiglia",
+      "Fantasy",
+      "Commedia",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 66664,
+    "title": "Terminator 2 - Shocking dark",
+    "original_title": "Terminator 2",
+    "italian_title": "Terminator 2 - Shocking dark",
+    "year": 1989,
+    "poster_path": "/qMbxRIUEDtiI2HDmD76zE2lTuQp.jpg",
+    "overview": "In un futuro imprecisato Venezia è una città fantasma contaminata dall'inquinamento, e devastata da un virus la cui origine è sconosciuta. Quando durante un ricognizione nel sottosuolo della città un gruppo di uomini viene attaccato da alcuni esseri umani mutati dal virus, si decide di mandare uno squadrone militare, la Megaforce, a ispezionare quanto succede nel profondità della città lagunare.",
+    "title_en": "Shocking Dark",
+    "overview_en": "In a polluted future Venice researchers work to improve the situation. One day, unknown forces start killing them. A team of soldiers and a couple of civilians is sent to investigate. Soon, they encounter strange murderous creatures.",
+    "runtime": 90,
+    "director": "Bruno Mattei",
+    "genres": [
+      "Azione",
+      "Fantascienza",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 1280015,
+    "title": "Sunny Dancer",
+    "original_title": "Sunny Dancer",
+    "italian_title": "Sunny Dancer",
+    "year": 2026,
+    "poster_path": "/yXdQX7wQSG1TZlGfaSujxazPPtM.jpg",
+    "overview": "Dopo anni trascorsi a combattere battaglie più grandi di loro, Ivy e un gruppo di ragazzi decidono di recuperare il tempo perduto. Li aspetta un’estate di libertà, amicizia e scelte che non dimenticheranno mai. Un coming-of-age pieno di cuore, un inno alla giovinezza, all’amicizia e alla voglia di vivere ogni momento senza rimpianti.",
+    "title_en": "Sunny Dancer",
+    "overview_en": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
+    "runtime": 106,
+    "director": "George Jaques",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
     "tmdb_id": 1447853,
     "title": "Don't Look Back in Anger",
     "original_title": "Don't Look Back in Anger",
@@ -991,6 +1297,41 @@
     "genres": [
       "Documentario",
       "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 975511,
+    "title": "Itaca - Il ritorno",
+    "original_title": "The Return",
+    "italian_title": "Itaca - Il ritorno",
+    "year": 2024,
+    "poster_path": "/uPxrcqE3DnjDimvTiEbUxiAZiiR.jpg",
+    "overview": "Dopo venti lunghi anni di lontananza, Ulisse (Odisseo) sbarca finalmente sulle rive di Itaca, emaciato e irriconoscibile. Il re di Itaca (Odisseo) scopre che, sulla sua isola, molto è cambiato da quando è partito per combattere nella guerra di Troia. L'amata moglie, Penelope, è prigioniera nella sua stessa abitazione e da anni viene tormentata per scegliere un nuovo marito. Il figlio Telemaco, invece, rischia la morte per mano dei pretendenti che lo vedono come un ostacolo. Ulisse non è più il potente guerriero che il suo popolo ricorda, ma deve affrontare e superare il passato per riuscire a salvare la sua famiglia e il suo regno.",
+    "title_en": "The Return",
+    "overview_en": "After twenty years away, Odysseus washes up on the shores of Ithaca, haggard and unrecognizable. The king has finally returned home, but much has changed in his kingdom since he left to fight in the Trojan war.",
+    "runtime": 116,
+    "director": "Uberto Pasolini",
+    "genres": [
+      "Storia",
+      "Dramma",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 11660,
+    "title": "Following",
+    "original_title": "Following",
+    "italian_title": "Following",
+    "year": 1999,
+    "poster_path": "/cfNxgChrQI4rQqcDtWx0XbUHIP.jpg",
+    "overview": "Un aspirante scrittore, per cercare ispirazione, comincia a pedinare le persone, trasformando le loro vite in materiale per lavoro. Tutto va liscio finché egli non incontra Cobb, ladro di professione che, piano piano, gli insegna il mestiere. La trama si complica quando lo scrittore si invaghisce della vittima di un furto e inizia a frequentarla.",
+    "title_en": "Following",
+    "overview_en": "Bill, an idle, unemployed aspiring writer, walks the crowded streets of London following randomly chosen strangers, a seemingly innocent entertainment that becomes dangerous when he crosses paths with a mysterious character.",
+    "runtime": 68,
+    "director": "Christopher Nolan",
+    "genres": [
+      "Dramma",
+      "Thriller"
     ]
   },
   {
@@ -1009,40 +1350,6 @@
       "Dramma",
       "Romance",
       "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1553969,
-    "title": "Sheep in the Box",
-    "original_title": "箱の中の羊",
-    "italian_title": "Sheep in the Box",
-    "year": 2026,
-    "poster_path": "/aUeOpkCfGJHgQYFy89vTb0OvgWF.jpg",
-    "overview": null,
-    "title_en": "Sheep in the Box",
-    "overview_en": "Set in the near future, Otone Komoto works as an architect. She is married to Kensuke Komoto, who runs a construction company. The married couple decide to welcome a humanoid robot into their home as their son.",
-    "runtime": 126,
-    "director": "是枝裕和",
-    "genres": [
-      "Dramma",
-      "Fantascienza"
-    ]
-  },
-  {
-    "tmdb_id": 1329016,
-    "title": "Tony - Diario di un giovane cuoco",
-    "original_title": "Tony",
-    "italian_title": "Tony - Diario di un giovane cuoco",
-    "year": 2026,
-    "poster_path": "/nJwhcJyoUipwf5TKf2mE460Tf98.jpg",
-    "overview": "Quando il diciannovenne Anthony Bourdain arriva a Provincetown, finisce per ritrovarsi nel mondo caotico della cucina di un ristorante, dando il via a un'estate che segnerà il corso della sua vita.",
-    "title_en": "Tony",
-    "overview_en": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-    "runtime": 106,
-    "director": "Matt Johnson",
-    "genres": [
-      "Dramma",
-      "Commedia"
     ]
   },
   {
@@ -1078,24 +1385,6 @@
       "Commedia",
       "Crime",
       "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1432596,
-    "title": "Palestina 36",
-    "original_title": "Palestine 36",
-    "italian_title": "Palestina 36",
-    "year": 2025,
-    "poster_path": "/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
-    "overview": "Ambientato nel 1936 durante la rivolta palestinese contro il dominio coloniale britannico. Il film segue Yusuf, che si muove tra il suo villaggio rurale e la caotica Gerusalemme, mentre la regione si avvicina a un momento cruciale. La narrazione esplora le vite di diversi personaggi, inclusi un contadino, un operaio portuale e una madre vedova, evidenziando le tensioni di classe e l'impatto della crescente immigrazione ebraica.",
-    "title_en": "Palestine 36",
-    "overview_en": "Year 1936. As villages across Palestine rise against British colonial rule, Yusuf drifts between his rural home and the restless energy of Jerusalem, longing for a future beyond the growing unrest. But history is relentless. With rising numbers of Jewish immigrants escaping antisemitism in Europe and some arriving with nefarious Zionist-colonial ambitions, and the Palestinian population uniting in the largest and longest uprising against Britain’s 30-year dominion, all sides spiral towards inevitable collision in a decisive moment for the British Empire and the future of the entire region.",
-    "runtime": 116,
-    "director": "Annemarie Jacir",
-    "genres": [
-      "Dramma",
-      "Storia",
-      "Guerra"
     ]
   },
   {
@@ -1152,24 +1441,6 @@
     ]
   },
   {
-    "tmdb_id": 1290432,
-    "title": "Vita privata",
-    "original_title": "Vie privée",
-    "italian_title": "Vita privata",
-    "year": 2025,
-    "poster_path": "/fEarUwhoamTqGkk3KI3n9K9lgQp.jpg",
-    "overview": "Tra thriller psicologico ed eccentrica commedia famigliare (il terreno privilegiato fino a oggi dalla regista Rebecca Zlotowski, autrice di Un’estate con Sofia e I figli degli altri), la storia di Lilian, psicanalista razionale e sicura di sé (una Jodie Foster superlativa anche in versione francofona), che comincia a “deragliare” quando una sua paziente muore suicida. Sospettando che si tratti di un omicidio, Lilian comincia a indagare e, ovviamente, a dubitare di se stessa e delle proprie capacità, fino a sottoporsi a una seduta di ipnosi. E qui i mondi si confondono. Dubbi, certezze, insicurezze, il passato, altre vite, sospetti s’inseguono sulla faccia altera e impagabile di Jodie Foster, circondata da Daniel Auteuil (il suo ex marito) e da Virginie Efira e Mathieu Amalric (la vittima e l’ambiguo compagno di lei).",
-    "title_en": "A Private Life",
-    "overview_en": "The renowned psychiatrist Lilian Steiner mounts a private investigation into the death of one of her patients, whom she is convinced has been murdered.",
-    "runtime": 103,
-    "director": "Rebecca Zlotowski",
-    "genres": [
-      "Dramma",
-      "Mistero",
-      "Crime"
-    ]
-  },
-  {
     "tmdb_id": 1266826,
     "title": "Spezie e bugie - La piccola cucina di Mehdi",
     "original_title": "La Petite Cuisine de Mehdi",
@@ -1184,23 +1455,6 @@
     "genres": [
       "Commedia",
       "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1280015,
-    "title": "Sunny Dancer",
-    "original_title": "Sunny Dancer",
-    "italian_title": "Sunny Dancer",
-    "year": 2026,
-    "poster_path": "/yXdQX7wQSG1TZlGfaSujxazPPtM.jpg",
-    "overview": "Dopo anni trascorsi a combattere battaglie più grandi di loro, Ivy e un gruppo di ragazzi decidono di recuperare il tempo perduto. Li aspetta un’estate di libertà, amicizia e scelte che non dimenticheranno mai. Un coming-of-age pieno di cuore, un inno alla giovinezza, all’amicizia e alla voglia di vivere ogni momento senza rimpianti.",
-    "title_en": "Sunny Dancer",
-    "overview_en": "Ivy is a teenager in remission from cancer, whose mum and dad insist she attend Children Run Free Camp, a summer retreat for young adults affected by cancer. However, as Ivy is reluctantly dragged through camp experience, she discovers new feelings with new friends.",
-    "runtime": 106,
-    "director": "George Jaques",
-    "genres": [
-      "Dramma",
-      "Commedia"
     ]
   },
   {
@@ -1272,25 +1526,6 @@
     ]
   },
   {
-    "tmdb_id": 1108427,
-    "title": "Oceania",
-    "original_title": "Moana",
-    "italian_title": "Oceania",
-    "year": 2026,
-    "poster_path": "/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
-    "overview": null,
-    "title_en": "Moana",
-    "overview_en": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-    "runtime": 115,
-    "director": "Thomas Kail",
-    "genres": [
-      "Famiglia",
-      "Fantasy",
-      "Commedia",
-      "Avventura"
-    ]
-  },
-  {
     "tmdb_id": 671,
     "title": "Harry Potter e la pietra filosofale",
     "original_title": "Harry Potter and the Philosopher's Stone",
@@ -1359,40 +1594,6 @@
     ]
   },
   {
-    "tmdb_id": 1204680,
-    "title": "Coyote vs. Acme",
-    "original_title": "Coyote vs. Acme",
-    "italian_title": "Coyote vs. Acme",
-    "year": 2026,
-    "poster_path": "/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
-    "overview": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
-    "title_en": "Coyote vs. Acme",
-    "overview_en": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-    "runtime": 98,
-    "director": "Dave Green",
-    "genres": [
-      "Commedia",
-      "Avventura",
-      "Famiglia"
-    ]
-  },
-  {
-    "tmdb_id": 1430077,
-    "title": "Hokum",
-    "original_title": "Hokum",
-    "italian_title": "Hokum",
-    "year": 2026,
-    "poster_path": "/x6rHcQFiYcczLQPrmxXPAicm54E.jpg",
-    "overview": "Quando lo scrittore Ohm Bauman si ritira in una locanda isolata per spargere le ceneri dei suoi genitori, viene ossessionato dai racconti di una strega che infesta la suite nuziale. Visioni inquietanti e una scioccante scomparsa lo costringono a confrontarsi con gli angoli oscuri del suo passato.",
-    "title_en": "Hokum",
-    "overview_en": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
-    "runtime": 108,
-    "director": "Damian McCarthy",
-    "genres": [
-      "Horror"
-    ]
-  },
-  {
     "tmdb_id": 1612018,
     "title": "Jackass: Best and Last",
     "original_title": "Jackass: Best and Last",
@@ -1411,123 +1612,21 @@
     ]
   },
   {
-    "tmdb_id": 1008042,
-    "title": "Talk to Me",
-    "original_title": "Talk to Me",
-    "italian_title": "Talk to Me",
-    "year": 2023,
-    "poster_path": "/xisotUBBDV4haNlpJsuPF0GggSd.jpg",
-    "overview": "Un gruppo di giovani amici scopre come evocare i demoni facendo uso di un'antica mano imbalsamata, finché uno di loro si spinge troppo oltre aprendo irrimediabilmente le porte al mondo degli spiriti. Perseguitato così da visioni soprannaturali, il gruppo si trova inconsapevolmente al centro di una possessione devastante che porterà a porsi una domanda importante: meglio fidarsi dei vivi o dei morti?",
-    "title_en": "Talk to Me",
-    "overview_en": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
-    "runtime": 95,
-    "director": "Danny Philippou, Michael Philippou",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 66664,
-    "title": "Terminator 2 - Shocking dark",
-    "original_title": "Terminator 2",
-    "italian_title": "Terminator 2 - Shocking dark",
-    "year": 1989,
-    "poster_path": "/qMbxRIUEDtiI2HDmD76zE2lTuQp.jpg",
-    "overview": "In un futuro imprecisato Venezia è una città fantasma contaminata dall'inquinamento, e devastata da un virus la cui origine è sconosciuta. Quando durante un ricognizione nel sottosuolo della città un gruppo di uomini viene attaccato da alcuni esseri umani mutati dal virus, si decide di mandare uno squadrone militare, la Megaforce, a ispezionare quanto succede nel profondità della città lagunare.",
-    "title_en": "Shocking Dark",
-    "overview_en": "In a polluted future Venice researchers work to improve the situation. One day, unknown forces start killing them. A team of soldiers and a couple of civilians is sent to investigate. Soon, they encounter strange murderous creatures.",
-    "runtime": 90,
-    "director": "Bruno Mattei",
-    "genres": [
-      "Azione",
-      "Fantascienza",
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 1119537,
-    "title": "Love Letters",
-    "original_title": "Des preuves d'amour",
-    "italian_title": "Love Letters",
-    "year": 2025,
-    "poster_path": "/lDsWm55KptwEIa0eQXfDcdDCsUn.jpg",
-    "overview": "Una giovane donna, Céline, aspetta il suo primo figlio. Ma non è lei quella incinta. Fra pochi mesi, sua moglie Nadia darà alla luce la loro bambina. Tra amici, famiglia e leggi, Céline cerca il proprio ruolo e la legittimità nel nuovo contesto familiare. Il film, tutto al femminile con Ella Rumpf e Monia Chokri, esplora le prospettive e le difficoltà delle famiglie moderne.",
-    "title_en": "Love Letters",
-    "overview_en": "Céline is expecting her firstborn. But she’s not the one who’s pregnant. In three months, her wife Nadia will give birth to their daughter. Under the gaze of her friends, her mother, and the law, Céline looks for her place and sense of legitimacy.",
-    "runtime": 97,
-    "director": "Alice Douard",
-    "genres": [
-      "Dramma",
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1278338,
-    "title": "Tre chilometri alla fine del mondo",
-    "original_title": "Trei kilometri până la capătul lumii",
-    "italian_title": "Tre chilometri alla fine del mondo",
-    "year": 2024,
-    "poster_path": "/txYLAHerdJVrxaNk9kRsbmhveF9.jpg",
-    "overview": "Ambientato nel delta del Danubio, il film racconta la storia di Adi, un adolescente la cui tranquilla estate viene sconvolta dopo un'aggressione omofoba, mettendo in luce il conflitto tra la sua identità e i rigidi valori tradizionali della famiglia e della comunità.",
-    "title_en": "Three Kilometres to the End of the World",
-    "overview_en": "Adi, a gay teenager, is spending the summer in his home village in the Danube Delta. One night he is brutally attacked on the street, the next day his world is turned upside-down. His parents no longer look at him as they did, and the seeming tranquility of the village starts to crack.",
-    "runtime": 105,
-    "director": "Emanuel Pârvu",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1555887,
-    "title": "Tienimi presente",
-    "original_title": "Tienimi presente",
-    "italian_title": "Tienimi presente",
+    "tmdb_id": 950028,
+    "title": "The Invite - Il piacere è tutto nostro",
+    "original_title": "The Invite",
+    "italian_title": "The Invite - Il piacere è tutto nostro",
     "year": 2026,
-    "poster_path": "/i2Jh0vxBtwNmGumwicojwAJz8Qm.jpg",
-    "overview": "Alberto, giovane regista disilluso, è convinto che il cinema non abbia più nulla da offrirgli. Ma è proprio rinunciando al suo sogno che ne scopre il senso più profondo. Dopo anni vissuti a Roma nella speranza di fare un film – tra progetti incerti e produttori perennemente in fuga – Alberto, ormai vicino ai trent’anni, decide di fare marcia indietro e tornare nella sua città natale. La vita da aspirante artista si è rivelata più solitaria del previsto, e la provincia, con i suoi ritmi lenti e volti familiari, sembra offrirgli un rifugio inaspettato. Tra vecchi amici, nuove conoscenze e qualche momento di pace, Alberto ritrova una tranquillità che aveva perduto. Ma basta poco perché riaffiorino i dubbi, i desideri messi da parte e quella domanda che non smette mai di tormentarlo: cosa fare davvero della propria vita? Il bivio è chiaro: restare, ricominciare o trasformare questo frammento di vita in racconto",
-    "title_en": "Tienimi presente",
-    "overview_en": "Alberto, a disillusioned young director, is convinced that cinema has nothing left to offer him. But it is precisely by giving up on his dream that he discovers its deeper meaning.",
-    "runtime": 80,
-    "director": "Alberto Palmiero",
+    "poster_path": "/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
+    "overview": "Il matrimonio di Joe e Angela è ormai logorato dalla routine, ma quando invitano a cena i loro enigmatici vicini di casa, una coppia affascinante e spregiudicata, la serata – e la loro relazione – prenderà una piega inaspettata.",
+    "title_en": "The Invite",
+    "overview_en": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+    "runtime": 107,
+    "director": "Olivia Wilde",
     "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 42853,
-    "title": "Odissea",
-    "original_title": "Odissea",
-    "italian_title": "Odissea",
-    "year": 1968,
-    "poster_path": "/orlKW4piaeA5UMTMqrQsQuOKl5w.jpg",
-    "overview": "Odissea è una miniserie televisiva co-prodotta da svariati Paesi nel 1968, basata sull'omonimo poema di Omero. Ne è stata distribuita una versione ridotta cinematografica dal titolo Le avventure di Ulisse.",
-    "title_en": "Odissea",
-    "overview_en": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
-    "runtime": 110,
-    "director": "Piero Schivazappa, Franco Rossi, Mario Bava",
-    "genres": [
-      "televisione film",
-      "Avventura",
-      "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 643,
-    "title": "La corazzata Potëmkin",
-    "original_title": "Броненосец Потёмкин",
-    "italian_title": "La corazzata Potëmkin",
-    "year": 1925,
-    "poster_path": "/7Gd1FOmFD3fyY3bCUt7GwQTwcza.jpg",
-    "overview": "Odessa, 1905: a bordo della Potëmkin, un'unità da guerra della flotta zarista, le condizioni dell'equipaggio sono intollerabili. Iniziano così a serpeggiare fermenti di rivolta: davanti all'ennesimo sopruso, la situazione esplode, scatenando un sanguinoso ammutinamento. La gente di Odessa dimostra la propria solidarietà con la sollevazione e affolla la scalinata del porto, ma viene brutalmente massacrata da un reparto di cosacchi...",
-    "title_en": "Battleship Potemkin",
-    "overview_en": "A dramatized account of a great Russian naval mutiny and a resultant public demonstration, showing support, which brought on a police massacre.",
-    "runtime": 72,
-    "director": "Сергей Эйзенштейн",
-    "genres": [
+      "Commedia",
       "Dramma",
-      "Storia",
-      "Guerra"
+      "Romance"
     ]
   }
 ]

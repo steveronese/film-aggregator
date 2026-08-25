@@ -391,6 +391,10 @@
     "title": "Manas (Sorelle)",
     "year": null
   },
+  "::extract::v.o.sott.ita la vendetta perfetta": {
+    "title": "La vendetta perfetta",
+    "year": null
+  },
   "::extract::vivere, ridere, rallentare": {
     "title": "Vivere, Ridere, Rallentare",
     "year": null
@@ -519,6 +523,10 @@
     "confidence": 100,
     "tmdb_id": 1303613
   },
+  "itaca il ritorno the return": {
+    "confidence": 100,
+    "tmdb_id": 975511
+  },
   "joint security area": {
     "confidence": 100,
     "tmdb_id": 2440
@@ -578,6 +586,10 @@
   "la torta del presidente the president s cake": {
     "confidence": 100,
     "tmdb_id": 1464883
+  },
+  "la vendetta perfetta": {
+    "confidence": null,
+    "tmdb_id": null
   },
   "la villa portoghese una quinta portuguesa": {
     "confidence": 100,
@@ -653,6 +665,10 @@
   },
   "rufus il draghetto marino": {
     "confidence": 95,
+    "tmdb_id": 1512207
+  },
+  "rufus il draghetto marino che non sapeva nuotare cinecircolino": {
+    "confidence": 100,
     "tmdb_id": 1512207
   },
   "scalfire la roccia": {
