@@ -1,19 +1,5 @@
 [
   {
-    "raw_title": "THE ODYSSEY - ODISSEA",
-    "tmdb_id": 42853,
-    "matched_title": "Odissea",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
-    "raw_title": "Rufus - Il Draghetto Marino Che Non Sapeva Nuotare #cinecircolino",
-    "tmdb_id": 1512207,
-    "matched_title": "Rufus - Il draghetto marino che non sapeva nuotare",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "TIME",
     "tmdb_id": 429200,
     "matched_title": "Good Time",
@@ -38,13 +24,6 @@
     "raw_title": "COUTURE (COUTURES)",
     "tmdb_id": 1390382,
     "matched_title": "Coutures",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
-    "raw_title": "COS'E' L'AMORE (C'EST QUOI L'AMOUR)",
-    "tmdb_id": 1369286,
-    "matched_title": "Cos'è l'amore?",
     "method": "ai",
     "confidence": 95.0
   },
@@ -133,6 +112,20 @@
     "confidence": 90.625
   },
   {
+    "raw_title": "Terminator 2 - 35esimo Anniversario",
+    "tmdb_id": 66664,
+    "matched_title": "Terminator 2 - Shocking dark",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "(O.V.) The Dog Stars - Le Stelle Dopo",
+    "tmdb_id": 1384216,
+    "matched_title": "The Dog Stars - Le stelle dopo la fine",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "(O.V.) Harry Potter And The Sorcerer -25",
     "tmdb_id": 671,
     "matched_title": "Harry Potter e la pietra filosofale",
@@ -154,18 +147,18 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "(O.V.) The Dog Stars - Le Stelle Dopo",
-    "tmdb_id": 1384216,
-    "matched_title": "The Dog Stars - Le stelle dopo la fine",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "(O.V.) The Odissey",
     "tmdb_id": 1368337,
     "matched_title": "Odissea",
     "method": "fuzzy",
     "confidence": 90.9090909090909
+  },
+  {
+    "raw_title": "Ferrari 250 Gto - L'Auto Di Mauro",
+    "tmdb_id": 1359883,
+    "matched_title": "Ferrari 250 GTO - L'auto di Mauro Forghieri che salvò Maranello",
+    "method": "ai",
+    "confidence": 95.0
   },
   {
     "raw_title": "Harry Potter E La Pietra Filosofale - 25",
@@ -187,5 +180,33 @@
     "matched_title": "One Night Only - Quando tutto è possibile",
     "method": "ai",
     "confidence": 95.0
+  },
+  {
+    "raw_title": "Spider-Man: Brand New D. Autism Friendly",
+    "tmdb_id": 969681,
+    "matched_title": "Spider-Man: Brand New Day",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "The Dog Stars - Le Stelle Dopo Isens",
+    "tmdb_id": 1384216,
+    "matched_title": "The Dog Stars - Le stelle dopo la fine",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "(Lingua Orig.) Ghost: 2 Big To Rig",
+    "tmdb_id": 1693400,
+    "matched_title": "2 Big to Rig",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "(Lingua Orig.) The Dog Stars",
+    "tmdb_id": 1384216,
+    "matched_title": "The Dog Stars - Le stelle dopo la fine",
+    "method": "ai",
+    "confidence": 100.0
   }
 ]

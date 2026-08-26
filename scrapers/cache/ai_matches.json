@@ -11,6 +11,14 @@
     "title": "",
     "year": null
   },
+  "::extract::(lingua orig.) ghost: 2 big to rig": {
+    "title": "Ghost: 2 Big To Rig",
+    "year": null
+  },
+  "::extract::(lingua orig.) the dog stars": {
+    "title": "The Dog Stars",
+    "year": null
+  },
   "::extract::(o.v.) backrooms -everything must go ed.": {
     "title": "(O.V.) Backrooms -Everything Must Go",
     "year": null
@@ -125,6 +133,10 @@
   },
   "::extract::elettro-muto vibes": {
     "title": "ELETTRO-MUTO VIBES",
+    "year": null
+  },
+  "::extract::frammenti di sapienza": {
+    "title": "Frammenti di sapienza",
     "year": null
   },
   "::extract::fuze - conto alla rovescia": {
@@ -279,12 +291,28 @@
     "title": "",
     "year": null
   },
+  "::extract::spider-man: brand new d. autism friendly": {
+    "title": "Spider-Man: Brand New Day",
+    "year": null
+  },
+  "::extract::terminator 2 - 35esimo anniversario": {
+    "title": "Terminator 2",
+    "year": 1991
+  },
+  "::extract::the dog stars - le stelle dopo isens": {
+    "title": "The Dog Stars - Le Stelle Dopo",
+    "year": null
+  },
   "::extract::the odissey (o.v.) - con talk": {
     "title": "",
     "year": null
   },
   "::extract::tipi diabolici - masterclass di adolfo ceretti": {
     "title": "",
+    "year": null
+  },
+  "::extract::toxic: a fairy tale for grown - ups": {
+    "title": "Toxic: A Fairy Tale For Grown - Ups",
     "year": null
   },
   "::extract::toy story 5 #cinecircolino": {
@@ -470,6 +498,10 @@
   "e i figli dopo di loro leurs enfants apres eux": {
     "confidence": 100,
     "tmdb_id": 1103678
+  },
+  "ferrari 250 gto l auto di mauro": {
+    "confidence": 95,
+    "tmdb_id": 1359883
   },
   "ghost 2 big to rig": {
     "confidence": 95,
@@ -730,6 +762,10 @@
   "tofu in japan la ricetta segreta del signor takano takano tofu": {
     "confidence": 100,
     "tmdb_id": 1167490
+  },
+  "toxic a fairy tale for grown ups": {
+    "confidence": null,
+    "tmdb_id": null
   },
   "tra amore e inganni you me tuscany": {
     "confidence": 100,
