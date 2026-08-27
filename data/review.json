@@ -14,13 +14,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "V.O. SOTT. ITA - OCEANIA (MOANA)",
-    "tmdb_id": 277834,
-    "matched_title": "Oceania",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "COUTURE (COUTURES)",
     "tmdb_id": 1390382,
     "matched_title": "Coutures",
@@ -28,16 +21,16 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "V.O. SOTT.ITA - L'AMICO AMERICANO (Der amerikanische Freund)",
-    "tmdb_id": 11222,
-    "matched_title": "L'amico americano",
+    "raw_title": "V.O. SOTT.ITA - ALICE NELLE CITTÀ (ALICE IN DEN STADTEN)",
+    "tmdb_id": 2204,
+    "matched_title": "Alice nelle città",
     "method": "ai",
     "confidence": 100.0
   },
   {
-    "raw_title": "V.O. SOTT.ITA - ALICE NELLE CITTÀ (ALICE IN DEN STADTEN)",
-    "tmdb_id": 2204,
-    "matched_title": "Alice nelle città",
+    "raw_title": "V.O. SOTT. ITA - OCEANIA (MOANA)",
+    "tmdb_id": 277834,
+    "matched_title": "Oceania",
     "method": "ai",
     "confidence": 100.0
   },
@@ -54,13 +47,6 @@
     "matched_title": "Terapia di famiglia",
     "method": "ai",
     "confidence": 100.0
-  },
-  {
-    "raw_title": "V.O.SOTT.ITA CAMP MIASMA",
-    "tmdb_id": 1240889,
-    "matched_title": "Camp Miasma - Adolescenza, sesso e morte",
-    "method": "ai",
-    "confidence": 95.0
   },
   {
     "raw_title": "OASIS: DON'T LOOK BACK IN ANGER",
@@ -91,13 +77,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "SPEZIE BUGIE (LA PETITE CUISINE DE MEHDI)",
-    "tmdb_id": 1266826,
-    "matched_title": "Spezie e bugie - La piccola cucina di Mehdi",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "(O.V.) Ghost: 2 Big To Rig",
     "tmdb_id": 1693400,
     "matched_title": "2 Big to Rig",
@@ -110,6 +89,13 @@
     "matched_title": "Katy Perry: The Lifetimes Tour - Live from Paris",
     "method": "fuzzy",
     "confidence": 90.625
+  },
+  {
+    "raw_title": "Queen Budapest",
+    "tmdb_id": 142773,
+    "matched_title": "Hungarian Rhapsody: Queen Live in Budapest '86",
+    "method": "ai",
+    "confidence": 95.0
   },
   {
     "raw_title": "Terminator 2 - 35esimo Anniversario",
@@ -168,30 +154,9 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "Oceania (2026) Sing Along",
-    "tmdb_id": 1108427,
-    "matched_title": "Oceania",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "One Night Only - Quando Tutto",
     "tmdb_id": 1433367,
     "matched_title": "One Night Only - Quando tutto è possibile",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
-    "raw_title": "Spider-Man: Brand New D. Autism Friendly",
-    "tmdb_id": 969681,
-    "matched_title": "Spider-Man: Brand New Day",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "The Dog Stars - Le Stelle Dopo Isens",
-    "tmdb_id": 1384216,
-    "matched_title": "The Dog Stars - Le stelle dopo la fine",
     "method": "ai",
     "confidence": 95.0
   },
