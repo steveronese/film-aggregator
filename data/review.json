@@ -1,5 +1,19 @@
 [
   {
+    "raw_title": "Rufus - Il Draghetto Marino Che Non Sapeva Nuotare #cinecircolino",
+    "tmdb_id": 1512207,
+    "matched_title": "Rufus - Il draghetto marino che non sapeva nuotare",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "THE ODYSSEY - ODISSEA",
+    "tmdb_id": 42853,
+    "matched_title": "Odissea",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
     "raw_title": "TIME",
     "tmdb_id": 429200,
     "matched_title": "Good Time",
@@ -63,6 +77,13 @@
     "confidence": 100.0
   },
   {
+    "raw_title": "THE DOORS – THE FINAL CUT",
+    "tmdb_id": 10537,
+    "matched_title": "The Doors",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "IL DIAVOLO VESTE PRADA 2 (THE DEVIL WEARS PRADA 2)",
     "tmdb_id": 1314481,
     "matched_title": "Il diavolo veste Prada 2",
@@ -73,6 +94,13 @@
     "raw_title": "TOFU IN JAPAN - LA RICETTA SEGRETA DEL SIGNOR TAKANO (TAKANO TOFU)",
     "tmdb_id": 1167490,
     "matched_title": "Tofu in Japan. La ricetta segreta del Signor Takano",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "AMORI & INCANTESIMI 2 (PRACTICAL MAGIC 2)",
+    "tmdb_id": 1302904,
+    "matched_title": "Amori & incantesimi 2",
     "method": "ai",
     "confidence": 100.0
   },

@@ -1,2945 +1,5 @@
 [
   {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-27T16:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-27T16:50:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": 1240889,
-    "raw_title": "CAMP MIASMA: ADOLESCENZA, SESSO E MORTE",
-    "start": "2026-08-27T17:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/103305",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-mic",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-27T17:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/105219",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 969681,
-    "raw_title": "Atmos - Spider-Man: Brand New Day",
-    "start": "2026-08-27T17:10:00",
-    "hall": "SALA 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-27T17:10:00",
-    "hall": "sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-27T17:10:00",
-    "hall": "sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1329016,
-    "raw_title": "Tony - Diario Di Un Giovane Cuoco",
-    "start": "2026-08-27T17:10:00",
-    "hall": "SALA TRUFFAUT",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-27T17:10:00",
-    "hall": "VERDE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 671,
-    "raw_title": "Harry Potter E La Pietra Filosofale - 25",
-    "start": "2026-08-27T17:10:00",
-    "hall": "11",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-27T17:15:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1108427,
-    "raw_title": "OCEANIA",
-    "start": "2026-08-27T17:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-27T17:20:00",
-    "hall": "SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1291595,
-    "raw_title": "INSIDIOUS - FUORI DALL'ALTROVE",
-    "start": "2026-08-27T17:20:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1433367,
-    "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
-    "start": "2026-08-27T17:20:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1279493,
-    "raw_title": "La Vendetta Perfetta - Bear Country",
-    "start": "2026-08-27T17:20:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 830484,
-    "raw_title": "COUTURE",
-    "start": "2026-08-27T17:25:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-27T17:30:00",
-    "hall": "SALA 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1433367,
-    "raw_title": "One Night Only-Quando Tutto E' Possibile",
-    "start": "2026-08-27T17:30:00",
-    "hall": "SALA SUNDANCE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-27T17:30:00",
-    "hall": "5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-27T17:35:00",
-    "hall": "SALA VENEZIA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1291595,
-    "raw_title": "Insidious: Fuori Dall'Altrove",
-    "start": "2026-08-27T17:40:00",
-    "hall": "SALA 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1433367,
-    "raw_title": "One Night Only-Quando Tutto E' Possibile",
-    "start": "2026-08-27T17:40:00",
-    "hall": "SALA 7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 671,
-    "raw_title": "HARRY POTTER E LA PIETRA FILOSOFALE",
-    "start": "2026-08-27T17:45:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-27T17:50:00",
-    "hall": "SALA BERLINO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-27T17:50:00",
-    "hall": "SALA SCORSESE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1279493,
-    "raw_title": "LA VENDETTA PERFETTA - BEAR COUNTRY",
-    "start": "2026-08-27T17:50:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-27T17:50:00",
-    "hall": "Sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-27T17:50:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1240889,
-    "raw_title": "Camp Miasma: Adolescenza, Sesso e Morte",
-    "start": "2026-08-27T18:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/camp-miasma/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-27T18:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/97497",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "mexico",
-    "tmdb_id": 1167466,
-    "raw_title": "MALDOROR",
-    "start": "2026-08-27T18:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
-    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-27T18:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-27T18:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-27T18:10:00",
-    "hall": "ROSSA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-27T18:10:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1329016,
-    "raw_title": "TONY - DIARIO DI UN GIOVANE CUOCO",
-    "start": "2026-08-27T18:15:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/104429",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1279493,
-    "raw_title": "La Vendetta Perfetta - Bear Country",
-    "start": "2026-08-27T18:20:00",
-    "hall": "SALA 8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-27T18:20:00",
-    "hall": "Zenit",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/99741/5a532c1e-0d80-4143-9315-17139c84a3b4#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-27T18:30:00",
-    "hall": "GARBO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-27T18:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 671,
-    "raw_title": "(O.V.) Harry Potter And The Sorcerer -25",
-    "start": "2026-08-27T18:30:00",
-    "hall": "14",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-27T18:35:00",
-    "hall": "BLU",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 969681,
-    "raw_title": "V.O.SOTT.ITA. - SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-27T19:00:00",
-    "hall": "Abadan",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/99675/35e20cde-e418-48a3-8cb0-30973c576885#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-27T19:00:00",
-    "hall": "Sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "cinemino",
-    "tmdb_id": 1390382,
-    "raw_title": "COUTURE (COUTURES)",
-    "start": "2026-08-27T19:00:00",
-    "hall": "Sala  cinema revolution",
-    "language": "unknown",
-    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
-    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": 11104,
-    "raw_title": "HONG KONG EXPRESS",
-    "start": "2026-08-27T19:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": " https://arlecchino.cinetecadimilano.18tickets.it/film/23532",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-27T19:00:00",
-    "hall": "sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-27T19:00:00",
-    "hall": "MARILYN",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1693400,
-    "raw_title": "(O.V.) Ghost: 2 Big To Rig",
-    "start": "2026-08-27T19:00:00",
-    "hall": "18",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1329016,
-    "raw_title": "Tony - Diario Di Un Giovane Cuoco",
-    "start": "2026-08-27T19:00:00",
-    "hall": "13",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1553969,
-    "raw_title": "Sheep In The Box",
-    "start": "2026-08-27T19:10:00",
-    "hall": "SALA KUBRICK",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1433367,
-    "raw_title": "One Night Only - Quando Tutto",
-    "start": "2026-08-27T19:10:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1553969,
-    "raw_title": "Sheep In The Box",
-    "start": "2026-08-27T19:15:00",
-    "hall": "Sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1108427,
-    "raw_title": "OCEANIA",
-    "start": "2026-08-27T19:15:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104726/7c768ea8-de1a-49b0-ac99-7e418d3fcf7b#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-27T19:15:00",
-    "hall": "SALA LOCARNO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1101383,
-    "raw_title": "La Fine Di Oak Street",
-    "start": "2026-08-27T19:15:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 989474,
-    "raw_title": "BORGO",
-    "start": "2026-08-27T19:20:00",
-    "hall": "De amicis PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/101589/9aa6020c-b18b-429f-86c7-0c7a7be7d456#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1693400,
-    "raw_title": "(O.V.) Ghost: 2 Big To Rig",
-    "start": "2026-08-27T19:20:00",
-    "hall": "Sala 1",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-27T19:20:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/ab770d78-de42-443c-b365-996706116d65#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1433367,
-    "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
-    "start": "2026-08-27T19:20:00",
-    "hall": "Mignon",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/46559d7c-0b87-4c5a-b8b2-71d134a94002#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1279493,
-    "raw_title": "La Vendetta Perfetta - Bear Country",
-    "start": "2026-08-27T19:20:00",
-    "hall": "SALA TORONTO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-27T19:20:00",
-    "hall": "SALA CANNES",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1693400,
-    "raw_title": "(O.V.) Ghost: 2 Big To Rig",
-    "start": "2026-08-27T19:20:00",
-    "hall": "sala 2",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-27T19:20:00",
-    "hall": "sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1329016,
-    "raw_title": "Tony - Diario Di Un Giovane Cuoco",
-    "start": "2026-08-27T19:20:00",
-    "hall": "SALA TRUFFAUT",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026) Live Action",
-    "start": "2026-08-27T19:20:00",
-    "hall": "Sala 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1108427,
-    "raw_title": "(Sala XL) Oceania (2026)",
-    "start": "2026-08-27T19:20:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1553969,
-    "raw_title": "SHEEP IN THE BOX",
-    "start": "2026-08-27T19:25:00",
-    "hall": "Rubino",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104923/73a2e2e1-02ad-4ba0-8037-8ab2c85b65b0#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 830484,
-    "raw_title": "Couture",
-    "start": "2026-08-27T19:25:00",
-    "hall": "SALA OLMI",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-27T19:25:00",
-    "hall": "VERDE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1715722,
-    "raw_title": "V.O. SOTT. ITA - IL CILENO",
-    "start": "2026-08-27T19:30:00",
-    "hall": "Obraz PROMO 3,50",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104992/2457a5f1-2ba8-4575-ae54-384f7c291e07#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1464883,
-    "raw_title": "V. O. SOTT ITA LA TORTA DEL PRESIDENTE",
-    "start": "2026-08-27T19:30:00",
-    "hall": "Abanella RIVEDIAMOLI ANTEO",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/105087/54ac41c9-d88c-4cb5-82cb-a62c6d158a31#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arianteo-villareale",
-    "tmdb_id": null,
-    "raw_title": "CONCERTO: Once upon a cello… Il magico mondo Disney e Pixar",
-    "start": "2026-08-27T19:30:00",
-    "hall": "Arianteo Villa Reale",
-    "language": "unknown",
-    "booking_url": "https://villareale.spaziocinema.18tickets.it/film/95517/d8b67361-fe58-40fc-ab85-fef42c396e55#theater-init",
-    "source_url": "https://villareale.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "ariosto",
-    "tmdb_id": 1715722,
-    "raw_title": "V.O. SOTT. ITA - IL CILENO",
-    "start": "2026-08-27T19:30:00",
-    "hall": "1 PROMO 3,50",
-    "language": "original_subbed",
-    "booking_url": "https://ariosto.spaziocinema.18tickets.it/film/104992/5a7fd5c9-82d6-4662-9d4c-2c61d059a035#theater-init",
-    "source_url": "https://ariosto.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1433367,
-    "raw_title": "One Night Only-Quando Tutto E' Possibile",
-    "start": "2026-08-27T19:30:00",
-    "hall": "SALA SUNDANCE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1731347,
-    "raw_title": "Marco Bellocchio-La Porta Della Realta'",
-    "start": "2026-08-27T19:30:00",
-    "hall": "SALA WENDERS",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-27T19:30:00",
-    "hall": "3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 830484,
-    "raw_title": "Couture",
-    "start": "2026-08-27T19:35:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1329016,
-    "raw_title": "V.O. SOTT. ITA - TONY - DIARIO DI UN GIOVANE CUOCO",
-    "start": "2026-08-27T19:40:00",
-    "hall": "President",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104995/ba1f5727-326a-441e-9d60-0ba8e9462153#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 830484,
-    "raw_title": "COUTURE",
-    "start": "2026-08-27T19:40:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-27T19:40:00",
-    "hall": "8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-27T19:45:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": null,
-    "raw_title": "V.O.SOTT.ITA LA VENDETTA PERFETTA",
-    "start": "2026-08-27T19:50:00",
-    "hall": "Corallo",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104993/8e29e3f5-4b48-45f2-bfc9-5106481c8f83#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-27T19:50:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1108427,
-    "raw_title": "OCEANIA",
-    "start": "2026-08-27T19:50:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1291595,
-    "raw_title": "INSIDIOUS - FUORI DALL'ALTROVE",
-    "start": "2026-08-27T19:50:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-27T19:50:00",
-    "hall": "15",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "V.O.SOTT.ITA THE DOG STARS",
-    "start": "2026-08-27T20:00:00",
-    "hall": "Astoria",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104889/5a056b4f-241b-4cec-a159-de9d5f1c7e6f#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-27T20:00:00",
-    "hall": "Nobel RISTOCINEMA",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/98454/5babea12-91d3-443d-ad46-d267442f2519#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 671,
-    "raw_title": "Harry Potter E La Pietra Filosofale - 25",
-    "start": "2026-08-27T20:00:00",
-    "hall": "SALA 5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-27T20:00:00",
-    "hall": "SALA 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-27T20:00:00",
-    "hall": "SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cineteca-mic",
-    "tmdb_id": 1092,
-    "raw_title": "IL TERZO UOMO",
-    "start": "2026-08-27T20:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/14089",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1101383,
-    "raw_title": "LA FINE DI OAK STREET",
-    "start": "2026-08-27T20:00:00",
-    "hall": "Aurora",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/101820/dc164721-f31e-447c-bd8f-dfefb4bd39a8#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-27T20:00:00",
-    "hall": "SALA VENEZIA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1433367,
-    "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
-    "start": "2026-08-27T20:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1119537,
-    "raw_title": "LOVE LETTERS",
-    "start": "2026-08-27T20:10:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/love-letters/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-27T20:10:00",
-    "hall": "10",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 969681,
-    "raw_title": "Atmos - Spider-Man: Brand New Day",
-    "start": "2026-08-27T20:15:00",
-    "hall": "SALA 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1433367,
-    "raw_title": "One Night Only-Quando Tutto E' Possibile",
-    "start": "2026-08-27T20:15:00",
-    "hall": "SALA 7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1279493,
-    "raw_title": "LA VENDETTA PERFETTA - BEAR COUNTRY",
-    "start": "2026-08-27T20:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1291595,
-    "raw_title": "Insidious: Fuori Dall'Altrove",
-    "start": "2026-08-27T20:20:00",
-    "hall": "SALA 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1291595,
-    "raw_title": "Insidious: Fuori Dall'Altrove",
-    "start": "2026-08-27T20:20:00",
-    "hall": "5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "arianteo-villareale",
-    "tmdb_id": 1084244,
-    "raw_title": "TOY STORY 5",
-    "start": "2026-08-27T20:30:00",
-    "hall": "Arianteo Villa Reale ARIANTEO MONZA",
-    "language": "unknown",
-    "booking_url": "https://villareale.spaziocinema.18tickets.it/film/87267/1c68d987-daf4-4392-a77d-0668ee3d5d34#theater-init",
-    "source_url": "https://villareale.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1279493,
-    "raw_title": "La Vendetta Perfetta - Bear Country",
-    "start": "2026-08-27T20:30:00",
-    "hall": "SALA 8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-27T20:30:00",
-    "hall": "SALA 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 671,
-    "raw_title": "Harry Potter E La Pietra Filosofale - 25",
-    "start": "2026-08-27T20:30:00",
-    "hall": "11",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-27T20:40:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-27T21:00:00",
-    "hall": "Sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arianteo-fabbricadelvapore",
-    "tmdb_id": 1130402,
-    "raw_title": "TERAPIA DI FAMIGLIA (JAMAIS SANS MON PSY)",
-    "start": "2026-08-27T21:00:00",
-    "hall": "arena PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/film/96542/e39518f6-94da-41c9-b997-e6a05a3c4383#theater-init",
-    "source_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arianteo-incoronata",
-    "tmdb_id": 1553969,
-    "raw_title": "SHEEP IN THE BOX",
-    "start": "2026-08-27T21:00:00",
-    "hall": "Sala 2",
-    "language": "unknown",
-    "booking_url": "https://incoronata.spaziocinema.18tickets.it/film/102447/af00a69e-b238-4be8-9317-9c5756763bc3#theater-init",
-    "source_url": "https://incoronata.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arianteo-incoronata",
-    "tmdb_id": 1329016,
-    "raw_title": "TONY – DIARIO DI UN GIOVANE CUOCO",
-    "start": "2026-08-27T21:00:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://incoronata.spaziocinema.18tickets.it/film/102613/ebd9fa5c-ffef-402b-bd3c-81f0ff24ec4e#theater-init",
-    "source_url": "https://incoronata.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cinemino",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA - V. O.",
-    "start": "2026-08-27T21:00:00",
-    "hall": "Sala",
-    "language": "original_subbed",
-    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
-    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": 1280,
-    "raw_title": "FERRO 3 - LA CASA VUOTA",
-    "start": "2026-08-27T21:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/98653",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-27T21:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/97497",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-mic",
-    "tmdb_id": 13763,
-    "raw_title": "PURPLE RAIN",
-    "start": "2026-08-27T21:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/100831",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1368337,
-    "raw_title": "(O.V.) Odissea",
-    "start": "2026-08-27T21:00:00",
-    "hall": "SALA BERLINO",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-27T21:00:00",
-    "hall": "sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1368337,
-    "raw_title": "(O.V.) Odissea",
-    "start": "2026-08-27T21:00:00",
-    "hall": "SALA SCORSESE",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1167466,
-    "raw_title": "Maldoror",
-    "start": "2026-08-27T21:00:00",
-    "hall": "SALA WENDERS",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "mexico",
-    "tmdb_id": 1553969,
-    "raw_title": "SHEEP IN THE BOX",
-    "start": "2026-08-27T21:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
-    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 671,
-    "raw_title": "HARRY POTTER E LA PIETRA FILOSOFALE",
-    "start": "2026-08-27T21:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-27T21:00:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1368337,
-    "raw_title": "V.O. SOTT.ITA THE ODYSSEY",
-    "start": "2026-08-27T21:15:00",
-    "hall": "Astra",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/90930/9fbb8cc3-1ae2-48d8-a4cb-6346ad2f7589#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1553969,
-    "raw_title": "SHEEP IN THE BOX",
-    "start": "2026-08-27T21:15:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/104428",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-27T21:20:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-27T21:25:00",
-    "hall": "13",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1553969,
-    "raw_title": "Sheep In The Box",
-    "start": "2026-08-27T21:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-27T21:30:00",
-    "hall": "Sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-27T21:30:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/97233/313dd89c-01d0-4c70-a78c-bd6f19739aa1#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1433367,
-    "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
-    "start": "2026-08-27T21:30:00",
-    "hall": "Mignon",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104790/8a34e59d-240e-4378-8d3d-e0505451a0cd#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 277834,
-    "raw_title": "OCEANIA (MOANA)",
-    "start": "2026-08-27T21:30:00",
-    "hall": "Ariston",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103503/b4fef5f4-8343-4568-be4d-7569d6bd2ebb#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 969681,
-    "raw_title": "(O.V.) Spider-Man: Brand New Day",
-    "start": "2026-08-27T21:30:00",
-    "hall": "SALA SUNDANCE",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-27T21:30:00",
-    "hall": "sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-27T21:30:00",
-    "hall": "sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 830484,
-    "raw_title": "Couture",
-    "start": "2026-08-27T21:30:00",
-    "hall": "SALA OLMI",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1553969,
-    "raw_title": "Sheep In The Box",
-    "start": "2026-08-27T21:30:00",
-    "hall": "SALA TRUFFAUT",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1329016,
-    "raw_title": "Tony - Diario Di Un Giovane Cuoco",
-    "start": "2026-08-27T21:30:00",
-    "hall": "SALA KUBRICK",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-27T21:30:00",
-    "hall": "MARILYN",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-27T21:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-27T21:30:00",
-    "hall": "ROSSA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-27T21:30:00",
-    "hall": "BLU",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026) Live Action",
-    "start": "2026-08-27T21:30:00",
-    "hall": "Sala 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-27T21:30:00",
-    "hall": "Sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-27T21:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-27T21:35:00",
-    "hall": "VERDE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 671,
-    "raw_title": "Harry Potter E La Pietra Filosofale - 25",
-    "start": "2026-08-27T21:35:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 969681,
-    "raw_title": "V.O.SOTT.ITA. - SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-27T21:40:00",
-    "hall": "Abanella",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/99675/cd64fdb4-cc3e-46b3-888c-c2ede2d37cff#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1167466,
-    "raw_title": "MALDOROR",
-    "start": "2026-08-27T21:40:00",
-    "hall": "De amicis PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/103470/066b2276-1143-4c2e-a482-cc8e1251e1bc#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "ariosto",
-    "tmdb_id": 1164862,
-    "raw_title": "AGENT OF HAPPINESS-IL BHUTAN E LA FELICITA'",
-    "start": "2026-08-27T21:40:00",
-    "hall": "1 PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://ariosto.spaziocinema.18tickets.it/film/98619/dab1ec8e-6159-4fc6-9c0f-9c006a4fc087#theater-init",
-    "source_url": "https://ariosto.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1384216,
-    "raw_title": "(O.V.) The Dog Stars - Le Stelle Dopo",
-    "start": "2026-08-27T21:40:00",
-    "hall": "SALA CANNES",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-27T21:40:00",
-    "hall": "14",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1715722,
-    "raw_title": "V.O. SOTT. ITA - IL CILENO",
-    "start": "2026-08-27T21:45:00",
-    "hall": "Obraz PROMO 3,50",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104992/7da6a6d1-0b59-4ba7-ba06-81547a2a9498#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1329016,
-    "raw_title": "TONY – DIARIO DI UN GIOVANE CUOCO",
-    "start": "2026-08-27T21:45:00",
-    "hall": "President",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104955/e46e055e-e39a-4a77-a8f3-93d643b70a6b#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1390382,
-    "raw_title": "COUTURE (COUTURES)",
-    "start": "2026-08-27T21:45:00",
-    "hall": "Abadan PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104032/91d7f0ca-8aff-4acf-8525-1245ca7c15c2#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "V.O.SOTT.ITA THE DOG STARS",
-    "start": "2026-08-27T21:45:00",
-    "hall": "Capitol",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104889/c0ebdce4-2f51-4b40-b4cd-0d19c318452a#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-27T21:45:00",
-    "hall": "GARBO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1553969,
-    "raw_title": "V.O. SOTT. ITA - SHEEP IN THE BOX",
-    "start": "2026-08-27T21:50:00",
-    "hall": "Rubino",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104988/b54ca66e-d198-40b4-b7c4-65a7e5f9f66c#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1279493,
-    "raw_title": "LA VENDETTA PERFETTA - BEAR COUNTRY",
-    "start": "2026-08-27T21:50:00",
-    "hall": "Corallo",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103866/4dea40d9-10c1-42d1-8b72-b4a53ffe2a6e#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1433367,
-    "raw_title": "One Night Only - Quando Tutto",
-    "start": "2026-08-27T21:50:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-27T22:00:00",
-    "hall": "Astoria",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/103701/3192be7b-079e-42e8-8845-66f0060367fd#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1339713,
-    "raw_title": "OBSESSION",
-    "start": "2026-08-27T22:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/obsession/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1240889,
-    "raw_title": "CAMP MIASMA: ADOLESCENZA , SESSO E MORTE",
-    "start": "2026-08-27T22:00:00",
-    "hall": "Aurora",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103635/daf9d916-492f-4fc8-8fe7-34dc23cac495#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1101383,
-    "raw_title": "LA FINE DI OAK STREET",
-    "start": "2026-08-27T22:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-27T22:00:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-27T22:00:00",
-    "hall": "18",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1108427,
-    "raw_title": "(Sala XL) Oceania (2026)",
-    "start": "2026-08-27T22:10:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1108427,
-    "raw_title": "OCEANIA",
-    "start": "2026-08-27T22:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1433367,
-    "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
-    "start": "2026-08-27T22:20:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
-    "start": "2026-08-27T22:25:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1279493,
-    "raw_title": "LA VENDETTA PERFETTA - BEAR COUNTRY",
-    "start": "2026-08-27T22:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-27T22:30:00",
-    "hall": "3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1693400,
-    "raw_title": "(Lingua Orig.) Ghost: 2 Big To Rig",
-    "start": "2026-08-27T22:35:00",
-    "hall": "SALA 7",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-27T22:35:00",
-    "hall": "SALA 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-27T22:35:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1291595,
-    "raw_title": "Insidious: Fuori Dall'Altrove",
-    "start": "2026-08-27T22:40:00",
-    "hall": "SALA 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1279493,
-    "raw_title": "La Vendetta Perfetta - Bear Country",
-    "start": "2026-08-27T22:40:00",
-    "hall": "SALA 8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-27T22:40:00",
-    "hall": "SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1291595,
-    "raw_title": "Insidious: Fuori Dall'Altrove",
-    "start": "2026-08-27T22:40:00",
-    "hall": "15",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1291595,
-    "raw_title": "INSIDIOUS - FUORI DALL'ALTROVE",
-    "start": "2026-08-27T22:45:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1279493,
-    "raw_title": "La Vendetta Perfetta - Bear Country",
-    "start": "2026-08-27T22:50:00",
-    "hall": "10",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1291595,
-    "raw_title": "Insidious: Fuori Dall'Altrove",
-    "start": "2026-08-27T23:10:00",
-    "hall": "5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1553969,
-    "raw_title": "SHEEP IN THE BOX",
-    "start": "2026-08-28T10:00:00",
-    "hall": "Abanella",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104923/833e5a21-ebd3-4ad8-b014-4e6e57c8ae66#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1390382,
-    "raw_title": "COUTURE (COUTURES)",
-    "start": "2026-08-28T10:00:00",
-    "hall": "Abadan PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104032/be0e9ad3-e473-42e7-ae7e-de20aa538d9a#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-28T10:00:00",
-    "hall": "Zenit",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/99741/52dc8fe6-536c-46c3-8632-a7f8f7be109a#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1329016,
-    "raw_title": "V.O. SOTT. ITA - TONY - DIARIO DI UN GIOVANE CUOCO",
-    "start": "2026-08-28T10:15:00",
-    "hall": "Rubino",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104995/d8747256-ed6d-4bf1-b86d-c581c9428197#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1715722,
-    "raw_title": "V.O. SOTT. ITA - IL CILENO",
-    "start": "2026-08-28T10:30:00",
-    "hall": "Obraz PROMO 3,50",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104992/2cb01cfe-db7a-44e6-9dc7-8799ee6df1c8#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1368337,
-    "raw_title": "V.O. SOTT.ITA THE ODYSSEY",
-    "start": "2026-08-28T10:30:00",
-    "hall": "Astoria",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/90930/f52e7860-13db-4f8a-b3df-d2451dadee0b#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1563588,
-    "raw_title": "L'HANGAR ROSSO",
-    "start": "2026-08-28T10:30:00",
-    "hall": "Capitol PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/96871/fa215011-4914-412d-9f90-3921a60783d7#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 277834,
-    "raw_title": "OCEANIA (MOANA)",
-    "start": "2026-08-28T10:30:00",
-    "hall": "Mignon",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103503/20a381e9-4843-4ef8-9c65-f7fffdc4faf2#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1130402,
-    "raw_title": "TERAPIA DI FAMIGLIA (JAMAIS SANS MON PSY)",
-    "start": "2026-08-28T10:30:00",
-    "hall": "Aurora PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/99708/337405a6-ce8a-488e-88de-10735216ff8c#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1278338,
-    "raw_title": "TRE CHILOMETRI ALLA FINE DEL MONDO",
-    "start": "2026-08-28T11:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/3-km-alla-fine-del-mondo/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 2204,
-    "raw_title": "V.O. SOTT.ITA - ALICE NELLE CITTÀ (ALICE IN DEN STADTEN)",
-    "start": "2026-08-28T12:10:00",
-    "hall": "Abadan PROMO 3,50",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/88754/ae349758-1978-4f3f-9be3-15a11dc689b9#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1167466,
-    "raw_title": "MALDOROR",
-    "start": "2026-08-28T12:15:00",
-    "hall": "Abanella PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/103470/b7f759a0-3bb3-402b-9e8b-07afbe87ba2a#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1553969,
-    "raw_title": "V.O. SOTT. ITA - SHEEP IN THE BOX",
-    "start": "2026-08-28T12:30:00",
-    "hall": "Rubino",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104988/81c0f277-9eb5-4b02-b688-69ff9289e2e3#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 989474,
-    "raw_title": "BORGO",
-    "start": "2026-08-28T12:30:00",
-    "hall": "De amicis PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/101589/5bebe494-5bbe-43ac-b4e1-56c9c07c6823#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 989474,
-    "raw_title": "BORGO",
-    "start": "2026-08-28T12:30:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104824/48be252e-7ed6-43a1-b408-8fa47a01018e#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 390,
-    "raw_title": "LISBON STORY",
-    "start": "2026-08-28T12:30:00",
-    "hall": "Aurora PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104922/0c891b39-aee1-49a3-a0f6-8b7b3af530db#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1329016,
-    "raw_title": "TONY – DIARIO DI UN GIOVANE CUOCO",
-    "start": "2026-08-28T12:45:00",
-    "hall": "Obraz",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104955/772b28d6-8afe-4e1e-8a4b-e1775605b5bd#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 277834,
-    "raw_title": "V.O. SOTT. ITA - OCEANIA (MOANA)",
-    "start": "2026-08-28T12:45:00",
-    "hall": "Mignon",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/102216/edf787d6-6d50-41cc-9cad-62c55bdece05#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1462322,
-    "raw_title": "LE CITTÀ DI PIANURA",
-    "start": "2026-08-28T12:50:00",
-    "hall": "Corallo PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/91482/f195cf57-3022-4cb7-9156-b7863e1170b9#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1370210,
-    "raw_title": "YALLA PARKOUR",
-    "start": "2026-08-28T13:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/yalla-parkour/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1164862,
-    "raw_title": "AGENT OF HAPPINESS-IL BHUTAN E LA FELICITA'",
-    "start": "2026-08-28T13:00:00",
-    "hall": "Ariston PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104757/71ea6bb0-b372-402f-bfc4-3711ee060c1a#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1108427,
-    "raw_title": "(Sala XL) Oceania (2026)",
-    "start": "2026-08-28T13:50:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-28T14:00:00",
-    "hall": "MARILYN",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1433367,
-    "raw_title": "One Night Only - Quando Tutto",
-    "start": "2026-08-28T14:00:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1329016,
-    "raw_title": "Tony - Diario Di Un Giovane Cuoco",
-    "start": "2026-08-28T14:00:00",
-    "hall": "8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-28T14:05:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "(O.V.) Spider-Man: Brand New Day",
-    "start": "2026-08-28T14:10:00",
-    "hall": "7",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1279493,
-    "raw_title": "La Vendetta Perfetta - Bear Country",
-    "start": "2026-08-28T14:15:00",
-    "hall": "11",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-28T14:15:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-28T14:30:00",
-    "hall": "Sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 830484,
-    "raw_title": "Couture",
-    "start": "2026-08-28T14:30:00",
-    "hall": "10",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1553969,
-    "raw_title": "SHEEP IN THE BOX",
-    "start": "2026-08-28T14:40:00",
-    "hall": "Abadan",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104923/c0fc6bfa-e20d-4088-ad78-0cd0b0be5999#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1167466,
-    "raw_title": "MALDOROR",
-    "start": "2026-08-28T14:40:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/maldoror/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-28T14:40:00",
-    "hall": "SALA BERLINO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1433367,
-    "raw_title": "One Night Only-Quando Tutto E' Possibile",
-    "start": "2026-08-28T14:40:00",
-    "hall": "SALA CANNES",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-28T14:40:00",
-    "hall": "SALA SUNDANCE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-28T14:40:00",
-    "hall": "SALA SCORSESE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1553969,
-    "raw_title": "SHEEP IN THE BOX",
-    "start": "2026-08-28T14:45:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/104428",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1108427,
-    "raw_title": "OCEANIA",
-    "start": "2026-08-28T14:45:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104726/0e09670b-20db-4904-a5cd-22458ec612b9#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-28T14:45:00",
-    "hall": "SALA TORONTO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1553969,
-    "raw_title": "Sheep In The Box",
-    "start": "2026-08-28T14:45:00",
-    "hall": "SALA KUBRICK",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1108427,
-    "raw_title": "(O.V.) Oceania (2026)",
-    "start": "2026-08-28T14:45:00",
-    "hall": "5",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "(O.V.) The Odissey",
-    "start": "2026-08-28T14:50:00",
-    "hall": "14",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1715722,
-    "raw_title": "V.O. SOTT. ITA - IL CILENO",
-    "start": "2026-08-28T15:00:00",
-    "hall": "Obraz PROMO 3,50",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104992/b1b02886-3394-467d-b6a3-e430e41cf797#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "V.O.SOTT.ITA THE DOG STARS",
-    "start": "2026-08-28T15:00:00",
-    "hall": "Abanella",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104889/108a0cb9-7eed-4382-be4e-fbc326ba3722#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1329016,
-    "raw_title": "V.O. SOTT. ITA - TONY - DIARIO DI UN GIOVANE CUOCO",
-    "start": "2026-08-28T15:00:00",
-    "hall": "Rubino",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104995/7e7888d4-4e48-4bd3-9f86-11efb400d6f7#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 830484,
-    "raw_title": "V. O. SOTT ITA COUTURE",
-    "start": "2026-08-28T15:00:00",
-    "hall": "De amicis PROMO 3,50",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104033/67825000-e650-472b-b36c-1b4f22e794fa#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-28T15:00:00",
-    "hall": "Sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1553969,
-    "raw_title": "Sheep In The Box",
-    "start": "2026-08-28T15:00:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "ariosto",
-    "tmdb_id": 1715722,
-    "raw_title": "V.O. SOTT. ITA - IL CILENO",
-    "start": "2026-08-28T15:00:00",
-    "hall": "1 PROMO 3,50",
-    "language": "original_subbed",
-    "booking_url": "https://ariosto.spaziocinema.18tickets.it/film/104992/7d9e7d6a-a258-4e51-8030-3d2c14029d2e#theater-init",
-    "source_url": "https://ariosto.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": 1167466,
-    "raw_title": "MALDOROR",
-    "start": "2026-08-28T15:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/103569",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-28T15:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/97497",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-mic",
-    "tmdb_id": 1368337,
-    "raw_title": "ODISSEA",
-    "start": "2026-08-28T15:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/105219",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-28T15:00:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/bddd2016-216d-467c-8dcf-67e03836c82b#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1433367,
-    "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
-    "start": "2026-08-28T15:00:00",
-    "hall": "Mignon",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/ebb48e86-6b57-4452-9348-062fad936e68#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1101383,
-    "raw_title": "LA FINE DI OAK STREET",
-    "start": "2026-08-28T15:00:00",
-    "hall": "Aurora",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/101820/07c0ffd0-e5a4-439e-8d27-e3c97bd2e796#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1279493,
-    "raw_title": "LA VENDETTA PERFETTA - BEAR COUNTRY",
-    "start": "2026-08-28T15:00:00",
-    "hall": "Corallo",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103866/169691f6-76a3-4c00-8dd0-349e4df2c8a6#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1279493,
-    "raw_title": "La Vendetta Perfetta - Bear Country",
-    "start": "2026-08-28T15:00:00",
-    "hall": "SALA LOCARNO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-28T15:00:00",
-    "hall": "sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-28T15:00:00",
-    "hall": "sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 830484,
-    "raw_title": "Couture",
-    "start": "2026-08-28T15:00:00",
-    "hall": "SALA OLMI",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1731347,
-    "raw_title": "Marco Bellocchio-La Porta Della Realta'",
-    "start": "2026-08-28T15:00:00",
-    "hall": "SALA WENDERS",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1329016,
-    "raw_title": "Tony - Diario Di Un Giovane Cuoco",
-    "start": "2026-08-28T15:00:00",
-    "hall": "SALA TRUFFAUT",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-28T15:00:00",
-    "hall": "GARBO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-28T15:00:00",
-    "hall": "VERDE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-28T15:00:00",
-    "hall": "ROSSA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026) Live Action",
-    "start": "2026-08-28T15:00:00",
-    "hall": "Sala 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-28T15:00:00",
-    "hall": "18",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-28T15:15:00",
-    "hall": "SALA VENEZIA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-28T15:20:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-28T15:30:00",
-    "hall": "Zenit",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/99741/15ec714e-828a-4b23-b4c8-d5e31fb36f17#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-28T15:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-28T15:45:00",
-    "hall": "13",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-28T15:50:00",
-    "hall": "15",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-28T15:50:00",
-    "hall": "3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-28T16:00:00",
-    "hall": "BLU",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-28T16:15:00",
-    "hall": "Sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-28T16:15:00",
-    "hall": "sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1167466,
-    "raw_title": "Maldoror",
-    "start": "2026-08-28T16:30:00",
-    "hall": "SALA WENDERS",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-28T16:30:00",
-    "hall": "MARILYN",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1433367,
-    "raw_title": "One Night Only - Quando Tutto",
-    "start": "2026-08-28T16:30:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-28T16:30:00",
-    "hall": "8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-28T16:40:00",
-    "hall": "SALA CANNES",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1108427,
-    "raw_title": "(Sala XL) Oceania (2026)",
-    "start": "2026-08-28T16:40:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1291595,
-    "raw_title": "Insidious: Fuori Dall'Altrove",
-    "start": "2026-08-28T16:50:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 277834,
-    "raw_title": "OCEANIA (MOANA)",
-    "start": "2026-08-28T17:00:00",
-    "hall": "De amicis",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/101689/f38fd438-950b-414f-bd0f-4f6ef8eb3066#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1553969,
-    "raw_title": "Sheep In The Box",
-    "start": "2026-08-28T17:00:00",
-    "hall": "Sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 671,
-    "raw_title": "Harry Potter E La Pietra Filosofale - 25",
-    "start": "2026-08-28T17:00:00",
-    "hall": "SALA 5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-28T17:00:00",
-    "hall": "SALA 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1108427,
-    "raw_title": "OCEANIA",
-    "start": "2026-08-28T17:00:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104726/e3f99563-952d-4c60-b57f-7d2dc7147f81#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": null,
-    "raw_title": "HARRY POTTER E LA PIETRA FILOSOFALE – 25MO ANNIVERSARIO",
-    "start": "2026-08-28T17:00:00",
-    "hall": "Aurora",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103965/8c6e5bc5-a260-41b0-9eb9-85fab1450446#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-28T17:00:00",
-    "hall": "SALA TORONTO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-28T17:00:00",
-    "hall": "10",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1553969,
-    "raw_title": "V.O. SOTT. ITA - SHEEP IN THE BOX",
-    "start": "2026-08-28T17:05:00",
-    "hall": "Rubino",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104988/5d61f4de-8b8f-4e46-99fb-62ee538fddd5#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1279493,
-    "raw_title": "La Vendetta Perfetta - Bear Country",
-    "start": "2026-08-28T17:05:00",
-    "hall": "SALA LOCARNO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 830484,
-    "raw_title": "Couture",
-    "start": "2026-08-28T17:05:00",
-    "hall": "SALA KUBRICK",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1553969,
-    "raw_title": "Sheep In The Box",
-    "start": "2026-08-28T17:05:00",
-    "hall": "SALA OLMI",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1329016,
-    "raw_title": "TONY – DIARIO DI UN GIOVANE CUOCO",
-    "start": "2026-08-28T17:10:00",
-    "hall": "President",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104955/597b2786-6ff1-4afa-80c6-0272605e9376#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 969681,
-    "raw_title": "Atmos - Spider-Man: Brand New Day",
-    "start": "2026-08-28T17:10:00",
-    "hall": "SALA 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-28T17:10:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/46ca5077-190c-4da8-be80-5b403e48af67#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1433367,
-    "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
-    "start": "2026-08-28T17:10:00",
-    "hall": "Mignon",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/cd29a3dc-50fc-4b30-a868-ce3ff2d36015#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-28T17:10:00",
-    "hall": "sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-28T17:10:00",
-    "hall": "sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1329016,
-    "raw_title": "Tony - Diario Di Un Giovane Cuoco",
-    "start": "2026-08-28T17:10:00",
-    "hall": "SALA TRUFFAUT",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-28T17:10:00",
-    "hall": "VERDE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026) Live Action",
-    "start": "2026-08-28T17:10:00",
-    "hall": "Sala 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 671,
-    "raw_title": "Harry Potter E La Pietra Filosofale - 25",
-    "start": "2026-08-28T17:10:00",
-    "hall": "11",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1715722,
-    "raw_title": "V.O. SOTT. ITA - IL CILENO",
-    "start": "2026-08-28T17:15:00",
-    "hall": "Obraz PROMO 3,50",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104992/ef24f54e-43cc-49d6-a1ce-c54f70c69e86#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-28T17:15:00",
-    "hall": "Abanella",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/103701/789cdb4c-4c9c-4e36-9f3a-3206ef46d859#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-28T17:15:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "ariosto",
-    "tmdb_id": 1164862,
-    "raw_title": "AGENT OF HAPPINESS-IL BHUTAN E LA FELICITA'",
-    "start": "2026-08-28T17:15:00",
-    "hall": "1 PROMO 3,50",
-    "language": "unknown",
-    "booking_url": "https://ariosto.spaziocinema.18tickets.it/film/98619/7e2ba04e-fabb-4d0b-86f8-1cf375adcc1c#theater-init",
-    "source_url": "https://ariosto.spaziocinema.18tickets.it/"
-  },
-  {
     "cinema_id": "cineteca-metropolis",
     "tmdb_id": 1329016,
     "raw_title": "TONY - DIARIO DI UN GIOVANE CUOCO",
@@ -2950,154 +10,54 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
-    "cinema_id": "anteo",
-    "tmdb_id": 1731347,
-    "raw_title": "MARCO BELLOCCHIO - LA PORTA DELLA REALTÀ",
-    "start": "2026-08-28T17:20:00",
-    "hall": "Abadan PROMO 3,50",
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1108427,
+    "raw_title": "OCEANIA",
+    "start": "2026-08-28T17:15:00",
+    "hall": null,
     "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/104956/70b2a4e3-6e84-498d-92d6-ad6451edc0f6#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1553969,
-    "raw_title": "SHEEP IN THE BOX",
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1291595,
+    "raw_title": "INSIDIOUS - FUORI DALL'ALTROVE",
     "start": "2026-08-28T17:20:00",
     "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/sheep-in-the-box/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1384216,
-    "raw_title": "The Dog Stars - Le Stelle Dopo La Fine",
-    "start": "2026-08-28T17:20:00",
-    "hall": "SALA 2",
     "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1279493,
-    "raw_title": "La Vendetta Perfetta - Bear Country",
-    "start": "2026-08-28T17:20:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-28T17:30:00",
-    "hall": "SALA 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "colosseo",
+    "cinema_id": "notorious-merlata",
     "tmdb_id": 1433367,
-    "raw_title": "One Night Only-Quando Tutto E' Possibile",
-    "start": "2026-08-28T17:30:00",
-    "hall": "SALA SUNDANCE",
+    "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
+    "start": "2026-08-28T17:20:00",
+    "hall": null,
     "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-28T17:30:00",
-    "hall": "5",
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 671,
+    "raw_title": "HARRY POTTER E LA PIETRA FILOSOFALE",
+    "start": "2026-08-28T17:45:00",
+    "hall": null,
     "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-28T17:35:00",
-    "hall": "SALA VENEZIA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1291595,
-    "raw_title": "Insidious: Fuori Dall'Altrove",
-    "start": "2026-08-28T17:40:00",
-    "hall": "SALA 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1433367,
-    "raw_title": "One Night Only-Quando Tutto E' Possibile",
-    "start": "2026-08-28T17:40:00",
-    "hall": "SALA 7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "citylife-anteo",
+    "cinema_id": "notorious-merlata",
     "tmdb_id": 1279493,
     "raw_title": "LA VENDETTA PERFETTA - BEAR COUNTRY",
     "start": "2026-08-28T17:50:00",
-    "hall": "Corallo",
+    "hall": null,
     "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103866/d291830b-1218-4429-a06b-d8a07b0d3868#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-28T17:50:00",
-    "hall": "SALA BERLINO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-28T17:50:00",
-    "hall": "SALA SCORSESE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-28T17:50:00",
-    "hall": "Sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
-    "start": "2026-08-28T17:50:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "cineteca-arlecchino",
@@ -3130,14 +90,24 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1368337,
-    "raw_title": "Odissea",
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
     "start": "2026-08-28T18:00:00",
-    "hall": "GARBO",
+    "hall": null,
     "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-08-28T18:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "orfeo",
@@ -3150,16 +120,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
   },
   {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-28T18:10:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
     "cinema_id": "cinelandia-certosa",
     "tmdb_id": 1279493,
     "raw_title": "La Vendetta Perfetta - Bear Country",
@@ -3170,34 +130,14 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 969681,
-    "raw_title": "SPIDER-MAN: BRAND NEW DAY",
+    "cinema_id": "mexico",
+    "tmdb_id": 1553969,
+    "raw_title": "SHEEP IN THE BOX",
     "start": "2026-08-28T18:20:00",
-    "hall": "Zenit",
+    "hall": null,
     "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/99741/86ed6f56-8aab-4606-9585-1eb94cd87d5b#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 969681,
-    "raw_title": "V.O.SOTT.ITA. - SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-28T18:30:00",
-    "hall": "Nobel RISTOCINEMA",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/105285/2f2ec70c-2eb6-4295-946f-55f5d8f0bf57#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 969681,
-    "raw_title": "Spider-Man: Brand New Day",
-    "start": "2026-08-28T18:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
+    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
+    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -3238,16 +178,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 969681,
-    "raw_title": "V.O.SOTT.ITA. - SPIDER-MAN: BRAND NEW DAY",
-    "start": "2026-08-28T19:00:00",
-    "hall": "Abadan",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/99675/ea96d6f1-8e13-4e94-ba07-0a847f89c5cd#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "notorious-gloria",
@@ -3371,22 +301,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-28T19:20:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/ba1f269b-a7a6-4178-9c61-5df9b5735f15#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1433367,
     "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
     "start": "2026-08-28T19:20:00",
     "hall": "Mignon",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/9f645aa8-22a2-4826-bb8e-85800c8a4137#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "start": "2026-08-28T19:20:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/ba1f269b-a7a6-4178-9c61-5df9b5735f15#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -3560,6 +490,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1279493,
+    "raw_title": "LA VENDETTA PERFETTA - BEAR COUNTRY",
+    "start": "2026-08-28T19:35:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 1240889,
     "raw_title": "Camp Miasma: Adolescenza, Sesso e Morte",
@@ -3568,6 +508,16 @@
     "language": "original_subbed",
     "booking_url": "https://bandhi.it/bah/beltrade/production/camp-miasma/",
     "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 830484,
+    "raw_title": "COUTURE",
+    "start": "2026-08-28T19:40:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -3590,6 +540,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 969681,
+    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
+    "start": "2026-08-28T19:45:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "citylife-anteo",
     "tmdb_id": null,
     "raw_title": "V.O.SOTT.ITA LA VENDETTA PERFETTA",
@@ -3598,6 +558,26 @@
     "language": "original_subbed",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104993/46d02e35-7e1a-4fde-9c88-8810e91cf380#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "start": "2026-08-28T19:50:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1108427,
+    "raw_title": "OCEANIA",
+    "start": "2026-08-28T19:50:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -3658,6 +638,26 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1291595,
+    "raw_title": "INSIDIOUS - FUORI DALL'ALTROVE",
+    "start": "2026-08-28T20:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1433367,
+    "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
+    "start": "2026-08-28T20:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -3738,6 +738,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-08-28T20:40:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "arcobaleno",
@@ -3860,6 +870,26 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
   },
   {
+    "cinema_id": "mexico",
+    "tmdb_id": 1715722,
+    "raw_title": "IL CILENO",
+    "start": "2026-08-28T21:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
+    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 671,
+    "raw_title": "HARRY POTTER E LA PIETRA FILOSOFALE",
+    "start": "2026-08-28T21:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1108427,
     "raw_title": "Oceania (2026)",
@@ -3950,6 +980,16 @@
     "source_url": "https://ariosto.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "cinemino",
+    "tmdb_id": 1390382,
+    "raw_title": "COUTURE (COUTURES)",
+    "start": "2026-08-28T21:30:00",
+    "hall": "Sala  cinema revolution",
+    "language": "unknown",
+    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
+    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
+  },
+  {
     "cinema_id": "citylife-anteo",
     "tmdb_id": 969681,
     "raw_title": "SPIDER-MAN: BRAND NEW DAY",
@@ -3957,16 +997,6 @@
     "hall": "Maestoso",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/97233/f4460398-458c-45cd-8ff4-f85152bf7584#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 277834,
-    "raw_title": "OCEANIA (MOANA)",
-    "start": "2026-08-28T21:30:00",
-    "hall": "Ariston",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103503/94f5d4cd-b7b0-424e-b1be-c89833200b4a#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -3980,12 +1010,42 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 277834,
+    "raw_title": "OCEANIA (MOANA)",
+    "start": "2026-08-28T21:30:00",
+    "hall": "Ariston",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103503/94f5d4cd-b7b0-424e-b1be-c89833200b4a#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1433367,
+    "raw_title": "(O.V.) One Night Only",
+    "start": "2026-08-28T21:30:00",
+    "hall": "SALA LOCARNO",
+    "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "colosseo",
     "tmdb_id": 969681,
     "raw_title": "(O.V.) Spider-Man: Brand New Day",
     "start": "2026-08-28T21:30:00",
     "hall": "SALA SUNDANCE",
     "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1279493,
+    "raw_title": "La Vendetta Perfetta - Bear Country",
+    "start": "2026-08-28T21:30:00",
+    "hall": "SALA TORONTO",
+    "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
@@ -4048,6 +1108,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-08-28T21:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "orfeo",
@@ -4250,6 +1320,16 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 280,
+    "raw_title": "TERMINATOR 2 - IL GIORNO DEL GIUDIZIO",
+    "start": "2026-08-28T21:50:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "citylife-anteo",
     "tmdb_id": 1433367,
     "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
@@ -4258,6 +1338,26 @@
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104790/46b3a876-07de-47fc-8d57-71714875243e#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1101383,
+    "raw_title": "LA FINE DI OAK STREET",
+    "start": "2026-08-28T22:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1433367,
+    "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
+    "start": "2026-08-28T22:20:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -4280,6 +1380,26 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 969681,
+    "raw_title": "SPIDER-MAN - BRAND NEW DAY",
+    "start": "2026-08-28T22:25:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1279493,
+    "raw_title": "LA VENDETTA PERFETTA - BEAR COUNTRY",
+    "start": "2026-08-28T22:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "cinelandia-certosa",
     "tmdb_id": 1693400,
     "raw_title": "(Lingua Orig.) Ghost: 2 Big To Rig",
@@ -4298,6 +1418,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "start": "2026-08-28T22:35:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "cinelandia-certosa",
@@ -4350,6 +1480,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1291595,
+    "raw_title": "INSIDIOUS - FUORI DALL'ALTROVE",
+    "start": "2026-08-28T22:45:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 969681,
     "raw_title": "Spider-Man: Brand New Day",
@@ -4385,6 +1525,16 @@
     "raw_title": "Camp Miasma-Adolescenza, Sesso E Morte",
     "start": "2026-08-28T23:40:00",
     "hall": "12",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": null,
+    "raw_title": "Deep Water - Incubo Dagli Abissi",
+    "start": "2026-08-28T23:45:00",
+    "hall": "11",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
@@ -4674,7 +1824,7 @@
     "tmdb_id": 989474,
     "raw_title": "BORGO",
     "start": "2026-08-29T12:30:00",
-    "hall": "Capitol",
+    "hall": "Capitol PROMO 3,50",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104824/5cac8ef9-eae7-4469-a003-834c0f5a39c7#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
@@ -5161,22 +2311,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-29T15:00:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/4da9fe2c-b51d-4d86-b646-68963e477db3#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1433367,
     "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
     "start": "2026-08-29T15:00:00",
     "hall": "Mignon",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/b9761f19-4baa-44e3-9d43-434302f50a28#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "start": "2026-08-29T15:00:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/4da9fe2c-b51d-4d86-b646-68963e477db3#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -5711,22 +2861,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-29T17:10:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/5f9a3355-6d84-4316-a245-ab093a9b901e#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1433367,
     "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
     "start": "2026-08-29T17:10:00",
     "hall": "Mignon",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/57225594-037a-4436-beb5-d36eb1ee547f#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "start": "2026-08-29T17:10:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/5f9a3355-6d84-4316-a245-ab093a9b901e#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -6261,22 +3411,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-29T19:20:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/ea8838d4-9970-46cc-a71a-0cd04b423068#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1433367,
     "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
     "start": "2026-08-29T19:20:00",
     "hall": "Mignon",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/cc84854e-77e4-400b-8d1e-176a8d9e5885#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "start": "2026-08-29T19:20:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/ea8838d4-9970-46cc-a71a-0cd04b423068#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -6550,16 +3700,6 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
   {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1108427,
-    "raw_title": "Oceania (2026)",
-    "start": "2026-08-29T20:10:00",
-    "hall": "10",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
     "cinema_id": "cinelandia-certosa",
     "tmdb_id": 1433367,
     "raw_title": "One Night Only-Quando Tutto E' Possibile",
@@ -6568,6 +3708,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1108427,
+    "raw_title": "Oceania (2026)",
+    "start": "2026-08-29T20:15:00",
+    "hall": "10",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "cinelandia-certosa",
@@ -6583,7 +3733,7 @@
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1291595,
     "raw_title": "Insidious: Fuori Dall'Altrove",
-    "start": "2026-08-29T20:20:00",
+    "start": "2026-08-29T20:25:00",
     "hall": "5",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
@@ -6688,6 +3838,16 @@
     "language": "unknown",
     "booking_url": "https://palazzoreale.spaziocinema.18tickets.it/film/102382/b4879674-0ee9-4d4b-8d4e-effc41e89075#theater-init",
     "source_url": "https://palazzoreale.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "cinemino",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA - V. O.",
+    "start": "2026-08-29T21:00:00",
+    "hall": "Sala",
+    "language": "original_subbed",
+    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
+    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
   },
   {
     "cinema_id": "cineteca-arlecchino",
@@ -6811,16 +3971,6 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 277834,
-    "raw_title": "OCEANIA (MOANA)",
-    "start": "2026-08-29T21:30:00",
-    "hall": "Ariston",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103503/ada53670-80f7-4266-ae89-269313146035#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 66664,
     "raw_title": "TERMINATOR 2 4K (RIED. 2026)",
     "start": "2026-08-29T21:30:00",
@@ -6830,12 +3980,32 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 277834,
+    "raw_title": "OCEANIA (MOANA)",
+    "start": "2026-08-29T21:30:00",
+    "hall": "Ariston",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103503/ada53670-80f7-4266-ae89-269313146035#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "colosseo",
     "tmdb_id": 969681,
     "raw_title": "(O.V.) Spider-Man: Brand New Day",
     "start": "2026-08-29T21:30:00",
     "hall": "SALA SUNDANCE",
     "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1279493,
+    "raw_title": "La Vendetta Perfetta - Bear Country",
+    "start": "2026-08-29T21:30:00",
+    "hall": "SALA TORONTO",
+    "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
@@ -7604,7 +4774,7 @@
     "tmdb_id": 989474,
     "raw_title": "BORGO",
     "start": "2026-08-30T12:30:00",
-    "hall": "Capitol",
+    "hall": "Capitol PROMO 3,50",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104824/b40a7901-6088-41f7-98f3-5fa9314df0f0#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
@@ -8101,22 +5271,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-30T15:00:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/4be3d660-08f1-44f7-96b3-e4230aee7e5d#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1433367,
     "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
     "start": "2026-08-30T15:00:00",
     "hall": "Mignon",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/80f8bd39-4069-40b8-9d90-1df6957f6ef6#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "start": "2026-08-30T15:00:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/4be3d660-08f1-44f7-96b3-e4230aee7e5d#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -8621,22 +5791,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-30T17:10:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/e0994fa7-2f75-4c01-94d2-84798d18c50e#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1433367,
     "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
     "start": "2026-08-30T17:10:00",
     "hall": "Mignon",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/83f84524-f8b3-4575-b452-455c150d90cf#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "start": "2026-08-30T17:10:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/e0994fa7-2f75-4c01-94d2-84798d18c50e#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -9151,22 +6321,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-30T19:20:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/9eb89b79-b447-42de-a057-ccb348c71b90#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1433367,
     "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
     "start": "2026-08-30T19:20:00",
     "hall": "Mignon",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/723a7f0f-d710-40b8-be97-97800d39b9d3#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "start": "2026-08-30T19:20:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/9eb89b79-b447-42de-a057-ccb348c71b90#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -9701,16 +6871,6 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 277834,
-    "raw_title": "OCEANIA (MOANA)",
-    "start": "2026-08-30T21:30:00",
-    "hall": "Ariston",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103503/1e33cbfe-8efe-4b4d-ba78-6d3d0771b1db#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 66664,
     "raw_title": "TERMINATOR 2 4K (RIED. 2026)",
     "start": "2026-08-30T21:30:00",
@@ -9720,12 +6880,42 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 277834,
+    "raw_title": "OCEANIA (MOANA)",
+    "start": "2026-08-30T21:30:00",
+    "hall": "Ariston",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103503/1e33cbfe-8efe-4b4d-ba78-6d3d0771b1db#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1433367,
+    "raw_title": "(O.V.) One Night Only",
+    "start": "2026-08-30T21:30:00",
+    "hall": "SALA LOCARNO",
+    "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "colosseo",
     "tmdb_id": 969681,
     "raw_title": "(O.V.) Spider-Man: Brand New Day",
     "start": "2026-08-30T21:30:00",
     "hall": "SALA SUNDANCE",
     "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1279493,
+    "raw_title": "La Vendetta Perfetta - Bear Country",
+    "start": "2026-08-30T21:30:00",
+    "hall": "SALA TORONTO",
+    "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
@@ -10324,7 +7514,7 @@
     "tmdb_id": 989474,
     "raw_title": "BORGO",
     "start": "2026-08-31T12:30:00",
-    "hall": "Capitol",
+    "hall": "Capitol PROMO 3,50",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104824/90f47787-636f-4515-8924-ce79fb648dff#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
@@ -10751,22 +7941,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-31T15:00:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/01524713-136b-4114-8d42-80c85b4934a0#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1433367,
     "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
     "start": "2026-08-31T15:00:00",
     "hall": "Mignon",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/f0e2b082-7566-4f9e-aebc-0daf7b073616#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "start": "2026-08-31T15:00:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/01524713-136b-4114-8d42-80c85b4934a0#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -11191,22 +8381,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-31T17:10:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/c2db7282-e8a0-4b51-89a3-fb35b3930996#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1433367,
     "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
     "start": "2026-08-31T17:10:00",
     "hall": "Mignon",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/6f48bdce-53fd-463e-be26-bc9459e6c55f#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "start": "2026-08-31T17:10:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/c2db7282-e8a0-4b51-89a3-fb35b3930996#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -11671,22 +8861,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-08-31T19:20:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/50eecdc8-6687-4b8c-8369-cdba6f7d0588#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1433367,
     "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
     "start": "2026-08-31T19:20:00",
     "hall": "Mignon",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/42e44e42-0997-4654-9f51-e05c633ef70e#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "start": "2026-08-31T19:20:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/50eecdc8-6687-4b8c-8369-cdba6f7d0588#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -12211,16 +9401,6 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1433367,
-    "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
-    "start": "2026-08-31T21:30:00",
-    "hall": "Mignon",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104790/2e0b35e2-8b71-45c1-94d5-02a2f4c859a6#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 277834,
     "raw_title": "OCEANIA (MOANA)",
     "start": "2026-08-31T21:30:00",
@@ -12230,12 +9410,42 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1433367,
+    "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
+    "start": "2026-08-31T21:30:00",
+    "hall": "Mignon",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104790/2e0b35e2-8b71-45c1-94d5-02a2f4c859a6#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1433367,
+    "raw_title": "(O.V.) One Night Only",
+    "start": "2026-08-31T21:30:00",
+    "hall": "SALA LOCARNO",
+    "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "colosseo",
     "tmdb_id": 969681,
     "raw_title": "(O.V.) Spider-Man: Brand New Day",
     "start": "2026-08-31T21:30:00",
     "hall": "SALA SUNDANCE",
     "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
+    "cinema_id": "colosseo",
+    "tmdb_id": 1279493,
+    "raw_title": "La Vendetta Perfetta - Bear Country",
+    "start": "2026-08-31T21:30:00",
+    "hall": "SALA TORONTO",
+    "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
   },
@@ -12764,7 +9974,7 @@
     "tmdb_id": 989474,
     "raw_title": "BORGO",
     "start": "2026-09-01T12:30:00",
-    "hall": "Capitol",
+    "hall": "Capitol PROMO 3,50",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/104824/ed3b4c50-cc70-4f74-80f2-e6ce748794ae#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
@@ -13101,22 +10311,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-09-01T15:00:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/e592bc2e-083b-41e7-8583-81b5384e4850#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1433367,
     "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
     "start": "2026-09-01T15:00:00",
     "hall": "Mignon",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/059a4578-4239-4d0d-a396-49feee8f0167#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "start": "2026-09-01T15:00:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/e592bc2e-083b-41e7-8583-81b5384e4850#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -13461,22 +10671,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-09-01T17:10:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/9a347cf4-f423-43c2-9c1e-bee193b4136b#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1433367,
     "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
     "start": "2026-09-01T17:10:00",
     "hall": "Mignon",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/11ef07f8-43e3-444b-b42b-bf7f49c9eb9d#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "start": "2026-09-01T17:10:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/9a347cf4-f423-43c2-9c1e-bee193b4136b#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -13871,22 +11081,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-09-01T19:20:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/82667377-f9d4-480a-9831-6c60d3d6f859#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1433367,
     "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
     "start": "2026-09-01T19:20:00",
     "hall": "Mignon",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/0a2babd9-606c-42a1-901e-a134e9a9d327#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "start": "2026-09-01T19:20:00",
+    "hall": "Capitol",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/82667377-f9d4-480a-9831-6c60d3d6f859#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -14583,7 +11793,7 @@
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1368337,
     "raw_title": "Odissea",
-    "start": "2026-09-01T22:20:00",
+    "start": "2026-09-01T22:10:00",
     "hall": "12",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
@@ -15211,22 +12421,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1384216,
-    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
-    "start": "2026-09-02T15:00:00",
-    "hall": "Corallo",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/3d3c657b-0181-4578-ae58-82b26d01ecb4#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1433367,
     "raw_title": "ONE NIGHT ONLY - QUANDO TUTTO È POSSIBILE",
     "start": "2026-09-02T15:00:00",
     "hall": "Mignon",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103833/55b9d0e5-505c-4f42-bbbf-158b60e2e642#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1384216,
+    "raw_title": "THE DOG STARS - LE STELLE DOPO LA FINE",
+    "start": "2026-09-02T15:00:00",
+    "hall": "Corallo",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/103768/3d3c657b-0181-4578-ae58-82b26d01ecb4#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -16611,6 +13821,16 @@
   },
   {
     "cinema_id": "beltrade",
+    "tmdb_id": 396535,
+    "raw_title": "TRAIN TO BUSAN ● ORARIO DA DEFINIRE",
+    "start": "2026-09-03T07:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://bandhi.it/bah/beltrade/production/train-to-busan/",
+    "source_url": "https://bandhi.it/bah/beltrade/"
+  },
+  {
+    "cinema_id": "beltrade",
     "tmdb_id": 1401832,
     "raw_title": "KETTICÈ ● ORARIO DA DEFINIRE",
     "start": "2026-09-03T07:00:00",
@@ -16780,6 +14000,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
   },
   {
+    "cinema_id": "godard",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-09-04T18:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
     "cinema_id": "arcobaleno",
     "tmdb_id": 1684016,
     "raw_title": "Katy Perry: The Lifetimes Tour - Paris",
@@ -16820,6 +14050,16 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
+    "cinema_id": "godard",
+    "tmdb_id": 1240889,
+    "raw_title": "CAMP MIASMA: ADOLESCENZA, SESSO E MORTE",
+    "start": "2026-09-04T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1204680,
     "raw_title": "Coyote Vs Acme",
@@ -16838,6 +14078,16 @@
     "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 10537,
+    "raw_title": "THE DOORS – THE FINAL CUT",
+    "start": "2026-09-05T14:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -16868,6 +14118,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 1240889,
+    "raw_title": "CAMP MIASMA: ADOLESCENZA, SESSO E MORTE",
+    "start": "2026-09-05T16:45:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "arcobaleno",
@@ -16920,6 +14180,16 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
+    "cinema_id": "godard",
+    "tmdb_id": 2061,
+    "raw_title": "PUSHER – L'INIZIO",
+    "start": "2026-09-05T19:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
     "cinema_id": "arcobaleno",
     "tmdb_id": 1684016,
     "raw_title": "Katy Perry: The Lifetimes Tour - Paris",
@@ -16948,6 +14218,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 1329016,
+    "raw_title": "TONY – DIARIO DI UN GIOVANE CUOCO",
+    "start": "2026-09-05T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -16990,6 +14270,16 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
+    "cinema_id": "godard",
+    "tmdb_id": 17985,
+    "raw_title": "BLEEDER",
+    "start": "2026-09-06T15:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1185806,
     "raw_title": "Paw Patrol: Missione Dinosauri",
@@ -16998,6 +14288,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-09-06T17:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -17028,6 +14328,16 @@
     "language": "unknown",
     "booking_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/film/103206/b0611a71-667b-4fd0-bff7-48c9d0ebdc45#theater-init",
     "source_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 396535,
+    "raw_title": "TRAIN TO BUSAN",
+    "start": "2026-09-06T20:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -17200,6 +14510,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "arianteo-fabbricadelvapore",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-09-09T20:30:00",
+    "hall": "arena",
+    "language": "unknown",
+    "booking_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/film/95856/8c8e49f0-6006-4215-935a-4f809ac2a13c#theater-init",
+    "source_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "cineteca-arlecchino",
     "tmdb_id": 289,
     "raw_title": "CASABLANCA",
@@ -17230,6 +14550,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "anteo",
+    "tmdb_id": null,
+    "raw_title": "Presentazione libro ESSERE NUVOLA di CHANDRA",
+    "start": "2026-09-10T18:00:00",
+    "hall": "Excelsior 3 EURO",
+    "language": "unknown",
+    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/105681/edbbec49-70a1-4c89-bcf3-0699099c3a22#theater-init",
+    "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "arcobaleno",
     "tmdb_id": 1400789,
     "raw_title": "2000 Metri Ad Andriivka",
@@ -17238,6 +14568,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
+  },
+  {
+    "cinema_id": "arianteo-fabbricadelvapore",
+    "tmdb_id": 1168719,
+    "raw_title": "SILENT FRIEND",
+    "start": "2026-09-10T20:30:00",
+    "hall": "arena PROMO 3,50",
+    "language": "unknown",
+    "booking_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/film/105846/bf6db497-df69-4e77-a827-eabf759d485d#theater-init",
+    "source_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "citylife-anteo",
@@ -17258,6 +14598,16 @@
     "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 25647,
+    "raw_title": "SOFFIO",
+    "start": "2026-09-10T21:00:00",
+    "hall": null,
+    "language": "dubbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/98688",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -17290,6 +14640,26 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "godard",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-09-11T17:45:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
+    "cinema_id": "arianteo-fabbricadelvapore",
+    "tmdb_id": 1329016,
+    "raw_title": "TONY – DIARIO DI UN GIOVANE CUOCO",
+    "start": "2026-09-11T20:30:00",
+    "hall": "arena",
+    "language": "unknown",
+    "booking_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/film/103041/331fd85b-566d-4fba-bf54-7987fe589a6b#theater-init",
+    "source_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1447853,
     "raw_title": "(O.V.) Oasis: Don'T Look Back In Anger",
@@ -17298,6 +14668,26 @@
     "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 1447853,
+    "raw_title": "OASIS: DON'T LOOK BACK IN ANGER",
+    "start": "2026-09-11T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1447853,
+    "raw_title": "OASIS: DON'T LOOK BACK IN ANGER",
+    "start": "2026-09-11T21:30:00",
+    "hall": "Maestoso",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/106011/6d619206-8456-49af-96d6-d1306e30c46b#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -17310,6 +14700,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "godard",
+    "tmdb_id": 1329016,
+    "raw_title": "TONY – DIARIO DI UN GIOVANE CUOCO",
+    "start": "2026-09-12T14:45:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1185806,
     "raw_title": "Paw Patrol: Missione Dinosauri",
@@ -17318,6 +14718,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-09-12T17:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -17330,6 +14740,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "arianteo-fabbricadelvapore",
+    "tmdb_id": 1302904,
+    "raw_title": "AMORI & INCANTESIMI 2 (PRACTICAL MAGIC 2)",
+    "start": "2026-09-12T20:30:00",
+    "hall": "arena",
+    "language": "unknown",
+    "booking_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/film/102744/9df0dce2-4311-4029-965a-d54be5ead2d7#theater-init",
+    "source_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "arianteo-palazzoreale",
     "tmdb_id": 1368337,
     "raw_title": "ODISSEA",
@@ -17338,6 +14758,16 @@
     "language": "unknown",
     "booking_url": "https://palazzoreale.spaziocinema.18tickets.it/film/95781/332c4004-8b47-408e-8629-33aa431227be#theater-init",
     "source_url": "https://palazzoreale.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 1240889,
+    "raw_title": "CAMP MIASMA: ADOLESCENZA, SESSO E MORTE",
+    "start": "2026-09-12T20:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -17360,6 +14790,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "godard",
+    "tmdb_id": 11328,
+    "raw_title": "PUSHER II – SANGUE SULLE MIE MANI",
+    "start": "2026-09-13T14:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1185806,
     "raw_title": "Paw Patrol: Missione Dinosauri",
@@ -17368,6 +14808,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 11330,
+    "raw_title": "PUSHER 3 – L'ANGELO DELLA MORTE",
+    "start": "2026-09-13T16:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -17380,6 +14830,26 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "godard",
+    "tmdb_id": null,
+    "raw_title": "UN PO’ DI LUCE + TALK CON ALI ASGARI",
+    "start": "2026-09-13T18:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
+    "cinema_id": "arianteo-fabbricadelvapore",
+    "tmdb_id": 1021643,
+    "raw_title": "RITROVARSI A TOKYO",
+    "start": "2026-09-13T20:30:00",
+    "hall": "arena PROMO 3,50",
+    "language": "unknown",
+    "booking_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/film/30229/5a66f12b-ab47-4e5b-b80a-45626511d354#theater-init",
+    "source_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1447853,
     "raw_title": "(O.V.) Oasis: Don'T Look Back In Anger",
@@ -17388,6 +14858,16 @@
     "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 950028,
+    "raw_title": "THE INVITE – IL PIACERE È TUTTO NOSTRO",
+    "start": "2026-09-13T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -17430,6 +14910,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "arianteo-fabbricadelvapore",
+    "tmdb_id": 1576934,
+    "raw_title": "THE ECHO CHAMBER",
+    "start": "2026-09-14T20:30:00",
+    "hall": "arena PROMO 3,50",
+    "language": "unknown",
+    "booking_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/film/103075/abcf5e90-cbd2-4aca-9898-8f3f6e23615f#theater-init",
+    "source_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "beltrade",
     "tmdb_id": 643,
     "raw_title": "LA CORAZZATA POTEMKIN",
@@ -17470,6 +14960,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "arianteo-fabbricadelvapore",
+    "tmdb_id": 1723662,
+    "raw_title": "DOV'E' LA FIESTA",
+    "start": "2026-09-15T20:30:00",
+    "hall": "arena PROMO 3,50",
+    "language": "unknown",
+    "booking_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/film/105879/2655b338-3b4f-4d06-8f30-ee349ce74515#theater-init",
+    "source_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1302904,
     "raw_title": "Amori & Incantesimi 2",
@@ -17478,6 +14978,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "arianteo-fabbricadelvapore",
+    "tmdb_id": 1594043,
+    "raw_title": "NESSUN DOLORE",
+    "start": "2026-09-16T20:30:00",
+    "hall": "arena PROMO 3,50",
+    "language": "unknown",
+    "booking_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/film/103076/c07bff5a-d7f6-46b1-b6df-2563d47ae619#theater-init",
+    "source_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -17490,6 +15000,116 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "godard",
+    "tmdb_id": 18533,
+    "raw_title": "BRONSON",
+    "start": "2026-09-18T18:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 950028,
+    "raw_title": "THE INVITE – IL PIACERE È TUTTO NOSTRO",
+    "start": "2026-09-18T20:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 950028,
+    "raw_title": "THE INVITE – IL PIACERE È TUTTO NOSTRO",
+    "start": "2026-09-19T14:45:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 110160,
+    "raw_title": "LAURENCE ANYWAYS",
+    "start": "2026-09-19T17:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 1753925,
+    "raw_title": "DEMETRA IN ESILIO + TALK CON MARIA GIOVANNA CICCIARI",
+    "start": "2026-09-19T20:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 37861,
+    "raw_title": "VALHALLA RISING – REGNO DI SANGUE",
+    "start": "2026-09-20T14:15:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": null,
+    "raw_title": "CAO FEI: SELEZIONE DI LAVORI",
+    "start": "2026-09-20T16:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": null,
+    "raw_title": "INCONTRO CON CAO FEI",
+    "start": "2026-09-20T18:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
+    "cinema_id": "arianteo-fabbricadelvapore",
+    "tmdb_id": 1208348,
+    "raw_title": "RENTAL FAMILY - NELLE VITE DEGLI ALTRI",
+    "start": "2026-09-20T20:30:00",
+    "hall": "arena",
+    "language": "unknown",
+    "booking_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/film/92288/bee7c9a8-a32d-497d-b687-883cdb34a4c1#theater-init",
+    "source_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 64690,
+    "raw_title": "DRIVE",
+    "start": "2026-09-20T20:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
+    "cinema_id": "arianteo-fabbricadelvapore",
+    "tmdb_id": 1597199,
+    "raw_title": "RITORNO A BUENOS AIRES",
+    "start": "2026-09-21T20:00:00",
+    "hall": "arena cinema in festa",
+    "language": "unknown",
+    "booking_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/film/105880/3258733f-79fa-46d7-aaaf-bf5b36daec5c#theater-init",
+    "source_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "arcobaleno",
     "tmdb_id": null,
     "raw_title": "Ultimo - Tutto. Live A Tor Vergata",
@@ -17498,6 +15118,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
+  },
+  {
+    "cinema_id": "arianteo-fabbricadelvapore",
+    "tmdb_id": 935,
+    "raw_title": "IL DOTTOR STRANAMORE. OVVERO: COME IMPARAI A NON PREOCCUPARMI E AD AMARE LA BOMBA (ED REST.)",
+    "start": "2026-09-22T20:00:00",
+    "hall": "arena cinema in festa",
+    "language": "unknown",
+    "booking_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/film/105748/b0a161f1-e63a-482e-bca6-4e2e8a886f94#theater-init",
+    "source_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "cinelandia-certosa",
@@ -17650,6 +15280,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "arianteo-fabbricadelvapore",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-09-23T20:00:00",
+    "hall": "arena cinema in festa",
+    "language": "unknown",
+    "booking_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/film/105881/1ac50538-c071-4f4b-89bb-cc8b1d55229e#theater-init",
+    "source_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "cinelandia-certosa",
     "tmdb_id": null,
     "raw_title": "Ultimo - Tutto.  Live A Tor Vergata",
@@ -17708,6 +15348,16 @@
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/100236/429d64e9-81ac-44f8-a303-0fcb8a0ed412#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 125290,
+    "raw_title": "A JAPANESE VILLAGE",
+    "start": "2026-09-24T17:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "arcobaleno",
@@ -17770,6 +15420,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "arianteo-fabbricadelvapore",
+    "tmdb_id": 1597196,
+    "raw_title": "UNA STORIA",
+    "start": "2026-09-24T20:00:00",
+    "hall": "arena cinema in festa",
+    "language": "unknown",
+    "booking_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/film/105912/c22256fc-e939-4c88-a2d9-e40be7eb0204#theater-init",
+    "source_url": "https://fabbricadelvapore.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "cinelandia-certosa",
     "tmdb_id": null,
     "raw_title": "Ultimo - Tutto.  Live A Tor Vergata",
@@ -17798,6 +15458,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 950028,
+    "raw_title": "THE INVITE – IL PIACERE È TUTTO NOSTRO",
+    "start": "2026-09-24T21:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -17860,6 +15530,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "godard",
+    "tmdb_id": 301365,
+    "raw_title": "THE NEON DEMON",
+    "start": "2026-09-25T18:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": null,
     "raw_title": "LE MANI DELLA MODA Episodio 3",
@@ -17910,6 +15590,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
   },
   {
+    "cinema_id": "godard",
+    "tmdb_id": 950028,
+    "raw_title": "THE INVITE – IL PIACERE È TUTTO NOSTRO",
+    "start": "2026-09-25T20:45:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": null,
     "raw_title": "(XL) Ultimo - Tutto. Live A Tor Vergata",
@@ -17938,6 +15628,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 10537,
+    "raw_title": "THE DOORS – THE FINAL CUT",
+    "start": "2026-09-26T15:30:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "arcobaleno",
@@ -17980,6 +15680,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "godard",
+    "tmdb_id": 77987,
+    "raw_title": "SOLO DIO PERDONA",
+    "start": "2026-09-26T18:15:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": null,
     "raw_title": "LE MANI DELLA MODA Episodio 3",
@@ -17998,6 +15708,16 @@
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/101094/6a074e27-1593-489a-9c55-fd48aaa7228f#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": null,
+    "raw_title": "TALK CON FABRIZIO LAURENTI + SERGIO E MIRTA / LA CASA 4 (WITCHCRAFT)",
+    "start": "2026-09-26T20:15:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "arcobaleno",
@@ -18040,6 +15760,16 @@
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "godard",
+    "tmdb_id": 1368337,
+    "raw_title": "ODISSEA",
+    "start": "2026-09-27T14:45:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
     "cinema_id": "cinelandia-certosa",
     "tmdb_id": null,
     "raw_title": "Ultimo - Tutto.  Live A Tor Vergata",
@@ -18080,6 +15810,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "godard",
+    "tmdb_id": 950028,
+    "raw_title": "THE INVITE – IL PIACERE È TUTTO NOSTRO",
+    "start": "2026-09-27T18:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": null,
     "raw_title": "(XL) Ultimo - Tutto. Live A Tor Vergata",
@@ -18108,6 +15848,16 @@
     "language": "unknown",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/101094/d80335a5-5415-4199-8360-b5f73c6ff44b#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "godard",
+    "tmdb_id": 1469342,
+    "raw_title": "HER PRIVATE HELL + INCONTRO CON NICOLAS WINDING REFN",
+    "start": "2026-09-27T20:15:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": null,
+    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
     "cinema_id": "arcobaleno",
