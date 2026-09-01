@@ -1,90 +1,5 @@
 [
   {
-    "tmdb_id": 1240889,
-    "title": "Camp Miasma - Adolescenza, sesso e morte",
-    "original_title": "Teenage Sex and Death at Camp Miasma",
-    "italian_title": "Camp Miasma - Adolescenza, sesso e morte",
-    "year": 2026,
-    "poster_path": "/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
-    "overview": "Kris è una regista queer di 29 anni che si è fatta conoscere con un film che è un omaggio a Psycho, visto però sotto la prospettiva della tenda della doccia. Ora le viene affidato il reboot di una lunga saga horror, Camp Miasma, il cui capostipite, realizzato negli anni '80, ha avuto un grandissimo successo al box-office. Successivamente però, nei continui rifacimenti, è entrata in crisi. Entusiasta del progetto, cerca di coinvolgere l'attrice che interpretava la ragazza sopravvissuta del primo film, Billy Presley. La donna, da anni, vive reclusa nello stesso luogo dove è stato girato Camp Miasma che si trova nel Pacifico settentrionale, vicino al Canada. Così Kris la raggiunge nella sua dimora per convincerla ad accettare la parte. Billy invita Kris a cena e poi a dormire a casa sua. Da quel momento la regista s'immergerà totalmente nell'atmosfera terrificante della saga e il suo rapporto con Billy si evolverà in modo sorprendente.",
-    "title_en": "Teenage Sex and Death at Camp Miasma",
-    "overview_en": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-    "runtime": 112,
-    "director": "Jane Schoenbrun",
-    "genres": [
-      "Horror",
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1329016,
-    "title": "Tony - Diario di un giovane cuoco",
-    "original_title": "Tony",
-    "italian_title": "Tony - Diario di un giovane cuoco",
-    "year": 2026,
-    "poster_path": "/nJwhcJyoUipwf5TKf2mE460Tf98.jpg",
-    "overview": "Quando il diciannovenne Anthony Bourdain arriva a Provincetown, finisce per ritrovarsi nel mondo caotico della cucina di un ristorante, dando il via a un'estate che segnerà il corso della sua vita.",
-    "title_en": "Tony",
-    "overview_en": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-    "runtime": 106,
-    "director": "Matt Johnson",
-    "genres": [
-      "Dramma",
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1553969,
-    "title": "Sheep in the Box",
-    "original_title": "箱の中の羊",
-    "italian_title": "Sheep in the Box",
-    "year": 2026,
-    "poster_path": "/aUeOpkCfGJHgQYFy89vTb0OvgWF.jpg",
-    "overview": null,
-    "title_en": "Sheep in the Box",
-    "overview_en": "Set in the near future, Otone Komoto works as an architect. She is married to Kensuke Komoto, who runs a construction company. The married couple decide to welcome a humanoid robot into their home as their son.",
-    "runtime": 126,
-    "director": "是枝裕和",
-    "genres": [
-      "Dramma",
-      "Fantascienza"
-    ]
-  },
-  {
-    "tmdb_id": 42853,
-    "title": "Odissea",
-    "original_title": "Odissea",
-    "italian_title": "Odissea",
-    "year": 1968,
-    "poster_path": "/orlKW4piaeA5UMTMqrQsQuOKl5w.jpg",
-    "overview": "Odissea è una miniserie televisiva co-prodotta da svariati Paesi nel 1968, basata sull'omonimo poema di Omero. Ne è stata distribuita una versione ridotta cinematografica dal titolo Le avventure di Ulisse.",
-    "title_en": "Odissea",
-    "overview_en": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
-    "runtime": 110,
-    "director": "Piero Schivazappa, Franco Rossi, Mario Bava",
-    "genres": [
-      "televisione film",
-      "Avventura",
-      "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1167466,
-    "title": "Maldoror",
-    "original_title": "Maldoror",
-    "italian_title": "Maldoror",
-    "year": 1997,
-    "poster_path": null,
-    "overview": null,
-    "title_en": "Maldoror",
-    "overview_en": "Adapted, in our day, from the Isidore Ducasse’s (called Lautréamont) book, Les Chants de Maldoror (The Maldodor's Chants). The film is a cinematic language essay which \"tells\", in a non-linear narrative, the activity of a consciousness that confronts, relentlessly, with its brightest part as the most obscure.",
-    "runtime": 85,
-    "director": "Kadour Naimi",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1430077,
     "title": "Hokum",
     "original_title": "Hokum",
@@ -114,6 +29,57 @@
     "director": "Emanuel Pârvu",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1553969,
+    "title": "Sheep in the Box",
+    "original_title": "箱の中の羊",
+    "italian_title": "Sheep in the Box",
+    "year": 2026,
+    "poster_path": "/aUeOpkCfGJHgQYFy89vTb0OvgWF.jpg",
+    "overview": null,
+    "title_en": "Sheep in the Box",
+    "overview_en": "Set in the near future, Otone Komoto works as an architect. She is married to Kensuke Komoto, who runs a construction company. The married couple decide to welcome a humanoid robot into their home as their son.",
+    "runtime": 126,
+    "director": "是枝裕和",
+    "genres": [
+      "Dramma",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 1329016,
+    "title": "Tony - Diario di un giovane cuoco",
+    "original_title": "Tony",
+    "italian_title": "Tony - Diario di un giovane cuoco",
+    "year": 2026,
+    "poster_path": "/nJwhcJyoUipwf5TKf2mE460Tf98.jpg",
+    "overview": "Quando il diciannovenne Anthony Bourdain arriva a Provincetown, finisce per ritrovarsi nel mondo caotico della cucina di un ristorante, dando il via a un'estate che segnerà il corso della sua vita.",
+    "title_en": "Tony",
+    "overview_en": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+    "runtime": 106,
+    "director": "Matt Johnson",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1240889,
+    "title": "Camp Miasma - Adolescenza, sesso e morte",
+    "original_title": "Teenage Sex and Death at Camp Miasma",
+    "italian_title": "Camp Miasma - Adolescenza, sesso e morte",
+    "year": 2026,
+    "poster_path": "/oSbPv3AbfXKEoboItK2DeDK397S.jpg",
+    "overview": "Kris è una regista queer di 29 anni che si è fatta conoscere con un film che è un omaggio a Psycho, visto però sotto la prospettiva della tenda della doccia. Ora le viene affidato il reboot di una lunga saga horror, Camp Miasma, il cui capostipite, realizzato negli anni '80, ha avuto un grandissimo successo al box-office. Successivamente però, nei continui rifacimenti, è entrata in crisi. Entusiasta del progetto, cerca di coinvolgere l'attrice che interpretava la ragazza sopravvissuta del primo film, Billy Presley. La donna, da anni, vive reclusa nello stesso luogo dove è stato girato Camp Miasma che si trova nel Pacifico settentrionale, vicino al Canada. Così Kris la raggiunge nella sua dimora per convincerla ad accettare la parte. Billy invita Kris a cena e poi a dormire a casa sua. Da quel momento la regista s'immergerà totalmente nell'atmosfera terrificante della saga e il suo rapporto con Billy si evolverà in modo sorprendente.",
+    "title_en": "Teenage Sex and Death at Camp Miasma",
+    "overview_en": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+    "runtime": 112,
+    "director": "Jane Schoenbrun",
+    "genres": [
+      "Horror",
+      "Commedia"
     ]
   },
   {
@@ -202,6 +168,22 @@
     ]
   },
   {
+    "tmdb_id": 1168719,
+    "title": "Silent Friend",
+    "original_title": "Silent Friend",
+    "italian_title": "Silent Friend",
+    "year": 2026,
+    "poster_path": "/bUUd6D7E0DuzxwSo4qnu136LW5v.jpg",
+    "overview": "Nel cuore di un giardino botanico in una città universitaria medievale in Germania si erge un maestoso ginkgo biloba. Questo testimone silenzioso ha osservato per oltre un secolo i tranquilli ritmi di trasformazione attraverso tre vite umane. 2020: un neuroscienziato di Hong Kong, esplorando la mente dei neonati, inizia un esperimento inaspettato con il vecchio albero. 1972: una giovane studentessa subisce un profondo cambiamento grazie al semplice atto di osservare e connettersi con un geranio. 1908: la prima donna ammessa all’università scopre, attraverso la lente della fotografia, i sacri schemi dell’universo nascosti nella più umile delle piante.  Seguiamo i loro goffi e impacciati tentativi di stabilire dei legami – ognuno profondamente radicato nel proprio presente – mentre vengono trasformati dal potere silenzioso, persistente e misterioso della natura. L’antico ginkgo biloba ci avvicina al senso dell’essere umani: al nostro desiderio di sentirci a casa.",
+    "title_en": "Silent Friend",
+    "overview_en": "In the heart of a botanical garden in a medieval university town in Germany stands a majestic ginkgo tree. This silent witness has observed over a century the quiet rhythms of transformation across three human lives. At three distinct moments across the 20th and 21st centuries, these people — each carrying their own questions and inner struggles — inevitably find themselves drawn into the presence of this tree, full of mystery and meaning.",
+    "runtime": 147,
+    "director": "Enyedi Ildikó",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 643,
     "title": "La corazzata Potëmkin",
     "original_title": "Броненосец Потёмкин",
@@ -220,55 +202,18 @@
     ]
   },
   {
-    "tmdb_id": 48203,
-    "title": "Il deserto dei Tartari",
-    "original_title": "Il deserto dei Tartari",
-    "italian_title": "Il deserto dei Tartari",
-    "year": 1976,
-    "poster_path": "/1lxmfJ5chPmeUdyGQ4YZnoelLyR.jpg",
-    "overview": "Giovan Battista Drogo, tenente di fresca nomina, si ritrova a svolgere il servizio militare presso la fortezza Bastiani, baluardo del vecchio impero austroungarico, situata in un luogo fantastico davanti ad un deserto cosiddetto dei Tartari. La lunga attesa del nemico che, secondo le visioni del capitano Ortiz dovrebbe arrivare da un momento all'altro, diventa l'unica ragione di vita dei militari.",
-    "title_en": "The Desert of the Tartars",
-    "overview_en": "Lieutenant Giovanni Drogo is assigned to the old Bastiani border fortress where he expects an imminent attack by nomadic fearsome Tartars.",
-    "runtime": 140,
-    "director": "Valerio Zurlini",
+    "tmdb_id": 1167466,
+    "title": "Maldoror",
+    "original_title": "Maldoror",
+    "italian_title": "Maldoror",
+    "year": 1997,
+    "poster_path": null,
+    "overview": null,
+    "title_en": "Maldoror",
+    "overview_en": "Adapted, in our day, from the Isidore Ducasse’s (called Lautréamont) book, Les Chants de Maldoror (The Maldodor's Chants). The film is a cinematic language essay which \"tells\", in a non-linear narrative, the activity of a consciousness that confronts, relentlessly, with its brightest part as the most obscure.",
+    "runtime": 85,
+    "director": "Kadour Naimi",
     "genres": [
-      "Storia",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1368337,
-    "title": "Odissea",
-    "original_title": "The Odyssey",
-    "italian_title": "Odissea",
-    "year": 2026,
-    "poster_path": "/5S4U3gM7N17ni028LJhO60zfcKJ.jpg",
-    "overview": "Ulisse, il leggendario re greco di Itaca, intraprende un lungo e pericoloso viaggio verso casa dopo la guerra di Troia, raccontando i suoi incontri con esseri mitici come il ciclope Polifemo, le Sirene e la dea strega Circe.",
-    "title_en": "The Odyssey",
-    "overview_en": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "runtime": 172,
-    "director": "Christopher Nolan",
-    "genres": [
-      "Avventura",
-      "Azione",
-      "Fantasy"
-    ]
-  },
-  {
-    "tmdb_id": 429200,
-    "title": "Good Time",
-    "original_title": "Good Time",
-    "italian_title": "Good Time",
-    "year": 2017,
-    "poster_path": "/qYPDDIWh8KUeOQFwx7QCJnc9t73.jpg",
-    "overview": "La storia di Good Time è quella di Constantine \"Connie\" Nickas, deciso a ritrovare il fratello finito in carcere per una rapina in banca andata male. Inizia così una scellerata odissea nel sottobosco criminale di New York, nel disperato tentativo prima di tirare il ragazzo handicappato mentale fuori di galera, e poi dall'ospedale dove viene ricoverato in seguito a un pestaggio dietro le sbarre. Nell'adrenalinica ricerca lunga l'intera notte, Connie si getterà in una corsa contro il tempo per salvare se stesso e suo fratello da un destino incerto e crudele.",
-    "title_en": "Good Time",
-    "overview_en": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
-    "runtime": 99,
-    "director": "Josh Safdie, Benny Safdie",
-    "genres": [
-      "Crime",
-      "Thriller",
       "Dramma"
     ]
   },
@@ -320,6 +265,24 @@
     "director": "Valerio Zurlini",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1368337,
+    "title": "Odissea",
+    "original_title": "The Odyssey",
+    "italian_title": "Odissea",
+    "year": 2026,
+    "poster_path": "/5S4U3gM7N17ni028LJhO60zfcKJ.jpg",
+    "overview": "Ulisse, il leggendario re greco di Itaca, intraprende un lungo e pericoloso viaggio verso casa dopo la guerra di Troia, raccontando i suoi incontri con esseri mitici come il ciclope Polifemo, le Sirene e la dea strega Circe.",
+    "title_en": "The Odyssey",
+    "overview_en": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "runtime": 172,
+    "director": "Christopher Nolan",
+    "genres": [
+      "Avventura",
+      "Azione",
+      "Fantasy"
     ]
   },
   {
@@ -407,19 +370,20 @@
     ]
   },
   {
-    "tmdb_id": 1168719,
-    "title": "Silent Friend",
-    "original_title": "Silent Friend",
-    "italian_title": "Silent Friend",
-    "year": 2026,
-    "poster_path": "/bUUd6D7E0DuzxwSo4qnu136LW5v.jpg",
-    "overview": "Nel cuore di un giardino botanico in una città universitaria medievale in Germania si erge un maestoso ginkgo biloba. Questo testimone silenzioso ha osservato per oltre un secolo i tranquilli ritmi di trasformazione attraverso tre vite umane. 2020: un neuroscienziato di Hong Kong, esplorando la mente dei neonati, inizia un esperimento inaspettato con il vecchio albero. 1972: una giovane studentessa subisce un profondo cambiamento grazie al semplice atto di osservare e connettersi con un geranio. 1908: la prima donna ammessa all’università scopre, attraverso la lente della fotografia, i sacri schemi dell’universo nascosti nella più umile delle piante.  Seguiamo i loro goffi e impacciati tentativi di stabilire dei legami – ognuno profondamente radicato nel proprio presente – mentre vengono trasformati dal potere silenzioso, persistente e misterioso della natura. L’antico ginkgo biloba ci avvicina al senso dell’essere umani: al nostro desiderio di sentirci a casa.",
-    "title_en": "Silent Friend",
-    "overview_en": "In the heart of a botanical garden in a medieval university town in Germany stands a majestic ginkgo tree. This silent witness has observed over a century the quiet rhythms of transformation across three human lives. At three distinct moments across the 20th and 21st centuries, these people — each carrying their own questions and inner struggles — inevitably find themselves drawn into the presence of this tree, full of mystery and meaning.",
-    "runtime": 147,
-    "director": "Enyedi Ildikó",
+    "tmdb_id": 1429348,
+    "title": "Lo straniero",
+    "original_title": "L'Étranger",
+    "italian_title": "Lo straniero",
+    "year": 2025,
+    "poster_path": "/mn7NG3TVqAPKAG4l1LcGyhl4Xk.jpg",
+    "overview": "Algeri, 1938. Meursault, un tranquillo e modesto impiegato sulla trentina, partecipa al funerale della madre senza versare una lacrima. Il giorno dopo inizia una relazione occasionale con Marie, una collega, e torna rapidamente alla solita routine. Ben presto, però, la sua vita quotidiana è sconvolta dal vicino, Raymond Sintès, che lo trascina nei suoi loschi affari, finché su una spiaggia, in una giornata torrida, si abbatte la tragedia.",
+    "title_en": "The Stranger",
+    "overview_en": "Algiers, 1938. Meursault, a quiet and unassuming employee in his early thirties, attends his mother's funeral without shedding a tear. The next day, he begins a casual affair with Marie, a work colleague. He quickly slips back into his usual routine.",
+    "runtime": 122,
+    "director": "François Ozon",
     "genres": [
-      "Dramma"
+      "Dramma",
+      "Crime"
     ]
   },
   {
@@ -487,6 +451,23 @@
     "genres": [
       "Crime",
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1208348,
+    "title": "Rental Family - Nelle vite degli altri",
+    "original_title": "Rental Family",
+    "italian_title": "Rental Family - Nelle vite degli altri",
+    "year": 2025,
+    "poster_path": "/4OchXepJLKSeFrLdd3Rk6Wj0H5R.jpg",
+    "overview": "Philip Vandarpleog è un attore americano che vive da otto anni a Tokyo, in Giappone, che considera ormai casa propria. Un tempo celebre perché interpretava un grosso tubetto di dentifricio, supereroe di una pubblicità popolarissima, adesso passa da un’audizione all’altra, mentre il suo agente lo manda a fare la comparsa in eventi come matrimoni e funerali. Ed è proprio a un finto funerale che Philip incontra Shinji, il capo di Rental Family, un’agenzia che procura attori per impersonare parenti e amici che non esistono, e lo scrittura: Philip diventa un giornalista amico di un anziano attore, il padre assente di una bambina sino-americana, il compagno di giochi di un appassionato di videogame.",
+    "title_en": "Rental Family",
+    "overview_en": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
+    "runtime": 110,
+    "director": "Hikari",
+    "genres": [
+      "Dramma",
+      "Commedia"
     ]
   },
   {
@@ -610,6 +591,60 @@
     ]
   },
   {
+    "tmdb_id": 429200,
+    "title": "Good Time",
+    "original_title": "Good Time",
+    "italian_title": "Good Time",
+    "year": 2017,
+    "poster_path": "/qYPDDIWh8KUeOQFwx7QCJnc9t73.jpg",
+    "overview": "La storia di Good Time è quella di Constantine \"Connie\" Nickas, deciso a ritrovare il fratello finito in carcere per una rapina in banca andata male. Inizia così una scellerata odissea nel sottobosco criminale di New York, nel disperato tentativo prima di tirare il ragazzo handicappato mentale fuori di galera, e poi dall'ospedale dove viene ricoverato in seguito a un pestaggio dietro le sbarre. Nell'adrenalinica ricerca lunga l'intera notte, Connie si getterà in una corsa contro il tempo per salvare se stesso e suo fratello da un destino incerto e crudele.",
+    "title_en": "Good Time",
+    "overview_en": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+    "runtime": 99,
+    "director": "Josh Safdie, Benny Safdie",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 144,
+    "title": "Il cielo sopra Berlino",
+    "original_title": "Der Himmel über Berlin",
+    "italian_title": "Il cielo sopra Berlino",
+    "year": 1987,
+    "poster_path": "/lP5RCnonnc7jq7bq6NHRSfBgSvB.jpg",
+    "overview": "Due angeli, Damiel e Cassiel, scendono dal cielo sopra Berlino sulla città ed osservano il comportamento degli umani, la loro disperazione, ma non possono fare nulla per aiutarli. Alla fine Damiel, innamoratosi di una bella trapezista dal cuore puro, perderà la sua condizione di angelo e resterà nella città.",
+    "title_en": "Wings of Desire",
+    "overview_en": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
+    "runtime": 130,
+    "director": "Wim Wenders",
+    "genres": [
+      "Dramma",
+      "Fantasy",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 832,
+    "title": "M - Il mostro di Düsseldorf",
+    "original_title": "M - Eine Stadt sucht einen Mörder",
+    "italian_title": "M - Il mostro di Düsseldorf",
+    "year": 1931,
+    "poster_path": "/9tzahfmcb8GyYtqOMSSfTr9Lium.jpg",
+    "overview": "Nel 1931 Fritz Lang gira M - Il mostro di Düsseldorf (suo primo film sonoro), in cui un ignoto assassino violenta e uccide numerose bambine senza lasciare alcuna traccia. Nella città viene organizzata una fitta rete di ricerche a cui partecipano anche i mendicanti e i criminali. Così si scopre il primo indizio: l'assassino quando avvicina le vittime fischietta un macabro motivo, tratto dal Peer Gynt di Grieg. Presto il mostro viene individuato da un venditore di palloncini che riesce con un gesso a segnargli sulle spalle una grande M (che sta per Morder, assassino).",
+    "title_en": "M",
+    "overview_en": "In this classic German thriller, Hans Beckert, a serial killer who preys on children, becomes the focus of a massive Berlin police manhunt. Beckert's heinous crimes are so repellant and disruptive to city life that he is even targeted by others in the seedy underworld network. With both cops and criminals in pursuit, the murderer soon realizes that people are on his trail, sending him into a tense, panicked attempt to escape justice.",
+    "runtime": 118,
+    "director": "Fritz Lang",
+    "genres": [
+      "Dramma",
+      "Thriller",
+      "Crime"
+    ]
+  },
+  {
     "tmdb_id": 1715722,
     "title": "Il cileno",
     "original_title": "Il cileno",
@@ -716,20 +751,6 @@
     ]
   },
   {
-    "tmdb_id": 830484,
-    "title": "Couture",
-    "original_title": "Couture",
-    "italian_title": "Couture",
-    "year": 2003,
-    "poster_path": null,
-    "overview": null,
-    "title_en": "Couture",
-    "overview_en": null,
-    "runtime": 3,
-    "director": "Dácio Pinheiro",
-    "genres": []
-  },
-  {
     "tmdb_id": 1390382,
     "title": "Coutures",
     "original_title": "Coutures",
@@ -744,6 +765,20 @@
     "genres": [
       "Dramma"
     ]
+  },
+  {
+    "tmdb_id": 830484,
+    "title": "Couture",
+    "original_title": "Couture",
+    "italian_title": "Couture",
+    "year": 2003,
+    "poster_path": null,
+    "overview": null,
+    "title_en": "Couture",
+    "overview_en": null,
+    "runtime": 3,
+    "director": "Dácio Pinheiro",
+    "genres": []
   },
   {
     "tmdb_id": 1164862,
@@ -844,6 +879,40 @@
     ]
   },
   {
+    "tmdb_id": 1154725,
+    "title": "Un mondo meraviglioso",
+    "original_title": "Un monde merveilleux",
+    "italian_title": "Un mondo meraviglioso",
+    "year": 2025,
+    "poster_path": "/g5DQUmj13LOQY2Frcx6nzoIFNju.jpg",
+    "overview": "In un futuro sempre più prossimo, in cui gli esseri umani dipendono completamente dai robot, Max — un’ex insegnante restia alla tecnologia — si arrangia per sopravvivere insieme alla figlia grazie a piccoli espedienti. Ha un piano: rapire un robot all’avanguardia, smontarlo e rivenderne i pezzi. Ma tutto va storto. Affiancata da questo robot che la esaspera, Max si ritrova coinvolta in un inseguimento per ritrovare sua figlia e dimostrare che, in questo mondo, è rimasta ancora un po’ di umanità.",
+    "title_en": "Robot T-O",
+    "overview_en": "In a near future, Max and her daughter are selling stolen robots on the black market. When Max loses custody of her daughter following their latest scheme, she must rely on the last robot she took, T-O, who is ready to do anything to help.",
+    "runtime": 78,
+    "director": "Giulio Callegari",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 1516724,
+    "title": "Fammi il piacere",
+    "original_title": "Pour le plaisir",
+    "italian_title": "Fammi il piacere",
+    "year": 2026,
+    "poster_path": "/bkmsl7MsV0NwFrAKxDEUmy1Ls3c.jpg",
+    "overview": "Dopo vent'anni di matrimonio, Fanny confessa a Thomas una verità che manda in frantumi le loro certezze: non ha mai provato un orgasmo. Per lui è uno shock, ma invece di chiudersi nel silenzio o arrendersi alla distanza, Thomas decide di trasformare quella confessione in una travolgente prova d'amore: ritrovare, insieme a Fanny, la strada del desiderio. Mentre lei si lancia con coraggio e ironia in un percorso di riscoperta di sé e del proprio piacere, Thomas affronta con entusiasmo, goffaggine e tenerezza l'universo del piacere femminile. Tra tentativi improbabili, fallimenti esilaranti e intuizioni sorprendenti, quella che sembrava una crisi di coppia si trasforma in un'avventura sentimentale brillante e fuori dagli schemi, capace di riaccendere la complicità e reinventare il loro amore.",
+    "title_en": "Good Vibes Only",
+    "overview_en": "Based on the true story of a married couple who invented a groundbreaking sex toy heralded as forever changing the way women experience pleasure.",
+    "runtime": 95,
+    "director": "Reem Kherici",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
     "tmdb_id": 747687,
     "title": "La scuola cattolica",
     "original_title": "La scuola cattolica",
@@ -894,24 +963,6 @@
     "genres": [
       "Animazione",
       "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1275779,
-    "title": "Disclosure Day",
-    "original_title": "Disclosure Day",
-    "italian_title": "Disclosure Day",
-    "year": 2026,
-    "poster_path": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
-    "overview": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
-    "title_en": "Disclosure Day",
-    "overview_en": "A cybersecurity expert becomes a whistleblower to reveal secrets about aliens, putting him on the run from a corporation while a meteorologist experiences strange phenomena and joins forces with him to prove there's life beyond our knowledge.",
-    "runtime": 145,
-    "director": "Steven Spielberg",
-    "genres": [
-      "Mistero",
-      "Fantascienza",
-      "Thriller"
     ]
   },
   {
@@ -967,6 +1018,41 @@
     ]
   },
   {
+    "tmdb_id": 1433367,
+    "title": "One Night Only - Quando tutto è possibile",
+    "original_title": "One Night Only",
+    "italian_title": "One Night Only - Quando tutto è possibile",
+    "year": 2026,
+    "poster_path": "/gSWPoxU6e0C4tAQNq5a5zjNGmuN.jpg",
+    "overview": "Allie e Owen, due sconosciuti affamati d'amore si incontrano in una New York leggermente romanzata nell'unica notte dell'anno in cui ai single è permesso fare sesso. Owen, appena lasciato, e Allie, romantica e piena di speranze, potrebbero essere gli unici due single in città alla ricerca di qualcosa di più di un semplice incontro occasionale. Entrambi sentono una scintilla quando si incontrano, ma una serie di passi falsi e di vicissitudini complicano la loro serata, tenendoli separati. Mentre corrono l’uno verso l’altra e poi si allontanano attraverso la città, potrebbero scoprire che l’unica cosa che desiderano di più è più vicina di quanto pensino.",
+    "title_en": "One Night Only",
+    "overview_en": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+    "runtime": 102,
+    "director": "Will Gluck",
+    "genres": [
+      "Commedia",
+      "Romance",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 1279493,
+    "title": "La vendetta perfetta - Bear Country",
+    "original_title": "The Get Out",
+    "italian_title": "La vendetta perfetta - Bear Country",
+    "year": 2026,
+    "poster_path": "/nDHdFt5EtpZRk8bRkJowruVXqGP.jpg",
+    "overview": "Manko Kapac è il proprietario di un nightclub che decide di lasciarsi alle spalle il suo passato pericoloso per godersi la pensione insieme alla donna che ama (Teresa Palmer). Quando due figure armate e mascherate (Aaron Paul e Nina Dobrev) lo rapinano e lui si ritrova stretto nella morsa dei cartelli, si presenta un uomo misterioso (Luke Evans) interessato ad acquistare il suo club. Con il pericolo che incombe da ogni parte, dovrà districarsi in una rete mortale di inganni, potere e sopravvivenza, dove la fuga potrebbe non essere più un'opzione.",
+    "title_en": "The Get Out",
+    "overview_en": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+    "runtime": 111,
+    "director": "Derrick Borte",
+    "genres": [
+      "Azione",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 1108427,
     "title": "Oceania",
     "original_title": "Moana",
@@ -1004,41 +1090,6 @@
     ]
   },
   {
-    "tmdb_id": 1433367,
-    "title": "One Night Only - Quando tutto è possibile",
-    "original_title": "One Night Only",
-    "italian_title": "One Night Only - Quando tutto è possibile",
-    "year": 2026,
-    "poster_path": "/gSWPoxU6e0C4tAQNq5a5zjNGmuN.jpg",
-    "overview": "Allie e Owen, due sconosciuti affamati d'amore si incontrano in una New York leggermente romanzata nell'unica notte dell'anno in cui ai single è permesso fare sesso. Owen, appena lasciato, e Allie, romantica e piena di speranze, potrebbero essere gli unici due single in città alla ricerca di qualcosa di più di un semplice incontro occasionale. Entrambi sentono una scintilla quando si incontrano, ma una serie di passi falsi e di vicissitudini complicano la loro serata, tenendoli separati. Mentre corrono l’uno verso l’altra e poi si allontanano attraverso la città, potrebbero scoprire che l’unica cosa che desiderano di più è più vicina di quanto pensino.",
-    "title_en": "One Night Only",
-    "overview_en": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
-    "runtime": 102,
-    "director": "Will Gluck",
-    "genres": [
-      "Commedia",
-      "Romance",
-      "Fantascienza"
-    ]
-  },
-  {
-    "tmdb_id": 1279493,
-    "title": "La vendetta perfetta - Bear Country",
-    "original_title": "The Get Out",
-    "italian_title": "La vendetta perfetta - Bear Country",
-    "year": 2026,
-    "poster_path": "/nDHdFt5EtpZRk8bRkJowruVXqGP.jpg",
-    "overview": "Manko Kapac è il proprietario di un nightclub che decide di lasciarsi alle spalle il suo passato pericoloso per godersi la pensione insieme alla donna che ama (Teresa Palmer). Quando due figure armate e mascherate (Aaron Paul e Nina Dobrev) lo rapinano e lui si ritrova stretto nella morsa dei cartelli, si presenta un uomo misterioso (Luke Evans) interessato ad acquistare il suo club. Con il pericolo che incombe da ogni parte, dovrà districarsi in una rete mortale di inganni, potere e sopravvivenza, dove la fuga potrebbe non essere più un'opzione.",
-    "title_en": "The Get Out",
-    "overview_en": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
-    "runtime": 111,
-    "director": "Derrick Borte",
-    "genres": [
-      "Azione",
-      "Thriller"
-    ]
-  },
-  {
     "tmdb_id": 1280015,
     "title": "Sunny Dancer",
     "original_title": "Sunny Dancer",
@@ -1052,6 +1103,22 @@
     "director": "George Jaques",
     "genres": [
       "Dramma",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1605372,
+    "title": "Il malloppo",
+    "original_title": "Il malloppo",
+    "italian_title": "Il malloppo",
+    "year": 2026,
+    "poster_path": "/tTpHYA1XCg4ZzN2pn6n58XDiuxV.jpg",
+    "overview": "Diego Viani è un ex rapinatore, noto negli anni ’80 per i suoi colpi “a mano disarmata”. Il suo migliore amico è Michele Ragusa, uno scalcinato investigatore privato che vivacchia arrangiandosi tra casi di infedeltà coniugale. Con lui lavora Alex, tirocinante non retribuito, mammone e imbranato, che sogna di diventare investigatore senza avere il minimo talento. Quando il passato di Diego si ripresenta sotto le sembianze di Salamandra, un vecchio complice che lo accusa di aver sottratto il bottino dell’ultimo colpo — cinque miliardi di lire in lingotti d’oro scomparsi nel nulla — tutto precipita. La morte misteriosa di Salamandra rende Diego il principale sospettato. Il commissario Castrone, che nutre verso Diego un vecchio odio personale, è convinto della sua colpevolezza. L’unico a credere nell’innocenza di Diego è Ragusa che, affiancato dall’improbabile Alex, decide di indagare.",
+    "title_en": "Il malloppo",
+    "overview_en": "Diego Viani is a former robber, well-known in the 1980s for his \"unarmed\" heists. His best friend is Michele Ragusa, a shabby private investigator scraping by on cases of marital infidelity. Working alongside him is Alex, an unpaid intern—a clumsy \"mama’s boy\" who dreams of becoming a detective despite having no talent for it.  Everything spirals out of control when Diego’s past resurfaces in the form of Salamandra, an old accomplice. Salamandra accuses him of stealing the loot from their final job: five billion lire in gold bullion that vanished into thin air.  When Salamandra dies under mysterious circumstances, Diego becomes the prime suspect. Commissioner Castrone, fueled by a long-standing personal vendetta, is convinced of his guilt. The only person who believes in Diego’s innocence is Ragusa, who decides to investigate with the help of the unlikely Alex.",
+    "runtime": null,
+    "director": "Volfango De Biasi",
+    "genres": [
       "Commedia"
     ]
   },
@@ -1318,40 +1385,6 @@
     ]
   },
   {
-    "tmdb_id": 639988,
-    "title": "No Other Choice - Non c'è altra scelta",
-    "original_title": "어쩔수가없다",
-    "italian_title": "No Other Choice - Non c'è altra scelta",
-    "year": 2025,
-    "poster_path": "/6U7LDiu4IBMxw9chpT79UhuE3bR.jpg",
-    "overview": "Man-su, specialista nella produzione di carta con venticinque anni di esperienza, è così soddisfatto della vita da potersi dire sinceramente: “Ho tutto”. Finché un giorno viene improvvisamente informato dalla sua azienda di essere stato licenziato. Sentendosi come se gli avessero reciso la testa con un’ascia, Man-su giura di trovare un nuovo lavoro entro i successivi tre mesi per il bene della famiglia. Nonostante la sua ferma determinazione, trascorre oltre un anno passando da un colloquio all’altro, finendo per lavorare in un negozio al dettaglio. Si ritrova a rischio di perdere quella stessa casa che ha faticato così tanto per comprare. Disperato, si presenta senza preavviso alla Moon Paper per consegnare il curriculum, ma viene umiliato dal responsabile di linea Sun-chul. Sapendo di essere più qualificato di chiunque altro per lavorare lì, prende una decisione: se non c’è un posto vacante per me, dovrò farmi assumere creandone uno.",
-    "title_en": "No Other Choice",
-    "overview_en": "After being laid off and humiliated by a ruthless job market, a veteran paper mill manager descends into violence in a desperate bid to reclaim his dignity.",
-    "runtime": 140,
-    "director": "Park Chan-wook",
-    "genres": [
-      "Commedia",
-      "Crime",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1438958,
-    "title": "Antartica - Quasi una fiaba",
-    "original_title": "Antartica - Quasi una fiaba",
-    "italian_title": "Antartica - Quasi una fiaba",
-    "year": 2026,
-    "poster_path": "/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg",
-    "overview": "Una piccola comunità di scienziati, irraggiungibile per otto mesi l’anno, guarda al futuro della specie umana, cercando cose che ancora non capisce. Non Conosce. Non sa. Cose sopra e sottoterra.  L’arrivo di Maria Medri (Barbara Ronchi), genio forastico e cocciuto, nella base più isolata dell’Antartide, metterà in crisi i progetti del capomissione Fulvio Cadorna (Silvio Orlando), suo mentore.  Fulvio e Maria sono simili, sono legati, sono complici. Ma come spesso capita, tutti vogliono la stessa cosa, fino al giorno in cui ognuno vuole la sua.  Un conflitto scientifico, ideologico, affettivo.",
-    "title_en": "Antartica - Quasi una fiaba",
-    "overview_en": "A small group of scientists, unreachable for eight months, explores the future of humanity. Maria Medri, a foreign genius, arrives in Antarctica, challenging Fulvio Cadorna's plans. They are similar but conflicting, as everyone desires their own. This scientific, ideological, and emotional conflict unfolds.",
-    "runtime": null,
-    "director": "Lucia Calamaro",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1167490,
     "title": "Tofu in Japan. La ricetta segreta del Signor Takano",
     "original_title": "高野豆腐店の春",
@@ -1404,23 +1437,6 @@
     ]
   },
   {
-    "tmdb_id": 1576934,
-    "title": "The Echo Chamber",
-    "original_title": "The Echo Chamber",
-    "italian_title": "The Echo Chamber",
-    "year": 2026,
-    "poster_path": "/sY8OENcGshVtHDcV5JUQsPgxbsO.jpg",
-    "overview": "Una storia d’amore in cui i confini tra presenza e assenza, cura e dipendenza, desiderio e controllo si confondono fino a dissolversi. Leo e Anne si inseguono, si sfiorano, si perdono, si cercano. Non riescono a lasciarsi né a liberarsi. Tra le stanze risuona la voce di Ava che attraversa il tempo e lascia affiorare ciò che resiste, o che non può più essere trattenuto.",
-    "title_en": "The Echo Chamber",
-    "overview_en": "Leo and Ava chase each other—coming close, drifting apart, and searching for their way back. They cannot let go, nor break free. Through the rooms, Ava’s voice echoes across time, carrying to the surface what endures—and what can no longer be held back.",
-    "runtime": 123,
-    "director": "Andrea Pallaoro",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
     "tmdb_id": 1723662,
     "title": "Dov’è la fiesta?",
     "original_title": "Dov’è la fiesta?",
@@ -1451,23 +1467,6 @@
     "director": "Gianni Amelio",
     "genres": [
       "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1208348,
-    "title": "Rental Family - Nelle vite degli altri",
-    "original_title": "Rental Family",
-    "italian_title": "Rental Family - Nelle vite degli altri",
-    "year": 2025,
-    "poster_path": "/4OchXepJLKSeFrLdd3Rk6Wj0H5R.jpg",
-    "overview": "Philip Vandarpleog è un attore americano che vive da otto anni a Tokyo, in Giappone, che considera ormai casa propria. Un tempo celebre perché interpretava un grosso tubetto di dentifricio, supereroe di una pubblicità popolarissima, adesso passa da un’audizione all’altra, mentre il suo agente lo manda a fare la comparsa in eventi come matrimoni e funerali. Ed è proprio a un finto funerale che Philip incontra Shinji, il capo di Rental Family, un’agenzia che procura attori per impersonare parenti e amici che non esistono, e lo scrittura: Philip diventa un giornalista amico di un anziano attore, il padre assente di una bambina sino-americana, il compagno di giochi di un appassionato di videogame.",
-    "title_en": "Rental Family",
-    "overview_en": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
-    "runtime": 110,
-    "director": "Hikari",
-    "genres": [
-      "Dramma",
-      "Commedia"
     ]
   },
   {
@@ -1587,6 +1586,23 @@
     ]
   },
   {
+    "tmdb_id": 57967,
+    "title": "Sogni d'oro",
+    "original_title": "Sogni d'oro",
+    "italian_title": "Sogni d'oro",
+    "year": 1981,
+    "poster_path": "/4TSmNeUdA1EtGyqKS7UH00i9kew.jpg",
+    "overview": "Michele Apicella è un giovane regista romano frustrato dall'incomprensione cui va incontro il suo lavoro; sta ultimando le riprese del suo terzo film, un'opera su Sigmund Freud. Apicella è seguito da due fratelli arrivati a Roma dalla provincia, che si offrono di fare da assistenti volontari per imparare il mestiere. Mentre Apicella prosegue faticosamente le riprese del suo film, la sua insicurezza lo porta ad avere dei terribili incubi, nei quali insegue una bella ragazza di nome Silvia e, sempre più roso dal tarlo della gelosia, si trasforma alla fine in un lupo mannaro.",
+    "title_en": "Sweet Dreams",
+    "overview_en": "Michele is a young filmmaker frustrated by the lack of understanding his work receives and at odds with the film industry, especially a colleague making a musical on the '68 student protests. As he struggles to complete his own film about Freud's mother, Michele's insecurity and creative block manifest in a series of unsettling nightmares. Nanni Moretti's self-inquiry into cinema, political ennui, and men's relationships with their mothers.",
+    "runtime": 100,
+    "director": "Nanni Moretti",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1263012,
     "title": "Il filo del ricatto -  Dead Man's Wire",
     "original_title": "Dead Man's Wire",
@@ -1634,6 +1650,24 @@
     "director": "嘉村荒野",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 299534,
+    "title": "Avengers: Endgame",
+    "original_title": "Avengers: Endgame",
+    "italian_title": "Avengers: Endgame",
+    "year": 2019,
+    "poster_path": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
+    "overview": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo è stata dimezzata e tra i caduti c'è stato anche Nick Fury. Ma prima di morire questi è riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos però non si può risolvere con la semplice superforza e i colpi di energia...",
+    "title_en": "Avengers: Endgame",
+    "overview_en": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+    "runtime": 181,
+    "director": "Anthony Russo, Joe Russo",
+    "genres": [
+      "Avventura",
+      "Fantascienza",
+      "Azione"
     ]
   },
   {
@@ -1704,6 +1738,23 @@
       "Commedia",
       "Famiglia",
       "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 1288445,
+    "title": "Mutiny - Inverti la rotta",
+    "original_title": "Mutiny",
+    "italian_title": "Mutiny - Inverti la rotta",
+    "year": 2026,
+    "poster_path": "/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
+    "overview": "Jason Statham, nei panni dell’ex soldato Cole Reed, si arruola clandestinamente a bordo di una nave mercantile per rintracciare l’assassino del suo facoltoso datore di lavoro. In una spietata caccia all’uomo Reed scopre che dietro l’omicidio si nasconde molto di più di un semplice regolamento di conti. Per arrivare alla verità, dovrà affrontare una complessa cospirazione internazionale e una vecchia minaccia che riaffiora dal suo passato.",
+    "title_en": "Mutiny",
+    "overview_en": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+    "runtime": 95,
+    "director": "Jean-François Richet",
+    "genres": [
+      "Azione",
+      "Thriller"
     ]
   },
   {

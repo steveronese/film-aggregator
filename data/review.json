@@ -1,12 +1,5 @@
 [
   {
-    "raw_title": "THE ODYSSEY - ODISSEA",
-    "tmdb_id": 42853,
-    "matched_title": "Odissea",
-    "method": "ai",
-    "confidence": 95.0
-  },
-  {
     "raw_title": "TIME",
     "tmdb_id": 429200,
     "matched_title": "Good Time",
@@ -31,6 +24,13 @@
     "raw_title": "V.O. SOTT.ITA - ALICE NELLE CITTÀ (ALICE IN DEN STADTEN)",
     "tmdb_id": 2204,
     "matched_title": "Alice nelle città",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "UN MONDO MERAVIGLIOSO (UN MONDE MARVEILLEUX)",
+    "tmdb_id": 1154725,
+    "matched_title": "Un mondo meraviglioso",
     "method": "ai",
     "confidence": 100.0
   },
@@ -105,6 +105,20 @@
     "confidence": 95.0
   },
   {
+    "raw_title": "(3d) Avengers: Endgame Extra",
+    "tmdb_id": 299534,
+    "matched_title": "Avengers: Endgame",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "(O.V.) Avengers: Endgame Extra",
+    "tmdb_id": 299534,
+    "matched_title": "Avengers: Endgame",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "(O.V.) Harry Potter And The Sorcerer -25",
     "tmdb_id": 671,
     "matched_title": "Harry Potter e la pietra filosofale",
@@ -133,6 +147,20 @@
     "confidence": 90.9090909090909
   },
   {
+    "raw_title": "(Sala XL) Avengers: Endgame Extra",
+    "tmdb_id": 299534,
+    "matched_title": "Avengers: Endgame",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "Avengers: Endgame Extra",
+    "tmdb_id": 299534,
+    "matched_title": "Avengers: Endgame",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "Ferrari 250 Gto - L'Auto Di Mauro",
     "tmdb_id": 1359883,
     "matched_title": "Ferrari 250 GTO - L'auto di Mauro Forghieri che salvò Maranello",
@@ -152,12 +180,5 @@
     "matched_title": "One Night Only - Quando tutto è possibile",
     "method": "ai",
     "confidence": 95.0
-  },
-  {
-    "raw_title": "(Lingua Orig.) The Dog Stars",
-    "tmdb_id": 1384216,
-    "matched_title": "The Dog Stars - Le stelle dopo la fine",
-    "method": "ai",
-    "confidence": 100.0
   }
 ]
