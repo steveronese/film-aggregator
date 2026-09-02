@@ -11,6 +11,10 @@
     "title": "",
     "year": null
   },
+  "::extract::(lingua orig.) coyote vs acme": {
+    "title": "Coyote Vs Acme",
+    "year": null
+  },
   "::extract::(lingua orig.) ghost: 2 big to rig": {
     "title": "Ghost: 2 Big To Rig",
     "year": null
@@ -151,6 +155,10 @@
     "title": "Gente di Roma",
     "year": null
   },
+  "::extract::grand prix autism friendly": {
+    "title": "",
+    "year": null
+  },
   "::extract::greta e le favole vere autism friendly": {
     "title": "",
     "year": null
@@ -243,6 +251,10 @@
     "title": "",
     "year": null
   },
+  "::extract::mirzapur": {
+    "title": "Mirzapur",
+    "year": null
+  },
   "::extract::no good men": {
     "title": "NO GOOD MEN",
     "year": null
@@ -315,12 +327,20 @@
     "title": "",
     "year": null
   },
+  "::extract::talking tom heroes super amici": {
+    "title": "",
+    "year": null
+  },
   "::extract::terminator 2 - 35esimo anniversario": {
     "title": "Terminator 2",
     "year": 1991
   },
   "::extract::the dog stars - le stelle dopo isens": {
     "title": "The Dog Stars - Le Stelle Dopo",
+    "year": null
+  },
+  "::extract::the mortuary assistant - anatomia": {
+    "title": "The Mortuary Assistant",
     "year": null
   },
   "::extract::the odissey (o.v.) - con talk": {
@@ -491,6 +511,10 @@
     "confidence": 100,
     "tmdb_id": 299534
   },
+  "avengers endgame extra infinity v": {
+    "confidence": 95,
+    "tmdb_id": 299534
+  },
   "backrooms everything must go": {
     "confidence": null,
     "tmdb_id": null
@@ -540,6 +564,10 @@
     "tmdb_id": 1103678
   },
   "ferrari 250 gto l auto di mauro": {
+    "confidence": 95,
+    "tmdb_id": 1359883
+  },
+  "ferrari 250 gto l auto di mauro f": {
     "confidence": 95,
     "tmdb_id": 1359883
   },
@@ -686,6 +714,10 @@
   "margherita gauthier camille": {
     "confidence": 100,
     "tmdb_id": 43874
+  },
+  "mirzapur": {
+    "confidence": null,
+    "tmdb_id": null
   },
   "nimrods a green day comedy": {
     "confidence": 95,

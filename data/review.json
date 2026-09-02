@@ -1,5 +1,12 @@
 [
   {
+    "raw_title": "Rufus - Il Draghetto Marino Che Non Sapeva Nuotare #cinecircolino",
+    "tmdb_id": 1512207,
+    "matched_title": "Rufus - Il draghetto marino che non sapeva nuotare",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "TIME",
     "tmdb_id": 429200,
     "matched_title": "Good Time",
@@ -31,6 +38,13 @@
     "raw_title": "UN MONDO MERAVIGLIOSO (UN MONDE MARVEILLEUX)",
     "tmdb_id": 1154725,
     "matched_title": "Un mondo meraviglioso",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "V.O.SOTT.ITA CALLE MALAGA (CALLE MALAGA)",
+    "tmdb_id": 1399462,
+    "matched_title": "Calle Málaga",
     "method": "ai",
     "confidence": 100.0
   },
@@ -178,6 +192,34 @@
     "raw_title": "One Night Only - Quando Tutto",
     "tmdb_id": 1433367,
     "matched_title": "One Night Only - Quando tutto è possibile",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "The Mortuary Assistant - Anatomia",
+    "tmdb_id": 1470130,
+    "matched_title": "The Mortuary Assistant",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "(Lingua Orig.) Coyote Vs Acme",
+    "tmdb_id": 1204680,
+    "matched_title": "Coyote vs. Acme",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
+    "raw_title": "Atmos Avengers: Endgame Extra Infinity V",
+    "tmdb_id": 299534,
+    "matched_title": "Avengers: Endgame",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "Ferrari 250 Gto - L'Auto Di Mauro F...",
+    "tmdb_id": 1359883,
+    "matched_title": "Ferrari 250 GTO - L'auto di Mauro Forghieri che salvò Maranello",
     "method": "ai",
     "confidence": 95.0
   }
