@@ -28,6 +28,13 @@
     "confidence": 95.0
   },
   {
+    "raw_title": "LA PIÚ PICCOLA (LA PETITE DERNIÈRE)",
+    "tmdb_id": 961077,
+    "matched_title": "La più piccola",
+    "method": "ai",
+    "confidence": 100.0
+  },
+  {
     "raw_title": "V.O. SOTT.ITA - ALICE NELLE CITTÀ (ALICE IN DEN STADTEN)",
     "tmdb_id": 2204,
     "matched_title": "Alice nelle città",
@@ -56,13 +63,6 @@
     "confidence": 100.0
   },
   {
-    "raw_title": "IL CASO 137 (DOSSIER 137)",
-    "tmdb_id": 1294698,
-    "matched_title": "Il caso 137",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "TERAPIA DI FAMIGLIA (JAMAIS SANS MON PSY)",
     "tmdb_id": 1130402,
     "matched_title": "Terapia di famiglia",
@@ -80,20 +80,6 @@
     "raw_title": "THE DOORS – THE FINAL CUT",
     "tmdb_id": 10537,
     "matched_title": "The Doors",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "TOFU IN JAPAN - LA RICETTA SEGRETA DEL SIGNOR TAKANO (TAKANO TOFU)",
-    "tmdb_id": 1167490,
-    "matched_title": "Tofu in Japan. La ricetta segreta del Signor Takano",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "AMORI & INCANTESIMI 2 (PRACTICAL MAGIC 2)",
-    "tmdb_id": 1302904,
-    "matched_title": "Amori & incantesimi 2",
     "method": "ai",
     "confidence": 100.0
   },
@@ -129,13 +115,6 @@
     "raw_title": "(O.V.) Avengers: Endgame Extra",
     "tmdb_id": 299534,
     "matched_title": "Avengers: Endgame",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
-    "raw_title": "(O.V.) Harry Potter And The Sorcerer -25",
-    "tmdb_id": 671,
-    "matched_title": "Harry Potter e la pietra filosofale",
     "method": "ai",
     "confidence": 100.0
   },
@@ -182,13 +161,6 @@
     "confidence": 95.0
   },
   {
-    "raw_title": "Harry Potter E La Pietra Filosofale - 25",
-    "tmdb_id": 671,
-    "matched_title": "Harry Potter e la pietra filosofale",
-    "method": "ai",
-    "confidence": 100.0
-  },
-  {
     "raw_title": "One Night Only - Quando Tutto",
     "tmdb_id": 1433367,
     "matched_title": "One Night Only - Quando tutto è possibile",
@@ -211,6 +183,13 @@
   },
   {
     "raw_title": "Atmos Avengers: Endgame Extra Infinity V",
+    "tmdb_id": 299534,
+    "matched_title": "Avengers: Endgame",
+    "method": "ai",
+    "confidence": 95.0
+  },
+  {
+    "raw_title": "Avengers: Endgame Extra Infinity V",
     "tmdb_id": 299534,
     "matched_title": "Avengers: Endgame",
     "method": "ai",
