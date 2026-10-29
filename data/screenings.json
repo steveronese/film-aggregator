@@ -1,55 +1,5 @@
 [
   {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1400940,
-    "raw_title": "Clayface",
-    "start": "2026-10-29T14:00:00",
-    "hall": "10",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1214130,
-    "raw_title": "Frankie E Le Creature Dimenticate",
-    "start": "2026-10-29T14:00:00",
-    "hall": "14",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1438966,
-    "raw_title": "Je So' Pazzo",
-    "start": "2026-10-29T14:00:00",
-    "hall": "13",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1735959,
-    "raw_title": "CARLA LONZI - DENTRO E FUORI DAL MONDO",
-    "start": "2026-10-29T14:10:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/carla-lonzi-dentro-e-fuori-dal-mondo/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 791523,
-    "raw_title": "Wildwood - I Segreti Del Bosco Proibito",
-    "start": "2026-10-29T14:10:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
     "cinema_id": "notorious-merlata",
     "tmdb_id": 1506710,
     "raw_title": "DIO RIDE",
@@ -19388,16 +19338,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1632103,
-    "raw_title": "LA CITTA' DEI VIVI",
-    "start": "2026-11-10T15:00:00",
-    "hall": "Abanella",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/124920/9f145736-24f2-4328-b8cd-88a9b8195537#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "san-fedele",
