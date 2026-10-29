@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 
-// Static output (default). Set `site` to the real domain at deploy time for correct canonical URLs.
+// Static output (default). `site` = the production URL (update if a custom domain is added).
 export default defineConfig({
-  site: 'https://example.com',
+  site: 'https://film-aggregator.pages.dev',
 });

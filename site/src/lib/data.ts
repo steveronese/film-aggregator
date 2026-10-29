@@ -1,9 +1,17 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import { fileURLToPath } from 'node:url';
 
-// data/*.json lives at the repo root, alongside the site/ directory.
-const DATA_DIR = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../../data');
+// data/*.json lives at the repo root, alongside the site/ directory. Found by walking up from the
+// build's working directory rather than from import.meta.url: Astro bundles this module into
+// dist/.prerender/chunks/ at build time, so a path relative to the source file breaks.
+function findDataDir(): string {
+  for (let dir = process.cwd(); ; dir = path.dirname(dir)) {
+    const candidate = path.join(dir, 'data');
+    if (fs.existsSync(path.join(candidate, 'screenings.json'))) return candidate;
+    if (path.dirname(dir) === dir) throw new Error(`data/screenings.json not found above ${process.cwd()}`);
+  }
+}
+const DATA_DIR = findDataDir();
 
 export type Language = 'original' | 'original_subbed' | 'dubbed' | 'unknown';
 
