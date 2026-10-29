@@ -34,8 +34,34 @@ class AIMatcher:
         self._cache: dict[str, Any] = self._load()
         self._dirty = False
         self.api_key = None if offline else os.environ.get("MISTRAL_API_KEY")
-        self.enabled = bool(self.api_key)
+        self._configured = bool(self.api_key)
         self._client = httpx.Client(timeout=30.0)
+        # Circuit breaker: after too many consecutive API failures (the free tier rate-limiting us
+        # with 429s, or an outage), stop calling the provider for the rest of the run. Every doomed
+        # call otherwise costs a throttled round-trip, spams the log, and — worst of all, before this
+        # existed — a bug in the error path could sink the whole pipeline. Falling back to no-AI
+        # matching degrades gracefully: fuzzy matches still land, the rest go to unmatched.json.
+        self._consecutive_failures = 0
+        self._tripped = False
+
+    _FAILURE_LIMIT = 5
+
+    @property
+    def enabled(self) -> bool:
+        return self._configured and not self._tripped
+
+    def _note_failure(self, exc: Exception) -> None:
+        self._consecutive_failures += 1
+        if not self._tripped and self._consecutive_failures >= self._FAILURE_LIMIT:
+            self._tripped = True
+            log.warning(
+                "AI matcher disabled for the rest of this run after %d consecutive failures "
+                "(last: %s). Continuing with fuzzy matching only.",
+                self._consecutive_failures, exc,
+            )
+
+    def _note_success(self) -> None:
+        self._consecutive_failures = 0
 
     def _load(self) -> dict[str, Any]:
         if self.cache_path.exists():
@@ -63,8 +89,12 @@ class AIMatcher:
 
         valid_ids = {c["id"] for c in candidates}
         result = self._ask(raw_title or norm_title, candidates)
-        tmdb_id = result.get("tmdb_id") if result else None
-        conf = result.get("confidence") if result else None
+        if result is None:
+            # API call failed (e.g. a 429) — don't cache, so a transient failure doesn't poison
+            # the committed cache and permanently mark this title unmatchable.
+            return None, None
+        tmdb_id = result.get("tmdb_id")
+        conf = result.get("confidence")
         if tmdb_id not in valid_ids:  # reject anything not grounded in the candidates
             tmdb_id, conf = None, None
         self._cache[norm_title] = {"tmdb_id": tmdb_id, "confidence": conf}
@@ -101,7 +131,9 @@ class AIMatcher:
             title = (data.get("title") or "").strip()
             year = data.get("year")
             result = {"title": title, "year": year if isinstance(year, int) else None}
+            self._note_success()
         except (httpx.HTTPError, KeyError, IndexError, json.JSONDecodeError) as exc:
+            self._note_failure(exc)
             log.warning("AI extract failed for %r: %s", raw_title, exc)
             return None
         self._cache[key] = result
@@ -144,7 +176,10 @@ class AIMatcher:
             )
             resp.raise_for_status()
             text = resp.json()["choices"][0]["message"]["content"]
-            return json.loads(text)
+            parsed = json.loads(text)
+            self._note_success()
+            return parsed
         except (httpx.HTTPError, KeyError, IndexError, json.JSONDecodeError) as exc:
-            log.warning("AI match failed for %r: %s", norm_title, exc)
+            self._note_failure(exc)
+            log.warning("AI match failed for %r: %s", listing_title, exc)
             return None

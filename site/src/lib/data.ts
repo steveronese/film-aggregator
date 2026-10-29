@@ -49,7 +49,26 @@ function load<T>(name: string): T {
 
 export const getCinemas = (): Cinema[] => load<Cinema[]>('cinemas.json');
 export const getFilms = (): Film[] => load<Film[]>('films.json');
-export const getScreenings = (): Screening[] => load<Screening[]>('screenings.json');
+
+// Today's date (YYYY-MM-DD) in Europe/Rome — the cinemas' timezone — so the "upcoming" cutoff is
+// correct no matter where the build runs (local Mac vs. the UTC GitHub Actions runner).
+function todayKeyRome(): string {
+  return new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Europe/Rome', year: 'numeric', month: '2-digit', day: '2-digit',
+  }).format(new Date());
+}
+
+// Only expose screenings from today onward. Scrape-time already drops past showings, but filtering
+// here too means the site degrades gracefully if the data ever goes stale (e.g. the refresh job
+// stalls): it shows an honest empty state instead of months-old listings. Day-level (not instant)
+// so earlier-today showtimes still appear.
+export const getScreenings = (): Screening[] => {
+  const cutoff = todayKeyRome();
+  return load<Screening[]>('screenings.json').filter((s) => s.start.slice(0, 10) >= cutoff);
+};
+
+// Unfiltered — for diagnostics/counts that need the raw file.
+export const getAllScreenings = (): Screening[] => load<Screening[]>('screenings.json');
 
 export function cinemasById(): Map<string, Cinema> {
   return new Map(getCinemas().map((c) => [c.id, c]));

@@ -20,6 +20,12 @@ USER_AGENT = (
 _MIN_INTERVAL = 1.0
 _last_request: dict[str, float] = {}
 
+# On HTTP 429 (rate limited) retry a few times with exponential backoff before giving up. Some
+# backends (notably 18tickets' per-film title pages) rate-limit bursts even at _MIN_INTERVAL, so a
+# short backoff recovers most of those requests instead of losing the film's title.
+_MAX_RETRIES = 3
+_BACKOFF_BASE = 2.0
+
 
 def _throttle(url: str) -> None:
     host = urlparse(url).netloc
@@ -40,17 +46,33 @@ def make_client() -> httpx.Client:
     )
 
 
-def get(client: httpx.Client, url: str, **kwargs) -> httpx.Response:
-    """GET with per-host throttling. Raises for HTTP errors."""
-    _throttle(url)
-    resp = client.get(url, **kwargs)
-    resp.raise_for_status()
+def _retry_after(resp: httpx.Response, attempt: int) -> float:
+    """Seconds to wait before retrying a 429: honour the Retry-After header if sane, else back off."""
+    header = resp.headers.get("Retry-After")
+    if header and header.isdigit():
+        return min(float(header), 30.0)
+    return _BACKOFF_BASE * (2 ** attempt)
+
+
+def _request(client: httpx.Client, method: str, url: str, **kwargs) -> httpx.Response:
+    """Issue a throttled request, retrying on 429 with backoff. Raises for other HTTP errors."""
+    for attempt in range(_MAX_RETRIES + 1):
+        _throttle(url)
+        resp = client.request(method, url, **kwargs)
+        if resp.status_code == 429 and attempt < _MAX_RETRIES:
+            time.sleep(_retry_after(resp, attempt))
+            continue
+        resp.raise_for_status()
+        return resp
+    resp.raise_for_status()  # exhausted retries on 429
     return resp
+
+
+def get(client: httpx.Client, url: str, **kwargs) -> httpx.Response:
+    """GET with per-host throttling and 429 backoff. Raises for HTTP errors."""
+    return _request(client, "GET", url, **kwargs)
 
 
 def post(client: httpx.Client, url: str, **kwargs) -> httpx.Response:
-    """POST with per-host throttling. Raises for HTTP errors."""
-    _throttle(url)
-    resp = client.post(url, **kwargs)
-    resp.raise_for_status()
-    return resp
+    """POST with per-host throttling and 429 backoff. Raises for HTTP errors."""
+    return _request(client, "POST", url, **kwargs)
