@@ -19,6 +19,9 @@ from .models import Cinema, Film, RawScreening, ReviewEntry, Screening, Unmatche
 from .tmdb import TMDBClient
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
+# httpx logs every request URL at INFO. That's hundreds of noise lines per run, and some URLs carry
+# credentials in the query string (ScraperAPI's api_key) — keep them out of CI and /tmp logs.
+logging.getLogger("httpx").setLevel(logging.WARNING)
 log = logging.getLogger("scrapers.run")
 
 ROOT = Path(__file__).resolve().parent.parent

@@ -47,7 +47,22 @@ function load<T>(name: string): T {
   return JSON.parse(fs.readFileSync(path.join(DATA_DIR, name), 'utf-8')) as T;
 }
 
-export const getCinemas = (): Cinema[] => load<Cinema[]>('cinemas.json');
+// Scraped/external URLs (booking links, cinema websites) end up in href attributes. Allow only
+// http(s) so a malicious or malformed listing can't inject a `javascript:` / `data:` URL (stored
+// XSS on click). Returns the URL unchanged if safe, else null. Centralised here so every consumer
+// (ScreeningList, cinema pages, …) is protected at the source.
+export function sanitizeUrl(u?: string | null): string | null {
+  if (!u) return null;
+  try {
+    const proto = new URL(u.trim()).protocol;
+    return proto === 'http:' || proto === 'https:' ? u.trim() : null;
+  } catch {
+    return null; // not an absolute URL we can vet — drop it
+  }
+}
+
+export const getCinemas = (): Cinema[] =>
+  load<Cinema[]>('cinemas.json').map((c) => ({ ...c, website: sanitizeUrl(c.website) }));
 export const getFilms = (): Film[] => load<Film[]>('films.json');
 
 // Today's date (YYYY-MM-DD) in Europe/Rome — the cinemas' timezone — so the "upcoming" cutoff is
@@ -64,7 +79,13 @@ function todayKeyRome(): string {
 // so earlier-today showtimes still appear.
 export const getScreenings = (): Screening[] => {
   const cutoff = todayKeyRome();
-  return load<Screening[]>('screenings.json').filter((s) => s.start.slice(0, 10) >= cutoff);
+  return load<Screening[]>('screenings.json')
+    .filter((s) => s.start.slice(0, 10) >= cutoff)
+    .map((s) => ({
+      ...s,
+      booking_url: sanitizeUrl(s.booking_url),
+      source_url: sanitizeUrl(s.source_url),
+    }));
 };
 
 // Unfiltered — for diagnostics/counts that need the raw file.

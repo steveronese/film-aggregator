@@ -1,0 +1,11 @@
+# Cloudflare Pages response headers (copied verbatim into dist/ by Astro).
+# No script-src restriction: the map page needs inline scripts, and 'unsafe-inline' would make it
+# moot. These directives still block plugin content, <base> hijacking, clickjacking and
+# cross-site form posts. geolocation stays allowed for the map's "near me" button.
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+  Permissions-Policy: geolocation=(self), camera=(), microphone=(), payment=(), usb=()
+  Content-Security-Policy: object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'
+  Strict-Transport-Security: max-age=31536000

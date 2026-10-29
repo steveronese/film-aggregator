@@ -1,6 +1,7 @@
 ---
 import type { Cinema, Film, Screening } from '../lib/data';
 import { posterUrl, fmtDayTime, isOriginal, sortByStart } from '../lib/data';
+import { searchKey } from '../lib/search';
 
 interface Props {
   film: Film;
@@ -17,6 +18,10 @@ const hasVO = sorted.some((s) => isOriginal(s.language)) ? '1' : '0';
 const poster = posterUrl(film.poster_path, 'w342');
 const nextCinema = next ? cinemas.get(next.cinema_id)?.name ?? next.cinema_id : '';
 const n = sorted.length;
+
+// Haystack for the client-side search box (title in both languages, original title, director,
+// year). Normalized at build time so the filter is a cheap substring test.
+const search = searchKey(film.title, film.title_en, film.original_title, film.italian_title, film.director, film.year);
 ---
 
 <a
@@ -25,6 +30,7 @@ const n = sorted.length;
   data-dates={dates}
   data-cinemas={cins}
   data-vo={hasVO}
+  data-search={search}
 >
   <div class="poster">
     {poster

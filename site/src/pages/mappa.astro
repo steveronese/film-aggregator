@@ -21,6 +21,15 @@ const cinemas = getCinemas()
 const CATEGORY_LABEL: Record<string, string> = {
   arthouse: "Sala d'essai", museum: 'Museo', openair: "All'aperto", multiplex: 'Multisala',
 };
+
+// Serialize for embedding in a <script> tag. JSON.stringify does not escape `<`, so a field
+// containing a closing-script sequence could otherwise break out of the tag (injection); also
+// escape the JS line separators U+2028/U+2029.
+const LS = String.fromCharCode(0x2028), PS = String.fromCharCode(0x2029);
+const cinemaJson = JSON.stringify(cinemas)
+  .replaceAll('<', '\\u003c')
+  .replaceAll(LS, '\\u2028')
+  .replaceAll(PS, '\\u2029');
 ---
 
 <Layout title="Mappa dei cinema — SchermoMilano" description="I cinema di Milano sulla mappa, con quelli più vicini a te.">
@@ -50,10 +59,13 @@ const CATEGORY_LABEL: Record<string, string> = {
     ))}
   </ul>
 
-  <script type="application/json" id="cinema-data" set:html={JSON.stringify(cinemas)} />
+  <script type="application/json" id="cinema-data" set:html={cinemaJson} />
 
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-  <script is:inline src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  {/* Subresource Integrity: the browser refuses these if the CDN ever serves different bytes. */}
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  <script is:inline src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <script is:inline>
     (function () {
       const MILAN = [45.4642, 9.19];
@@ -65,11 +77,14 @@ const CATEGORY_LABEL: Record<string, string> = {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
       }).addTo(map);
 
+      const esc = (s) => String(s).replace(/[&<>"']/g, (ch) => (
+        { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[ch]
+      ));
       for (const c of cinemas) {
         const popup =
-          `<strong>${c.name}</strong><br>` +
+          `<strong>${esc(c.name)}</strong><br>` +
           (c.count > 0 ? `${c.count} proiezioni in programma<br>` : 'Nessuna proiezione in programma<br>') +
-          `<a href="/cinema/${c.id}">Vedi programmazione →</a>`;
+          `<a href="/cinema/${encodeURIComponent(c.id)}">Vedi programmazione →</a>`;
         L.marker([c.lat, c.lng]).addTo(map).bindPopup(popup);
       }
 
