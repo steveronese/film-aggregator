@@ -2,13 +2,21 @@ name: Scrape & publish
 
 # Daily: re-scrape every venue, re-match against TMDB, validate the site builds, and commit the
 # refreshed data. Cloudflare Pages (connected to this repo via Git) rebuilds & deploys on the push.
+#
+# Built to run unattended: no external AI key (GitHub Models via the job's own token), every
+# venue reachable from the cloud (Godard via ScraperAPI), and a failing run opens a GitHub issue
+# — which notifies the repo owner — and the next successful run closes it.
 on:
   schedule:
-    - cron: "0 5 * * *" # 05:00 UTC ≈ 07:00 Europe/Rome
+    # Off the top of the hour: GitHub delays :00 schedules by hours under load (runs set for
+    # 05:00 were starting at 09:00–11:00 UTC). 04:17 UTC ≈ 05:17/06:17 Europe/Rome.
+    - cron: "17 4 * * *"
   workflow_dispatch: {}
 
 permissions:
-  contents: write
+  contents: write  # commit refreshed data
+  models: read     # GitHub Models for AI title matching
+  issues: write    # open/close the failure-alert issue
 
 concurrency:
   group: scrape
@@ -17,28 +25,31 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-      # No `playwright install` here: the only headless scraper (Cinema Godard) is gated to
-      # residential IPs via ENABLE_HEADLESS — its WAF blocks datacenter IPs. run.py preserves
-      # Godard's last-known-good screenings on the cloud cron; refresh it with a local scrape.
+      # No `playwright install` here: Cinema Godard's WAF blocks datacenter IPs, so in the cloud it
+      # is fetched through ScraperAPI (SCRAPERAPI_KEY). If that ever fails, run.py preserves
+      # Godard's last-known-good screenings.
 
-      - name: Scrape venues & match TMDB (AI fallback via Mistral)
+      - name: Scrape venues & match TMDB (AI fallback via GitHub Models)
         env:
           TMDB_ACCESS_TOKEN: ${{ secrets.TMDB_ACCESS_TOKEN }}
-          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
           SCRAPERAPI_KEY: ${{ secrets.SCRAPERAPI_KEY }}
+          AI_BASE_URL: https://models.github.ai/inference
+          AI_MODEL: openai/gpt-4o-mini
+          AI_API_KEY: ${{ secrets.GITHUB_TOKEN }}
         run: python -m scrapers.run
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
-          node-version: "20"
+          node-version-file: .nvmrc
           cache: npm
           cache-dependency-path: site/package-lock.json
       - name: Validate the site builds with the fresh data
@@ -52,5 +63,36 @@ jobs:
           git config user.name "schermomilano-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data scrapers/cache
-          git diff --staged --quiet || git commit -m "data: daily refresh $(date -u +%F)"
-          git push
+          git diff --staged --quiet && { echo "no data changes"; exit 0; }
+          git commit -m "data: daily refresh $(date -u +%F)"
+          # Someone may have pushed while we scraped: rebase our data-only commit and retry.
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep $((attempt * 10))
+          done
+          exit 1
+
+      - name: Alert — open (or update) an issue when the refresh fails
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          title="Daily refresh is failing"
+          existing=$(gh issue list --state open --search "in:title \"$title\"" --json number -q '.[0].number')
+          body="The daily scrape failed on $(date -u '+%F %H:%M UTC'): $RUN_URL
+          The site keeps serving the last good data (and warns visitors once it is 2+ days old). This issue closes itself on the next successful run."
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "$body"
+          else
+            gh issue create --title "$title" --body "$body"
+          fi
+
+      - name: Close the failure issue once a refresh succeeds again
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for n in $(gh issue list --state open --search 'in:title "Daily refresh is failing"' --json number -q '.[].number'); do
+            gh issue close "$n" --comment "Recovered: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          done

@@ -23,12 +23,37 @@ log = logging.getLogger(__name__)
 API_BASE = "https://api.themoviedb.org/3"
 DEFAULT_CACHE = Path(__file__).parent / "cache" / "tmdb.json"
 
+# The cache is committed daily, so it must stay small: full TMDB responses (entire cast & crew,
+# every language's translation) grew it past 40 MB — headed for GitHub's 100 MB hard limit, which
+# would make the daily push fail. Keep only the fields matching.py / ai_matcher.py read.
+_SEARCH_FIELDS = ("id", "title", "original_title", "release_date", "popularity")
+_MOVIE_FIELDS = ("id", "title", "original_title", "release_date", "poster_path", "overview", "runtime")
+
+
+def _slim_search(results: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    return [{k: r.get(k) for k in _SEARCH_FIELDS} for r in results]
+
+
+def _slim_movie(d: dict[str, Any]) -> dict[str, Any]:
+    out = {k: d.get(k) for k in _MOVIE_FIELDS}
+    out["genres"] = [{"name": g.get("name")} for g in d.get("genres") or []]
+    crew = (d.get("credits") or {}).get("crew") or []
+    out["credits"] = {"crew": [{"name": c.get("name"), "job": "Director"}
+                               for c in crew if c.get("job") == "Director"]}
+    out["translations"] = {"translations": [
+        {"iso_639_1": "en", "data": {"title": (t.get("data") or {}).get("title"),
+                                     "overview": (t.get("data") or {}).get("overview")}}
+        for t in (d.get("translations") or {}).get("translations") or [] if t.get("iso_639_1") == "en"
+    ]}
+    return out
+
 
 class TMDBClient:
     def __init__(self, cache_path: Path = DEFAULT_CACHE, offline: bool = False) -> None:
         self.cache_path = cache_path
+        self._migrated = False
         self._cache: dict[str, Any] = self._load_cache()
-        self._dirty = False
+        self._dirty = self._migrated  # persist a slimmed cache even if no new lookups happen
 
         token = os.environ.get("TMDB_ACCESS_TOKEN")
         api_key = os.environ.get("TMDB_API_KEY")
@@ -49,9 +74,15 @@ class TMDBClient:
 
     # ---- cache plumbing ----------------------------------------------------
     def _load_cache(self) -> dict[str, Any]:
-        if self.cache_path.exists():
-            return json.loads(self.cache_path.read_text(encoding="utf-8"))
-        return {"search": {}, "movie": {}}
+        if not self.cache_path.exists():
+            return {"search": {}, "movie": {}}
+        cache = json.loads(self.cache_path.read_text(encoding="utf-8"))
+        # Migrate entries written before slimming existed (idempotent: slim(slim(x)) == slim(x)).
+        search = {k: _slim_search(v) for k, v in cache.get("search", {}).items()}
+        movie = {k: _slim_movie(v) for k, v in cache.get("movie", {}).items()}
+        if search != cache.get("search") or movie != cache.get("movie"):
+            self._migrated = True
+        return {"search": search, "movie": movie}
 
     def save_cache(self) -> None:
         if not self._dirty:
@@ -86,6 +117,7 @@ class TMDBClient:
         data = self._request("/search/movie", params)
         results = (data or {}).get("results", [])
         if data is not None:
+            results = _slim_search(results)
             self._cache["search"][key] = results
             self._dirty = True
         return results
@@ -99,6 +131,7 @@ class TMDBClient:
             f"/movie/{tmdb_id}", {"language": "it-IT", "append_to_response": "credits,translations"}
         )
         if data is not None:
+            data = _slim_movie(data)
             self._cache["movie"][key] = data
             self._dirty = True
         return data

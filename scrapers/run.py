@@ -10,6 +10,7 @@ import logging
 from collections import OrderedDict
 from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import yaml
 
@@ -129,7 +130,9 @@ def write_json(path: Path, models) -> None:
 
 
 def main() -> None:
-    now = datetime.now()
+    # Screening times are naive Milan-local datetimes; compare against Milan time, not the host's
+    # clock (the GitHub Actions runner is UTC, which kept shows that had started 1–2 h earlier).
+    now = datetime.now(ZoneInfo("Europe/Rome")).replace(tzinfo=None)
     cinemas = load_cinemas()
     valid_ids = {c.id for c in cinemas}
 

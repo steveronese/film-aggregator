@@ -2,13 +2,14 @@
 
 It's free because it's invoked *only* on the handful of titles the fuzzy matcher can't resolve
 confidently, and every answer is cached. That's a few calls per day — trivially inside a provider's
-free tier. Provider is Mistral (EU-based, free API tier — works from Italy, unlike Gemini's
-EU-excluded free tier). When MISTRAL_API_KEY is unset the matcher is disabled and the pipeline
-behaves exactly as before.
+free tier. When no API key is set the matcher is disabled and the pipeline behaves exactly as before.
 
-The endpoint is OpenAI-compatible, so MISTRAL_BASE_URL/MISTRAL_MODEL can point it at Groq, a local
-Ollama, or any compatible API instead. The model never invents ids: it's given the real TMDB search
-candidates and must pick one (by id) or say none.
+Any OpenAI-compatible chat endpoint works, configured via AI_BASE_URL / AI_MODEL / AI_API_KEY:
+  - CI uses GitHub Models with the workflow's own GITHUB_TOKEN — no account or key to expire, which
+    keeps the daily job self-sufficient (see .github/workflows/scrape.yml).
+  - Locally, the legacy MISTRAL_* variables still work as a fallback (Mistral is the default).
+The model never invents ids: it's given the real TMDB search candidates and must pick one (by id)
+or say none.
 """
 
 from __future__ import annotations
@@ -16,6 +17,7 @@ from __future__ import annotations
 import json
 import logging
 import os
+import time
 from pathlib import Path
 from typing import Any
 
@@ -24,8 +26,12 @@ import httpx
 log = logging.getLogger(__name__)
 
 CACHE_PATH = Path(__file__).parent / "cache" / "ai_matches.json"
-BASE_URL = os.environ.get("MISTRAL_BASE_URL", "https://api.mistral.ai/v1")
-MODEL = os.environ.get("MISTRAL_MODEL", "mistral-small-latest")
+BASE_URL = os.environ.get("AI_BASE_URL") or os.environ.get("MISTRAL_BASE_URL", "https://api.mistral.ai/v1")
+MODEL = os.environ.get("AI_MODEL") or os.environ.get("MISTRAL_MODEL", "mistral-small-latest")
+# Free tiers cap requests per minute (GitHub Models' low tier: 15/min), so pace calls rather than
+# burst into 429s. Uncached calls are rare after the first run, so this costs little.
+MIN_INTERVAL = float(os.environ.get("AI_MIN_INTERVAL", "4.5"))
+_MAX_RETRIES = 2
 
 
 class AIMatcher:
@@ -33,9 +39,10 @@ class AIMatcher:
         self.cache_path = cache_path
         self._cache: dict[str, Any] = self._load()
         self._dirty = False
-        self.api_key = None if offline else os.environ.get("MISTRAL_API_KEY")
+        self.api_key = None if offline else (os.environ.get("AI_API_KEY") or os.environ.get("MISTRAL_API_KEY"))
         self._configured = bool(self.api_key)
         self._client = httpx.Client(timeout=30.0)
+        self._last_call = 0.0
         # Circuit breaker: after too many consecutive API failures (the free tier rate-limiting us
         # with 429s, or an outage), stop calling the provider for the rest of the run. Every doomed
         # call otherwise costs a throttled round-trip, spams the log, and — worst of all, before this
@@ -62,6 +69,34 @@ class AIMatcher:
 
     def _note_success(self) -> None:
         self._consecutive_failures = 0
+
+    def _chat(self, prompt: str) -> dict:
+        """POST one JSON-mode chat completion and return the parsed JSON reply. Paces calls to
+        MIN_INTERVAL and retries 429s (honouring Retry-After, capped). Raises on failure — the
+        callers record it for the circuit breaker."""
+        body = {
+            "model": MODEL,
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0,
+            "response_format": {"type": "json_object"},
+        }
+        for attempt in range(_MAX_RETRIES + 1):
+            wait = MIN_INTERVAL - (time.monotonic() - self._last_call)
+            if wait > 0:
+                time.sleep(wait)
+            self._last_call = time.monotonic()
+            resp = self._client.post(
+                f"{BASE_URL}/chat/completions",
+                headers={"Authorization": f"Bearer {self.api_key}"},
+                json=body,
+            )
+            if resp.status_code == 429 and attempt < _MAX_RETRIES:
+                retry_after = resp.headers.get("Retry-After", "")
+                time.sleep(min(float(retry_after), 60.0) if retry_after.isdigit() else 10.0 * (attempt + 1))
+                continue
+            resp.raise_for_status()
+            return json.loads(resp.json()["choices"][0]["message"]["content"])
+        raise AssertionError("unreachable")
 
     def _load(self) -> dict[str, Any]:
         if self.cache_path.exists():
@@ -120,19 +155,12 @@ class AIMatcher:
             'Reply ONLY JSON {"title": "<clean title or empty>", "year": <year shown or null>}.'
         )
         try:
-            resp = self._client.post(
-                f"{BASE_URL}/chat/completions",
-                headers={"Authorization": f"Bearer {self.api_key}"},
-                json={"model": MODEL, "messages": [{"role": "user", "content": prompt}],
-                      "temperature": 0, "response_format": {"type": "json_object"}},
-            )
-            resp.raise_for_status()
-            data = json.loads(resp.json()["choices"][0]["message"]["content"])
+            data = self._chat(prompt)
             title = (data.get("title") or "").strip()
             year = data.get("year")
             result = {"title": title, "year": year if isinstance(year, int) else None}
             self._note_success()
-        except (httpx.HTTPError, KeyError, IndexError, json.JSONDecodeError) as exc:
+        except (httpx.HTTPError, KeyError, IndexError, TypeError, AttributeError, json.JSONDecodeError) as exc:
             self._note_failure(exc)
             log.warning("AI extract failed for %r: %s", raw_title, exc)
             return None
@@ -162,24 +190,13 @@ class AIMatcher:
             '- Reply ONLY with JSON {"tmdb_id": <id, or null>, "confidence": <0-100>}. '
             "Use null if no candidate is clearly the same film."
         )
-        body = {
-            "model": MODEL,
-            "messages": [{"role": "user", "content": prompt}],
-            "temperature": 0,
-            "response_format": {"type": "json_object"},
-        }
         try:
-            resp = self._client.post(
-                f"{BASE_URL}/chat/completions",
-                headers={"Authorization": f"Bearer {self.api_key}"},
-                json=body,
-            )
-            resp.raise_for_status()
-            text = resp.json()["choices"][0]["message"]["content"]
-            parsed = json.loads(text)
+            parsed = self._chat(prompt)
+            if not isinstance(parsed, dict):
+                raise TypeError(f"expected a JSON object, got {type(parsed).__name__}")
             self._note_success()
             return parsed
-        except (httpx.HTTPError, KeyError, IndexError, json.JSONDecodeError) as exc:
+        except (httpx.HTTPError, KeyError, IndexError, TypeError, json.JSONDecodeError) as exc:
             self._note_failure(exc)
             log.warning("AI match failed for %r: %s", listing_title, exc)
             return None
