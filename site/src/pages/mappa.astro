@@ -71,11 +71,28 @@ const cinemaJson = JSON.stringify(cinemas)
       const MILAN = [45.4642, 9.19];
       const cinemas = JSON.parse(document.getElementById('cinema-data').textContent);
       const map = L.map('map').setView(MILAN, 12);
-      // Light, minimal greyscale tiles (CARTO Positron) to match the editorial aesthetic.
-      L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      // Keyless tiles only, so the map can't silently break when a provider starts requiring an
+      // API key (CARTO did exactly that in 2026: every tile became an "API KEY REQUIRED" image).
+      // Primary: OpenStreetMap's own tiles, greyscaled via CSS (.tiles-osm) to keep the minimal
+      // look. Fallback: if OSM tiles keep failing (outage / blocked), swap to Esri's light-grey
+      // basemap + labels, also keyless.
+      const osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        className: 'tiles-osm',
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
       }).addTo(map);
+      let osmErrors = 0, switched = false;
+      osm.on('tileerror', () => {
+        if (switched || ++osmErrors < 4) return;
+        switched = true;
+        map.removeLayer(osm);
+        const esri = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/';
+        L.tileLayer(esri + 'World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+          maxZoom: 16,
+          attribution: 'Tiles &copy; Esri &mdash; Esri, HERE, Garmin, &copy; OpenStreetMap contributors',
+        }).addTo(map);
+        L.tileLayer(esri + 'World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}', { maxZoom: 16 }).addTo(map);
+      });
 
       const esc = (s) => String(s).replace(/[&<>"']/g, (ch) => (
         { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[ch]
