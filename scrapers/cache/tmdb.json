@@ -455684,6 +455684,325 @@
       "vote_average": 7.6,
       "vote_count": 1162
     },
+    "1632103": {
+      "adult": false,
+      "backdrop_path": "/1j1nQ4bE2mdBFaQo1RsxGjeBCtn.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 4,
+            "character": "Luca",
+            "credit_id": "69beb7ccbba7a851067089f9",
+            "gender": 2,
+            "id": 3177849,
+            "known_for_department": "Acting",
+            "name": "Emanuele Maria Di Stefano",
+            "order": 0,
+            "original_name": "Emanuele Maria Di Stefano",
+            "popularity": 1.5336,
+            "profile_path": "/fbtKs2bKR339Gwudq3aOFO5UmuS.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 5,
+            "character": "",
+            "credit_id": "69c6eb6452658c9489537865",
+            "gender": 2,
+            "id": 56843,
+            "known_for_department": "Acting",
+            "name": "Valerio Mastandrea",
+            "order": 1,
+            "original_name": "Valerio Mastandrea",
+            "popularity": 0.8306,
+            "profile_path": "/tE7JkSuyv2N8vtEN0YypsCAxW9B.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 10,
+            "character": "",
+            "credit_id": "69c6f195361ab3b2f153785e",
+            "gender": 1,
+            "id": 1822183,
+            "known_for_department": "Acting",
+            "name": "Simona Senzacqua",
+            "order": 2,
+            "original_name": "Simona Senzacqua",
+            "popularity": 0.3556,
+            "profile_path": "/nAB3OCRC3twWIFyKSiTLvQS94fM.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 9,
+            "character": "",
+            "credit_id": "69c6f17cccd6a5e6d7b8431e",
+            "gender": 1,
+            "id": 1507975,
+            "known_for_department": "Acting",
+            "name": "Roberta Mattei",
+            "order": 3,
+            "original_name": "Roberta Mattei",
+            "popularity": 1.3744,
+            "profile_path": "/oEXmUHiTtKVmwQUrWLCdXRWqQZx.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 8,
+            "character": "",
+            "credit_id": "69c6f16f9b9a4cd051549c18",
+            "gender": 1,
+            "id": 6101259,
+            "known_for_department": "Acting",
+            "name": "Gaia Merlonghi",
+            "order": 4,
+            "original_name": "Gaia Merlonghi",
+            "popularity": 0.3658,
+            "profile_path": null
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "6989ddc86d16f9143b5d92eb",
+            "department": "Directing",
+            "gender": 2,
+            "id": 125489,
+            "job": "Director",
+            "known_for_department": "Acting",
+            "name": "Edoardo Gabbriellini",
+            "original_name": "Edoardo Gabbriellini",
+            "popularity": 0.6728,
+            "profile_path": "/c08babJ7NHwn2Ptgsal8mIhuewe.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6989dde0f33c6586c3c1d0a6",
+            "department": "Writing",
+            "gender": 2,
+            "id": 125489,
+            "job": "Screenplay",
+            "known_for_department": "Acting",
+            "name": "Edoardo Gabbriellini",
+            "original_name": "Edoardo Gabbriellini",
+            "popularity": 0.6728,
+            "profile_path": "/c08babJ7NHwn2Ptgsal8mIhuewe.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "6989de717c2ad33ff2f8178b",
+            "department": "Writing",
+            "gender": 2,
+            "id": 1899683,
+            "job": "Novel",
+            "known_for_department": "Writing",
+            "name": "Nicola Lagioia",
+            "original_name": "Nicola Lagioia",
+            "popularity": 0.335,
+            "profile_path": "/spVft9MLNuQhgZk42RwGyPQeonl.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69c6eb7f01d47bb56891ba6d",
+            "department": "Writing",
+            "gender": 2,
+            "id": 1664304,
+            "job": "Writer",
+            "known_for_department": "Directing",
+            "name": "Damiano D'Innocenzo",
+            "original_name": "Damiano D'Innocenzo",
+            "popularity": 0.5995,
+            "profile_path": "/chANadZnQi3rPbrBd2bS8TSKofy.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69c6eb8dd6c32475a2fa645e",
+            "department": "Writing",
+            "gender": 2,
+            "id": 1664305,
+            "job": "Writer",
+            "known_for_department": "Directing",
+            "name": "Fabio D'Innocenzo",
+            "original_name": "Fabio D'Innocenzo",
+            "popularity": 0.8904,
+            "profile_path": "/3d6jE84EXyrNOlJ7fM2SpthvVG7.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69c6f93c34d20edb6891ba76",
+            "department": "Production",
+            "gender": 2,
+            "id": 1427920,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Roberto Proia",
+            "original_name": "Roberto Proia",
+            "popularity": 0.5054,
+            "profile_path": "/swxNBYLKhgq5hL7zPIGjGm3zEGu.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "69c6f95bfed56cdaf7549c48",
+            "department": "Production",
+            "gender": 0,
+            "id": 1377522,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Olivia Musini",
+            "original_name": "Olivia Musini",
+            "popularity": 0.2961,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c6f97a7b7aec63bc5768ba",
+            "department": "Production",
+            "gender": 0,
+            "id": 1352184,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Maurizio Piazza",
+            "original_name": "Maurizio Piazza",
+            "popularity": 0.2815,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "69c6f99c3389a83d93b8436d",
+            "department": "Production",
+            "gender": 0,
+            "id": 2725011,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Andrea Calbucci",
+            "original_name": "Andrea Calbucci",
+            "popularity": 0.3662,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "6a899e7e3e821eec489377c7",
+            "department": "Editing",
+            "gender": 0,
+            "id": 2430499,
+            "job": "Editor",
+            "known_for_department": "Directing",
+            "name": "Jacopo Ramella Pajrin",
+            "original_name": "Jacopo Ramella Pajrin",
+            "popularity": 0.2656,
+            "profile_path": null
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 18,
+          "name": "Dramma"
+        },
+        {
+          "id": 53,
+          "name": "Thriller"
+        }
+      ],
+      "homepage": "",
+      "id": 1632103,
+      "imdb_id": "tt40071725",
+      "origin_country": [
+        "IT"
+      ],
+      "original_language": "it",
+      "original_title": "La città dei vivi",
+      "overview": "Luca ha ventitré anni. Vive in una famiglia che lo ha adottato e che lo ama. Si muove con i suoi amici tra la periferia e il centro e ha una fidanzata con cui vive un amore giovane ma importante per entrambi. Luca sta cercando la sua strada, in un’età in cui tutto sembra ancora possibile e al tempo stesso già perduto, e in questa ricerca vive una doppia vita. Una notte, dopo un incontro apparentemente casuale, la traiettoria della vita di Luca si spezza, infrangendosi contro una violenza cieca e insensata.",
+      "popularity": 2.7932,
+      "poster_path": "/opBholBwfUmPISED5muouubQPq3.jpg",
+      "production_companies": [
+        {
+          "id": 10400,
+          "logo_path": "/9LlB2YAwXTkUAhx0pItSo6pDlkB.png",
+          "name": "Eagle Pictures",
+          "origin_country": "IT"
+        },
+        {
+          "id": 28699,
+          "logo_path": "/vCqaf8TwyhBgpHBoCvCkoaGtrON.png",
+          "name": "Cinemaundici",
+          "origin_country": "IT"
+        },
+        {
+          "id": 137923,
+          "logo_path": null,
+          "name": "Lungta Film",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "release_date": "2026-10-01",
+      "revenue": 0,
+      "runtime": 103,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Tratto da una storia inspiegabilmente vera",
+      "title": "La città dei vivi",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Luca is twenty-three years old. He lives with an adoptive family who loves him. He moves between the suburbs and the city center with his friends and has a girlfriend with whom he shares a love that is young, yet significant for them both. Luca is searching for his path at an age when everything still feels possible and, at the same time, already lost; in this pursuit, he leads a double life. One night, after a seemingly chance encounter, the trajectory of Luca’s life is shattered, colliding with blind and senseless violence.",
+              "runtime": 103,
+              "tagline": "",
+              "title": "The City of the Living"
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Luca ha ventitré anni. Vive in una famiglia che lo ha adottato e che lo ama. Si muove con i suoi amici tra la periferia e il centro e ha una fidanzata con cui vive un amore giovane ma importante per entrambi. Luca sta cercando la sua strada, in un’età in cui tutto sembra ancora possibile e al tempo stesso già perduto, e in questa ricerca vive una doppia vita. Una notte, dopo un incontro apparentemente casuale, la traiettoria della vita di Luca si spezza, infrangendosi contro una violenza cieca e insensata.",
+              "runtime": 103,
+              "tagline": "Tratto da una storia inspiegabilmente vera",
+              "title": ""
+            },
+            "english_name": "Italian",
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Luca ma dwadzieścia trzy lata. Mieszka w kochającej, adopcyjnej rodzinie. Przemieszcza się z przyjaciółmi między przedmieściami a centrum miasta i ma dziewczynę, z którą łączy go młodzieńcza, ale wzajemna miłość. Luca szuka swojej drogi w wieku, w którym wszystko wydaje się jednocześnie możliwe i stracone, i w tych poszukiwaniach wiedzie podwójne życie. Pewnej nocy, po pozornie przypadkowym spotkaniu, ścieżka życia Luki zostaje zrujnowana przez ślepą i bezsensowną przemoc.",
+              "runtime": 103,
+              "tagline": "",
+              "title": "La città dei vivi"
+            },
+            "english_name": "Polish",
+            "iso_3166_1": "PL",
+            "iso_639_1": "pl",
+            "name": "Polski"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 19
+    },
     "1645164": {
       "adult": false,
       "backdrop_path": "/paupTWTQvr3Lsn0HcdoaQD02Aka.jpg",
@@ -873379,6 +873698,771 @@
       "vote_average": 0.0,
       "vote_count": 0
     },
+    "81773": {
+      "adult": false,
+      "backdrop_path": "/rh93aSUVriN5XcrlxMEW6iaFnXg.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "credits": {
+        "cast": [
+          {
+            "adult": false,
+            "cast_id": 2,
+            "character": "Bernard",
+            "credit_id": "52fe482a9251416c9108298f",
+            "gender": 2,
+            "id": 1352,
+            "known_for_department": "Acting",
+            "name": "Jean-Louis Trintignant",
+            "order": 0,
+            "original_name": "Jean-Louis Trintignant",
+            "popularity": 1.2243,
+            "profile_path": "/wn6owr4wvkeaEvlsPtwXSldFGEW.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 3,
+            "character": "Jane Burroughs",
+            "credit_id": "52fe482a9251416c91082993",
+            "gender": 1,
+            "id": 43237,
+            "known_for_department": "Acting",
+            "name": "Ewa Aulin",
+            "order": 1,
+            "original_name": "Ewa Aulin",
+            "popularity": 1.0965,
+            "profile_path": "/4w0WUKyQFVGOUJav8W5DpAqgVc.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 4,
+            "character": "David",
+            "credit_id": "52fe482a9251416c91082997",
+            "gender": 2,
+            "id": 32314,
+            "known_for_department": "Acting",
+            "name": "Roberto Bisacco",
+            "order": 2,
+            "original_name": "Roberto Bisacco",
+            "popularity": 0.7529,
+            "profile_path": "/6JuI2hmRhTU2aj13ecjnC1lPaId.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 19,
+            "character": "Martha Burroughs",
+            "credit_id": "52fe482a9251416c910829e1",
+            "gender": 1,
+            "id": 33639,
+            "known_for_department": "Acting",
+            "name": "Vira Silenti",
+            "order": 3,
+            "original_name": "Vira Silenti",
+            "popularity": 0.8403,
+            "profile_path": "/gU8AeboNYfOqf5t1OwQdjNAzpOe.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 26,
+            "character": "Salon Receptionist (uncredited)",
+            "credit_id": "5c80adb00e0a26430a5dc98a",
+            "gender": 1,
+            "id": 1220547,
+            "known_for_department": "Acting",
+            "name": "Janet Street-Porter",
+            "order": 4,
+            "original_name": "Janet Street-Porter",
+            "popularity": 0.651,
+            "profile_path": "/9sDiwCcAJusPhVSXOtIJHEAT7Rj.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 18,
+            "character": "Bartender",
+            "credit_id": "52fe482a9251416c910829dd",
+            "gender": 0,
+            "id": 1120797,
+            "known_for_department": "Acting",
+            "name": "Enzo Consoli",
+            "order": 5,
+            "original_name": "Enzo Consoli",
+            "popularity": 0.5152,
+            "profile_path": "/ccsX5nCfdyJWac0MO2C39vcFtCQ.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 5,
+            "character": "Jerome Burroughs",
+            "credit_id": "52fe482a9251416c9108299b",
+            "gender": 0,
+            "id": 592456,
+            "known_for_department": "Acting",
+            "name": "Charles Kohler",
+            "order": 6,
+            "original_name": "Charles Kohler",
+            "popularity": 0.2992,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 16,
+            "character": "Jelly-Roll",
+            "credit_id": "52fe482a9251416c910829d5",
+            "gender": 0,
+            "id": 1120795,
+            "known_for_department": "Acting",
+            "name": "Luigi Bellini",
+            "order": 7,
+            "original_name": "Luigi Bellini",
+            "popularity": 0.2899,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 17,
+            "character": "Veronica Yassupova",
+            "credit_id": "52fe482a9251416c910829d9",
+            "gender": 0,
+            "id": 1120796,
+            "known_for_department": "Acting",
+            "name": "Monique Scoazec",
+            "order": 8,
+            "original_name": "Monique Scoazec",
+            "popularity": 0.3031,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "cast_id": 24,
+            "character": "Dwarf (uncredited)",
+            "credit_id": "5c80ada3c3a3684e92d56fd9",
+            "gender": 2,
+            "id": 44350,
+            "known_for_department": "Acting",
+            "name": "Skip Martin",
+            "order": 9,
+            "original_name": "Skip Martin",
+            "popularity": 0.6224,
+            "profile_path": "/jDfyYgYtrtu7i0ae8KpeIkySLHR.jpg"
+          },
+          {
+            "adult": false,
+            "cast_id": 25,
+            "character": "Jelly-Roll's Partner (uncredited)",
+            "credit_id": "5c80ada792514127631a2bf6",
+            "gender": 2,
+            "id": 24342,
+            "known_for_department": "Acting",
+            "name": "David Prowse",
+            "order": 10,
+            "original_name": "David Prowse",
+            "popularity": 1.027,
+            "profile_path": "/nPFKENjKHuklJ8i54mZroNAgKaI.jpg"
+          }
+        ],
+        "crew": [
+          {
+            "adult": false,
+            "credit_id": "52fe482a9251416c910829d1",
+            "department": "Art",
+            "gender": 0,
+            "id": 1120794,
+            "job": "Art Direction",
+            "known_for_department": "Art",
+            "name": "Carmelo Patrono",
+            "original_name": "Carmelo Patrono",
+            "popularity": 0.3223,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe482a9251416c910829e7",
+            "department": "Writing",
+            "gender": 2,
+            "id": 5555,
+            "job": "Novel",
+            "known_for_department": "Writing",
+            "name": "Sergio Donati",
+            "original_name": "Sergio Donati",
+            "popularity": 0.9958,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe482a9251416c910829b3",
+            "department": "Production",
+            "gender": 2,
+            "id": 49899,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Luigi Carpentieri",
+            "original_name": "Luigi Carpentieri",
+            "popularity": 0.4484,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe482a9251416c910829b9",
+            "department": "Production",
+            "gender": 2,
+            "id": 49900,
+            "job": "Producer",
+            "known_for_department": "Production",
+            "name": "Ermanno Donati",
+            "original_name": "Ermanno Donati",
+            "popularity": 0.4015,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe482a9251416c910829bf",
+            "department": "Sound",
+            "gender": 2,
+            "id": 30634,
+            "job": "Original Music Composer",
+            "known_for_department": "Sound",
+            "name": "Armando Trovajoli",
+            "original_name": "Armando Trovajoli",
+            "popularity": 0.8081,
+            "profile_path": "/xXgpEjOyG2hsfb4lewTWbu040dV.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe482a9251416c910829a7",
+            "department": "Writing",
+            "gender": 0,
+            "id": 1120792,
+            "job": "Writer",
+            "known_for_department": "Writing",
+            "name": "Francesca Longo",
+            "original_name": "Francesca Longo",
+            "popularity": 0.2965,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "52fe482a9251416c9108298b",
+            "department": "Directing",
+            "gender": 2,
+            "id": 58021,
+            "job": "Director",
+            "known_for_department": "Directing",
+            "name": "Tinto Brass",
+            "original_name": "Tinto Brass",
+            "popularity": 4.4159,
+            "profile_path": "/adQ1j2FQ1FZ67hlZVhsUnALM4G4.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "553b3b199251413f5a0054d7",
+            "department": "Camera",
+            "gender": 2,
+            "id": 49901,
+            "job": "Director of Photography",
+            "known_for_department": "Camera",
+            "name": "Silvano Ippoliti",
+            "original_name": "Silvano Ippoliti",
+            "popularity": 0.4142,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "553b5ac5c3a3683e55003305",
+            "department": "Editing",
+            "gender": 2,
+            "id": 58021,
+            "job": "Editor",
+            "known_for_department": "Directing",
+            "name": "Tinto Brass",
+            "original_name": "Tinto Brass",
+            "popularity": 4.4159,
+            "profile_path": "/adQ1j2FQ1FZ67hlZVhsUnALM4G4.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "553b5ad0925141275e004eb1",
+            "department": "Writing",
+            "gender": 2,
+            "id": 58021,
+            "job": "Writer",
+            "known_for_department": "Directing",
+            "name": "Tinto Brass",
+            "original_name": "Tinto Brass",
+            "popularity": 4.4159,
+            "profile_path": "/adQ1j2FQ1FZ67hlZVhsUnALM4G4.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a6c7383df20034b383b4",
+            "department": "Production",
+            "gender": 2,
+            "id": 998152,
+            "job": "Production Manager",
+            "known_for_department": "Production",
+            "name": "Lucio Trentini",
+            "original_name": "Lucio Trentini",
+            "popularity": 0.7389,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a74b278d8a003936d690",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1397066,
+            "job": "Foley Artist",
+            "known_for_department": "Sound",
+            "name": "Italo Cameracanna",
+            "original_name": "Italo Cameracanna",
+            "popularity": 0.794,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a7eeca83540035b740c9",
+            "department": "Camera",
+            "gender": 0,
+            "id": 1125594,
+            "job": "Camera Operator",
+            "known_for_department": "Camera",
+            "name": "Enrico Sasso",
+            "original_name": "Enrico Sasso",
+            "popularity": 0.3914,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a61bca83540038b5bc39",
+            "department": "Writing",
+            "gender": 2,
+            "id": 572389,
+            "job": "Writer",
+            "known_for_department": "Writing",
+            "name": "Pierre Lévy-Corti",
+            "original_name": "Pierre Lévy-Corti",
+            "popularity": 0.5828,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a6ace74146003a9cc303",
+            "department": "Production",
+            "gender": 0,
+            "id": 99519,
+            "job": "General Manager",
+            "known_for_department": "Production",
+            "name": "Piero Donati",
+            "original_name": "Piero Donati",
+            "popularity": 0.3336,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a81a76142100388bbe68",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 1671232,
+            "job": "Assistant Costume Designer",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Bice Brichetto",
+            "original_name": "Bice Brichetto",
+            "popularity": 0.3387,
+            "profile_path": null
+          },
+          {
+            "adult": true,
+            "credit_id": "5f91a6d87614210039886f8d",
+            "department": "Directing",
+            "gender": 0,
+            "id": 89147,
+            "job": "Assistant Director",
+            "known_for_department": "Writing",
+            "name": "Carla Cipriani",
+            "original_name": "Carla Cipriani",
+            "popularity": 0.0,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a7de55c1f40037251e2a",
+            "department": "Camera",
+            "gender": 0,
+            "id": 1121615,
+            "job": "Camera Operator",
+            "known_for_department": "Camera",
+            "name": "Giuseppe Gatti",
+            "original_name": "Giuseppe Gatti",
+            "popularity": 0.288,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a75555c1f4003927751b",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1397066,
+            "job": "Sound Effects Editor",
+            "known_for_department": "Sound",
+            "name": "Italo Cameracanna",
+            "original_name": "Italo Cameracanna",
+            "popularity": 0.794,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a807e7414600389e0d54",
+            "department": "Camera",
+            "gender": 0,
+            "id": 1733908,
+            "job": "Assistant Camera",
+            "known_for_department": "Lighting",
+            "name": "Sergio Spila",
+            "original_name": "Sergio Spila",
+            "popularity": 0.3624,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a82a55c1f400392778d2",
+            "department": "Costume & Make-Up",
+            "gender": 0,
+            "id": 1568867,
+            "job": "Assistant Costume Designer",
+            "known_for_department": "Costume & Make-Up",
+            "name": "Orietta Melaranci",
+            "original_name": "Orietta Melaranci",
+            "popularity": 0.3732,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a7aeca83540036b523e3",
+            "department": "Sound",
+            "gender": 0,
+            "id": 1536656,
+            "job": "Boom Operator",
+            "known_for_department": "Sound",
+            "name": "Primiano Muratori",
+            "original_name": "Primiano Muratori",
+            "popularity": 0.5997,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a7cf4581990035a93155",
+            "department": "Camera",
+            "gender": 0,
+            "id": 1752036,
+            "job": "Assistant Camera",
+            "known_for_department": "Camera",
+            "name": "Augusto Diamanti",
+            "original_name": "Augusto Diamanti",
+            "popularity": 0.6752,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a6e7e7414600379d3d2e",
+            "department": "Directing",
+            "gender": 2,
+            "id": 54362,
+            "job": "Assistant Director",
+            "known_for_department": "Directing",
+            "name": "Gérard Guérin",
+            "original_name": "Gérard Guérin",
+            "popularity": 0.5588,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a70dd9f4a60039d78f9d",
+            "department": "Writing",
+            "gender": 2,
+            "id": 1368039,
+            "job": "Storyboard",
+            "known_for_department": "Writing",
+            "name": "Guido Crepax",
+            "original_name": "Guido Crepax",
+            "popularity": 0.3057,
+            "profile_path": "/9RPFOaITlitWP9OH1rxgqdDmOJr.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a727383df20036b09a60",
+            "department": "Sound",
+            "gender": 2,
+            "id": 233355,
+            "job": "Sound",
+            "known_for_department": "Directing",
+            "name": "Vittorio De Sisti",
+            "original_name": "Vittorio De Sisti",
+            "popularity": 1.0052,
+            "profile_path": "/6k4yWaJvXa52LoOnRbuRtkgU3Ls.jpg"
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a843ca83540035b741e5",
+            "department": "Editing",
+            "gender": 0,
+            "id": 2608501,
+            "job": "Assistant Editor",
+            "known_for_department": "Editing",
+            "name": "Fulvio Armanni",
+            "original_name": "Fulvio Armanni",
+            "popularity": 0.3013,
+            "profile_path": null
+          },
+          {
+            "adult": false,
+            "credit_id": "5f91a67aca83540035b73826",
+            "department": "Production",
+            "gender": 0,
+            "id": 98777,
+            "job": "Production Supervisor",
+            "known_for_department": "Production",
+            "name": "Franco Cuccu",
+            "original_name": "Franco Cuccu",
+            "popularity": 0.326,
+            "profile_path": null
+          }
+        ]
+      },
+      "genres": [
+        {
+          "id": 53,
+          "name": "Thriller"
+        },
+        {
+          "id": 9648,
+          "name": "Mistero"
+        }
+      ],
+      "homepage": "",
+      "id": 81773,
+      "imdb_id": "tt0061493",
+      "origin_country": [
+        "IT"
+      ],
+      "original_language": "it",
+      "original_title": "Col cuore in gola",
+      "overview": "Durante una tournée londinese, l'attore francese Bernard, camminando nella notte per la capitale inglese, si imbatte in Jane, una ragazza sconvolta davanti al cadavere di un uomo. Il defunto, da poco assassinato, è Prescott, proprietario di un night club. Bernard decide di aiutare Jane a uscire dai guai e cerca di recuperare una foto compromettente del di lei fratello, finendo per lottare con un sicario e ucciderlo. Ma la donna è davvero innocente?",
+      "popularity": 1.7352,
+      "poster_path": "/OYv2HKToOYm13V1dqOO12qOoEZ.jpg",
+      "production_companies": [
+        {
+          "id": 1398,
+          "logo_path": null,
+          "name": "Les Films Corona",
+          "origin_country": "FR"
+        },
+        {
+          "id": 4827,
+          "logo_path": null,
+          "name": "Panda - Società per l'Industria Cinematografica",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "release_date": "1967-11-16",
+      "revenue": 0,
+      "runtime": 107,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Col cuore in gola",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Bernard meets Jane in a Night Club, in London, and he likes her. Her father was killed in a car accident, but Jane thinks he has been killed because he was blackmailed for a picture of his second wife, Jane's mother in law. In the same Night Club Bernard finds the blackmailer corpse and Jane near him, but he believes she is innocent. So Bernard and Jane run away followed by a dwarf, the blackmailer's men, who believe Bernard killed their boss and of course, the Police. They believe that Jerome, Jane's brother, can help them to solve the case. But Jane doesn't know where he is, or so she says. Corpse after corpse, Bernard will find out the truth. But will the truth help him?",
+              "runtime": 107,
+              "tagline": "That \"Candy\" girl is at it again...and again...and again",
+              "title": "Deadly Sweet"
+            },
+            "english_name": "English",
+            "iso_3166_1": "US",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Bernard wil Jane helpen, een meisje dat bij het zien van een lijk in shock is geraakt. Hij vindt een foto die haar broer van de moord kan beschuldigen. De situatie wordt steeds gecompliceerder maar Bernard is bereid om alles voor de jonge vrouw te riskeren, want hij houdt van haar. Er vallen echter meer doden, tot hij uiteindelijk ontdekt wie de ware dader is.",
+              "runtime": 107,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Dutch",
+            "iso_3166_1": "NL",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Der Franzose Bernard begegnet in einer Londoner Nachtbar der 17-jährigen blonden Jane, deren Schönheit und erotische Ausstrahlung ihn fasziniert. Für sie will er den Mörder ihres Vaters finden. Bernard begibt sich dabei in große Gefahr und wird in weitere Mordfälle verstrickt...",
+              "runtime": 107,
+              "tagline": "",
+              "title": "Ich bin wie ich bin"
+            },
+            "english_name": "German",
+            "iso_3166_1": "DE",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "一位法国演员发现他的经理人被谋杀，尸体躺在地上。他并没有报警，而是决定保护现场的那个年轻女子并决定找出真凶，这使他卷入了伦敦黑社会的争斗漩涡中……",
+              "runtime": 0,
+              "tagline": "",
+              "title": "死亡的甜蜜"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "CN",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "En Inglaterra un actor francés conoce a una fascinante joven, aparentemente culpable de un asesinato. Sin embargo, queda prisionero de su belleza, y tratará de demostrar que ella es inocente a toda costa. Mientras intenta descubrir la naturaleza del crimen, será perseguido por la policía, que lo cree culpable, y por la mafia, que buscaba unas fotos robadas de la escena del crimen.",
+              "runtime": 90,
+              "tagline": "",
+              "title": "Con el corazón en la garganta"
+            },
+            "english_name": "Spanish",
+            "iso_3166_1": "ES",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Durante una tournée londinese, l'attore francese Bernard, camminando nella notte per la capitale inglese, si imbatte in Jane, una ragazza sconvolta davanti al cadavere di un uomo. Il defunto, da poco assassinato, è Prescott, proprietario di un night club. Bernard decide di aiutare Jane a uscire dai guai e cerca di recuperare una foto compromettente del di lei fratello, finendo per lottare con un sicario e ucciderlo. Ma la donna è davvero innocente?",
+              "runtime": 107,
+              "tagline": "",
+              "title": ""
+            },
+            "english_name": "Italian",
+            "iso_3166_1": "IT",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Bernard, un acteur francophone, se trouve à Londres pour le travail. Une nuit, il a le coup de foudre pour Jane, une jeune femme incroyablement sexy, alors que celle-ci est restée frappée, incrédule et effrayée devant un homme mort. Jane se trouve embarquée dans différentes péripéties et Bernard, qui en est amoureux, la protège des dangers du mieux de ses forces. Les crimes se succèdent et Bernard découvre, au prix cher, que c'est en fait sa bien-aimée l'assassin : mais il est à présent trop tard.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "En cinquième vitesse"
+            },
+            "english_name": "French",
+            "iso_3166_1": "FR",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "برنارد با جین در یک کلوب شبانه در لندن آشنا می شود و او را دوست دارد. پدرش در یک تصادف رانندگی کشته میشود ، اما جین فکر می کند که او کشته شده است زیرا او برای عکس های همسر دوم خود ، مادر زن جین باج گیری کرده است. در همان کلوپ شبانه ، برنارد جسد باجگیر و جین را در نزدیکی خود می یابد ، اما او معتقد است که  بی گناه است. بنابراین برنارد و جین به دنبال یک کوتوله ، افراد مجری سیاه ، که معتقدند برنارد رئیس آنها و البته پلیس را کشته ، فرار می کنند. آنها معتقدند که جروم ، برادر جین ، می تواند به آنها در حل پرونده کمک کند. اما جین نمی داند او کجاست ، یا به قول خودش می گوید. جسد پشت جسد ، برنارد به حقیقت پی خواهد برد. اما آیا حقیقت به او کمک خواهد کرد؟",
+              "runtime": 0,
+              "tagline": "",
+              "title": "با قلبم در گلوی من"
+            },
+            "english_name": "Persian",
+            "iso_3166_1": "IR",
+            "iso_639_1": "fa",
+            "name": "فارسی"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Bernard e Jane se conhecem em uma boate londrina. O pai dela morreu num acidente de carro, mas Jane acredita que ele foi assassinado por chantagem depois de ter recebido uma foto de sua segunda esposa.",
+              "runtime": 100,
+              "tagline": "",
+              "title": "Elimination (Eliminação)"
+            },
+            "english_name": "Portuguese",
+            "iso_3166_1": "BR",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "В ночном клубе Лондона, частный детектив Бернар встречает будущую любовь своей жизни, красивую блондинку Джейн. Они случайно обнаруживают труп хозяина заведения. Сбежав с места преступления, они укрываются в квартире Джейн, где Бернар узнает, что девушка косвенно причастна к убийству. А в это время полиция и таинственные злоумышленники в серых плащах начинают преследовать влюбленных беглецов.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Запыхавшись"
+            },
+            "english_name": "Russian",
+            "iso_3166_1": "RU",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "Fransız aktör Bernard, iş için buluşacağı arkadaşını yerde ölü olarak bulur. Cinayeti polise bildirmektense, olay yerindeki genç kadını himayesi altına almaya ve katilleri bulmaya karar verir. Böylelikle Londra’nın yeraltı dünyasıyla tanışmış olur.",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Yüreği Ağzında"
+            },
+            "english_name": "Turkish",
+            "iso_3166_1": "TR",
+            "iso_639_1": "tr",
+            "name": "Türkçe"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "",
+              "runtime": 0,
+              "tagline": "",
+              "title": "Cu inima în gât"
+            },
+            "english_name": "Romanian",
+            "iso_3166_1": "RO",
+            "iso_639_1": "ro",
+            "name": "Română"
+          },
+          {
+            "data": {
+              "homepage": "",
+              "overview": "一位法國演員發現他的經理人被謀殺，屍體躺在地上。他並沒有報警，而是決定保護現場的那個年輕女子並決定找出真兇，這使他捲入了倫敦黑社會的爭鬥漩渦中……",
+              "runtime": 0,
+              "tagline": "",
+              "title": "死亡的甜蜜"
+            },
+            "english_name": "Mandarin",
+            "iso_3166_1": "HK",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          }
+        ]
+      },
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 42
+    },
     "81799": {
       "adult": false,
       "backdrop_path": "/xTtyiF30qPOy6MYLR59nJ3Z36ii.jpg",
@@ -962878,6 +963962,28 @@
         "vote_count": 263
       }
     ],
+    "col cuore in gola|": [
+      {
+        "adult": false,
+        "backdrop_path": "/rh93aSUVriN5XcrlxMEW6iaFnXg.jpg",
+        "genre_ids": [
+          53,
+          9648
+        ],
+        "id": 81773,
+        "original_language": "it",
+        "original_title": "Col cuore in gola",
+        "overview": "Durante una tournée londinese, l'attore francese Bernard, camminando nella notte per la capitale inglese, si imbatte in Jane, una ragazza sconvolta davanti al cadavere di un uomo. Il defunto, da poco assassinato, è Prescott, proprietario di un night club. Bernard decide di aiutare Jane a uscire dai guai e cerca di recuperare una foto compromettente del di lei fratello, finendo per lottare con un sicario e ucciderlo. Ma la donna è davvero innocente?",
+        "popularity": 1.7352,
+        "poster_path": "/OYv2HKToOYm13V1dqOO12qOoEZ.jpg",
+        "release_date": "1967-11-16",
+        "softcore": false,
+        "title": "Col cuore in gola",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 42
+      }
+    ],
     "con la pioggia dentro|": [
       {
         "adult": false,
@@ -983459,6 +984565,49 @@
         "video": false,
         "vote_average": 7.242,
         "vote_count": 1277
+      }
+    ],
+    "la citta dei vivi|": [
+      {
+        "adult": false,
+        "backdrop_path": "/1j1nQ4bE2mdBFaQo1RsxGjeBCtn.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 1632103,
+        "original_language": "it",
+        "original_title": "La città dei vivi",
+        "overview": "Luca ha ventitré anni. Vive in una famiglia che lo ha adottato e che lo ama. Si muove con i suoi amici tra la periferia e il centro e ha una fidanzata con cui vive un amore giovane ma importante per entrambi. Luca sta cercando la sua strada, in un’età in cui tutto sembra ancora possibile e al tempo stesso già perduto, e in questa ricerca vive una doppia vita. Una notte, dopo un incontro apparentemente casuale, la traiettoria della vita di Luca si spezza, infrangendosi contro una violenza cieca e insensata.",
+        "popularity": 2.7932,
+        "poster_path": "/opBholBwfUmPISED5muouubQPq3.jpg",
+        "release_date": "2026-10-01",
+        "softcore": false,
+        "title": "La città dei vivi",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 19
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/whhv9CuZAQ9NfiNVpl1u7yXAf4N.jpg",
+        "genre_ids": [
+          27,
+          14,
+          9648
+        ],
+        "id": 24920,
+        "original_language": "it",
+        "original_title": "Paura nella città dei morti viventi",
+        "overview": "Una medium a New York, ha una visione del suicidio di Thomas, un reverendo che vive nella spettrale cittadina di Dunwich. E' l'inizio di un susseguirsi di creunti delitti dovuto al risvegliarsi di cadaveri. Solo la distruzione della tomba di Thomas può cessare la carneficina.",
+        "popularity": 3.4705,
+        "poster_path": "/pfGHG1XatWm80fcy9aTFlc4NKXl.jpg",
+        "release_date": "1980-08-11",
+        "softcore": false,
+        "title": "Paura nella città dei morti viventi",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 470
       }
     ],
     "la conversazione|": [
