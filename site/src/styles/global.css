@@ -71,7 +71,10 @@ a:hover { text-decoration: underline; text-underline-offset: 2px; }
 .views { display: flex; flex-wrap: wrap; gap: 1.6rem; align-items: baseline; border-bottom: 1px solid var(--line); padding-bottom: .8rem; margin-bottom: 1.2rem; }
 .view-tab { border: 0; background: none; cursor: pointer; font: inherit; color: var(--muted); padding: 0 0 2px; font-size: 1rem; font-family: var(--serif); border-bottom: 2px solid transparent; }
 .view-tab:hover { color: var(--text); text-decoration: none; }
-.view-tab[aria-pressed="true"] { color: var(--text); border-bottom-color: var(--accent); }
+.view-tab[aria-pressed="true"], .view-tab[aria-current="page"] { color: var(--text); border-bottom-color: var(--accent); }
+/* Calendar page: ~2.5k rows. Let the browser skip layout/paint for days that are off-screen. */
+.cal-day { content-visibility: auto; contain-intrinsic-size: auto 3.2rem; }
+.stale-notice { border: 1px solid var(--accent); padding: .7rem .9rem; font-size: .85rem; margin: 0 0 1.5rem; }
 
 /* Venue-type view (collapsible, reuses .day-detail summary styling) */
 .venue-group .cinema-list { padding: 0 0 1rem 1.6rem; }

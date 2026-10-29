@@ -5,6 +5,10 @@ interface Props {
   description?: string;
 }
 const { title, description } = Astro.props;
+// Build date (Rome), shown in the footer and used to warn if the data has gone stale.
+const builtDay = new Intl.DateTimeFormat('en-CA', {
+  timeZone: 'Europe/Rome', year: 'numeric', month: '2-digit', day: '2-digit',
+}).format(new Date());
 ---
 
 <!doctype html>
@@ -37,11 +41,33 @@ const { title, description } = Astro.props;
       </div>
     </header>
     <main class="container">
+      <p class="stale-notice" id="stale-notice" hidden data-i18n="stale.notice">Attenzione: gli orari non vengono aggiornati da qualche giorno e potrebbero non essere più validi. Verifica sul sito della sala.</p>
       <slot />
     </main>
+    {/* Runs synchronously right after the content is parsed (before the deferred page scripts):
+        the site is static, so hide anything dated before today in Rome — past days, films whose
+        last showing has passed — in case the daily rebuild hasn't happened yet. */}
+    <script is:inline define:vars={{ builtDay }}>
+      (function () {
+        var today = new Intl.DateTimeFormat('en-CA', {
+          timeZone: 'Europe/Rome', year: 'numeric', month: '2-digit', day: '2-digit',
+        }).format(new Date());
+        document.querySelectorAll('[data-expires]').forEach(function (el) {
+          if (el.getAttribute('data-expires') < today) {
+            el.hidden = true;
+            el.setAttribute('data-expired', '1');
+          }
+        });
+        // More than 2 days since the last build: the daily refresh is failing — say so.
+        if ((Date.parse(today) - Date.parse(builtDay)) / 864e5 > 2) {
+          document.getElementById('stale-notice').hidden = false;
+        }
+      })();
+    </script>
     <footer class="site-footer">
       <p><span data-i18n="footer.tmdb">Dati dei film da TMDB. Questo prodotto usa le API di TMDB ma non è approvato né certificato da TMDB.</span> <a href="https://www.themoviedb.org/">TMDB</a></p>
       <p data-i18n="footer.disclaimer">Orari e programmazione possono cambiare: verifica sempre sul sito della sala prima di andare.</p>
+      <p><span data-i18n="footer.updated">Orari aggiornati il</span> <span data-date={builtDay}>{builtDay}</span>.</p>
     </footer>
 
     <script>

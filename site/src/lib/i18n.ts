@@ -48,6 +48,10 @@ export const UI: Record<Lang, Record<string, string>> = {
     'lang.dubbed': 'ITA',
     'footer.tmdb': 'Dati dei film da TMDB. Questo prodotto usa le API di TMDB ma non è approvato né certificato da TMDB.',
     'footer.disclaimer': 'Orari e programmazione possono cambiare: verifica sempre sul sito della sala prima di andare.',
+    'footer.updated': 'Orari aggiornati il',
+    'notFound.title': 'Pagina non trovata',
+    'notFound.body': 'Il film che cercavi potrebbe non essere più in programmazione a Milano.',
+    'stale.notice': 'Attenzione: gli orari non vengono aggiornati da qualche giorno e potrebbero non essere più validi. Verifica sul sito della sala.',
   },
   en: {
     'nav.films': 'Films',
@@ -91,6 +95,10 @@ export const UI: Record<Lang, Record<string, string>> = {
     'lang.dubbed': 'Dubbed',
     'footer.tmdb': 'Film data from TMDB. This product uses the TMDB API but is not endorsed or certified by TMDB.',
     'footer.disclaimer': 'Times and programming can change — always check the venue’s own site before you go.',
+    'footer.updated': 'Showtimes updated on',
+    'notFound.title': 'Page not found',
+    'notFound.body': 'The film you were looking for may no longer be showing in Milan.',
+    'stale.notice': 'Heads up: showtimes haven’t been refreshed for a few days and may be out of date. Check the venue’s own site.',
   },
 };
 

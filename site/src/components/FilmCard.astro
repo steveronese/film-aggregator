@@ -7,8 +7,10 @@ interface Props {
   film: Film;
   screenings: Screening[];
   cinemas: Map<string, Cinema>;
+  /** Above-the-fold card: load its poster immediately instead of lazily. */
+  eager?: boolean;
 }
-const { film, screenings, cinemas } = Astro.props;
+const { film, screenings, cinemas, eager = false } = Astro.props;
 
 const sorted = sortByStart(screenings);
 const next = sorted[0];
@@ -31,10 +33,12 @@ const search = searchKey(film.title, film.title_en, film.original_title, film.it
   data-cinemas={cins}
   data-vo={hasVO}
   data-search={search}
+  data-expires={sorted.at(-1)?.start.slice(0, 10)}
 >
   <div class="poster">
     {poster
-      ? <img src={poster} alt={`Locandina di ${film.title}`} loading="lazy" />
+      ? <img src={poster} alt={`Locandina di ${film.title}`} width="342" height="513" decoding="async"
+             loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : 'auto'} />
       : <div class="poster-fallback">{film.title}</div>}
     {hasVO === '1' && <span class="badge" data-i18n="lang.ov">VO</span>}
   </div>

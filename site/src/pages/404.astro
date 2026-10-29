@@ -1,0 +1,14 @@
+---
+// Without a top-level 404.html, Cloudflare Pages treats the site as a SPA and answers every unknown
+// URL with the home page + HTTP 200. Film pages disappear daily as films leave cinemas, so old shared
+// links are common — give them an honest "not showing any more" page (served with status 404).
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Pagina non trovata — SchermoMilano">
+  <section class="intro">
+    <h1 data-i18n="notFound.title">Pagina non trovata</h1>
+    <p data-i18n="notFound.body">Il film che cercavi potrebbe non essere più in programmazione a Milano.</p>
+  </section>
+  <a class="backlink" href="/" data-i18n="back.films">← Tutti i film</a>
+</Layout>

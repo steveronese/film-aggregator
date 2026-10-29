@@ -1,17 +1,11 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import FilmCard from '../components/FilmCard.astro';
-import {
-  getFilms, getCinemas, getScreenings, screeningsByFilm, cinemasById, filmsById,
-  screeningsByCinema, sortByStart, groupByDay, fmtDate, fmtTime, langLabel, isOriginal,
-} from '../lib/data';
-import { langKey } from '../lib/i18n';
-import { searchKey } from '../lib/search';
+import { getFilms, getCinemas, screeningsByFilm, cinemasById, screeningsByCinema, sortByStart } from '../lib/data';
 
 const films = getFilms();
 const cinemas = getCinemas();
 const cinMap = cinemasById();
-const filmMap = filmsById();
 const byFilm = screeningsByFilm();
 const byCinema = screeningsByCinema();
 
@@ -38,10 +32,6 @@ const venuesByCategory = CATEGORIES.map((cat) => ({
     .filter((v) => v.count > 0) // hide venues with no upcoming screenings (closed/off-season)
     .sort((a, b) => b.count - a.count || a.cinema.name.localeCompare(b.cinema.name)),
 })).filter((cat) => cat.venues.length > 0);
-
-// --- Calendar view ---
-const days = groupByDay(getScreenings());
-const todayKey = days[0]?.[0];
 ---
 
 <Layout
@@ -55,7 +45,7 @@ const todayKey = days[0]?.[0];
   <div class="views" role="tablist">
     <button class="view-tab" data-view="film" aria-pressed="true" data-i18n="view.films">Tutti i film</button>
     <button class="view-tab" data-view="venues" aria-pressed="false" data-i18n="view.venues">Per sala</button>
-    <button class="view-tab" data-view="calendar" aria-pressed="false" data-i18n="view.calendar">Calendario</button>
+    <a class="view-tab" href="/calendario" data-i18n="view.calendar">Calendario</a>
     <a class="view-tab" href="/mappa" data-i18n="view.map">Mappa</a>
   </div>
 
@@ -73,7 +63,7 @@ const todayKey = days[0]?.[0];
   {/* VIEW: all films */}
   <div data-panel="film">
     <div class="grid" id="grid">
-      {filmItems.map((x) => <FilmCard film={x.film} screenings={x.scr} cinemas={cinMap} />)}
+      {filmItems.map((x, i) => <FilmCard film={x.film} screenings={x.scr} cinemas={cinMap} eager={i < 6} />)}
     </div>
     <p class="empty" id="empty-film" hidden data-i18n="empty.films">Nessun film con questi filtri.</p>
   </div>
@@ -81,7 +71,7 @@ const todayKey = days[0]?.[0];
   {/* VIEW: by venue type */}
   <div data-panel="venues" hidden>
     {venuesByCategory.map((cat) => (
-      <details class="venue-group day-detail" open>
+      <details class="day-detail" open>
         <summary><span data-i18n={`cat.${cat.key}`}>{cat.label}</span> <span class="day-n">{cat.venues.length}</span></summary>
         <ul class="cinema-list">
           {cat.venues.map((v) => (
@@ -99,41 +89,12 @@ const todayKey = days[0]?.[0];
       </details>
     ))}
   </div>
-
-  {/* VIEW: calendar (collapsible by day) */}
-  <div data-panel="calendar" hidden>
-    {days.map(([day, list]) => (
-      <details class="day-detail" open={day === todayKey}>
-        <summary><span data-date={day}>{fmtDate(day + 'T00:00:00')}</span> <span class="day-n">{list.length}</span></summary>
-        <div class="day-body">
-          {list.map((s) => {
-            const film = s.tmdb_id != null ? filmMap.get(s.tmdb_id) : undefined;
-            const lbl = langLabel(s.language);
-            const cinema = cinMap.get(s.cinema_id);
-            const rowSearch = searchKey(film?.title, film?.title_en, film?.original_title, s.raw_title, cinema?.name);
-            return (
-              <div class="show-row" data-cinema={s.cinema_id} data-vo={isOriginal(s.language) ? '1' : '0'} data-search={rowSearch}>
-                <span class="time">{fmtTime(s.start)}</span>
-                <span class="where">
-                  {film
-                    ? <a class="ttl" href={`/film/${film.tmdb_id}`} data-it={film.title} data-en={film.title_en ?? film.title}>{film.title}</a>
-                    : <span class="ttl">{s.raw_title}</span>}
-                  <span class="sub">{cinema?.name ?? s.cinema_id}</span>
-                </span>
-                {lbl && <span class={`pill ${s.language === 'dubbed' ? 'dub' : ''}`} data-i18n={langKey(s.language)}>{lbl}</span>}
-              </div>
-            );
-          })}
-        </div>
-      </details>
-    ))}
-  </div>
 </Layout>
 
 <script>
   import { UI } from '../lib/i18n';
   import { searchKey } from '../lib/search';
-  const lang =() => ((window as any).__lang === 'en' ? 'en' : 'it');
+  const lang = () => ((window as any).__lang === 'en' ? 'en' : 'it');
   const unit = (n: number, base: string) => UI[lang()][`unit.${base}${n === 1 ? '' : 's'}`] ?? '';
 
   const tabs = Array.from(document.querySelectorAll<HTMLElement>('.view-tab[data-view]'));
@@ -146,50 +107,30 @@ const todayKey = days[0]?.[0];
   const count = document.getElementById('count')!;
   const emptyFilm = document.getElementById('empty-film')!;
   const cards = Array.from(document.querySelectorAll<HTMLElement>('.film-card'));
-  const rows = Array.from(document.querySelectorAll<HTMLElement>('.show-row'));
-
-  let view = 'film';
 
   function applyFilters() {
     const cinema = cinemaSel.value;
     const voOnly = voChk.checked;
     const q = searchKey(searchInput.value);
-    if (view === 'film') {
-      let shown = 0;
-      for (const card of cards) {
-        const okCinema = cinema === 'all' || (card.dataset.cinemas ?? '').split(',').includes(cinema);
-        const okVo = !voOnly || card.dataset.vo === '1';
-        const okSearch = !q || (card.dataset.search ?? '').includes(q);
-        const visible = okCinema && okVo && okSearch;
-        card.hidden = !visible;
-        if (visible) shown++;
-      }
-      count.textContent = `${shown} ${unit(shown, 'film')}`;
-      emptyFilm.hidden = shown !== 0;
-    } else if (view === 'calendar') {
-      let shown = 0;
-      for (const row of rows) {
-        const okCinema = cinema === 'all' || row.dataset.cinema === cinema;
-        const okVo = !voOnly || row.dataset.vo === '1';
-        const okSearch = !q || (row.dataset.search ?? '').includes(q);
-        const visible = okCinema && okVo && okSearch;
-        row.hidden = !visible;
-        if (visible) shown++;
-      }
-      // hide day groups that ended up empty
-      document.querySelectorAll<HTMLElement>('.day-detail').forEach((d) => {
-        const any = d.querySelector('.show-row:not([hidden])');
-        d.hidden = !any;
-      });
-      count.textContent = `${shown} ${unit(shown, 'screening')}`;
+    let shown = 0;
+    for (const card of cards) {
+      const visible = !card.dataset.expired // last showing already passed (stale build)
+        && (cinema === 'all' || (card.dataset.cinemas ?? '').split(',').includes(cinema))
+        && (!voOnly || card.dataset.vo === '1')
+        && (!q || (card.dataset.search ?? '').includes(q));
+      card.hidden = !visible;
+      if (visible) shown++;
     }
+    count.textContent = `${shown} ${unit(shown, 'film')}`;
+    emptyFilm.hidden = shown !== 0;
   }
 
+  // '#sale' opens the venue view (linked from the calendar page) and survives back/forward.
   function setView(next: string) {
-    view = next;
     tabs.forEach((t) => t.setAttribute('aria-pressed', String(t.dataset.view === next)));
     panels.forEach((p, key) => (p.hidden = key !== next));
-    filters.hidden = next === 'venues'; // filters apply to film & calendar only
+    filters.hidden = next === 'venues'; // filters apply to the film grid only
+    history.replaceState(null, '', next === 'venues' ? '#sale' : location.pathname);
     applyFilters();
   }
 
@@ -202,5 +143,5 @@ const todayKey = days[0]?.[0];
   };
   document.addEventListener('langchange', () => { syncSearchPlaceholder(); applyFilters(); });
   syncSearchPlaceholder();
-  setView('film');
+  setView(location.hash === '#sale' ? 'venues' : 'film');
 </script>

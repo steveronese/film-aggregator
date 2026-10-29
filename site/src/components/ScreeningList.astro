@@ -28,7 +28,7 @@ function primary(s: Screening): { ttl: string; ttlEn: string; href: string | nul
 <div class="sched">
   {days.length === 0 && <p class="empty" data-i18n="screening.empty">Nessuna proiezione in programma al momento.</p>}
   {days.map(([day, list]) => (
-    <div class="day-group">
+    <div class="day-group" data-expires={day}>
       <div class="day-head" data-date={day}>{fmtDate(day + 'T00:00:00')}</div>
       {list.map((s) => {
         const p = primary(s);

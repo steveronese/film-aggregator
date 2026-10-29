@@ -1,0 +1,122 @@
+---
+// The day-by-day calendar lives on its own page: it renders every upcoming screening (~2.5k rows),
+// which made the home page ~1 MB of HTML when it was a hidden tab there.
+import Layout from '../layouts/Layout.astro';
+import {
+  getCinemas, getScreenings, cinemasById, filmsById, screeningsByCinema,
+  groupByDay, fmtDate, fmtTime, langLabel, isOriginal,
+} from '../lib/data';
+import { langKey } from '../lib/i18n';
+import { searchKey } from '../lib/search';
+
+const cinMap = cinemasById();
+const filmMap = filmsById();
+const byCinema = screeningsByCinema();
+const cinemasWithShows = getCinemas().filter((c) => (byCinema.get(c.id) ?? []).length > 0);
+const days = groupByDay(getScreenings());
+const firstDay = days[0]?.[0];
+---
+
+<Layout
+  title="Calendario — SchermoMilano"
+  description="Tutte le proiezioni nei cinema di Milano, giorno per giorno."
+>
+  <section class="intro">
+    <h1 data-i18n="home.title">Cosa c'è al cinema a Milano</h1>
+  </section>
+
+  <nav class="views">
+    <a class="view-tab" href="/" data-i18n="view.films">Tutti i film</a>
+    <a class="view-tab" href="/#sale" data-i18n="view.venues">Per sala</a>
+    <a class="view-tab" href="/calendario" aria-current="page" data-i18n="view.calendar">Calendario</a>
+    <a class="view-tab" href="/mappa" data-i18n="view.map">Mappa</a>
+  </nav>
+
+  <div class="filters">
+    <input class="control search" id="search" type="search" autocomplete="off"
+           aria-label="Cerca" placeholder="Cerca film, regista…" />
+    <select class="control" id="cinema-filter" aria-label="Sala">
+      <option value="all" data-i18n="filter.allVenues">Tutte le sale</option>
+      {cinemasWithShows.map((c) => <option value={c.id}>{c.name}</option>)}
+    </select>
+    <label class="toggle"><input type="checkbox" id="vo-filter" /> <span data-i18n="filter.voOnly">Solo versione originale</span></label>
+    <span class="count" id="count"></span>
+  </div>
+
+  {days.map(([day, list]) => (
+    <details class="day-detail cal-day" open={day === firstDay} data-expires={day}>
+      <summary><span data-date={day}>{fmtDate(day + 'T00:00:00')}</span> <span class="day-n">{list.length}</span></summary>
+      <div class="day-body">
+        {list.map((s) => {
+          const film = s.tmdb_id != null ? filmMap.get(s.tmdb_id) : undefined;
+          const lbl = langLabel(s.language);
+          const cinema = cinMap.get(s.cinema_id);
+          return (
+            <div class="show-row" data-cinema={s.cinema_id} data-vo={isOriginal(s.language) ? '1' : '0'}
+                 data-search={searchKey(film?.title, film?.title_en, film?.original_title, s.raw_title, cinema?.name)}>
+              <span class="time">{fmtTime(s.start)}</span>
+              <span class="where">
+                {film
+                  ? <a class="ttl" href={`/film/${film.tmdb_id}`} data-it={film.title} data-en={film.title_en ?? film.title}>{film.title}</a>
+                  : <span class="ttl">{s.raw_title}</span>}
+                <span class="sub">{cinema?.name ?? s.cinema_id}</span>
+              </span>
+              {lbl && <span class={`pill ${s.language === 'dubbed' ? 'dub' : ''}`} data-i18n={langKey(s.language)}>{lbl}</span>}
+            </div>
+          );
+        })}
+      </div>
+    </details>
+  ))}
+  <p class="empty" id="empty" hidden data-i18n="empty.screenings">Nessuna proiezione in programma al momento.</p>
+</Layout>
+
+<script>
+  import { UI } from '../lib/i18n';
+  import { searchKey } from '../lib/search';
+  const lang = () => ((window as any).__lang === 'en' ? 'en' : 'it');
+  const unit = (n: number, base: string) => UI[lang()][`unit.${base}${n === 1 ? '' : 's'}`] ?? '';
+
+  const cinemaSel = document.getElementById('cinema-filter') as HTMLSelectElement;
+  const voChk = document.getElementById('vo-filter') as HTMLInputElement;
+  const searchInput = document.getElementById('search') as HTMLInputElement;
+  const count = document.getElementById('count')!;
+  const empty = document.getElementById('empty')!;
+  const dayEls = Array.from(document.querySelectorAll<HTMLDetailsElement>('.cal-day'));
+
+  function applyFilters() {
+    const cinema = cinemaSel.value;
+    const voOnly = voChk.checked;
+    const q = searchKey(searchInput.value);
+    let shown = 0;
+    for (const day of dayEls) {
+      if (day.dataset.expired) continue; // already pruned (past day); leave hidden
+      let dayShown = 0;
+      day.querySelectorAll<HTMLElement>('.show-row').forEach((row) => {
+        const visible = (cinema === 'all' || row.dataset.cinema === cinema)
+          && (!voOnly || row.dataset.vo === '1')
+          && (!q || (row.dataset.search ?? '').includes(q));
+        row.hidden = !visible;
+        if (visible) dayShown++;
+      });
+      day.hidden = dayShown === 0;
+      shown += dayShown;
+    }
+    count.textContent = `${shown} ${unit(shown, 'screening')}`;
+    empty.hidden = shown !== 0;
+  }
+
+  // If the page was built a day or more ago, the first *remaining* day should be the open one.
+  const firstLive = dayEls.find((d) => !d.dataset.expired);
+  if (firstLive && !dayEls.some((d) => !d.dataset.expired && d.open)) firstLive.open = true;
+
+  cinemaSel.addEventListener('change', applyFilters);
+  voChk.addEventListener('change', applyFilters);
+  searchInput.addEventListener('input', applyFilters);
+  const syncSearchPlaceholder = () => {
+    searchInput.placeholder = UI[lang()]['filter.search'] ?? searchInput.placeholder;
+  };
+  document.addEventListener('langchange', () => { syncSearchPlaceholder(); applyFilters(); });
+  syncSearchPlaceholder();
+  applyFilters();
+</script>

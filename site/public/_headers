@@ -9,3 +9,8 @@
   Permissions-Policy: geolocation=(self), camera=(), microphone=(), payment=(), usb=()
   Content-Security-Policy: object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'
   Strict-Transport-Security: max-age=31536000
+
+# Astro's bundled JS/CSS have content hashes in their filenames, so they never change in place:
+# let browsers keep them for a year instead of revalidating on every visit.
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
