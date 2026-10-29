@@ -7,7 +7,7 @@
     <key>ProgramArguments</key>
     <array>
         <string>/bin/bash</string>
-        <string>/Users/stefanoveronese/Desktop/Film Aggregator/scripts/weekly_refresh.sh</string>
+        <string>/Users/stefanoveronese/Projects/Film Aggregator/scripts/weekly_refresh.sh</string>
     </array>
     <key>StartCalendarInterval</key>
     <dict>
