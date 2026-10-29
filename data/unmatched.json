@@ -1,134 +1,434 @@
 [
   {
+    "raw_title": "TWIN PEAKS – STAG. 03 EP 9 e 10",
+    "raw_year": null,
+    "cinema_id": "beltrade",
+    "occurrences": 2
+  },
+  {
+    "raw_title": "NON APRITE QUEL SIPARIO - MARATONA HALLOWEEN",
+    "raw_year": null,
+    "cinema_id": "beltrade",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "TRANSMISSIONS IN SILVER",
+    "raw_year": null,
+    "cinema_id": "beltrade",
+    "occurrences": 1
+  },
+  {
     "raw_title": "KEEP CALM",
     "raw_year": null,
     "cinema_id": "beltrade",
     "occurrences": 4
   },
   {
-    "raw_title": "V.O.SOTT.ITA UN MONDO MERAVIGLIOSO",
+    "raw_title": "LA CITTÀ DEI BAMBINI",
+    "raw_year": null,
+    "cinema_id": "beltrade",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "INDOCILI #1 - INDOCILI QUEER",
+    "raw_year": null,
+    "cinema_id": "beltrade",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "20 ANNI DI CINETECA MILANO METROPOLIS",
+    "raw_year": null,
+    "cinema_id": "cineteca-metropolis",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "YOUTH (SPRING)",
+    "raw_year": null,
+    "cinema_id": "cineteca-arlecchino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "YOUTH (HARD TIMES)",
+    "raw_year": null,
+    "cinema_id": "cineteca-arlecchino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "MEMORIZU",
+    "raw_year": null,
+    "cinema_id": "cineteca-arlecchino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "PROIEZIONE DEI CORTOMETRAGGI DELLA FILM SCHOOL DI LODZ",
+    "raw_year": null,
+    "cinema_id": "cineteca-mic",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "OLIVIA Y EL TERREMOTO INVISIBLE",
+    "raw_year": null,
+    "cinema_id": "cineteca-arlecchino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "WE ARE ALIENS",
+    "raw_year": null,
+    "cinema_id": "cineteca-arlecchino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "WORKSHOP DI ANIMAZIONE FILM SCHOOL DI LODZ",
+    "raw_year": null,
+    "cinema_id": "cineteca-mic",
+    "occurrences": 2
+  },
+  {
+    "raw_title": "LIGHT PILLAR",
+    "raw_year": null,
+    "cinema_id": "cineteca-arlecchino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "LA BEAUTÉ DE L'ÂNE",
+    "raw_year": null,
+    "cinema_id": "cineteca-arlecchino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "BLACK LIONS - ROMAN WOLVES DI HAILE GERIMA",
+    "raw_year": null,
+    "cinema_id": "cineteca-arlecchino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "V.O. SOTT. ITA - IL TEMPO E L'ACQUA",
     "raw_year": null,
     "cinema_id": "anteo",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "8 E MEZZO",
+    "raw_year": null,
+    "cinema_id": "anteo",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "LA MUSICA DEI CATTIVI",
+    "raw_year": null,
+    "cinema_id": "anteo",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "RAGIONE E SENTIMENTO (SENSE AND SENSIBILITY)",
+    "raw_year": null,
+    "cinema_id": "citylife-anteo",
+    "occurrences": 21
+  },
+  {
+    "raw_title": "CALLE MALAGA (CALLE MÁLAGA)",
+    "raw_year": null,
+    "cinema_id": "citylife-anteo",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "VA' SENTIERO",
+    "raw_year": null,
+    "cinema_id": "citylife-anteo",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "V.O.SOTT.ITA - FAST & FURIOUS - 25TH ANNIVERSARY",
+    "raw_year": null,
+    "cinema_id": "citylife-anteo",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "IL GATTO COL CAPPELLO (THE CAT IN THE HAT)",
+    "raw_year": null,
+    "cinema_id": "citylife-anteo",
+    "occurrences": 2
+  },
+  {
+    "raw_title": "THE SOCIAL -IL PREZZO DELLA VERITA' (THE SOCIAL RECKONING) - V. O.",
+    "raw_year": null,
+    "cinema_id": "cinemino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "Tre Corti - Tre Donne",
+    "raw_year": null,
+    "cinema_id": "cinemino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "COSCIENZA E MEMORIA",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "CARNE / ARACHNID + TALK CON MATILDA LUTZ",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "TUTTAUNANOTTE 2 – PROGRAMMA 1",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "TUTTAUNANOTTE 2 – PROGRAMMA 2",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "D.O.A. – A RIGHT OF PASSAGE + TALK CON LECH KOWALSKI",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "ADOLESCENZA: CAPIRE MENTE, CORPO E SALUTE",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "WERNER HERZOG – RADICAL DREAMER",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "(Kor) Bts W.T. 'Arirang' In Sao P. Live",
+    "raw_year": null,
+    "cinema_id": "arcobaleno",
+    "occurrences": 2
+  },
+  {
+    "raw_title": "(Kor) Stray Kids Wt <run it=\"\"> Live View</run>",
+    "raw_year": null,
+    "cinema_id": "arcobaleno",
+    "occurrences": 2
+  },
+  {
+    "raw_title": "Ozzy & Black Sabbath: Back To The Begin.",
+    "raw_year": null,
+    "cinema_id": "arcobaleno",
+    "occurrences": 2
+  },
+  {
+    "raw_title": "(Kor) Bts W.T. 'Arirang' In Sao P. Live",
+    "raw_year": null,
+    "cinema_id": "ducale",
+    "occurrences": 2
+  },
+  {
+    "raw_title": "(Kor) Stray Kids Wt <run it=\"\"> Live View</run>",
+    "raw_year": null,
+    "cinema_id": "ducale",
+    "occurrences": 2
+  },
+  {
+    "raw_title": "Fast & Furious - 25° - Evento Speciale",
+    "raw_year": null,
+    "cinema_id": "ducale",
+    "occurrences": 6
+  },
+  {
+    "raw_title": "Ozzy & Black Sabbath: Back To The Begin.",
+    "raw_year": null,
+    "cinema_id": "ducale",
+    "occurrences": 2
+  },
+  {
+    "raw_title": "Fast & Furious - 25° Anniversario",
+    "raw_year": null,
+    "cinema_id": "plinius",
     "occurrences": 7
   },
   {
-    "raw_title": "Presentazione libro ESSERE NUVOLA di CHANDRA",
+    "raw_title": "Avengers: Doomsday Infinity Vision",
     "raw_year": null,
-    "cinema_id": "anteo",
-    "occurrences": 1
+    "cinema_id": "orfeo",
+    "occurrences": 16
   },
   {
-    "raw_title": "LE MANI DELLA MODA Episodio 3",
-    "raw_year": null,
-    "cinema_id": "anteo",
-    "occurrences": 15
-  },
-  {
-    "raw_title": "SANTIAGO - UN CAMMINO PER RICOMINCIARE (COMPOSTELLE)",
-    "raw_year": null,
-    "cinema_id": "anteo",
-    "occurrences": 1
-  },
-  {
-    "raw_title": "ULTIMO - TUTTO. LIVE A TOR VERGATA",
-    "raw_year": null,
-    "cinema_id": "citylife-anteo",
-    "occurrences": 9
-  },
-  {
-    "raw_title": "UNA GIORNATA MALEDETTAMENTE BUONA",
-    "raw_year": null,
-    "cinema_id": "citylife-anteo",
-    "occurrences": 1
-  },
-  {
-    "raw_title": "UN PO’ DI LUCE + TALK CON ALI ASGARI",
-    "raw_year": null,
-    "cinema_id": "godard",
-    "occurrences": 1
-  },
-  {
-    "raw_title": "CAO FEI: SELEZIONE DI LAVORI",
-    "raw_year": null,
-    "cinema_id": "godard",
-    "occurrences": 1
-  },
-  {
-    "raw_title": "INCONTRO CON CAO FEI",
-    "raw_year": null,
-    "cinema_id": "godard",
-    "occurrences": 1
-  },
-  {
-    "raw_title": "TALK CON FABRIZIO LAURENTI + SERGIO E MIRTA / LA CASA 4 (WITCHCRAFT)",
-    "raw_year": null,
-    "cinema_id": "godard",
-    "occurrences": 1
-  },
-  {
-    "raw_title": "Ultimo - Tutto. Live A Tor Vergata",
-    "raw_year": null,
-    "cinema_id": "arcobaleno",
-    "occurrences": 18
-  },
-  {
-    "raw_title": "Ultimo - Tutto. Live A Tor Vergata",
-    "raw_year": null,
-    "cinema_id": "ducale",
-    "occurrences": 18
-  },
-  {
-    "raw_title": "Ultimo - Tutto. Live A Tor Vergata",
+    "raw_title": "Se Domani Non Torno - Ospiti In Sala",
     "raw_year": null,
     "cinema_id": "colosseo",
     "occurrences": 1
   },
   {
-    "raw_title": "Un Mondo Meraviglioso",
-    "raw_year": null,
-    "cinema_id": "centrale",
-    "occurrences": 14
-  },
-  {
-    "raw_title": "Vivere, Ridere, Rallentare",
+    "raw_title": "La Flor - Parte 1 (O.V.)",
     "raw_year": null,
     "cinema_id": "san-fedele",
     "occurrences": 1
   },
   {
-    "raw_title": "(XL) Ultimo - Tutto. Live A Tor Vergata",
+    "raw_title": "La Flor - Parte 2 (O.V.)",
     "raw_year": null,
-    "cinema_id": "uci-bicocca",
-    "occurrences": 17
+    "cinema_id": "san-fedele",
+    "occurrences": 1
   },
   {
-    "raw_title": "Grand Prix Autism Friendly",
+    "raw_title": "La Flor - Parte 3 (O.V.)",
+    "raw_year": null,
+    "cinema_id": "san-fedele",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "Trenque Lauquen - Parte 1 (O.V.)",
+    "raw_year": null,
+    "cinema_id": "san-fedele",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "Trenque Lauquen - Parte 2 (O.V.)",
+    "raw_year": null,
+    "cinema_id": "san-fedele",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "Se Domani Non Torno - Ospiti In Sala",
+    "raw_year": null,
+    "cinema_id": "notorious-gloria",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "(JP) Godzilla Minus Zero",
+    "raw_year": null,
+    "cinema_id": "uci-bicocca",
+    "occurrences": 6
+  },
+  {
+    "raw_title": "(JP) Your Name. 4k 10° Anniversario",
+    "raw_year": null,
+    "cinema_id": "uci-bicocca",
+    "occurrences": 3
+  },
+  {
+    "raw_title": "(Kor - 3d) Hybe Cheering Party",
+    "raw_year": null,
+    "cinema_id": "uci-bicocca",
+    "occurrences": 3
+  },
+  {
+    "raw_title": "(Kor) Bts W.T. 'Arirang' In Sao P. Live",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
     "occurrences": 2
   },
   {
-    "raw_title": "Mirzapur",
+    "raw_title": "(Kor) Enhypen World Tour 'Blood Saga'",
+    "raw_year": null,
+    "cinema_id": "uci-bicocca",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "(O.V. - XL) Avengers:Doomsday Infinity",
+    "raw_year": null,
+    "cinema_id": "uci-bicocca",
+    "occurrences": 15
+  },
+  {
+    "raw_title": "(O.V.) Fast & Furious - 25 Anniversary",
+    "raw_year": null,
+    "cinema_id": "uci-bicocca",
+    "occurrences": 3
+  },
+  {
+    "raw_title": "(O.V.) League Of Legends Worlds 26",
+    "raw_year": null,
+    "cinema_id": "uci-bicocca",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "(O.V.) Ozzy & Black Sabbath: Back To",
+    "raw_year": null,
+    "cinema_id": "uci-bicocca",
+    "occurrences": 3
+  },
+  {
+    "raw_title": "(Sala XL) Avengers: Doomsday Infinity",
+    "raw_year": null,
+    "cinema_id": "uci-bicocca",
+    "occurrences": 62
+  },
+  {
+    "raw_title": "(XL) Fast & Furious - 25 Anniversary",
+    "raw_year": null,
+    "cinema_id": "uci-bicocca",
+    "occurrences": 15
+  },
+  {
+    "raw_title": "(Xl-Kor) Stray Kids Wt <run it=\"\">Live View</run>",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
     "occurrences": 2
   },
   {
-    "raw_title": "Talking Tom Heroes Super Amici",
+    "raw_title": "Fast & Furious - 25 Anniversary",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 12
+    "occurrences": 18
   },
   {
-    "raw_title": "Ultimo - Tutto. Live A Tor Vergata",
+    "raw_title": "Lorenzo - L'Incredibile Avventura",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 2
+    "occurrences": 7
   },
   {
-    "raw_title": "Ultimo - Tutto.  Live A Tor Vergata",
+    "raw_title": "Shaun Vita Da Pecora - Op. Z.U.C.C.A.",
+    "raw_year": null,
+    "cinema_id": "uci-bicocca",
+    "occurrences": 28
+  },
+  {
+    "raw_title": "Your Name. 4k 10° Anniversario",
+    "raw_year": null,
+    "cinema_id": "uci-bicocca",
+    "occurrences": 3
+  },
+  {
+    "raw_title": "(Lingua Originale) Ragione E Sentimento",
     "raw_year": null,
     "cinema_id": "cinelandia-certosa",
-    "occurrences": 6
+    "occurrences": 1
+  },
+  {
+    "raw_title": "4senses- Avengers: Doomsday Infinity V.",
+    "raw_year": null,
+    "cinema_id": "cinelandia-certosa",
+    "occurrences": 25
+  },
+  {
+    "raw_title": "Avengers: Doomsday Infinity Vision",
+    "raw_year": null,
+    "cinema_id": "cinelandia-certosa",
+    "occurrences": 27
+  },
+  {
+    "raw_title": "Fast & Furious - 25 Anniversary",
+    "raw_year": null,
+    "cinema_id": "cinelandia-certosa",
+    "occurrences": 20
+  },
+  {
+    "raw_title": "Lorenzo - L'Incredibile Avventura",
+    "raw_year": null,
+    "cinema_id": "cinelandia-certosa",
+    "occurrences": 9
+  },
+  {
+    "raw_title": "OZZY & BLACK SABBATH - BACK TO THE BEGINNING",
+    "raw_year": null,
+    "cinema_id": "notorious-merlata",
+    "occurrences": 1
   }
 ]
