@@ -3,7 +3,7 @@
 The site is static and updates itself daily, with no machine of yours involved. Two pieces:
 
 - **GitHub Actions** (`.github/workflows/scrape.yml`) — runs daily, scrapes every venue, matches
-  against TMDB (AI fallback via GitHub Models), validates the build, and commits the refreshed `data/`.
+  against TMDB (optional AI fallback), validates the build, and commits the refreshed `data/`.
 - **Cloudflare Pages** — connected to this repo via Git; rebuilds & deploys the Astro site on every
   push (including the daily data commits). Free.
 
@@ -17,7 +17,8 @@ The site is static and updates itself daily, with no machine of yours involved. 
   fuzzy-only.
 - **Site self-pruning:** pages hide past days/films in the browser even if a rebuild is missed, and
   show a "showtimes may be out of date" notice once data is 2+ days old.
-- **No expiring credentials for AI:** GitHub Models is called with the job's own `GITHUB_TOKEN`.
+- **AI is optional:** without an `AI_API_KEY` secret the run uses fuzzy matching only (~86% of
+  screenings match); a key that expires or gets rate-limited trips a circuit breaker, not the run.
 - **Bounded growth:** the committed TMDB cache keeps only the fields we use (~2 MB, not 40 MB).
 - **Pinned majors:** Python deps are capped at their next major version; Node via `.nvmrc`.
 
@@ -32,8 +33,12 @@ your local `.env`, which is gitignored):
 | `TMDB_ACCESS_TOKEN` | your TMDB v4 read token |
 | `SCRAPERAPI_KEY` | ScraperAPI key — fetches Cinema Godard through residential IPs (free tier suffices: ~1 call/day) |
 
-No AI key is needed in CI (GitHub Models uses the workflow token). `MISTRAL_API_KEY` is no longer used
-by CI and can be deleted.
+**Optional — AI title matching.** Resolves the messy listings fuzzy matching can't (a few calls a
+day, well inside any free tier). Any OpenAI-compatible provider works: add the secret `AI_API_KEY`,
+and under the **Variables** tab `AI_BASE_URL` (e.g. `https://api.groq.com/openai/v1`) and `AI_MODEL`
+(e.g. `llama-3.3-70b-versatile`). Leave `AI_BASE_URL`/`AI_MODEL` unset to use Mistral's defaults.
+(GitHub Models, used briefly, was retired by GitHub on 2026-07-30; the old `MISTRAL_API_KEY` is
+rate-limited to 0 requests/min and can be deleted.)
 
 ### 2. Connect Cloudflare Pages
 Cloudflare dashboard → **Workers & Pages → Create → Pages → Connect to Git** → pick

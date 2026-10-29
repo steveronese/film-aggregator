@@ -4,10 +4,11 @@ It's free because it's invoked *only* on the handful of titles the fuzzy matcher
 confidently, and every answer is cached. That's a few calls per day — trivially inside a provider's
 free tier. When no API key is set the matcher is disabled and the pipeline behaves exactly as before.
 
-Any OpenAI-compatible chat endpoint works, configured via AI_BASE_URL / AI_MODEL / AI_API_KEY:
-  - CI uses GitHub Models with the workflow's own GITHUB_TOKEN — no account or key to expire, which
-    keeps the daily job self-sufficient (see .github/workflows/scrape.yml).
-  - Locally, the legacy MISTRAL_* variables still work as a fallback (Mistral is the default).
+Any OpenAI-compatible chat endpoint works, configured via AI_BASE_URL / AI_MODEL / AI_API_KEY
+(the legacy MISTRAL_* variables still work as a fallback; Mistral is the default endpoint). It is
+optional by design: keys and free tiers lapse (Mistral's went to 0 req/min; GitHub Models was
+retired in July 2026), so the daily job must never depend on one — the circuit breaker below
+falls back to fuzzy matching.
 The model never invents ids: it's given the real TMDB search candidates and must pick one (by id)
 or say none.
 """
@@ -95,7 +96,15 @@ class AIMatcher:
                 time.sleep(min(float(retry_after), 60.0) if retry_after.isdigit() else 10.0 * (attempt + 1))
                 continue
             resp.raise_for_status()
-            return json.loads(resp.json()["choices"][0]["message"]["content"])
+            try:
+                payload = resp.json()
+            except json.JSONDecodeError:
+                # Say what came back — a retired endpoint answered 200 "OK" in plain text, which
+                # otherwise surfaces as an opaque "Expecting value: line 1 column 1".
+                raise httpx.DecodingError(
+                    f"non-JSON response ({resp.headers.get('content-type')}): {resp.text[:80]!r}"
+                ) from None
+            return json.loads(payload["choices"][0]["message"]["content"])
         raise AssertionError("unreachable")
 
     def _load(self) -> dict[str, Any]:

@@ -3,9 +3,10 @@ name: Scrape & publish
 # Daily: re-scrape every venue, re-match against TMDB, validate the site builds, and commit the
 # refreshed data. Cloudflare Pages (connected to this repo via Git) rebuilds & deploys on the push.
 #
-# Built to run unattended: no external AI key (GitHub Models via the job's own token), every
-# venue reachable from the cloud (Godard via ScraperAPI), and a failing run opens a GitHub issue
-# — which notifies the repo owner — and the next successful run closes it.
+# Built to run unattended: every venue is reachable from the cloud (Godard via ScraperAPI), AI
+# title matching is optional (off unless an AI_API_KEY secret is set, and a dead key just falls
+# back to fuzzy matching), and a failing run opens a GitHub issue — which notifies the repo owner
+# — that the next successful run closes.
 on:
   schedule:
     # Off the top of the hour: GitHub delays :00 schedules by hours under load (runs set for
@@ -15,7 +16,6 @@ on:
 
 permissions:
   contents: write  # commit refreshed data
-  models: read     # GitHub Models for AI title matching
   issues: write    # open/close the failure-alert issue
 
 concurrency:
@@ -38,13 +38,15 @@ jobs:
       # is fetched through ScraperAPI (SCRAPERAPI_KEY). If that ever fails, run.py preserves
       # Godard's last-known-good screenings.
 
-      - name: Scrape venues & match TMDB (AI fallback via GitHub Models)
+      - name: Scrape venues & match TMDB (optional AI fallback)
         env:
           TMDB_ACCESS_TOKEN: ${{ secrets.TMDB_ACCESS_TOKEN }}
           SCRAPERAPI_KEY: ${{ secrets.SCRAPERAPI_KEY }}
-          AI_BASE_URL: https://models.github.ai/inference
-          AI_MODEL: openai/gpt-4o-mini
-          AI_API_KEY: ${{ secrets.GITHUB_TOKEN }}
+          # Optional, any OpenAI-compatible provider. Unset secret = AI off (fuzzy matching only).
+          # AI_BASE_URL / AI_MODEL are repo *variables*; empty falls back to Mistral's defaults.
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_BASE_URL: ${{ vars.AI_BASE_URL }}
+          AI_MODEL: ${{ vars.AI_MODEL }}
         run: python -m scrapers.run
 
       - uses: actions/setup-node@v7
