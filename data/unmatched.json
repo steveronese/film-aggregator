@@ -1,11 +1,5 @@
 [
   {
-    "raw_title": "TWIN PEAKS – STAG. 03 EP 9 e 10",
-    "raw_year": null,
-    "cinema_id": "beltrade",
-    "occurrences": 2
-  },
-  {
     "raw_title": "NON APRITE QUEL SIPARIO - MARATONA HALLOWEEN",
     "raw_year": null,
     "cinema_id": "beltrade",
@@ -13,6 +7,12 @@
   },
   {
     "raw_title": "TRANSMISSIONS IN SILVER",
+    "raw_year": null,
+    "cinema_id": "beltrade",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "TWIN PEAKS – STAG. 03 EP 9 e 10",
     "raw_year": null,
     "cinema_id": "beltrade",
     "occurrences": 1
@@ -60,6 +60,12 @@
     "occurrences": 1
   },
   {
+    "raw_title": "CELESTE TRA LE STELLE",
+    "raw_year": null,
+    "cinema_id": "cineteca-mic",
+    "occurrences": 1
+  },
+  {
     "raw_title": "PROIEZIONE DEI CORTOMETRAGGI DELLA FILM SCHOOL DI LODZ",
     "raw_year": null,
     "cinema_id": "cineteca-mic",
@@ -102,6 +108,24 @@
     "occurrences": 2
   },
   {
+    "raw_title": "MASTERCLASS CON WANG BING",
+    "raw_year": null,
+    "cinema_id": "cineteca-arlecchino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "YOUTH (HOMECOMING)",
+    "raw_year": null,
+    "cinema_id": "cineteca-arlecchino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "LA BEAUTÉ DE L'ÂNE",
+    "raw_year": null,
+    "cinema_id": "cineteca-metropolis",
+    "occurrences": 1
+  },
+  {
     "raw_title": "V.O. SOTT. ITA - IL TEMPO E L'ACQUA",
     "raw_year": null,
     "cinema_id": "anteo",
@@ -123,7 +147,7 @@
     "raw_title": "RAGIONE E SENTIMENTO (SENSE AND SENSIBILITY)",
     "raw_year": null,
     "cinema_id": "citylife-anteo",
-    "occurrences": 18
+    "occurrences": 15
   },
   {
     "raw_title": "CALLE MALAGA (CALLE MÁLAGA)",
@@ -133,12 +157,6 @@
   },
   {
     "raw_title": "VA' SENTIERO",
-    "raw_year": null,
-    "cinema_id": "citylife-anteo",
-    "occurrences": 1
-  },
-  {
-    "raw_title": "V.O.SOTT.ITA - FAST & FURIOUS - 25TH ANNIVERSARY",
     "raw_year": null,
     "cinema_id": "citylife-anteo",
     "occurrences": 1
@@ -162,6 +180,48 @@
     "occurrences": 1
   },
   {
+    "raw_title": "CARNE / ARACHNID + TALK CON MATILDA LUTZ",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "TUTTAUNANOTTE 2 – PROGRAMMA 1",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "TUTTAUNANOTTE 2 – PROGRAMMA 2",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "D.O.A. – A RIGHT OF PASSAGE + TALK CON LECH KOWALSKI",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "INCONTRO CON ANGELA DAVIS",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "ADOLESCENZA: CAPIRE MENTE, CORPO E SALUTE",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "WERNER HERZOG – RADICAL DREAMER",
+    "raw_year": null,
+    "cinema_id": "godard",
+    "occurrences": 1
+  },
+  {
     "raw_title": "(Kor) Bts W.T. 'Arirang' In Sao P. Live",
     "raw_year": null,
     "cinema_id": "arcobaleno",
@@ -192,10 +252,16 @@
     "occurrences": 2
   },
   {
+    "raw_title": "(O.V.) Ken Il Guerriero-Il Film 40° Ann",
+    "raw_year": null,
+    "cinema_id": "ducale",
+    "occurrences": 3
+  },
+  {
     "raw_title": "Fast & Furious - 25° - Evento Speciale",
     "raw_year": null,
     "cinema_id": "ducale",
-    "occurrences": 5
+    "occurrences": 4
   },
   {
     "raw_title": "Ozzy & Black Sabbath: Back To The Begin.",
@@ -207,7 +273,7 @@
     "raw_title": "Fast & Furious - 25° Anniversario",
     "raw_year": null,
     "cinema_id": "plinius",
-    "occurrences": 6
+    "occurrences": 5
   },
   {
     "raw_title": "Avengers: Doomsday Infinity Vision",
@@ -279,7 +345,7 @@
     "raw_title": "(Kor - 3d) Hybe Cheering Party",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "raw_title": "(Kor) Bts W.T. 'Arirang' In Sao P. Live",
@@ -321,7 +387,7 @@
     "raw_title": "(XL) Fast & Furious - 25 Anniversary",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 13
+    "occurrences": 11
   },
   {
     "raw_title": "(Xl-Kor) Stray Kids Wt <run it=\"\">Live View</run>",
@@ -333,7 +399,7 @@
     "raw_title": "Fast & Furious - 25 Anniversary",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 16
+    "occurrences": 13
   },
   {
     "raw_title": "Ken Il Guerriero - Il Film (40° Ann)",
@@ -351,7 +417,7 @@
     "raw_title": "Shaun Vita Da Pecora - Op. Z.U.C.C.A.",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 24
+    "occurrences": 20
   },
   {
     "raw_title": "Your Name. 4k 10° Anniversario",
@@ -381,7 +447,7 @@
     "raw_title": "Fast & Furious - 25 Anniversary",
     "raw_year": null,
     "cinema_id": "cinelandia-certosa",
-    "occurrences": 17
+    "occurrences": 15
   },
   {
     "raw_title": "Lorenzo - L'Incredibile Avventura",
