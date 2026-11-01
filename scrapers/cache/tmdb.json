@@ -6897,6 +6897,42 @@
         ]
       }
     },
+    "13310": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Tomas Alfredson"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Horror"
+        },
+        {
+          "name": "Dramma"
+        }
+      ],
+      "id": 13310,
+      "original_title": "Låt den rätte komma in",
+      "overview": "A Blackeberg, un piccolo centro della periferia di Stoccolma, Oskar sogna di vendicarsi del mobbing che subisce ogni giorno da tre compagni di classe. Armato di un coltello immagina di infilarlo nello stomaco di Connie, che dei tre è il più arrogante. Una notte la tranquillità del quartiere in cui vive viene interrotta dall'arrivo di un uomo e di una dodicenne pallida e ambigua che sembra non conoscere freddo e paura. Con l'arrivo dei nuovi inquilini dell'appartamento di fianco al suo, una serie di efferati omicidi iniziano a macchiare il paesaggio innevato e ben presto Oskar scopre che Eli, con la quale nel frattempo ha stretto una tenera amicizia, altri non è che un vampiro imprigionato in eterno in un corpo da bambina.",
+      "poster_path": "/wRXsnsHGDWemwg5NcqVv0JQyXZM.jpg",
+      "release_date": "2008-10-24",
+      "runtime": 115,
+      "title": "Lasciami entrare",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl.",
+              "title": "Let the Right One In"
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "1339713": {
       "credits": {
         "crew": [
@@ -18746,6 +18782,45 @@
         ]
       }
     },
+    "493922": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Ari Aster"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Horror"
+        },
+        {
+          "name": "Mistero"
+        },
+        {
+          "name": "Thriller"
+        }
+      ],
+      "id": 493922,
+      "original_title": "Hereditary",
+      "overview": "Quando l'anziana Ellen muore, i suoi familiari cominciano lentamente a scoprire una serie di segreti oscuri e terrificanti sulla loro famiglia che li obbligherà ad affrontare il tragico destino che sembrano aver ereditato.",
+      "poster_path": "/rNL0qZZCgeeYAPamh69r7BSYQnh.jpg",
+      "release_date": "2018-06-07",
+      "runtime": 126,
+      "title": "Hereditary - Le radici del male",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "When the matriarch of the Graham family passes away, her daughter begins to unravel cryptic and increasingly terrifying secrets about her ancestry.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "49697": {
       "credits": {
         "crew": [
@@ -24511,6 +24586,7 @@
         "title": "Angeli perduti"
       }
     ],
+    "animazione in corto iv ed|": [],
     "antartica quasi una fiaba|": [
       {
         "id": 1438958,
@@ -26373,6 +26449,7 @@
         "title": "Carry On Jatta 4"
       }
     ],
+    "casa dolce casa corto campus estivo|": [],
     "casablanca|": [
       {
         "id": 289,
@@ -26534,6 +26611,7 @@
         "title": "Cena di classe"
       }
     ],
+    "cerimonia di premiazione piccolo grande cinema|": [],
     "chao evento|": [],
     "chao|": [
       {
@@ -31330,6 +31408,64 @@
         "title": "Pagine proibite dalla vita di una fotomodella"
       }
     ],
+    "hereditary|": [
+      {
+        "id": 493922,
+        "original_title": "Hereditary",
+        "popularity": 22.2243,
+        "release_date": "2018-07-25",
+        "title": "Hereditary - Le radici del male"
+      },
+      {
+        "id": 1449641,
+        "original_title": "The Hereditary",
+        "popularity": 0.5158,
+        "release_date": "2024-01-08",
+        "title": "The Hereditary"
+      },
+      {
+        "id": 1793095,
+        "original_title": "Hereditary",
+        "popularity": 0.8175,
+        "release_date": "2023-07-24",
+        "title": "Hereditary"
+      },
+      {
+        "id": 1284938,
+        "original_title": "Cursed: The True Nature of Hereditary",
+        "popularity": 1.4592,
+        "release_date": "2018-10-08",
+        "title": "Cursed: The True Nature of Hereditary"
+      },
+      {
+        "id": 1421084,
+        "original_title": "Jerat Leluri",
+        "popularity": 0.9049,
+        "release_date": "2024-11-09",
+        "title": "Jerat Leluri"
+      },
+      {
+        "id": 251809,
+        "original_title": "Erbkrank",
+        "popularity": 0.577,
+        "release_date": "1936-02-20",
+        "title": "Erbkrank"
+      },
+      {
+        "id": 364966,
+        "original_title": "Pink & Blue",
+        "popularity": 0.5686,
+        "release_date": "2015-10-23",
+        "title": "Pink & Blue"
+      },
+      {
+        "id": 947389,
+        "original_title": "闇金の帝王 銀と金5 相続殺人",
+        "popularity": 0.8687,
+        "release_date": "1996-04-05",
+        "title": "闇金の帝王 銀と金5 相続殺人"
+      }
+    ],
     "hokum|": [
       {
         "id": 1430077,
@@ -32564,6 +32700,7 @@
         "title": "Il gabinetto del Dr. Caligari"
       }
     ],
+    "il gatto col cappello evento|": [],
     "il gatto col cappello the cat in the hat|": [
       {
         "id": 1117898,
@@ -36187,6 +36324,15 @@
         "popularity": 0.2535,
         "release_date": "1965-12-16",
         "title": "La vendetta di Lady Morgan"
+      }
+    ],
+    "lasciami entrare|": [
+      {
+        "id": 13310,
+        "original_title": "Låt den rätte komma in",
+        "popularity": 6.0886,
+        "release_date": "2009-01-09",
+        "title": "Lasciami entrare"
       }
     ],
     "laurence anyways|": [
@@ -49157,6 +49303,7 @@
         "title": "The Fall of Sir Douglas Weatherford"
       }
     ],
+    "the film corner magazine|": [],
     "the fog|": [
       {
         "id": 791,
