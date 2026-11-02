@@ -1,5 +1,22 @@
 [
   {
+    "tmdb_id": 1437696,
+    "title": "Fatherland",
+    "original_title": "Ojczyzna",
+    "italian_title": "Fatherland",
+    "year": 2026,
+    "poster_path": "/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
+    "overview": "Il rapporto tra lo scrittore Thomas Mann (Hanns Zischler) e sua figlia Erika (Sandra Hüller), attrice, giornalista e pilota di rally. A bordo di una Buick nera intraprendono un viaggio attraverso una Germania in macerie: da Francoforte, sotto l'influenza statunitense, fino a Weimar, controllata dai sovietici. Per la prima volta dopo la guerra, Mann torna nella sua nativa Germania, dopo aver preso la difficile decisione di fuggire negli Stati Uniti per mettersi in salvo.",
+    "title_en": "Fatherland",
+    "overview_en": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
+    "runtime": 82,
+    "director": "Paweł Pawlikowski",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
     "tmdb_id": 1735959,
     "title": "Carla Lonzi - Dentro e fuori dal mondo",
     "original_title": "Carla Lonzi - Dentro e fuori dal mondo",
@@ -30,75 +47,6 @@
     "genres": [
       "Dramma",
       "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1651347,
-    "title": "Minotaur",
-    "original_title": "Minotaur",
-    "italian_title": "Minotaur",
-    "year": null,
-    "poster_path": "/zXGD5CwUFqRPZLD242Rvwzu25n.jpg",
-    "overview": "Quattro amici speleologi precipitano in un abisso inesplorato, scoprendo che la grotta è un labirinto senziente che muta forma alimentandosi dei loro traumi",
-    "title_en": "Minotaur",
-    "overview_en": null,
-    "runtime": 90,
-    "director": "Loris Curci",
-    "genres": [
-      "Fantasy",
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 1437696,
-    "title": "Fatherland",
-    "original_title": "Ojczyzna",
-    "italian_title": "Fatherland",
-    "year": 2026,
-    "poster_path": "/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
-    "overview": "Il rapporto tra lo scrittore Thomas Mann (Hanns Zischler) e sua figlia Erika (Sandra Hüller), attrice, giornalista e pilota di rally. A bordo di una Buick nera intraprendono un viaggio attraverso una Germania in macerie: da Francoforte, sotto l'influenza statunitense, fino a Weimar, controllata dai sovietici. Per la prima volta dopo la guerra, Mann torna nella sua nativa Germania, dopo aver preso la difficile decisione di fuggire negli Stati Uniti per mettersi in salvo.",
-    "title_en": "Fatherland",
-    "overview_en": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
-    "runtime": 82,
-    "director": "Paweł Pawlikowski",
-    "genres": [
-      "Dramma",
-      "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1248832,
-    "title": "Digger",
-    "original_title": "Digger",
-    "italian_title": "Digger",
-    "year": 2026,
-    "poster_path": "/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
-    "overview": "Su richiesta del presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
-    "title_en": "Digger",
-    "overview_en": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "runtime": 129,
-    "director": "Alejandro G. Iñárritu",
-    "genres": [
-      "Commedia",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1477104,
-    "title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
-    "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "italian_title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
-    "year": 2026,
-    "poster_path": "/hIgvOtvwbNCUclH0uBvg2qn6Ye.jpg",
-    "overview": "Halloween è alle porte. Shaun e tutti gli animali della fattoria si preparano per festeggiarlo al meglio coltivando un magnifico campo di zucche. Ma quando tutto sembrava ormai pronto, il contadino misteriosamente scompare e arriva dal bosco uno spaventoso mostro. Sarà compito di Shaun e i suoi amici salvare la fattoria dalla pelosa creatura e ritrovare l’amato contadino in tempo per la grande festa. Tra esperimenti impazziti e colpi di scena inaspettati, sarà un’avventura a tutta pecora per tutta la famiglia.",
-    "title_en": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "overview_en": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
-    "runtime": 88,
-    "director": "Steve Cox, Matthew Walker",
-    "genres": [
-      "Animazione",
-      "Fantascienza",
-      "Commedia"
     ]
   },
   {
@@ -133,6 +81,41 @@
     "genres": [
       "Dramma",
       "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1651347,
+    "title": "Minotaur",
+    "original_title": "Minotaur",
+    "italian_title": "Minotaur",
+    "year": null,
+    "poster_path": "/zXGD5CwUFqRPZLD242Rvwzu25n.jpg",
+    "overview": "Quattro amici speleologi precipitano in un abisso inesplorato, scoprendo che la grotta è un labirinto senziente che muta forma alimentandosi dei loro traumi",
+    "title_en": "Minotaur",
+    "overview_en": null,
+    "runtime": 90,
+    "director": "Loris Curci",
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 1477104,
+    "title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
+    "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "italian_title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
+    "year": 2026,
+    "poster_path": "/hIgvOtvwbNCUclH0uBvg2qn6Ye.jpg",
+    "overview": "Halloween è alle porte. Shaun e tutti gli animali della fattoria si preparano per festeggiarlo al meglio coltivando un magnifico campo di zucche. Ma quando tutto sembrava ormai pronto, il contadino misteriosamente scompare e arriva dal bosco uno spaventoso mostro. Sarà compito di Shaun e i suoi amici salvare la fattoria dalla pelosa creatura e ritrovare l’amato contadino in tempo per la grande festa. Tra esperimenti impazziti e colpi di scena inaspettati, sarà un’avventura a tutta pecora per tutta la famiglia.",
+    "title_en": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "overview_en": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
+    "runtime": 88,
+    "director": "Steve Cox, Matthew Walker",
+    "genres": [
+      "Animazione",
+      "Fantascienza",
+      "Commedia"
     ]
   },
   {
@@ -171,6 +154,23 @@
     ]
   },
   {
+    "tmdb_id": 1248832,
+    "title": "Digger",
+    "original_title": "Digger",
+    "italian_title": "Digger",
+    "year": 2026,
+    "poster_path": "/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
+    "overview": "Su richiesta del presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
+    "title_en": "Digger",
+    "overview_en": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "runtime": 129,
+    "director": "Alejandro G. Iñárritu",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 891621,
     "title": "Wild Horse Nine",
     "original_title": "Wild Horse Nine",
@@ -203,56 +203,53 @@
     "genres": []
   },
   {
-    "tmdb_id": 1438966,
-    "title": "Je so’ pazzo",
-    "original_title": "Je so’ pazzo",
-    "italian_title": "Je so’ pazzo",
-    "year": 2026,
-    "poster_path": "/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
-    "overview": "Je so’ pazzo è un ritratto intenso di Pino Daniele, un’anima ribelle nata nei vicoli di Napoli, che ha rivoluzionato la musica italiana fondendo blues, jazz e tradizione partenopea. Il film racconta la sua ascesa, dagli anni difficili dell’infanzia segnata dall’abbandono, fino al leggendario concerto del 1981 davanti a 200.000 persone. Tra conflitti familiari, fragilità personali e amori profondi, Pino trova nella musica un linguaggio per esprimere ciò che non riesce a dire. Ma il successo porta con sé nuove sfide: il rapporto irrisolto con il padre, il peso delle aspettative, e il rischio di ripetere gli stessi errori. Non è solo la storia di un musicista straordinario, ma quella di un uomo in lotta con se stesso, in cerca di riconciliazione con le sue radici e con l’amore di una città che non ha mai smesso di aspettarlo.",
-    "title_en": "Je so’ pazzo",
-    "overview_en": "Je so’ pazzo is an intense portrait of Pino Daniele—a rebellious soul born in the alleys of Naples who revolutionized Italian music by blending blues, jazz, and Neapolitan tradition. The film chronicles his rise, from a childhood marked by abandonment to his legendary 1981 concert before a crowd of 200,000. Amidst family conflicts, personal vulnerabilities, and deep loves, Pino finds a musical language to express what words cannot. Yet success brings new challenges: an unresolved relationship with his father, the burden of expectations, and the risk of repeating past mistakes. It is not merely the story of an extraordinary musician, but that of a man grappling with himself, seeking reconciliation with his roots and the love of a city that never stopped waiting for him.",
-    "runtime": 120,
-    "director": "Nicola Prosatore",
+    "tmdb_id": 4286,
+    "title": "L'innocente",
+    "original_title": "L'innocente",
+    "italian_title": "L'innocente",
+    "year": 1976,
+    "poster_path": "/1FJpP0DlksLwnnHa6yIz8ivnJSa.jpg",
+    "overview": "Tratto dall'omonimo romanzo scritto nel 1892 da Gabriele D'Annunzio, l'ultimo film di Luchino Visconti è un grande affresco della società decadente di fine '800 espressa nelle cose, nella magnifica ambientazione oltre che naturalmente nei personaggi.  Il dramma è focalizzato sulla deviazione della paternità non riconosciuta.  Pur essendo incompleto (o meglio: primo e non riveduto montaggio), causa morte improvvisa del grande Visconti, il film si presenta ottimamente risolto (con toni decadenti e tragici) sia sul versante visivo, sia su quello puramente letterario.",
+    "title_en": "The Innocent",
+    "overview_en": "Tullio Hermil is a chauvinist aristocrat who flaunts his mistress to his wife, but when he believes she has been unfaithful he becomes enamored of her again.",
+    "runtime": 125,
+    "director": "Luchino Visconti",
     "genres": [
       "Dramma",
-      "Musica"
+      "Romance"
     ]
   },
   {
-    "tmdb_id": 1645164,
-    "title": "Serpenti",
-    "original_title": "Serpenti",
-    "italian_title": "Serpenti",
+    "tmdb_id": 1318417,
+    "title": "La maison des femmes - La casa delle donne",
+    "original_title": "La Maison des Femmes",
+    "italian_title": "La maison des femmes - La casa delle donne",
     "year": 2026,
-    "poster_path": "/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
-    "overview": "Paolo Marra ha ucciso sua moglie, senza un perché. Divorato dal senso di colpa, decide di costituirsi: vuole pagare, scontare la pena, ridare dignità alla donna che ha ucciso e a sé stesso. Tra poliziotti distratti, avvocati zelanti, cartomanti e complicati cavilli burocratici, nessuno lo prende sul serio. L'uomo si scopre vittima di un paradosso kafkiano: per quanto lo desideri, non riesce a farsi arrestare. Il perfetto capro espiatorio di una società grottesca che ignora chi vuole redimersi.",
-    "title_en": "Snake",
-    "overview_en": "Paolo Marra killed his wife for no reason. Consumed by guilt, he decides to turn himself in: he wants to pay the price, serve his sentence, and restore dignity to the woman he killed—and to himself. Amid distracted police officers, zealous lawyers, fortune-tellers, and complicated bureaucratic red tape, no one takes him seriously. The man finds himself the victim of a Kafkaesque paradox: no matter how much he wants it, he cannot get himself arrested. He is the perfect scapegoat for a grotesque society that ignores those who seek redemption.",
-    "runtime": 93,
-    "director": "Roberto De Paolis",
+    "poster_path": "/deNnRUbRnImW2n5RQrQHWwH5ox6.jpg",
+    "overview": "Alla Maison des femmes vengono accudite, ascoltate e curate tutte quelle donne vittima di violenza che richiedono assistenza, fisica e psicologica. Altrove vengono minacciate, sminuite, violentate, mutilate e la loro sofferenza viene ignorata. Qui vengono credute e sostenute. Diane, Manon, Inès, Awa e le altre operatrici della Casa, sono disposte a dare tutto pur di aiutare le donne in difficoltà, anche se questo significa mettere a repentaglio il proprio equilibrio mentale ed emotivo.",
+    "title_en": "A Place for Her",
+    "overview_en": "At the Maison des Femmes, women victims of violence are cared for. Elsewhere, they are threatened, brutalized, raped, mutilated, their suffering ignored. Here, they are listened to, supported, helped and believed. Diane, Manon, Inès, Awa and the others will give them a helping hand until they can stand up again. As a team. Even if it means risking their own equilibrium.",
+    "runtime": 110,
+    "director": "Mélisa Godet",
     "genres": [
-      "Dramma",
-      "Commedia"
+      "Dramma"
     ]
   },
   {
-    "tmdb_id": 6978,
-    "title": "Grosso guaio a Chinatown",
-    "original_title": "Big Trouble in Little China",
-    "italian_title": "Grosso guaio a Chinatown",
-    "year": 1986,
-    "poster_path": "/vuubw3idZXgUJeXMWBDS8ZsGtEL.jpg",
-    "overview": "Jack Burton è un camionista che, in un normale giorno di lavoro, si recherà con l'amico Wang Chi a ricevere, presso l'aeroporto di San Francisco, la fidanzata del cinese, che sfortunatamente verrà rapita da una strana banda. Da qui una serie di avventure che porteranno i due amici in un mondo pieno di magie, al cospetto del malvagio Lo Pan.",
-    "title_en": "Big Trouble in Little China",
-    "overview_en": "Truck driver Jack Burton gets embroiled in a supernatural battle when his best friend Wang Chi's green-eyed fiancée is kidnapped by henchmen of the sorcerer Lo Pan, who must marry a girl with green eyes in order to return to the human realm.",
-    "runtime": 99,
+    "tmdb_id": 1410,
+    "title": "Dark Star",
+    "original_title": "Dark Star",
+    "italian_title": "Dark Star",
+    "year": 1974,
+    "poster_path": "/hLpGoOr1t1PgaoPfAiqHaTpmEjy.jpg",
+    "overview": "Nel XXII secolo l'equipaggio annoiato di un'astronave in missione intergalattica diventa preda di fobie claustrofobiche e di una mascotte aliena che stanno trasportando sul pianeta Terra. 1° film di Carpenter, girato con 60000 dollari ed effetti speciali poveri (curati dall'amico O'Bannon, qui anche interprete e cosceneggiatore), è una space-opera divertente e ingegnosa che esibisce già tutti gli attrezzi del regista.",
+    "title_en": "Dark Star",
+    "overview_en": "A group of scientists are sent on a mission to destroy unstable planets. Twenty years into their mission, they have to battle their alien mascot as well as a \"sensitive\" and intelligent bombing device that starts to question the meaning of its existence.",
+    "runtime": 82,
     "director": "John Carpenter",
     "genres": [
-      "Azione",
-      "Avventura",
       "Commedia",
-      "Fantasy"
+      "Fantascienza"
     ]
   },
   {
@@ -273,86 +270,20 @@
     ]
   },
   {
-    "tmdb_id": 16306,
-    "title": "Il pianeta selvaggio",
-    "original_title": "La Planète sauvage",
-    "italian_title": "Il pianeta selvaggio",
-    "year": 1973,
-    "poster_path": "/3oDwasWTM0wPzHLdObBx4frYf3d.jpg",
-    "overview": "Terr è un Om domestico, adottato da Tiwa, una Draag, dopo che dei piccoli Draag per giocare hanno ucciso sua madre. I Draag sono alieni dalla pelle blu e alti decine di metri che abitano un pianeta di nome Ygam che ha, come unico satellite quello che viene chiamato il pianeta selvaggio. I Draag trattano gli Oms come animali domestici e li donano ai loro bambini per giocarci. Ma Terr un giorno scopre di riuscire ad imparare attraverso il macchinario che fornisce una istruzione alla sua padrona. Decide quindi di scappare durante una sessione di meditazione (in cui le menti dei Draag si staccano dal loro corpo) e si unisce ad un gruppo di Oms selvatici. Odiato per la sua istruzione, presto le sue conoscenze si rivelano essenziali alla sopravvivenza della sua specie.",
-    "title_en": "Fantastic Planet",
-    "overview_en": "On the planet Ygam, the Draags, extremely technologically and spiritually advanced blue humanoids, consider the tiny Oms, human beings descendants of Terra's inhabitants, as ignorant animals. Those who live in slavery are treated as simple pets and used to entertain Draag children; those who live hidden in the hostile wilderness of the planet are periodically hunted and ruthlessly slaughtered as if they were vermin.",
-    "runtime": 72,
-    "director": "René Laloux",
-    "genres": [
-      "Animazione",
-      "Fantascienza"
-    ]
-  },
-  {
-    "tmdb_id": 1318417,
-    "title": "La maison des femmes - La casa delle donne",
-    "original_title": "La Maison des Femmes",
-    "italian_title": "La maison des femmes - La casa delle donne",
+    "tmdb_id": 1645164,
+    "title": "Serpenti",
+    "original_title": "Serpenti",
+    "italian_title": "Serpenti",
     "year": 2026,
-    "poster_path": "/deNnRUbRnImW2n5RQrQHWwH5ox6.jpg",
-    "overview": "Alla Maison des femmes vengono accudite, ascoltate e curate tutte quelle donne vittima di violenza che richiedono assistenza, fisica e psicologica. Altrove vengono minacciate, sminuite, violentate, mutilate e la loro sofferenza viene ignorata. Qui vengono credute e sostenute. Diane, Manon, Inès, Awa e le altre operatrici della Casa, sono disposte a dare tutto pur di aiutare le donne in difficoltà, anche se questo significa mettere a repentaglio il proprio equilibrio mentale ed emotivo.",
-    "title_en": "A Place for Her",
-    "overview_en": "At the Maison des Femmes, women victims of violence are cared for. Elsewhere, they are threatened, brutalized, raped, mutilated, their suffering ignored. Here, they are listened to, supported, helped and believed. Diane, Manon, Inès, Awa and the others will give them a helping hand until they can stand up again. As a team. Even if it means risking their own equilibrium.",
-    "runtime": 110,
-    "director": "Mélisa Godet",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1181125,
-    "title": "Un giorno senza donne",
-    "original_title": "The Day Iceland Stood Still",
-    "italian_title": "Un giorno senza donne",
-    "year": 2025,
-    "poster_path": "/rqqV4QZxYSuCY045OH8Ell8Ybez.jpg",
-    "overview": "Quando, in una mattina d'autunno del 1975, il 90% delle donne islandesi si assentò dal lavoro e dalle proprie case, rifiutandosi di lavorare, cucinare o prendersi cura dei figli, paralizzò il Paese e fece dell'Islanda il \"miglior posto al mondo per essere donna\".",
-    "title_en": "The Day Iceland Stood Still",
-    "overview_en": "When 90% of Iceland’s women walked off the job and out of their homes one morning in 1975, they brought their country to its knees and catapulted Iceland to the forefront of today's global fight for gender equality. Unexpectedly funny, laced with evocative animation and powerfully told by the women who lived it – this is the true story of 12 hours that launched a revolution.",
-    "runtime": 70,
-    "director": "Pamela Hogan",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 4286,
-    "title": "L'innocente",
-    "original_title": "L'innocente",
-    "italian_title": "L'innocente",
-    "year": 1976,
-    "poster_path": "/1FJpP0DlksLwnnHa6yIz8ivnJSa.jpg",
-    "overview": "Tratto dall'omonimo romanzo scritto nel 1892 da Gabriele D'Annunzio, l'ultimo film di Luchino Visconti è un grande affresco della società decadente di fine '800 espressa nelle cose, nella magnifica ambientazione oltre che naturalmente nei personaggi.  Il dramma è focalizzato sulla deviazione della paternità non riconosciuta.  Pur essendo incompleto (o meglio: primo e non riveduto montaggio), causa morte improvvisa del grande Visconti, il film si presenta ottimamente risolto (con toni decadenti e tragici) sia sul versante visivo, sia su quello puramente letterario.",
-    "title_en": "The Innocent",
-    "overview_en": "Tullio Hermil is a chauvinist aristocrat who flaunts his mistress to his wife, but when he believes she has been unfaithful he becomes enamored of her again.",
-    "runtime": 125,
-    "director": "Luchino Visconti",
+    "poster_path": "/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
+    "overview": "Paolo Marra ha ucciso sua moglie, senza un perché. Divorato dal senso di colpa, decide di costituirsi: vuole pagare, scontare la pena, ridare dignità alla donna che ha ucciso e a sé stesso. Tra poliziotti distratti, avvocati zelanti, cartomanti e complicati cavilli burocratici, nessuno lo prende sul serio. L'uomo si scopre vittima di un paradosso kafkiano: per quanto lo desideri, non riesce a farsi arrestare. Il perfetto capro espiatorio di una società grottesca che ignora chi vuole redimersi.",
+    "title_en": "Snake",
+    "overview_en": "Paolo Marra killed his wife for no reason. Consumed by guilt, he decides to turn himself in: he wants to pay the price, serve his sentence, and restore dignity to the woman he killed—and to himself. Amid distracted police officers, zealous lawyers, fortune-tellers, and complicated bureaucratic red tape, no one takes him seriously. The man finds himself the victim of a Kafkaesque paradox: no matter how much he wants it, he cannot get himself arrested. He is the perfect scapegoat for a grotesque society that ignores those who seek redemption.",
+    "runtime": 93,
+    "director": "Roberto De Paolis",
     "genres": [
       "Dramma",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 1410,
-    "title": "Dark Star",
-    "original_title": "Dark Star",
-    "italian_title": "Dark Star",
-    "year": 1974,
-    "poster_path": "/hLpGoOr1t1PgaoPfAiqHaTpmEjy.jpg",
-    "overview": "Nel XXII secolo l'equipaggio annoiato di un'astronave in missione intergalattica diventa preda di fobie claustrofobiche e di una mascotte aliena che stanno trasportando sul pianeta Terra. 1° film di Carpenter, girato con 60000 dollari ed effetti speciali poveri (curati dall'amico O'Bannon, qui anche interprete e cosceneggiatore), è una space-opera divertente e ingegnosa che esibisce già tutti gli attrezzi del regista.",
-    "title_en": "Dark Star",
-    "overview_en": "A group of scientists are sent on a mission to destroy unstable planets. Twenty years into their mission, they have to battle their alien mascot as well as a \"sensitive\" and intelligent bombing device that starts to question the meaning of its existence.",
-    "runtime": 82,
-    "director": "John Carpenter",
-    "genres": [
-      "Commedia",
-      "Fantascienza"
+      "Commedia"
     ]
   },
   {
@@ -458,6 +389,22 @@
     ]
   },
   {
+    "tmdb_id": 1181125,
+    "title": "Un giorno senza donne",
+    "original_title": "The Day Iceland Stood Still",
+    "italian_title": "Un giorno senza donne",
+    "year": 2025,
+    "poster_path": "/rqqV4QZxYSuCY045OH8Ell8Ybez.jpg",
+    "overview": "Quando, in una mattina d'autunno del 1975, il 90% delle donne islandesi si assentò dal lavoro e dalle proprie case, rifiutandosi di lavorare, cucinare o prendersi cura dei figli, paralizzò il Paese e fece dell'Islanda il \"miglior posto al mondo per essere donna\".",
+    "title_en": "The Day Iceland Stood Still",
+    "overview_en": "When 90% of Iceland’s women walked off the job and out of their homes one morning in 1975, they brought their country to its knees and catapulted Iceland to the forefront of today's global fight for gender equality. Unexpectedly funny, laced with evocative animation and powerfully told by the women who lived it – this is the true story of 12 hours that launched a revolution.",
+    "runtime": 70,
+    "director": "Pamela Hogan",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
     "tmdb_id": 56142,
     "title": "Gruppo di famiglia in un interno",
     "original_title": "Gruppo di Famiglia in un Interno",
@@ -493,23 +440,6 @@
     ]
   },
   {
-    "tmdb_id": 29161,
-    "title": "Phenomena",
-    "original_title": "Phenomena",
-    "italian_title": "Phenomena",
-    "year": 1985,
-    "poster_path": "/p46q5T4fhuBNPFQFAfwG2niEoW6.jpg",
-    "overview": "Una giovane turista (Fiore Argento) perde contatto con la comitiva di cui fa parte in una valle svizzera e viene trucidata. Jennifer (Jennifer Connelly), una ragazzina americana, arriva in un collegio svizzero per completare i suoi studi e apprende strane storie di ragazzine scomparse nei paraggi. Jennifer soffre di sonnambulismo (da cui per la verità credeva di essere guarita) e vagando di notte viene a contatto con l’assassino, anche se non lo vede. Trova rifugio presso un entomologo, il professor John McGregor (Donald Pleasence), che, paralitico, è assistito da una scimmietta. Jennifer ha una strano rapporto di attrazione con gli insetti ed è infatti una lucciola a guidarla la notte seguente, durante un’altra crisi di sonnambulismo, sino al cadavere della sua compagna di stanza Sophie (Federica Mastroianni).",
-    "title_en": "Phenomena",
-    "overview_en": "A young girl, with an amazing ability to communicate with insects, is transferred to an exclusive Swiss boarding school, where her unusual capability might help solve a string of murders.",
-    "runtime": 111,
-    "director": "Dario Argento",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ]
-  },
-  {
     "tmdb_id": 1339713,
     "title": "Obsession",
     "original_title": "Obsession",
@@ -521,6 +451,23 @@
     "overview_en": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "runtime": 108,
     "director": "Curry Barker",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 29161,
+    "title": "Phenomena",
+    "original_title": "Phenomena",
+    "italian_title": "Phenomena",
+    "year": 1985,
+    "poster_path": "/p46q5T4fhuBNPFQFAfwG2niEoW6.jpg",
+    "overview": "Una giovane turista (Fiore Argento) perde contatto con la comitiva di cui fa parte in una valle svizzera e viene trucidata. Jennifer (Jennifer Connelly), una ragazzina americana, arriva in un collegio svizzero per completare i suoi studi e apprende strane storie di ragazzine scomparse nei paraggi. Jennifer soffre di sonnambulismo (da cui per la verità credeva di essere guarita) e vagando di notte viene a contatto con l’assassino, anche se non lo vede. Trova rifugio presso un entomologo, il professor John McGregor (Donald Pleasence), che, paralitico, è assistito da una scimmietta. Jennifer ha una strano rapporto di attrazione con gli insetti ed è infatti una lucciola a guidarla la notte seguente, durante un’altra crisi di sonnambulismo, sino al cadavere della sua compagna di stanza Sophie (Federica Mastroianni).",
+    "title_en": "Phenomena",
+    "overview_en": "A young girl, with an amazing ability to communicate with insects, is transferred to an exclusive Swiss boarding school, where her unusual capability might help solve a string of murders.",
+    "runtime": 111,
+    "director": "Dario Argento",
     "genres": [
       "Horror",
       "Thriller"
@@ -1143,6 +1090,89 @@
     ]
   },
   {
+    "tmdb_id": 3478,
+    "title": "Ludwig",
+    "original_title": "Ludwig",
+    "italian_title": "Ludwig",
+    "year": 1973,
+    "poster_path": "/4bMcSlX6KGlpqCJWN0yrlqewFU7.jpg",
+    "overview": "Il giovane Ludwig, re di Baviera, ha un progetto ambizioso: essere, per i suoi sudditi, un monarca illuminato sul modello dei regnanti rinascimentali. Ospita Richard Wagner, fa costruire un teatro per rappresentare la sua musica, quel sogno di \"opera d'arte totale\" del musicista ormai privo di scrupoli. Ludwig, emarginato dal governo e disilluso dal tradimento di Wagner, inizia un'esistenza da esteta decadente, tossicodipendente innamorato del bello e amante dei suoi camerieri.",
+    "title_en": "Ludwig",
+    "overview_en": "Historical evocation of Ludwig, king of Bavaria, from his crowning in 1864 until his death in 1886, as a romantic hero. Fan of Richard Wagner, betrayed by him, in love with his cousin Elisabeth of Austria, abandoned by her, tormented by his homosexuality, he will little by little slip towards madness.",
+    "runtime": 238,
+    "director": "Luchino Visconti",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1534205,
+    "title": "Papaya",
+    "original_title": "Papaya",
+    "italian_title": "Papaya",
+    "year": 2026,
+    "poster_path": "/uQWkEjprUXFk4LeJFAVROPk45lH.jpg",
+    "overview": null,
+    "title_en": "Papaya",
+    "overview_en": "Passionate about flying, a tiny papaya seed in the Amazonian forest must keep moving to avoid rooting. Through perseverance, she discovers the power of her roots, triggering a revolution that transforms her world and fulfills her dreams in an unexpected way.",
+    "runtime": 75,
+    "director": "Priscilla Kellen",
+    "genres": [
+      "Animazione"
+    ]
+  },
+  {
+    "tmdb_id": 228498,
+    "title": "Messalina",
+    "original_title": "Messalina",
+    "italian_title": "Messalina",
+    "year": 1924,
+    "poster_path": "/o2ZsemxY8hS07UsSMGsGM1cgg93.jpg",
+    "overview": "Claudio diventa imperatore dopo l'uccisione di Caligola da parte dei pretoriani, il cui capo, Marco, è innamorato della di lui moglie, l'immorale Messalina. In una delle sue abituali avventure nelle zone malfamate, Messalina viene salvata durante una retata da Ennio, uno schiavo persiano, di cui si innamora. Diventa così rivale di Mirit, sacerdotessa di Iside, che ricatta lo schiavo per avere i suoi favori. L'imperatore Claudio, intanto sventa un complotto per rovesciarlo ordito da Marco, e lo fa uccidere. Per ottenere la libertà, Ennio partecipa ad una corsa di quadrighe, ma Mirit, indispettita dai suoi rifiuti, gli fa uccidere i preziosi cavalli su cui egli contava per la vittoria. Senza questi, Ennio si rovescia durante la gara e rischia di essere ucciso dai gladiatori, e sarà Messalina ad intervenire ed a portarlo in salvo. Ma poi l'imperatrice ordisce un complotto contro il marito e quando è scoperta, preferisce uccidersi prima di essere ridotta in catene dai pretoriani.",
+    "title_en": "Messalina",
+    "overview_en": "In ancient Rome, tyrannical Emperor Caligula is assassinated through the machinations of Messalina. She then makes a conquest of Marcus, who forces the Senate to name her husband, Claudius, as emperor. Messalina's wicked ways continue when she falls in love with Ennio, a slave. Ennio is also loved by Egyptian princess Mirit, but he loves neither of them, preferring the company of Ela, a Greek slave.",
+    "runtime": 125,
+    "director": "Enrico Guazzoni",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1390168,
+    "title": "Red Rocks",
+    "original_title": "Red Rocks",
+    "italian_title": "Red Rocks",
+    "year": 2024,
+    "poster_path": "/tlCHOEU6VFVqDMGTpQCPAIO7uVE.jpg",
+    "overview": null,
+    "title_en": "Red Rocks",
+    "overview_en": "A small collection of red rocks from the beach cycle through the primary colours before ultimately losing both their colour and form, abstracted through digital degradation. An experimental short film exploring newfound issues in preservation in the digital age and how this ties to our own memory, fading as the years go by.",
+    "runtime": 5,
+    "director": "Wilfrid George Kirby Clarke",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 1438966,
+    "title": "Je so’ pazzo",
+    "original_title": "Je so’ pazzo",
+    "italian_title": "Je so’ pazzo",
+    "year": 2026,
+    "poster_path": "/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
+    "overview": "Je so’ pazzo è un ritratto intenso di Pino Daniele, un’anima ribelle nata nei vicoli di Napoli, che ha rivoluzionato la musica italiana fondendo blues, jazz e tradizione partenopea. Il film racconta la sua ascesa, dagli anni difficili dell’infanzia segnata dall’abbandono, fino al leggendario concerto del 1981 davanti a 200.000 persone. Tra conflitti familiari, fragilità personali e amori profondi, Pino trova nella musica un linguaggio per esprimere ciò che non riesce a dire. Ma il successo porta con sé nuove sfide: il rapporto irrisolto con il padre, il peso delle aspettative, e il rischio di ripetere gli stessi errori. Non è solo la storia di un musicista straordinario, ma quella di un uomo in lotta con se stesso, in cerca di riconciliazione con le sue radici e con l’amore di una città che non ha mai smesso di aspettarlo.",
+    "title_en": "Je so’ pazzo",
+    "overview_en": "Je so’ pazzo is an intense portrait of Pino Daniele—a rebellious soul born in the alleys of Naples who revolutionized Italian music by blending blues, jazz, and Neapolitan tradition. The film chronicles his rise, from a childhood marked by abandonment to his legendary 1981 concert before a crowd of 200,000. Amidst family conflicts, personal vulnerabilities, and deep loves, Pino finds a musical language to express what words cannot. Yet success brings new challenges: an unresolved relationship with his father, the burden of expectations, and the risk of repeating past mistakes. It is not merely the story of an extraordinary musician, but that of a man grappling with himself, seeking reconciliation with his roots and the love of a city that never stopped waiting for him.",
+    "runtime": 120,
+    "director": "Nicola Prosatore",
+    "genres": [
+      "Dramma",
+      "Musica"
+    ]
+  },
+  {
     "tmdb_id": 1606533,
     "title": "Giulio Regeni: Tutto Il Male Del Mondo",
     "original_title": "Giulio Regeni: Tutto Il Male Del Mondo",
@@ -1249,6 +1279,22 @@
     "overview_en": "At the age of twenty, Sophie Taricone sets out to tell a story that began before she was born. Through archival footage shot by her parents, Kasia Smutniak and Pietro Taricone, she retraces their 2003 journey to Mustang—a remote Himalayan kingdom known as \"the last Tibet\"—and she follows Kasia’s return there after Pietro’s death. Spanning more than two decades, the film weaves together past and present as Kasia forges a lasting bond with a local community in Mustang and helps to establish a school dedicated to preserving its culture. Through Sophie’s journey, the film explores memory, identity, and the fragile balance between Western progress and an ancient, spiritual way of life.",
     "runtime": 105,
     "director": "Kasia Smutniak",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1567688,
+    "title": "Elon Musk Unveiled. The Tesla Experiment",
+    "original_title": "Elon Musk Uncovered: Das Tesla-Experiment",
+    "italian_title": "Elon Musk Unveiled. The Tesla Experiment",
+    "year": 2026,
+    "poster_path": "/3zQwMGwaqJnYefiMUvTd4bDeokX.jpg",
+    "overview": null,
+    "title_en": "Elon Musk Unveiled: The Tesla Experiment",
+    "overview_en": "It's 2014 and tech billionaire Elon Musk unveils his plans for a self-driving car in front of an enthusiastic audience. What consumers don't know is that Tesla's \"autopilot\" function is far from road-ready, and new owners are being used to improve the software by providing their data. A fatal accident in Florida triggers a protracted lawsuit to hold Tesla accountable. And it's not the only incident. Shocking footage from dashcams and security cameras shows the ruthlessness of Tesla cars suddenly braking or accelerating—and the crashes that follow. Then, an employee leaks thousands of documents containing complaints from users.",
+    "runtime": 90,
+    "director": "Andreas Pichler",
     "genres": [
       "Documentario"
     ]
@@ -1492,41 +1538,6 @@
     ]
   },
   {
-    "tmdb_id": 1368337,
-    "title": "Odissea",
-    "original_title": "The Odyssey",
-    "italian_title": "Odissea",
-    "year": 2026,
-    "poster_path": "/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
-    "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
-    "title_en": "The Odyssey",
-    "overview_en": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "runtime": 173,
-    "director": "Christopher Nolan",
-    "genres": [
-      "Avventura",
-      "Azione",
-      "Fantasy"
-    ]
-  },
-  {
-    "tmdb_id": 6114,
-    "title": "Dracula di Bram Stoker",
-    "original_title": "Bram Stoker's Dracula",
-    "italian_title": "Dracula di Bram Stoker",
-    "year": 1992,
-    "poster_path": "/4F3t9sAdpmJ8adyForeCcj5G8pX.jpg",
-    "overview": "Anno 1462, Costantinopoli era caduta. I musulmani turchi dilagavano in Europa, minacciando tutto il mondo cristiano. Dalla Transilvania si levò a difesa della chiesa un cavaliere rumeno del sacro ordine del Dragone, conosciuto come Draculia. Quando ritornò a casa, scoprì che Elisabeta, principessa romena nonché sua moglie, era morta suicida quando ricevette, dai turchi sconfitti, la falsa notizia della morte dell'amato marito. Alle parole del prete, che sentenziò la dannazione di Elisabeta in quanto suicida, rinnegò Dio e la chiesa, che aveva difeso, e diventò un vampiro.",
-    "title_en": "Bram Stoker's Dracula",
-    "overview_en": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down.",
-    "runtime": 128,
-    "director": "Francis Ford Coppola",
-    "genres": [
-      "Romance",
-      "Horror"
-    ]
-  },
-  {
     "tmdb_id": 1713935,
     "title": "Se ami qualcuno dillo",
     "original_title": "Se ami qualcuno dillo",
@@ -1607,40 +1618,6 @@
       "Dramma",
       "Crime",
       "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1154730,
-    "title": "La Gradiva",
-    "original_title": "La Gradiva",
-    "italian_title": "La Gradiva",
-    "year": 2026,
-    "poster_path": "/aFrhFiIhdf2klvXq8VFcB06b5pS.jpg",
-    "overview": null,
-    "title_en": "La Gradiva",
-    "overview_en": "Amid the ancient ruins of Pompeii, a group of French teenagers on a class trip to Naples grapple with anxiety and exhilaration ahead of their high school graduation.",
-    "runtime": 145,
-    "director": "Marine Atlan",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 31767,
-    "title": "I diavoli",
-    "original_title": "The Devils",
-    "italian_title": "I diavoli",
-    "year": 1971,
-    "poster_path": "/eOWv0agpyVXeDsTOjoSl1PSKHQz.jpg",
-    "overview": "La vicenda è ambientata in Francia agli inizi del XVII secolo: ristabilita la pace dopo le guerre di religione, il cardinale Richelieu, per consolidare il potere regio, invia il barone di Laubardemont a Loudun, nel Poitou, con l'incarico di abbatterne le fortificazioni.\r Il prete Urbano Grandier, a cui l'appena deceduto governatore Sainte-Marthe ha concesso i pieni poteri fino all'elezione del suo successore, si oppone all'abbattimento delle mura cosciente che questo sarebbe stato il primo passo per la totale revoca delle libertà e dell'autonomia cittadina.",
-    "title_en": "The Devils",
-    "overview_en": "In 1634 France, charismatic Father Urbain Grandier becomes the target of sexually depraved Sister Jeanne's accusations of witchcraft, which corrupt officials of church and state are all too happy to exploit.​​​​​​​​​​​​​​​​",
-    "runtime": 111,
-    "director": "Ken Russell",
-    "genres": [
-      "Dramma",
-      "Storia",
-      "Horror"
     ]
   },
   {
@@ -1978,25 +1955,6 @@
     ]
   },
   {
-    "tmdb_id": 1214130,
-    "title": "Frankie e le creature dimenticate",
-    "original_title": "Stitch Head",
-    "italian_title": "Frankie e le creature dimenticate",
-    "year": 2025,
-    "poster_path": "/AaDoLXs4D22i65OLw7HxMkj5sKN.jpg",
-    "overview": "Stitch Head è stata la prima creatura riportata a una “quasi vita” dal folle professor Erasmus. Negli anni successivi è diventato il custode della sempre più ampia collezione di creature trascurate del suo padrone, con il compito di insegnare loro a reprimere il proprio “mostro interiore” e a nascondersi nel castello — lontano dagli sguardi indiscreti e dalle mani impazienti della folla del villaggio nella valle sottostante. Ma quando il sudicio impresario di circo Fulbert Freakfinder arriva offrendogli un ruolo da protagonista nel suo spettacolo di mostri, Stitch Head viene tentato dalla promessa di amore e accettazione.",
-    "title_en": "Stitch Head",
-    "overview_en": "A mad scientist ignores each of his creations when he shifts his attention to the next monster. His first creation, Stitch Head, searching for purpose, takes it upon himself to look after all the other monsters.",
-    "runtime": 91,
-    "director": "Steve Hudson",
-    "genres": [
-      "Animazione",
-      "Avventura",
-      "Famiglia",
-      "Commedia"
-    ]
-  },
-  {
     "tmdb_id": 1400940,
     "title": "Clayface",
     "original_title": "Clayface",
@@ -2064,6 +2022,24 @@
       "Dramma",
       "Storia",
       "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1368337,
+    "title": "Odissea",
+    "original_title": "The Odyssey",
+    "italian_title": "Odissea",
+    "year": 2026,
+    "poster_path": "/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+    "overview": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
+    "title_en": "The Odyssey",
+    "overview_en": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "runtime": 173,
+    "director": "Christopher Nolan",
+    "genres": [
+      "Avventura",
+      "Azione",
+      "Fantasy"
     ]
   },
   {
@@ -2213,24 +2189,6 @@
     ]
   },
   {
-    "tmdb_id": 1477712,
-    "title": "Ice Cream Man",
-    "original_title": "Ice Cream Man",
-    "italian_title": "Ice Cream Man",
-    "year": 2026,
-    "poster_path": "/bnZUCOLv2Br3VOxnDMo5qPOncJF.jpg",
-    "overview": "Un'idilliaca cittadina di villeggiatura estiva precipita nell’orrore, quando un gelataio offre ai bambini dolci prelibatezze dalle conseguenze terrificanti.",
-    "title_en": "Ice Cream Man",
-    "overview_en": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
-    "runtime": 86,
-    "director": "Eli Roth",
-    "genres": [
-      "Horror",
-      "Commedia",
-      "Thriller"
-    ]
-  },
-  {
     "tmdb_id": 1753205,
     "title": "Rammstein – Live in Mexico City",
     "original_title": "Rammstein – Live in Mexico City",
@@ -2262,6 +2220,25 @@
     "genres": [
       "Commedia",
       "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 1214130,
+    "title": "Frankie e le creature dimenticate",
+    "original_title": "Stitch Head",
+    "italian_title": "Frankie e le creature dimenticate",
+    "year": 2025,
+    "poster_path": "/AaDoLXs4D22i65OLw7HxMkj5sKN.jpg",
+    "overview": "Stitch Head è stata la prima creatura riportata a una “quasi vita” dal folle professor Erasmus. Negli anni successivi è diventato il custode della sempre più ampia collezione di creature trascurate del suo padrone, con il compito di insegnare loro a reprimere il proprio “mostro interiore” e a nascondersi nel castello — lontano dagli sguardi indiscreti e dalle mani impazienti della folla del villaggio nella valle sottostante. Ma quando il sudicio impresario di circo Fulbert Freakfinder arriva offrendogli un ruolo da protagonista nel suo spettacolo di mostri, Stitch Head viene tentato dalla promessa di amore e accettazione.",
+    "title_en": "Stitch Head",
+    "overview_en": "A mad scientist ignores each of his creations when he shifts his attention to the next monster. His first creation, Stitch Head, searching for purpose, takes it upon himself to look after all the other monsters.",
+    "runtime": 91,
+    "director": "Steve Hudson",
+    "genres": [
+      "Animazione",
+      "Avventura",
+      "Famiglia",
+      "Commedia"
     ]
   },
   {
@@ -2318,6 +2295,24 @@
     ]
   },
   {
+    "tmdb_id": 1477712,
+    "title": "Ice Cream Man",
+    "original_title": "Ice Cream Man",
+    "italian_title": "Ice Cream Man",
+    "year": 2026,
+    "poster_path": "/bnZUCOLv2Br3VOxnDMo5qPOncJF.jpg",
+    "overview": "Un'idilliaca cittadina di villeggiatura estiva precipita nell’orrore, quando un gelataio offre ai bambini dolci prelibatezze dalle conseguenze terrificanti.",
+    "title_en": "Ice Cream Man",
+    "overview_en": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+    "runtime": 86,
+    "director": "Eli Roth",
+    "genres": [
+      "Horror",
+      "Commedia",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 1117898,
     "title": "Il gatto col cappello",
     "original_title": "The Cat in the Hat",
@@ -2335,23 +2330,6 @@
       "Avventura",
       "Fantasy",
       "Famiglia"
-    ]
-  },
-  {
-    "tmdb_id": 858035,
-    "title": "Klara e il sole",
-    "original_title": "Klara and the Sun",
-    "italian_title": "Klara e il sole",
-    "year": 2026,
-    "poster_path": "/9pbXmKk4EgTkQKBdiCgiEdhI6eG.jpg",
-    "overview": "La storia di Klara, un'Amica Artificiale il cui unico desiderio è trovare la casa perfetta. Quando Klara incontra Josie, le due scoprono fin da subito una forte affinità e, sebbene la ragazza viva un rapporto conflittuale con la madre segnato da un grave lutto, lo stupore innocente e l'incrollabile lealtà di Klara inizieranno a sanare le ferite della famiglia, riportando la luce nel complicato mondo di Josie.",
-    "title_en": "Klara and the Sun",
-    "overview_en": "When Klara, an Artificial Friend who wants nothing more than to find the perfect home, meets Josie, each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother and they've suffered great loss, but Klara's innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie's complicated world.",
-    "runtime": 116,
-    "director": "Taika Waititi",
-    "genres": [
-      "Fantascienza",
-      "Dramma"
     ]
   },
   {
@@ -2478,39 +2456,19 @@
     ]
   },
   {
-    "tmdb_id": 1639616,
-    "title": "Zustìssia",
-    "original_title": "Zustìssia",
-    "italian_title": "Zustìssia",
+    "tmdb_id": 1315657,
+    "title": "Yellow Letters",
+    "original_title": "Gelbe Briefe",
+    "italian_title": "Yellow Letters",
     "year": 2026,
-    "poster_path": "/15IfVZjAiwUkTx7Bib58wJTjOSi.jpg",
-    "overview": "Nel 1991, un triplice omicidio commesso sui monti del Sud Sardegna porta alla rapida condanna di un uomo innocente: Beniamino Zuncheddu. Tre gradi di giudizio in un anno per dare un ergastolo. Venticinque anni dopo, un giovane avvocato decide di lottare - pro bono - per restituirgli la libertà. La storia di una vita rubata dal più lungo errore giudiziario della storia italiana: 33 anni di ingiusta detenzione. Ed è anche la storia dell’emozionante battaglia che l’avvocato Mauro Trogu e altri alleati hanno ingaggiato per arrivare alla revisione del processo e all’assoluzione, giunta il 26 gennaio 2024.",
-    "title_en": "Zustìssia",
-    "overview_en": "Set among the mountains of southern Sardinia, Zustissia reconstructs the 1991 triple homicide that led to Zuncheddu being sentenced to life imprisonment. He spent 33 years in prison before being definitively acquitted on 26 January 2024, following a retrial initiated by lawyer Mauro Trogu.",
-    "runtime": 111,
-    "director": "Francesco Piras",
+    "poster_path": "/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
+    "overview": "La vita di Derya e Aziz, una celebre coppia di artisti turchi, viene sconvolta all'indomani della prima del loro nuovo spettacolo. Improvvisamente finiti nel mirino dello Stato, Aziz, che è anche professore all’Università di Ankara, riceve una “lettera gialla” che lo informa del suo licenziamento. Costretti a trasferirsi a Istanbul, senza lavoro, i  due devono ridefinire il loro stile di vita e confrontarsi con un doloroso compromesso tra impegno politico e necessità di sopravvivenza.",
+    "title_en": "Yellow Letters",
+    "overview_en": "The marriage of Derya and Aziz is under pressure after losing their jobs because of state arbitrariness and moving to Istanbul to live with Aziz's parents. They and their 13-year-old daughter Ezgi have to redefine their way of life.",
+    "runtime": 128,
+    "director": "İlker Çatak",
     "genres": [
       "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1241982,
-    "title": "Oceania 2",
-    "original_title": "Moana 2",
-    "italian_title": "Oceania 2",
-    "year": 2024,
-    "poster_path": "/qdNQzzq4QnQDji90plwntjbuEGW.jpg",
-    "overview": "A tre anni dal suo primo viaggio, Vaiana è impegnata in un lungo viaggio alla ricerca di persone oltre le coste di Motunui. Assieme a Maui e a un nuovissimo equipaggio di improbabili marittimi, Vaiana si imbarca alla volta dei lontani mari dell'Oceania in acque pericolose per un'avventura diversa da qualsiasi cosa abbia mai affrontato.",
-    "title_en": "Moana 2",
-    "overview_en": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
-    "runtime": 100,
-    "director": "David G. Derrick Jr., Jason Hand, Dana Ledoux Miller",
-    "genres": [
-      "Avventura",
-      "Animazione",
-      "Commedia",
-      "Famiglia",
-      "Fantasy"
     ]
   },
   {
