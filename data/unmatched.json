@@ -12,16 +12,16 @@
     "occurrences": 1
   },
   {
-    "raw_title": "KEEP CALM",
-    "raw_year": null,
-    "cinema_id": "beltrade",
-    "occurrences": 6
-  },
-  {
     "raw_title": "TWIN PEAKS – STAG. 03 EP 11 e 12",
     "raw_year": null,
     "cinema_id": "beltrade",
     "occurrences": 1
+  },
+  {
+    "raw_title": "KEEP CALM",
+    "raw_year": null,
+    "cinema_id": "beltrade",
+    "occurrences": 8
   },
   {
     "raw_title": "LA CITTÀ DEI BAMBINI",
@@ -39,6 +39,24 @@
     "raw_title": "ANIMAZIONE IN CORTO - IV ed.",
     "raw_year": null,
     "cinema_id": "beltrade",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "MASTERCLASS CON WANG BING",
+    "raw_year": null,
+    "cinema_id": "cineteca-arlecchino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "YOUTH (HOMECOMING)",
+    "raw_year": null,
+    "cinema_id": "cineteca-arlecchino",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "LA BEAUTÉ DE L'ÂNE",
+    "raw_year": null,
+    "cinema_id": "cineteca-metropolis",
     "occurrences": 1
   },
   {
@@ -114,24 +132,6 @@
     "occurrences": 3
   },
   {
-    "raw_title": "MASTERCLASS CON WANG BING",
-    "raw_year": null,
-    "cinema_id": "cineteca-arlecchino",
-    "occurrences": 1
-  },
-  {
-    "raw_title": "YOUTH (HOMECOMING)",
-    "raw_year": null,
-    "cinema_id": "cineteca-arlecchino",
-    "occurrences": 1
-  },
-  {
-    "raw_title": "LA BEAUTÉ DE L'ÂNE",
-    "raw_year": null,
-    "cinema_id": "cineteca-metropolis",
-    "occurrences": 1
-  },
-  {
     "raw_title": "THE FILM CORNER MAGAZINE + CASA DOLCE (?) CASA - CONCORSO CORTI",
     "raw_year": null,
     "cinema_id": "cineteca-arlecchino",
@@ -156,6 +156,12 @@
     "occurrences": 1
   },
   {
+    "raw_title": "V.O.SOTT.ITA - L'IMPERO DEI SENSI (AI NO KORIDA)",
+    "raw_year": null,
+    "cinema_id": "anteo",
+    "occurrences": 1
+  },
+  {
     "raw_title": "8 E MEZZO",
     "raw_year": null,
     "cinema_id": "anteo",
@@ -168,10 +174,22 @@
     "occurrences": 1
   },
   {
+    "raw_title": "MAKE AMERICA XXX AGAIN",
+    "raw_year": null,
+    "cinema_id": "anteo",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "UN PO' DI LUCE (KAMI NOUR)",
+    "raw_year": null,
+    "cinema_id": "ariosto",
+    "occurrences": 1
+  },
+  {
     "raw_title": "RAGIONE E SENTIMENTO (SENSE AND SENSIBILITY)",
     "raw_year": null,
     "cinema_id": "citylife-anteo",
-    "occurrences": 9
+    "occurrences": 20
   },
   {
     "raw_title": "CALLE MALAGA (CALLE MÁLAGA)",
@@ -186,10 +204,10 @@
     "occurrences": 1
   },
   {
-    "raw_title": "THE SOCIAL -IL PREZZO DELLA VERITA' (THE SOCIAL RECKONING) - V. O.",
+    "raw_title": "IL GATTO COL CAPPELLO (THE CAT IN THE HAT)",
     "raw_year": null,
-    "cinema_id": "cinemino",
-    "occurrences": 1
+    "cinema_id": "citylife-anteo",
+    "occurrences": 15
   },
   {
     "raw_title": "Tre Corti - Tre Donne",
@@ -240,6 +258,18 @@
     "occurrences": 1
   },
   {
+    "raw_title": "(Kor) Bts W.T. 'Arirang' In Jakarta:Live",
+    "raw_year": null,
+    "cinema_id": "arcobaleno",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "(Kor) Bts W.T. 'Arirang' In Kao: Live",
+    "raw_year": null,
+    "cinema_id": "arcobaleno",
+    "occurrences": 2
+  },
+  {
     "raw_title": "(Kor) Stray Kids Wt <run it=\"\"> Live View</run>",
     "raw_year": null,
     "cinema_id": "arcobaleno",
@@ -267,13 +297,13 @@
     "raw_title": "Fast & Furious - 25° - Evento Speciale",
     "raw_year": null,
     "cinema_id": "ducale",
-    "occurrences": 2
+    "occurrences": 1
   },
   {
     "raw_title": "Fast & Furious - 25° Anniversario",
     "raw_year": null,
     "cinema_id": "plinius",
-    "occurrences": 3
+    "occurrences": 2
   },
   {
     "raw_title": "Avengers: Doomsday Infinity Vision",
@@ -348,6 +378,18 @@
     "occurrences": 3
   },
   {
+    "raw_title": "(Kor) Bts W.T. 'Arirang' In Jakarta:Live",
+    "raw_year": null,
+    "cinema_id": "uci-bicocca",
+    "occurrences": 1
+  },
+  {
+    "raw_title": "(Kor) Bts W.T. 'Arirang' In Kao: Live",
+    "raw_year": null,
+    "cinema_id": "uci-bicocca",
+    "occurrences": 2
+  },
+  {
     "raw_title": "(O.V. - XL) Avengers:Doomsday Infinity",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
@@ -357,7 +399,7 @@
     "raw_title": "(O.V.) Fast & Furious - 25 Anniversary",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 3
+    "occurrences": 2
   },
   {
     "raw_title": "(O.V.) League Of Legends Worlds 26",
@@ -375,7 +417,7 @@
     "raw_title": "(XL) Fast & Furious - 25 Anniversary",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 6
+    "occurrences": 4
   },
   {
     "raw_title": "(Xl-Kor) Stray Kids Wt <run it=\"\">Live View</run>",
@@ -387,7 +429,13 @@
     "raw_title": "Fast & Furious - 25 Anniversary",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 6
+    "occurrences": 4
+  },
+  {
+    "raw_title": "Hunger Games (Re-Release)",
+    "raw_year": null,
+    "cinema_id": "uci-bicocca",
+    "occurrences": 3
   },
   {
     "raw_title": "Ken Il Guerriero - Il Film (40° Ann)",
@@ -405,19 +453,13 @@
     "raw_title": "Shaun Vita Da Pecora - Op. Z.U.C.C.A.",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
-    "occurrences": 11
+    "occurrences": 7
   },
   {
     "raw_title": "Your Name. 4k 10° Anniversario",
     "raw_year": null,
     "cinema_id": "uci-bicocca",
     "occurrences": 3
-  },
-  {
-    "raw_title": "(Lingua Originale) Ragione E Sentimento",
-    "raw_year": null,
-    "cinema_id": "cinelandia-certosa",
-    "occurrences": 1
   },
   {
     "raw_title": "4senses- Avengers: Doomsday Infinity V.",
@@ -435,7 +477,7 @@
     "raw_title": "Fast & Furious - 25 Anniversary",
     "raw_year": null,
     "cinema_id": "cinelandia-certosa",
-    "occurrences": 9
+    "occurrences": 6
   },
   {
     "raw_title": "Lorenzo - L'Incredibile Avventura",
