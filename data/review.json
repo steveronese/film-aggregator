@@ -1,17 +1,17 @@
 [
   {
-    "raw_title": "ELON MUSK UNCOVERED. THE TESLA EXPERIMENT",
-    "tmdb_id": 1567688,
-    "matched_title": "Elon Musk Unveiled. The Tesla Experiment",
-    "method": "fuzzy",
-    "confidence": 93.67088607594937
-  },
-  {
     "raw_title": "V. O. SOTT ITA MINNIE & MOSKOWITZ (RIED. 4K)",
     "tmdb_id": 24349,
     "matched_title": "Minnie e Moskowitz",
     "method": "fuzzy",
     "confidence": 94.11764705882352
+  },
+  {
+    "raw_title": "ELON MUSK UNCOVERED. THE TESLA EXPERIMENT",
+    "tmdb_id": 1567688,
+    "matched_title": "Elon Musk Unveiled. The Tesla Experiment",
+    "method": "fuzzy",
+    "confidence": 93.67088607594937
   },
   {
     "raw_title": "MINOTAUR NEL LABIRINTO DEL POTERE (MINOTAURE) - V. O.",
@@ -21,11 +21,11 @@
     "confidence": 86.8421052631579
   },
   {
-    "raw_title": "L’IMPERO DEI SENSI",
-    "tmdb_id": 5879,
-    "matched_title": "Ecco l'impero dei sensi",
+    "raw_title": "MINNIE & MOSKOWITZ (RIED. 4K)",
+    "tmdb_id": 24349,
+    "matched_title": "Minnie e Moskowitz",
     "method": "fuzzy",
-    "confidence": 87.8048780487805
+    "confidence": 94.11764705882352
   },
   {
     "raw_title": "L'Impero Dei Sensi (O.V.)",
@@ -33,6 +33,13 @@
     "matched_title": "Ecco l'impero dei sensi",
     "method": "fuzzy",
     "confidence": 87.8048780487805
+  },
+  {
+    "raw_title": "Il Gatto Con Il Cappello",
+    "tmdb_id": 1117898,
+    "matched_title": "Il gatto col cappello",
+    "method": "fuzzy",
+    "confidence": 88.88888888888889
   },
   {
     "raw_title": "Shaun, Vita Da Pecora - Operazione Z.U.C",
@@ -49,10 +56,31 @@
     "confidence": 85.29411764705883
   },
   {
+    "raw_title": "(XL) Wildwood - I Segreti Del Bosco P.",
+    "tmdb_id": 791523,
+    "matched_title": "Wildwood - I segreti del bosco proibito",
+    "method": "fuzzy",
+    "confidence": 89.55223880597015
+  },
+  {
     "raw_title": "Heart Of The Beast - Nel Profondo",
     "tmdb_id": 1263337,
     "matched_title": "Heart of the Beast - Nel profondo selvaggio",
     "method": "fuzzy",
     "confidence": 86.11111111111111
+  },
+  {
+    "raw_title": "Il Gruffalo' E La Sua Picc + Bastoncino",
+    "tmdb_id": 81684,
+    "matched_title": "Il Gruffalò e la sua piccolina",
+    "method": "fuzzy",
+    "confidence": 90.9090909090909
+  },
+  {
+    "raw_title": "Taddeo L'Esploratore E La Lampada M.",
+    "tmdb_id": 1187326,
+    "matched_title": "Taddeo l’esploratore e la lampada magica",
+    "method": "fuzzy",
+    "confidence": 93.33333333333333
   }
 ]
