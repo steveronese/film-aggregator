@@ -1,23 +1,5 @@
 [
   {
-    "tmdb_id": 1058424,
-    "title": "Hope",
-    "original_title": "호프",
-    "italian_title": "Hope",
-    "year": 2026,
-    "poster_path": "/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
-    "overview": "I rinforzi sono stati richiamati per fronteggiare i devastanti incendi boschivi e ogni comunicazione con l’esterno è stata interrotta. Nel piccolo posto di polizia di Hope, il comandante Bum-seok e l’agente Sung-ae lottano per proteggere un villaggio popolato quasi esclusivamente da anziani. Nel frattempo, tra le montagne, Sung-ki e gli abitanti del luogo partono sulle tracce della misteriosa creatura, ma la battuta di caccia si trasforma presto in un incubo e diventano loro stessi prede.",
-    "title_en": "Hope",
-    "overview_en": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "runtime": 157,
-    "director": "나홍진",
-    "genres": [
-      "Fantascienza",
-      "Mistero",
-      "Azione"
-    ]
-  },
-  {
     "tmdb_id": 1412795,
     "title": "L'estranea",
     "original_title": "L'estranea",
@@ -32,59 +14,6 @@
     "genres": [
       "Dramma",
       "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 891621,
-    "title": "Wild Horse Nine",
-    "original_title": "Wild Horse Nine",
-    "italian_title": "Wild Horse Nine",
-    "year": 2026,
-    "poster_path": "/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
-    "overview": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
-    "title_en": "Wild Horse Nine",
-    "overview_en": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
-    "runtime": 117,
-    "director": "Martin McDonagh",
-    "genres": [
-      "Commedia",
-      "Crime",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1651347,
-    "title": "Minotaur",
-    "original_title": "Minotaur",
-    "italian_title": "Minotaur",
-    "year": null,
-    "poster_path": "/zXGD5CwUFqRPZLD242Rvwzu25n.jpg",
-    "overview": "Quattro amici speleologi precipitano in un abisso inesplorato, scoprendo che la grotta è un labirinto senziente che muta forma alimentandosi dei loro traumi",
-    "title_en": "Minotaur",
-    "overview_en": null,
-    "runtime": 90,
-    "director": "Loris Curci",
-    "genres": [
-      "Fantasy",
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 1477104,
-    "title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
-    "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "italian_title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
-    "year": 2026,
-    "poster_path": "/hIgvOtvwbNCUclH0uBvg2qn6Ye.jpg",
-    "overview": "Halloween è alle porte. Shaun e tutti gli animali della fattoria si preparano per festeggiarlo al meglio coltivando un magnifico campo di zucche. Ma quando tutto sembrava ormai pronto, il contadino misteriosamente scompare e arriva dal bosco uno spaventoso mostro. Sarà compito di Shaun e i suoi amici salvare la fattoria dalla pelosa creatura e ritrovare l’amato contadino in tempo per la grande festa. Tra esperimenti impazziti e colpi di scena inaspettati, sarà un’avventura a tutta pecora per tutta la famiglia.",
-    "title_en": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "overview_en": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
-    "runtime": 88,
-    "director": "Steve Cox, Matthew Walker",
-    "genres": [
-      "Animazione",
-      "Fantascienza",
-      "Commedia"
     ]
   },
   {
@@ -121,6 +50,59 @@
     ]
   },
   {
+    "tmdb_id": 1651347,
+    "title": "Minotaur",
+    "original_title": "Minotaur",
+    "italian_title": "Minotaur",
+    "year": null,
+    "poster_path": "/zXGD5CwUFqRPZLD242Rvwzu25n.jpg",
+    "overview": "Quattro amici speleologi precipitano in un abisso inesplorato, scoprendo che la grotta è un labirinto senziente che muta forma alimentandosi dei loro traumi",
+    "title_en": "Minotaur",
+    "overview_en": null,
+    "runtime": 90,
+    "director": "Loris Curci",
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 891621,
+    "title": "Wild Horse Nine",
+    "original_title": "Wild Horse Nine",
+    "italian_title": "Wild Horse Nine",
+    "year": 2026,
+    "poster_path": "/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
+    "overview": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
+    "title_en": "Wild Horse Nine",
+    "overview_en": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+    "runtime": 117,
+    "director": "Martin McDonagh",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1058424,
+    "title": "Hope",
+    "original_title": "호프",
+    "italian_title": "Hope",
+    "year": 2026,
+    "poster_path": "/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
+    "overview": "I rinforzi sono stati richiamati per fronteggiare i devastanti incendi boschivi e ogni comunicazione con l’esterno è stata interrotta. Nel piccolo posto di polizia di Hope, il comandante Bum-seok e l’agente Sung-ae lottano per proteggere un villaggio popolato quasi esclusivamente da anziani. Nel frattempo, tra le montagne, Sung-ki e gli abitanti del luogo partono sulle tracce della misteriosa creatura, ma la battuta di caccia si trasforma presto in un incubo e diventano loro stessi prede.",
+    "title_en": "Hope",
+    "overview_en": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "runtime": 157,
+    "director": "나홍진",
+    "genres": [
+      "Fantascienza",
+      "Mistero",
+      "Azione"
+    ]
+  },
+  {
     "tmdb_id": 791523,
     "title": "Wildwood - I segreti del bosco proibito",
     "original_title": "Wildwood",
@@ -136,6 +118,24 @@
       "Animazione",
       "Avventura",
       "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 1477104,
+    "title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
+    "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "italian_title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
+    "year": 2026,
+    "poster_path": "/hIgvOtvwbNCUclH0uBvg2qn6Ye.jpg",
+    "overview": "Halloween è alle porte. Shaun e tutti gli animali della fattoria si preparano per festeggiarlo al meglio coltivando un magnifico campo di zucche. Ma quando tutto sembrava ormai pronto, il contadino misteriosamente scompare e arriva dal bosco uno spaventoso mostro. Sarà compito di Shaun e i suoi amici salvare la fattoria dalla pelosa creatura e ritrovare l’amato contadino in tempo per la grande festa. Tra esperimenti impazziti e colpi di scena inaspettati, sarà un’avventura a tutta pecora per tutta la famiglia.",
+    "title_en": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "overview_en": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
+    "runtime": 88,
+    "director": "Steve Cox, Matthew Walker",
+    "genres": [
+      "Animazione",
+      "Fantascienza",
+      "Commedia"
     ]
   },
   {
@@ -266,90 +266,6 @@
     "director": "Paola Randi",
     "genres": [
       "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1597199,
-    "title": "Ritorno a Buenos Aires",
-    "original_title": "Ritorno a Buenos Aires",
-    "italian_title": "Ritorno a Buenos Aires",
-    "year": 2026,
-    "poster_path": "/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
-    "overview": "Il film segue Mariano Guerra, chiamato a tornare in Argentina per testimoniare nel processo contro i militari che lo sequestrarono e torturarono durante la dittatura militare, la stessa che nel 1978 organizzò i Mondiali di calcio mentre il paese era attraversato dalla repressione clandestina.  Il film non racconta il ritorno di un eroe in cerca di rivalsa, ma il percorso di un uomo che porta dentro di sé la propria zona d’ombra: piegato dalla tortura, parlò denunciando i suoi compagni.",
-    "title_en": "Back to Buenos Aires",
-    "overview_en": "It follows Mariano Guerra as he returns to Argentina to testify against soldiers who tortured him during the dictatorship, focusing not on revenge but on his inner struggle with guilt, trauma, and the lasting psychological impact of violence kept largely off-screen.",
-    "runtime": 104,
-    "director": "Marco Bechis",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1181125,
-    "title": "Un giorno senza donne",
-    "original_title": "The Day Iceland Stood Still",
-    "italian_title": "Un giorno senza donne",
-    "year": 2025,
-    "poster_path": "/rqqV4QZxYSuCY045OH8Ell8Ybez.jpg",
-    "overview": "Quando, in una mattina d'autunno del 1975, il 90% delle donne islandesi si assentò dal lavoro e dalle proprie case, rifiutandosi di lavorare, cucinare o prendersi cura dei figli, paralizzò il Paese e fece dell'Islanda il \"miglior posto al mondo per essere donna\".",
-    "title_en": "The Day Iceland Stood Still",
-    "overview_en": "When 90% of Iceland’s women walked off the job and out of their homes one morning in 1975, they brought their country to its knees and catapulted Iceland to the forefront of today's global fight for gender equality. Unexpectedly funny, laced with evocative animation and powerfully told by the women who lived it – this is the true story of 12 hours that launched a revolution.",
-    "runtime": 70,
-    "director": "Pamela Hogan",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 56142,
-    "title": "Gruppo di famiglia in un interno",
-    "original_title": "Gruppo di Famiglia in un Interno",
-    "italian_title": "Gruppo di famiglia in un interno",
-    "year": 1974,
-    "poster_path": "/aKTailFr6wWkhS2PWKVFWm29ESK.jpg",
-    "overview": "Un professore americano sessantenne decide di ritirarsi tra libri e quadri nella sua casa in un antico palazzo di Roma, ereditato dalla madre italiana. Un giorno la sua quiete viene turbata dall'insistenza della marchesa Bianca Brumonti, che riesce a farsi affittare dal professore l'appartamento del piano di sopra per darlo al suo giovane amante Konrad. Tra la marchesa, sua figlia Lietta e il suo compagno Stefano e Konrad, si viene a formare un singolare gruppo di famiglia, nel quale l'anziano gentiluomo viene forzato ad entrare, salvo poi accorgersi alla fine che questa intrusione ha significato per lui un ritorno alla vita e alle relazioni umane. Un avvenimento tragico riporterà l'ordine primitivo nella vita del professore, allontanando la burrascosa famiglia, ma lasciandolo anche più consapevole della morte che si avvicina.",
-    "title_en": "Conversation Piece",
-    "overview_en": "A retired professor of American origin lives a solitary life in a luxurious palazzo in Rome. He is confronted by a vulgar Italian marchesa and her lover, her daughter and her daughter's boyfriend, and forced to rent to them an apartment on the upper floor of his palazzo. From this point on his quiet routine is turned into chaos by his tenants' machinations, and everybody's life takes an unexpected but inevitable turn.",
-    "runtime": 126,
-    "director": "Luchino Visconti",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 1645164,
-    "title": "Serpenti",
-    "original_title": "Serpenti",
-    "italian_title": "Serpenti",
-    "year": 2026,
-    "poster_path": "/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
-    "overview": "Paolo Marra ha ucciso sua moglie, senza un perché. Divorato dal senso di colpa, decide di costituirsi: vuole pagare, scontare la pena, ridare dignità alla donna che ha ucciso e a sé stesso. Tra poliziotti distratti, avvocati zelanti, cartomanti e complicati cavilli burocratici, nessuno lo prende sul serio. L'uomo si scopre vittima di un paradosso kafkiano: per quanto lo desideri, non riesce a farsi arrestare. Il perfetto capro espiatorio di una società grottesca che ignora chi vuole redimersi.",
-    "title_en": "Snake",
-    "overview_en": "Paolo Marra killed his wife for no reason. Consumed by guilt, he decides to turn himself in: he wants to pay the price, serve his sentence, and restore dignity to the woman he killed—and to himself. Amid distracted police officers, zealous lawyers, fortune-tellers, and complicated bureaucratic red tape, no one takes him seriously. The man finds himself the victim of a Kafkaesque paradox: no matter how much he wants it, he cannot get himself arrested. He is the perfect scapegoat for a grotesque society that ignores those who seek redemption.",
-    "runtime": 93,
-    "director": "Roberto De Paolis",
-    "genres": [
-      "Dramma",
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1051,
-    "title": "Il braccio violento della legge",
-    "original_title": "The French Connection",
-    "italian_title": "Il braccio violento della legge",
-    "year": 1971,
-    "poster_path": "/qXLMGRNlL5gS48XJhF9vAuWZ9Du.jpg",
-    "overview": "Un agente della squadra narcotici di San Francisco, Jimmy Doyle, è sulle tracce di un traffico di droga. A Marsiglia riesce ad intercettare Alain Charnier, il boss dell'organizzazione, ma durante l'inseguimento lo perde di vista, e così per catturarlo sarà costretto ad utilizzare metodi poco ortodossi...",
-    "title_en": "The French Connection",
-    "overview_en": "Tough narcotics detective 'Popeye' Doyle is in hot pursuit of a suave French drug dealer who may be the key to a huge heroin-smuggling operation.",
-    "runtime": 103,
-    "director": "William Friedkin",
-    "genres": [
-      "Azione",
-      "Crime",
-      "Thriller"
     ]
   },
   {
@@ -1154,6 +1070,40 @@
     ]
   },
   {
+    "tmdb_id": 4286,
+    "title": "L'innocente",
+    "original_title": "L'innocente",
+    "italian_title": "L'innocente",
+    "year": 1976,
+    "poster_path": "/1FJpP0DlksLwnnHa6yIz8ivnJSa.jpg",
+    "overview": "Tratto dall'omonimo romanzo scritto nel 1892 da Gabriele D'Annunzio, l'ultimo film di Luchino Visconti è un grande affresco della società decadente di fine '800 espressa nelle cose, nella magnifica ambientazione oltre che naturalmente nei personaggi.  Il dramma è focalizzato sulla deviazione della paternità non riconosciuta.  Pur essendo incompleto (o meglio: primo e non riveduto montaggio), causa morte improvvisa del grande Visconti, il film si presenta ottimamente risolto (con toni decadenti e tragici) sia sul versante visivo, sia su quello puramente letterario.",
+    "title_en": "The Innocent",
+    "overview_en": "Tullio Hermil is a chauvinist aristocrat who flaunts his mistress to his wife, but when he believes she has been unfaithful he becomes enamored of her again.",
+    "runtime": 125,
+    "director": "Luchino Visconti",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 843,
+    "title": "In the Mood for Love",
+    "original_title": "花樣年華",
+    "italian_title": "In the Mood for Love",
+    "year": 2000,
+    "poster_path": "/iInvJrmIPvmUZ8l8IugslhXzV8B.jpg",
+    "overview": "Hong Kong, 1962. I coniugi Chow e i coniugi Chan si trasferiscono lo stesso giorno in due appartamenti contigui. Sono il signor Chow e la signora Chan a rientrare più di frequente a casa ed è così che nel giro di breve tempo scoprono che i rispettivi consorti sono amanti. La volontà di comprendere le ragioni del tradimento subito li porterà a frequentarsi sempre più spesso e a condividere le sensazioni provate.",
+    "title_en": "In the Mood for Love",
+    "overview_en": "In 1960s Hong Kong, two neighbors form an intimate bond after making a discovery about their spouses in this visually stunning tale of unrequited love.",
+    "runtime": 98,
+    "director": "Wong Kar-Wai",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
     "tmdb_id": 1438966,
     "title": "Je so’ pazzo",
     "original_title": "Je so’ pazzo",
@@ -1168,6 +1118,24 @@
     "genres": [
       "Dramma",
       "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 818397,
+    "title": "Memory",
+    "original_title": "Memory",
+    "italian_title": "Memory",
+    "year": 2022,
+    "poster_path": "/hy2xd5yEPzFQTgzpEUrBInjVtPA.jpg",
+    "overview": "Alex Lewis, sicario ormai prossimo al ritiro, viene chiamato a svolgere un’ultima missione. Ma quando scopre che il bersaglio è una giovane ragazza, rifiuta di portare a termine l’incarico e si rivolta contro la malvagia organizzazione che l’ha assoldato. Il suo cammino di vendetta lo porta fino ai vertici del gruppo criminale, capeggiato dall’affascinante magnate immobiliare di El Paso Davana Sealman e dal figlio, che tengono in pugno le vite di molti ragazzi innocenti. Per salvare la pelle dovrà quindi dare loro la caccia e ucciderli prima che siano loro a farlo. Nel frattempo, è braccato anche dall’FBI, che nella persona dell’agente Vincent Serra è già sulle sue tracce.",
+    "title_en": "Memory",
+    "overview_en": "Alex, an assassin-for-hire, finds that he's become a target after he refuses to complete a job for a dangerous criminal organization. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.",
+    "runtime": 114,
+    "director": "Martin Campbell",
+    "genres": [
+      "Azione",
+      "Thriller",
+      "Crime"
     ]
   },
   {
@@ -1303,6 +1271,23 @@
     ]
   },
   {
+    "tmdb_id": 1244492,
+    "title": "Look Back",
+    "original_title": "ルックバック",
+    "italian_title": "Look Back",
+    "year": 2024,
+    "poster_path": "/9GCNAcMo2EyEu1PCC8T0iQk2mm3.jpg",
+    "overview": "Fujino, eccessivamente sicura di sé, e Kyomoto, chiusa in se stessa, non potrebbero essere più diverse, ma l'amore per il disegno manga unisce queste due ragazze di provincia, in una toccante storia di crescita e progresso.",
+    "title_en": "Look Back",
+    "overview_en": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.",
+    "runtime": 62,
+    "director": "押山清高",
+    "genres": [
+      "Animazione",
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1567688,
     "title": "Elon Musk Unveiled. The Tesla Experiment",
     "original_title": "Elon Musk Uncovered: Das Tesla-Experiment",
@@ -1434,6 +1419,24 @@
     ]
   },
   {
+    "tmdb_id": 29967,
+    "title": "Il covo dei contrabbandieri",
+    "original_title": "Moonfleet",
+    "italian_title": "Il covo dei contrabbandieri",
+    "year": 1955,
+    "poster_path": "/13ECLBhxYkZW4RrIrA56xLGJwzB.jpg",
+    "overview": "Jeremy Fox si presta a fare il tutore al giovane John, un orfano, ma Jeremy è anche il capo dei contrabbandieri del villaggio di Moonfleet e questo significa che anche per John, si spalancano le porte dell'illegalità. Tradita nei suoi sentimenti la donna di Jeremy fa la spia alla polizia che tende un agguato ai contrabbandieri dal quale Jeremy e John si salvano a stento. Un prezioso medaglione ritrovato cambia però il destino dei due. Uno dei capolavori del cinema d'avventura, e (nonostante sia tratto da un romanzo di John Meade Falkner) uno dei film più genuinamente \"stevensoniani\" mai realizzati. Un racconto d'avventura e di formazione, girato in un technicolor notturno e gotico, e in un formato (il Cinemascope) da cui Lang trae il meglio, pur odiandolo (serve solo a riprendere serpenti o funerali).",
+    "title_en": "Moonfleet",
+    "overview_en": "Set in the eighteenth century, Moonfleet is about John Mohune, a young orphan who is sent to the Dorset village of Moonfleet to stay with an old friend of his mother's, Jeremy Fox. Fox is a morally ambiguous character, an elegant gentleman involved with smugglers and pirates.",
+    "runtime": 87,
+    "director": "Fritz Lang",
+    "genres": [
+      "Avventura",
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
     "tmdb_id": 47909,
     "title": "Poetry",
     "original_title": "시",
@@ -1450,6 +1453,23 @@
     ]
   },
   {
+    "tmdb_id": 1645164,
+    "title": "Serpenti",
+    "original_title": "Serpenti",
+    "italian_title": "Serpenti",
+    "year": 2026,
+    "poster_path": "/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
+    "overview": "Paolo Marra ha ucciso sua moglie, senza un perché. Divorato dal senso di colpa, decide di costituirsi: vuole pagare, scontare la pena, ridare dignità alla donna che ha ucciso e a sé stesso. Tra poliziotti distratti, avvocati zelanti, cartomanti e complicati cavilli burocratici, nessuno lo prende sul serio. L'uomo si scopre vittima di un paradosso kafkiano: per quanto lo desideri, non riesce a farsi arrestare. Il perfetto capro espiatorio di una società grottesca che ignora chi vuole redimersi.",
+    "title_en": "Snake",
+    "overview_en": "Paolo Marra killed his wife for no reason. Consumed by guilt, he decides to turn himself in: he wants to pay the price, serve his sentence, and restore dignity to the woman he killed—and to himself. Amid distracted police officers, zealous lawyers, fortune-tellers, and complicated bureaucratic red tape, no one takes him seriously. The man finds himself the victim of a Kafkaesque paradox: no matter how much he wants it, he cannot get himself arrested. He is the perfect scapegoat for a grotesque society that ignores those who seek redemption.",
+    "runtime": 93,
+    "director": "Roberto De Paolis",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
     "tmdb_id": 1477087,
     "title": "Ingeborg Bachmann: qui non c'è nessuna donna",
     "original_title": "Ingeborg Bachmann – Jemand, der einmal ich war",
@@ -1463,6 +1483,24 @@
     "director": "Regina Schilling",
     "genres": [
       "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 8337,
+    "title": "Essi vivono",
+    "original_title": "They Live",
+    "italian_title": "Essi vivono",
+    "year": 1988,
+    "poster_path": "/qZEuNUlUWzzaVpSgnHDtxYZJH7g.jpg",
+    "overview": "John Nada, disoccupato, trova lavoro in un cantiere a Los Angeles. In cerca di un posto dove passare la notte, viene portato da un collega in una chiesa dove ascolta un predicatore cieco parlare del controllo della mente che “loro” starebbero praticando sugli uomini. Poco prima che il posto sia oggetto di un raid della polizia, John scova degli strani occhiali in una scatola e tramite quelli riesce a vedere le cose come stanno realmente: un sacco di gente ha un aspetto orribile con facce simili a teschi. Gli alieni hanno già occupato parecchi posti importanti e stanno continuando a farlo senza che gli umani se ne accorgano. John decide di combatterli e di trovare qualche alleato.",
+    "title_en": "They Live",
+    "overview_en": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+    "runtime": 93,
+    "director": "John Carpenter",
+    "genres": [
+      "Fantascienza",
+      "Azione",
+      "Thriller"
     ]
   },
   {
@@ -1636,6 +1674,24 @@
     ]
   },
   {
+    "tmdb_id": 85498,
+    "title": "Il labirinto",
+    "original_title": "The Maze",
+    "italian_title": "Il labirinto",
+    "year": 1953,
+    "poster_path": "/77lRcjh40kCUL9jqkBzJBthELaZ.jpg",
+    "overview": "Un aristocratico in procinto di sposarsi viene urgentemente richiamato nel castello di suo zio in Scozia. Non avendo più dato sue notizie, circa 2 mesi dopo la fidanzata e sua zia si recano al castello. Il nobile è molto cambiato e sembra invecchiato di vent'anni e angosciato. Appare subito chiaro che il castello nasconde un orribile segreto.",
+    "title_en": "The Maze",
+    "overview_en": "A Scotsman abruptly breaks off his engagement to pretty Kitty and moves to his uncle's castle in the Scottish highlands. Kitty and her aunt follow Gerald a few weeks later, and discover he has suddenly aged. Some mysterious things happen in a maze made from the hedges adjoining the castle.",
+    "runtime": 80,
+    "director": "William Cameron Menzies",
+    "genres": [
+      "Horror",
+      "Mistero",
+      "Fantascienza"
+    ]
+  },
+  {
     "tmdb_id": 1119548,
     "title": "Nel silenzio delle stanze",
     "original_title": "La Condition",
@@ -1685,21 +1741,51 @@
     "genres": []
   },
   {
-    "tmdb_id": 19877,
-    "title": "Ken il guerriero - Il film",
-    "original_title": "北斗の拳",
-    "italian_title": "Ken il guerriero - Il film",
-    "year": 1986,
-    "poster_path": "/nQvEwHHEwaDbEy6G0Xkyki0G13O.jpg",
-    "overview": "Dopo una guerra nucleare che ha trasformato la Terra in un immenso deserto senza vita, il mondo è piombato nel caos e nella violenza. I maestri di Hokuto e di Nanto, due potenti scuole di arti marziali, si fronteggiano fra loro. Kenshiro, legittimo successore della scuola di Hokuto, va in cerca dell'amata Julia che è stata rapita da Shin di Nanto; ma deve anche fronteggiare l'ambizione di Raoul, suo fratello adottivo, che intende dominare il mondo con la forza.",
-    "title_en": "Fist of the North Star",
-    "overview_en": "After a nuclear holocaust tears the world apart, mankind is forced to the harshness of not only the oppression of others who are much more powerful, but the dead earth which seems to be getting worse with every passing moment. But a savior has risen from the ashes, a man who will defeat those who would torment the weak and make the world a livable place once more. A man named Kenshiro...",
-    "runtime": 110,
-    "director": "芦田豊雄",
+    "tmdb_id": 1702462,
+    "title": "Balcanica",
+    "original_title": "Balcanica",
+    "italian_title": "Balcanica",
+    "year": 2026,
+    "poster_path": "/zReOL1Nh4p0VPHbCbL618DwCpRD.jpg",
+    "overview": "Greta è una giovane dottoressa che affronta la sua prima missione umanitaria sulla rotta balcanica. L'incontro con Jalil e Nazar, musicisti afghani in fuga verso l'Italia, scuote profondamente le sue certezze, spingendola a un gesto estremo che potrebbe cambiare per sempre il suo destino e quello dei due musicisti.",
+    "title_en": "Balcanica",
+    "overview_en": "Music has been banned in Afghanistan, and now an orchestra conductor and his son, a tuba player, attempt to start over by emigrating along the Balkan route. During their flight, seemingly endless, they cross paths with an Italian woman, a doctor. This encounter will change the two refugees’ lives and that of the young woman as well.",
+    "runtime": 81,
+    "director": "Nicola Sorcinelli",
     "genres": [
-      "Animazione",
-      "Azione",
-      "Fantascienza"
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 175678,
+    "title": "East of Paradise",
+    "original_title": "East of Paradise",
+    "italian_title": "East of Paradise",
+    "year": 2005,
+    "poster_path": "/abMeRPf6I5ItPFmbvVGWQgGynnA.jpg",
+    "overview": null,
+    "title_en": "East of Paradise",
+    "overview_en": "Filmmaker Lech Kowalski explores his belief that struggle is \"the epitome of living\" in this documentary which compares the wildly different life experiences of himself and his mother. Kowalski's mother came of age in Poland during the early stages of World War II, and after failed attempts to outrun both Nazi and Russian forces she and her family were sent to a Soviet concentration camp, where inmates were tortured, mistreated, and starved to the point where some ate their own lice in a desperate struggle to survive. Kowalski also depicts his own self-inflicted season in hell during his years on the New York City punk rock scene as he wallowed in the sordid underbelly of drug addiction, pornography, prostitution, and streetwise decadence. On both stories, Kowalski finds a message of hope and strength in the midst of almost certain peril.",
+    "runtime": 108,
+    "director": "Lech Kowalski",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1616189,
+    "title": "Douglas Gordon by Douglas Gordon",
+    "original_title": "Douglas Gordon by Douglas Gordon",
+    "italian_title": "Douglas Gordon by Douglas Gordon",
+    "year": 2026,
+    "poster_path": "/f1ZtekbWTE1I4C40hVdu3mKhHwc.jpg",
+    "overview": null,
+    "title_en": "Douglas Gordon by Douglas Gordon",
+    "overview_en": "An intimate portrait of the Turner Prize-winning artist. As the boundary between reality and performance blurs, the shifting relationship between filmmaker and subject calls into question who is actually making the film.",
+    "runtime": 88,
+    "director": "Finlay Pretsell",
+    "genres": [
+      "Documentario"
     ]
   },
   {
@@ -1717,6 +1803,141 @@
     "genres": [
       "Dramma",
       "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1074074,
+    "title": "L'essere amato",
+    "original_title": "El ser querido",
+    "italian_title": "L'essere amato",
+    "year": 2026,
+    "poster_path": "/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
+    "overview": null,
+    "title_en": "The Beloved",
+    "overview_en": "Acclaimed film director Esteban Martínez is a legend both for his films and for his past marked by violence and excess. For his latest project, he offers his daughter Emilia a role under the pretext of helping her with her stalled acting career. Living together on set will foster a closeness they haven’t shared for years, but it will also reopen old wounds that never healed.",
+    "runtime": 136,
+    "director": "Rodrigo Sorogoyen",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 81773,
+    "title": "Col cuore in gola",
+    "original_title": "Col cuore in gola",
+    "italian_title": "Col cuore in gola",
+    "year": 1967,
+    "poster_path": "/OYv2HKToOYm13V1dqOO12qOoEZ.jpg",
+    "overview": "Durante una tournée londinese, l'attore francese Bernard, camminando nella notte per la capitale inglese, si imbatte in Jane, una ragazza sconvolta davanti al cadavere di un uomo. Il defunto, da poco assassinato, è Prescott, proprietario di un night club. Bernard decide di aiutare Jane a uscire dai guai e cerca di recuperare una foto compromettente del di lei fratello, finendo per lottare con un sicario e ucciderlo. Ma la donna è davvero innocente?",
+    "title_en": "Deadly Sweet",
+    "overview_en": "Bernard meets Jane in a Night Club, in London, and he likes her. Her father was killed in a car accident, but Jane thinks he has been killed because he was blackmailed for a picture of his second wife, Jane's mother in law. In the same Night Club Bernard finds the blackmailer corpse and Jane near him, but he believes she is innocent. So Bernard and Jane run away followed by a dwarf, the blackmailer's men, who believe Bernard killed their boss and of course, the Police. They believe that Jerome, Jane's brother, can help them to solve the case. But Jane doesn't know where he is, or so she says. Corpse after corpse, Bernard will find out the truth. But will the truth help him?",
+    "runtime": 107,
+    "director": "Tinto Brass",
+    "genres": [
+      "Thriller",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 56153,
+    "title": "Mimì metallurgico ferito nell'onore",
+    "original_title": "Mimì metallurgico ferito nell'onore",
+    "italian_title": "Mimì metallurgico ferito nell'onore",
+    "year": 1972,
+    "poster_path": "/AaJteGPVfoMYwzHouZn0RrBBq2s.jpg",
+    "overview": "Carmelo Mardocheo (Giannini), operaio siciliano, trova lavoro a Torino, si fa l'amante (Melato) che gli dà un figlio. Tornato nella natìa Catania, apprende che, per opera di un finanziere, sua moglie è incinta. Vendica l'affronto seducendone la voluminosa consorte. Ucciso il brigadiere da un mafioso, si trova con tre figli a carico. Per mantenerli fa il galoppino elettorale per un boss della mafia.",
+    "title_en": "The Seduction of Mimi",
+    "overview_en": "Sicilian dockworker Mimi inadvertently becomes embroiled in an increasingly complicated array of personal conflicts. When he loses his job after voting against a Mafia kingpin in an allegedly secret election, Mimi leaves his wife to find new employment. He moves to Turin, where he engages in an affair with a Communist organiser. Soon, Mimi finds himself juggling two demanding relationships while plotting revenge against the corrupt forces that ruined his life.",
+    "runtime": 121,
+    "director": "Lina Wertmüller",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1309373,
+    "title": "Il canto della foresta",
+    "original_title": "Le Chant des forêts",
+    "italian_title": "Il canto della foresta",
+    "year": 2025,
+    "poster_path": "/1Ty8uGoVEc4g4W7AFPdcOzXktG3.jpg",
+    "overview": "Un nonno, suo figlio e il figlio del figlio: Michel, Vincent (il regista) e Simon. Tre maschi di età diverse che condividono l'esperienza, più che consapevoli della sua rarità, di osservare da vicinissimo la natura. Rispettandola. Nelle foreste di conifere del dipartimento francese dei Vosgi, come a una base sicura dopo le loro esplorazioni, tornano in una baita di legno illuminata solo da candele. Tra i tre si compie la trasmissione della passione per animali e ambiente, in uno scambio continuo di saperi e curiosità. Un patrimonio di storie tramandate per via orale e di esperienze, rilevazione sul campo. Per Michel la scintilla è scattata, tanti anni prima, con l'avvistamento di un gallo cedrone, razza ormai scomparsa da quei territori.",
+    "title_en": "Whispers in the Woods",
+    "overview_en": "In the heart of the tranquil Vosges forests, where lynxes, bears and deer roam freely, Vincent Munier accompanies his father on his expeditions. He not only seeks to capture the visual wonders of this forest kingdom, but also aims to make its sounds audible. Every whisper of the forest is a reminder of the knowledge of nature that his father once imbued in him – knowledge that Vincent now passes on to his own son. Vincent Munier combines breathtaking footage of nature and its sounds to create a fairytale-like cinematic experience that slows time down.",
+    "runtime": 99,
+    "director": "Vincent Munier",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 32569,
+    "title": "L'uomo dagli occhi a raggi X",
+    "original_title": "X: The Man with the X-Ray Eyes",
+    "italian_title": "L'uomo dagli occhi a raggi X",
+    "year": 1963,
+    "poster_path": "/yrrhbbwEaBsZjSOdOzGsliG5P9S.jpg",
+    "overview": "Il dottor Xavier si inietta un siero che gli permette di ottenere una vista a raggi X. Procurata accidentalmente la morte di un collega, inizia a vagabondare di città in città. Dopo essere stato sfruttato anche in un luna park arriva alla decisione di accecarsi, anche per sfuggire ai dolorosi effetti collaterali del siero: terribili emicranie e necessità di portare occhiali piombati. Al culmine del suo periodo Poe, Corman ci prova con questo fantascientifico-horror, da un racconto di Ray Russell. Con pochi mezzi, molto ingegno e una storia implacabile e ben congegnata.",
+    "title_en": "X: The Man with the X-Ray Eyes",
+    "overview_en": "A doctor uses special eye drops to give himself x-ray vision, but the new power has disastrous consequences.",
+    "runtime": 79,
+    "director": "Roger Corman",
+    "genres": [
+      "Fantascienza",
+      "Thriller",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 43372,
+    "title": "Bellissima",
+    "original_title": "Bellissima",
+    "italian_title": "Bellissima",
+    "year": 1952,
+    "poster_path": "/5wCKBi6RbeMhr8jPjivaEaWb6c0.jpg",
+    "overview": "Maddalena Cecconi è decisa a far scritturare a tutti i costi la piccola Maria in un film che sta per essere girato a Cinecittà.",
+    "title_en": "Bellissima",
+    "overview_en": "Film director Blasetti is looking for a little girl for his new movie. Along with other mothers, Maddelena takes her daughter to Cinecittà, hoping she’ll be selected and become a star. She is ready to sacrifice anything for little Maria.",
+    "runtime": 113,
+    "director": "Luchino Visconti",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1052,
+    "title": "Blow-up",
+    "original_title": "Blow-Up",
+    "italian_title": "Blow-up",
+    "year": 1966,
+    "poster_path": "/uLFQKYoU1CDzrAfLqd2bEUFQv73.jpg",
+    "overview": "Un fotografo di moda il cui mondo è fatto da passerelle, musica pop, droga e sesso facile trova la propria vita vuota e noiosa. Durante un set fotografico scatta l'istantanea di un omicidio, ma non se ne accorgerà fino a quando non svilupperà la pellicola. A quel punto continuerà a zoomare fino ai più piccoli dettagli per risolvere il caso.",
+    "title_en": "Blow-Up",
+    "overview_en": "A successful mod photographer in London whose world is bounded by fashion, pop music, marijuana, and easy sex, feels his life is boring and despairing. But in the course of a single day he unknowingly captures a death on film.",
+    "runtime": 111,
+    "director": "Michelangelo Antonioni",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 19877,
+    "title": "Ken il guerriero - Il film",
+    "original_title": "北斗の拳",
+    "italian_title": "Ken il guerriero - Il film",
+    "year": 1986,
+    "poster_path": "/nQvEwHHEwaDbEy6G0Xkyki0G13O.jpg",
+    "overview": "Dopo una guerra nucleare che ha trasformato la Terra in un immenso deserto senza vita, il mondo è piombato nel caos e nella violenza. I maestri di Hokuto e di Nanto, due potenti scuole di arti marziali, si fronteggiano fra loro. Kenshiro, legittimo successore della scuola di Hokuto, va in cerca dell'amata Julia che è stata rapita da Shin di Nanto; ma deve anche fronteggiare l'ambizione di Raoul, suo fratello adottivo, che intende dominare il mondo con la forza.",
+    "title_en": "Fist of the North Star",
+    "overview_en": "After a nuclear holocaust tears the world apart, mankind is forced to the harshness of not only the oppression of others who are much more powerful, but the dead earth which seems to be getting worse with every passing moment. But a savior has risen from the ashes, a man who will defeat those who would torment the weak and make the world a livable place once more. A man named Kenshiro...",
+    "runtime": 110,
+    "director": "芦田豊雄",
+    "genres": [
+      "Animazione",
+      "Azione",
+      "Fantascienza"
     ]
   },
   {
@@ -1940,23 +2161,6 @@
     ]
   },
   {
-    "tmdb_id": 1422011,
-    "title": "It Ends",
-    "original_title": "It Ends",
-    "italian_title": "It Ends",
-    "year": 2026,
-    "poster_path": "/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
-    "overview": "Quattro amici appena diplomati partono per un giro in auto a tarda notte, sperando di godersi un’ultima serata insieme prima che le loro vie si dividano, ma si ritrovano intrappolati in una misteriosa strada senza fine, circondati da fenomeni inspiegabili e presenze terrificanti. Mentre la realtà sembra sgretolarsi intorno a loro, dovranno decidere se accettare il proprio destino o tentare una fuga impossibile.",
-    "title_en": "It Ends",
-    "overview_en": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it.",
-    "runtime": 89,
-    "director": "Alexander Ullom",
-    "genres": [
-      "Horror",
-      "Mistero"
-    ]
-  },
-  {
     "tmdb_id": 1753205,
     "title": "Rammstein – Live in Mexico City",
     "original_title": "Rammstein – Live in Mexico City",
@@ -1989,6 +2193,23 @@
       "Horror",
       "Commedia",
       "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1422011,
+    "title": "It Ends",
+    "original_title": "It Ends",
+    "italian_title": "It Ends",
+    "year": 2026,
+    "poster_path": "/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
+    "overview": "Quattro amici appena diplomati partono per un giro in auto a tarda notte, sperando di godersi un’ultima serata insieme prima che le loro vie si dividano, ma si ritrovano intrappolati in una misteriosa strada senza fine, circondati da fenomeni inspiegabili e presenze terrificanti. Mentre la realtà sembra sgretolarsi intorno a loro, dovranno decidere se accettare il proprio destino o tentare una fuga impossibile.",
+    "title_en": "It Ends",
+    "overview_en": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it.",
+    "runtime": 89,
+    "director": "Alexander Ullom",
+    "genres": [
+      "Horror",
+      "Mistero"
     ]
   },
   {
@@ -2121,23 +2342,6 @@
     ]
   },
   {
-    "tmdb_id": 1244492,
-    "title": "Look Back",
-    "original_title": "ルックバック",
-    "italian_title": "Look Back",
-    "year": 2024,
-    "poster_path": "/9GCNAcMo2EyEu1PCC8T0iQk2mm3.jpg",
-    "overview": "Fujino, eccessivamente sicura di sé, e Kyomoto, chiusa in se stessa, non potrebbero essere più diverse, ma l'amore per il disegno manga unisce queste due ragazze di provincia, in una toccante storia di crescita e progresso.",
-    "title_en": "Look Back",
-    "overview_en": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.",
-    "runtime": 62,
-    "director": "押山清高",
-    "genres": [
-      "Animazione",
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1400837,
     "title": "Mammina",
     "original_title": "Other Mommy",
@@ -2257,24 +2461,6 @@
     ]
   },
   {
-    "tmdb_id": 1276261,
-    "title": "Mani nude",
-    "original_title": "Mani nude",
-    "italian_title": "Mani nude",
-    "year": 2025,
-    "poster_path": "/1JNBFmve22grce9dlTJZ13IXNfh.jpg",
-    "overview": "Davide, un ragazzo di buona famiglia, occhi da bambino e corpo da adulto, una notte viene rapito e rinchiuso dentro un cassone buio di un camion. Finisce prigioniero di una misteriosa organizzazione che lo costringe a lottare, a mani nude, in combattimenti clandestini estremi, che si possono concludere in un solo modo: con la morte di uno dei due sfidanti. In quell’universo alieno e spietato, Davide è costretto a spogliarsi della sua umanità per sopravvivere, seguendo le istruzioni di Minuto, un carceriere e allenatore di altri uomini senza speranza né futuro. Pian piano emerge, però, un legame segreto tra il ragazzo e l’uomo, che si rivela la sua unica possibilità di salvezza. E se da quella prigione si può forse trovare il modo di fuggire, altrettanto non può accadere con il destino né con le conseguenze delle proprie azioni.",
-    "title_en": "Bare Hands",
-    "overview_en": "Davide, a good kid with the eyes of a child and the body of a grown man, is kidnapped one night and locked inside the dark trailer of a truck.  He becomes a prisoner of a mysterious organization that forces him to fight, bare-handed, in brutal underground matches that can end only one way: the death of one of the two fighters.",
-    "runtime": 124,
-    "director": "Mauro Mancini",
-    "genres": [
-      "Azione",
-      "Thriller",
-      "Dramma"
-    ]
-  },
-  {
     "tmdb_id": 1767667,
     "title": "Un'altra me",
     "original_title": "Un'altra me",
@@ -2291,152 +2477,19 @@
     ]
   },
   {
-    "tmdb_id": 175678,
-    "title": "East of Paradise",
-    "original_title": "East of Paradise",
-    "italian_title": "East of Paradise",
-    "year": 2005,
-    "poster_path": "/abMeRPf6I5ItPFmbvVGWQgGynnA.jpg",
-    "overview": null,
-    "title_en": "East of Paradise",
-    "overview_en": "Filmmaker Lech Kowalski explores his belief that struggle is \"the epitome of living\" in this documentary which compares the wildly different life experiences of himself and his mother. Kowalski's mother came of age in Poland during the early stages of World War II, and after failed attempts to outrun both Nazi and Russian forces she and her family were sent to a Soviet concentration camp, where inmates were tortured, mistreated, and starved to the point where some ate their own lice in a desperate struggle to survive. Kowalski also depicts his own self-inflicted season in hell during his years on the New York City punk rock scene as he wallowed in the sordid underbelly of drug addiction, pornography, prostitution, and streetwise decadence. On both stories, Kowalski finds a message of hope and strength in the midst of almost certain peril.",
-    "runtime": 108,
-    "director": "Lech Kowalski",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 1616189,
-    "title": "Douglas Gordon by Douglas Gordon",
-    "original_title": "Douglas Gordon by Douglas Gordon",
-    "italian_title": "Douglas Gordon by Douglas Gordon",
+    "tmdb_id": 1795555,
+    "title": "Stray Kids World Tour 'RUN IT' LIVE VIEWING",
+    "original_title": "Stray Kids World Tour 'RUN IT' LIVE VIEWING",
+    "italian_title": "Stray Kids World Tour 'RUN IT' LIVE VIEWING",
     "year": 2026,
-    "poster_path": "/f1ZtekbWTE1I4C40hVdu3mKhHwc.jpg",
+    "poster_path": "/sxtdpz8uVWRbqOZNsWAHXvlBFpU.jpg",
     "overview": null,
-    "title_en": "Douglas Gordon by Douglas Gordon",
-    "overview_en": "An intimate portrait of the Turner Prize-winning artist. As the boundary between reality and performance blurs, the shifting relationship between filmmaker and subject calls into question who is actually making the film.",
-    "runtime": 88,
-    "director": "Finlay Pretsell",
+    "title_en": "Stray Kids World Tour 'RUN IT' LIVE VIEWING",
+    "overview_en": "Stray Kids bring their World Tour (RUN IT) concert to cinemas in a live broadcast, with all eight members performing their high-energy choreography.",
+    "runtime": null,
+    "director": null,
     "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 1074074,
-    "title": "L'essere amato",
-    "original_title": "El ser querido",
-    "italian_title": "L'essere amato",
-    "year": 2026,
-    "poster_path": "/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
-    "overview": null,
-    "title_en": "The Beloved",
-    "overview_en": "Acclaimed film director Esteban Martínez is a legend both for his films and for his past marked by violence and excess. For his latest project, he offers his daughter Emilia a role under the pretext of helping her with her stalled acting career. Living together on set will foster a closeness they haven’t shared for years, but it will also reopen old wounds that never healed.",
-    "runtime": 136,
-    "director": "Rodrigo Sorogoyen",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 81773,
-    "title": "Col cuore in gola",
-    "original_title": "Col cuore in gola",
-    "italian_title": "Col cuore in gola",
-    "year": 1967,
-    "poster_path": "/OYv2HKToOYm13V1dqOO12qOoEZ.jpg",
-    "overview": "Durante una tournée londinese, l'attore francese Bernard, camminando nella notte per la capitale inglese, si imbatte in Jane, una ragazza sconvolta davanti al cadavere di un uomo. Il defunto, da poco assassinato, è Prescott, proprietario di un night club. Bernard decide di aiutare Jane a uscire dai guai e cerca di recuperare una foto compromettente del di lei fratello, finendo per lottare con un sicario e ucciderlo. Ma la donna è davvero innocente?",
-    "title_en": "Deadly Sweet",
-    "overview_en": "Bernard meets Jane in a Night Club, in London, and he likes her. Her father was killed in a car accident, but Jane thinks he has been killed because he was blackmailed for a picture of his second wife, Jane's mother in law. In the same Night Club Bernard finds the blackmailer corpse and Jane near him, but he believes she is innocent. So Bernard and Jane run away followed by a dwarf, the blackmailer's men, who believe Bernard killed their boss and of course, the Police. They believe that Jerome, Jane's brother, can help them to solve the case. But Jane doesn't know where he is, or so she says. Corpse after corpse, Bernard will find out the truth. But will the truth help him?",
-    "runtime": 107,
-    "director": "Tinto Brass",
-    "genres": [
-      "Thriller",
-      "Mistero"
-    ]
-  },
-  {
-    "tmdb_id": 56153,
-    "title": "Mimì metallurgico ferito nell'onore",
-    "original_title": "Mimì metallurgico ferito nell'onore",
-    "italian_title": "Mimì metallurgico ferito nell'onore",
-    "year": 1972,
-    "poster_path": "/AaJteGPVfoMYwzHouZn0RrBBq2s.jpg",
-    "overview": "Carmelo Mardocheo (Giannini), operaio siciliano, trova lavoro a Torino, si fa l'amante (Melato) che gli dà un figlio. Tornato nella natìa Catania, apprende che, per opera di un finanziere, sua moglie è incinta. Vendica l'affronto seducendone la voluminosa consorte. Ucciso il brigadiere da un mafioso, si trova con tre figli a carico. Per mantenerli fa il galoppino elettorale per un boss della mafia.",
-    "title_en": "The Seduction of Mimi",
-    "overview_en": "Sicilian dockworker Mimi inadvertently becomes embroiled in an increasingly complicated array of personal conflicts. When he loses his job after voting against a Mafia kingpin in an allegedly secret election, Mimi leaves his wife to find new employment. He moves to Turin, where he engages in an affair with a Communist organiser. Soon, Mimi finds himself juggling two demanding relationships while plotting revenge against the corrupt forces that ruined his life.",
-    "runtime": 121,
-    "director": "Lina Wertmüller",
-    "genres": [
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1309373,
-    "title": "Il canto della foresta",
-    "original_title": "Le Chant des forêts",
-    "italian_title": "Il canto della foresta",
-    "year": 2025,
-    "poster_path": "/1Ty8uGoVEc4g4W7AFPdcOzXktG3.jpg",
-    "overview": "Un nonno, suo figlio e il figlio del figlio: Michel, Vincent (il regista) e Simon. Tre maschi di età diverse che condividono l'esperienza, più che consapevoli della sua rarità, di osservare da vicinissimo la natura. Rispettandola. Nelle foreste di conifere del dipartimento francese dei Vosgi, come a una base sicura dopo le loro esplorazioni, tornano in una baita di legno illuminata solo da candele. Tra i tre si compie la trasmissione della passione per animali e ambiente, in uno scambio continuo di saperi e curiosità. Un patrimonio di storie tramandate per via orale e di esperienze, rilevazione sul campo. Per Michel la scintilla è scattata, tanti anni prima, con l'avvistamento di un gallo cedrone, razza ormai scomparsa da quei territori.",
-    "title_en": "Whispers in the Woods",
-    "overview_en": "In the heart of the tranquil Vosges forests, where lynxes, bears and deer roam freely, Vincent Munier accompanies his father on his expeditions. He not only seeks to capture the visual wonders of this forest kingdom, but also aims to make its sounds audible. Every whisper of the forest is a reminder of the knowledge of nature that his father once imbued in him – knowledge that Vincent now passes on to his own son. Vincent Munier combines breathtaking footage of nature and its sounds to create a fairytale-like cinematic experience that slows time down.",
-    "runtime": 99,
-    "director": "Vincent Munier",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 32569,
-    "title": "L'uomo dagli occhi a raggi X",
-    "original_title": "X: The Man with the X-Ray Eyes",
-    "italian_title": "L'uomo dagli occhi a raggi X",
-    "year": 1963,
-    "poster_path": "/yrrhbbwEaBsZjSOdOzGsliG5P9S.jpg",
-    "overview": "Il dottor Xavier si inietta un siero che gli permette di ottenere una vista a raggi X. Procurata accidentalmente la morte di un collega, inizia a vagabondare di città in città. Dopo essere stato sfruttato anche in un luna park arriva alla decisione di accecarsi, anche per sfuggire ai dolorosi effetti collaterali del siero: terribili emicranie e necessità di portare occhiali piombati. Al culmine del suo periodo Poe, Corman ci prova con questo fantascientifico-horror, da un racconto di Ray Russell. Con pochi mezzi, molto ingegno e una storia implacabile e ben congegnata.",
-    "title_en": "X: The Man with the X-Ray Eyes",
-    "overview_en": "A doctor uses special eye drops to give himself x-ray vision, but the new power has disastrous consequences.",
-    "runtime": 79,
-    "director": "Roger Corman",
-    "genres": [
-      "Fantascienza",
-      "Thriller",
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 43372,
-    "title": "Bellissima",
-    "original_title": "Bellissima",
-    "italian_title": "Bellissima",
-    "year": 1952,
-    "poster_path": "/5wCKBi6RbeMhr8jPjivaEaWb6c0.jpg",
-    "overview": "Maddalena Cecconi è decisa a far scritturare a tutti i costi la piccola Maria in un film che sta per essere girato a Cinecittà.",
-    "title_en": "Bellissima",
-    "overview_en": "Film director Blasetti is looking for a little girl for his new movie. Along with other mothers, Maddelena takes her daughter to Cinecittà, hoping she’ll be selected and become a star. She is ready to sacrifice anything for little Maria.",
-    "runtime": 113,
-    "director": "Luchino Visconti",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1052,
-    "title": "Blow-up",
-    "original_title": "Blow-Up",
-    "italian_title": "Blow-up",
-    "year": 1966,
-    "poster_path": "/uLFQKYoU1CDzrAfLqd2bEUFQv73.jpg",
-    "overview": "Un fotografo di moda il cui mondo è fatto da passerelle, musica pop, droga e sesso facile trova la propria vita vuota e noiosa. Durante un set fotografico scatta l'istantanea di un omicidio, ma non se ne accorgerà fino a quando non svilupperà la pellicola. A quel punto continuerà a zoomare fino ai più piccoli dettagli per risolvere il caso.",
-    "title_en": "Blow-Up",
-    "overview_en": "A successful mod photographer in London whose world is bounded by fashion, pop music, marijuana, and easy sex, feels his life is boring and despairing. But in the course of a single day he unknowingly captures a death on film.",
-    "runtime": 111,
-    "director": "Michelangelo Antonioni",
-    "genres": [
-      "Dramma",
-      "Mistero",
-      "Thriller"
+      "Musica"
     ]
   }
 ]
