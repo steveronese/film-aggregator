@@ -944,6 +944,48 @@
         ]
       }
     },
+    "10575": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Tom Tykwer"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Dramma"
+        },
+        {
+          "name": "Thriller"
+        },
+        {
+          "name": "Romance"
+        },
+        {
+          "name": "Crime"
+        }
+      ],
+      "id": 10575,
+      "original_title": "Heaven",
+      "overview": "Il film narra la storia di Philippa, insegnante inglese che lavora a Torino, che decide di uccidere uno spacciatore responsabile della morte del marito. Ma la sua bomba uccide quattro innocenti. Arrestata non si difende neppure, accetta di essere accusata di strage \"politica\". Nel frattempo un poliziotto si è innamorato di lei e riesce a farla evadere.\r Soggetto e la sceneggiatura di Kieslovski e Piesewicz.",
+      "poster_path": "/xPdtOuGtcQt655uRrmIdBkSRmVx.jpg",
+      "release_date": "2002-02-06",
+      "runtime": 105,
+      "title": "Heaven",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "A woman takes the law into her own hands after police ignore her pleas to arrest the man responsible for her husband's death, and finds herself not only under arrest for murder but falling in love with an officer.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "1058424": {
       "credits": {
         "crew": [
@@ -1380,6 +1422,69 @@
             "data": {
               "overview": "After her mother dies in December, advertising director Elsa immerses herself in work to cope. When a panic attack forces her to take a break, she decides to travel to Lanzarote with her friend Patricia. The story of these women run parallel to that of a screenwriter and film director, exploring how life and fiction are inseparably linked, sometimes painfully so.",
               "title": "Bitter Christmas"
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
+    "10895": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Hamilton Luske"
+          },
+          {
+            "job": "Director",
+            "name": "Ben Sharpsteen"
+          },
+          {
+            "job": "Director",
+            "name": "Jack Kinney"
+          },
+          {
+            "job": "Director",
+            "name": "Bill Roberts"
+          },
+          {
+            "job": "Director",
+            "name": "T. Hee"
+          },
+          {
+            "job": "Director",
+            "name": "Norman Ferguson"
+          },
+          {
+            "job": "Director",
+            "name": "Wilfred Jackson"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Animazione"
+        },
+        {
+          "name": "Famiglia"
+        },
+        {
+          "name": "Fantasy"
+        }
+      ],
+      "id": 10895,
+      "original_title": "Pinocchio",
+      "overview": "Pinocchio, il burattino costruito da mastro Geppetto, viene animato dalla fata Turchina; ma anzichè andare a scuola, si unisce al gruppo di Mangiafuoco. Inizia così la sua avventura che lo porterà dentro la pancia di una balena insieme a Geppetto, ma alla fine sarà trasformato in un bambino in carne e ossa...",
+      "poster_path": "/uI7p7I2c4iVf0jQaOlJdVQhu6Kz.jpg",
+      "release_date": "1940-02-23",
+      "runtime": 88,
+      "title": "Pinocchio",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "When the gentle woodcarver Geppetto builds a marionette to be his substitute son, a benevolent fairy brings the toy to life. The puppet, named Pinocchio, is not yet a human boy. He must earn the right to be real by proving that he is brave, truthful, and unselfish.",
+              "title": ""
             },
             "iso_639_1": "en"
           }
@@ -10454,6 +10559,39 @@
         ]
       }
     },
+    "1483908": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Jean-Gabriel Périot"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Documentario"
+        }
+      ],
+      "id": 1483908,
+      "original_title": "Une vie manifeste",
+      "overview": "",
+      "poster_path": "/qO2Kir2yyz2sr8j4UxXXhrsuLS.jpg",
+      "release_date": "2026-10-17",
+      "runtime": 86,
+      "title": "Une vie manifeste",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "The life of Michèle Firk — a trailblazing French journalist, film critic, aspiring director and communist activist involved in various liberation struggles in the second half of the 20th century — as told by narrator Alice Diop, modern day French director.",
+              "title": "A Life, A Manifesto"
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "1485975": {
       "credits": {
         "crew": [
@@ -12444,6 +12582,39 @@
         ]
       }
     },
+    "1616130": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Ruth Beckermann"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Documentario"
+        }
+      ],
+      "id": 1616130,
+      "original_title": "Wax & Gold",
+      "overview": "",
+      "poster_path": "/f9eRzaSG6W98i9sZhyT77LVsawF.jpg",
+      "release_date": "2026-02-15",
+      "runtime": 97,
+      "title": "Wax & Gold",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "Starting from a hotel in Addis Ababa built by Emperor Haile Selassie, Ruth Beckermann explores a place both familiar and foreign to her. Archive footage and conversations on the ground combine personal reflections with the histories of Ethiopia and Europe.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "1616189": {
       "credits": {
         "crew": [
@@ -12992,6 +13163,39 @@
         ]
       }
     },
+    "1670563": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Alain Cavalier"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Documentario"
+        }
+      ],
+      "id": 1670563,
+      "original_title": "Merci d'être venu",
+      "overview": "",
+      "poster_path": "/IfFdFMprWquDfJok7WqTJ7Y1an.jpg",
+      "release_date": "2026-11-25",
+      "runtime": 86,
+      "title": "Merci d'être venu",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "This is the story of a filmmaker. Alain Cavalier, always accompanied by his camera, continues to film life with passion, still learning about himself and, above all, about others. However, he is growing older and sees his speed, his vitality, his boldness, and his lightheartedness waning. With a slight lump in his throat but still laughing, he keeps a video diary of his farewell to cinema. This will be his last film.",
+              "title": "Thanks for Coming"
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "1674853": {
       "credits": {
         "crew": [
@@ -13015,6 +13219,39 @@
       "title": "Con la pioggia dentro",
       "translations": {
         "translations": []
+      }
+    },
+    "1675058": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Maria Guidone"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Documentario"
+        }
+      ],
+      "id": 1675058,
+      "original_title": "Frammenti terrestri offerti alla luce",
+      "overview": "Sotto il sole implacabile di un agosto livornese, il film segue Veronica, giovane donna intrappolata in una quotidianità stagnante, fatta di spazi chiusi e ritmi che si ripetono. In questo quadro sospeso, è il corpo a reagire, prima ancora della parola. Un pomeriggio al mare segna uno scarto inaspettato: una ferita tra gli scogli diventa l’innesco di una trasformazione. Da quel momento, il film segue Veronica in un percorso fisico e sensoriale, in cui il contatto con l’acqua, la luce e gli altri corpi apre una possibilità concreta di cambiamento. In questo senso, il film si afferma come profondamente queer, non tanto per una rigida definizione identitaria quanto per la sua capacità di mettere in crisi ogni forma stabilita, lasciando emergere il desiderio come forza mobile e trasformativa.",
+      "poster_path": "/62efuaxNU5eGWUdbnJsqUie3ID0.jpg",
+      "release_date": "2026-05-06",
+      "runtime": 25,
+      "title": "Frammenti terrestri offerti alla luce",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "A young woman’s loneliness is reflected in the sea, which offers her peace from a life that is not her own. A journey that blends fairy tale and documentary cinema.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
       }
     },
     "1678120": {
@@ -13434,6 +13671,43 @@
         "translations": []
       }
     },
+    "1712043": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Luca Schilirò"
+          },
+          {
+            "job": "Director",
+            "name": "Bruno Bigoni"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Documentario"
+        }
+      ],
+      "id": 1712043,
+      "original_title": "La Fata",
+      "overview": "",
+      "poster_path": "/79pjYo0AEtGFuEExHcWVYxy2JCf.jpg",
+      "release_date": "2026-06-09",
+      "runtime": 64,
+      "title": "La Fata",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "Isabella, a young dominatrix and digital sex worker, embraces, interprets, and brings to life fantasies that defy definition.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "171274": {
       "credits": {
         "crew": [
@@ -13814,6 +14088,43 @@
         ]
       }
     },
+    "1731354": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Peter Badel"
+          },
+          {
+            "job": "Director",
+            "name": "Chris Wright"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Documentario"
+        }
+      ],
+      "id": 1731354,
+      "original_title": "Übergang",
+      "overview": "",
+      "poster_path": "/mmbo3J0kQlSNshrXFZYyZ1dSfD4.jpg",
+      "release_date": "2026-11-19",
+      "runtime": 120,
+      "title": "Übergang",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "Renowned documentarian Thomas Heise begins a film on Berlin's Schönhauser Allee, the road he lived on for decades. A few months later, Heise dies unexpectedly.",
+              "title": "Transition"
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "1735283": {
       "credits": {
         "crew": [
@@ -13833,6 +14144,39 @@
       "title": "Yaar Jigree Kasooti Degree",
       "translations": {
         "translations": []
+      }
+    },
+    "1735606": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Bani Khoshnoudi"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Documentario"
+        }
+      ],
+      "id": 1735606,
+      "original_title": "Elegy for the Forgotten, on an Endless War",
+      "overview": "",
+      "poster_path": "/zUNvvbThp3x5KVXLGntchGauK3h.jpg",
+      "release_date": "2026-08-10",
+      "runtime": 23,
+      "title": "Elegy for the Forgotten, on an Endless War",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "Fourty years after the Iran–Iraq War bombs fall once again on Iran, weeks after street protests ended in the massacre of thousands of Iranians. While Israeli and American bombs fall, the regime keeps images under tight control. An endless war... of images.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
       }
     },
     "1735959": {
@@ -14448,6 +14792,39 @@
       "title": "Kintsugi… e sono la mia opera",
       "translations": {
         "translations": []
+      }
+    },
+    "1821193": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Elisabetta Falanga"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Documentario"
+        }
+      ],
+      "id": 1821193,
+      "original_title": "Storia di un bimbo mucca",
+      "overview": "",
+      "poster_path": "/lJFe1VD0ZqB8feSvarBF1QdEdGv.jpg",
+      "release_date": "2026-11-17",
+      "runtime": 87,
+      "title": "Storia di un bimbo mucca",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "Elisabetta Falanga sets out to reconstruct the childhood of her partner, Abido, in Morocco in order to understand his sudden return to religion. But their conversations end up exposing the prejudices and differences that run through their life as a couple.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
       }
     },
     "18415": {
@@ -30291,6 +30668,15 @@
         "title": "90 días para el 2 de Julio"
       }
     ],
+    "elegy for the forgotten on an endless war|": [
+      {
+        "id": 1735606,
+        "original_title": "Elegy for the Forgotten, on an Endless War",
+        "popularity": 0.3599,
+        "release_date": "2026-08-10",
+        "title": "Elegy for the Forgotten, on an Endless War"
+      }
+    ],
     "elettro muto vibes|": [],
     "elon musk uncovered the tesla experiment|": [
       {
@@ -31515,6 +31901,15 @@
       }
     ],
     "frammenti di sapienza|": [],
+    "frammenti terrestri offerti alla luce|": [
+      {
+        "id": 1675058,
+        "original_title": "Frammenti terrestri offerti alla luce",
+        "popularity": 0.4054,
+        "release_date": "2026-05-06",
+        "title": "Frammenti terrestri offerti alla luce"
+      }
+    ],
     "frammenti|": [
       {
         "id": 285820,
@@ -32655,6 +33050,148 @@
         "popularity": 79.4377,
         "release_date": "2026-09-24",
         "title": "Heart of the Beast - Nel profondo selvaggio"
+      }
+    ],
+    "heaven|": [
+      {
+        "id": 1495,
+        "original_title": "Kingdom of Heaven",
+        "popularity": 21.0996,
+        "release_date": "2005-05-06",
+        "title": "Le crociate - Kingdom of Heaven"
+      },
+      {
+        "id": 10575,
+        "original_title": "Heaven",
+        "popularity": 2.1665,
+        "release_date": "2002-02-06",
+        "title": "Heaven"
+      },
+      {
+        "id": 339984,
+        "original_title": "Miracles from Heaven",
+        "popularity": 4.5258,
+        "release_date": "2016-03-17",
+        "title": "Miracoli dal cielo"
+      },
+      {
+        "id": 1790312,
+        "original_title": "Heaven",
+        "popularity": 0.538,
+        "release_date": "2026-10-06",
+        "title": "Heaven"
+      },
+      {
+        "id": 737820,
+        "original_title": "Heaven",
+        "popularity": 0.8496,
+        "release_date": "2013-08-15",
+        "title": "Heaven"
+      },
+      {
+        "id": 1427184,
+        "original_title": "Queen - Heaven",
+        "popularity": 1.3423,
+        "release_date": "2001-12-13",
+        "title": "Queen - Heaven"
+      },
+      {
+        "id": 749159,
+        "original_title": "Heaven",
+        "popularity": 1.1925,
+        "release_date": "2020-10-02",
+        "title": "Heaven"
+      },
+      {
+        "id": 714260,
+        "original_title": "Heaven",
+        "popularity": 0.3774,
+        "release_date": "2015-06-14",
+        "title": "Heaven"
+      },
+      {
+        "id": 803445,
+        "original_title": "HEAVEN",
+        "popularity": 1.1259,
+        "release_date": "2021-03-07",
+        "title": "HEAVEN"
+      },
+      {
+        "id": 107254,
+        "original_title": "Cold Heaven",
+        "popularity": 1.7504,
+        "release_date": "1992-05-29",
+        "title": "Oscuri presagi"
+      },
+      {
+        "id": 675818,
+        "original_title": "Hoggs' Heaven",
+        "popularity": 1.1305,
+        "release_date": "1994-01-01",
+        "title": "Hoggs' Heaven"
+      },
+      {
+        "id": 1003177,
+        "original_title": "True Heaven",
+        "popularity": 1.4617,
+        "release_date": "1929-02-17",
+        "title": "True Heaven"
+      },
+      {
+        "id": 9007,
+        "original_title": "Just Like Heaven",
+        "popularity": 4.1039,
+        "release_date": "2006-04-14",
+        "title": "Se solo fosse vero"
+      },
+      {
+        "id": 734300,
+        "original_title": "Heaven",
+        "popularity": 0.8264,
+        "release_date": "2020-03-07",
+        "title": "Heaven"
+      },
+      {
+        "id": 189916,
+        "original_title": "Thank Heaven",
+        "popularity": 0.6959,
+        "release_date": "2001-01-01",
+        "title": "Thank Heaven"
+      },
+      {
+        "id": 42004,
+        "original_title": "Heaven",
+        "popularity": 0.4749,
+        "release_date": "1987-04-17",
+        "title": "Heaven"
+      },
+      {
+        "id": 204059,
+        "original_title": "Stolen Heaven",
+        "popularity": 1.6891,
+        "release_date": "1938-05-11",
+        "title": "Stolen Heaven"
+      },
+      {
+        "id": 532024,
+        "original_title": "Heaven",
+        "popularity": 0.9891,
+        "release_date": "2019-07-27",
+        "title": "Heaven"
+      },
+      {
+        "id": 1621115,
+        "original_title": "Under Heaven",
+        "popularity": 1.895,
+        "release_date": "2026-01-21",
+        "title": "Under Heaven"
+      },
+      {
+        "id": 1156324,
+        "original_title": "Heaven",
+        "popularity": 0.825,
+        "release_date": "2023-07-29",
+        "title": "Heaven"
       }
     ],
     "hen storia di una gallina|": [
@@ -36923,6 +37460,7 @@
         "title": "Paura nella città dei morti viventi"
       }
     ],
+    "la compagnia to be a b ee|": [],
     "la conversazione|": [
       {
         "id": 592,
@@ -37160,6 +37698,148 @@
         "popularity": 1.3696,
         "release_date": "2026-04-16",
         "title": "La donna più ricca del mondo"
+      }
+    ],
+    "la fata|": [
+      {
+        "id": 1712043,
+        "original_title": "La Fata",
+        "popularity": 0.9463,
+        "release_date": "2026-06-09",
+        "title": "La Fata"
+      },
+      {
+        "id": 681303,
+        "original_title": "Meine Chaosfee & Ich",
+        "popularity": 1.6238,
+        "release_date": "2022-10-13",
+        "title": "La fata combinaguai"
+      },
+      {
+        "id": 559101,
+        "original_title": "La Femme fatale",
+        "popularity": 0.368,
+        "release_date": "1946-04-12",
+        "title": "La Femme fatale"
+      },
+      {
+        "id": 1151308,
+        "original_title": "La Femme Fatale",
+        "popularity": 0.2691,
+        "release_date": "1912-01-01",
+        "title": "La Femme Fatale"
+      },
+      {
+        "id": 1563647,
+        "original_title": "La Note Fatale",
+        "popularity": 0.1721,
+        "release_date": "2025-03-03",
+        "title": "La Note Fatale"
+      },
+      {
+        "id": 1423096,
+        "original_title": "Francisca, la mujer fatal",
+        "popularity": 0.2084,
+        "release_date": "1934-01-01",
+        "title": "Francisca, la mujer fatal"
+      },
+      {
+        "id": 992724,
+        "original_title": "La donna fatale",
+        "popularity": 0.0174,
+        "release_date": "1910-01-01",
+        "title": "La donna fatale"
+      },
+      {
+        "id": 72016,
+        "original_title": "バトルファイターズ 餓狼伝説2",
+        "popularity": 2.958,
+        "release_date": "1993-06-30",
+        "title": "Fatal Fury 2: La sfida di Wolfgang Krauser"
+      },
+      {
+        "id": 868669,
+        "original_title": "La beauté, fatale et féroce",
+        "popularity": 0.4293,
+        "release_date": "1996-04-13",
+        "title": "La beauté, fatale et féroce"
+      },
+      {
+        "id": 74607,
+        "original_title": "Adhémar ou le jouet de la fatalité",
+        "popularity": 0.6512,
+        "release_date": "1951-09-14",
+        "title": "Adhémar ou le jouet de la fatalité"
+      },
+      {
+        "id": 72015,
+        "original_title": "バトルファイターズ餓狼伝説",
+        "popularity": 1.2418,
+        "release_date": "1992-12-23",
+        "title": "Fatal Fury: La leggenda del lupo famelico"
+      },
+      {
+        "id": 911468,
+        "original_title": "El bolillo fatal o el emblema de la muerte",
+        "popularity": 0.2613,
+        "release_date": "1927-12-04",
+        "title": "El bolillo fatal o el emblema de la muerte"
+      },
+      {
+        "id": 125083,
+        "original_title": "Motýlí čas",
+        "popularity": 0.472,
+        "release_date": "1991-09-01",
+        "title": "La farfalla fatata"
+      },
+      {
+        "id": 962759,
+        "original_title": "KEMI : La Fatalité entre Responsabilité et Destin",
+        "popularity": 0.0122,
+        "release_date": "2017-04-01",
+        "title": "KEMI : La Fatalité entre Responsabilité et Destin"
+      },
+      {
+        "id": 81219,
+        "original_title": "Życie jako śmiertelna choroba przenoszona drogą płciową",
+        "popularity": 0.5986,
+        "release_date": "2000-09-08",
+        "title": "La vita come malattia sessuale fatalmente trasmessa"
+      },
+      {
+        "id": 1587195,
+        "original_title": "Forgiveness Girl",
+        "popularity": 2.1561,
+        "release_date": "2025-11-24",
+        "title": "Forgiveness Girl"
+      },
+      {
+        "id": 103658,
+        "original_title": "Ambulance Girl",
+        "popularity": 0.7555,
+        "release_date": "2005-09-12",
+        "title": "Ambulance Girl"
+      },
+      {
+        "id": 740537,
+        "original_title": "A la cara",
+        "popularity": 0.1938,
+        "release_date": "2020-05-25",
+        "title": "A la cara"
+      },
+      {
+        "id": 116588,
+        "original_title": "Pueblerina",
+        "popularity": 0.3399,
+        "release_date": "1949-07-06",
+        "title": "Dimenticati da Dio"
+      },
+      {
+        "id": 842169,
+        "original_title": "Girl Next",
+        "popularity": 0.6029,
+        "release_date": "2021-06-18",
+        "title": "Girl Next"
       }
     ],
     "la festa e finita the party s over|": [
@@ -41035,6 +41715,22 @@
         "popularity": 0.7787,
         "release_date": "1991-01-01",
         "title": "Memory Screen"
+      }
+    ],
+    "merci d etre venu|": [
+      {
+        "id": 1670563,
+        "original_title": "Merci d'être venu",
+        "popularity": 0.705,
+        "release_date": "2026-11-25",
+        "title": "Merci d'être venu"
+      },
+      {
+        "id": 1550979,
+        "original_title": "MERCI D'ÊTRE VENUS !",
+        "popularity": 0.1289,
+        "release_date": "2025-09-03",
+        "title": "MERCI D'ÊTRE VENUS !"
       }
     ],
     "messalina|": [
@@ -45647,6 +46343,148 @@
         "popularity": 0.071,
         "release_date": "1987-08-07",
         "title": "Pink Floyd: Hangar Rehearsals"
+      }
+    ],
+    "pinocchio|": [
+      {
+        "id": 1232569,
+        "original_title": "Pinocchio: Unstrung",
+        "popularity": 118.9038,
+        "release_date": "2026-08-26",
+        "title": "Pinocchio: Unstrung"
+      },
+      {
+        "id": 10895,
+        "original_title": "Pinocchio",
+        "popularity": 9.5023,
+        "release_date": "1947-11-05",
+        "title": "Pinocchio"
+      },
+      {
+        "id": 532639,
+        "original_title": "Pinocchio",
+        "popularity": 5.8674,
+        "release_date": "2022-09-08",
+        "title": "Pinocchio"
+      },
+      {
+        "id": 10599,
+        "original_title": "Pinocchio",
+        "popularity": 1.4176,
+        "release_date": "2002-10-11",
+        "title": "Pinocchio"
+      },
+      {
+        "id": 246790,
+        "original_title": "Pinocchio",
+        "popularity": 2.0171,
+        "release_date": "2013-12-24",
+        "title": "Pinocchio"
+      },
+      {
+        "id": 23056,
+        "original_title": "Pinocchio 3000",
+        "popularity": 1.7814,
+        "release_date": "2006-01-06",
+        "title": "P3K - Pinocchio 3000"
+      },
+      {
+        "id": 489453,
+        "original_title": "Pinocchio",
+        "popularity": 1.4024,
+        "release_date": "1968-12-08",
+        "title": "Pinocchio"
+      },
+      {
+        "id": 413518,
+        "original_title": "Pinocchio",
+        "popularity": 2.5444,
+        "release_date": "2019-12-19",
+        "title": "Pinocchio"
+      },
+      {
+        "id": 134434,
+        "original_title": "Pinocchio",
+        "popularity": 0.5807,
+        "release_date": "1992-05-11",
+        "title": "Pinocchio"
+      },
+      {
+        "id": 949893,
+        "original_title": "Pinocchio",
+        "popularity": 0.7418,
+        "release_date": "2021-12-07",
+        "title": "Pinocchio"
+      },
+      {
+        "id": 33821,
+        "original_title": "Pinocchio",
+        "popularity": 0.861,
+        "release_date": "2009-11-01",
+        "title": "Pinocchio"
+      },
+      {
+        "id": 423030,
+        "original_title": "Pinocchio",
+        "popularity": 0.8958,
+        "release_date": "1984-05-14",
+        "title": "Pinocchio"
+      },
+      {
+        "id": 365851,
+        "original_title": "Pinocchio",
+        "popularity": 0.6965,
+        "release_date": "2015-12-25",
+        "title": "Pinocchio"
+      },
+      {
+        "id": 131098,
+        "original_title": "Pinocchio",
+        "popularity": 0.7094,
+        "release_date": "1976-03-27",
+        "title": "Pinocchio"
+      },
+      {
+        "id": 555604,
+        "original_title": "Guillermo del Toro's Pinocchio",
+        "popularity": 6.993,
+        "release_date": "2022-12-04",
+        "title": "Pinocchio di Guillermo del Toro"
+      },
+      {
+        "id": 136619,
+        "original_title": "Pinocchio",
+        "popularity": 0.7922,
+        "release_date": "2012-11-13",
+        "title": "Pinocchio"
+      },
+      {
+        "id": 1317663,
+        "original_title": "Pinocchio",
+        "popularity": 0.6911,
+        "release_date": "2010-11-30",
+        "title": "Pinocchio"
+      },
+      {
+        "id": 1603031,
+        "original_title": "Pinocchio",
+        "popularity": 0.2914,
+        "release_date": "1978-12-03",
+        "title": "Pinocchio"
+      },
+      {
+        "id": 1419265,
+        "original_title": "Pinocchio Unmasked",
+        "popularity": 1.3277,
+        "release_date": "",
+        "title": "Pinocchio Unmasked"
+      },
+      {
+        "id": 1480671,
+        "original_title": "Pinocchio Reborn",
+        "popularity": 0.9449,
+        "release_date": "2024-10-16",
+        "title": "Pinocchio Reborn"
       }
     ],
     "playtime|": [
@@ -50490,6 +51328,15 @@
         "title": "Storia di mia moglie"
       }
     ],
+    "storia di un bimbo mucca|": [
+      {
+        "id": 1821193,
+        "original_title": "Storia di un bimbo mucca",
+        "popularity": 0.1941,
+        "release_date": "2026-11-17",
+        "title": "Storia di un bimbo mucca"
+      }
+    ],
     "storia di una mistress|": [],
     "strange journey the story of rocky horror|": [
       {
@@ -54720,6 +55567,71 @@
     "twin peaks stag 03 ep 13 e 14|": [],
     "twin peaks stag 03 ep 9 e 10|": [],
     "twin peaks stagione 2 ep 1|": [],
+    "ubergang|": [
+      {
+        "id": 601519,
+        "original_title": "Der Übergang",
+        "popularity": 1.2924,
+        "release_date": "1978-09-08",
+        "title": "Der Übergang"
+      },
+      {
+        "id": 1731354,
+        "original_title": "Übergang",
+        "popularity": 0.4978,
+        "release_date": "2026-11-19",
+        "title": "Übergang"
+      },
+      {
+        "id": 1027074,
+        "original_title": "Übergang - Xbuk Alo?",
+        "popularity": 0.0122,
+        "release_date": "2022-10-01",
+        "title": "Übergang - Xbuk Alo?"
+      },
+      {
+        "id": 285061,
+        "original_title": "Der Übergang über den Ebro",
+        "popularity": 0.3748,
+        "release_date": "1970-05-11",
+        "title": "Der Übergang über den Ebro"
+      },
+      {
+        "id": 882246,
+        "original_title": "Im Übergang – Protokoll einer Hoffnung",
+        "popularity": 0.1905,
+        "release_date": "1991-10-01",
+        "title": "Im Übergang – Protokoll einer Hoffnung"
+      },
+      {
+        "id": 1522696,
+        "original_title": "...unter anderem Schwarze Pumpe",
+        "popularity": 0.2376,
+        "release_date": "1956-06-04",
+        "title": "...unter anderem Schwarze Pumpe"
+      },
+      {
+        "id": 482222,
+        "original_title": "Die Übergangsgesellschaft",
+        "popularity": 0.1492,
+        "release_date": "1990-11-04",
+        "title": "Die Übergangsgesellschaft"
+      },
+      {
+        "id": 77444,
+        "original_title": "The Corridor",
+        "popularity": 0.588,
+        "release_date": "2012-03-30",
+        "title": "The Corridor"
+      },
+      {
+        "id": 93077,
+        "original_title": "Rites of Passage",
+        "popularity": 1.0678,
+        "release_date": "2012-04-24",
+        "title": "Rites of Passage"
+      }
+    ],
     "ubriaco d amore|": [
       {
         "id": 8051,
@@ -55308,6 +56220,15 @@
         "title": "Una su 13"
       }
     ],
+    "une vie manifeste|": [
+      {
+        "id": 1483908,
+        "original_title": "Une vie manifeste",
+        "popularity": 0.5622,
+        "release_date": "2026-10-17",
+        "title": "Une vie manifeste"
+      }
+    ],
     "v o sott ita amarga navidad|": [],
     "va sentiero|": [],
     "vaghe stelle dell orsa|": [
@@ -55777,6 +56698,148 @@
         "popularity": 0.0,
         "release_date": "2007-03-20",
         "title": "My Frontier Is an Endless Wall of Points"
+      }
+    ],
+    "wax|": [
+      {
+        "id": 10066,
+        "original_title": "House of Wax",
+        "popularity": 7.0108,
+        "release_date": "2005-05-27",
+        "title": "La maschera di cera"
+      },
+      {
+        "id": 18573,
+        "original_title": "House of Wax",
+        "popularity": 2.8432,
+        "release_date": "1953-10-29",
+        "title": "La maschera di cera"
+      },
+      {
+        "id": 245622,
+        "original_title": "Black Wax",
+        "popularity": 1.2389,
+        "release_date": "1983-01-12",
+        "title": "Black Wax"
+      },
+      {
+        "id": 211258,
+        "original_title": "Wax",
+        "popularity": 0.5879,
+        "release_date": "2018-08-09",
+        "title": "Wax - Il museo delle cere"
+      },
+      {
+        "id": 1616130,
+        "original_title": "Wax & Gold",
+        "popularity": 0.943,
+        "release_date": "2026-02-15",
+        "title": "Wax & Gold"
+      },
+      {
+        "id": 690170,
+        "original_title": "Wax & Gold",
+        "popularity": 0.4991,
+        "release_date": "2020-02-11",
+        "title": "Wax & Gold"
+      },
+      {
+        "id": 610032,
+        "original_title": "Wax",
+        "popularity": 0.1285,
+        "release_date": "2013-04-10",
+        "title": "Wax"
+      },
+      {
+        "id": 1572256,
+        "original_title": "Lost Wax",
+        "popularity": 0.449,
+        "release_date": "2025-10-17",
+        "title": "Lost Wax"
+      },
+      {
+        "id": 1634897,
+        "original_title": "HOT WAX",
+        "popularity": 0.5102,
+        "release_date": "2026-01-30",
+        "title": "HOT WAX"
+      },
+      {
+        "id": 1119152,
+        "original_title": "Wax",
+        "popularity": 0.0122,
+        "release_date": "",
+        "title": "Wax"
+      },
+      {
+        "id": 1187208,
+        "original_title": "Wax",
+        "popularity": 0.0122,
+        "release_date": "",
+        "title": "Wax"
+      },
+      {
+        "id": 161743,
+        "original_title": "California Hot Wax",
+        "popularity": 0.425,
+        "release_date": "1992-01-01",
+        "title": "California Hot Wax"
+      },
+      {
+        "id": 174501,
+        "original_title": "Wax Works",
+        "popularity": 0.0856,
+        "release_date": "1934-06-24",
+        "title": "Wax Works"
+      },
+      {
+        "id": 42198,
+        "original_title": "American Hot Wax",
+        "popularity": 0.9991,
+        "release_date": "1978-03-17",
+        "title": "American Hot Wax"
+      },
+      {
+        "id": 1282274,
+        "original_title": "Dead Wax",
+        "popularity": 0.0582,
+        "release_date": "2024-05-06",
+        "title": "Dead Wax"
+      },
+      {
+        "id": 622505,
+        "original_title": "Butch Wax",
+        "popularity": 0.248,
+        "release_date": "1994-01-01",
+        "title": "Butch Wax"
+      },
+      {
+        "id": 27496,
+        "original_title": "Nightmare in Wax",
+        "popularity": 0.5179,
+        "release_date": "1969-05-14",
+        "title": "Nightmare in Wax"
+      },
+      {
+        "id": 1634440,
+        "original_title": "Wax Girl",
+        "popularity": 0.1242,
+        "release_date": "",
+        "title": "Wax Girl"
+      },
+      {
+        "id": 32652,
+        "original_title": "Mystery of the Wax Museum",
+        "popularity": 1.3551,
+        "release_date": "1933-02-18",
+        "title": "La maschera di cera"
+      },
+      {
+        "id": 1000263,
+        "original_title": "Wax and Wane",
+        "popularity": 0.2913,
+        "release_date": "2022-07-28",
+        "title": "Wax and Wane"
       }
     ],
     "we are aliens|": [
