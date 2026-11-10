@@ -1,74 +1,5 @@
 [
   {
-    "tmdb_id": 1735959,
-    "title": "Carla Lonzi - Dentro e fuori dal mondo",
-    "original_title": "Carla Lonzi - Dentro e fuori dal mondo",
-    "italian_title": "Carla Lonzi - Dentro e fuori dal mondo",
-    "year": 2026,
-    "poster_path": "/xoZsnMCVVO1pWRSUbaJHzTjBCi6.jpg",
-    "overview": "Accanto alla figura pubblica di Carla Lonzi, considerata così intransigente, c’è da raccontare anche la figura privata, affascinante e contraddittoria. La dolcezza e la fragilità esistenziale, la dipendenza dal compagno, cioè dall’uomo, il suo legame complesso con la maternità, il doloroso rapporto con le altre donne, nello sbudellamento collettivo che è stata la pratica dell’autocoscienza. Attraverso archivi preziosi e inediti, la regista Francesca Archibugi, che ha un forte legame personale con Lonzi, porta per la prima volta sullo schermo la sua storia pubblica e privata, il suo pensiero e la sua eredità, fondamentali per capire ciò che le donne di tutto il mondo stanno, ancora oggi, vivendo e combattendo.",
-    "title_en": "Carla Lonzi, A Feminist Story",
-    "overview_en": "Alongside the public figure Carla Lonzi, considered to be so uncompromising, there is much to say about her private side, as fascinating as it was contradictory. There’s her tenderness and emotional fragility, her dependence on her partner, hence on a man; her complicated feelings about motherhood; and strained relationships with other women in the practice of collective harikiri called “consciousness-raising”. Drawing on invaluable, unreleased archive material, the filmmaker Francesca Archibugi, who was very close to Lonzi, brings her public life and private story, her ideas, and her legacy to the screen for the first time. These are key to understanding what women around the world are still going through and fighting for.",
-    "runtime": 90,
-    "director": "Francesca Archibugi",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 891621,
-    "title": "Wild Horse Nine",
-    "original_title": "Wild Horse Nine",
-    "italian_title": "Wild Horse Nine",
-    "year": 2026,
-    "poster_path": "/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
-    "overview": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
-    "title_en": "Wild Horse Nine",
-    "overview_en": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
-    "runtime": 117,
-    "director": "Martin McDonagh",
-    "genres": [
-      "Commedia",
-      "Crime",
-      "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1248832,
-    "title": "Digger",
-    "original_title": "Digger",
-    "italian_title": "Digger",
-    "year": 2026,
-    "poster_path": "/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
-    "overview": "Su richiesta del presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
-    "title_en": "Digger",
-    "overview_en": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-    "runtime": 129,
-    "director": "Alejandro G. Iñárritu",
-    "genres": [
-      "Commedia",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 791523,
-    "title": "Wildwood - I segreti del bosco proibito",
-    "original_title": "Wildwood",
-    "italian_title": "Wildwood - I segreti del bosco proibito",
-    "year": 2026,
-    "poster_path": "/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
-    "overview": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
-    "title_en": "Wildwood",
-    "overview_en": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-    "runtime": 132,
-    "director": "Travis Knight",
-    "genres": [
-      "Animazione",
-      "Avventura",
-      "Fantasy"
-    ]
-  },
-  {
     "tmdb_id": 1651347,
     "title": "Minotaur",
     "original_title": "Minotaur",
@@ -172,6 +103,24 @@
     ]
   },
   {
+    "tmdb_id": 891621,
+    "title": "Wild Horse Nine",
+    "original_title": "Wild Horse Nine",
+    "italian_title": "Wild Horse Nine",
+    "year": 2026,
+    "poster_path": "/og5qagWp4ZqVl28nbBwiBHZprJM.jpg",
+    "overview": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
+    "title_en": "Wild Horse Nine",
+    "overview_en": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+    "runtime": 117,
+    "director": "Martin McDonagh",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 1074074,
     "title": "L'essere amato",
     "original_title": "El ser querido",
@@ -185,6 +134,24 @@
     "director": "Rodrigo Sorogoyen",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 791523,
+    "title": "Wildwood - I segreti del bosco proibito",
+    "original_title": "Wildwood",
+    "italian_title": "Wildwood - I segreti del bosco proibito",
+    "year": 2026,
+    "poster_path": "/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
+    "overview": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
+    "title_en": "Wildwood",
+    "overview_en": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "runtime": 132,
+    "director": "Travis Knight",
+    "genres": [
+      "Animazione",
+      "Avventura",
+      "Fantasy"
     ]
   },
   {
@@ -239,6 +206,23 @@
     ]
   },
   {
+    "tmdb_id": 1483525,
+    "title": "Possible Love",
+    "original_title": "가능한 사랑",
+    "italian_title": "Possible Love",
+    "year": 2026,
+    "poster_path": "/uPOpXBUMtMslIBAxldQwJwBQkad.jpg",
+    "overview": "Un operaio licenziato e sua moglie incontrano una regista di documentari e suo marito, e si ritrovano a confrontarsi con i loro desideri nascosti.",
+    "title_en": "Possible Love",
+    "overview_en": "Working-class An Mi Ok and Choi Ho Seok, who have been together since middle school and are the parents of a taciturn 10-year-old, are still reckoning with the fallout from Ho Seok’s firing from his factory job after a violently suppressed labor union strike. The well-off Lee Ye Ji, a documentary filmmaker, with her businessman husband, Sang-woo, has decided to make a movie about job layoffs and wants to make Mi-Ok and Ho-Seok her main camera subjects.",
+    "runtime": 167,
+    "director": "Lee Chang-dong",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
     "tmdb_id": 1708220,
     "title": "La vita segreta dei giocattoli",
     "original_title": "La vita segreta dei giocattoli",
@@ -251,6 +235,22 @@
     "runtime": 62,
     "director": "Alexandra D'Onofrio, Sara Zavarise",
     "genres": []
+  },
+  {
+    "tmdb_id": 1401459,
+    "title": "Fjord",
+    "original_title": "Fjord",
+    "italian_title": "Fjord",
+    "year": 2026,
+    "poster_path": "/e6qR7qbqxe66vh2ONZ8d5pCphA6.jpg",
+    "overview": "Una famiglia rumeno-norvegese profondamente religiosa si trasferisce in un remoto villaggio tra i fiordi della Norvegia per ricominciare una nuova vita. Quando la figlia maggiore arriva a scuola con alcuni lividi, la comunità e le autorità iniziano a sospettare che l'educazione tradizionale impartita dai genitori possa nascondere abusi. Ne nasce un intenso dramma giudiziario e morale che mette a confronto valori, fede, identità culturale e i limiti della tolleranza.",
+    "title_en": "Fjord",
+    "overview_en": "After moving from Romania to a remote Norwegian village to rebuild their lives, a family finds hope in their welcoming neighbors, but their fragile new beginning is threatened when their young daughter arrives at school covered in bruises.",
+    "runtime": 146,
+    "director": "Cristian Mungiu",
+    "genres": [
+      "Dramma"
+    ]
   },
   {
     "tmdb_id": 1726926,
@@ -267,106 +267,6 @@
     "genres": [
       "Documentario",
       "Musica"
-    ]
-  },
-  {
-    "tmdb_id": 764,
-    "title": "La casa",
-    "original_title": "The Evil Dead",
-    "italian_title": "La casa",
-    "year": 1983,
-    "poster_path": "/vxen8SpqtQlvIo7M113CEAbvRd3.jpg",
-    "overview": "Un gruppo di amici va in una sperduta casupola nei boschi del Tennessee per trascorrere un’amena vacanza, ma inavvertitamente scatena un’orda di demoni leggendo un antico libro trovato abbandonato. Le avvisaglie che qualcosa non va si manifestano quando una delle ragazze, Cheryl, avventuratasi fuori nella notte, viene violentata da una pianta. Le cose peggiorano in modo esponenziale e uno dei ragazzi, Ash, cerca di prendere in mano la situazione.",
-    "title_en": "The Evil Dead",
-    "overview_en": "In 1979, a group of college students find a Sumerian Book of the Dead in an old wilderness cabin they've rented for a weekend getaway.",
-    "runtime": 85,
-    "director": "Sam Raimi",
-    "genres": [
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 242224,
-    "title": "Babadook",
-    "original_title": "The Babadook",
-    "italian_title": "Babadook",
-    "year": 2014,
-    "poster_path": "/7jkDAK1axdu5QPkISlehOyEVw37.jpg",
-    "overview": "Sono sei anni che è morto il marito di Amelia e sei anni che è nato Samuel, il suo unico figlio, cresciuto senza padre da una madre single in grandi difficoltà economiche e distrutta dallo stress causato dalla sua iperattività. Il bambino non dorme bene, la tiene sveglia, spaventa i compagni, si fa riprendere a scuola, è violento, non ha molti amici per via di un temperamento esagitato e la stessa madre arriva quasi ad odiarlo. Le cose non migliorano quando nella loro vita si materializza un libro di favole diverso dagli altri, molto nero, cupo e spaventoso che viene prontamente messo via dopo la prima lettura ma continua a ripresentarsi fino a che la sua storia di un uomo nero che ti entra dentro fino a condizionarti non comincia lentamente ad avverarsi e intrappola i due nella loro stessa casa.",
-    "title_en": "The Babadook",
-    "overview_en": "A grieving single mother and her child fall into a deep well of paranoia when an eerie children's book manifests in their home.",
-    "runtime": 93,
-    "director": "Jennifer Kent",
-    "genres": [
-      "Dramma",
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 1606533,
-    "title": "Giulio Regeni: Tutto Il Male Del Mondo",
-    "original_title": "Giulio Regeni: Tutto Il Male Del Mondo",
-    "italian_title": "Giulio Regeni: Tutto Il Male Del Mondo",
-    "year": 2026,
-    "poster_path": "/5lnDD2sFErBF27j3NM5rSdhLXTI.jpg",
-    "overview": "Simone Manetti dall’inizio del processo sta filmando tutte le udienze e seguendo in aula i genitori di Giulio, Paola Deffendi e Claudio Regeni e l’Avvocata Alessandra Ballerini, che, con il supporto del “popolo giallo” e della “scorta mediatica” stanno cercando di ottenere una verità processuale. La drammatica vicenda del giovane ricercatore italiano rapito, torturato e ucciso in Egitto tra il 25 gennaio e il 3 febbraio 2016, che ha fatto il giro del mondo, e ha coinvolto coscienze e modificato leggi e giurisprudenza, da sei mesi ha iniziato a trovare finalmente spazio anche nelle aule di tribunale. 103 mesi di depistaggi, colpi di scena e segreti che dall’inizio del 2024 vengono analizzati nel processo in Corte d’Assise che si sta svolgendo presso il Tribunale di Roma. Una vicenda tragica e cruenta che ha coinvolto alte sfere della politica egiziana, italiana e internazionale, sollevando la mai risolta questione: può, la ragione di Stato prevalere sulle ragioni della Giustizia?",
-    "title_en": "Giulio Regeni: All The Evil In The World",
-    "overview_en": "The events related to the death of Giulio Regeni, kidnapped, tortured and killed in Egypt, with the reconstruction of his family and lawyer Alessandra Ballerini, showing the stages of the kidnapping, the torture and killing.",
-    "runtime": 96,
-    "director": "Simone Manetti",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 480493,
-    "title": "NYsferatu - Symphony of a Century",
-    "original_title": "NYsferatu - Symphony of a Century",
-    "italian_title": "NYsferatu - Symphony of a Century",
-    "year": 2017,
-    "poster_path": "/jHhFPzF3twrwy31jjsQTiXsVwjv.jpg",
-    "overview": "Andrea Mastrovito immagina, a novant’anni di distanza, un remake di Nosferatu, capolavoro di Friedrich Wilhelm Murnau, uscito nel 1922 e ispirato al Dracula letterario di Bram Stoker. Ambientato a New York, nel 2017.",
-    "title_en": "NYsferatu - Symphony of a Century",
-    "overview_en": null,
-    "runtime": 67,
-    "director": "Andrea Mastrovito",
-    "genres": [
-      "Animazione"
-    ]
-  },
-  {
-    "tmdb_id": 1471672,
-    "title": "The Fall of Sir Douglas Weatherford",
-    "original_title": "The Fall of Sir Douglas Weatherford",
-    "italian_title": "The Fall of Sir Douglas Weatherford",
-    "year": 2026,
-    "poster_path": "/umKvuPWAXEUz9Mz8f23x5fHlW18.jpg",
-    "overview": null,
-    "title_en": "The Fall of Sir Douglas Weatherford",
-    "overview_en": "In the Scottish village of Arberloch, Kenneth, a grieving tour guide, is devoted to preserving the legacy of the town's sole historical figure—eighteenth-century inventor Sir Douglas Weatherford. But when a fantasy series chooses Arberloch as its filming location, and the town turns its back on Weatherford in favour of fan culture, Kenneth descends into madness.",
-    "runtime": 95,
-    "director": "Sean Dunn",
-    "genres": [
-      "Dramma",
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1245399,
-    "title": "Hola Frida!",
-    "original_title": "Hola Frida!",
-    "italian_title": "Hola Frida!",
-    "year": 2025,
-    "poster_path": "/nbGkOwaxnqINpbNVkLw0QnIx5DV.jpg",
-    "overview": null,
-    "title_en": "Hola Frida!",
-    "overview_en": "It’s the story of a little girl who is different. Her world is Coyoacan, Mexico City. Sparkling, vibrant, everything interests her and when difficulties arise, she faces them with an overflowing imagination. This little girl is called Frida Kahlo.",
-    "runtime": 82,
-    "director": "Karine Vézina, André Kadi",
-    "genres": [
-      "Animazione",
-      "Famiglia",
-      "Storia"
     ]
   },
   {
@@ -1113,6 +1013,55 @@
     ]
   },
   {
+    "tmdb_id": 1814368,
+    "title": "Odio",
+    "original_title": "Odio",
+    "italian_title": "Odio",
+    "year": 1933,
+    "poster_path": "/9W1r0Z2uo3Il7LjSPeLBbfoyEjb.jpg",
+    "overview": null,
+    "title_en": "Hatred",
+    "overview_en": "In Galicia, Octavia, a woman ostracised by society after being raped by a wealthy emigrant, raises her son Luis in bitterness and isolation. Twenty years later, as Luis falls in love with a young woman bound for Argentina, a life-threatening act of sacrifice forces Octavia to confront her past and rediscover the love she had long been unable to give.",
+    "runtime": 115,
+    "director": "Richard Harlan",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1788418,
+    "title": "La stanza degli altri",
+    "original_title": "La stanza degli altri",
+    "italian_title": "La stanza degli altri",
+    "year": 2026,
+    "poster_path": null,
+    "overview": null,
+    "title_en": "La stanza degli altri",
+    "overview_en": "Mietta, a retired woman in her seventies living alone in Milan, opens her home to Ibu, a Senegalese friend, and his pregnant wife, Bousso. What was meant to be temporary accommodation becomes a long-term arrangement, as their son Khadim grows up alongside them. Over the years, tensions and differences challenge their domestic balance, but also create the possibility of building a family beyond blood ties.",
+    "runtime": 79,
+    "director": "Enrico Maisto",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 7515,
+    "title": "London",
+    "original_title": "London",
+    "italian_title": "London",
+    "year": 2005,
+    "poster_path": "/zvNHklUZcrwdN8xpL7Vsqedru5l.jpg",
+    "overview": "Syd è sconvolto dopo la fine della sua relazione con la bella e sexy London, così si distrugge con il consumo di alcool e sostanze stupefacenti. Quando verrà a sapere che la ragazza intende lasciare la città, farà di tutto per impedirglielo, presentandosi alla festa di addio che le hanno organizzato i suoi amici.",
+    "title_en": "London",
+    "overview_en": "London is a drug laden adventure that centers on a party in a New York loft where a young man is trying to win back his ex-girlfriend.",
+    "runtime": 92,
+    "director": "Hunter Richards",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
     "tmdb_id": 41876,
     "title": "La caduta degli dei",
     "original_title": "La caduta degli dei",
@@ -1148,6 +1097,84 @@
     ]
   },
   {
+    "tmdb_id": 1171376,
+    "title": "Dentro",
+    "original_title": "Dentro",
+    "italian_title": "Dentro",
+    "year": 2022,
+    "poster_path": "/qdPX9cO4n8y63cD5KAHs32UaOs6.jpg",
+    "overview": null,
+    "title_en": "Inside",
+    "overview_en": "Increasingly isolated, a boy seeks to free himself. For that, he will face emptiness and pain and will have unbelievable experiences.",
+    "runtime": 10,
+    "director": "Isadora Maia, Rodrigo Urbano",
+    "genres": []
+  },
+  {
+    "tmdb_id": 1778572,
+    "title": "Selfie - Lato B",
+    "original_title": "Selfie - Lato B",
+    "italian_title": "Selfie - Lato B",
+    "year": 2026,
+    "poster_path": "/lI77Pc9jsnINwomW1vGRHV1NjhU.jpg",
+    "overview": null,
+    "title_en": "Selfie: The Possible Lives",
+    "overview_en": "Ten years after Selfie (2019), Ferrante goes back to Rione Traiano in Naples diving in the frames that were cut out. He finds a choir of vital and restless teenagers, and asks himself not what kind of the life did they had, but what kind of life they could've had.",
+    "runtime": 79,
+    "director": "Agostino Ferrente",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 33,
+    "title": "Gli spietati",
+    "original_title": "Unforgiven",
+    "italian_title": "Gli spietati",
+    "year": 1992,
+    "poster_path": "/sorJusK8R693wst3JrqjW6VPIwl.jpg",
+    "overview": "William Munny è un ex fuorilegge dal passato leggendario, ma da diversi anni ha deciso di dedicarsi alla famiglia e fare l'allevatore. Con la morte della moglie la situazione domestica si fa sempre più difficile, e per questo decide di accettare la proposta di un giovane pistolero: uccidere due cowboy che hanno sfregiato una prostituta e incassare la taglia.",
+    "title_en": "Unforgiven",
+    "overview_en": "William Munny is a retired, once-ruthless killer turned gentle widower and hog farmer. To help support his two motherless children, he accepts one last bounty-hunter mission to find the men who brutalized a prostitute. Joined by his former partner and a cocky greenhorn, he takes on a corrupt sheriff.",
+    "runtime": 130,
+    "director": "Clint Eastwood",
+    "genres": [
+      "Western"
+    ]
+  },
+  {
+    "tmdb_id": 1182047,
+    "title": "The Apprentice - Alle origini di Trump",
+    "original_title": "The Apprentice",
+    "italian_title": "The Apprentice - Alle origini di Trump",
+    "year": 2024,
+    "poster_path": "/6grr0mReJn8JCszzGdHcYvlxaHh.jpg",
+    "overview": "New York, anni '70. Determinato a uscire dall'ombra del potente padre e a farsi un nome nel settore immobiliare di Manhattan, l’aspirante magnate Donald J. Trump agli inizi della sua carriera incontra l'uomo che diventerà una delle figure più importanti della sua vita: il faccendiere Roy Cohn. Vedendo del potenziale in Trump, il controverso avvocato — che aveva ottenuto le condanne per spionaggio contro Julius ed Ethel Rosenberg e aveva investigato sui sospetti comunisti insieme al senatore McCarthy — insegna al suo nuovo allievo come accumulare ricchezza e potere con l'inganno, l'intimidazione e la manipolazione mediatica.  Il resto è storia.",
+    "title_en": "The Apprentice",
+    "overview_en": "A young Donald Trump, eager to make his name as a hungry scion of a wealthy family in 1970s New York, comes under the spell of Roy Cohn, the cutthroat attorney who would help create the Donald Trump we know today. Cohn sees in Trump the perfect protégé—someone with raw ambition, a hunger for success, and a willingness to do whatever it takes to win.",
+    "runtime": 120,
+    "director": "Ali Abbasi",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1154730,
+    "title": "La Gradiva",
+    "original_title": "La Gradiva",
+    "italian_title": "La Gradiva",
+    "year": 2026,
+    "poster_path": "/aFrhFiIhdf2klvXq8VFcB06b5pS.jpg",
+    "overview": null,
+    "title_en": "La Gradiva",
+    "overview_en": "Amid the ancient ruins of Pompeii, a group of French teenagers on a class trip to Naples grapple with anxiety and exhilaration ahead of their high school graduation.",
+    "runtime": 145,
+    "director": "Marine Atlan",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1438966,
     "title": "Je so’ pazzo",
     "original_title": "Je so’ pazzo",
@@ -1162,6 +1189,23 @@
     "genres": [
       "Dramma",
       "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 1248832,
+    "title": "Digger",
+    "original_title": "Digger",
+    "italian_title": "Digger",
+    "year": 2026,
+    "poster_path": "/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
+    "overview": "Su richiesta del presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
+    "title_en": "Digger",
+    "overview_en": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "runtime": 129,
+    "director": "Alejandro G. Iñárritu",
+    "genres": [
+      "Commedia",
+      "Dramma"
     ]
   },
   {
@@ -1236,37 +1280,36 @@
     ]
   },
   {
-    "tmdb_id": 43232,
-    "title": "Les Girls",
-    "original_title": "Les Girls",
-    "italian_title": "Les Girls",
-    "year": 1957,
-    "poster_path": "/78ot7b75r5yWKt0rW9XjXqH7GY1.jpg",
-    "overview": "Dopo aver pubblicato un libro di memorie sulla compagnia di ballo di Barry Nichols, Sybil Wren viene denunciata per diffamazione dall'ex collega Angele. Durante il processo, le due ballerine e lo stesso Barry raccontano versioni inconciliabili dei loro passati rapporti amorosi.",
-    "title_en": "Les Girls",
-    "overview_en": "After writing a tell-all book about her days in the dance troupe \"Barry Nichols and Les Girls\", Sybil Wren is sued for libeling her fellow dancer Angele. A Rashômon style narrative presents the story from three points of view where Sybil accuses Angele of having an affair with Barry, while Angele insists that it was actually Sybil who was having the affair. Finally, Barry gives his side of the story.",
-    "runtime": 114,
-    "director": "George Cukor",
+    "tmdb_id": 722941,
+    "title": "Man and Witch: The Dance of a Thousand Steps",
+    "original_title": "Man and Witch: The Dance of a Thousand Steps",
+    "italian_title": "Man and Witch: The Dance of a Thousand Steps",
+    "year": 2024,
+    "poster_path": "/3nwGGdFfm2H1NsrdlFw6I5NhUYL.jpg",
+    "overview": null,
+    "title_en": "Man and Witch: The Dance of a Thousand Steps",
+    "overview_en": "Three Mysterious Curses, two lost souls... and one incredibly difficult dance.  A lowly goatherd seeks out a reclusive witch to break the evil enchantment that has long kept him from taking a wife. When he completes the three impossible trials the witch prescribes, the man earns the hand of the legendary Princess, only heir of the Old King of the Cursed Kingdom. But when he arrives at the altar with a perfect fairytale ending hanging in the balance, both the goatherd and mysterious witch who helped transform him into the perfect eligible bachelor find that there is one enchantment they can't figure out how to break... true love.",
+    "runtime": 94,
+    "director": "Michael Hines",
     "genres": [
-      "Commedia",
-      "Musica",
-      "Romance"
+      "Fantasy",
+      "Avventura"
     ]
   },
   {
-    "tmdb_id": 1544126,
-    "title": "Il rumore delle cose nuove",
-    "original_title": "Il rumore delle cose nuove",
-    "italian_title": "Il rumore delle cose nuove",
+    "tmdb_id": 1723882,
+    "title": "Un weekend artificiale",
+    "original_title": "Un weekend artificiale",
+    "italian_title": "Un weekend artificiale",
     "year": 2026,
-    "poster_path": "/2Wq59OquoiAmgs1A86FfJcnzxfs.jpg",
-    "overview": "Andrea è un fotografo, Andreina un’infermiera, e se oggi Andrea è ancora vivo è perché Andreina gli ha donato un pezzo di sé. Umberto al lavoro allevia il dolore e a casa lo infligge ad Alba, che aveva sogni semplici e ora ha smesso di sognare. Ralph di mestiere riproduce suoni, Viola è un’attrice che ha scelto di recitare anche nella vita. E poi c’è Mirko, che ha dieci anni ma fa tanto rumore. Tre famiglie, che per anni si sono sfiorate nelle strade di Milano senza conoscersi, trascorrono le loro esistenze fra rancori, bugie e momenti di felicità finché un incontro imprevisto non stravolge tutto. Allora il caos prende il sopravvento sul fragile equilibrio che le regge e rischia di spazzarle via.",
-    "title_en": "Il rumore delle cose nuove",
-    "overview_en": "A vividly interwoven tale of secrets and connections, Il rumore delle cose nuove centers on three families whose lives have quietly overlapped in the streets of Milan—unaware of each other—for years. Andrea, a photographer, and Andreina, a nurse, share a haunting truth: Andreina has given a part of herself to keep Andrea alive. Umberto finds solace in alleviating others’ pain at work, yet at home he inflicts suffering upon Alba, once hopeful, now dreamless. In another household, Ralph, who crafts sounds, and Viola, an actress who yearns to live as freely as she performs, are quietly struggling—alongside Mirko, a ten‑year‑old whose presence echoes loudly. As the story unfolds, their ordinary routines unravel under the weight of these “noisy” secrets—some seemingly trivial, others utterly unbearable. Chaos tumbles over the fragile bonds holding them together, forcing confrontations with truths they can no longer ignore.",
-    "runtime": 113,
-    "director": "Paolo Genovese",
+    "poster_path": "/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
+    "overview": "Leonardo, parrucchiere fiorentino, viene invitato insieme ad altri sei sconosciuti in una villa da sogno per partecipare a un esperimento senza precedenti: dovranno scoprire chi tra di loro è un umanoide creato con l’intelligenza artificiale. Un incasinatissimo weekend di sospetti, emozioni e colpi di scena… prima che siano i sentimenti e la vita vera a mandare tutti in tilt.",
+    "title_en": "Un weekend artificiale",
+    "overview_en": null,
+    "runtime": null,
+    "director": "Leonardo Pieraccioni",
     "genres": [
-      "Dramma"
+      "Commedia"
     ]
   },
   {
@@ -1287,22 +1330,6 @@
     ]
   },
   {
-    "tmdb_id": 1723882,
-    "title": "Un weekend artificiale",
-    "original_title": "Un weekend artificiale",
-    "italian_title": "Un weekend artificiale",
-    "year": 2026,
-    "poster_path": "/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
-    "overview": "Leonardo, parrucchiere fiorentino, viene invitato insieme ad altri sei sconosciuti in una villa da sogno per partecipare a un esperimento senza precedenti: dovranno scoprire chi tra di loro è un umanoide creato con l’intelligenza artificiale. Un incasinatissimo weekend di sospetti, emozioni e colpi di scena… prima che siano i sentimenti e la vita vera a mandare tutti in tilt.",
-    "title_en": "Un weekend artificiale",
-    "overview_en": null,
-    "runtime": null,
-    "director": "Leonardo Pieraccioni",
-    "genres": [
-      "Commedia"
-    ]
-  },
-  {
     "tmdb_id": 1796258,
     "title": "La linea dell’orizzonte",
     "original_title": "La linea dell’orizzonte",
@@ -1317,19 +1344,35 @@
     "genres": []
   },
   {
-    "tmdb_id": 1401459,
-    "title": "Fjord",
-    "original_title": "Fjord",
-    "italian_title": "Fjord",
+    "tmdb_id": 1544126,
+    "title": "Il rumore delle cose nuove",
+    "original_title": "Il rumore delle cose nuove",
+    "italian_title": "Il rumore delle cose nuove",
     "year": 2026,
-    "poster_path": "/e6qR7qbqxe66vh2ONZ8d5pCphA6.jpg",
-    "overview": "Una famiglia rumeno-norvegese profondamente religiosa si trasferisce in un remoto villaggio tra i fiordi della Norvegia per ricominciare una nuova vita. Quando la figlia maggiore arriva a scuola con alcuni lividi, la comunità e le autorità iniziano a sospettare che l'educazione tradizionale impartita dai genitori possa nascondere abusi. Ne nasce un intenso dramma giudiziario e morale che mette a confronto valori, fede, identità culturale e i limiti della tolleranza.",
-    "title_en": "Fjord",
-    "overview_en": "After moving from Romania to a remote Norwegian village to rebuild their lives, a family finds hope in their welcoming neighbors, but their fragile new beginning is threatened when their young daughter arrives at school covered in bruises.",
-    "runtime": 146,
-    "director": "Cristian Mungiu",
+    "poster_path": "/2Wq59OquoiAmgs1A86FfJcnzxfs.jpg",
+    "overview": "Andrea è un fotografo, Andreina un’infermiera, e se oggi Andrea è ancora vivo è perché Andreina gli ha donato un pezzo di sé. Umberto al lavoro allevia il dolore e a casa lo infligge ad Alba, che aveva sogni semplici e ora ha smesso di sognare. Ralph di mestiere riproduce suoni, Viola è un’attrice che ha scelto di recitare anche nella vita. E poi c’è Mirko, che ha dieci anni ma fa tanto rumore. Tre famiglie, che per anni si sono sfiorate nelle strade di Milano senza conoscersi, trascorrono le loro esistenze fra rancori, bugie e momenti di felicità finché un incontro imprevisto non stravolge tutto. Allora il caos prende il sopravvento sul fragile equilibrio che le regge e rischia di spazzarle via.",
+    "title_en": "Il rumore delle cose nuove",
+    "overview_en": "A vividly interwoven tale of secrets and connections, Il rumore delle cose nuove centers on three families whose lives have quietly overlapped in the streets of Milan—unaware of each other—for years. Andrea, a photographer, and Andreina, a nurse, share a haunting truth: Andreina has given a part of herself to keep Andrea alive. Umberto finds solace in alleviating others’ pain at work, yet at home he inflicts suffering upon Alba, once hopeful, now dreamless. In another household, Ralph, who crafts sounds, and Viola, an actress who yearns to live as freely as she performs, are quietly struggling—alongside Mirko, a ten‑year‑old whose presence echoes loudly. As the story unfolds, their ordinary routines unravel under the weight of these “noisy” secrets—some seemingly trivial, others utterly unbearable. Chaos tumbles over the fragile bonds holding them together, forcing confrontations with truths they can no longer ignore.",
+    "runtime": 113,
+    "director": "Paolo Genovese",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1309373,
+    "title": "Il canto della foresta",
+    "original_title": "Le Chant des forêts",
+    "italian_title": "Il canto della foresta",
+    "year": 2025,
+    "poster_path": "/1Ty8uGoVEc4g4W7AFPdcOzXktG3.jpg",
+    "overview": "Un nonno, suo figlio e il figlio del figlio: Michel, Vincent (il regista) e Simon. Tre maschi di età diverse che condividono l'esperienza, più che consapevoli della sua rarità, di osservare da vicinissimo la natura. Rispettandola. Nelle foreste di conifere del dipartimento francese dei Vosgi, come a una base sicura dopo le loro esplorazioni, tornano in una baita di legno illuminata solo da candele. Tra i tre si compie la trasmissione della passione per animali e ambiente, in uno scambio continuo di saperi e curiosità. Un patrimonio di storie tramandate per via orale e di esperienze, rilevazione sul campo. Per Michel la scintilla è scattata, tanti anni prima, con l'avvistamento di un gallo cedrone, razza ormai scomparsa da quei territori.",
+    "title_en": "Whispers in the Woods",
+    "overview_en": "In the heart of the tranquil Vosges forests, where lynxes, bears and deer roam freely, Vincent Munier accompanies his father on his expeditions. He not only seeks to capture the visual wonders of this forest kingdom, but also aims to make its sounds audible. Every whisper of the forest is a reminder of the knowledge of nature that his father once imbued in him – knowledge that Vincent now passes on to his own son. Vincent Munier combines breathtaking footage of nature and its sounds to create a fairytale-like cinematic experience that slows time down.",
+    "runtime": 99,
+    "director": "Vincent Munier",
+    "genres": [
+      "Documentario"
     ]
   },
   {
@@ -1378,6 +1421,22 @@
     "overview_en": "In the spring of 1999, a group of old friends gather to celebrate their 20 year reunion. Among the group is Yeong-ho, a cold, unhappy man, whose demeanor puts a damper on the festivities. The seriousness of Yeong-ho's depression becomes apparent when he climbs a railroad bridge and looks like he might jump. At this crucial moment, memories of seven crucial episodes from Yeong-ho's past flood his mind.",
     "runtime": 131,
     "director": "Lee Chang-dong",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1632188,
+    "title": "Il fuoco che ti porti dentro",
+    "original_title": "Il fuoco che ti porti dentro",
+    "italian_title": "Il fuoco che ti porti dentro",
+    "year": 2026,
+    "poster_path": "/kCfIZpqRsBe39Y1lUCxOAjgQ5VR.jpg",
+    "overview": "Antonio, fuggito molti anni fa da Napoli, ha costruito a Milano una famiglia e una carriera di successo, lontano da sua madre Angela, una donna esagerata nel bene e nel male, irresistibile, antica e ostile come poche, che lo ha raggiunto per Natale e sembra decisa a restare. La cena della Vigilia diventa così un campo di battaglia emotivo, comico e feroce al tempo stesso che fa riemergere un passato di sopraffazioni e incomprensioni. Con un tenace cappone che non vuole saperne di finire in pentola, una figlia che non si sa se mai arriverà e un illustre ospite inatteso, la serata si trasforma in una resa dei conti tra madre e figlio destinata a cambiare per sempre il senso del loro legame: un amore che brucia come un fuoco dentro e che mai si consuma, neppure andando via.",
+    "title_en": "The Fire Within You",
+    "overview_en": "Antonio, who fled Naples many years ago, has built a family and a successful career in Milan, far from his mother Angela — a woman excessive in both her virtues and her flaws, irresistible, old-fashioned and hostile like few others — who has come to visit for Christmas and seems determined to stay.  Christmas Eve dinner becomes an emotional battlefield, at once comic and fierce, bringing to the surface a past of impositions and misunderstandings. With a stubborn capon that refuses to end up in the pot, a daughter whose arrival remains uncertain, and an unexpected distinguished guest, the evening turns into a reckoning between mother and son destined to change the meaning of their bond forever: a love that burns like a fire within, one that never dies out — not even by leaving.",
+    "runtime": 93,
+    "director": "Edoardo De Angelis",
     "genres": [
       "Dramma"
     ]
@@ -1478,6 +1537,24 @@
     "director": "Lee Chang-dong",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 848700,
+    "title": "Minotaur - Nel labirinto del potere",
+    "original_title": "Minotaure",
+    "italian_title": "Minotaur - Nel labirinto del potere",
+    "year": 2026,
+    "poster_path": "/gMPqcNmJaEmIArwxzvnuPI7H1Ob.jpg",
+    "overview": "Russia, 2022. Quando Gleb, un direttore aziendale di successo, si trova assediato da crescenti pressioni aziendali e da un mondo sempre più instabile, il crollo della sua vita ordinata precipita verso la violenza.",
+    "title_en": "Minotaur",
+    "overview_en": "When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife's affair, the collapse of his carefully ordered life accelerates toward violence.",
+    "runtime": 135,
+    "director": "Андрей Звягинцев",
+    "genres": [
+      "Dramma",
+      "Crime",
+      "Thriller"
     ]
   },
   {
@@ -1685,6 +1762,23 @@
     ]
   },
   {
+    "tmdb_id": 1119548,
+    "title": "Nel silenzio delle stanze",
+    "original_title": "La Condition",
+    "italian_title": "Nel silenzio delle stanze",
+    "year": 2025,
+    "poster_path": "/r47BxFNFATfapHfQ2m4iHYgZwVc.jpg",
+    "overview": "Normandia, 1908. Céleste è una giovane domestica che lavora nella grande villa di André, un ricco notaio, e sua moglie Victoire, una donna oppressa dalle convenzioni borghesi che la vogliono moglie modello. Un giorno Victoire scopre che Céleste è incinta e intuisce che il padre è Andre. Per evitare lo scandalo e proteggere la reputazione della coppia, la donna impone al marito una condizione: l’integrità dell’uomo sarà preservata ma un accordo segreto legherà Victoire e Céleste in un’inaspettata alleanza che porterà le due donne a sfidare il rigido ordine sociale del tempo.",
+    "title_en": "The Arrangement",
+    "overview_en": "This is the story of Céleste, a young, maid employed by Victoire and André in 1908. It is the story of Victoire, the model wife she doesn't know how to be. Two women who are completely different but who live under the same roof, defying conventions and the unspoken.",
+    "runtime": 103,
+    "director": "Jérôme Bonnell",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
     "tmdb_id": 1576934,
     "title": "The Echo Chamber",
     "original_title": "The Echo Chamber",
@@ -1699,6 +1793,73 @@
     "genres": [
       "Dramma",
       "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1567605,
+    "title": "Scrooge e gli spiriti del Natale",
+    "original_title": "Ebenezer",
+    "italian_title": "Scrooge e gli spiriti del Natale",
+    "year": 2026,
+    "poster_path": "/drg45KOBksTrv9qQA0EmNuFgHG9.jpg",
+    "overview": null,
+    "title_en": "Ebenezer",
+    "overview_en": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "runtime": 115,
+    "director": "Ti West",
+    "genres": [
+      "Fantasy",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1381071,
+    "title": "Godzilla Minus Zero",
+    "original_title": "ゴジラ-0.0",
+    "italian_title": "Godzilla Minus Zero",
+    "year": 2026,
+    "poster_path": "/SS3rNoR2RICMWoV2566e32lOi6.jpg",
+    "overview": "La vicenda è ambientata nel 1949, in un Giappone che sta ancora faticosamente cercando di ricostruirsi dopo i traumi della Seconda Guerra Mondiale e dopo il precedente passaggio del mostro. La ricomparsa di Godzilla costringerà i due protagonisti, l’ex pilota Kōichi (interpretato da Ryunosuke Kamiki) e Noriko (Minami Hamabe), a una nuova e disperata lotta per la sopravvivenza.",
+    "title_en": "Godzilla Minus Zero",
+    "overview_en": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+    "runtime": 135,
+    "director": "Takashi Yamazaki",
+    "genres": [
+      "Fantascienza",
+      "Horror",
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 1795686,
+    "title": "In un battito",
+    "original_title": "In un battito",
+    "italian_title": "In un battito",
+    "year": 2026,
+    "poster_path": "/cuYB8P1i9iySjMop9HJaGlMywE6.jpg",
+    "overview": "Il film racconta i mesi successivi al 1° dicembre 2024, quando, durante Fiorentina-Inter, Edoardo Bove si accascia improvvisamente sul terreno di gioco. Un episodio che interrompe il percorso che sembrava già tracciato per una delle promesse più brillanti del calcio italiano e apre una fase completamente nuova della sua vita. Da quel momento Edoardo si confronta con un futuro diventato improvvisamente incerto: tornerà a giocare? Potrà ancora farlo in Italia? E chi è Edoardo al di fuori del calcio?",
+    "title_en": "In un battito",
+    "overview_en": "The film follows the months after December 1, 2024, when Edoardo Bove suddenly collapses on the pitch during Fiorentina’s match against Inter. The incident disrupts what seemed to be a clear path for one of Italian football’s brightest young talents and marks the beginning of an entirely new chapter in his life. From that moment on, Edoardo faces a suddenly uncertain future: will he play again? Will he still be able to do so in Italy? And who is Edoardo beyond football?",
+    "runtime": 102,
+    "director": "Giovanni Troilo",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1597199,
+    "title": "Ritorno a Buenos Aires",
+    "original_title": "Ritorno a Buenos Aires",
+    "italian_title": "Ritorno a Buenos Aires",
+    "year": 2026,
+    "poster_path": "/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
+    "overview": "Il film segue Mariano Guerra, chiamato a tornare in Argentina per testimoniare nel processo contro i militari che lo sequestrarono e torturarono durante la dittatura militare, la stessa che nel 1978 organizzò i Mondiali di calcio mentre il paese era attraversato dalla repressione clandestina.  Il film non racconta il ritorno di un eroe in cerca di rivalsa, ma il percorso di un uomo che porta dentro di sé la propria zona d’ombra: piegato dalla tortura, parlò denunciando i suoi compagni.",
+    "title_en": "Back to Buenos Aires",
+    "overview_en": "It follows Mariano Guerra as he returns to Argentina to testify against soldiers who tortured him during the dictatorship, focusing not on revenge but on his inner struggle with guilt, trauma, and the lasting psychological impact of violence kept largely off-screen.",
+    "runtime": 104,
+    "director": "Marco Bechis",
+    "genres": [
+      "Dramma"
     ]
   },
   {
@@ -1749,23 +1910,6 @@
     "director": "John G. Avildsen",
     "genres": [
       "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1119548,
-    "title": "Nel silenzio delle stanze",
-    "original_title": "La Condition",
-    "italian_title": "Nel silenzio delle stanze",
-    "year": 2025,
-    "poster_path": "/r47BxFNFATfapHfQ2m4iHYgZwVc.jpg",
-    "overview": "Normandia, 1908. Céleste è una giovane domestica che lavora nella grande villa di André, un ricco notaio, e sua moglie Victoire, una donna oppressa dalle convenzioni borghesi che la vogliono moglie modello. Un giorno Victoire scopre che Céleste è incinta e intuisce che il padre è Andre. Per evitare lo scandalo e proteggere la reputazione della coppia, la donna impone al marito una condizione: l’integrità dell’uomo sarà preservata ma un accordo segreto legherà Victoire e Céleste in un’inaspettata alleanza che porterà le due donne a sfidare il rigido ordine sociale del tempo.",
-    "title_en": "The Arrangement",
-    "overview_en": "This is the story of Céleste, a young, maid employed by Victoire and André in 1908. It is the story of Victoire, the model wife she doesn't know how to be. Two women who are completely different but who live under the same roof, defying conventions and the unspoken.",
-    "runtime": 103,
-    "director": "Jérôme Bonnell",
-    "genres": [
-      "Dramma",
-      "Storia"
     ]
   },
   {
@@ -1849,22 +1993,6 @@
     ]
   },
   {
-    "tmdb_id": 1309373,
-    "title": "Il canto della foresta",
-    "original_title": "Le Chant des forêts",
-    "italian_title": "Il canto della foresta",
-    "year": 2025,
-    "poster_path": "/1Ty8uGoVEc4g4W7AFPdcOzXktG3.jpg",
-    "overview": "Un nonno, suo figlio e il figlio del figlio: Michel, Vincent (il regista) e Simon. Tre maschi di età diverse che condividono l'esperienza, più che consapevoli della sua rarità, di osservare da vicinissimo la natura. Rispettandola. Nelle foreste di conifere del dipartimento francese dei Vosgi, come a una base sicura dopo le loro esplorazioni, tornano in una baita di legno illuminata solo da candele. Tra i tre si compie la trasmissione della passione per animali e ambiente, in uno scambio continuo di saperi e curiosità. Un patrimonio di storie tramandate per via orale e di esperienze, rilevazione sul campo. Per Michel la scintilla è scattata, tanti anni prima, con l'avvistamento di un gallo cedrone, razza ormai scomparsa da quei territori.",
-    "title_en": "Whispers in the Woods",
-    "overview_en": "In the heart of the tranquil Vosges forests, where lynxes, bears and deer roam freely, Vincent Munier accompanies his father on his expeditions. He not only seeks to capture the visual wonders of this forest kingdom, but also aims to make its sounds audible. Every whisper of the forest is a reminder of the knowledge of nature that his father once imbued in him – knowledge that Vincent now passes on to his own son. Vincent Munier combines breathtaking footage of nature and its sounds to create a fairytale-like cinematic experience that slows time down.",
-    "runtime": 99,
-    "director": "Vincent Munier",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
     "tmdb_id": 32569,
     "title": "L'uomo dagli occhi a raggi X",
     "original_title": "X: The Man with the X-Ray Eyes",
@@ -1914,22 +2042,6 @@
       "Dramma",
       "Mistero",
       "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1795686,
-    "title": "In un battito",
-    "original_title": "In un battito",
-    "italian_title": "In un battito",
-    "year": 2026,
-    "poster_path": "/cuYB8P1i9iySjMop9HJaGlMywE6.jpg",
-    "overview": "Il film racconta i mesi successivi al 1° dicembre 2024, quando, durante Fiorentina-Inter, Edoardo Bove si accascia improvvisamente sul terreno di gioco. Un episodio che interrompe il percorso che sembrava già tracciato per una delle promesse più brillanti del calcio italiano e apre una fase completamente nuova della sua vita. Da quel momento Edoardo si confronta con un futuro diventato improvvisamente incerto: tornerà a giocare? Potrà ancora farlo in Italia? E chi è Edoardo al di fuori del calcio?",
-    "title_en": "In un battito",
-    "overview_en": "The film follows the months after December 1, 2024, when Edoardo Bove suddenly collapses on the pitch during Fiorentina’s match against Inter. The incident disrupts what seemed to be a clear path for one of Italian football’s brightest young talents and marks the beginning of an entirely new chapter in his life. From that moment on, Edoardo faces a suddenly uncertain future: will he play again? Will he still be able to do so in Italy? And who is Edoardo beyond football?",
-    "runtime": 102,
-    "director": "Giovanni Troilo",
-    "genres": [
-      "Documentario"
     ]
   },
   {
@@ -2005,21 +2117,21 @@
     ]
   },
   {
-    "tmdb_id": 848700,
-    "title": "Minotaur - Nel labirinto del potere",
-    "original_title": "Minotaure",
-    "italian_title": "Minotaur - Nel labirinto del potere",
+    "tmdb_id": 1300968,
+    "title": "Hunger Games - L'alba sulla mietitura",
+    "original_title": "The Hunger Games: Sunrise on the Reaping",
+    "italian_title": "Hunger Games - L'alba sulla mietitura",
     "year": 2026,
-    "poster_path": "/gMPqcNmJaEmIArwxzvnuPI7H1Ob.jpg",
-    "overview": "Russia, 2022. Quando Gleb, un direttore aziendale di successo, si trova assediato da crescenti pressioni aziendali e da un mondo sempre più instabile, il crollo della sua vita ordinata precipita verso la violenza.",
-    "title_en": "Minotaur",
-    "overview_en": "When Gleb, a successful company director, finds himself under siege from mounting corporate pressures, an increasingly unstable world, and the discovery of his wife's affair, the collapse of his carefully ordered life accelerates toward violence.",
-    "runtime": 135,
-    "director": "Андрей Звягинцев",
+    "poster_path": "/uR1lZA2ET3gf7uGVgbRwSeSkEsU.jpg",
+    "overview": null,
+    "title_en": "The Hunger Games: Sunrise on the Reaping",
+    "overview_en": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+    "runtime": 158,
+    "director": "Francis Lawrence",
     "genres": [
-      "Dramma",
-      "Crime",
-      "Thriller"
+      "Fantascienza",
+      "Azione",
+      "Avventura"
     ]
   },
   {
@@ -2120,24 +2232,6 @@
     "genres": []
   },
   {
-    "tmdb_id": 1300968,
-    "title": "Hunger Games - L'alba sulla mietitura",
-    "original_title": "The Hunger Games: Sunrise on the Reaping",
-    "italian_title": "Hunger Games - L'alba sulla mietitura",
-    "year": 2026,
-    "poster_path": "/uR1lZA2ET3gf7uGVgbRwSeSkEsU.jpg",
-    "overview": null,
-    "title_en": "The Hunger Games: Sunrise on the Reaping",
-    "overview_en": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-    "runtime": 158,
-    "director": "Francis Lawrence",
-    "genres": [
-      "Fantascienza",
-      "Azione",
-      "Avventura"
-    ]
-  },
-  {
     "tmdb_id": 1329016,
     "title": "Tony - Diario di un giovane cuoco",
     "original_title": "Tony",
@@ -2151,23 +2245,6 @@
     "director": "Matt Johnson",
     "genres": [
       "Dramma",
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1567605,
-    "title": "Scrooge e gli spiriti del Natale",
-    "original_title": "Ebenezer",
-    "italian_title": "Scrooge e gli spiriti del Natale",
-    "year": 2026,
-    "poster_path": "/drg45KOBksTrv9qQA0EmNuFgHG9.jpg",
-    "overview": null,
-    "title_en": "Ebenezer",
-    "overview_en": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-    "runtime": 115,
-    "director": "Ti West",
-    "genres": [
-      "Fantasy",
       "Commedia"
     ]
   },
@@ -2260,24 +2337,6 @@
     ]
   },
   {
-    "tmdb_id": 1381071,
-    "title": "Godzilla Minus Zero",
-    "original_title": "ゴジラ-0.0",
-    "italian_title": "Godzilla Minus Zero",
-    "year": 2026,
-    "poster_path": "/SS3rNoR2RICMWoV2566e32lOi6.jpg",
-    "overview": "La vicenda è ambientata nel 1949, in un Giappone che sta ancora faticosamente cercando di ricostruirsi dopo i traumi della Seconda Guerra Mondiale e dopo il precedente passaggio del mostro. La ricomparsa di Godzilla costringerà i due protagonisti, l’ex pilota Kōichi (interpretato da Ryunosuke Kamiki) e Noriko (Minami Hamabe), a una nuova e disperata lotta per la sopravvivenza.",
-    "title_en": "Godzilla Minus Zero",
-    "overview_en": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-    "runtime": 135,
-    "director": "Takashi Yamazaki",
-    "genres": [
-      "Fantascienza",
-      "Horror",
-      "Azione"
-    ]
-  },
-  {
     "tmdb_id": 1263337,
     "title": "Heart of the Beast - Nel profondo selvaggio",
     "original_title": "Heart of the Beast",
@@ -2350,24 +2409,6 @@
     ]
   },
   {
-    "tmdb_id": 1276418,
-    "title": "Rider",
-    "original_title": "Rider",
-    "italian_title": "Rider",
-    "year": 2025,
-    "poster_path": "/n6ZXNMyx9XVZah6Nni9TDuAALBu.jpg",
-    "overview": null,
-    "title_en": "Rider",
-    "overview_en": "A young delivery rider faces a life-threatening assignment during a chaotic night as she tries to resolve urgent personal problems through phone calls and find redemption.",
-    "runtime": 72,
-    "director": "Ignacio Estaregui",
-    "genres": [
-      "Thriller",
-      "Dramma",
-      "Azione"
-    ]
-  },
-  {
     "tmdb_id": 1511829,
     "title": "The Nameless Ballad",
     "original_title": "The Nameless Ballad",
@@ -2381,24 +2422,6 @@
     "director": "Federico Zampaglione",
     "genres": [
       "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 1283515,
-    "title": "Verity",
-    "original_title": "Verity",
-    "italian_title": "Verity",
-    "year": 2026,
-    "poster_path": "/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
-    "overview": "Lowen Ashleigh (Dakota Johnson), una scrittrice in difficoltà, si trasferisce nella remota tenuta dei Crawford per fare da ghostwriter alla celebre autrice Verity Crawford (Anne Hathaway). Dopo aver scoperto quelli che sembrano essere gli inquietanti appunti autobiografici di Verity, Lowen deve fare i conti con le torbide e distorte confessioni sul marito di lei, Jeremy (Josh Hartnett), trovando difficile distinguere la finzione dalla realtà, la manipolazione dall'attrazione e l'opportunità dall'ossessione.",
-    "title_en": "Verity",
-    "overview_en": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-    "runtime": 121,
-    "director": "Michael Showalter",
-    "genres": [
-      "Mistero",
-      "Thriller",
-      "Dramma"
     ]
   },
   {

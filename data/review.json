@@ -14,11 +14,18 @@
     "confidence": 93.67088607594937
   },
   {
-    "raw_title": "MINNIE & MOSKOWITZ (RIED. 4K)",
-    "tmdb_id": 24349,
-    "matched_title": "Minnie e Moskowitz",
+    "raw_title": "MINOTAUR NEL LABIRINTO DEL POTERE (MINOTAURE)",
+    "tmdb_id": 848700,
+    "matched_title": "Minotaur - Nel labirinto del potere",
     "method": "fuzzy",
-    "confidence": 94.11764705882352
+    "confidence": 86.8421052631579
+  },
+  {
+    "raw_title": "SCROOGE E GLI SPIRITI DEL NATALE (EBENEZER)",
+    "tmdb_id": 1567605,
+    "matched_title": "Scrooge e gli spiriti del Natale",
+    "method": "fuzzy",
+    "confidence": 87.67123287671232
   },
   {
     "raw_title": "L’IMPERO DEI SENSI",
@@ -40,6 +47,13 @@
     "matched_title": "Il gatto col cappello",
     "method": "fuzzy",
     "confidence": 88.88888888888889
+  },
+  {
+    "raw_title": "(O.V.) Hunger Games - L'Alba Sulla Mieti",
+    "tmdb_id": 1300968,
+    "matched_title": "Hunger Games - L'alba sulla mietitura",
+    "method": "fuzzy",
+    "confidence": 93.93939393939394
   },
   {
     "raw_title": "Shaun, Vita Da Pecora - Operazione Z.U.C",
