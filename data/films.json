@@ -1,39 +1,5 @@
 [
   {
-    "tmdb_id": 1651347,
-    "title": "Minotaur",
-    "original_title": "Minotaur",
-    "italian_title": "Minotaur",
-    "year": null,
-    "poster_path": "/zXGD5CwUFqRPZLD242Rvwzu25n.jpg",
-    "overview": "Quattro amici speleologi precipitano in un abisso inesplorato, scoprendo che la grotta è un labirinto senziente che muta forma alimentandosi dei loro traumi",
-    "title_en": "Minotaur",
-    "overview_en": null,
-    "runtime": 90,
-    "director": "Loris Curci",
-    "genres": [
-      "Fantasy",
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 1437696,
-    "title": "Fatherland",
-    "original_title": "Ojczyzna",
-    "italian_title": "Fatherland",
-    "year": 2026,
-    "poster_path": "/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
-    "overview": "Il rapporto tra lo scrittore Thomas Mann (Hanns Zischler) e sua figlia Erika (Sandra Hüller), attrice, giornalista e pilota di rally. A bordo di una Buick nera intraprendono un viaggio attraverso una Germania in macerie: da Francoforte, sotto l'influenza statunitense, fino a Weimar, controllata dai sovietici. Per la prima volta dopo la guerra, Mann torna nella sua nativa Germania, dopo aver preso la difficile decisione di fuggire negli Stati Uniti per mettersi in salvo.",
-    "title_en": "Fatherland",
-    "overview_en": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
-    "runtime": 82,
-    "director": "Paweł Pawlikowski",
-    "genres": [
-      "Dramma",
-      "Storia"
-    ]
-  },
-  {
     "tmdb_id": 1357952,
     "title": "Ferine",
     "original_title": "Ferine",
@@ -121,6 +87,23 @@
     ]
   },
   {
+    "tmdb_id": 1437696,
+    "title": "Fatherland",
+    "original_title": "Ojczyzna",
+    "italian_title": "Fatherland",
+    "year": 2026,
+    "poster_path": "/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
+    "overview": "Il rapporto tra lo scrittore Thomas Mann (Hanns Zischler) e sua figlia Erika (Sandra Hüller), attrice, giornalista e pilota di rally. A bordo di una Buick nera intraprendono un viaggio attraverso una Germania in macerie: da Francoforte, sotto l'influenza statunitense, fino a Weimar, controllata dai sovietici. Per la prima volta dopo la guerra, Mann torna nella sua nativa Germania, dopo aver preso la difficile decisione di fuggire negli Stati Uniti per mettersi in salvo.",
+    "title_en": "Fatherland",
+    "overview_en": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
+    "runtime": 82,
+    "director": "Paweł Pawlikowski",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
     "tmdb_id": 1074074,
     "title": "L'essere amato",
     "original_title": "El ser querido",
@@ -169,6 +152,23 @@
     "genres": [
       "Animazione",
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1651347,
+    "title": "Minotaur",
+    "original_title": "Minotaur",
+    "italian_title": "Minotaur",
+    "year": null,
+    "poster_path": "/zXGD5CwUFqRPZLD242Rvwzu25n.jpg",
+    "overview": "Quattro amici speleologi precipitano in un abisso inesplorato, scoprendo che la grotta è un labirinto senziente che muta forma alimentandosi dei loro traumi",
+    "title_en": "Minotaur",
+    "overview_en": null,
+    "runtime": 90,
+    "director": "Loris Curci",
+    "genres": [
+      "Fantasy",
+      "Horror"
     ]
   },
   {
@@ -223,6 +223,22 @@
     ]
   },
   {
+    "tmdb_id": 1735959,
+    "title": "Carla Lonzi - Dentro e fuori dal mondo",
+    "original_title": "Carla Lonzi - Dentro e fuori dal mondo",
+    "italian_title": "Carla Lonzi - Dentro e fuori dal mondo",
+    "year": 2026,
+    "poster_path": "/xoZsnMCVVO1pWRSUbaJHzTjBCi6.jpg",
+    "overview": "Accanto alla figura pubblica di Carla Lonzi, considerata così intransigente, c’è da raccontare anche la figura privata, affascinante e contraddittoria. La dolcezza e la fragilità esistenziale, la dipendenza dal compagno, cioè dall’uomo, il suo legame complesso con la maternità, il doloroso rapporto con le altre donne, nello sbudellamento collettivo che è stata la pratica dell’autocoscienza. Attraverso archivi preziosi e inediti, la regista Francesca Archibugi, che ha un forte legame personale con Lonzi, porta per la prima volta sullo schermo la sua storia pubblica e privata, il suo pensiero e la sua eredità, fondamentali per capire ciò che le donne di tutto il mondo stanno, ancora oggi, vivendo e combattendo.",
+    "title_en": "Carla Lonzi, A Feminist Story",
+    "overview_en": "Alongside the public figure Carla Lonzi, considered to be so uncompromising, there is much to say about her private side, as fascinating as it was contradictory. There’s her tenderness and emotional fragility, her dependence on her partner, hence on a man; her complicated feelings about motherhood; and strained relationships with other women in the practice of collective harikiri called “consciousness-raising”. Drawing on invaluable, unreleased archive material, the filmmaker Francesca Archibugi, who was very close to Lonzi, brings her public life and private story, her ideas, and her legacy to the screen for the first time. These are key to understanding what women around the world are still going through and fighting for.",
+    "runtime": 90,
+    "director": "Francesca Archibugi",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
     "tmdb_id": 1708220,
     "title": "La vita segreta dei giocattoli",
     "original_title": "La vita segreta dei giocattoli",
@@ -267,179 +283,6 @@
     "genres": [
       "Documentario",
       "Musica"
-    ]
-  },
-  {
-    "tmdb_id": 284,
-    "title": "L'appartamento",
-    "original_title": "The Apartment",
-    "italian_title": "L'appartamento",
-    "year": 1960,
-    "poster_path": "/oxFTmLxfz06ctGoHgyksa2cFV57.jpg",
-    "overview": "Bud Baxter, un impiegato che scalpita in una grande compagnia di assicurazioni di New York, ha trovato un modo rapido per scalare i vertici aziendali: prestare il suo appartamento ai dirigenti come luogo dove incontrare le loro amanti. L'uomo ha quindi spesso a che fare con le conseguenze delle loro visite e una notte si ritrova un grosso problema da risolvere.",
-    "title_en": "The Apartment",
-    "overview_en": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
-    "runtime": 125,
-    "director": "Billy Wilder",
-    "genres": [
-      "Commedia",
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 2667,
-    "title": "The Blair Witch Project - Il mistero della strega di Blair",
-    "original_title": "The Blair Witch Project",
-    "italian_title": "The Blair Witch Project - Il mistero della strega di Blair",
-    "year": 1999,
-    "poster_path": "/rl5KxmR0AqtsmpbZmOFac4bccUd.jpg",
-    "overview": "Heather, Joshua e Michael, tre studenti di regia, vogliono girare un documentario su una leggenda locale, quella della strega di Blair che che vivrebbe nei boschi presso Burkettsville, nel Maryland, dove tanti bambini sono scomparsi negli anni '40...",
-    "title_en": "The Blair Witch Project",
-    "overview_en": "In October of 1994 three student filmmakers disappeared in the woods near Burkittsville, Maryland, while shooting a documentary. A year later their footage was found.",
-    "runtime": 81,
-    "director": "Daniel Myrick, Eduardo Sánchez",
-    "genres": [
-      "Horror",
-      "Mistero"
-    ]
-  },
-  {
-    "tmdb_id": 1242011,
-    "title": "Together",
-    "original_title": "Together",
-    "italian_title": "Together",
-    "year": 2025,
-    "poster_path": "/d0h9LSvuLIn3TKymVeUzfCdfvZe.jpg",
-    "overview": "Tim e Millie sono una giovane coppia e si amano. Musicista lui, insegnante lei, la loro relazione giunge a un punto di svolta quando si trasferiscono in un paesino sperduto tra boschi e campagna, lontani da tutto ciò che conoscono e che è loro familiare. Mentre i due cercano di adattarsi alla nuova situazione, l'incontro con una misteriosa forza sovrannaturale darà una brusca sferzata al loro rapporto, rendendoli letteralmente inseparabili.",
-    "title_en": "Together",
-    "overview_en": "Years into their relationship, Tim and Millie find themselves at a crossroads as they move to the country, abandoning all that is familiar in their lives except each other. With tensions already flaring, a nightmarish encounter with a mysterious, unnatural force threatens to corrupt their lives, their love, and their flesh.",
-    "runtime": 102,
-    "director": "Michael Shanks",
-    "genres": [
-      "Horror",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 1596301,
-    "title": "Mum, I'm Alien Pregnant",
-    "original_title": "Mum, I'm Alien Pregnant",
-    "italian_title": "Mum, I'm Alien Pregnant",
-    "year": 2026,
-    "poster_path": "/RXfZ8QjllkTvNKyj7aTetQ8ywO.jpg",
-    "overview": null,
-    "title_en": "Mum, I'm Alien Pregnant",
-    "overview_en": "When a messy underachiever accidentally gets alien-pregnant, she must overcome skeptical doctors, a useless baby daddy, and her oversharing mum in order to survive and reclaim her life.",
-    "runtime": 95,
-    "director": "Jordan Mark Windsor, Sean Wallace",
-    "genres": [
-      "Horror",
-      "Fantascienza",
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1604443,
-    "title": "Social Landscapes",
-    "original_title": "Social Landscapes",
-    "italian_title": "Social Landscapes",
-    "year": 2026,
-    "poster_path": "/xj9bXo41goDOz5FQ6xR8TrbASUe.jpg",
-    "overview": null,
-    "title_en": "Social Landscapes",
-    "overview_en": "In a world where we often experience places on screens before we actually visit them, the film questions the fine line between perception and reality.",
-    "runtime": 78,
-    "director": "Jonas Meier",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 1583853,
-    "title": "Se domani non torno",
-    "original_title": "Se domani non torno",
-    "italian_title": "Se domani non torno",
-    "year": 2026,
-    "poster_path": "/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
-    "overview": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
-    "title_en": "Se domani non torno",
-    "overview_en": "It follows the tragic life of Giulia Cecchettin, starting from the private pain of her father, Gino Cecchettin, and culminating in a cinematic story that stems from the book of the victim's father, entitled Dear Giulia.",
-    "runtime": 106,
-    "director": "Paola Randi",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1452561,
-    "title": "Melt",
-    "original_title": "Melt",
-    "italian_title": "Melt",
-    "year": 2023,
-    "poster_path": "/rmPN1gnF3catJqHFq79XdHRNJ80.jpg",
-    "overview": null,
-    "title_en": "Melt",
-    "overview_en": "Jenna and her boyfriend have dinner with an old flame.",
-    "runtime": 12,
-    "director": "Melanie Rish-Ho",
-    "genres": [
-      "Commedia",
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
-    "tmdb_id": 947493,
-    "title": "Il corsetto",
-    "original_title": "Le Corset",
-    "italian_title": "Il corsetto",
-    "year": 2026,
-    "poster_path": "/7RN7uox5vLnMY3GAXKjjGHTkeXR.jpg",
-    "overview": null,
-    "title_en": "Iron Boy",
-    "overview_en": "In rural France, 10-year-old Christophe tries to live up to his rigid and distant father on the family farm. But the young boy starts to lean over and collapse without warning — on the tractor, at school, at dinner... A doctor finds the solution: Christophe must wear an iron corset to keep himself upright. Forced to reinvent his life away from the farm, Christophe discovers a new passion for music, meets a new friend, and follows her into his first mischief. But will any of this really fix what is out of balance?",
-    "runtime": 90,
-    "director": "Louis Clichy",
-    "genres": [
-      "Animazione",
-      "Dramma",
-      "Famiglia"
-    ]
-  },
-  {
-    "tmdb_id": 1293641,
-    "title": "El tesoro de Barracuda",
-    "original_title": "El tesoro de Barracuda",
-    "italian_title": "El tesoro de Barracuda",
-    "year": 2025,
-    "poster_path": "/xBvtbvb2phquP758z5dNoErI9NK.jpg",
-    "overview": null,
-    "title_en": "The Treasure of Barracuda",
-    "overview_en": "Captain Barracuda is obsessed with finding Phineas Crane’s treasure, the most valuable and sought after by all the pirates of the Caribbean. To achieve this, he will need the help of Sparks, a girl who pretends to be a boy in order to survive among the savage members of the Barracuda crew. Finding a Phineas Crane memoir will be the key to reaching the long-awaited treasure and also Sparks’ lifeline, since she is the only one who can read on the ship and, therefore, the only one capable of deciphering that “Letter map” that the found manuscript supposes.",
-    "runtime": 90,
-    "director": "Adrià García",
-    "genres": [
-      "Animazione",
-      "Avventura",
-      "Famiglia"
-    ]
-  },
-  {
-    "tmdb_id": 1472684,
-    "title": "Atlasul universului",
-    "original_title": "Atlasul universului",
-    "italian_title": "Atlasul universului",
-    "year": 2026,
-    "poster_path": "/hdOTtLw94VEOuy4S0ZkCGJXHysF.jpg",
-    "overview": null,
-    "title_en": "Atlas of the Universe",
-    "overview_en": "After mistakenly buying two right-footed shoes, a ten-year-old boy sets off across the countryside to find the missing left one. An unexpected journey of courage, friendship and self-discovery.",
-    "runtime": 85,
-    "director": "Paul Negoescu",
-    "genres": [
-      "Dramma",
-      "Fantasy"
     ]
   },
   {
@@ -490,6 +333,22 @@
     "genres": [
       "Horror",
       "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1583853,
+    "title": "Se domani non torno",
+    "original_title": "Se domani non torno",
+    "italian_title": "Se domani non torno",
+    "year": 2026,
+    "poster_path": "/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
+    "overview": "Giulia è la figlia ideale. Studia, disegna, sogna di vivere in una brughiera, colleziona scatole e regala sorrisi dolcissimi. Poi una sera scompare, inghiottita da una morte assurda: un femminicidio. Travolto dal dolore più atroce che un padre possa sopportare, Gino Cecchettin sceglie di non stare in silenzio, si interroga sugli esiti più efferati di una cultura patriarcale che ancora ci riguarda e trova le parole per ricordare chi era Giulia e cosa ha imparato da lei. In questa lunga lettera scritta insieme a Marco Franzoso, Gino ripercorre la sua storia di padre, i giorni della gioia e quelli del dolore. Commuove e invita a “costruire un’alleanza tra i sessi, anziché consolidare la prevaricazione di uno sull’altro”. Ci esorta ad ascoltare le giovani e i giovani del nostro Paese e a lavorare insieme per costruire relazioni fondate sull’empatia e sul rispetto reciproco.",
+    "title_en": "Se domani non torno",
+    "overview_en": "It follows the tragic life of Giulia Cecchettin, starting from the private pain of her father, Gino Cecchettin, and culminating in a cinematic story that stems from the book of the victim's father, entitled Dear Giulia.",
+    "runtime": 106,
+    "director": "Paola Randi",
+    "genres": [
+      "Dramma"
     ]
   },
   {
@@ -640,6 +499,22 @@
     "director": "Juan Cabral, Santiago Franco",
     "genres": [
       "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1544126,
+    "title": "Il rumore delle cose nuove",
+    "original_title": "Il rumore delle cose nuove",
+    "italian_title": "Il rumore delle cose nuove",
+    "year": 2026,
+    "poster_path": "/2Wq59OquoiAmgs1A86FfJcnzxfs.jpg",
+    "overview": "Andrea è un fotografo, Andreina un’infermiera, e se oggi Andrea è ancora vivo è perché Andreina gli ha donato un pezzo di sé. Umberto al lavoro allevia il dolore e a casa lo infligge ad Alba, che aveva sogni semplici e ora ha smesso di sognare. Ralph di mestiere riproduce suoni, Viola è un’attrice che ha scelto di recitare anche nella vita. E poi c’è Mirko, che ha dieci anni ma fa tanto rumore. Tre famiglie, che per anni si sono sfiorate nelle strade di Milano senza conoscersi, trascorrono le loro esistenze fra rancori, bugie e momenti di felicità finché un incontro imprevisto non stravolge tutto. Allora il caos prende il sopravvento sul fragile equilibrio che le regge e rischia di spazzarle via.",
+    "title_en": "Il rumore delle cose nuove",
+    "overview_en": "A vividly interwoven tale of secrets and connections, Il rumore delle cose nuove centers on three families whose lives have quietly overlapped in the streets of Milan—unaware of each other—for years. Andrea, a photographer, and Andreina, a nurse, share a haunting truth: Andreina has given a part of herself to keep Andrea alive. Umberto finds solace in alleviating others’ pain at work, yet at home he inflicts suffering upon Alba, once hopeful, now dreamless. In another household, Ralph, who crafts sounds, and Viola, an actress who yearns to live as freely as she performs, are quietly struggling—alongside Mirko, a ten‑year‑old whose presence echoes loudly. As the story unfolds, their ordinary routines unravel under the weight of these “noisy” secrets—some seemingly trivial, others utterly unbearable. Chaos tumbles over the fragile bonds holding them together, forcing confrontations with truths they can no longer ignore.",
+    "runtime": 113,
+    "director": "Paolo Genovese",
+    "genres": [
+      "Dramma"
     ]
   },
   {
@@ -831,6 +706,22 @@
     ]
   },
   {
+    "tmdb_id": 1616884,
+    "title": "Chronos - Fluss der Zeit",
+    "original_title": "Chronos - Fluss der Zeit",
+    "italian_title": "Chronos - Fluss der Zeit",
+    "year": 2026,
+    "poster_path": "/9Uvmwo3w5fmkSAWsGgCswkJedl7.jpg",
+    "overview": null,
+    "title_en": "Chronos - Flow of Time",
+    "overview_en": "Tracing biographical lines, Volker Koepp steps into his oeuvre, rich in encounters. Returning to Lithuania, Moldova and Chernivtsi, he looks back and brings things up to date, as the war against Ukraine becomes a determining element of the present. Epic.",
+    "runtime": 200,
+    "director": "Volker Koepp",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
     "tmdb_id": 805944,
     "title": "Giulia in ottobre",
     "original_title": "Giulia in ottobre",
@@ -862,6 +753,22 @@
       "Fantascienza",
       "Mistero",
       "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 1181125,
+    "title": "Un giorno senza donne",
+    "original_title": "The Day Iceland Stood Still",
+    "italian_title": "Un giorno senza donne",
+    "year": 2025,
+    "poster_path": "/rqqV4QZxYSuCY045OH8Ell8Ybez.jpg",
+    "overview": "Quando, in una mattina d'autunno del 1975, il 90% delle donne islandesi si assentò dal lavoro e dalle proprie case, rifiutandosi di lavorare, cucinare o prendersi cura dei figli, paralizzò il Paese e fece dell'Islanda il \"miglior posto al mondo per essere donna\".",
+    "title_en": "The Day Iceland Stood Still",
+    "overview_en": "When 90% of Iceland’s women walked off the job and out of their homes one morning in 1975, they brought their country to its knees and catapulted Iceland to the forefront of today's global fight for gender equality. Unexpectedly funny, laced with evocative animation and powerfully told by the women who lived it – this is the true story of 12 hours that launched a revolution.",
+    "runtime": 70,
+    "director": "Pamela Hogan",
+    "genres": [
+      "Documentario"
     ]
   },
   {
@@ -909,6 +816,23 @@
     "runtime": 120,
     "director": "Luchino Visconti",
     "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1556605,
+    "title": "A Quiet day",
+    "original_title": "A Quiet day",
+    "italian_title": "A Quiet day",
+    "year": 2025,
+    "poster_path": "/rjKwngfOkK0H1KBgmepxMRLWwVb.jpg",
+    "overview": null,
+    "title_en": "A Quiet Day",
+    "overview_en": "In a bare house on an ordinary afternoon, a nervous woman prepares for a visitor whose calm presence hides an unspoken demand. Through whispered bargains, rigged games and desperate tricks, their encounter unravels into a quiet duel of chance and control. A Quiet Day is a slow-burn chamber piece about fear, power, and the fragile hope that one more gamble might change everything.",
+    "runtime": 8,
+    "director": "Gabriel M.",
+    "genres": [
+      "Horror",
       "Dramma"
     ]
   },
@@ -978,6 +902,22 @@
     "genres": [
       "Dramma",
       "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1735980,
+    "title": "Domenica Capitale",
+    "original_title": "Domenica Capitale",
+    "italian_title": "Domenica Capitale",
+    "year": 2026,
+    "poster_path": "/u0IOA3PWQXU6D9RPxvmsmpPs7DV.jpg",
+    "overview": null,
+    "title_en": "Domenica Capitale",
+    "overview_en": "Director Giovanna Giuliani describes herself as a listener to two women nearing retirement: one works at a municipal counseling desk in Rome, the other at a speech therapy clinic in Naples. Both have the ability to give voice to those who cannot speak for themselves, because they are good listeners. Their lives unfold primarily on Sundays.",
+    "runtime": 165,
+    "director": "Giovanna Giuliani",
+    "genres": [
+      "Documentario"
     ]
   },
   {
@@ -1143,6 +1083,23 @@
     ]
   },
   {
+    "tmdb_id": 56142,
+    "title": "Gruppo di famiglia in un interno",
+    "original_title": "Gruppo di Famiglia in un Interno",
+    "italian_title": "Gruppo di famiglia in un interno",
+    "year": 1974,
+    "poster_path": "/aKTailFr6wWkhS2PWKVFWm29ESK.jpg",
+    "overview": "Un professore americano sessantenne decide di ritirarsi tra libri e quadri nella sua casa in un antico palazzo di Roma, ereditato dalla madre italiana. Un giorno la sua quiete viene turbata dall'insistenza della marchesa Bianca Brumonti, che riesce a farsi affittare dal professore l'appartamento del piano di sopra per darlo al suo giovane amante Konrad. Tra la marchesa, sua figlia Lietta e il suo compagno Stefano e Konrad, si viene a formare un singolare gruppo di famiglia, nel quale l'anziano gentiluomo viene forzato ad entrare, salvo poi accorgersi alla fine che questa intrusione ha significato per lui un ritorno alla vita e alle relazioni umane. Un avvenimento tragico riporterà l'ordine primitivo nella vita del professore, allontanando la burrascosa famiglia, ma lasciandolo anche più consapevole della morte che si avvicina.",
+    "title_en": "Conversation Piece",
+    "overview_en": "A retired professor of American origin lives a solitary life in a luxurious palazzo in Rome. He is confronted by a vulgar Italian marchesa and her lover, her daughter and her daughter's boyfriend, and forced to rent to them an apartment on the upper floor of his palazzo. From this point on his quiet routine is turned into chaos by his tenants' machinations, and everybody's life takes an unexpected but inevitable turn.",
+    "runtime": 126,
+    "director": "Luchino Visconti",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
     "tmdb_id": 1182047,
     "title": "The Apprentice - Alle origini di Trump",
     "original_title": "The Apprentice",
@@ -1297,20 +1254,18 @@
     ]
   },
   {
-    "tmdb_id": 1723882,
-    "title": "Un weekend artificiale",
-    "original_title": "Un weekend artificiale",
-    "italian_title": "Un weekend artificiale",
+    "tmdb_id": 1796258,
+    "title": "La linea dell’orizzonte",
+    "original_title": "La linea dell’orizzonte",
+    "italian_title": "La linea dell’orizzonte",
     "year": 2026,
-    "poster_path": "/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
-    "overview": "Leonardo, parrucchiere fiorentino, viene invitato insieme ad altri sei sconosciuti in una villa da sogno per partecipare a un esperimento senza precedenti: dovranno scoprire chi tra di loro è un umanoide creato con l’intelligenza artificiale. Un incasinatissimo weekend di sospetti, emozioni e colpi di scena… prima che siano i sentimenti e la vita vera a mandare tutti in tilt.",
-    "title_en": "Un weekend artificiale",
-    "overview_en": null,
-    "runtime": null,
-    "director": "Leonardo Pieraccioni",
-    "genres": [
-      "Commedia"
-    ]
+    "poster_path": null,
+    "overview": null,
+    "title_en": "La linea dell’orizzonte",
+    "overview_en": "This documentary offers a rare, intimate portrait of renowned artist Tullio Pericoli. Filmed patiently over a long period, the film captures him sketching landscapes and human faces, bridging artistic traditions from the Renaissance to the modern era. Blending art, memory, and autobiography, it traces his journey from a young dreamer arriving in 1960s Milan to an intensely private master of his craft.",
+    "runtime": 67,
+    "director": "Federico Frascherelli",
+    "genres": []
   },
   {
     "tmdb_id": 1649403,
@@ -1327,36 +1282,6 @@
     "genres": [
       "Musica",
       "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 1796258,
-    "title": "La linea dell’orizzonte",
-    "original_title": "La linea dell’orizzonte",
-    "italian_title": "La linea dell’orizzonte",
-    "year": 2026,
-    "poster_path": null,
-    "overview": null,
-    "title_en": "La linea dell’orizzonte",
-    "overview_en": "This documentary offers a rare, intimate portrait of renowned artist Tullio Pericoli. Filmed patiently over a long period, the film captures him sketching landscapes and human faces, bridging artistic traditions from the Renaissance to the modern era. Blending art, memory, and autobiography, it traces his journey from a young dreamer arriving in 1960s Milan to an intensely private master of his craft.",
-    "runtime": 67,
-    "director": "Federico Frascherelli",
-    "genres": []
-  },
-  {
-    "tmdb_id": 1544126,
-    "title": "Il rumore delle cose nuove",
-    "original_title": "Il rumore delle cose nuove",
-    "italian_title": "Il rumore delle cose nuove",
-    "year": 2026,
-    "poster_path": "/2Wq59OquoiAmgs1A86FfJcnzxfs.jpg",
-    "overview": "Andrea è un fotografo, Andreina un’infermiera, e se oggi Andrea è ancora vivo è perché Andreina gli ha donato un pezzo di sé. Umberto al lavoro allevia il dolore e a casa lo infligge ad Alba, che aveva sogni semplici e ora ha smesso di sognare. Ralph di mestiere riproduce suoni, Viola è un’attrice che ha scelto di recitare anche nella vita. E poi c’è Mirko, che ha dieci anni ma fa tanto rumore. Tre famiglie, che per anni si sono sfiorate nelle strade di Milano senza conoscersi, trascorrono le loro esistenze fra rancori, bugie e momenti di felicità finché un incontro imprevisto non stravolge tutto. Allora il caos prende il sopravvento sul fragile equilibrio che le regge e rischia di spazzarle via.",
-    "title_en": "Il rumore delle cose nuove",
-    "overview_en": "A vividly interwoven tale of secrets and connections, Il rumore delle cose nuove centers on three families whose lives have quietly overlapped in the streets of Milan—unaware of each other—for years. Andrea, a photographer, and Andreina, a nurse, share a haunting truth: Andreina has given a part of herself to keep Andrea alive. Umberto finds solace in alleviating others’ pain at work, yet at home he inflicts suffering upon Alba, once hopeful, now dreamless. In another household, Ralph, who crafts sounds, and Viola, an actress who yearns to live as freely as she performs, are quietly struggling—alongside Mirko, a ten‑year‑old whose presence echoes loudly. As the story unfolds, their ordinary routines unravel under the weight of these “noisy” secrets—some seemingly trivial, others utterly unbearable. Chaos tumbles over the fragile bonds holding them together, forcing confrontations with truths they can no longer ignore.",
-    "runtime": 113,
-    "director": "Paolo Genovese",
-    "genres": [
-      "Dramma"
     ]
   },
   {
@@ -1407,6 +1332,23 @@
     "director": "Andreas Pichler",
     "genres": [
       "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 39130,
+    "title": "Pranzo alle otto",
+    "original_title": "Dinner at Eight",
+    "italian_title": "Pranzo alle otto",
+    "year": 1933,
+    "poster_path": "/3ZycwzkR117puI8Z4aYNObro9IQ.jpg",
+    "overview": "Un pranzo mondano fa da sfondo a una serie di comportamenti e di rapporti che si intrecciano durante la serata. La moglie di un armatore in crisi invita due nobili inglesi che disdegnano la serata e questo fatto crea malumore nella padrone di casa: al loro posto, interverranno come rimpiazzo, due parenti poveri. Gli altri invitati sono un'anziana attrice molto ricca e vecchia fiamma del marito, un attore sulla via del tramonto anche perché alcolizzato, un capitano d'industria con la moglie, il medico di famiglia e consorte.",
+    "title_en": "Dinner at Eight",
+    "overview_en": "An ambitious New York socialite plans an extravagant dinner party as her businessman husband, Oliver, contends with financial woes, causing a lot of tension between the couple. Meanwhile, their high-society friends and associates, including the gruff Dan Packard and his sultry spouse, Kitty, contend with their own entanglements, leading to revelations at the much-anticipated dinner.",
+    "runtime": 111,
+    "director": "George Cukor",
+    "genres": [
+      "Commedia",
+      "Dramma"
     ]
   },
   {
@@ -1476,22 +1418,6 @@
     ]
   },
   {
-    "tmdb_id": 1765072,
-    "title": "You Can See Everything",
-    "original_title": "You Can See Everything",
-    "italian_title": "You Can See Everything",
-    "year": 2026,
-    "poster_path": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-    "overview": "Trentaquattro giorni prima di entrare in prigione, Elizabeth Holmes, la controversa fondatrice di una società della Silicon Valley, invita una troupe cinematografica scettica a documentare ogni suo passo. Quello che inizia come un ritratto intimo di una figura enigmatica condannata per frode si trasforma in un sorprendente viaggio di tre anni negli abissi di una realtà sempre più inquietante e difficile da decifrare.",
-    "title_en": "You Can See Everything",
-    "overview_en": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-    "runtime": 174,
-    "director": "Nathan Fielder, Lance Oppenheim",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
     "tmdb_id": 1531121,
     "title": "Il canto di Alina",
     "original_title": "Il canto di Alina",
@@ -1555,23 +1481,6 @@
       "Dramma",
       "Crime",
       "Thriller"
-    ]
-  },
-  {
-    "tmdb_id": 1645164,
-    "title": "Serpenti",
-    "original_title": "Serpenti",
-    "italian_title": "Serpenti",
-    "year": 2026,
-    "poster_path": "/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
-    "overview": "Paolo Marra ha ucciso sua moglie, senza un perché. Divorato dal senso di colpa, decide di costituirsi: vuole pagare, scontare la pena, ridare dignità alla donna che ha ucciso e a sé stesso. Tra poliziotti distratti, avvocati zelanti, cartomanti e complicati cavilli burocratici, nessuno lo prende sul serio. L'uomo si scopre vittima di un paradosso kafkiano: per quanto lo desideri, non riesce a farsi arrestare. Il perfetto capro espiatorio di una società grottesca che ignora chi vuole redimersi.",
-    "title_en": "Snake",
-    "overview_en": "Paolo Marra killed his wife for no reason. Consumed by guilt, he decides to turn himself in: he wants to pay the price, serve his sentence, and restore dignity to the woman he killed—and to himself. Amid distracted police officers, zealous lawyers, fortune-tellers, and complicated bureaucratic red tape, no one takes him seriously. The man finds himself the victim of a Kafkaesque paradox: no matter how much he wants it, he cannot get himself arrested. He is the perfect scapegoat for a grotesque society that ignores those who seek redemption.",
-    "runtime": 93,
-    "director": "Roberto De Paolis",
-    "genres": [
-      "Dramma",
-      "Commedia"
     ]
   },
   {
@@ -1678,23 +1587,6 @@
     ]
   },
   {
-    "tmdb_id": 1503762,
-    "title": "Ragione e sentimento",
-    "original_title": "Sense and Sensibility",
-    "italian_title": "Ragione e sentimento",
-    "year": 2026,
-    "poster_path": "/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
-    "overview": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla passione romantica (sensibility, il sentimento) –, dovranno navigare tra le rigide convenzioni sociali e i dolori dei loro rispettivi e tormentati primi amori, incarnati dalle figure di Edward Ferrars, John Willoughby e del colonnello Brandon.",
-    "title_en": "Sense and Sensibility",
-    "overview_en": "A charming, witty, and deeply relatable story of love and sisterhood.",
-    "runtime": 132,
-    "director": "Georgia Oakley",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
     "tmdb_id": 1755291,
     "title": "NAZA",
     "original_title": "NAZA",
@@ -1709,40 +1601,6 @@
     "genres": [
       "Documentario",
       "Guerra"
-    ]
-  },
-  {
-    "tmdb_id": 1639616,
-    "title": "Zustìssia",
-    "original_title": "Zustìssia",
-    "italian_title": "Zustìssia",
-    "year": 2026,
-    "poster_path": "/15IfVZjAiwUkTx7Bib58wJTjOSi.jpg",
-    "overview": "Nel 1991, un triplice omicidio commesso sui monti del Sud Sardegna porta alla rapida condanna di un uomo innocente: Beniamino Zuncheddu. Tre gradi di giudizio in un anno per dare un ergastolo. Venticinque anni dopo, un giovane avvocato decide di lottare - pro bono - per restituirgli la libertà. La storia di una vita rubata dal più lungo errore giudiziario della storia italiana: 33 anni di ingiusta detenzione. Ed è anche la storia dell’emozionante battaglia che l’avvocato Mauro Trogu e altri alleati hanno ingaggiato per arrivare alla revisione del processo e all’assoluzione, giunta il 26 gennaio 2024.",
-    "title_en": "Zustìssia",
-    "overview_en": "Set among the mountains of southern Sardinia, Zustissia reconstructs the 1991 triple homicide that led to Zuncheddu being sentenced to life imprisonment. He spent 33 years in prison before being definitively acquitted on 26 January 2024, following a retrial initiated by lawyer Mauro Trogu.",
-    "runtime": 111,
-    "director": "Francesco Piras",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 950028,
-    "title": "The Invite - Il piacere è tutto nostro",
-    "original_title": "The Invite",
-    "italian_title": "The Invite - Il piacere è tutto nostro",
-    "year": 2026,
-    "poster_path": "/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
-    "overview": "Il matrimonio di Joe e Angela è ormai logorato dalla routine, ma quando invitano a cena i loro enigmatici vicini di casa, una coppia affascinante e spregiudicata, la serata – e la loro relazione – prenderà una piega inaspettata.",
-    "title_en": "The Invite",
-    "overview_en": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-    "runtime": 107,
-    "director": "Olivia Wilde",
-    "genres": [
-      "Commedia",
-      "Dramma",
-      "Romance"
     ]
   },
   {
@@ -1779,20 +1637,19 @@
     ]
   },
   {
-    "tmdb_id": 1576934,
-    "title": "The Echo Chamber",
-    "original_title": "The Echo Chamber",
-    "italian_title": "The Echo Chamber",
+    "tmdb_id": 1723882,
+    "title": "Un weekend artificiale",
+    "original_title": "Un weekend artificiale",
+    "italian_title": "Un weekend artificiale",
     "year": 2026,
-    "poster_path": "/sY8OENcGshVtHDcV5JUQsPgxbsO.jpg",
-    "overview": "Una storia d’amore in cui i confini tra presenza e assenza, cura e dipendenza, desiderio e controllo si confondono fino a dissolversi. Leo e Anne si inseguono, si sfiorano, si perdono, si cercano. Non riescono a lasciarsi né a liberarsi. Tra le stanze risuona la voce di Ava che attraversa il tempo e lascia affiorare ciò che resiste, o che non può più essere trattenuto.",
-    "title_en": "The Echo Chamber",
-    "overview_en": "Leo and Ava chase each other—coming close, drifting apart, and searching for their way back. They cannot let go, nor break free. Through the rooms, Ava’s voice echoes across time, carrying to the surface what endures—and what can no longer be held back.",
-    "runtime": 123,
-    "director": "Andrea Pallaoro",
+    "poster_path": "/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
+    "overview": "Leonardo, parrucchiere fiorentino, viene invitato insieme ad altri sei sconosciuti in una villa da sogno per partecipare a un esperimento senza precedenti: dovranno scoprire chi tra di loro è un umanoide creato con l’intelligenza artificiale. Un incasinatissimo weekend di sospetti, emozioni e colpi di scena… prima che siano i sentimenti e la vita vera a mandare tutti in tilt.",
+    "title_en": "Un weekend artificiale",
+    "overview_en": null,
+    "runtime": null,
+    "director": "Leonardo Pieraccioni",
     "genres": [
-      "Dramma",
-      "Romance"
+      "Commedia"
     ]
   },
   {
@@ -1913,20 +1770,6 @@
     ]
   },
   {
-    "tmdb_id": 1604697,
-    "title": "White Lies",
-    "original_title": "White Lies",
-    "italian_title": "White Lies",
-    "year": 2024,
-    "poster_path": "/8ZK898QlMDclBm8lMT5J2FMtqmC.jpg",
-    "overview": null,
-    "title_en": "White Lies",
-    "overview_en": "After finding out the love of his life is hiding a secret, an emotionally disturbed man will stop at nothing to get answers and win back her heart.",
-    "runtime": 84,
-    "director": "Kaamel Hasaun",
-    "genres": []
-  },
-  {
     "tmdb_id": 1702462,
     "title": "Balcanica",
     "original_title": "Balcanica",
@@ -1938,6 +1781,22 @@
     "overview_en": "Music has been banned in Afghanistan, and now an orchestra conductor and his son, a tuba player, attempt to start over by emigrating along the Balkan route. During their flight, seemingly endless, they cross paths with an Italian woman, a doctor. This encounter will change the two refugees’ lives and that of the young woman as well.",
     "runtime": 81,
     "director": "Nicola Sorcinelli",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 124083,
+    "title": "Guelwaar",
+    "original_title": "Guelwaar",
+    "italian_title": "Guelwaar",
+    "year": 1993,
+    "poster_path": "/1i7SHyDsof3CeKcr9zHTsbKsRKp.jpg",
+    "overview": null,
+    "title_en": "Guelwaar",
+    "overview_en": "As funeral preparations begin for Pierre Henri 'Guelwaar' Thioune, rumour spreads that his death may have been an assassination in retaliation for his radical political beliefs and constant criticism of the current regime. When the heroic Guelwaar's cadaver is stolen, his Francophile son, Barthelemy, contacts the authorities. As Detective Gora begrudgingly investigates, he discovers that Guelwaar was a complicated man guilty of his own share of sins.",
+    "runtime": 115,
+    "director": "Ousmane Sembène",
     "genres": [
       "Dramma"
     ]
@@ -2008,6 +1867,22 @@
       "Fantascienza",
       "Thriller",
       "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 1765072,
+    "title": "You Can See Everything",
+    "original_title": "You Can See Everything",
+    "italian_title": "You Can See Everything",
+    "year": 2026,
+    "poster_path": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+    "overview": "Trentaquattro giorni prima di entrare in prigione, Elizabeth Holmes, la controversa fondatrice di una società della Silicon Valley, invita una troupe cinematografica scettica a documentare ogni suo passo. Quello che inizia come un ritratto intimo di una figura enigmatica condannata per frode si trasforma in un sorprendente viaggio di tre anni negli abissi di una realtà sempre più inquietante e difficile da decifrare.",
+    "title_en": "You Can See Everything",
+    "overview_en": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+    "runtime": 174,
+    "director": "Nathan Fielder, Lance Oppenheim",
+    "genres": [
+      "Documentario"
     ]
   },
   {
@@ -2099,6 +1974,23 @@
     ]
   },
   {
+    "tmdb_id": 1503762,
+    "title": "Ragione e sentimento",
+    "original_title": "Sense and Sensibility",
+    "italian_title": "Ragione e sentimento",
+    "year": 2026,
+    "poster_path": "/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
+    "overview": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla passione romantica (sensibility, il sentimento) –, dovranno navigare tra le rigide convenzioni sociali e i dolori dei loro rispettivi e tormentati primi amori, incarnati dalle figure di Edward Ferrars, John Willoughby e del colonnello Brandon.",
+    "title_en": "Sense and Sensibility",
+    "overview_en": "A charming, witty, and deeply relatable story of love and sisterhood.",
+    "runtime": 132,
+    "director": "Georgia Oakley",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
     "tmdb_id": 1400940,
     "title": "Clayface",
     "original_title": "Clayface",
@@ -2152,6 +2044,40 @@
     ]
   },
   {
+    "tmdb_id": 1645164,
+    "title": "Serpenti",
+    "original_title": "Serpenti",
+    "italian_title": "Serpenti",
+    "year": 2026,
+    "poster_path": "/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
+    "overview": "Paolo Marra ha ucciso sua moglie, senza un perché. Divorato dal senso di colpa, decide di costituirsi: vuole pagare, scontare la pena, ridare dignità alla donna che ha ucciso e a sé stesso. Tra poliziotti distratti, avvocati zelanti, cartomanti e complicati cavilli burocratici, nessuno lo prende sul serio. L'uomo si scopre vittima di un paradosso kafkiano: per quanto lo desideri, non riesce a farsi arrestare. Il perfetto capro espiatorio di una società grottesca che ignora chi vuole redimersi.",
+    "title_en": "Snake",
+    "overview_en": "Paolo Marra killed his wife for no reason. Consumed by guilt, he decides to turn himself in: he wants to pay the price, serve his sentence, and restore dignity to the woman he killed—and to himself. Amid distracted police officers, zealous lawyers, fortune-tellers, and complicated bureaucratic red tape, no one takes him seriously. The man finds himself the victim of a Kafkaesque paradox: no matter how much he wants it, he cannot get himself arrested. He is the perfect scapegoat for a grotesque society that ignores those who seek redemption.",
+    "runtime": 93,
+    "director": "Roberto De Paolis",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1294698,
+    "title": "Il caso 137",
+    "original_title": "Dossier 137",
+    "italian_title": "Il caso 137",
+    "year": 2025,
+    "poster_path": "/5MemnGyR35TBztl1J1K80tE2HAa.jpg",
+    "overview": "Stéphanie è un'ispettrice dell'IGPN, l'organismo disciplinare che vigila sulla polizia francese. È lei che si trova a indagare sul caso di Guillaume, un ragazzo partito con la famiglia alla volta di Parigi per partecipare a una manifestazione e ferito gravemente da un proiettile antisommossa. Quando Stéphanie inizia a ricostruire l'accaduto capisce che il caso la tocca anche a livello personale, ma malgrado l'ostilità di molti colleghi decide di andare fino in fondo.",
+    "title_en": "Case 137",
+    "overview_en": "Stéphanie, a police officer working for Internal Affairs, is assigned to a case involving a young man severely wounded during a tense and chaotic demonstration in Paris. While she finds no evidence of illegitimate police violence, the case takes a personal turn when she discovers the victim is from her hometown.",
+    "runtime": 115,
+    "director": "Dominik Moll",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1368337,
     "title": "Odissea",
     "original_title": "The Odyssey",
@@ -2167,22 +2093,6 @@
       "Avventura",
       "Azione",
       "Fantasy"
-    ]
-  },
-  {
-    "tmdb_id": 1399462,
-    "title": "Calle Malaga",
-    "original_title": "Calle Málaga",
-    "italian_title": "Calle Malaga",
-    "year": 2025,
-    "poster_path": "/azbn8uDQ7kAyDX57EKjsrUFSCSr.jpg",
-    "overview": "L'anima di Calle Malaga racconta la storia di Maria Angeles, un'anziana signora spagnola che vive da sempre a Tangeri, profondamente legata alla sua casa e alla sua comunità. Quando la figlia, in difficoltà economiche, arriva per vendere l'abitazione e trasferirla, Maria Angeles si oppone per difendere la sua indipendenza e i suoi ricordi.  Il film vede protagonista una straordinaria Carmen Maura nei panni di un'ottantenne vitale e risolta, diretta dalla regista marocchina Maryam Touzani in un delicato ritratto di famiglia, legami e libertà personale.",
-    "title_en": "Calle Malaga",
-    "overview_en": "An aging Spanish woman in Tangier resists her daughter's plan to sell her home. She fights to keep her home, reclaims belongings and rediscovers love and desire.",
-    "runtime": 116,
-    "director": "Maryam Touzani",
-    "genres": [
-      "Dramma"
     ]
   },
   {
@@ -2218,6 +2128,23 @@
     ]
   },
   {
+    "tmdb_id": 1553969,
+    "title": "Sheep in the Box",
+    "original_title": "箱の中の羊",
+    "italian_title": "Sheep in the Box",
+    "year": 2026,
+    "poster_path": "/yYFPOWP1Kry7w6BfPTTkgG1E70m.jpg",
+    "overview": "In un futuro prossimo, a Yokohama, la coppia dei Komoto, che ha tragicamente perso il figlio di sette anni Kakeru, decide di avvalersi di REbirth, un programma pensato per le famiglie nella loro situazione: riceveranno in prova gratuita un androide guidato dall'intelligenza artificiale, con le fattezze e i ricordi di Kakeru, destinato a diventare un surrogato in tutto e per tutto del figlio perduto. Il padre Kensuke è inizialmente scettico, laddove la madre Otone si affeziona istantaneamente al nuovo Kakeru, scegliendo di vivere nell'autosuggestione. Finché una visita della madre e della sorella non riportano Otone alla realtà, mentre il nuovo Kakeru stringe segretamente amicizia con altri suoi \"simili\".",
+    "title_en": "Sheep in the Box",
+    "overview_en": "In the near future, architect Otone Komoto is married to Kensuke, who runs a construction company. The married couple decide to welcome a humanoid robot into their home as their son.",
+    "runtime": 126,
+    "director": "Hirokazu Kore-eda",
+    "genres": [
+      "Dramma",
+      "Fantascienza"
+    ]
+  },
+  {
     "tmdb_id": 1111493,
     "title": "Un Andantino",
     "original_title": "Un Andantino",
@@ -2230,6 +2157,23 @@
     "runtime": 65,
     "director": "Alejo Moguillansky",
     "genres": []
+  },
+  {
+    "tmdb_id": 1493024,
+    "title": "Il Bene Comune",
+    "original_title": "Il Bene Comune",
+    "italian_title": "Il Bene Comune",
+    "year": 2026,
+    "poster_path": "/nUMekW0Zs12SniJuo1L1V9OypUd.jpg",
+    "overview": "Una guida turistica e un’attrice di “insuccesso” accompagnano quattro detenute sul massiccio del Pollino, alla ricerca del secolare Pino Loricato, simbolo di resilienza. Il cammino diventa presto un viaggio di trasformazione, fatto di incontri e cambiamenti, scandito da una musica che prende forma passo dopo passo, fino a diventare una voce collettiva capace di tenere insieme corpi, emozioni e storie diverse. In una natura dura e bellissima, attraversata da una solidarietà inattesa, emergono frammenti di vite complesse, ferite ancora aperte e il bisogno profondo di essere viste e ascoltate. Parlare, cantare, dare un nome a ciò che si è vissuto diventa un modo per sciogliere tensioni e ritrovare un senso di appartenenza, almeno finché un evento improvviso non rimette tutto in discussione. Perché, a volte, raccontarsi è già un primo passo verso qualcosa di più grande.",
+    "title_en": "Il Bene Comune",
+    "overview_en": "A tour guide and a failed actress accompany four inmates to the Pollino massif, in search of the centuries-old Bosnian pine, a symbol of resilience. The journey quickly becomes a journey of transformation, filled with encounters and changes, punctuated by a music that takes shape step by step, becoming a collective voice capable of bringing together diverse bodies, emotions, and stories. In a harsh yet beautiful landscape, punctuated by unexpected solidarity, fragments of complex lives emerge, along with open wounds and a profound need to be seen and heard. Talking, singing, and naming what has been experienced becomes a way to release tensions and rediscover a sense of belonging, at least until a sudden event calls everything into question. Because, sometimes, sharing one's story is already a first step toward something bigger.",
+    "runtime": 102,
+    "director": "Rocco Papaleo",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
   },
   {
     "tmdb_id": 1329016,
@@ -2263,6 +2207,26 @@
     "genres": [
       "Commedia",
       "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1538497,
+    "title": "Hexe - Il regno delle streghe",
+    "original_title": "Hexed",
+    "italian_title": "Hexe - Il regno delle streghe",
+    "year": 2026,
+    "poster_path": "/v7CwUke6H7LhVHR5VMb1RXUWNp5.jpg",
+    "overview": "Billie Doe, un'adolescente impulsiva e non convenzionale, scopre di avere abilità magiche che la portano dalla periferia a Hexe, un regno di streghe. Con la cauta madre Alice indaga sui segreti di famiglia legati al mondo delle streghe.",
+    "title_en": "Hexed",
+    "overview_en": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+    "runtime": 103,
+    "director": "Jason Hand, ฝน วีระสุนทร",
+    "genres": [
+      "Avventura",
+      "Animazione",
+      "Famiglia",
+      "Fantasy",
+      "Commedia"
     ]
   },
   {
@@ -2354,6 +2318,64 @@
     ]
   },
   {
+    "tmdb_id": 81684,
+    "title": "Il Gruffalò e la sua piccolina",
+    "original_title": "The Gruffalo's Child",
+    "italian_title": "Il Gruffalò e la sua piccolina",
+    "year": 2011,
+    "poster_path": "/vKKyCt3race698SsT5vJ4ZCNKKN.jpg",
+    "overview": "Alcuni anni sono passati e il Gruffalò vive in una grotta ai margini della foresta con la sua piccolina. La figlia del Gruffalò sta crescendo e vuole conoscere ed esplorare il mondo, ma il padre, preoccupato per la sua sicurezza, la mette in guardia sui pericoli della foresta e soprattutto sulla presenza del \"Grande Topo Cattivo\". Incurante degli avvertimenti paterni, una notte la piccola si avventura nei boschi. Incontra un serpente malvago, un gufo pignolo e una volpe codarda e un piccolo topo che non somiglia per niente al \"Grande Topo Cattivo\" dei racconti di papà Gruffalò. Anche in questo caso il topo deve dar fondo a tutta la sua ingegnosità per convincere, spaventare ed infine allontanare la figlia del Gruffalò che, correndo, rientra al sicuro e al calduccio tra le braccia del suo grosso papà.",
+    "title_en": "The Gruffalo's Child",
+    "overview_en": "A follow up to the 2009 animated feature and adapted from the childrens' book by Julia Donaldson and Alex Scheffler.  The Gruffalo's child explores the deep dark wood in search of the big bad mouse and meets the Snake, Owl and Fox in the process.  She eventually finds the mouse, who manages to outwit her like the Gruffalo before!",
+    "runtime": 30,
+    "director": "Johannes Weiland, Uwe Heidschötter",
+    "genres": [
+      "Avventura",
+      "Animazione",
+      "Famiglia",
+      "Fantasy",
+      "televisione film"
+    ]
+  },
+  {
+    "tmdb_id": 1049082,
+    "title": "Jumbo - La voce di Don",
+    "original_title": "Jumbo",
+    "italian_title": "Jumbo - La voce di Don",
+    "year": 2025,
+    "poster_path": "/mvuegXVe8JJWcHTv4N0mNWPjL3W.jpg",
+    "overview": "La storia di Don, un bambino che vive insieme alla nonna e ai suoi sogni. I coetanei lo hanno marchiato con il nome “Jumbo”, un nome che pesa come un’ombra. Eppure, nel suo cuore, arde un desiderio fragile e potente: dimostrare di essere molto più di ciò che gli altri vedono. Don cerca di riscattarsi e dimostrare il suo valore mettendo in scena una rappresentazione teatrale ispirata a un prezioso libro di fiabe, l'ultima eredità dei suoi i genitori, un palcoscenico su cui, finalmente, poter brillare. Ma quando un bullo gli sottrae quel libro, Don sprofonda nello sconforto.",
+    "title_en": "Jumbo",
+    "overview_en": "Desperate to prove to his peers that he’s more than a chubby kid that never wins at anything, little Don wishes to win his local talent show by performing a stageplay inspired from a storybook written by his late parents. When unfortunately a bully stole that book, at the same time a little ghost appeared from the spirit world asking for Don’s help to reunite her with her parents’ spirits. The two new friends then embark on an exciting adventure to help each other and learn the true meaning of friendship.",
+    "runtime": 102,
+    "director": "Ryan Adriandhy",
+    "genres": [
+      "Animazione",
+      "Commedia",
+      "Dramma",
+      "Famiglia",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 16859,
+    "title": "Kiki - Consegne a domicilio",
+    "original_title": "魔女の宅急便",
+    "italian_title": "Kiki - Consegne a domicilio",
+    "year": 1989,
+    "poster_path": "/m6Kmv8RPluTikRcQT0kIlTibsfD.jpg",
+    "overview": "Nella parabola della streghetta dagli umili abiti rivive il consueto viaggio iniziatico di Miyazaki, spesso condotto tra i cieli (in precedenza ne Il castello nel cielo, mentre Porco rosso innalzerà ai massimi livelli il feeling eroico con l'aria) e spesso con una ragazzina come protagonista. Kiki raggiunge la fatidica età di passaggio, quella dei quattordici anni, per abbandonare la dimora natia e scoprire la vecchia Europa, ancora una volta coacervo ideale di stilemi miyazakiani. Modellata su Stoccolma e Lisbona, la città in cui Kiki approda a cavallo della sua scopa volante è il luogo dello smarrimento e dell'emancipazione, in cui l'eroina è da un lato costretta ben presto a una necessaria e dura introspezione, ma può anche sentirsi accettata nonostante la sua diversità; il luogo in cui, attraverso il duro lavoro, conquistare la propria matura autonomia.",
+    "title_en": "Kiki's Delivery Service",
+    "overview_en": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+    "runtime": 99,
+    "director": "Hayao Miyazaki",
+    "genres": [
+      "Animazione",
+      "Famiglia",
+      "Fantasy"
+    ]
+  },
+  {
     "tmdb_id": 34584,
     "title": "La storia infinita",
     "original_title": "Die unendliche Geschichte",
@@ -2392,6 +2414,22 @@
     ]
   },
   {
+    "tmdb_id": 1400837,
+    "title": "Mammina",
+    "original_title": "Other Mommy",
+    "italian_title": "Mammina",
+    "year": 2026,
+    "poster_path": "/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
+    "overview": "Un viaggio terrificante nel mondo sempre più oscuro di Bela, una ragazzina che instaura un rapporto con un’entità sinistra presente nella sua casa, che assomiglia in modo inquietante alla sua stessa madre.",
+    "title_en": "Other Mommy",
+    "overview_en": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "runtime": 93,
+    "director": "Rob Savage",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
     "tmdb_id": 1704895,
     "title": "Quello che Resta di Noi",
     "original_title": "Quello che Resta di Noi",
@@ -2409,6 +2447,41 @@
     ]
   },
   {
+    "tmdb_id": 1153576,
+    "title": "Street Fighter",
+    "original_title": "Street Fighter",
+    "italian_title": "Street Fighter",
+    "year": 2026,
+    "poster_path": "/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+    "overview": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guardare in faccia i demoni del passato. Perché qui non esistono seconde possibilità: se perdi, è GAME OVER.",
+    "title_en": "Street Fighter",
+    "overview_en": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "runtime": 120,
+    "director": "Kitao Sakurai",
+    "genres": [
+      "Azione",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 1187326,
+    "title": "Taddeo l’esploratore e la lampada magica",
+    "original_title": "Tadeo Jones y La Lámpara Maravillosa",
+    "italian_title": "Taddeo l’esploratore e la lampada magica",
+    "year": 2026,
+    "poster_path": "/h4HmEpoNoFCuOkOzY0LIGEeQTuX.jpg",
+    "overview": "Taddeo e Sara sono diventati genitori della piccola Oli. Durante una vacanza a Londra, trovano la Lampada delle Mille e una Notte. Un desiderio inaspettato della Momia fa viaggiare il gruppo nel tempo: dovranno attraversare diverse epoche, dalla Grecia Antica al Medio Oriente, per salvare la Storia prima che venga riscritta",
+    "title_en": "Tad and The Magic Lamp",
+    "overview_en": "Tadeo, his girlfriend Sara, and his friends Momia, Jeff, and Belzoni embark on an adventure after Tadeo accidentally unleashes an ancient spell.",
+    "runtime": 94,
+    "director": "Enrique Gato",
+    "genres": [
+      "Animazione",
+      "Commedia",
+      "Famiglia"
+    ]
+  },
+  {
     "tmdb_id": 1511829,
     "title": "The Nameless Ballad",
     "original_title": "The Nameless Ballad",
@@ -2422,38 +2495,6 @@
     "director": "Federico Zampaglione",
     "genres": [
       "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 1400837,
-    "title": "Mammina",
-    "original_title": "Other Mommy",
-    "italian_title": "Mammina",
-    "year": 2026,
-    "poster_path": "/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
-    "overview": "Un viaggio terrificante nel mondo sempre più oscuro di Bela, una ragazzina che instaura un rapporto con un’entità sinistra presente nella sua casa, che assomiglia in modo inquietante alla sua stessa madre.",
-    "title_en": "Other Mommy",
-    "overview_en": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "runtime": 93,
-    "director": "Rob Savage",
-    "genres": [
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 1303613,
-    "title": "Il silenzio degli altri",
-    "original_title": "Sorda",
-    "italian_title": "Il silenzio degli altri",
-    "year": 2025,
-    "poster_path": "/19AayxcUE4ZSEs6nRc7BcHqE9Kq.jpg",
-    "overview": "Ángela, una donna sorda, aspetta un figlio dal suo partner Héctor, che invece ha un normale udito. L'arrivo della bambina sconvolge la loro relazione, costringendo Ángela ad affrontare le sfide poste dal crescere sua figlia in un mondo che non è fatto per madri come lei.",
-    "title_en": "Deaf",
-    "overview_en": "Angela's deafness raises concerns during her pregnancy regarding connecting with her daughter. Post-delivery, partner Héctor supports her as she learns to mother in a society lacking adequate accommodations for the hearing-impaired.",
-    "runtime": 100,
-    "director": "Eva Libertad",
-    "genres": [
-      "Dramma"
     ]
   },
   {

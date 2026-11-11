@@ -28,6 +28,13 @@
     "confidence": 87.67123287671232
   },
   {
+    "raw_title": "MINOTAUR NEL LABIRINTO DEL POTERE (MINOTAURE) - V. O.",
+    "tmdb_id": 848700,
+    "matched_title": "Minotaur - Nel labirinto del potere",
+    "method": "fuzzy",
+    "confidence": 86.8421052631579
+  },
+  {
     "raw_title": "L’IMPERO DEI SENSI",
     "tmdb_id": 5879,
     "matched_title": "Ecco l'impero dei sensi",
@@ -82,5 +89,19 @@
     "matched_title": "Heart of the Beast - Nel profondo selvaggio",
     "method": "fuzzy",
     "confidence": 86.11111111111111
+  },
+  {
+    "raw_title": "Il Gruffalo' E La Sua Picc + Bastoncino",
+    "tmdb_id": 81684,
+    "matched_title": "Il Gruffalò e la sua piccolina",
+    "method": "fuzzy",
+    "confidence": 90.9090909090909
+  },
+  {
+    "raw_title": "Taddeo L'Esploratore E La Lampada M.",
+    "tmdb_id": 1187326,
+    "matched_title": "Taddeo l’esploratore e la lampada magica",
+    "method": "fuzzy",
+    "confidence": 93.33333333333333
   }
 ]
