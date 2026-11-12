@@ -1,6 +1,6 @@
 [
   {
-    "raw_title": "V. O. SOTT ITA MINNIE & MOSKOWITZ (RIED. 4K)",
+    "raw_title": "MINNIE & MOSKOWITZ",
     "tmdb_id": 24349,
     "matched_title": "Minnie e Moskowitz",
     "method": "fuzzy",
@@ -28,6 +28,13 @@
     "confidence": 87.67123287671232
   },
   {
+    "raw_title": "V. O. SOTT ITA MINNIE & MOSKOWITZ (RIED. 4K)",
+    "tmdb_id": 24349,
+    "matched_title": "Minnie e Moskowitz",
+    "method": "fuzzy",
+    "confidence": 94.11764705882352
+  },
+  {
     "raw_title": "MINOTAUR NEL LABIRINTO DEL POTERE (MINOTAURE) - V. O.",
     "tmdb_id": 848700,
     "matched_title": "Minotaur - Nel labirinto del potere",
@@ -42,11 +49,11 @@
     "confidence": 87.8048780487805
   },
   {
-    "raw_title": "L'Impero Dei Sensi (O.V.)",
-    "tmdb_id": 5879,
-    "matched_title": "Ecco l'impero dei sensi",
+    "raw_title": "Il Re Dei Re - La Più Grande Storia Mai",
+    "tmdb_id": 1181107,
+    "matched_title": "Il re dei re - La più grande storia mai raccontata",
     "method": "fuzzy",
-    "confidence": 87.8048780487805
+    "confidence": 87.05882352941177
   },
   {
     "raw_title": "Il Gatto Con Il Cappello",
@@ -63,25 +70,11 @@
     "confidence": 93.93939393939394
   },
   {
-    "raw_title": "Shaun, Vita Da Pecora - Operazione Z.U.C",
-    "tmdb_id": 1477104,
-    "matched_title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
-    "method": "fuzzy",
-    "confidence": 94.87179487179486
-  },
-  {
     "raw_title": "(O.V.) Hunger Games: Sunrise On The R.",
     "tmdb_id": 1300968,
     "matched_title": "Hunger Games - L'alba sulla mietitura",
     "method": "fuzzy",
     "confidence": 85.29411764705883
-  },
-  {
-    "raw_title": "(XL) Wildwood - I Segreti Del Bosco P.",
-    "tmdb_id": 791523,
-    "matched_title": "Wildwood - I segreti del bosco proibito",
-    "method": "fuzzy",
-    "confidence": 89.55223880597015
   },
   {
     "raw_title": "Heart Of The Beast - Nel Profondo",
@@ -103,5 +96,12 @@
     "matched_title": "Taddeo l’esploratore e la lampada magica",
     "method": "fuzzy",
     "confidence": 93.33333333333333
+  },
+  {
+    "raw_title": "Shaun, Vita Da Pecora - Operazione Z.U.C",
+    "tmdb_id": 1477104,
+    "matched_title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
+    "method": "fuzzy",
+    "confidence": 94.87179487179486
   }
 ]

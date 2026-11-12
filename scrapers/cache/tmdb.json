@@ -3418,6 +3418,48 @@
         ]
       }
     },
+    "1181107": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "장성호"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Avventura"
+        },
+        {
+          "name": "Animazione"
+        },
+        {
+          "name": "Famiglia"
+        },
+        {
+          "name": "Fantasy"
+        }
+      ],
+      "id": 1181107,
+      "original_title": "The King of Kings",
+      "overview": "Charles Dickens racconta al piccolo Walter la più grande storia mai narrata: quella che sembra una semplice favola della buonanotte si trasforma in un viaggio destinato a cambiargli la vita. Grazie alla sua vivida immaginazione, Walter si ritrova a camminare accanto a Gesù, assistendo ai suoi miracoli e condividendone le prove. Accompagnato dalla curiosa Willa, il giovane protagonista vive un’esperienza unica che gli permetterà di guardare quella incredibile storia con occhi nuovi ed entusiasti.",
+      "poster_path": "/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg",
+      "release_date": "2025-04-07",
+      "runtime": 102,
+      "title": "Il re dei re - La più grande storia mai raccontata",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "Charles Dickens tells his young son Walter the greatest story ever told, and what begins as a bedtime tale becomes a life-changing journey. Through vivid imagination, the boy walks alongside Jesus, witnessing His miracles, facing His trials, and understanding His ultimate sacrifice.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "1181125": {
       "credits": {
         "crew": [
@@ -5076,6 +5118,39 @@
             "data": {
               "overview": "This is Ogawa Productions’ first major film from their Yamagata period. They had already started photography on Magino Village -A Tale but they were drawn to this village deep in the high country above Magino when a particularly cold bout of weather threatened crops. Inevitably, their attention strayed from the impact of weather and geography on the harvest to the “life history” of Furuyashiki Village. On the one hand, Ogawa returns to his roots by playing with the conventions of the science film. At the same time, he discovers a local, peripheral space in which to think about the nation and the state of village Japan. From this “distant perspective” in the very heart of the Japanese mountains, Ogawa discovers a village still dealing with the trauma of global warfare and struggling for survival as their children flee for the cities.",
               "title": "Furuyashiki: A Japanese Village"
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
+    "1254800": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Claire Denis"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Dramma"
+        }
+      ],
+      "id": 1254800,
+      "original_title": "Le Cri des gardes",
+      "overview": "",
+      "poster_path": "/8yKhroZcepZ8qNzYHJIEWRuXFW4.jpg",
+      "release_date": "2026-04-08",
+      "runtime": 107,
+      "title": "Le Cri des gardes",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "Horn is welcoming his partner Léone into the hut he shares with Cal, when a man called Alboury appears. He stays there until they return the body of his brother, who was killed on the site.",
+              "title": "The Fence"
             },
             "iso_639_1": "en"
           }
@@ -9156,6 +9231,39 @@
         ]
       }
     },
+    "1430815": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Stéphane Brizé"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Dramma"
+        }
+      ],
+      "id": 1430815,
+      "original_title": "Un bon petit soldat",
+      "overview": "Segue le vicende di Carla, una dirigente di alto livello di 43 anni appena assunta come responsabile delle risorse umane presso una grande compagnia assicurativa, con l'incarico di ricostruirne l'immagine in un contesto aziendale in cui la vulnerabilità non è considerata un punto di forza.",
+      "poster_path": "/8PbPm4pnl6uepMQHaJLQYP1d8tj.jpg",
+      "release_date": "2026-11-25",
+      "runtime": 102,
+      "title": "A Good Little Soldier",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "Follows Carla, a 43-year-old high-performing executive newly recruited as HR manager of a major insurer, tasked with rebuilding its brand in a corporate environment where vulnerability is not an asset.",
+              "title": "A Good Little Soldier"
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "1430820": {
       "credits": {
         "crew": [
@@ -9552,6 +9660,39 @@
             "data": {
               "overview": "A small group of scientists, unreachable for eight months, explores the future of humanity. Maria Medri, a foreign genius, arrives in Antarctica, challenging Fulvio Cadorna's plans. They are similar but conflicting, as everyone desires their own. This scientific, ideological, and emotional conflict unfolds.",
               "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
+    "1438963": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Joe Juanne Piras"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Thriller"
+        }
+      ],
+      "id": 1438963,
+      "original_title": "Dal nulla",
+      "overview": "Sardegna. Un piccolo villaggio viene sconvolto dalla scomparsa di una bambina e dal suicidio di Alice, una giovane donna ritrovata morta nel bosco. C’è un legame tra i due casi, ma ancora nessuno lo sa. Sara, una scrittrice di successo, amica della ragazza, decide di tornare nei suoi luoghi d’infanzia per scoprire cosa sia accaduto. Sarà così costretta a confrontarsi coi demoni di un passato dimenticato.",
+      "poster_path": "/rHQgxrs731wD5t0gmH0Dm34Wq3w.jpg",
+      "release_date": "2026-11-01",
+      "runtime": 102,
+      "title": "Dal nulla",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "Sardinia. A small village is shocked by the disappearance of a little girl and the suicide of Alice, a young woman found dead in the woods. There is a connection between the two cases, but no one knows yet. Sara, a successful writer and friend of the girl, decides to return to her childhood places to find out what happened. She will thus be forced to confront the demons of a forgotten past.",
+              "title": "From the Dark"
             },
             "iso_639_1": "en"
           }
@@ -11682,6 +11823,39 @@
         ]
       }
     },
+    "1544437": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Alina Marazzi"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Dramma"
+        }
+      ],
+      "id": 1544437,
+      "original_title": "La ragazza con la Leica",
+      "overview": "Parigi, 14 luglio 1937. In una danza di sentimenti che assume il carattere di un addio, Gerda Taro saluta i suoi amici e il suo compagno Robert Capa prima di tornare sul fronte spagnolo con la sua Leica.  Gli amori e gli ideali democratici si intrecciano nel ritratto di Gerda, la cui gioia di vivere ha acceso scintille nei cuori di chi ha condiviso con lei il tempo in cui tutto sembrava ancora possibile.",
+      "poster_path": "/6b6b0lGrZTVAX8Uq0bVoB0PU8pH.jpg",
+      "release_date": "2026-10-22",
+      "runtime": 116,
+      "title": "La ragazza con la Leica",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "On Bastille Day in 1937, pioneering German-Jewish photojournalist Gerda Taro spends her final day in Paris confronting her past, her complex partnership with Robert Capa, and her absolute commitment to anti-fascist resistance before returning to the front lines of the Spanish Civil War.",
+              "title": "The Girl with the Leica"
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "1553969": {
       "credits": {
         "crew": [
@@ -13540,6 +13714,22 @@
         ]
       }
     },
+    "1676431": {
+      "credits": {
+        "crew": []
+      },
+      "genres": [],
+      "id": 1676431,
+      "original_title": "Lo Spirito delle Stagioni",
+      "overview": "Lo spirito delle stagioni è una narrazione visiva e sonora del sentimento peculiare che ogni stagione incorpora. Un vivace affresco del navigare continuo e dialettico di noi umani all’interno di quel calendario eterno che in parte ci stimola, in parte ci annoia. Nel film, passaggi estatici e sospesi si avvicendano a momenti caratterizzati dalla spumeggiante effervescenza umana. È un percorso fatto di concreto e di simbolico, di sacro e profano. Di momenti univocamente legati al calendario e di altri assoluti.",
+      "poster_path": null,
+      "release_date": "",
+      "runtime": 83,
+      "title": "Lo Spirito delle Stagioni",
+      "translations": {
+        "translations": []
+      }
+    },
     "1678120": {
       "credits": {
         "crew": [
@@ -14564,6 +14754,39 @@
             "data": {
               "overview": "Director Giovanna Giuliani describes herself as a listener to two women nearing retirement: one works at a municipal counseling desk in Rome, the other at a speech therapy clinic in Naples. Both have the ability to give voice to those who cannot speak for themselves, because they are good listeners. Their lives unfold primarily on Sundays.",
               "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
+    "1736494": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Mariano Llinás"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Documentario"
+        }
+      ],
+      "id": 1736494,
+      "original_title": "Biografía de Jorge Luis Borges",
+      "overview": "",
+      "poster_path": "/mfdOs8iwLQ7T9x1drtfrb1LzyDG.jpg",
+      "release_date": "2026-09-06",
+      "runtime": 330,
+      "title": "Biografía de Jorge Luis Borges",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "A biography of Jorge Luis Borges working from an exhaustive review of the papers he left, the books he read, the places he went to. And with this, an attempt to decipher a very peculiar life: someone who lived like a hidden, underground warrior, whose cause was literature, literature conceived as a kingdom and as a landscape. If Cold War spies fought from their desks or from an uninhabited house to defend their half of the world, Borges strove from a library to elevate and broaden the territories of his own tribe: the people for whom the most important part of the universe is books, plots and words. This film is devoted to that secret pilgrim (to borrow from Le Carré, the king of all spies).",
+              "title": "Life of Jorge Luis Borges"
             },
             "iso_639_1": "en"
           }
@@ -16170,6 +16393,39 @@
             "data": {
               "overview": "A concert film documenting Talking Heads at the height of their popularity, on tour for their 1983 album \"Speaking in Tongues.\" The band takes the stage one by one and is joined by a cadre of guest musicians for a career-spanning and cinematic performance that features creative choreography and visuals.",
               "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
+    "24195": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Mario Monicelli"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Commedia"
+        }
+      ],
+      "id": 24195,
+      "original_title": "Panni sporchi",
+      "overview": "La famiglia Razzi da due generazioni produce la Cialda, una caramella digestiva a base di cicoria. Al comando dell'azienda c'è ora Furio Cimin, il genero del fondatore, che è stato esautorato ma che vorrebbe, attraverso un nipote, riprendere il comando della ditta. Litigi, intrighi, investimenti avventati tra i figli e i parenti del capostipite, stanno portando la ditta sull'orlo del fallimento.",
+      "poster_path": "/UzoM2G9OKscKtxvP1p33aN3ASk.jpg",
+      "release_date": "1999-01-29",
+      "runtime": 110,
+      "title": "Panni sporchi",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "The Razzi family owns a small factory of sweets in Macerata. Their desire to enlarge their business to cope with the new Unified European Market brings to a string of fatal mistakes that will ultimately doom their wealth.",
+              "title": "Dirty Linen"
             },
             "iso_639_1": "en"
           }
@@ -22382,6 +22638,84 @@
         ]
       }
     },
+    "656908": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Nitesh Tiwari"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Fantasy"
+        },
+        {
+          "name": "Azione"
+        },
+        {
+          "name": "Avventura"
+        }
+      ],
+      "id": 656908,
+      "original_title": "रामायणम्",
+      "overview": "In un’epoca di dèi e re, il destino di interi mondi è in bilico. Rama, principe votato al dovere, al sacrificio e alla rettitudine, deve affrontare Ravana, sovrano immortale accecato dall’orgoglio e dalla sete di vendetta, tanto potente da poter frantumare il cosmo.",
+      "poster_path": "/ovi5mxUCbSdFPv73rn6aXP9x9UC.jpg",
+      "release_date": "2026-11-05",
+      "runtime": 201,
+      "title": "Ramayana - La nascita di una leggenda",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+              "title": "Ramayana: Rise of a Legend"
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
+    "661568": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Abdellatif Kechiche"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Romance"
+        },
+        {
+          "name": "Dramma"
+        },
+        {
+          "name": "Commedia"
+        }
+      ],
+      "id": 661568,
+      "original_title": "Mektoub, My Love: Canto Due",
+      "overview": "",
+      "poster_path": "/2KXy7ynSZxVyfYz5AbX413K41CD.jpg",
+      "release_date": "2025-12-03",
+      "runtime": 139,
+      "title": "Mektoub, My Love: Canto Due",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "Amin returns to Sète after studying in Paris, still dreaming of cinema. By chance, an American producer on vacation takes an interest in his project and wants his wife, Jess, to play the lead role. But fate, whimsical as ever, has its own rules.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "6619": {
       "credits": {
         "crew": [
@@ -27344,6 +27678,15 @@
         "title": "Africa bianca"
       }
     ],
+    "biografia de jorge luis borges|": [
+      {
+        "id": 1736494,
+        "original_title": "Biografía de Jorge Luis Borges",
+        "popularity": 0.8933,
+        "release_date": "2026-09-06",
+        "title": "Biografía de Jorge Luis Borges"
+      }
+    ],
     "black lions roman wolves di haile gerima|": [],
     "blade runner|": [
       {
@@ -29981,6 +30324,36 @@
       }
     ],
     "d o a a right of passage|": [],
+    "dal nulla|": [
+      {
+        "id": 1438963,
+        "original_title": "Dal nulla",
+        "popularity": 1.1194,
+        "release_date": "2026-11-01",
+        "title": "Dal nulla"
+      },
+      {
+        "id": 10474,
+        "original_title": "The Basketball Diaries",
+        "popularity": 4.9379,
+        "release_date": "2004-10-19",
+        "title": "Ritorno dal nulla"
+      },
+      {
+        "id": 1230368,
+        "original_title": "Springsteen: Deliver Me from Nowhere",
+        "popularity": 3.2218,
+        "release_date": "2025-10-23",
+        "title": "Springsteen - Liberami dal nulla"
+      },
+      {
+        "id": 51608,
+        "original_title": "아저씨",
+        "popularity": 4.9914,
+        "release_date": "2013-05-21",
+        "title": "The Man from Nowhere"
+      }
+    ],
     "dallamericaruso il concerto perduto|": [
       {
         "id": 1192446,
@@ -36258,6 +36631,24 @@
         "title": "Il principe della follia"
       }
     ],
+    "il re dei re la piu grande storia mai|": [
+      {
+        "id": 1181107,
+        "original_title": "The King of Kings",
+        "popularity": 3.5352,
+        "release_date": "2026-12-03",
+        "title": "Il re dei re - La più grande storia mai raccontata"
+      }
+    ],
+    "il re dei re la piu grande storia|": [
+      {
+        "id": 1181107,
+        "original_title": "The King of Kings",
+        "popularity": 3.5352,
+        "release_date": "2026-12-03",
+        "title": "Il re dei re - La più grande storia mai raccontata"
+      }
+    ],
     "il robot selvaggio autism friendly|": [],
     "il robot selvaggio|": [
       {
@@ -36268,6 +36659,7 @@
         "title": "Il robot selvaggio"
       }
     ],
+    "il rumore delle cose nuove ospiti|": [],
     "il rumore delle cose nuove|": [
       {
         "id": 1544126,
@@ -38107,6 +38499,15 @@
         "title": "End of Justice: Nessuno è innocente"
       }
     ],
+    "l inquilino del terzo piano le locataire|": [
+      {
+        "id": 11482,
+        "original_title": "Le locataire",
+        "popularity": 3.2268,
+        "release_date": "1976-11-07",
+        "title": "L'inquilino del terzo piano"
+      }
+    ],
     "l isola dei ricordi amrum|": [
       {
         "id": 1269644,
@@ -39223,6 +39624,15 @@
         "title": "La prima notte di quiete"
       }
     ],
+    "la ragazza con la leica|": [
+      {
+        "id": 1544437,
+        "original_title": "La ragazza con la Leica",
+        "popularity": 1.0329,
+        "release_date": "2026-09-02",
+        "title": "La ragazza con la Leica"
+      }
+    ],
     "la ragazza con la valigia|": [
       {
         "id": 49697,
@@ -39779,6 +40189,15 @@
         "popularity": 0.3896,
         "release_date": "2022-03-22",
         "title": "Le cose non dette"
+      }
+    ],
+    "le cri des gardes|": [
+      {
+        "id": 1254800,
+        "original_title": "Le Cri des gardes",
+        "popularity": 1.72,
+        "release_date": "2025-11-23",
+        "title": "Le Cri des gardes"
       }
     ],
     "le donne che hanno detto di no|": [],
@@ -40514,6 +40933,15 @@
         "popularity": 0.0,
         "release_date": "2017-04-30",
         "title": "Another Lisbon Story"
+      }
+    ],
+    "lo spirito delle stagioni|": [
+      {
+        "id": 1676431,
+        "original_title": "Lo Spirito delle Stagioni",
+        "popularity": 0.0972,
+        "release_date": "",
+        "title": "Lo Spirito delle Stagioni"
       }
     ],
     "lo straniero l etranger|": [
@@ -42516,6 +42944,15 @@
         "popularity": 0.0511,
         "release_date": "2012-01-01",
         "title": "Medea"
+      }
+    ],
+    "mektoub my love canto due|": [
+      {
+        "id": 661568,
+        "original_title": "Mektoub, My Love: Canto Due",
+        "popularity": 2.0004,
+        "release_date": "2026-03-28",
+        "title": "Mektoub, My Love: Canto Due"
       }
     ],
     "melt|": [
@@ -46931,6 +47368,36 @@
         "title": "Pandora"
       }
     ],
+    "panni sporchi|": [
+      {
+        "id": 24195,
+        "original_title": "Panni sporchi",
+        "popularity": 0.9152,
+        "release_date": "1999-01-29",
+        "title": "Panni sporchi"
+      },
+      {
+        "id": 1728758,
+        "original_title": "Panni Sporchi",
+        "popularity": 0.4258,
+        "release_date": "2023-01-11",
+        "title": "Panni Sporchi"
+      },
+      {
+        "id": 502938,
+        "original_title": "Panni sporchi",
+        "popularity": 0.2109,
+        "release_date": "1980-02-04",
+        "title": "Panni sporchi"
+      },
+      {
+        "id": 1107147,
+        "original_title": "Ireland's Dirty Laundry",
+        "popularity": 0.2976,
+        "release_date": "2023-06-12",
+        "title": "Ireland's Dirty Laundry"
+      }
+    ],
     "papaya|": [
       {
         "id": 1534205,
@@ -49153,6 +49620,16 @@
         "popularity": 13.6389,
         "release_date": "1996-02-23",
         "title": "Ragione e sentimento"
+      }
+    ],
+    "ramayana director s cut hindi|": [],
+    "ramayana la nascita di una leggenda|": [
+      {
+        "id": 656908,
+        "original_title": "रामायणम्",
+        "popularity": 171.4355,
+        "release_date": "2026-11-19",
+        "title": "Ramayana - La nascita di una leggenda"
       }
     ],
     "rammstein|": [
@@ -57243,6 +57720,22 @@
       }
     ],
     "ugo la pietra sistema disequilibrante|": [],
+    "ultimatum alla terra the day the earth stood still|": [
+      {
+        "id": 10200,
+        "original_title": "The Day the Earth Stood Still",
+        "popularity": 5.9257,
+        "release_date": "2008-12-12",
+        "title": "Ultimatum alla Terra"
+      },
+      {
+        "id": 828,
+        "original_title": "The Day the Earth Stood Still",
+        "popularity": 4.0727,
+        "release_date": "1952-03-20",
+        "title": "Ultimatum alla Terra"
+      }
+    ],
     "ultimo tutto|": [
       {
         "id": 10646,
@@ -57375,6 +57868,15 @@
         "popularity": 0.0461,
         "release_date": "2019-10-26",
         "title": "Marco Polo - Un anno tra i banchi di scuola"
+      }
+    ],
+    "un bon petit soldat|": [
+      {
+        "id": 1430815,
+        "original_title": "Un bon petit soldat",
+        "popularity": 1.7123,
+        "release_date": "2026-09-09",
+        "title": "A Good Little Soldier"
       }
     ],
     "un giorno senza donne|": [
