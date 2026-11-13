@@ -3973,6 +3973,35 @@
         ]
       }
     },
+    "1211220": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Cristiano Giamporcaro"
+          }
+        ]
+      },
+      "genres": [],
+      "id": 1211220,
+      "original_title": "La ricomparsa delle lucciole",
+      "overview": "",
+      "poster_path": "/oIu9TY4P90QNMdXRX3iT8wiku3V.jpg",
+      "release_date": "2023-11-27",
+      "runtime": 32,
+      "title": "La ricomparsa delle lucciole",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "In the innner Sicily, where the highways cut the hills, where the skeletons of the buildings emerge from the wheat fields and where the airplanes get into the soundspace, it is summer. Giorgio, a ten years old child, has decided to explore this territory after he heard a fairytale about fireflies. At the same time an old 87 years old sheperd lives his routine. The night and the morning he lives in a small old fashioned home made of only one room, meanwhile during the day he takes the cow to pasture. Both will have to deal with a rural territory, that despite having been and being affected from the signifying landscape of the human being, follows its unchanged cyclical nature.",
+              "title": "Finding fireflies"
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "1211442": {
       "credits": {
         "crew": [
@@ -7183,6 +7212,42 @@
         ]
       }
     },
+    "1317149": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Kirk Jones"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Dramma"
+        },
+        {
+          "name": "Storia"
+        }
+      ],
+      "id": 1317149,
+      "original_title": "I Swear",
+      "overview": "A quindici anni, John Davidson riceve una diagnosi di sindrome di Tourette. Sfidando ogni difficoltà, affronta un'adolescenza complicata e il passaggio all'età adulta, trovando nella gentilezza degli altri la forza e l'ispirazione necessarie per scoprire il suo vero scopo nella vita.",
+      "poster_path": "/aEIT9GFMGYytuUFCiVSv21OhkWk.jpg",
+      "release_date": "2025-09-22",
+      "runtime": 121,
+      "title": "I Swear - È più forte di me",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "Diagnosed with Tourette Syndrome at 15, John Davidson navigates his way against the odds through troubled teenage years and into adulthood, finding inspiration in the kindness of others to discover his true purpose in life.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "1317288": {
       "credits": {
         "crew": [
@@ -9083,6 +9148,46 @@
           {
             "data": {
               "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
+    "1426957": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Tizza Covi"
+          },
+          {
+            "job": "Director",
+            "name": "Rainer Frimmel"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Musica"
+        },
+        {
+          "name": "Dramma"
+        }
+      ],
+      "id": 1426957,
+      "original_title": "The Loneliest Man in Town",
+      "overview": "",
+      "poster_path": "/dm8HprLOd4uKCuik8gpXhpc8LwB.jpg",
+      "release_date": "2026-11-13",
+      "runtime": 86,
+      "title": "The Loneliest Man in Town",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "Blues musician Al Cook lives in an apartment filled with memories. Outside, the world carries on without him. But when his home is slated for demolition, out of the ruins of his existence, a long-forgotten dream suddenly resurfaces.",
               "title": ""
             },
             "iso_639_1": "en"
@@ -26771,6 +26876,7 @@
         "title": "After the Hunt - Dopo la caccia"
       }
     ],
+    "agenda milano|": [],
     "agent of happiness il bhutan e la felicita|": [
       {
         "id": 1164862,
@@ -35219,6 +35325,15 @@
         "title": "I racconti di Viterbury - Le più allegre storie del '300"
       }
     ],
+    "i swear e piu forte di me|": [
+      {
+        "id": 1317149,
+        "original_title": "I Swear",
+        "popularity": 10.8075,
+        "release_date": "2026-11-26",
+        "title": "I Swear - È più forte di me"
+      }
+    ],
     "ibridazioni|": [
       {
         "id": 1710640,
@@ -35532,6 +35647,7 @@
         "title": "Il caso 137"
       }
     ],
+    "il caso marie claire|": [],
     "il cerchio e la linea ballo|": [],
     "il cielo sopra berlino|": [
       {
@@ -39640,6 +39756,15 @@
         "popularity": 1.0957,
         "release_date": "1961-02-09",
         "title": "La ragazza con la valigia"
+      }
+    ],
+    "la ricomparsa delle lucciole|": [
+      {
+        "id": 1211220,
+        "original_title": "La ricomparsa delle lucciole",
+        "popularity": 0.0586,
+        "release_date": "2023-11-27",
+        "title": "La ricomparsa delle lucciole"
       }
     ],
     "la salita|": [
@@ -49164,6 +49289,12 @@
       }
     ],
     "proiezione dei cortometraggi della film school di lodz|": [],
+    "prospettive 1 fmk|": [],
+    "prospettive 2 fmk|": [],
+    "prospettive 3 fmk|": [],
+    "prospettive 4 fmk|": [],
+    "prospettive 5 fmk|": [],
+    "prospettive 6 fmk|": [],
     "psycho|": [
       {
         "id": 539,
@@ -55791,6 +55922,15 @@
         "popularity": 0.0379,
         "release_date": "1954-06-15",
         "title": "La langosta azul"
+      }
+    ],
+    "the loneliest man in town|": [
+      {
+        "id": 1426957,
+        "original_title": "The Loneliest Man in Town",
+        "popularity": 1.2701,
+        "release_date": "2026-11-13",
+        "title": "The Loneliest Man in Town"
       }
     ],
     "the lunch a letter to america|": [
