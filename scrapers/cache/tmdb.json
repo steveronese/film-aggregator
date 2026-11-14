@@ -1191,6 +1191,45 @@
         ]
       }
     },
+    "1078446": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Tommy Wirkola"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Azione"
+        },
+        {
+          "name": "Commedia"
+        },
+        {
+          "name": "Fantasy"
+        }
+      ],
+      "id": 1078446,
+      "original_title": "Violent Night 2",
+      "overview": "Il non proprio bonario San Nicola torna in azione per fermare uno spietato boss della criminalità che sta seminando il terrore tra i negozianti del centro commerciale Silver Bell Mall. Ma quando Babbo Natale perde di vista il vero spirito del Natale, si ritrova nel cuore di una vivace comunità che anima il centro commerciale e che ha disperatamente bisogno del suo aiuto. Privato dei suoi poteri magici, dovrà trovare un nuovo modo per affrontare i criminali che minacciano il mall, mentre il tempo stringe. Per riuscirci dovrà ritrovare la fiducia nella bontà delle persone e chiedere l'aiuto dell'unica alleata che nessun malvivente vorrebbe mai affrontare: Mamma Natale,",
+      "poster_path": "/szO5Ym3jZtmdhW7pQEWDiEXuAyi.jpg",
+      "release_date": "2026-12-02",
+      "runtime": 110,
+      "title": "Un'altra notte violenta e silenziosa",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "When Santa forgets the true meaning of Christmas, he finds himself in the heart of a lively mall community in desperate need of his help. Sapped of his magic, he’ll need another way to take on the goons threatening the mall, and time is running out. Santa has to rediscover his faith in goodness and call in some last-minute reinforcements from the one person no baddie wants to tangle with: Mrs. Claus.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "1081003": {
       "credits": {
         "crew": [
@@ -8864,6 +8903,45 @@
         ]
       }
     },
+    "141": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Richard Kelly"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Fantasy"
+        },
+        {
+          "name": "Dramma"
+        },
+        {
+          "name": "Mistero"
+        }
+      ],
+      "id": 141,
+      "original_title": "Donnie Darko",
+      "overview": "Il liceale Donnie Darko, in preda ad un attacco di insonnia, esce dalla casa dei genitori e incontra uno spaventoso coniglio gigante di nome Frank, che gli dice che il mondo finirà tra 28 giorni, 6 ore, 42 minuti e 12 secondi.",
+      "poster_path": "/lnjeGgoi6VjEweIPRmxLIORcfwK.jpg",
+      "release_date": "2001-01-19",
+      "runtime": 113,
+      "title": "Donnie Darko",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "1410": {
       "credits": {
         "crew": [
@@ -11688,6 +11766,39 @@
           {
             "data": {
               "overview": "There’s a Naples of the imagination and there’s the real city: the city of fiction and the one with its tales of a past very much alive. Massimilano Gallo’s directorial debut, La salita, is a film about a little-known anecdote from the life of Eduardo De Filippo, featuring a Nisida very different from the image it has in the series Mare fuori, yet Gallo’s take on prison and women behind bars is just as contemporary. Courtesy of Panamafilm and the Film Commission Regione Campania.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
+    "1527449": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Geneviève Dulude-De Celles"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Dramma"
+        }
+      ],
+      "id": 1527449,
+      "original_title": "Nina Roza",
+      "overview": "",
+      "poster_path": "/wnQXp1CJhBDhY2ZyNQdswls3FMD.jpg",
+      "release_date": "2026-04-24",
+      "runtime": 103,
+      "title": "Nina Roza",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "A viral video of an 8-year-old Bulgarian artist catches the eye of a major art collector, and Mihail is sent there, 30 years after leaving his home country, to assess the value of the girl's work and confront ghosts from his past.",
               "title": ""
             },
             "iso_639_1": "en"
@@ -31202,6 +31313,36 @@
         "title": "Don't Let's Go to the Dogs Tonight"
       }
     ],
+    "donnie darko|": [
+      {
+        "id": 141,
+        "original_title": "Donnie Darko",
+        "popularity": 10.0993,
+        "release_date": "2004-11-19",
+        "title": "Donnie Darko"
+      },
+      {
+        "id": 441636,
+        "original_title": "Deus ex Machina: The Philosophy of 'Donnie Darko'",
+        "popularity": 1.0041,
+        "release_date": "2016-12-12",
+        "title": "Deus ex Machina: The Philosophy of 'Donnie Darko'"
+      },
+      {
+        "id": 1243138,
+        "original_title": "They Made Me Do It Too: The Cult of Donnie Darko",
+        "popularity": 0.1074,
+        "release_date": "2004-10-02",
+        "title": "They Made Me Do It Too: The Cult of Donnie Darko"
+      },
+      {
+        "id": 17532,
+        "original_title": "S. Darko",
+        "popularity": 1.9491,
+        "release_date": "2009-08-21",
+        "title": "S. Darko"
+      }
+    ],
     "douglas gordon by douglas gordon|": [
       {
         "id": 1616189,
@@ -37243,6 +37384,7 @@
     "incontro con angela davis|": [],
     "incontro con cao fei|": [],
     "indocili 1 indocili queer|": [],
+    "indocili 2 waking hours|": [],
     "inferno|": [
       {
         "id": 1173559,
@@ -39758,6 +39900,7 @@
         "title": "La ragazza con la valigia"
       }
     ],
+    "la rete della kefiah|": [],
     "la ricomparsa delle lucciole|": [
       {
         "id": 1211220,
@@ -44898,6 +45041,15 @@
         "popularity": 0.0071,
         "release_date": "",
         "title": "Nimrod's Christmas"
+      }
+    ],
+    "nina roza|": [
+      {
+        "id": 1527449,
+        "original_title": "Nina Roza",
+        "popularity": 1.8173,
+        "release_date": "2026-04-24",
+        "title": "Nina Roza"
       }
     ],
     "no good men|": [
@@ -57976,6 +58128,15 @@
         "popularity": 1.9433,
         "release_date": "1972-12-19",
         "title": "Rubare alla mafia è un suicidio"
+      }
+    ],
+    "un altra notte violenta e silenziosa|": [
+      {
+        "id": 1078446,
+        "original_title": "Violent Night 2",
+        "popularity": 8.6197,
+        "release_date": "2026-12-03",
+        "title": "Un'altra notte violenta e silenziosa"
       }
     ],
     "un andantino|": [
