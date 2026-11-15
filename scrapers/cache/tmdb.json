@@ -15287,6 +15287,42 @@
         ]
       }
     },
+    "1771692": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Francesco Pupillo"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Documentario"
+        },
+        {
+          "name": "Musica"
+        }
+      ],
+      "id": 1771692,
+      "original_title": "Bòghes – Storia di un coro sardo a New York",
+      "overview": "",
+      "poster_path": "/hit82Ct4iM1JlQWMebNBsDL5Alq.jpg",
+      "release_date": "2026-09-18",
+      "runtime": 58,
+      "title": "Bòghes – Storia di un coro sardo a New York",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "From the heart of Sardinia to New York, the Paulicu Mossa Choir crosses the ocean to discover that song is the universal language capable of uniting distant worlds.",
+              "title": "Bòghes – The story of a Sardinian choir in New York"
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "1778572": {
       "credits": {
         "crew": [
@@ -15627,6 +15663,31 @@
             "iso_639_1": "en"
           }
         ]
+      }
+    },
+    "1801124": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Alessandra Usai"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Documentario"
+        }
+      ],
+      "id": 1801124,
+      "original_title": "Oltre la pelle",
+      "overview": "Il documentario è narrato attraverso la voce di una donna: una coscienza che gradualmente si risveglia alla scoperta delle violenze e delle discriminazioni ancora oggi subite ovunque. La narrazione prende avvio con un chirurgo plastico di Udine, il cui viaggio in Pakistan per operare sulle vittime di attacchi di acidificazione diventa il punto di partenza per un’indagine profonda che proseguirà qui in Italia. Attraverso la sua testimonianza il chirurgo racconta la sua missione dedicata a restituire il sorriso a donne – ragazze, bambine – che hanno perso tutto a causa di una violenza brutale: volto, ruolo, dignità. Sono femmine, sono deboli e sono bellissime. La loro colpa è sempre la stessa: aver osato dire di no, rifiutando un matrimonio imposto.",
+      "poster_path": "/552XCrXuyT6qvuiycYOYv28a3fy.jpg",
+      "release_date": "2025-09-26",
+      "runtime": 51,
+      "title": "Oltre la pelle",
+      "translations": {
+        "translations": []
       }
     },
     "1805694": {
@@ -21627,6 +21688,45 @@
             "data": {
               "overview": "Young-goon, mentally deranged and frequently electro-charging herself with a transistor radio, has been admitted into a mental institution. Firmly believing herself to be a cyborg, she refuses to consume like a human being. Il-soon is another patient, who catches the eye of Young-goon and soon becomes a close friend. Il-soon is now confronted with the biggest task: to cure Young-goon's mental problem and have her eat real food.",
               "title": "I'm a Cyborg, But That's OK"
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
+    "551": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Ronald Neame"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Avventura"
+        },
+        {
+          "name": "Dramma"
+        },
+        {
+          "name": "Thriller"
+        }
+      ],
+      "id": 551,
+      "original_title": "The Poseidon Adventure",
+      "overview": "Odissea di 10 personaggi intrappolati in un transatlantico rovesciato da una gigantesca ondata. Dopo Airport, negli anni '70 rilanciò la moda del catastrofico. Il piattoforte sono le suggestive scenografie (capovolte) di W. Creber. Oscar per la canzone “The Morning After”, candidature per fotografia (H. Stine), musica (J. Williams) e Shelley Winters. Seguito da L'inferno sommerso.",
+      "poster_path": "/ztFzz4WmoibnsaUSay7mJgAZMPs.jpg",
+      "release_date": "1972-12-01",
+      "runtime": 117,
+      "title": "L'avventura del Poseidon",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "When their ocean liner capsizes, a group of passengers struggle to survive and escape.",
+              "title": ""
             },
             "iso_639_1": "en"
           }
@@ -28582,6 +28682,15 @@
         "popularity": 0.7156,
         "release_date": "1973-11-22",
         "title": "Kung-fu, il vendicatore solitario"
+      }
+    ],
+    "boghes storia di un coro sardo a new york|": [
+      {
+        "id": 1771692,
+        "original_title": "Bòghes – Storia di un coro sardo a New York",
+        "popularity": 0.1692,
+        "release_date": "2026-09-18",
+        "title": "Bòghes – Storia di un coro sardo a New York"
       }
     ],
     "bohemian rhapsody|": [
@@ -38135,6 +38244,7 @@
         "title": "Kintsugi… e sono la mia opera"
       }
     ],
+    "klara e il sole book club|": [],
     "klara e il sole|": [
       {
         "id": 858035,
@@ -38395,6 +38505,15 @@
         "popularity": 3.5574,
         "release_date": "2026-10-22",
         "title": "L'assurda storia della Gialappa's Band"
+      }
+    ],
+    "l avventura del poseidon|": [
+      {
+        "id": 551,
+        "original_title": "The Poseidon Adventure",
+        "popularity": 5.1661,
+        "release_date": "1972-12-01",
+        "title": "L'avventura del Poseidon"
       }
     ],
     "l esorcismo di emma schmidt the ritual|": [
@@ -47043,6 +47162,15 @@
         "popularity": 0.2723,
         "release_date": "2023-08-10",
         "title": "L'incubo oltre il giardino"
+      }
+    ],
+    "oltre la pelle|": [
+      {
+        "id": 1801124,
+        "original_title": "Oltre la pelle",
+        "popularity": 0.039,
+        "release_date": "2025-09-26",
+        "title": "Oltre la pelle"
       }
     ],
     "omaggio a ennio morricone mission|": [],

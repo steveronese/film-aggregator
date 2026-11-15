@@ -1,3776 +1,6 @@
 [
   {
     "cinema_id": "anteo",
-    "tmdb_id": 891621,
-    "raw_title": "V.O.SOTT.ITA WILD HORSE NINE",
-    "start": "2026-11-14T12:30:00",
-    "hall": "Excelsior",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/125679/9e2b4bd9-4702-45c0-8c14-8ed0ecb80d61#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1723882,
-    "raw_title": "Un Weekend Artificiale",
-    "start": "2026-11-14T12:30:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1649403,
-    "raw_title": "V.O. SOTT. ITA GEORGE MICHAEL - THE FAITH TOUR",
-    "start": "2026-11-14T12:40:00",
-    "hall": "Abadan",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/127197/9bf092f5-cd94-4629-8f8c-6e4faf6166fc#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1437696,
-    "raw_title": "FATHERLAND",
-    "start": "2026-11-14T12:45:00",
-    "hall": "Astra",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/119607/c13a92b1-a316-4a70-b039-c161ae2d40bf#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 891621,
-    "raw_title": "V.O.SOTT.ITA WILD HORSE NINE",
-    "start": "2026-11-14T12:45:00",
-    "hall": "Zenit",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/125679/9dce5e26-2f55-401f-b06f-045371ae5e2c#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1375441,
-    "raw_title": "PRIMETIME",
-    "start": "2026-11-14T12:45:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/119640/74cedf4d-9fbc-4a65-9e5a-0c86aee4019a#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-14T12:45:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/febd8589-1c23-4938-992a-3bddd2c4406a#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1412795,
-    "raw_title": "L'ESTRANEA",
-    "start": "2026-11-14T13:00:00",
-    "hall": "Nobel RISTOCINEMA",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/117661/deebab3d-30f6-4bd2-967f-a0856d545537#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1244492,
-    "raw_title": "LOOK BACK",
-    "start": "2026-11-14T13:00:00",
-    "hall": "Obraz",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128353/55bb18b1-9232-4cb2-9d06-795dc0738c24#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1412795,
-    "raw_title": "L'ESTRANEA",
-    "start": "2026-11-14T13:00:00",
-    "hall": "Mignon",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/117399/3d71491d-da9d-45b5-a6bb-444fcc27e93f#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1723882,
-    "raw_title": "UN WEEKEND ARTIFICIALE",
-    "start": "2026-11-14T13:00:00",
-    "hall": "Corallo",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/124591/cc74427e-d5d1-4a14-8dc5-5a81df98f47e#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1117898,
-    "raw_title": "(Sala XL) Il Gatto Col Cappello",
-    "start": "2026-11-14T13:30:00",
-    "hall": "SALA 2 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1567605,
-    "raw_title": "(O.V.) Ebenezer",
-    "start": "2026-11-14T13:45:00",
-    "hall": "1",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
-    "raw_title": "Shaun Vita Da Pecora - Op. Z.U.C.C.A.",
-    "start": "2026-11-14T14:00:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1678120,
-    "raw_title": "Un Tranquillo Funerale Di Famiglia",
-    "start": "2026-11-14T14:05:00",
-    "hall": "8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T14:10:00",
-    "hall": "5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": null,
-    "raw_title": "L'ESSERE AMATO (EL SER QUERIDO)",
-    "start": "2026-11-14T14:15:00",
-    "hall": "Rubino",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128354/ca61cdf9-3056-441f-bc86-c48310d77d26#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-14T14:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1058424,
-    "raw_title": "HOPE",
-    "start": "2026-11-14T14:20:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1506710,
-    "raw_title": "DIO RIDE",
-    "start": "2026-11-14T14:20:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1244492,
-    "raw_title": "LOOK BACK",
-    "start": "2026-11-14T14:20:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1117898,
-    "raw_title": "IL GATTO COL CAPPELLO",
-    "start": "2026-11-14T14:20:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T14:20:00",
-    "hall": "3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
-    "raw_title": "(Ch) Dear You",
-    "start": "2026-11-14T14:25:00",
-    "hall": "9",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1244492,
-    "raw_title": "V.O. SOTT ITA - LOOK BACK",
-    "start": "2026-11-14T14:30:00",
-    "hall": "Astra",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128683/59ea8b3f-1792-4fb6-a7e8-92dc9095befc#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "centrale",
-    "tmdb_id": 1154730,
-    "raw_title": "(O.V.) La Gradiva - Versione Originale",
-    "start": "2026-11-14T14:30:00",
-    "hall": "Centrale Sala 1",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742"
-  },
-  {
-    "cinema_id": "centrale",
-    "tmdb_id": 1309373,
-    "raw_title": "Il Canto Della Foresta",
-    "start": "2026-11-14T14:30:00",
-    "hall": "CENTRALE SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1477104,
-    "raw_title": "Shaun, Vita Da Pecora - Operazione Z.U.C",
-    "start": "2026-11-14T14:30:00",
-    "hall": "SALA 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinemino",
-    "tmdb_id": 1119548,
-    "raw_title": "NEL SILENZIO DELLE STANZE",
-    "start": "2026-11-14T14:30:00",
-    "hall": "Sala",
-    "language": "unknown",
-    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
-    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 891621,
-    "raw_title": "WILD HORSE NINE",
-    "start": "2026-11-14T14:30:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/125712",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T14:30:00",
-    "hall": "GARBO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 891621,
-    "raw_title": "WILD HORSE NINE",
-    "start": "2026-11-14T14:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1117898,
-    "raw_title": "Il Gatto Col Cappello",
-    "start": "2026-11-14T14:30:00",
-    "hall": "Sala 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T14:30:00",
-    "hall": "Sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T14:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1244492,
-    "raw_title": "Look Back",
-    "start": "2026-11-14T14:30:00",
-    "hall": "11",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1723882,
-    "raw_title": "(Sala XL) Un Weekend Artificiale",
-    "start": "2026-11-14T14:40:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 891621,
-    "raw_title": "WILD HORSE NINE",
-    "start": "2026-11-14T14:45:00",
-    "hall": "Excelsior",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/125680/2e5aa946-256b-4116-98b9-6a84d4e48d4e#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1567605,
-    "raw_title": "Atmos - Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T14:45:00",
-    "hall": "SALA 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-14T14:45:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/129144",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T14:45:00",
-    "hall": "SALA SCORSESE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T14:45:00",
-    "hall": "MARILYN",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-14T14:45:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T14:45:00",
-    "hall": "13",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1651347,
-    "raw_title": "Minotaur",
-    "start": "2026-11-14T14:50:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/minotaur/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T14:50:00",
-    "hall": "SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1678120,
-    "raw_title": "Un Tranquillo Funerale Di Famiglia",
-    "start": "2026-11-14T14:50:00",
-    "hall": "SALA 8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T14:50:00",
-    "hall": "SALA CANNES",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T14:50:00",
-    "hall": "SALA VENEZIA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T14:50:00",
-    "hall": "SALA BERLINO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T14:50:00",
-    "hall": "SALA SUNDANCE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T14:50:00",
-    "hall": "SALA TRUFFAUT",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T14:50:00",
-    "hall": "SALA OLMI",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1567605,
-    "raw_title": "SCROOGE E GLI SPIRITI DEL NATALE",
-    "start": "2026-11-14T14:50:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
-    "raw_title": "(JP) Godzilla Minus Zero",
-    "start": "2026-11-14T14:50:00",
-    "hall": "6",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T14:55:00",
-    "hall": "ROSSA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T14:55:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1154730,
-    "raw_title": "V.O. SOTT ITA - LA GRADIVA",
-    "start": "2026-11-14T15:00:00",
-    "hall": "De amicis",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128715/5fba11c6-3609-4411-8368-8f0ec8553c06#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1412795,
-    "raw_title": "L'ESTRANEA",
-    "start": "2026-11-14T15:00:00",
-    "hall": "Astoria",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/117399/debbc429-3199-4439-97a1-b31059d8f747#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1437696,
-    "raw_title": "FATHERLAND",
-    "start": "2026-11-14T15:00:00",
-    "hall": "Abanella",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/119607/a3fea944-95e3-4630-a0e3-5ac336bfcd66#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": null,
-    "raw_title": "IL CANTO DELLA FORESTA (LE CHANT DES FORETS)",
-    "start": "2026-11-14T15:00:00",
-    "hall": "Obraz",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128352/ca38fb8b-091b-4bfb-8f85-f87c81846cea#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T15:00:00",
-    "hall": "Sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T15:00:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1244492,
-    "raw_title": "Look Back",
-    "start": "2026-11-14T15:00:00",
-    "hall": "Sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "ariosto",
-    "tmdb_id": null,
-    "raw_title": "IL CANTO DELLA FORESTA (LE CHANT DES FORETS)",
-    "start": "2026-11-14T15:00:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://ariosto.spaziocinema.18tickets.it/film/128352/6ea2f86e-ef67-4167-9803-099a14a77c84#theater-init",
-    "source_url": "https://ariosto.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1117898,
-    "raw_title": "Il Gatto Col Cappello",
-    "start": "2026-11-14T15:00:00",
-    "hall": "SALA 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T15:00:00",
-    "hall": "SALA 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1187326,
-    "raw_title": "Taddeo L'Esploratore E La Lampada Magica",
-    "start": "2026-11-14T15:00:00",
-    "hall": "SALA 7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": null,
-    "raw_title": "THE FILM CORNER MAGAZINE + CASA DOLCE (?) CASA - CONCORSO CORTI",
-    "start": "2026-11-14T15:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": null,
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1506710,
-    "raw_title": "DIO RIDE",
-    "start": "2026-11-14T15:00:00",
-    "hall": "Aurora",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/123931/e52e5c34-cc74-441b-8f8e-f096adbb2421#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": null,
-    "raw_title": "RAGIONE E SENTIMENTO (SENSE AND SENSIBILITY)",
-    "start": "2026-11-14T15:00:00",
-    "hall": "Corallo",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/121884/1171ba4b-bec3-409b-a704-1c76d862e6bc#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1477104,
-    "raw_title": "SHAUN VITA DA PECORA - OPERAZIONE Z.U.C.C.A",
-    "start": "2026-11-14T15:00:00",
-    "hall": "Zenit",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/121693/e0c8e201-7399-42d1-b0e7-d56a144e831d#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-14T15:00:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/8f2d16cf-8d79-453e-9be1-012bc7719dc2#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1567605,
-    "raw_title": "SCROOGE E GLI SPIRITI DEL NATALE (EBENEZER)",
-    "start": "2026-11-14T15:00:00",
-    "hall": "Ariston",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128451/e1efa20a-44a7-41b8-a456-7f70c72f717a#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": null,
-    "raw_title": "IL GATTO COL CAPPELLO (THE CAT IN THE HAT)",
-    "start": "2026-11-14T15:00:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/124076/2d196bb1-fd33-40e7-88f0-59a1f298f187#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1117898,
-    "raw_title": "Il Gatto Col Cappello",
-    "start": "2026-11-14T15:00:00",
-    "hall": "SALA LOCARNO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1723882,
-    "raw_title": "Un Weekend Artificiale",
-    "start": "2026-11-14T15:00:00",
-    "hall": "SALA TORONTO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1117898,
-    "raw_title": "Il Gatto Con Il Cappello",
-    "start": "2026-11-14T15:00:00",
-    "hall": "sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T15:00:00",
-    "hall": "sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T15:00:00",
-    "hall": "sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T15:00:00",
-    "hall": "sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 1244492,
-    "raw_title": "LOOK BACK",
-    "start": "2026-11-14T15:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1583853,
-    "raw_title": "SE DOMANI NON TORNO",
-    "start": "2026-11-14T15:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T15:00:00",
-    "hall": "BLU",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T15:00:00",
-    "hall": "VERDE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1381071,
-    "raw_title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-14T15:10:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T15:10:00",
-    "hall": "15",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T15:10:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1244492,
-    "raw_title": "Look Back",
-    "start": "2026-11-14T15:15:00",
-    "hall": "SALA KUBRICK",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 848700,
-    "raw_title": "Minotaur - Nel Labirinto Del Potere",
-    "start": "2026-11-14T15:15:00",
-    "hall": "SALA WENDERS",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1723882,
-    "raw_title": "Un Weekend Artificiale",
-    "start": "2026-11-14T15:20:00",
-    "hall": "SALA 5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "mexico",
-    "tmdb_id": 1074074,
-    "raw_title": "L'ESSERE AMATO",
-    "start": "2026-11-14T15:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
-    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1117898,
-    "raw_title": "Il Gatto Col Cappello",
-    "start": "2026-11-14T15:30:00",
-    "hall": "18",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 791523,
-    "raw_title": "Wildwood - I Segreti Del Bosco Proibito",
-    "start": "2026-11-14T15:40:00",
-    "hall": "14",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cineteca-mic",
-    "tmdb_id": null,
-    "raw_title": "CASA DOLCE (?) CASA - CORTO CAMPUS ESTIVO 2026",
-    "start": "2026-11-14T16:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": null,
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1117898,
-    "raw_title": "(Sala XL) Il Gatto Col Cappello",
-    "start": "2026-11-14T16:10:00",
-    "hall": "SALA 2 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1381071,
-    "raw_title": "Godzilla Minus Zero",
-    "start": "2026-11-14T16:20:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1477104,
-    "raw_title": "Shaun, Vita Da Pecora - Operazione Z.U.C",
-    "start": "2026-11-14T16:30:00",
-    "hall": "SALA 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinemino",
-    "tmdb_id": 1248832,
-    "raw_title": "DIGGER - V. O.",
-    "start": "2026-11-14T16:30:00",
-    "hall": "Sala",
-    "language": "original_subbed",
-    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
-    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1583853,
-    "raw_title": "SE DOMANI NON TORNO",
-    "start": "2026-11-14T16:30:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/114560",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T16:30:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1583853,
-    "raw_title": "SE DOMANI NON TORNO",
-    "start": "2026-11-14T16:35:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1412795,
-    "raw_title": "L'Estranea",
-    "start": "2026-11-14T16:35:00",
-    "hall": "8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1381071,
-    "raw_title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-14T16:40:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1309373,
-    "raw_title": "V.O.SOTT.ITA IL CANTO DELLA FORESTA",
-    "start": "2026-11-14T16:45:00",
-    "hall": "Abanella",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/129243/2ec85517-fd96-4bcc-9541-2ed6aa4472d3#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "centrale",
-    "tmdb_id": 1119548,
-    "raw_title": "Nel Silenzio Delle Stanze",
-    "start": "2026-11-14T16:45:00",
-    "hall": "CENTRALE SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T16:45:00",
-    "hall": "5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1074074,
-    "raw_title": "V. O. SOTT. ITA L'ESSERE AMATO",
-    "start": "2026-11-14T16:50:00",
-    "hall": "Rubino",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128649/c69815fc-ad5a-4fbc-9b90-4036911d40c4#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1506710,
-    "raw_title": "DIO RIDE",
-    "start": "2026-11-14T16:50:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1438966,
-    "raw_title": "JE SO' PAZZO",
-    "start": "2026-11-14T16:50:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1117898,
-    "raw_title": "Il Gatto Col Cappello",
-    "start": "2026-11-14T16:50:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T16:50:00",
-    "hall": "Sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1723882,
-    "raw_title": "Un Weekend Artificiale",
-    "start": "2026-11-14T16:50:00",
-    "hall": "Sala 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1263337,
-    "raw_title": "Heart Of The Beast - Nel Profondo",
-    "start": "2026-11-14T16:50:00",
-    "hall": "11",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T16:55:00",
-    "hall": "GARBO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1583853,
-    "raw_title": "SE DOMANI NON TORNO",
-    "start": "2026-11-14T17:00:00",
-    "hall": "Obraz",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/125614/a5bc224d-df91-4bbe-8e9a-22080cd7c101#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 891621,
-    "raw_title": "V.O.SOTT.ITA WILD HORSE NINE",
-    "start": "2026-11-14T17:00:00",
-    "hall": "Excelsior",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/125679/f72d6f33-80a6-489c-9356-f958a9a34761#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": null,
-    "raw_title": "BLACK LIONS - ROMAN WOLVES DI HAILE GERIMA",
-    "start": "2026-11-14T17:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/119377",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1583853,
-    "raw_title": "SE DOMANI NON TORNO",
-    "start": "2026-11-14T17:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/114560",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-mic",
-    "tmdb_id": 493922,
-    "raw_title": "HEREDITARY",
-    "start": "2026-11-14T17:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/118915",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 891621,
-    "raw_title": "WILD HORSE NINE",
-    "start": "2026-11-14T17:00:00",
-    "hall": "Zenit",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/125680/813f2cc3-5347-40a2-9e1a-36af39dbd4bf#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T17:00:00",
-    "hall": "SALA CANNES",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T17:00:00",
-    "hall": "SALA SUNDANCE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1412795,
-    "raw_title": "L'Estranea",
-    "start": "2026-11-14T17:00:00",
-    "hall": "SALA TORONTO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T17:00:00",
-    "hall": "SALA BERLINO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T17:00:00",
-    "hall": "SALA VENEZIA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T17:00:00",
-    "hall": "SALA SCORSESE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T17:05:00",
-    "hall": "SALA TRUFFAUT",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T17:05:00",
-    "hall": "SALA OLMI",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1117898,
-    "raw_title": "IL GATTO COL CAPPELLO",
-    "start": "2026-11-14T17:05:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1412795,
-    "raw_title": "L'Estranea",
-    "start": "2026-11-14T17:05:00",
-    "hall": "ROSSA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1244492,
-    "raw_title": "LOOK BACK",
-    "start": "2026-11-14T17:10:00",
-    "hall": "Astoria",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128353/f3f8cd09-133b-4def-8824-625f02fd715c#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T17:10:00",
-    "hall": "Sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1244492,
-    "raw_title": "Look Back",
-    "start": "2026-11-14T17:10:00",
-    "hall": "Sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T17:10:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1381071,
-    "raw_title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-14T17:10:00",
-    "hall": "Mignon",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128254/3b06ea5d-22e0-4df0-8011-e40ea69aaf1f#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1117898,
-    "raw_title": "Il Gatto Col Cappello",
-    "start": "2026-11-14T17:10:00",
-    "hall": "SALA LOCARNO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T17:10:00",
-    "hall": "sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T17:10:00",
-    "hall": "sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1723882,
-    "raw_title": "Un Weekend Artificiale",
-    "start": "2026-11-14T17:10:00",
-    "hall": "sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T17:10:00",
-    "hall": "sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T17:10:00",
-    "hall": "MARILYN",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T17:10:00",
-    "hall": "BLU",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T17:10:00",
-    "hall": "VERDE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1723882,
-    "raw_title": "(Sala XL) Un Weekend Artificiale",
-    "start": "2026-11-14T17:10:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-14T17:15:00",
-    "hall": "President",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128288/fb799ea8-de96-4a50-b108-c3e81e3feebb#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1583853,
-    "raw_title": "SE DOMANI NON TORNO",
-    "start": "2026-11-14T17:15:00",
-    "hall": "Aurora",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/125614/cbb2fb29-f893-4a2b-9a03-f1ef37a5c242#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-14T17:15:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/64dd7bb8-1be3-464b-aeec-04285b73b18e#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": null,
-    "raw_title": "IL GATTO COL CAPPELLO (THE CAT IN THE HAT)",
-    "start": "2026-11-14T17:15:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/124076/62a930ad-227e-433e-80ae-dcbb54849853#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1244492,
-    "raw_title": "LOOK BACK",
-    "start": "2026-11-14T17:20:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/look-back/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1567605,
-    "raw_title": "Atmos - Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T17:20:00",
-    "hall": "SALA 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T17:20:00",
-    "hall": "SALA 8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T17:20:00",
-    "hall": "SALA 7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1244492,
-    "raw_title": "Look Back",
-    "start": "2026-11-14T17:20:00",
-    "hall": "SALA KUBRICK",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-14T17:20:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T17:20:00",
-    "hall": "3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1583853,
-    "raw_title": "SE DOMANI NON TORNO",
-    "start": "2026-11-14T17:25:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1244492,
-    "raw_title": "LOOK BACK",
-    "start": "2026-11-14T17:25:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1649403,
-    "raw_title": "(O.V.) George Michael: The Faith Tour",
-    "start": "2026-11-14T17:25:00",
-    "hall": "13",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1117898,
-    "raw_title": "Il Gatto Col Cappello",
-    "start": "2026-11-14T17:25:00",
-    "hall": "9",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "centrale",
-    "tmdb_id": 1376412,
-    "raw_title": "La Guerra Dei Prezzi",
-    "start": "2026-11-14T17:30:00",
-    "hall": "Centrale Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1117898,
-    "raw_title": "Il Gatto Col Cappello",
-    "start": "2026-11-14T17:30:00",
-    "hall": "SALA 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T17:30:00",
-    "hall": "SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T17:30:00",
-    "hall": "SALA 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": null,
-    "raw_title": "INCONTRO CON ANGELA DAVIS",
-    "start": "2026-11-14T17:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1723882,
-    "raw_title": "UN WEEKEND ARTIFICIALE",
-    "start": "2026-11-14T17:35:00",
-    "hall": "Corallo",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/124591/6408205f-e825-4287-af0a-3a58e67d5f4c#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1567605,
-    "raw_title": "SCROOGE E GLI SPIRITI DEL NATALE",
-    "start": "2026-11-14T17:35:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1723882,
-    "raw_title": "Un Weekend Artificiale",
-    "start": "2026-11-14T17:40:00",
-    "hall": "SALA 5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
-    "raw_title": "Shaun Vita Da Pecora - Op. Z.U.C.C.A.",
-    "start": "2026-11-14T17:40:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1412795,
-    "raw_title": "L'ESTRANEA",
-    "start": "2026-11-14T17:45:00",
-    "hall": "De amicis",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/117399/2601ae2e-c895-4ed7-ab1b-e3f476a08e16#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1503762,
-    "raw_title": "Ragione E Sentimento (2026)",
-    "start": "2026-11-14T18:00:00",
-    "hall": "SALA WENDERS",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T18:00:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1723882,
-    "raw_title": "UN WEEKEND ARTIFICIALE",
-    "start": "2026-11-14T18:05:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T18:10:00",
-    "hall": "15",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "mexico",
-    "tmdb_id": 1651347,
-    "raw_title": "MINOTAUR",
-    "start": "2026-11-14T18:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
-    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1058424,
-    "raw_title": "Hope",
-    "start": "2026-11-14T18:20:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 891621,
-    "raw_title": "V.O.SOTT.ITA WILD HORSE NINE",
-    "start": "2026-11-14T18:30:00",
-    "hall": "Nobel RISTOCINEMA",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/126111/a225b905-ee08-40b4-b4a5-63bf92842f4e#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1567605,
-    "raw_title": "(O.V.) Ebenezer",
-    "start": "2026-11-14T18:30:00",
-    "hall": "18",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1154730,
-    "raw_title": "V.O. SOTT ITA - LA GRADIVA",
-    "start": "2026-11-14T18:40:00",
-    "hall": "Abanella",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128715/59d06731-3bd7-4a05-97ff-8627ae9db4bf#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1309373,
-    "raw_title": "Il Canto Della Foresta",
-    "start": "2026-11-14T18:40:00",
-    "hall": "14",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "centrale",
-    "tmdb_id": 1309373,
-    "raw_title": "Il Canto Della Foresta",
-    "start": "2026-11-14T18:45:00",
-    "hall": "CENTRALE SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1583853,
-    "raw_title": "SE DOMANI NON TORNO",
-    "start": "2026-11-14T18:45:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/114560",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1117898,
-    "raw_title": "Il Gatto Col Cappello",
-    "start": "2026-11-14T19:00:00",
-    "hall": "SALA 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinemino",
-    "tmdb_id": null,
-    "raw_title": "RAGIONE E SENTIMENTO (SENSE AND SENSIBILITY) - V. O.",
-    "start": "2026-11-14T19:00:00",
-    "hall": "Sala",
-    "language": "original_subbed",
-    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
-    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-14T19:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/129144",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T19:05:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": null,
-    "raw_title": "L'ESSERE AMATO (EL SER QUERIDO)",
-    "start": "2026-11-14T19:10:00",
-    "hall": "Astra",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128354/9ac94729-d176-42f7-a87f-07aa7e7215b8#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1074074,
-    "raw_title": "L'ESSERE AMATO",
-    "start": "2026-11-14T19:10:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/lessere-amato/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1567605,
-    "raw_title": "SCROOGE E GLI SPIRITI DEL NATALE",
-    "start": "2026-11-14T19:10:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T19:10:00",
-    "hall": "Sala 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T19:10:00",
-    "hall": "Sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T19:10:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1567605,
-    "raw_title": "(XL) Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T19:10:00",
-    "hall": "SALA 2 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 891621,
-    "raw_title": "WILD HORSE NINE",
-    "start": "2026-11-14T19:15:00",
-    "hall": "Excelsior",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/125680/3aa9ae3e-de94-4f31-acce-4faf4b487fd8#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T19:15:00",
-    "hall": "Sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "ariosto",
-    "tmdb_id": 1412795,
-    "raw_title": "L'ESTRANEA",
-    "start": "2026-11-14T19:15:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://ariosto.spaziocinema.18tickets.it/film/117399/7ea95850-3b20-4c41-9ac0-e1f521f7c170#theater-init",
-    "source_url": "https://ariosto.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 891621,
-    "raw_title": "V.O.SOTT.ITA WILD HORSE NINE",
-    "start": "2026-11-14T19:15:00",
-    "hall": "Zenit",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/125679/f1d7830a-4245-4acf-901a-6b0efa9ea052#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T19:15:00",
-    "hall": "SALA CANNES",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T19:15:00",
-    "hall": "SALA SUNDANCE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T19:15:00",
-    "hall": "SALA BERLINO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T19:15:00",
-    "hall": "SALA VENEZIA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T19:15:00",
-    "hall": "SALA SCORSESE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T19:15:00",
-    "hall": "ROSSA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T19:15:00",
-    "hall": "11",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1244492,
-    "raw_title": "V.O. SOTT ITA - LOOK BACK",
-    "start": "2026-11-14T19:20:00",
-    "hall": "Astoria",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128683/593a594d-f2bf-4b0b-8812-a27a42d70ba7#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 891621,
-    "raw_title": "(O.V.) Wild Horse Nine",
-    "start": "2026-11-14T19:20:00",
-    "hall": "Sala 1",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T19:20:00",
-    "hall": "Sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T19:20:00",
-    "hall": "SALA TORONTO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1723882,
-    "raw_title": "Un Weekend Artificiale",
-    "start": "2026-11-14T19:20:00",
-    "hall": "SALA LOCARNO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T19:20:00",
-    "hall": "sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T19:20:00",
-    "hall": "sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1723882,
-    "raw_title": "Un Weekend Artificiale",
-    "start": "2026-11-14T19:20:00",
-    "hall": "sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T19:20:00",
-    "hall": "sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T19:20:00",
-    "hall": "SALA TRUFFAUT",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T19:20:00",
-    "hall": "SALA OLMI",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T19:20:00",
-    "hall": "GARBO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1438963,
-    "raw_title": "DAL NULLA",
-    "start": "2026-11-14T19:20:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T19:20:00",
-    "hall": "BLU",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T19:20:00",
-    "hall": "VERDE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1244492,
-    "raw_title": "Look Back",
-    "start": "2026-11-14T19:20:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1506710,
-    "raw_title": "DIO RIDE",
-    "start": "2026-11-14T19:25:00",
-    "hall": "Aurora",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/123931/3be12c85-5e70-4374-86e6-e562b1df8120#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1244492,
-    "raw_title": "Look Back",
-    "start": "2026-11-14T19:25:00",
-    "hall": "SALA KUBRICK",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1117898,
-    "raw_title": "Il Gatto Col Cappello",
-    "start": "2026-11-14T19:25:00",
-    "hall": "8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1583853,
-    "raw_title": "SE DOMANI NON TORNO",
-    "start": "2026-11-14T19:30:00",
-    "hall": "Rubino",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/125614/424a0d4d-4802-4e0a-8e3f-0a2a3a7dc14f#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-14T19:30:00",
-    "hall": "President",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128288/d85fd4ee-d7b6-4949-8b52-7f4e78fdf216#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1583853,
-    "raw_title": "SE DOMANI NON TORNO",
-    "start": "2026-11-14T19:30:00",
-    "hall": "Corallo",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/125614/b7da6466-77c0-40fd-9f25-8f471493a843#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-14T19:30:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/dc6881f2-15aa-434f-a783-11435bf6d375#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1723882,
-    "raw_title": "UN WEEKEND ARTIFICIALE",
-    "start": "2026-11-14T19:30:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/124591/c221c0b7-80ca-405e-84e5-a45781a98c0e#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1567605,
-    "raw_title": "SCROOGE E GLI SPIRITI DEL NATALE (EBENEZER)",
-    "start": "2026-11-14T19:30:00",
-    "hall": "Ariston",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128451/3b18bcbd-a09b-42fd-8979-063778a48cca#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T19:30:00",
-    "hall": "MARILYN",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 891621,
-    "raw_title": "WILD HORSE NINE",
-    "start": "2026-11-14T19:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
-    "raw_title": "(JP) Godzilla Minus Zero",
-    "start": "2026-11-14T19:30:00",
-    "hall": "5",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1381071,
-    "raw_title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-14T19:40:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1723882,
-    "raw_title": "(Sala XL) Un Weekend Artificiale",
-    "start": "2026-11-14T19:40:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1437511,
-    "raw_title": "Come Rapinare Una Banca",
-    "start": "2026-11-14T19:45:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1506710,
-    "raw_title": "DIO RIDE",
-    "start": "2026-11-14T19:50:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1381071,
-    "raw_title": "Godzilla Minus Zero",
-    "start": "2026-11-14T19:50:00",
-    "hall": "3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-14T19:55:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1437696,
-    "raw_title": "V. O. SOTT ITA FATHERLAND",
-    "start": "2026-11-14T20:00:00",
-    "hall": "De amicis",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/119838/5d052cb0-ff97-4004-81bc-2aa2c0e76bac#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1567605,
-    "raw_title": "Atmos - Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T20:00:00",
-    "hall": "SALA 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T20:00:00",
-    "hall": "SALA 8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T20:00:00",
-    "hall": "SALA 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T20:00:00",
-    "hall": "SALA 7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cineteca-mic",
-    "tmdb_id": 13310,
-    "raw_title": "LASCIAMI ENTRARE",
-    "start": "2026-11-14T20:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://mic.cinetecadimilano.18tickets.it/film/119015",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1583853,
-    "raw_title": "SE DOMANI NON TORNO",
-    "start": "2026-11-14T20:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1678120,
-    "raw_title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
-    "start": "2026-11-14T20:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
-    "raw_title": "(O.V.) League Of Legends Worlds 26",
-    "start": "2026-11-14T20:00:00",
-    "hall": "10",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T20:00:00",
-    "hall": "13",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1567605,
-    "raw_title": "SCROOGE E GLI SPIRITI DEL NATALE",
-    "start": "2026-11-14T20:05:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T20:10:00",
-    "hall": "SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1723882,
-    "raw_title": "Un Weekend Artificiale",
-    "start": "2026-11-14T20:20:00",
-    "hall": "SALA 5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1723882,
-    "raw_title": "UN WEEKEND ARTIFICIALE",
-    "start": "2026-11-14T20:20:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "centrale",
-    "tmdb_id": 1154730,
-    "raw_title": "(O.V.) La Gradiva - Versione Originale",
-    "start": "2026-11-14T20:30:00",
-    "hall": "Centrale Sala 1",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T20:30:00",
-    "hall": "SALA 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": null,
-    "raw_title": "CERIMONIA DI PREMIAZIONE PICCOLO GRANDE CINEMA 2026 + EL PARTIDO",
-    "start": "2026-11-14T20:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/120498",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "cineteca-arlecchino",
-    "tmdb_id": 1666712,
-    "raw_title": "EL PARTIDO",
-    "start": "2026-11-14T20:30:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/120498",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1244492,
-    "raw_title": "Look Back",
-    "start": "2026-11-14T20:45:00",
-    "hall": "14",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T20:45:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-14T21:00:00",
-    "hall": "Nobel RISTOCINEMA",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128519/5a2e9531-61f2-4523-8a0f-7fec9323fce3#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "centrale",
-    "tmdb_id": 1119548,
-    "raw_title": "Nel Silenzio Delle Stanze",
-    "start": "2026-11-14T21:00:00",
-    "hall": "CENTRALE SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5742"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 891621,
-    "raw_title": "WILD HORSE NINE",
-    "start": "2026-11-14T21:00:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/125712",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 848700,
-    "raw_title": "Minotaur - Nel Labirinto Del Potere",
-    "start": "2026-11-14T21:00:00",
-    "hall": "SALA WENDERS",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "godard",
-    "tmdb_id": 891621,
-    "raw_title": "WILD HORSE NINE",
-    "start": "2026-11-14T21:00:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": null,
-    "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
-  },
-  {
-    "cinema_id": "mexico",
-    "tmdb_id": 1244492,
-    "raw_title": "LOOK BACK",
-    "start": "2026-11-14T21:00:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
-    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1567605,
-    "raw_title": "(O.V.) Ebenezer",
-    "start": "2026-11-14T21:10:00",
-    "hall": "18",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cineteca-metropolis",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-14T21:15:00",
-    "hall": null,
-    "language": "dubbed",
-    "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/129144",
-    "source_url": "https://www.cinetecamilano.it/calendario/"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1381071,
-    "raw_title": "Godzilla Minus Zero",
-    "start": "2026-11-14T21:15:00",
-    "hall": "sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T21:20:00",
-    "hall": "15",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 891621,
-    "raw_title": "V.O.SOTT.ITA WILD HORSE NINE",
-    "start": "2026-11-14T21:30:00",
-    "hall": "Excelsior",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/125679/9d5cd646-a0bf-4da1-abac-243e3c4e5058#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1244492,
-    "raw_title": "LOOK BACK",
-    "start": "2026-11-14T21:30:00",
-    "hall": "Astoria",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128353/50897706-738d-4f66-8b64-c5820a8692f3#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 891621,
-    "raw_title": "(O.V.) Wild Horse Nine",
-    "start": "2026-11-14T21:30:00",
-    "hall": "Sala 2",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T21:30:00",
-    "hall": "Sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "arcobaleno",
-    "tmdb_id": 1544437,
-    "raw_title": "La Ragazza Con La Leica",
-    "start": "2026-11-14T21:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
-  },
-  {
-    "cinema_id": "ariosto",
-    "tmdb_id": null,
-    "raw_title": "L'ESSERE AMATO (EL SER QUERIDO)",
-    "start": "2026-11-14T21:30:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://ariosto.spaziocinema.18tickets.it/film/128354/7d7e799d-2611-4327-9e85-8abdb7e057bc#theater-init",
-    "source_url": "https://ariosto.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1381071,
-    "raw_title": "Godzilla Minus Zero",
-    "start": "2026-11-14T21:30:00",
-    "hall": "SALA 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinemino",
-    "tmdb_id": 891621,
-    "raw_title": "WILD HORSE NINE - V. O.",
-    "start": "2026-11-14T21:30:00",
-    "hall": "Sala",
-    "language": "original_subbed",
-    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
-    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 891621,
-    "raw_title": "WILD HORSE NINE",
-    "start": "2026-11-14T21:30:00",
-    "hall": "Zenit",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/125680/8e7a6f47-8039-4630-93a1-d636a2efd70b#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1381071,
-    "raw_title": "V.O.SOTT.ITA GODZILLA MINUS ZERO",
-    "start": "2026-11-14T21:30:00",
-    "hall": "Capitol",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128584/e5b704d4-ccd2-4fed-aaa8-1c92129926ad#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1567605,
-    "raw_title": "(O.V.) Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T21:30:00",
-    "hall": "SALA BERLINO",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 891621,
-    "raw_title": "(O.V.) Wild Horse Nine",
-    "start": "2026-11-14T21:30:00",
-    "hall": "SALA VENEZIA",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T21:30:00",
-    "hall": "SALA LOCARNO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T21:30:00",
-    "hall": "SALA SUNDANCE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1412795,
-    "raw_title": "L'Estranea",
-    "start": "2026-11-14T21:30:00",
-    "hall": "SALA CANNES",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "colosseo",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T21:30:00",
-    "hall": "SALA TORONTO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T21:30:00",
-    "hall": "sala 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T21:30:00",
-    "hall": "sala 3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "ducale",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T21:30:00",
-    "hall": "sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 891621,
-    "raw_title": "(O.V.) Wild Horse Nine",
-    "start": "2026-11-14T21:30:00",
-    "hall": "SALA SCORSESE",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T21:30:00",
-    "hall": "SALA TRUFFAUT",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T21:30:00",
-    "hall": "SALA OLMI",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "eliseo",
-    "tmdb_id": 1244492,
-    "raw_title": "Look Back",
-    "start": "2026-11-14T21:30:00",
-    "hall": "SALA KUBRICK",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T21:30:00",
-    "hall": "BLU",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T21:30:00",
-    "hall": "VERDE",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T21:30:00",
-    "hall": "ROSSA",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T21:30:00",
-    "hall": "Sala 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 1723882,
-    "raw_title": "Un Weekend Artificiale",
-    "start": "2026-11-14T21:30:00",
-    "hall": "Sala 6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "plinius",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T21:30:00",
-    "hall": "Sala 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1567605,
-    "raw_title": "SCROOGE E GLI SPIRITI DEL NATALE",
-    "start": "2026-11-14T21:35:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1058424,
-    "raw_title": "HOPE",
-    "start": "2026-11-14T21:35:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1583853,
-    "raw_title": "SE DOMANI NON TORNO",
-    "start": "2026-11-14T21:40:00",
-    "hall": "Rubino",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/125614/0349ec14-826d-452e-81bb-6c699534884b#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1154730,
-    "raw_title": "V.O. SOTT ITA - LA GRADIVA",
-    "start": "2026-11-14T21:40:00",
-    "hall": "Abanella",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128715/31250f4d-5d18-489f-bbca-eb0182e0142b#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 891621,
-    "raw_title": "WILD HORSE NINE",
-    "start": "2026-11-14T21:40:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/wild-horse-nine/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1723882,
-    "raw_title": "UN WEEKEND ARTIFICIALE",
-    "start": "2026-11-14T21:40:00",
-    "hall": "Corallo",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/124591/fa97bc4d-f72c-4809-b8fc-34966dd3ed4c#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1058424,
-    "raw_title": "V.O. SOTT. ITA. - HOPE",
-    "start": "2026-11-14T21:40:00",
-    "hall": "Aurora",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/125779/8f677c08-ed63-428d-82d4-b85a3c7acfc7#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T21:40:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T21:40:00",
-    "hall": "6",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1074074,
-    "raw_title": "V. O. SOTT. ITA L'ESSERE AMATO",
-    "start": "2026-11-14T21:45:00",
-    "hall": "Obraz",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128649/8fdffb91-ac14-4bdc-857a-aac5cb6a56c4#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1412795,
-    "raw_title": "L'ESTRANEA",
-    "start": "2026-11-14T21:45:00",
-    "hall": "President",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/117399/cf387917-db86-4d6d-8d9d-df813c59f591#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1438966,
-    "raw_title": "JE SO PAZZO",
-    "start": "2026-11-14T21:45:00",
-    "hall": "De amicis",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/119707/f216ee60-418d-41fe-8bc2-77d46f2dd0e5#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-14T21:45:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/88ba81c6-419a-46dc-ac31-95a92b8e4a1c#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": null,
-    "raw_title": "COME RAPINARE UNA BANCA (HOW TO ROB A BANK)",
-    "start": "2026-11-14T21:45:00",
-    "hall": "Ariston",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128385/5ca135a0-d3d2-486c-8417-84126f9c5a30#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1506710,
-    "raw_title": "Dio Ride",
-    "start": "2026-11-14T21:45:00",
-    "hall": "GARBO",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "notorious-gloria",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T21:50:00",
-    "hall": "MARILYN",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1381071,
-    "raw_title": "Godzilla Minus Zero",
-    "start": "2026-11-14T21:50:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1678120,
-    "raw_title": "Un Tranquillo Funerale Di Famiglia",
-    "start": "2026-11-14T21:50:00",
-    "hall": "11",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1567605,
-    "raw_title": "(XL) Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T22:00:00",
-    "hall": "SALA 2 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 791523,
-    "raw_title": "WILDWOOD - I SEGRETI DEL BOSCO PROIBITO",
-    "start": "2026-11-14T22:05:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1400940,
-    "raw_title": "CLAYFACE",
-    "start": "2026-11-14T22:10:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1723882,
-    "raw_title": "(Sala XL) Un Weekend Artificiale",
-    "start": "2026-11-14T22:10:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1058424,
-    "raw_title": "Hope",
-    "start": "2026-11-14T22:10:00",
-    "hall": "8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1678120,
-    "raw_title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
-    "start": "2026-11-14T22:15:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1583853,
-    "raw_title": "SE DOMANI NON TORNO",
-    "start": "2026-11-14T22:20:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-14T22:25:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1583853,
-    "raw_title": "Se Domani Non Torno",
-    "start": "2026-11-14T22:30:00",
-    "hall": "SALA 4",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1678120,
-    "raw_title": "Un Tranquillo Funerale Di Famiglia",
-    "start": "2026-11-14T22:30:00",
-    "hall": "SALA 8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1381071,
-    "raw_title": "GODZILLA MINUS ZERO",
-    "start": "2026-11-14T22:30:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1437511,
-    "raw_title": "Come Rapinare Una Banca",
-    "start": "2026-11-14T22:30:00",
-    "hall": "5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T22:30:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1567605,
-    "raw_title": "Atmos - Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T22:35:00",
-    "hall": "SALA 1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1437511,
-    "raw_title": "Come Rapinare Una Banca",
-    "start": "2026-11-14T22:35:00",
-    "hall": "SALA 5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1723882,
-    "raw_title": "UN WEEKEND ARTIFICIALE",
-    "start": "2026-11-14T22:35:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "notorious-merlata",
-    "tmdb_id": 1437511,
-    "raw_title": "COME RAPINARE UNA BANCA",
-    "start": "2026-11-14T22:35:00",
-    "hall": null,
-    "language": "unknown",
-    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
-    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 1544126,
-    "raw_title": "Il Rumore Delle Cose Nuove",
-    "start": "2026-11-14T22:40:00",
-    "hall": "SALA 2",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "cinelandia-certosa",
-    "tmdb_id": 891621,
-    "raw_title": "Wild Horse Nine",
-    "start": "2026-11-14T22:40:00",
-    "hall": "SALA 7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1400940,
-    "raw_title": "Clayface",
-    "start": "2026-11-14T22:40:00",
-    "hall": "13",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1381071,
-    "raw_title": "Godzilla Minus Zero",
-    "start": "2026-11-14T22:45:00",
-    "hall": "3",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1381071,
-    "raw_title": "Godzilla Minus Zero",
-    "start": "2026-11-14T23:15:00",
-    "hall": "14",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-14T23:35:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1412795,
-    "raw_title": "L'ESTRANEA",
-    "start": "2026-11-14T23:50:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/lestranea/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1422011,
-    "raw_title": "It Ends",
-    "start": "2026-11-14T23:50:00",
-    "hall": "18",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1400837,
-    "raw_title": "Mammina",
-    "start": "2026-11-14T23:55:00",
-    "hall": "15",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1477712,
-    "raw_title": "Ice Cream Man",
-    "start": "2026-11-15T00:15:00",
-    "hall": "11",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1511829,
-    "raw_title": "The Nameless Ballad",
-    "start": "2026-11-15T00:15:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1154730,
-    "raw_title": "V.O. SOTT ITA - LA GRADIVA",
-    "start": "2026-11-15T10:00:00",
-    "hall": "De amicis",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128715/63b39cf1-4070-4ea8-8f63-a623af51c2e3#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1244492,
-    "raw_title": "V.O. SOTT ITA - LOOK BACK",
-    "start": "2026-11-15T10:00:00",
-    "hall": "Rubino",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128683/8b198bdd-38fc-4d78-a8f8-1bb7eaedd6c2#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-15T10:00:00",
-    "hall": "President",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128288/c03da582-a440-4440-b831-5133c7d7b96f#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1119548,
-    "raw_title": "NEL SILENZIO DELLE STANZE",
-    "start": "2026-11-15T10:00:00",
-    "hall": "Aurora",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/124029/adc3895f-1d39-442a-8330-7219a269201d#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 891621,
-    "raw_title": "WILD HORSE NINE",
-    "start": "2026-11-15T10:30:00",
-    "hall": "Abadan",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/125680/2dea8480-d512-40b2-b6b3-add72d1435ff#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1437696,
-    "raw_title": "FATHERLAND",
-    "start": "2026-11-15T10:30:00",
-    "hall": "Excelsior Colazione all Anteo",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/126538/64a0ac0d-4e29-44c7-85d3-391528434f26#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": null,
-    "raw_title": "8 E MEZZO",
-    "start": "2026-11-15T10:30:00",
-    "hall": "Astra INTERO 6,50",
-    "language": "unknown",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/123006/a3610cfd-115e-4ed3-80ea-0a6b01fc1f54#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "ariosto",
-    "tmdb_id": 62,
-    "raw_title": "V.O.SOTT.ITA - 2001: ODISSEA NELLO SPAZIO",
-    "start": "2026-11-15T10:30:00",
-    "hall": "1 ARIOSTO 10/8",
-    "language": "original_subbed",
-    "booking_url": "https://ariosto.spaziocinema.18tickets.it/film/127232/28de7920-2005-40af-9376-7101c78a1a66#theater-init",
-    "source_url": "https://ariosto.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1583853,
-    "raw_title": "SE DOMANI NON TORNO",
-    "start": "2026-11-15T10:30:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/125614/5bbb5d1e-f7e8-4b62-8aaa-4b771ab32ec4#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1544126,
-    "raw_title": "(Sala XL) Il Rumore Delle Cose Nuove",
-    "start": "2026-11-15T10:30:00",
-    "hall": "SALA 2 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1124142,
-    "raw_title": "V.O. SOTT. ITA - LA BALLATA DEL RE DELLE API",
-    "start": "2026-11-15T10:31:00",
-    "hall": "Astoria",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/127692/6937411e-3a60-42dc-a128-747b2d374ee9#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "beltrade",
-    "tmdb_id": 1058424,
-    "raw_title": "HOPE",
-    "start": "2026-11-15T10:40:00",
-    "hall": null,
-    "language": "original_subbed",
-    "booking_url": "https://bandhi.it/bah/beltrade/production/hope-2/",
-    "source_url": "https://bandhi.it/bah/beltrade/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 81684,
-    "raw_title": "Il Gruffalo' E La Sua Picc + Bastoncino",
-    "start": "2026-11-15T10:40:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1187326,
-    "raw_title": "Taddeo L'Esploratore E La Lampada M.",
-    "start": "2026-11-15T10:40:00",
-    "hall": "13",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1381071,
-    "raw_title": "Godzilla Minus Zero",
-    "start": "2026-11-15T10:45:00",
-    "hall": "8",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
-    "raw_title": "Shaun Vita Da Pecora - Op. Z.U.C.C.A.",
-    "start": "2026-11-15T10:50:00",
-    "hall": "16",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
-    "raw_title": "Il Gruffalo' E La Sua P+Bastoncino Aut.",
-    "start": "2026-11-15T11:00:00",
-    "hall": "12",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1567605,
-    "raw_title": "Scrooge E Gli Spiriti Del Natale",
-    "start": "2026-11-15T11:00:00",
-    "hall": "1",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": null,
-    "raw_title": "(JP) Godzilla Minus Zero",
-    "start": "2026-11-15T11:10:00",
-    "hall": "9",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 891621,
-    "raw_title": "(O.V.) Wild Horse Nine",
-    "start": "2026-11-15T11:10:00",
-    "hall": "14",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 791523,
-    "raw_title": "(O.V.) Wildwood",
-    "start": "2026-11-15T11:10:00",
-    "hall": "6",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1583853,
-    "raw_title": "(Sala XL) Se Domani Non Torno",
-    "start": "2026-11-15T11:25:00",
-    "hall": "SALA 17 XL",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1567605,
-    "raw_title": "(O.V.) Ebenezer",
-    "start": "2026-11-15T11:30:00",
-    "hall": "3",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1117898,
-    "raw_title": "Il Gatto Col Cappello",
-    "start": "2026-11-15T11:40:00",
-    "hall": "18",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 791523,
-    "raw_title": "V.O.SOTT.ITA - WILDWOOD - I SEGRETI DEL BOSCO PROIBITO",
-    "start": "2026-11-15T12:00:00",
-    "hall": "Aurora",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/121691/fc72f33a-a4ac-46ee-9b1f-96a2122d05a6#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1723882,
-    "raw_title": "Un Weekend Artificiale",
-    "start": "2026-11-15T12:00:00",
-    "hall": "5",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 891621,
-    "raw_title": "V.O.SOTT.ITA WILD HORSE NINE",
-    "start": "2026-11-15T12:15:00",
-    "hall": "President",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/125679/d0ebf0d9-8238-4edc-9f04-adcc643af71c#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1074074,
-    "raw_title": "V. O. SOTT. ITA L'ESSERE AMATO",
-    "start": "2026-11-15T12:20:00",
-    "hall": "Excelsior",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128649/c0a9492c-4a94-4d0f-8e92-665589945593#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 891621,
-    "raw_title": "V.O.SOTT.ITA WILD HORSE NINE",
-    "start": "2026-11-15T12:30:00",
-    "hall": "Zenit",
-    "language": "original_subbed",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/125679/2bff5d2b-7e05-4dd6-8ad5-2a9208147eea#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1244492,
-    "raw_title": "Look Back",
-    "start": "2026-11-15T12:30:00",
-    "hall": "15",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
-    "tmdb_id": 1649403,
-    "raw_title": "V.O. SOTT. ITA GEORGE MICHAEL - THE FAITH TOUR",
-    "start": "2026-11-15T12:40:00",
-    "hall": "Abadan",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/127197/649130b3-534a-4dfd-b83c-7971b748bdd5#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1375441,
-    "raw_title": "PRIMETIME",
-    "start": "2026-11-15T12:45:00",
-    "hall": "Capitol",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/119640/b9cc3357-e629-4dab-a5da-5a81ee06117a#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
-    "tmdb_id": 1412795,
-    "raw_title": "L'ESTRANEA",
-    "start": "2026-11-15T12:45:00",
-    "hall": "Mignon",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/117399/63ad9e92-ed85-461f-9d30-f99375d02303#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "uci-bicocca",
-    "tmdb_id": 1049082,
-    "raw_title": "Jumbo - La Voce Di Don",
-    "start": "2026-11-15T12:45:00",
-    "hall": "7",
-    "language": "unknown",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "anteo",
     "tmdb_id": 1244492,
     "raw_title": "LOOK BACK",
     "start": "2026-11-15T13:00:00",
@@ -3860,6 +90,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1506710,
+    "raw_title": "DIO RIDE",
+    "start": "2026-11-15T14:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": null,
     "raw_title": "Shaun Vita Da Pecora - Op. Z.U.C.C.A.",
@@ -3888,6 +128,46 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1544126,
+    "raw_title": "IL RUMORE DELLE COSE NUOVE",
+    "start": "2026-11-15T14:15:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1058424,
+    "raw_title": "HOPE",
+    "start": "2026-11-15T14:20:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1244492,
+    "raw_title": "LOOK BACK",
+    "start": "2026-11-15T14:20:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1117898,
+    "raw_title": "IL GATTO COL CAPPELLO",
+    "start": "2026-11-15T14:20:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -3978,6 +258,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 891621,
+    "raw_title": "WILD HORSE NINE",
+    "start": "2026-11-15T14:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "plinius",
@@ -4090,6 +380,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1544126,
+    "raw_title": "IL RUMORE DELLE COSE NUOVE",
+    "start": "2026-11-15T14:45:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1506710,
     "raw_title": "Dio Ride",
@@ -4134,7 +434,7 @@
     "tmdb_id": 1506710,
     "raw_title": "Dio Ride",
     "start": "2026-11-15T14:50:00",
-    "hall": "SALA CANNES",
+    "hall": "SALA LOCARNO",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
@@ -4188,6 +488,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1567605,
+    "raw_title": "SCROOGE E GLI SPIRITI DEL NATALE",
+    "start": "2026-11-15T14:50:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -4354,7 +664,7 @@
     "tmdb_id": 1117898,
     "raw_title": "Il Gatto Col Cappello",
     "start": "2026-11-15T15:00:00",
-    "hall": "SALA LOCARNO",
+    "hall": "SALA CANNES",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
@@ -4410,6 +720,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5065"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1583853,
+    "raw_title": "SE DOMANI NON TORNO",
+    "start": "2026-11-15T15:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "orfeo",
     "tmdb_id": 1544126,
     "raw_title": "Il Rumore Delle Cose Nuove",
@@ -4448,6 +768,16 @@
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/15507594-489b-4d32-881d-53cbf847619f#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1381071,
+    "raw_title": "GODZILLA MINUS ZERO",
+    "start": "2026-11-15T15:10:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -4550,6 +880,16 @@
     "source_url": "https://ticketing.fondazioneprada.org/ticketing/UIPublic/CinemaHome.aspx"
   },
   {
+    "cinema_id": "mexico",
+    "tmdb_id": 1244492,
+    "raw_title": "LOOK BACK",
+    "start": "2026-11-15T16:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
+    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1117898,
     "raw_title": "(Sala XL) Il Gatto Col Cappello",
@@ -4590,6 +930,26 @@
     "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
+    "cinema_id": "gregorianum",
+    "tmdb_id": 1185806,
+    "raw_title": "PAW PATROL - MISSIONE DINOSAURI",
+    "start": "2026-11-15T16:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/6483/",
+    "source_url": "https://www.mymovies.it/cinema/milano/6483/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1438966,
+    "raw_title": "JE SO' PAZZO",
+    "start": "2026-11-15T16:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1567605,
     "raw_title": "Scrooge E Gli Spiriti Del Natale",
@@ -4598,6 +958,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1583853,
+    "raw_title": "SE DOMANI NON TORNO",
+    "start": "2026-11-15T16:35:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -4618,6 +988,16 @@
     "language": "original_subbed",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/128649/bc793aa9-2705-4518-9d0a-02c4c681ec99#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1381071,
+    "raw_title": "GODZILLA MINUS ZERO",
+    "start": "2026-11-15T16:40:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "anteo",
@@ -4648,6 +1028,16 @@
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/125680/1c4d0d60-02ba-4c57-b275-d3672cd99f18#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1567605,
+    "raw_title": "SCROOGE E GLI SPIRITI DEL NATALE",
+    "start": "2026-11-15T16:45:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -4860,6 +1250,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1117898,
+    "raw_title": "IL GATTO COL CAPPELLO",
+    "start": "2026-11-15T17:05:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "orfeo",
     "tmdb_id": 1412795,
     "raw_title": "L'Estranea",
@@ -5021,22 +1421,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-15T17:15:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/39266080-d282-44be-9d09-b8a9385cc01e#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1723882,
     "raw_title": "UN WEEKEND ARTIFICIALE",
     "start": "2026-11-15T17:15:00",
     "hall": "Corallo",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/124591/15c1f3e6-6e0f-4ae6-9fd3-f26009c734c1#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1544126,
+    "raw_title": "IL RUMORE DELLE COSE NUOVE",
+    "start": "2026-11-15T17:15:00",
+    "hall": "Maestoso",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/39266080-d282-44be-9d09-b8a9385cc01e#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -5100,6 +1500,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1544126,
+    "raw_title": "IL RUMORE DELLE COSE NUOVE",
+    "start": "2026-11-15T17:20:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1583853,
     "raw_title": "Se Domani Non Torno",
@@ -5108,6 +1518,26 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1583853,
+    "raw_title": "SE DOMANI NON TORNO",
+    "start": "2026-11-15T17:25:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1244492,
+    "raw_title": "LOOK BACK",
+    "start": "2026-11-15T17:25:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -5168,6 +1598,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1567605,
+    "raw_title": "SCROOGE E GLI SPIRITI DEL NATALE",
+    "start": "2026-11-15T17:35:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -5240,6 +1680,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1723882,
+    "raw_title": "UN WEEKEND ARTIFICIALE",
+    "start": "2026-11-15T18:05:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1567605,
     "raw_title": "Scrooge E Gli Spiriti Del Natale",
@@ -5258,6 +1708,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "mexico",
+    "tmdb_id": 1074074,
+    "raw_title": "L'ESSERE AMATO",
+    "start": "2026-11-15T18:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
+    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -5280,6 +1740,16 @@
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1309373,
+    "raw_title": "Il Canto Della Foresta",
+    "start": "2026-11-15T18:40:00",
+    "hall": "14",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
     "cinema_id": "centrale",
     "tmdb_id": 1309373,
     "raw_title": "Il Canto Della Foresta",
@@ -5298,6 +1768,16 @@
     "language": "dubbed",
     "booking_url": "https://metropolis.cinetecadimilano.18tickets.it/film/114560",
     "source_url": "https://www.cinetecamilano.it/calendario/"
+  },
+  {
+    "cinema_id": "cinemino",
+    "tmdb_id": 891621,
+    "raw_title": "WILD HORSE NINE - V. O.",
+    "start": "2026-11-15T19:00:00",
+    "hall": "Sala",
+    "language": "original_subbed",
+    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
+    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
   },
   {
     "cinema_id": "cineteca-arlecchino",
@@ -5448,6 +1928,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1567605,
+    "raw_title": "SCROOGE E GLI SPIRITI DEL NATALE",
+    "start": "2026-11-15T19:15:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "orfeo",
@@ -5610,6 +2100,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1438963,
+    "raw_title": "DAL NULLA",
+    "start": "2026-11-15T19:20:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "orfeo",
     "tmdb_id": 1544126,
     "raw_title": "Il Rumore Delle Cose Nuove",
@@ -5691,22 +2191,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-15T19:30:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/11d6adb0-06ff-4973-a87c-918a6fa86aee#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1723882,
     "raw_title": "UN WEEKEND ARTIFICIALE",
     "start": "2026-11-15T19:30:00",
     "hall": "Capitol",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/124591/19ad9c9a-4d3d-46c5-95b2-d89601314919#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1544126,
+    "raw_title": "IL RUMORE DELLE COSE NUOVE",
+    "start": "2026-11-15T19:30:00",
+    "hall": "Maestoso",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/11d6adb0-06ff-4973-a87c-918a6fa86aee#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -5728,6 +2228,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5491"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 891621,
+    "raw_title": "WILD HORSE NINE",
+    "start": "2026-11-15T19:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -5760,6 +2270,16 @@
     "source_url": "https://ariosto.spaziocinema.18tickets.it/"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1381071,
+    "raw_title": "GODZILLA MINUS ZERO",
+    "start": "2026-11-15T19:40:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1723882,
     "raw_title": "(Sala XL) Un Weekend Artificiale",
@@ -5780,6 +2300,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1506710,
+    "raw_title": "DIO RIDE",
+    "start": "2026-11-15T19:50:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1381071,
     "raw_title": "Godzilla Minus Zero",
@@ -5788,6 +2318,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1544126,
+    "raw_title": "IL RUMORE DELLE COSE NUOVE",
+    "start": "2026-11-15T19:55:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "anteo",
@@ -5840,6 +2380,26 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1583853,
+    "raw_title": "SE DOMANI NON TORNO",
+    "start": "2026-11-15T20:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1678120,
+    "raw_title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
+    "start": "2026-11-15T20:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1506710,
     "raw_title": "Dio Ride",
@@ -5858,6 +2418,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1567605,
+    "raw_title": "SCROOGE E GLI SPIRITI DEL NATALE",
+    "start": "2026-11-15T20:05:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "cinelandia-certosa",
@@ -5888,6 +2458,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1723882,
+    "raw_title": "UN WEEKEND ARTIFICIALE",
+    "start": "2026-11-15T20:20:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "anteo",
@@ -5978,6 +2558,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
+  },
+  {
+    "cinema_id": "mexico",
+    "tmdb_id": 1651347,
+    "raw_title": "MINOTAUR",
+    "start": "2026-11-15T21:00:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/5546/",
+    "source_url": "https://www.mymovies.it/cinema/milano/5546/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -6098,6 +2688,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
+  },
+  {
+    "cinema_id": "cinemino",
+    "tmdb_id": null,
+    "raw_title": "RAGIONE E SENTIMENTO (SENSE AND SENSIBILITY) - V. O.",
+    "start": "2026-11-15T21:30:00",
+    "hall": "Sala",
+    "language": "original_subbed",
+    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
+    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
   },
   {
     "cinema_id": "citylife-anteo",
@@ -6300,6 +2900,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5094"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1058424,
+    "raw_title": "HOPE",
+    "start": "2026-11-15T21:35:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1154730,
     "raw_title": "V.O. SOTT ITA - LA GRADIVA",
@@ -6460,6 +3070,26 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 791523,
+    "raw_title": "WILDWOOD - I SEGRETI DEL BOSCO PROIBITO",
+    "start": "2026-11-15T22:05:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1400940,
+    "raw_title": "CLAYFACE",
+    "start": "2026-11-15T22:10:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "uci-bicocca",
     "tmdb_id": 1723882,
     "raw_title": "(Sala XL) Un Weekend Artificiale",
@@ -6480,6 +3110,46 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1244492,
+    "raw_title": "LOOK BACK",
+    "start": "2026-11-15T22:15:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1678120,
+    "raw_title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
+    "start": "2026-11-15T22:15:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1583853,
+    "raw_title": "SE DOMANI NON TORNO",
+    "start": "2026-11-15T22:20:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1544126,
+    "raw_title": "IL RUMORE DELLE COSE NUOVE",
+    "start": "2026-11-15T22:25:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
     "cinema_id": "cinelandia-certosa",
     "tmdb_id": 1583853,
     "raw_title": "Se Domani Non Torno",
@@ -6498,6 +3168,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1381071,
+    "raw_title": "GODZILLA MINUS ZERO",
+    "start": "2026-11-15T22:30:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
   },
   {
     "cinema_id": "uci-bicocca",
@@ -6540,6 +3220,36 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5868"
   },
   {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1723882,
+    "raw_title": "UN WEEKEND ARTIFICIALE",
+    "start": "2026-11-15T22:35:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "notorious-merlata",
+    "tmdb_id": 1437511,
+    "raw_title": "COME RAPINARE UNA BANCA",
+    "start": "2026-11-15T22:35:00",
+    "hall": null,
+    "language": "unknown",
+    "booking_url": "https://www.mymovies.it/cinema/milano/24450/",
+    "source_url": "https://www.mymovies.it/cinema/milano/24450/"
+  },
+  {
+    "cinema_id": "uci-bicocca",
+    "tmdb_id": 1381071,
+    "raw_title": "Godzilla Minus Zero",
+    "start": "2026-11-15T22:35:00",
+    "hall": "13",
+    "language": "unknown",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
     "cinema_id": "cinelandia-certosa",
     "tmdb_id": 1544126,
     "raw_title": "Il Rumore Delle Cose Nuove",
@@ -6561,20 +3271,20 @@
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": 1400940,
-    "raw_title": "Clayface",
+    "tmdb_id": 1422011,
+    "raw_title": "It Ends",
     "start": "2026-11-15T22:40:00",
-    "hall": "13",
+    "hall": "5",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
     "cinema_id": "uci-bicocca",
-    "tmdb_id": 1422011,
-    "raw_title": "It Ends",
-    "start": "2026-11-15T22:40:00",
-    "hall": "5",
+    "tmdb_id": 1400940,
+    "raw_title": "Clayface",
+    "start": "2026-11-15T22:45:00",
+    "hall": "3",
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
@@ -8080,6 +4790,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5066"
   },
   {
+    "cinema_id": "cinemino",
+    "tmdb_id": 1119548,
+    "raw_title": "NEL SILENZIO DELLE STANZE",
+    "start": "2026-11-16T19:00:00",
+    "hall": "Sala",
+    "language": "unknown",
+    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
+    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
+  },
+  {
     "cinema_id": "cineteca-arlecchino",
     "tmdb_id": 1821193,
     "raw_title": "STORIA DI UN BIMBO MUCCA",
@@ -8451,22 +5171,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-16T19:30:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/00259b56-4ee2-44c3-8a1c-eaed269656b7#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1723882,
     "raw_title": "UN WEEKEND ARTIFICIALE",
     "start": "2026-11-16T19:30:00",
     "hall": "Capitol",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/124591/ff6c1813-22c9-4b23-b34e-e659ad866963#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1544126,
+    "raw_title": "IL RUMORE DELLE COSE NUOVE",
+    "start": "2026-11-16T19:30:00",
+    "hall": "Maestoso",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/00259b56-4ee2-44c3-8a1c-eaed269656b7#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -11021,22 +7741,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-17T19:30:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/7d5ea01f-198a-4407-80b5-81cf9f3265ff#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1723882,
     "raw_title": "UN WEEKEND ARTIFICIALE",
     "start": "2026-11-17T19:30:00",
     "hall": "Capitol",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/124591/4de97b82-37c7-44ec-816e-89f4930fb3eb#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1544126,
+    "raw_title": "IL RUMORE DELLE COSE NUOVE",
+    "start": "2026-11-17T19:30:00",
+    "hall": "Maestoso",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/7d5ea01f-198a-4407-80b5-81cf9f3265ff#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -11488,16 +8208,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5064"
-  },
-  {
-    "cinema_id": "orfeo",
-    "tmdb_id": null,
-    "raw_title": "(Lingua Orig) Wild Horse Nine",
-    "start": "2026-11-17T21:30:00",
-    "hall": "ROSSA",
-    "language": "original_subbed",
-    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351",
-    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5351"
   },
   {
     "cinema_id": "orfeo",
@@ -12031,22 +8741,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-18T13:10:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/efe2a335-dec1-421e-86d4-2831072f11a7#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1723882,
     "raw_title": "UN WEEKEND ARTIFICIALE",
     "start": "2026-11-18T13:10:00",
     "hall": "Corallo",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/124591/ed49339e-ec82-4b94-b939-7dd9a7a8d7ae#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1544126,
+    "raw_title": "IL RUMORE DELLE COSE NUOVE",
+    "start": "2026-11-18T13:10:00",
+    "hall": "Maestoso",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/efe2a335-dec1-421e-86d4-2831072f11a7#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -13231,22 +9941,22 @@
   },
   {
     "cinema_id": "citylife-anteo",
-    "tmdb_id": 1544126,
-    "raw_title": "IL RUMORE DELLE COSE NUOVE",
-    "start": "2026-11-18T19:30:00",
-    "hall": "Maestoso",
-    "language": "unknown",
-    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/fbca4e3f-5155-42d1-833b-af971b42d2fd#theater-init",
-    "source_url": "https://citylife.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "citylife-anteo",
     "tmdb_id": 1723882,
     "raw_title": "UN WEEKEND ARTIFICIALE",
     "start": "2026-11-18T19:30:00",
     "hall": "Capitol",
     "language": "unknown",
     "booking_url": "https://citylife.spaziocinema.18tickets.it/film/124591/0786c705-82ef-4089-b3aa-5e1c1b7e6846#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1544126,
+    "raw_title": "IL RUMORE DELLE COSE NUOVE",
+    "start": "2026-11-18T19:30:00",
+    "hall": "Maestoso",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/128288/fbca4e3f-5155-42d1-833b-af971b42d2fd#theater-init",
     "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
@@ -14891,22 +11601,22 @@
   },
   {
     "cinema_id": "anteo",
-    "tmdb_id": 1401459,
-    "raw_title": "V. O. SOTT. ITA FJORD",
-    "start": "2026-11-22T10:00:00",
-    "hall": "Astra",
-    "language": "original_subbed",
-    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/127231/eecf9014-189b-4e6f-a1a8-55c3044dc1a4#theater-init",
-    "source_url": "https://anteo.spaziocinema.18tickets.it/"
-  },
-  {
-    "cinema_id": "anteo",
     "tmdb_id": 41245,
     "raw_title": "V.O.SOTT ITA - PEPPERMINT CANDY",
     "start": "2026-11-22T10:00:00",
     "hall": "Abadan",
     "language": "original_subbed",
     "booking_url": "https://anteo.spaziocinema.18tickets.it/film/123567/f8aa79ea-a7cc-4a4e-9351-bfcc663f3b7a#theater-init",
+    "source_url": "https://anteo.spaziocinema.18tickets.it/"
+  },
+  {
+    "cinema_id": "anteo",
+    "tmdb_id": 1401459,
+    "raw_title": "V. O. SOTT. ITA FJORD",
+    "start": "2026-11-22T10:00:00",
+    "hall": "Astra",
+    "language": "original_subbed",
+    "booking_url": "https://anteo.spaziocinema.18tickets.it/film/127231/eecf9014-189b-4e6f-a1a8-55c3044dc1a4#theater-init",
     "source_url": "https://anteo.spaziocinema.18tickets.it/"
   },
   {
@@ -15990,6 +12700,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "ariosto",
+    "tmdb_id": 1801124,
+    "raw_title": "OLTRE LA PELLE",
+    "start": "2026-11-26T19:30:00",
+    "hall": "1",
+    "language": "unknown",
+    "booking_url": "https://ariosto.spaziocinema.18tickets.it/film/130101/2a7381f0-722b-4af0-b3d1-e3f059a07f76#theater-init",
+    "source_url": "https://ariosto.spaziocinema.18tickets.it/"
+  },
+  {
     "cinema_id": "citylife-anteo",
     "tmdb_id": 1061574,
     "raw_title": "SOSPESI",
@@ -16240,6 +12960,16 @@
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
   },
   {
+    "cinema_id": "colosseo",
+    "tmdb_id": null,
+    "raw_title": "Klara E Il Sole (O.V.) - Book Club",
+    "start": "2026-11-28T10:00:00",
+    "hall": "SALA SUNDANCE",
+    "language": "original_subbed",
+    "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062",
+    "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5062"
+  },
+  {
     "cinema_id": "anteo",
     "tmdb_id": 1765072,
     "raw_title": "V. O. SOTT. ITA YOU CAN SEE EVERYTHING",
@@ -16278,6 +13008,16 @@
     "language": "original_subbed",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5213",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5213"
+  },
+  {
+    "cinema_id": "cineteca-arlecchino",
+    "tmdb_id": 551,
+    "raw_title": "L'AVVENTURA DEL POSEIDON",
+    "start": "2026-11-28T15:00:00",
+    "hall": null,
+    "language": "original_subbed",
+    "booking_url": "https://arlecchino.cinetecadimilano.18tickets.it/film/107600",
+    "source_url": "https://www.cinetecamilano.it/calendario/"
   },
   {
     "cinema_id": "orfeo",
@@ -16438,16 +13178,6 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
-  },
-  {
-    "cinema_id": "cinemino",
-    "tmdb_id": 1736494,
-    "raw_title": "Biografia de Jorge Luis Borges",
-    "start": "2026-11-29T09:45:00",
-    "hall": "Sala",
-    "language": "unknown",
-    "booking_url": "https://ilcinemino.ilcinemino.18tickets.it/",
-    "source_url": "https://ilcinemino.ilcinemino.18tickets.it/"
   },
   {
     "cinema_id": "anteo",
@@ -22488,6 +19218,16 @@
     "language": "unknown",
     "booking_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068",
     "source_url": "https://www.webtic.it/#/shopping?action=loadLocal&localId=5068"
+  },
+  {
+    "cinema_id": "citylife-anteo",
+    "tmdb_id": 1771692,
+    "raw_title": "BOGHES - STORIA DI UN CORO SARDO A NEW YORK",
+    "start": "2027-01-12T20:00:00",
+    "hall": "Aurora",
+    "language": "unknown",
+    "booking_url": "https://citylife.spaziocinema.18tickets.it/film/130068/d9148f41-ea08-402b-ad79-964dcad2c76d#theater-init",
+    "source_url": "https://citylife.spaziocinema.18tickets.it/"
   },
   {
     "cinema_id": "anteo",
