@@ -9591,6 +9591,39 @@
         ]
       }
     },
+    "1432605": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Akinola Davies Jr."
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Dramma"
+        }
+      ],
+      "id": 1432605,
+      "original_title": "My Father's Shadow",
+      "overview": "",
+      "poster_path": "/pwxgAsfKviP8pt6LHbU97N0UV9l.jpg",
+      "release_date": "2025-09-19",
+      "runtime": 93,
+      "title": "My Father's Shadow",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "Two young brothers explore Lagos with their estranged father during the 1993 Nigerian election crisis, witnessing both the city's magnitude and their father's daily struggles as political unrest threatens their journey home.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "1433339": {
       "credits": {
         "crew": [
@@ -14127,6 +14160,42 @@
         ]
       }
     },
+    "1694040": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Gianfranco Pannone"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Documentario"
+        },
+        {
+          "name": "Storia"
+        }
+      ],
+      "id": 1694040,
+      "original_title": "Devozioni",
+      "overview": "",
+      "poster_path": null,
+      "release_date": "",
+      "runtime": 0,
+      "title": "Devozioni",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "Exploration of Lucania, a region of Southern Italy with maintains rich history and traditions, thanks to the faith of its people. Between devotional processions of saints and Madonnas, rows of wind turbine blades that have partly transformed a landscape at times wild and the incessant flow of seasons dictated by the wind, the author goes in search of a spirituality that our times seem to have lost",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "1701849": {
       "credits": {
         "crew": [
@@ -15458,6 +15527,39 @@
             "data": {
               "overview": "In this film based on a Neil Simon play, newlyweds Corie, a free spirit, and Paul Bratter, an uptight lawyer, share a sixth-floor apartment in Greenwich Village. Soon after their marriage, Corie tries to find a companion for mother, Ethel, who is now alone, and sets up Ethel with neighbor Victor. Inappropriate behavior on a double date causes conflict, and the young couple considers divorce.",
               "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
+    "1794000": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Francesco Conversano"
+          },
+          {
+            "job": "Director",
+            "name": "Nene Grignaffini"
+          }
+        ]
+      },
+      "genres": [],
+      "id": 1794000,
+      "original_title": "Custodi della memoria. La Natura al tempo del Fuoco",
+      "overview": "",
+      "poster_path": null,
+      "release_date": "2026-10-23",
+      "runtime": 80,
+      "title": "Custodi della memoria. La Natura al tempo del Fuoco",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "Focusing on the catastrophic wildfires in British Columbia, this documentary blends Indigenous wisdom, ambient nature soundscapes, and personal testimonies—including survivors of the 2021 Lytton disaster. The film highlights the deep spiritual connection between humanity and nature, calling for environmental stewardship while exposing the ongoing grief of Indigenous communities stripped of their ancestral lands.",
+              "title": "Keepers of Memory: Nature in the Age of Fire"
             },
             "iso_639_1": "en"
           }
@@ -27147,6 +27249,7 @@
         "title": "Al di sopra di ogni sospetto"
       }
     ],
+    "alice nel paese dei coloni|": [],
     "alice nelle citta alice in den stadten|": [
       {
         "id": 2204,
@@ -30649,6 +30752,15 @@
         "title": "The Cure"
       }
     ],
+    "custodi della memoria la natura al tempo del fuoco|": [
+      {
+        "id": 1794000,
+        "original_title": "Custodi della memoria. La Natura al tempo del Fuoco",
+        "popularity": 0.1845,
+        "release_date": "2026-10-23",
+        "title": "Custodi della memoria. La Natura al tempo del Fuoco"
+      }
+    ],
     "d o a a right of passage|": [],
     "dal nulla|": [
       {
@@ -31015,6 +31127,15 @@
         "popularity": 0.2351,
         "release_date": "2001-01-01",
         "title": "Dentro"
+      }
+    ],
+    "devozioni|": [
+      {
+        "id": 1694040,
+        "original_title": "Devozioni",
+        "popularity": 0.195,
+        "release_date": "",
+        "title": "Devozioni"
       }
     ],
     "dhamaal 4|": [
@@ -44815,6 +44936,36 @@
         "title": "Mutiny Ahead"
       }
     ],
+    "my father s shadow|": [
+      {
+        "id": 1432605,
+        "original_title": "My Father's Shadow",
+        "popularity": 1.5465,
+        "release_date": "2026-02-06",
+        "title": "My Father's Shadow"
+      },
+      {
+        "id": 1082548,
+        "original_title": "My Father's Shadow",
+        "popularity": 0.0796,
+        "release_date": "2014-07-24",
+        "title": "My Father's Shadow"
+      },
+      {
+        "id": 377626,
+        "original_title": "My Father's Shadow: The Sam Sheppard Story",
+        "popularity": 0.6539,
+        "release_date": "1998-11-17",
+        "title": "My Father's Shadow: The Sam Sheppard Story"
+      },
+      {
+        "id": 1593617,
+        "original_title": "Atamın kölgəsində",
+        "popularity": 0.3057,
+        "release_date": "2024-11-07",
+        "title": "Atamın kölgəsində"
+      }
+    ],
     "my stolen planet|": [
       {
         "id": 1232424,
@@ -52560,6 +52711,7 @@
         "title": "Shining Blood"
       }
     ],
+    "shrek 25th anniversary|": [],
     "silent friend|": [
       {
         "id": 1168719,
