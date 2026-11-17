@@ -1,74 +1,5 @@
 [
   {
-    "tmdb_id": 1437696,
-    "title": "Fatherland",
-    "original_title": "Ojczyzna",
-    "italian_title": "Fatherland",
-    "year": 2026,
-    "poster_path": "/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
-    "overview": "Il rapporto tra lo scrittore Thomas Mann (Hanns Zischler) e sua figlia Erika (Sandra Hüller), attrice, giornalista e pilota di rally. A bordo di una Buick nera intraprendono un viaggio attraverso una Germania in macerie: da Francoforte, sotto l'influenza statunitense, fino a Weimar, controllata dai sovietici. Per la prima volta dopo la guerra, Mann torna nella sua nativa Germania, dopo aver preso la difficile decisione di fuggire negli Stati Uniti per mettersi in salvo.",
-    "title_en": "Fatherland",
-    "overview_en": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
-    "runtime": 82,
-    "director": "Paweł Pawlikowski",
-    "genres": [
-      "Dramma",
-      "Storia"
-    ]
-  },
-  {
-    "tmdb_id": 1244492,
-    "title": "Look Back",
-    "original_title": "ルックバック",
-    "italian_title": "Look Back",
-    "year": 2024,
-    "poster_path": "/9GCNAcMo2EyEu1PCC8T0iQk2mm3.jpg",
-    "overview": "Fujino, eccessivamente sicura di sé, e Kyomoto, chiusa in se stessa, non potrebbero essere più diverse, ma l'amore per il disegno manga unisce queste due ragazze di provincia, in una toccante storia di crescita e progresso.",
-    "title_en": "Look Back",
-    "overview_en": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.",
-    "runtime": 62,
-    "director": "押山清高",
-    "genres": [
-      "Animazione",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1058424,
-    "title": "Hope",
-    "original_title": "호프",
-    "italian_title": "Hope",
-    "year": 2026,
-    "poster_path": "/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
-    "overview": "I rinforzi sono stati richiamati per fronteggiare i devastanti incendi boschivi e ogni comunicazione con l’esterno è stata interrotta. Nel piccolo posto di polizia di Hope, il comandante Bum-seok e l’agente Sung-ae lottano per proteggere un villaggio popolato quasi esclusivamente da anziani. Nel frattempo, tra le montagne, Sung-ki e gli abitanti del luogo partono sulle tracce della misteriosa creatura, ma la battuta di caccia si trasforma presto in un incubo e diventano loro stessi prede.",
-    "title_en": "Hope",
-    "overview_en": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "runtime": 157,
-    "director": "나홍진",
-    "genres": [
-      "Fantascienza",
-      "Mistero",
-      "Azione"
-    ]
-  },
-  {
-    "tmdb_id": 1483525,
-    "title": "Possible Love",
-    "original_title": "가능한 사랑",
-    "italian_title": "Possible Love",
-    "year": 2026,
-    "poster_path": "/uPOpXBUMtMslIBAxldQwJwBQkad.jpg",
-    "overview": "Un operaio licenziato e sua moglie incontrano una regista di documentari e suo marito, e si ritrovano a confrontarsi con i loro desideri nascosti.",
-    "title_en": "Possible Love",
-    "overview_en": "Working-class An Mi Ok and Choi Ho Seok, who have been together since middle school and are the parents of a taciturn 10-year-old, are still reckoning with the fallout from Ho Seok’s firing from his factory job after a violently suppressed labor union strike. The well-off Lee Ye Ji, a documentary filmmaker, with her businessman husband, Sang-woo, has decided to make a movie about job layoffs and wants to make Mi-Ok and Ho-Seok her main camera subjects.",
-    "runtime": 167,
-    "director": "Lee Chang-dong",
-    "genres": [
-      "Dramma",
-      "Romance"
-    ]
-  },
-  {
     "tmdb_id": 1074074,
     "title": "L'essere amato",
     "original_title": "El ser querido",
@@ -100,6 +31,23 @@
       "Commedia",
       "Crime",
       "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1483525,
+    "title": "Possible Love",
+    "original_title": "가능한 사랑",
+    "italian_title": "Possible Love",
+    "year": 2026,
+    "poster_path": "/uPOpXBUMtMslIBAxldQwJwBQkad.jpg",
+    "overview": "Un operaio licenziato e sua moglie incontrano una regista di documentari e suo marito, e si ritrovano a confrontarsi con i loro desideri nascosti.",
+    "title_en": "Possible Love",
+    "overview_en": "Working-class An Mi Ok and Choi Ho Seok, who have been together since middle school and are the parents of a taciturn 10-year-old, are still reckoning with the fallout from Ho Seok’s firing from his factory job after a violently suppressed labor union strike. The well-off Lee Ye Ji, a documentary filmmaker, with her businessman husband, Sang-woo, has decided to make a movie about job layoffs and wants to make Mi-Ok and Ho-Seok her main camera subjects.",
+    "runtime": 167,
+    "director": "Lee Chang-dong",
+    "genres": [
+      "Dramma",
+      "Romance"
     ]
   },
   {
@@ -150,6 +98,40 @@
     "genres": []
   },
   {
+    "tmdb_id": 1244492,
+    "title": "Look Back",
+    "original_title": "ルックバック",
+    "italian_title": "Look Back",
+    "year": 2024,
+    "poster_path": "/9GCNAcMo2EyEu1PCC8T0iQk2mm3.jpg",
+    "overview": "Fujino, eccessivamente sicura di sé, e Kyomoto, chiusa in se stessa, non potrebbero essere più diverse, ma l'amore per il disegno manga unisce queste due ragazze di provincia, in una toccante storia di crescita e progresso.",
+    "title_en": "Look Back",
+    "overview_en": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.",
+    "runtime": 62,
+    "director": "押山清高",
+    "genres": [
+      "Animazione",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1412795,
+    "title": "L'estranea",
+    "original_title": "L'estranea",
+    "italian_title": "L'estranea",
+    "year": 2026,
+    "poster_path": "/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
+    "overview": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
+    "title_en": "The Spiral",
+    "overview_en": "On a stormy night in Rome, Anna arrives at her daughter Alice’s apartment with a devastating confession: their entire family history is built on a lie. Twenty years earlier, after a horrific accident that nearly cost Alice her leg, Anna claims she made a pact with a mysterious Stranger to save her. But the miracle came at a price. What she believed was a single desperate bargain has in fact unleashed a spiraling chain reaction — a domino effect of increasingly dark events that have haunted their lives ever since. Now, the Stranger has come to collect. And Anna is convinced that only Alice can break the spiral and set things right. But at what cost?",
+    "runtime": 115,
+    "director": "Paolo Strippoli",
+    "genres": [
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 1401459,
     "title": "Fjord",
     "original_title": "Fjord",
@@ -163,6 +145,59 @@
     "director": "Cristian Mungiu",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1437696,
+    "title": "Fatherland",
+    "original_title": "Ojczyzna",
+    "italian_title": "Fatherland",
+    "year": 2026,
+    "poster_path": "/7VjwmvDG5mksJBXMcmK6PudqH88.jpg",
+    "overview": "Il rapporto tra lo scrittore Thomas Mann (Hanns Zischler) e sua figlia Erika (Sandra Hüller), attrice, giornalista e pilota di rally. A bordo di una Buick nera intraprendono un viaggio attraverso una Germania in macerie: da Francoforte, sotto l'influenza statunitense, fino a Weimar, controllata dai sovietici. Per la prima volta dopo la guerra, Mann torna nella sua nativa Germania, dopo aver preso la difficile decisione di fuggire negli Stati Uniti per mettersi in salvo.",
+    "title_en": "Fatherland",
+    "overview_en": "In 1949, German writer Thomas Mann and his daughter Erika embark on a road trip across a Germany in ruins, from US-dominated Frankfurt to Soviet-controlled Weimar.",
+    "runtime": 82,
+    "director": "Paweł Pawlikowski",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1117898,
+    "title": "Il gatto col cappello",
+    "original_title": "The Cat in the Hat",
+    "italian_title": "Il gatto col cappello",
+    "year": 2026,
+    "poster_path": "/reGVZn7oCOXM5oaOTjV4MZhFwqT.jpg",
+    "overview": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
+    "title_en": "The Cat in the Hat",
+    "overview_en": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
+    "runtime": 91,
+    "director": "Erica Rivinoja, Alessandro Carloni",
+    "genres": [
+      "Animazione",
+      "Commedia",
+      "Avventura",
+      "Fantasy",
+      "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 1309373,
+    "title": "Il canto della foresta",
+    "original_title": "Le Chant des forêts",
+    "italian_title": "Il canto della foresta",
+    "year": 2025,
+    "poster_path": "/1Ty8uGoVEc4g4W7AFPdcOzXktG3.jpg",
+    "overview": "Un nonno, suo figlio e il figlio del figlio: Michel, Vincent (il regista) e Simon. Tre maschi di età diverse che condividono l'esperienza, più che consapevoli della sua rarità, di osservare da vicinissimo la natura. Rispettandola. Nelle foreste di conifere del dipartimento francese dei Vosgi, come a una base sicura dopo le loro esplorazioni, tornano in una baita di legno illuminata solo da candele. Tra i tre si compie la trasmissione della passione per animali e ambiente, in uno scambio continuo di saperi e curiosità. Un patrimonio di storie tramandate per via orale e di esperienze, rilevazione sul campo. Per Michel la scintilla è scattata, tanti anni prima, con l'avvistamento di un gallo cedrone, razza ormai scomparsa da quei territori.",
+    "title_en": "Whispers in the Woods",
+    "overview_en": "In the heart of the tranquil Vosges forests, where lynxes, bears and deer roam freely, Vincent Munier accompanies his father on his expeditions. He not only seeks to capture the visual wonders of this forest kingdom, but also aims to make its sounds audible. Every whisper of the forest is a reminder of the knowledge of nature that his father once imbued in him – knowledge that Vincent now passes on to his own son. Vincent Munier combines breathtaking footage of nature and its sounds to create a fairytale-like cinematic experience that slows time down.",
+    "runtime": 99,
+    "director": "Vincent Munier",
+    "genres": [
+      "Documentario"
     ]
   },
   {
@@ -197,24 +232,6 @@
     "genres": []
   },
   {
-    "tmdb_id": 24349,
-    "title": "Minnie e Moskowitz",
-    "original_title": "Minnie and Moskowitz",
-    "italian_title": "Minnie e Moskowitz",
-    "year": 1971,
-    "poster_path": "/pufOqUEeEzbUma3WfnLS0AHiMl5.jpg",
-    "overview": "Minnie lavora al museo, ha una famiglia perbene ma non familiarizza granché con gli uomini. Moskowitz invece fa il posteggiatore, ha un aspetto a dir poco singolare (baffoni e coda di cavallo) e un modo di fare piuttosto... istintivo. Nessuno riuscirebbe a pensarli insieme, ma è forse proprio per questo che si innamorano.",
-    "title_en": "Minnie and Moskowitz",
-    "overview_en": "Depressed and jaded after being dumped by her married boyfriend, aging beauty Minnie Moore wonders if she'll ever find love.  After shaggy-haired parking lot attendant Seymour Moskowitz comes to her defense from an angry and rebuffed blind date, he falls hopelessly in love with her despite their myriad differences.  Minnie reluctantly agrees to a date with Moskowitz, and, slowly but surely, an unlikely romance blossoms between the two.",
-    "runtime": 115,
-    "director": "John Cassavetes",
-    "genres": [
-      "Romance",
-      "Dramma",
-      "Commedia"
-    ]
-  },
-  {
     "tmdb_id": 62,
     "title": "2001: Odissea nello spazio",
     "original_title": "2001: A Space Odyssey",
@@ -230,70 +247,6 @@
       "Fantascienza",
       "Mistero",
       "Avventura"
-    ]
-  },
-  {
-    "tmdb_id": 1821193,
-    "title": "Storia di un bimbo mucca",
-    "original_title": "Storia di un bimbo mucca",
-    "italian_title": "Storia di un bimbo mucca",
-    "year": 2026,
-    "poster_path": "/lJFe1VD0ZqB8feSvarBF1QdEdGv.jpg",
-    "overview": null,
-    "title_en": "Storia di un bimbo mucca",
-    "overview_en": "Elisabetta Falanga sets out to reconstruct the childhood of her partner, Abido, in Morocco in order to understand his sudden return to religion. But their conversations end up exposing the prejudices and differences that run through their life as a couple.",
-    "runtime": 87,
-    "director": "Elisabetta Falanga",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 1616884,
-    "title": "Chronos - Fluss der Zeit",
-    "original_title": "Chronos - Fluss der Zeit",
-    "italian_title": "Chronos - Fluss der Zeit",
-    "year": 2026,
-    "poster_path": "/9Uvmwo3w5fmkSAWsGgCswkJedl7.jpg",
-    "overview": null,
-    "title_en": "Chronos - Flow of Time",
-    "overview_en": "Tracing biographical lines, Volker Koepp steps into his oeuvre, rich in encounters. Returning to Lithuania, Moldova and Chernivtsi, he looks back and brings things up to date, as the war against Ukraine becomes a determining element of the present. Epic.",
-    "runtime": 200,
-    "director": "Volker Koepp",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 805944,
-    "title": "Giulia in ottobre",
-    "original_title": "Giulia in ottobre",
-    "italian_title": "Giulia in ottobre",
-    "year": 1985,
-    "poster_path": "/zsLAVhGm03i3XrwoeYA0KDltYxS.jpg",
-    "overview": "I cinque giorni che seguono la fine di una storia d’amore. Mentre Giulia perde l’equilibrio. Quando torna a vivere da sola. Quando tenta di recuperare, ricominciare, riallacciare.",
-    "title_en": "Giulia in ottobre",
-    "overview_en": "Giulia has a one-night stand with a stranger to forget a heartbreak. Aimlessly walking through October city streets to let off steam, she meets a woman who came from Turin seeking an explanation from her partner, who doesn't even want to see her. The two join forces and settle accounts with him. Neither of them feels like going home and being alone, so they spend the whole night wandering around Milan.",
-    "runtime": 60,
-    "director": "Silvio Soldini",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 790,
-    "title": "Fog",
-    "original_title": "The Fog",
-    "italian_title": "Fog",
-    "year": 1980,
-    "poster_path": "/5vYEvSlNqEHfY36envb8TY3OBs7.jpg",
-    "overview": "ono trascorsi ormai cento anni da quel tremendo \"naufragio\", la nave Elizabeth Dane, attirata da una falsa luce di un faro, affondò avvolta da una macabra nebbia...  Una terrificante superstizione di vendetta scuote gli abitanti della tranquilla Baia di Antonio, in California.  Quando la nebbia sale dall'acqua inizia il terrore...",
-    "title_en": "The Fog",
-    "overview_en": "Strange things begin to occur as a tiny California coastal town prepares to commemorate its centenary. Inanimate objects spring eerily to life; Rev. Malone stumbles upon a dark secret about the town's founding; radio announcer Stevie witnesses a mystical fire; and hitchhiker Elizabeth discovers the mutilated corpse of a fisherman. Then a mysterious iridescent fog descends upon the village, and more people start to die.",
-    "runtime": 89,
-    "director": "John Carpenter",
-    "genres": [
-      "Horror"
     ]
   },
   {
@@ -761,6 +714,22 @@
     ]
   },
   {
+    "tmdb_id": 1632188,
+    "title": "Il fuoco che ti porti dentro",
+    "original_title": "Il fuoco che ti porti dentro",
+    "italian_title": "Il fuoco che ti porti dentro",
+    "year": 2026,
+    "poster_path": "/kCfIZpqRsBe39Y1lUCxOAjgQ5VR.jpg",
+    "overview": "Antonio, fuggito molti anni fa da Napoli, ha costruito a Milano una famiglia e una carriera di successo, lontano da sua madre Angela, una donna esagerata nel bene e nel male, irresistibile, antica e ostile come poche, che lo ha raggiunto per Natale e sembra decisa a restare. La cena della Vigilia diventa così un campo di battaglia emotivo, comico e feroce al tempo stesso che fa riemergere un passato di sopraffazioni e incomprensioni. Con un tenace cappone che non vuole saperne di finire in pentola, una figlia che non si sa se mai arriverà e un illustre ospite inatteso, la serata si trasforma in una resa dei conti tra madre e figlio destinata a cambiare per sempre il senso del loro legame: un amore che brucia come un fuoco dentro e che mai si consuma, neppure andando via.",
+    "title_en": "The Fire Within You",
+    "overview_en": "Antonio, who fled Naples many years ago, has built a family and a successful career in Milan, far from his mother Angela — a woman excessive in both her virtues and her flaws, irresistible, old-fashioned and hostile like few others — who has come to visit for Christmas and seems determined to stay.  Christmas Eve dinner becomes an emotional battlefield, at once comic and fierce, bringing to the surface a past of impositions and misunderstandings. With a stubborn capon that refuses to end up in the pot, a daughter whose arrival remains uncertain, and an unexpected distinguished guest, the evening turns into a reckoning between mother and son destined to change the meaning of their bond forever: a love that burns like a fire within, one that never dies out — not even by leaving.",
+    "runtime": 93,
+    "director": "Edoardo De Angelis",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1765072,
     "title": "You Can See Everything",
     "original_title": "You Can See Everything",
@@ -793,23 +762,6 @@
     ]
   },
   {
-    "tmdb_id": 1412795,
-    "title": "L'estranea",
-    "original_title": "L'estranea",
-    "italian_title": "L'estranea",
-    "year": 2026,
-    "poster_path": "/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
-    "overview": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
-    "title_en": "The Spiral",
-    "overview_en": "On a stormy night in Rome, Anna arrives at her daughter Alice’s apartment with a devastating confession: their entire family history is built on a lie. Twenty years earlier, after a horrific accident that nearly cost Alice her leg, Anna claims she made a pact with a mysterious Stranger to save her. But the miracle came at a price. What she believed was a single desperate bargain has in fact unleashed a spiraling chain reaction — a domino effect of increasingly dark events that have haunted their lives ever since. Now, the Stranger has come to collect. And Anna is convinced that only Alice can break the spiral and set things right. But at what cost?",
-    "runtime": 115,
-    "director": "Paolo Strippoli",
-    "genres": [
-      "Dramma",
-      "Thriller"
-    ]
-  },
-  {
     "tmdb_id": 1438966,
     "title": "Je so’ pazzo",
     "original_title": "Je so’ pazzo",
@@ -824,22 +776,6 @@
     "genres": [
       "Dramma",
       "Musica"
-    ]
-  },
-  {
-    "tmdb_id": 1309373,
-    "title": "Il canto della foresta",
-    "original_title": "Le Chant des forêts",
-    "italian_title": "Il canto della foresta",
-    "year": 2025,
-    "poster_path": "/1Ty8uGoVEc4g4W7AFPdcOzXktG3.jpg",
-    "overview": "Un nonno, suo figlio e il figlio del figlio: Michel, Vincent (il regista) e Simon. Tre maschi di età diverse che condividono l'esperienza, più che consapevoli della sua rarità, di osservare da vicinissimo la natura. Rispettandola. Nelle foreste di conifere del dipartimento francese dei Vosgi, come a una base sicura dopo le loro esplorazioni, tornano in una baita di legno illuminata solo da candele. Tra i tre si compie la trasmissione della passione per animali e ambiente, in uno scambio continuo di saperi e curiosità. Un patrimonio di storie tramandate per via orale e di esperienze, rilevazione sul campo. Per Michel la scintilla è scattata, tanti anni prima, con l'avvistamento di un gallo cedrone, razza ormai scomparsa da quei territori.",
-    "title_en": "Whispers in the Woods",
-    "overview_en": "In the heart of the tranquil Vosges forests, where lynxes, bears and deer roam freely, Vincent Munier accompanies his father on his expeditions. He not only seeks to capture the visual wonders of this forest kingdom, but also aims to make its sounds audible. Every whisper of the forest is a reminder of the knowledge of nature that his father once imbued in him – knowledge that Vincent now passes on to his own son. Vincent Munier combines breathtaking footage of nature and its sounds to create a fairytale-like cinematic experience that slows time down.",
-    "runtime": 99,
-    "director": "Vincent Munier",
-    "genres": [
-      "Documentario"
     ]
   },
   {
@@ -913,40 +849,6 @@
     ]
   },
   {
-    "tmdb_id": 39130,
-    "title": "Pranzo alle otto",
-    "original_title": "Dinner at Eight",
-    "italian_title": "Pranzo alle otto",
-    "year": 1933,
-    "poster_path": "/3ZycwzkR117puI8Z4aYNObro9IQ.jpg",
-    "overview": "Un pranzo mondano fa da sfondo a una serie di comportamenti e di rapporti che si intrecciano durante la serata. La moglie di un armatore in crisi invita due nobili inglesi che disdegnano la serata e questo fatto crea malumore nella padrone di casa: al loro posto, interverranno come rimpiazzo, due parenti poveri. Gli altri invitati sono un'anziana attrice molto ricca e vecchia fiamma del marito, un attore sulla via del tramonto anche perché alcolizzato, un capitano d'industria con la moglie, il medico di famiglia e consorte.",
-    "title_en": "Dinner at Eight",
-    "overview_en": "An ambitious New York socialite plans an extravagant dinner party as her businessman husband, Oliver, contends with financial woes, causing a lot of tension between the couple. Meanwhile, their high-society friends and associates, including the gruff Dan Packard and his sultry spouse, Kitty, contend with their own entanglements, leading to revelations at the much-anticipated dinner.",
-    "runtime": 111,
-    "director": "George Cukor",
-    "genres": [
-      "Commedia",
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1649403,
-    "title": "George Michael: The Faith Tour",
-    "original_title": "George Michael: The Faith Tour",
-    "italian_title": "George Michael: The Faith Tour",
-    "year": 2026,
-    "poster_path": "/LXqHnaJ4ffkcx5YCuJN1noxkhr.jpg",
-    "overview": null,
-    "title_en": "George Michael: The Faith Tour",
-    "overview_en": "A stunning delve into George Michael's 1988 Faith Tour, as shot live at the famous Palais Omnisports de Paris-Bercy. This exclusive footage, assembled from a 14-camera shoot captured on 35mm over two nights (30–31 May 1988), features the 24-year-old pop star at the height of his powers.",
-    "runtime": 113,
-    "director": "Andy Morahan, David Austin",
-    "genres": [
-      "Musica",
-      "Documentario"
-    ]
-  },
-  {
     "tmdb_id": 1317149,
     "title": "I Swear - È più forte di me",
     "original_title": "I Swear",
@@ -964,6 +866,24 @@
     ]
   },
   {
+    "tmdb_id": 1251621,
+    "title": "Radio Praga - Le onde della libertà",
+    "original_title": "Vlny",
+    "italian_title": "Radio Praga - Le onde della libertà",
+    "year": 2024,
+    "poster_path": "/39FJqmlU6e8rzUAQjLXkRDzEn3.jpg",
+    "overview": "Alla fine degli anni '60, quando l'aria vibra a ritmo di rock & roll e le rivolte studentesche stanno cambiando il mondo, il maggiore di due fratelli viene assunto in una prestigiosa redazione dell'emittente radiofonica pubblica e in breve tempo si ritrova invischiato in un pericoloso conflitto tra i giornalisti e i servizi segreti. Ben presto, un vortice di eventi metterà in pericolo le vite di tutti. Il protagonista si ritrova davanti a una scelta difficile: proteggere il fratello o lottare per la verità e per i suoi colleghi?",
+    "title_en": "Waves",
+    "overview_en": "At the end of the 1960s, when the air is filled with rock-and-roll and student rebellions are changing the world, the older of two brothers joins a prestigious newsroom of the public radio broadcaster. Not long after, he finds himself in the middle of a dangerous conflict between journalists and the secret service.",
+    "runtime": 131,
+    "director": "Jiří Mádl",
+    "genres": [
+      "Thriller",
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
     "tmdb_id": 41245,
     "title": "Peppermint Candy",
     "original_title": "박하사탕",
@@ -975,22 +895,6 @@
     "overview_en": "In the spring of 1999, a group of old friends gather to celebrate their 20 year reunion. Among the group is Yeong-ho, a cold, unhappy man, whose demeanor puts a damper on the festivities. The seriousness of Yeong-ho's depression becomes apparent when he climbs a railroad bridge and looks like he might jump. At this crucial moment, memories of seven crucial episodes from Yeong-ho's past flood his mind.",
     "runtime": 131,
     "director": "Lee Chang-dong",
-    "genres": [
-      "Dramma"
-    ]
-  },
-  {
-    "tmdb_id": 1632188,
-    "title": "Il fuoco che ti porti dentro",
-    "original_title": "Il fuoco che ti porti dentro",
-    "italian_title": "Il fuoco che ti porti dentro",
-    "year": 2026,
-    "poster_path": "/kCfIZpqRsBe39Y1lUCxOAjgQ5VR.jpg",
-    "overview": "Antonio, fuggito molti anni fa da Napoli, ha costruito a Milano una famiglia e una carriera di successo, lontano da sua madre Angela, una donna esagerata nel bene e nel male, irresistibile, antica e ostile come poche, che lo ha raggiunto per Natale e sembra decisa a restare. La cena della Vigilia diventa così un campo di battaglia emotivo, comico e feroce al tempo stesso che fa riemergere un passato di sopraffazioni e incomprensioni. Con un tenace cappone che non vuole saperne di finire in pentola, una figlia che non si sa se mai arriverà e un illustre ospite inatteso, la serata si trasforma in una resa dei conti tra madre e figlio destinata a cambiare per sempre il senso del loro legame: un amore che brucia come un fuoco dentro e che mai si consuma, neppure andando via.",
-    "title_en": "The Fire Within You",
-    "overview_en": "Antonio, who fled Naples many years ago, has built a family and a successful career in Milan, far from his mother Angela — a woman excessive in both her virtues and her flaws, irresistible, old-fashioned and hostile like few others — who has come to visit for Christmas and seems determined to stay.  Christmas Eve dinner becomes an emotional battlefield, at once comic and fierce, bringing to the surface a past of impositions and misunderstandings. With a stubborn capon that refuses to end up in the pot, a daughter whose arrival remains uncertain, and an unexpected distinguished guest, the evening turns into a reckoning between mother and son destined to change the meaning of their bond forever: a love that burns like a fire within, one that never dies out — not even by leaving.",
-    "runtime": 93,
-    "director": "Edoardo De Angelis",
     "genres": [
       "Dramma"
     ]
@@ -1078,6 +982,22 @@
     ]
   },
   {
+    "tmdb_id": 814677,
+    "title": "L’incontro",
+    "original_title": "L’incontro",
+    "italian_title": "L’incontro",
+    "year": 2021,
+    "poster_path": "/egtZTqAeLHFUwO5EFTyH38vW0wR.jpg",
+    "overview": "E' la storia di un uomo che cerca perdono, per rinascere, che si converte perché capisce quali sono le priorità della sua vita. E' la storia di una integrazione e di un confronto, della necessità di instaurare un discorso con gli altri, perché degli altri si ha sempre bisogno e nessuno deve essere abbandonato, qualunque cosa abbia fatto.",
+    "title_en": "L’incontro",
+    "overview_en": null,
+    "runtime": 88,
+    "director": "Salvatore Romano",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 848700,
     "title": "Minotaur - Nel labirinto del potere",
     "original_title": "Minotaure",
@@ -1096,6 +1016,38 @@
     ]
   },
   {
+    "tmdb_id": 1594043,
+    "title": "Nessun dolore",
+    "original_title": "Nessun dolore",
+    "italian_title": "Nessun dolore",
+    "year": 2026,
+    "poster_path": "/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
+    "overview": "La vita di Davide viene sconvolta da un tragico evento, involontariamente causato da lui stesso. Questo fatto dirompente spinge Davide, devastato dal senso di colpa, a intraprendere una serie di azioni apparentemente irragionevoli che lo porteranno a pagare delle gravi conseguenze. Grazie anche al forte legame affettivo con Elsa, Davide forse riuscirà a ritrovare una serenità inaspettata.",
+    "title_en": "No Pain",
+    "overview_en": "Davide’s life is turned upside down by a tragic event for which he bears an unwitting responsibility. Devastated by guilt, he is driven to a series of seemingly irrational choices that gradually lead him toward profound consequences. Yet, through his deep emotional bond with Elsa, Davide may still find an unexpected path to peace.",
+    "runtime": 96,
+    "director": "Gianni Amelio",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1597199,
+    "title": "Ritorno a Buenos Aires",
+    "original_title": "Ritorno a Buenos Aires",
+    "italian_title": "Ritorno a Buenos Aires",
+    "year": 2026,
+    "poster_path": "/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
+    "overview": "Il film segue Mariano Guerra, chiamato a tornare in Argentina per testimoniare nel processo contro i militari che lo sequestrarono e torturarono durante la dittatura militare, la stessa che nel 1978 organizzò i Mondiali di calcio mentre il paese era attraversato dalla repressione clandestina.  Il film non racconta il ritorno di un eroe in cerca di rivalsa, ma il percorso di un uomo che porta dentro di sé la propria zona d’ombra: piegato dalla tortura, parlò denunciando i suoi compagni.",
+    "title_en": "Back to Buenos Aires",
+    "overview_en": "It follows Mariano Guerra as he returns to Argentina to testify against soldiers who tortured him during the dictatorship, focusing not on revenge but on his inner struggle with guilt, trauma, and the lasting psychological impact of violence kept largely off-screen.",
+    "runtime": 104,
+    "director": "Marco Bechis",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1527449,
     "title": "Nina Roza",
     "original_title": "Nina Roza",
@@ -1109,6 +1061,22 @@
     "director": "Geneviève Dulude-De Celles",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 14742,
+    "title": "Night Shift - Turno di notte",
+    "original_title": "Night Shift",
+    "italian_title": "Night Shift - Turno di notte",
+    "year": 1982,
+    "poster_path": "/q2cp1UlibcJj4abLgftjcO5QdC6.jpg",
+    "overview": "Un timido inserviente dell'obitorio viene spostato al turno di notte con un odioso novellino che sogna \"una grande idea\" per il successo. La sua vita prende una piega bizzarra quando una sua vicina prostituta si lamenta della scomparsa del suo protettore. Il suo collega, sentita la situazione, suggerisce di sostituirlo loro stessi usando l'obitorio di notte.",
+    "title_en": "Night Shift",
+    "overview_en": "A nebbish of a morgue attendant gets shunted back to the night shift where he is shackled with an obnoxious neophyte partner who dreams of the \"one great idea\" for success. His life takes a bizarre turn when a prostitute neighbor complains about the loss of her pimp. His partner, upon hearing the situation, suggests that they fill that opening themselves using the morgue at night.",
+    "runtime": 106,
+    "director": "Ron Howard",
+    "genres": [
+      "Commedia"
     ]
   },
   {
@@ -1249,6 +1217,24 @@
     ]
   },
   {
+    "tmdb_id": 1477104,
+    "title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
+    "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "italian_title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
+    "year": 2026,
+    "poster_path": "/hIgvOtvwbNCUclH0uBvg2qn6Ye.jpg",
+    "overview": "Halloween è alle porte. Shaun e tutti gli animali della fattoria si preparano per festeggiarlo al meglio coltivando un magnifico campo di zucche. Ma quando tutto sembrava ormai pronto, il contadino misteriosamente scompare e arriva dal bosco uno spaventoso mostro. Sarà compito di Shaun e i suoi amici salvare la fattoria dalla pelosa creatura e ritrovare l’amato contadino in tempo per la grande festa. Tra esperimenti impazziti e colpi di scena inaspettati, sarà un’avventura a tutta pecora per tutta la famiglia.",
+    "title_en": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "overview_en": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
+    "runtime": 88,
+    "director": "Steve Cox, Matthew Walker",
+    "genres": [
+      "Animazione",
+      "Fantascienza",
+      "Commedia"
+    ]
+  },
+  {
     "tmdb_id": 1119548,
     "title": "Nel silenzio delle stanze",
     "original_title": "La Condition",
@@ -1263,6 +1249,39 @@
     "genres": [
       "Dramma",
       "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1729904,
+    "title": "Mustang",
+    "original_title": "Mustang",
+    "italian_title": "Mustang",
+    "year": 2026,
+    "poster_path": "/td0dZlkmJlXWIp8UkJPTJC39xFt.jpg",
+    "overview": "Mustang è un racconto intimo e inedito che nasce dal primo viaggio compiuto nel 2003 insieme a Pietro Taricone nella remota regione del Mustang e racconta oltre vent'anni di vita. Una promessa ai confini del mondo che attraversa il tempo e le generazioni, tra amore, perdita e memoria, alla ricerca di ciò che resta quando tutto si trasforma.",
+    "title_en": "Mustang",
+    "overview_en": "At the age of twenty, Sophie Taricone sets out to tell a story that began before she was born. Through archival footage shot by her parents, Kasia Smutniak and Pietro Taricone, she retraces their 2003 journey to Mustang—a remote Himalayan kingdom known as \"the last Tibet\"—and she follows Kasia’s return there after Pietro’s death. Spanning more than two decades, the film weaves together past and present as Kasia forges a lasting bond with a local community in Mustang and helps to establish a school dedicated to preserving its culture. Through Sophie’s journey, the film explores memory, identity, and the fragile balance between Western progress and an ancient, spiritual way of life.",
+    "runtime": 105,
+    "director": "Kasia Smutniak",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1567605,
+    "title": "Scrooge e gli spiriti del Natale",
+    "original_title": "Ebenezer",
+    "italian_title": "Scrooge e gli spiriti del Natale",
+    "year": 2026,
+    "poster_path": "/drg45KOBksTrv9qQA0EmNuFgHG9.jpg",
+    "overview": null,
+    "title_en": "Ebenezer",
+    "overview_en": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "runtime": 115,
+    "director": "Ti West",
+    "genres": [
+      "Fantasy",
+      "Commedia"
     ]
   },
   {
@@ -1284,19 +1303,18 @@
     ]
   },
   {
-    "tmdb_id": 1567605,
-    "title": "Scrooge e gli spiriti del Natale",
-    "original_title": "Ebenezer",
-    "italian_title": "Scrooge e gli spiriti del Natale",
+    "tmdb_id": 1723882,
+    "title": "Un weekend artificiale",
+    "original_title": "Un weekend artificiale",
+    "italian_title": "Un weekend artificiale",
     "year": 2026,
-    "poster_path": "/drg45KOBksTrv9qQA0EmNuFgHG9.jpg",
-    "overview": null,
-    "title_en": "Ebenezer",
-    "overview_en": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-    "runtime": 115,
-    "director": "Ti West",
+    "poster_path": "/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
+    "overview": "Leonardo, parrucchiere fiorentino, viene invitato insieme ad altri sei sconosciuti in una villa da sogno per partecipare a un esperimento senza precedenti: dovranno scoprire chi tra di loro è un umanoide creato con l’intelligenza artificiale. Un incasinatissimo weekend di sospetti, emozioni e colpi di scena… prima che siano i sentimenti e la vita vera a mandare tutti in tilt.",
+    "title_en": "Un weekend artificiale",
+    "overview_en": null,
+    "runtime": null,
+    "director": "Leonardo Pieraccioni",
     "genres": [
-      "Fantasy",
       "Commedia"
     ]
   },
@@ -1317,35 +1335,57 @@
     ]
   },
   {
-    "tmdb_id": 1723882,
-    "title": "Un weekend artificiale",
-    "original_title": "Un weekend artificiale",
-    "italian_title": "Un weekend artificiale",
+    "tmdb_id": 1300968,
+    "title": "Hunger Games - L'alba sulla mietitura",
+    "original_title": "The Hunger Games: Sunrise on the Reaping",
+    "italian_title": "Hunger Games - L'alba sulla mietitura",
     "year": 2026,
-    "poster_path": "/x8fbJstLDEYYlJSCDj3v0MD9Lqd.jpg",
-    "overview": "Leonardo, parrucchiere fiorentino, viene invitato insieme ad altri sei sconosciuti in una villa da sogno per partecipare a un esperimento senza precedenti: dovranno scoprire chi tra di loro è un umanoide creato con l’intelligenza artificiale. Un incasinatissimo weekend di sospetti, emozioni e colpi di scena… prima che siano i sentimenti e la vita vera a mandare tutti in tilt.",
-    "title_en": "Un weekend artificiale",
-    "overview_en": null,
-    "runtime": null,
-    "director": "Leonardo Pieraccioni",
+    "poster_path": "/uR1lZA2ET3gf7uGVgbRwSeSkEsU.jpg",
+    "overview": null,
+    "title_en": "The Hunger Games: Sunrise on the Reaping",
+    "overview_en": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+    "runtime": 158,
+    "director": "Francis Lawrence",
     "genres": [
-      "Commedia"
+      "Fantascienza",
+      "Azione",
+      "Avventura"
     ]
   },
   {
-    "tmdb_id": 1597199,
-    "title": "Ritorno a Buenos Aires",
-    "original_title": "Ritorno a Buenos Aires",
-    "italian_title": "Ritorno a Buenos Aires",
+    "tmdb_id": 1124142,
+    "title": "La ballata del re delle api",
+    "original_title": "The Rivals of Amziah King",
+    "italian_title": "La ballata del re delle api",
     "year": 2026,
-    "poster_path": "/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
-    "overview": "Il film segue Mariano Guerra, chiamato a tornare in Argentina per testimoniare nel processo contro i militari che lo sequestrarono e torturarono durante la dittatura militare, la stessa che nel 1978 organizzò i Mondiali di calcio mentre il paese era attraversato dalla repressione clandestina.  Il film non racconta il ritorno di un eroe in cerca di rivalsa, ma il percorso di un uomo che porta dentro di sé la propria zona d’ombra: piegato dalla tortura, parlò denunciando i suoi compagni.",
-    "title_en": "Back to Buenos Aires",
-    "overview_en": "It follows Mariano Guerra as he returns to Argentina to testify against soldiers who tortured him during the dictatorship, focusing not on revenge but on his inner struggle with guilt, trauma, and the lasting psychological impact of violence kept largely off-screen.",
-    "runtime": 104,
-    "director": "Marco Bechis",
+    "poster_path": "/bsUZIWpF5ZvU9oZTBL9pHw1DTP9.jpg",
+    "overview": "Nel cuore delle zone più remote dell'Oklahoma rurale, il carismatico e talentuoso musicista Amziah King guida una strampalata band di bluegrass e gestisce la principale azienda produttrice di miele della zona. Quando la figlia adottiva, con cui non ha più rapporti da tempo, fa ritorno inaspettatamente, Amziah coglie al volo l'occasione per riallacciare i rapporti e creare un'attività di famiglia. Ma il mercato del miele è spietato e i rivali di Amziah minacciano di distruggere tutto ciò che ha costruito.",
+    "title_en": "The Rivals of Amziah King",
+    "overview_en": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
+    "runtime": 131,
+    "director": "Andrew Patterson",
     "genres": [
-      "Dramma"
+      "Crime",
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 656908,
+    "title": "Ramayana - La nascita di una leggenda",
+    "original_title": "रामायणम्",
+    "italian_title": "Ramayana - La nascita di una leggenda",
+    "year": 2026,
+    "poster_path": "/ovi5mxUCbSdFPv73rn6aXP9x9UC.jpg",
+    "overview": "In un’epoca di dèi e re, il destino di interi mondi è in bilico. Rama, principe votato al dovere, al sacrificio e alla rettitudine, deve affrontare Ravana, sovrano immortale accecato dall’orgoglio e dalla sete di vendetta, tanto potente da poter frantumare il cosmo.",
+    "title_en": "Ramayana: Rise of a Legend",
+    "overview_en": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+    "runtime": 201,
+    "director": "Nitesh Tiwari",
+    "genres": [
+      "Fantasy",
+      "Azione",
+      "Avventura"
     ]
   },
   {
@@ -1364,6 +1404,22 @@
       "Horror",
       "Mistero",
       "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 1625362,
+    "title": "Holy Wood Dust",
+    "original_title": "Holy Wood Dust",
+    "italian_title": "Holy Wood Dust",
+    "year": 2026,
+    "poster_path": "/9pyQnb9hWr0ggm3Qwgka4ALGsBN.jpg",
+    "overview": "Il regista Victor Kossakovsky e il celebre botanico Stefano Mancuso ci accompagnano in un viaggio senza precedenti nella vita degli alberi. Cosa succede nel secondo successivo all’abbattimento di un albero? Cosa pensa e prova quell’albero in quel preciso istante? Holy Wood Dust è un invito a ripensare radicalmente il regno vegetale da una prospettiva nuova e rivoluzionaria.",
+    "title_en": "Holy Wood Dust",
+    "overview_en": "Every winter, millions of fir trees are chopped down, admired, and thrown away. The film follows their journey above and below ground, from human rituals to the hidden life inside the trees. A story about trees that we celebrate by cutting them down.",
+    "runtime": 100,
+    "director": "Виктор Косаковский",
+    "genres": [
+      "Documentario"
     ]
   },
   {
@@ -1511,19 +1567,21 @@
     ]
   },
   {
-    "tmdb_id": 1254800,
-    "title": "Le Cri des gardes",
-    "original_title": "Le Cri des gardes",
-    "italian_title": "Le Cri des gardes",
-    "year": 2026,
-    "poster_path": "/8yKhroZcepZ8qNzYHJIEWRuXFW4.jpg",
-    "overview": null,
-    "title_en": "The Fence",
-    "overview_en": "Horn is welcoming his partner Léone into the hut he shares with Cal, when a man called Alboury appears. He stays there until they return the body of his brother, who was killed on the site.",
-    "runtime": 107,
-    "director": "Claire Denis",
+    "tmdb_id": 24349,
+    "title": "Minnie e Moskowitz",
+    "original_title": "Minnie and Moskowitz",
+    "italian_title": "Minnie e Moskowitz",
+    "year": 1971,
+    "poster_path": "/pufOqUEeEzbUma3WfnLS0AHiMl5.jpg",
+    "overview": "Minnie lavora al museo, ha una famiglia perbene ma non familiarizza granché con gli uomini. Moskowitz invece fa il posteggiatore, ha un aspetto a dir poco singolare (baffoni e coda di cavallo) e un modo di fare piuttosto... istintivo. Nessuno riuscirebbe a pensarli insieme, ma è forse proprio per questo che si innamorano.",
+    "title_en": "Minnie and Moskowitz",
+    "overview_en": "Depressed and jaded after being dumped by her married boyfriend, aging beauty Minnie Moore wonders if she'll ever find love.  After shaggy-haired parking lot attendant Seymour Moskowitz comes to her defense from an angry and rebuffed blind date, he falls hopelessly in love with her despite their myriad differences.  Minnie reluctantly agrees to a date with Moskowitz, and, slowly but surely, an unlikely romance blossoms between the two.",
+    "runtime": 115,
+    "director": "John Cassavetes",
     "genres": [
-      "Dramma"
+      "Romance",
+      "Dramma",
+      "Commedia"
     ]
   },
   {
@@ -1685,26 +1743,6 @@
     ]
   },
   {
-    "tmdb_id": 1117898,
-    "title": "Il gatto col cappello",
-    "original_title": "The Cat in the Hat",
-    "italian_title": "Il gatto col cappello",
-    "year": 2026,
-    "poster_path": "/reGVZn7oCOXM5oaOTjV4MZhFwqT.jpg",
-    "overview": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
-    "title_en": "The Cat in the Hat",
-    "overview_en": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
-    "runtime": 91,
-    "director": "Erica Rivinoja, Alessandro Carloni",
-    "genres": [
-      "Animazione",
-      "Commedia",
-      "Avventura",
-      "Fantasy",
-      "Famiglia"
-    ]
-  },
-  {
     "tmdb_id": 1538497,
     "title": "Hexe - Il regno delle streghe",
     "original_title": "Hexed",
@@ -1722,24 +1760,6 @@
       "Famiglia",
       "Fantasy",
       "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1300968,
-    "title": "Hunger Games - L'alba sulla mietitura",
-    "original_title": "The Hunger Games: Sunrise on the Reaping",
-    "italian_title": "Hunger Games - L'alba sulla mietitura",
-    "year": 2026,
-    "poster_path": "/uR1lZA2ET3gf7uGVgbRwSeSkEsU.jpg",
-    "overview": null,
-    "title_en": "The Hunger Games: Sunrise on the Reaping",
-    "overview_en": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-    "runtime": 158,
-    "director": "Francis Lawrence",
-    "genres": [
-      "Fantascienza",
-      "Azione",
-      "Avventura"
     ]
   },
   {
@@ -1891,6 +1911,23 @@
     ]
   },
   {
+    "tmdb_id": 1649403,
+    "title": "George Michael: The Faith Tour",
+    "original_title": "George Michael: The Faith Tour",
+    "italian_title": "George Michael: The Faith Tour",
+    "year": 2026,
+    "poster_path": "/LXqHnaJ4ffkcx5YCuJN1noxkhr.jpg",
+    "overview": null,
+    "title_en": "George Michael: The Faith Tour",
+    "overview_en": "A stunning delve into George Michael's 1988 Faith Tour, as shot live at the famous Palais Omnisports de Paris-Bercy. This exclusive footage, assembled from a 14-camera shoot captured on 35mm over two nights (30–31 May 1988), features the 24-year-old pop star at the height of his powers.",
+    "runtime": 113,
+    "director": "Andy Morahan, David Austin",
+    "genres": [
+      "Musica",
+      "Documentario"
+    ]
+  },
+  {
     "tmdb_id": 1374686,
     "title": "La luce del mondo",
     "original_title": "Light of the World",
@@ -1906,22 +1943,6 @@
       "Animazione",
       "Dramma",
       "Famiglia"
-    ]
-  },
-  {
-    "tmdb_id": 1702462,
-    "title": "Balcanica",
-    "original_title": "Balcanica",
-    "italian_title": "Balcanica",
-    "year": 2026,
-    "poster_path": "/zReOL1Nh4p0VPHbCbL618DwCpRD.jpg",
-    "overview": "Greta è una giovane dottoressa che affronta la sua prima missione umanitaria sulla rotta balcanica. L'incontro con Jalil e Nazar, musicisti afghani in fuga verso l'Italia, scuote profondamente le sue certezze, spingendola a un gesto estremo che potrebbe cambiare per sempre il suo destino e quello dei due musicisti.",
-    "title_en": "Balcanica",
-    "overview_en": "Music has been banned in Afghanistan, and now an orchestra conductor and his son, a tuba player, attempt to start over by emigrating along the Balkan route. During their flight, seemingly endless, they cross paths with an Italian woman, a doctor. This encounter will change the two refugees’ lives and that of the young woman as well.",
-    "runtime": 81,
-    "director": "Nicola Sorcinelli",
-    "genres": [
-      "Dramma"
     ]
   },
   {
@@ -1978,53 +1999,21 @@
     ]
   },
   {
-    "tmdb_id": 1400837,
-    "title": "Mammina",
-    "original_title": "Other Mommy",
-    "italian_title": "Mammina",
+    "tmdb_id": 1058424,
+    "title": "Hope",
+    "original_title": "호프",
+    "italian_title": "Hope",
     "year": 2026,
-    "poster_path": "/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
-    "overview": "Un viaggio terrificante nel mondo sempre più oscuro di Bela, una ragazzina che instaura un rapporto con un’entità sinistra presente nella sua casa, che assomiglia in modo inquietante alla sua stessa madre.",
-    "title_en": "Other Mommy",
-    "overview_en": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "runtime": 93,
-    "director": "Rob Savage",
+    "poster_path": "/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
+    "overview": "I rinforzi sono stati richiamati per fronteggiare i devastanti incendi boschivi e ogni comunicazione con l’esterno è stata interrotta. Nel piccolo posto di polizia di Hope, il comandante Bum-seok e l’agente Sung-ae lottano per proteggere un villaggio popolato quasi esclusivamente da anziani. Nel frattempo, tra le montagne, Sung-ki e gli abitanti del luogo partono sulle tracce della misteriosa creatura, ma la battuta di caccia si trasforma presto in un incubo e diventano loro stessi prede.",
+    "title_en": "Hope",
+    "overview_en": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+    "runtime": 157,
+    "director": "나홍진",
     "genres": [
-      "Horror"
-    ]
-  },
-  {
-    "tmdb_id": 1729904,
-    "title": "Mustang",
-    "original_title": "Mustang",
-    "italian_title": "Mustang",
-    "year": 2026,
-    "poster_path": "/td0dZlkmJlXWIp8UkJPTJC39xFt.jpg",
-    "overview": "Mustang è un racconto intimo e inedito che nasce dal primo viaggio compiuto nel 2003 insieme a Pietro Taricone nella remota regione del Mustang e racconta oltre vent'anni di vita. Una promessa ai confini del mondo che attraversa il tempo e le generazioni, tra amore, perdita e memoria, alla ricerca di ciò che resta quando tutto si trasforma.",
-    "title_en": "Mustang",
-    "overview_en": "At the age of twenty, Sophie Taricone sets out to tell a story that began before she was born. Through archival footage shot by her parents, Kasia Smutniak and Pietro Taricone, she retraces their 2003 journey to Mustang—a remote Himalayan kingdom known as \"the last Tibet\"—and she follows Kasia’s return there after Pietro’s death. Spanning more than two decades, the film weaves together past and present as Kasia forges a lasting bond with a local community in Mustang and helps to establish a school dedicated to preserving its culture. Through Sophie’s journey, the film explores memory, identity, and the fragile balance between Western progress and an ancient, spiritual way of life.",
-    "runtime": 105,
-    "director": "Kasia Smutniak",
-    "genres": [
-      "Documentario"
-    ]
-  },
-  {
-    "tmdb_id": 656908,
-    "title": "Ramayana - La nascita di una leggenda",
-    "original_title": "रामायणम्",
-    "italian_title": "Ramayana - La nascita di una leggenda",
-    "year": 2026,
-    "poster_path": "/ovi5mxUCbSdFPv73rn6aXP9x9UC.jpg",
-    "overview": "In un’epoca di dèi e re, il destino di interi mondi è in bilico. Rama, principe votato al dovere, al sacrificio e alla rettitudine, deve affrontare Ravana, sovrano immortale accecato dall’orgoglio e dalla sete di vendetta, tanto potente da poter frantumare il cosmo.",
-    "title_en": "Ramayana: Rise of a Legend",
-    "overview_en": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-    "runtime": 201,
-    "director": "Nitesh Tiwari",
-    "genres": [
-      "Fantasy",
-      "Azione",
-      "Avventura"
+      "Fantascienza",
+      "Mistero",
+      "Azione"
     ]
   },
   {
@@ -2079,41 +2068,6 @@
     ]
   },
   {
-    "tmdb_id": 1477104,
-    "title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
-    "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "italian_title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
-    "year": 2026,
-    "poster_path": "/hIgvOtvwbNCUclH0uBvg2qn6Ye.jpg",
-    "overview": "Halloween è alle porte. Shaun e tutti gli animali della fattoria si preparano per festeggiarlo al meglio coltivando un magnifico campo di zucche. Ma quando tutto sembrava ormai pronto, il contadino misteriosamente scompare e arriva dal bosco uno spaventoso mostro. Sarà compito di Shaun e i suoi amici salvare la fattoria dalla pelosa creatura e ritrovare l’amato contadino in tempo per la grande festa. Tra esperimenti impazziti e colpi di scena inaspettati, sarà un’avventura a tutta pecora per tutta la famiglia.",
-    "title_en": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "overview_en": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
-    "runtime": 88,
-    "director": "Steve Cox, Matthew Walker",
-    "genres": [
-      "Animazione",
-      "Fantascienza",
-      "Commedia"
-    ]
-  },
-  {
-    "tmdb_id": 1694040,
-    "title": "Devozioni",
-    "original_title": "Devozioni",
-    "italian_title": "Devozioni",
-    "year": null,
-    "poster_path": null,
-    "overview": null,
-    "title_en": "Devozioni",
-    "overview_en": "Exploration of Lucania, a region of Southern Italy with maintains rich history and traditions, thanks to the faith of its people. Between devotional processions of saints and Madonnas, rows of wind turbine blades that have partly transformed a landscape at times wild and the incessant flow of seasons dictated by the wind, the author goes in search of a spirituality that our times seem to have lost",
-    "runtime": null,
-    "director": "Gianfranco Pannone",
-    "genres": [
-      "Documentario",
-      "Storia"
-    ]
-  },
-  {
     "tmdb_id": 1432605,
     "title": "My Father's Shadow",
     "original_title": "My Father's Shadow",
@@ -2127,6 +2081,22 @@
     "director": "Akinola Davies Jr.",
     "genres": [
       "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1438963,
+    "title": "Dal nulla",
+    "original_title": "Dal nulla",
+    "italian_title": "Dal nulla",
+    "year": 2026,
+    "poster_path": "/rHQgxrs731wD5t0gmH0Dm34Wq3w.jpg",
+    "overview": "Sardegna. Un piccolo villaggio viene sconvolto dalla scomparsa di una bambina e dal suicidio di Alice, una giovane donna ritrovata morta nel bosco. C’è un legame tra i due casi, ma ancora nessuno lo sa. Sara, una scrittrice di successo, amica della ragazza, decide di tornare nei suoi luoghi d’infanzia per scoprire cosa sia accaduto. Sarà così costretta a confrontarsi coi demoni di un passato dimenticato.",
+    "title_en": "From the Dark",
+    "overview_en": "Sardinia. A small village is shocked by the disappearance of a little girl and the suicide of Alice, a young woman found dead in the woods. There is a connection between the two cases, but no one knows yet. Sara, a successful writer and friend of the girl, decides to return to her childhood places to find out what happened. She will thus be forced to confront the demons of a forgotten past.",
+    "runtime": 102,
+    "director": "Joe Juanne Piras",
+    "genres": [
+      "Thriller"
     ]
   }
 ]
