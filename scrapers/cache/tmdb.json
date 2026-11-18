@@ -20758,6 +20758,42 @@
         ]
       }
     },
+    "43864": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Gregory La Cava"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Commedia"
+        },
+        {
+          "name": "Dramma"
+        }
+      ],
+      "id": 43864,
+      "original_title": "Stage Door",
+      "overview": "Gli alti e bassi delle vite e delle carriere di un gruppo di giovani attrici e show girl ambiziose, provenienti da ambienti disparati e riunite in un ostello teatrale. In particolare, si concentra sul conflitto e sulla crescente amicizia tra Terry Randall, una ragazza ricca e fiduciosa nel suo talento e nella sua capacità di arrivare ai vertici del palcoscenico, e Jean Maitland, una troupe cinica e stanca del mondo che ha subito i colpi duri dello spietato e sovrappopolato mondo degli apprendisti di Broadway.",
+      "poster_path": "/irDPFf6mBBDfGapWFu6djPmXjJ2.jpg",
+      "release_date": "1937-10-08",
+      "runtime": 92,
+      "title": "Palcoscenico",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "A spirited heiress wishing to break into theatre on her own merit arrives at a boardinghouse where aspiring young actresses and showgirls are brought together through their cynicism and disappointments.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "43874": {
       "credits": {
         "crew": [
@@ -23088,6 +23124,39 @@
           {
             "data": {
               "overview": "A group of comedians are trying to be successful on stage. One night an important television network organises a public variety show to sort out some performers for their programs. Every one of them will try their hardest, but just a few will be chosen.",
+              "title": ""
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
+    "650597": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Carlo Lavagna"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Thriller"
+        }
+      ],
+      "id": 650597,
+      "original_title": "Shadows",
+      "overview": "Alma e Alex sono due sorelle adolescenti che vivono nascoste nell’oscurità dei boschi, in un vecchio hotel abbandonato, con la loro Madre, una donna severa che le protegge dalle misteriose insidie del mondo esterno. Ma con il passare del tempo inizia a farsi spazio nelle due ragazze una nuova consapevolezza che le porterà a infrangere le regole, spezzando l’apparente equilibrio delle loro vite e portando alla luce un inquietante segreto.",
+      "poster_path": "/2C3TVHdOKEHm4QuhYshNvXrBpKW.jpg",
+      "release_date": "2023-01-01",
+      "runtime": 100,
+      "title": "Shadows - Ombre",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "Alma and Alex, two adolescent sisters, are survivors of a catastrophic event. They live deep in the woods with their Mother, a strict, over-protective woman who has sheltered them from ominous presences, the Shadows, which live in the daylight and infest the world beyond the river, a border for Alma and Alex. When they follow Mother, out for hunting, Alma and Alex start a series of events which will make them discover the truth about the Shadows and their own reality.",
               "title": ""
             },
             "iso_639_1": "en"
@@ -34474,6 +34543,15 @@
         "title": "Giulio Regeni: Tutto Il Male Del Mondo"
       }
     ],
+    "giurato numero 2 juror 2|": [
+      {
+        "id": 1106739,
+        "original_title": "Juror #2",
+        "popularity": 5.2264,
+        "release_date": "2024-11-14",
+        "title": "Giurato numero 2"
+      }
+    ],
     "gli spietati|": [
       {
         "id": 33,
@@ -38204,6 +38282,7 @@
         "title": "The Confession of Julien Donkey-Boy"
       }
     ],
+    "jumbo la voce di don autism friendly|": [],
     "jumbo la voce di don|": [
       {
         "id": 1049082,
@@ -47744,6 +47823,148 @@
       }
     ],
     "omaggio a ennio morricone mission|": [],
+    "ombre shadows|": [
+      {
+        "id": 650597,
+        "original_title": "Shadows",
+        "popularity": 0.428,
+        "release_date": "2020-10-21",
+        "title": "Shadows - Ombre"
+      },
+      {
+        "id": 510689,
+        "original_title": "Among the Shadows",
+        "popularity": 1.3041,
+        "release_date": "2019-03-05",
+        "title": "Among the shadows - Tra le ombre"
+      },
+      {
+        "id": 1419406,
+        "original_title": "捕风追影",
+        "popularity": 44.7935,
+        "release_date": "2026-04-29",
+        "title": "The Shadow's Edge - Colpo su colpo"
+      },
+      {
+        "id": 1487861,
+        "original_title": "Elize: Sombras de uma Mulher",
+        "popularity": 7.9237,
+        "release_date": "2026-07-22",
+        "title": "Elize - Le ombre di una donna"
+      },
+      {
+        "id": 58574,
+        "original_title": "Sherlock Holmes: A Game of Shadows",
+        "popularity": 6.3274,
+        "release_date": "2011-12-16",
+        "title": "Sherlock Holmes - Gioco di ombre"
+      },
+      {
+        "id": 308531,
+        "original_title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+        "popularity": 6.8246,
+        "release_date": "2016-07-07",
+        "title": "Tartarughe Ninja: Fuori dall'ombra"
+      },
+      {
+        "id": 1318335,
+        "original_title": "Les Rayons et les Ombres",
+        "popularity": 3.6717,
+        "release_date": "2026-11-28",
+        "title": "I raggi e le ombre"
+      },
+      {
+        "id": 363579,
+        "original_title": "밀정",
+        "popularity": 3.3116,
+        "release_date": "2016-09-03",
+        "title": "L'impero delle ombre"
+      },
+      {
+        "id": 26782,
+        "original_title": "Тіні забутих предків",
+        "popularity": 2.9821,
+        "release_date": "2026-09-13",
+        "title": "Le ombre degli avi dimenticati"
+      },
+      {
+        "id": 19200,
+        "original_title": "Shadows and Fog",
+        "popularity": 1.8324,
+        "release_date": "1992-03-06",
+        "title": "Ombre e nebbia"
+      },
+      {
+        "id": 15484,
+        "original_title": "Shadows",
+        "popularity": 1.6303,
+        "release_date": "1960-08-26",
+        "title": "Ombre"
+      },
+      {
+        "id": 609734,
+        "original_title": "Above the Shadows",
+        "popularity": 1.5204,
+        "release_date": "2019-05-31",
+        "title": "Above the Shadows"
+      },
+      {
+        "id": 71945,
+        "original_title": "Night of Dark Shadows",
+        "popularity": 1.1307,
+        "release_date": "1971-08-04",
+        "title": "La casa delle ombre maledette"
+      },
+      {
+        "id": 39164,
+        "original_title": "House of the Long Shadows",
+        "popularity": 1.3484,
+        "release_date": "1983-06-17",
+        "title": "La casa delle ombre lunghe"
+      },
+      {
+        "id": 18224,
+        "original_title": "Bionicle 3: Web of Shadows",
+        "popularity": 1.1187,
+        "release_date": "2005-10-19",
+        "title": "Bionicle 3 - Le ombre del mistero"
+      },
+      {
+        "id": 3,
+        "original_title": "Varjoja paratiisissa",
+        "popularity": 1.4009,
+        "release_date": "1986-10-17",
+        "title": "Ombre nel paradiso"
+      },
+      {
+        "id": 166442,
+        "original_title": "Mystery Woman: In the Shadows",
+        "popularity": 1.0064,
+        "release_date": "2007-01-13",
+        "title": "La libreria del mistero: Le ombre"
+      },
+      {
+        "id": 37680,
+        "original_title": "Shadows in Paradise",
+        "popularity": 0.8079,
+        "release_date": "2010-02-09",
+        "title": "Shadows in Paradise"
+      },
+      {
+        "id": 53161,
+        "original_title": "White Shadows in the South Seas",
+        "popularity": 0.7036,
+        "release_date": "1928-11-11",
+        "title": "Ombre bianche"
+      },
+      {
+        "id": 295560,
+        "original_title": "Clint Eastwood: Out of the Shadows",
+        "popularity": 0.635,
+        "release_date": "2000-09-27",
+        "title": "Clint Eastwood: Out of the Shadows"
+      }
+    ],
     "one night only quando tutto e possibile|": [
       {
         "id": 1433367,
@@ -48048,6 +48269,113 @@
         "popularity": 3.4207,
         "release_date": "2026-10-28",
         "title": "Back to the Beginning: Ozzy's Final Bow"
+      }
+    ],
+    "palcoscenico|": [
+      {
+        "id": 43864,
+        "original_title": "Stage Door",
+        "popularity": 1.4123,
+        "release_date": "1937-10-08",
+        "title": "Palcoscenico"
+      },
+      {
+        "id": 27327,
+        "original_title": "Phantom of the Paradise",
+        "popularity": 3.8228,
+        "release_date": "1975-06-13",
+        "title": "Il fantasma del palcoscenico"
+      },
+      {
+        "id": 757,
+        "original_title": "Murder Most Foul",
+        "popularity": 1.3285,
+        "release_date": "1964-03-01",
+        "title": "Assassinio sul palcoscenico"
+      },
+      {
+        "id": 1978,
+        "original_title": "Stage Fright",
+        "popularity": 1.3995,
+        "release_date": "1950-11-30",
+        "title": "Paura in palcoscenico"
+      },
+      {
+        "id": 22288,
+        "original_title": "Honeysuckle Rose",
+        "popularity": 1.266,
+        "release_date": "1980-07-18",
+        "title": "Accordi sul palcoscenico"
+      },
+      {
+        "id": 1931,
+        "original_title": "Stomp the Yard",
+        "popularity": 2.3006,
+        "release_date": "2007-07-06",
+        "title": "Stepping - Dalla strada al palcoscenico"
+      },
+      {
+        "id": 86168,
+        "original_title": "I Could Go on Singing",
+        "popularity": 1.002,
+        "release_date": "1963-03-07",
+        "title": "Ombre sul palcoscenico"
+      },
+      {
+        "id": 111910,
+        "original_title": "Stage Struck",
+        "popularity": 0.6771,
+        "release_date": "1958-04-22",
+        "title": "Fascino del palcoscenico"
+      },
+      {
+        "id": 203696,
+        "original_title": "Scooby-Doo! Stage Fright",
+        "popularity": 2.9085,
+        "release_date": "2013-08-10",
+        "title": "Scooby-Doo! e il palcoscenico stregato"
+      },
+      {
+        "id": 780842,
+        "original_title": "Fregoli in palcoscenico ovvero Fregoli barbiere maldestro",
+        "popularity": 0.24,
+        "release_date": "1897-01-01",
+        "title": "Fregoli in palcoscenico ovvero Fregoli barbiere maldestro"
+      },
+      {
+        "id": 221614,
+        "original_title": "Fabrizio De Andrè, la musica della poesia - RAI Palcoscenico",
+        "popularity": 0.6009,
+        "release_date": "2009-01-09",
+        "title": "Fabrizio De Andrè, la musica della poesia - RAI Palcoscenico"
+      },
+      {
+        "id": 1455720,
+        "original_title": "È severamente vietata la sosta in palcoscenico ai non autorizzati. Un documentario di meno su Carmelo Bene",
+        "popularity": 0.2319,
+        "release_date": "2024-08-01",
+        "title": "È severamente vietata la sosta in palcoscenico ai non autorizzati. Un documentario di meno su Carmelo Bene"
+      },
+      {
+        "id": 109435,
+        "original_title": "Street Scene",
+        "popularity": 0.5624,
+        "release_date": "1931-09-05",
+        "title": "Scena di strada"
+      },
+      {
+        "id": 404692,
+        "original_title": "Leonardo Pieraccioni Show 2000-2001",
+        "popularity": 0.3191,
+        "release_date": "2001-07-03",
+        "title": "Leonardo Pieraccioni Show 2000-2001"
+      },
+      {
+        "id": 1231986,
+        "original_title": "Fregoli prestigiatore",
+        "popularity": 0.1781,
+        "release_date": "1899-12-13",
+        "title": "Fregoli prestigiatore"
       }
     ],
     "palestina 36|": [
@@ -49674,6 +50002,7 @@
     ],
     "pre roll 2 stefano arienti corrado levi|": [],
     "pre roll 4 riccardo fasana|": [],
+    "presentazione il morandini|": [],
     "presentazione libro essere nuvola di chandra|": [],
     "primavera estate autunno inverno e ancora primavera|": [
       {

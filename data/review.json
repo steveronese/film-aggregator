@@ -21,6 +21,13 @@
     "confidence": 87.05882352941177
   },
   {
+    "raw_title": "Il Gatto Con Il Cappello",
+    "tmdb_id": 1117898,
+    "matched_title": "Il gatto col cappello",
+    "method": "fuzzy",
+    "confidence": 88.88888888888889
+  },
+  {
     "raw_title": "(O.V.) Hunger Games - L'Alba Sulla Mieti",
     "tmdb_id": 1300968,
     "matched_title": "Hunger Games - L'alba sulla mietitura",
@@ -40,6 +47,13 @@
     "matched_title": "Heart of the Beast - Nel profondo selvaggio",
     "method": "fuzzy",
     "confidence": 86.11111111111111
+  },
+  {
+    "raw_title": "Taddeo L'Esploratore E La Lampada M.",
+    "tmdb_id": 1187326,
+    "matched_title": "Taddeo l’esploratore e la lampada magica",
+    "method": "fuzzy",
+    "confidence": 93.33333333333333
   },
   {
     "raw_title": "Shaun, Vita Da Pecora - Operazione Z.U.C",
