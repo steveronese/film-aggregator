@@ -11513,6 +11513,45 @@
         ]
       }
     },
+    "1499546": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Nanni Moretti"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Dramma"
+        },
+        {
+          "name": "Romance"
+        },
+        {
+          "name": "Commedia"
+        }
+      ],
+      "id": 1499546,
+      "original_title": "Succederà questa notte",
+      "overview": "A Oslo, Thea e Matteo attendono la nascita del loro bambino. Nel frattempo, a Mumbai, Carlo chiede a Greta di sposarlo in pubblico. Sette anni dopo, a Roma, Matteo sta giocando a tennis quando Greta si presenta per una partita, vestita da sposa. Per lui è amore a prima vista, ma lei si è appena sposata. La vita continua e Matteo non riesce a dimenticare Greta. Sette anni dopo, si incontrano di nuovo per caso. Entrambi sono sposati e hanno figli con altre persone. L'amore li fa sempre incontrare nel momento sbagliato. Liberamente ispirato alla raccolta di racconti \"Legami\" di Eshkol Nevo.",
+      "poster_path": "/z4WYphWimZ6bjWnaHBRKXeggSp6.jpg",
+      "release_date": "2026-12-03",
+      "runtime": 103,
+      "title": "Succederà questa notte",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "In Oslo, Thea and Matteo are awaiting the birth of their child. Meanwhile, in Mumbai, Charles asks Greta to marry him in public. Seven years later, in Rome, Matteo is playing tennis when Greta shows up for a match, dressed as a bride. For him it's love at first sight, but she's just married. Life goes on, yet Matteo cannot forget Greta. Seven years later, they meet again by chance; both are married and have children with other people. Love always brings them together at the wrong time. Loosely based on the short story collection \"Legami\" by Eshkol Nevo.",
+              "title": "It Will Happen Tonight"
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
     "15": {
       "credits": {
         "crew": [
@@ -21727,6 +21766,42 @@
             "data": {
               "overview": "Lieutenant Giovanni Drogo is assigned to the old Bastiani border fortress where he expects an imminent attack by nomadic fearsome Tartars.",
               "title": "The Desert of the Tartars"
+            },
+            "iso_639_1": "en"
+          }
+        ]
+      }
+    },
+    "490": {
+      "credits": {
+        "crew": [
+          {
+            "job": "Director",
+            "name": "Ingmar Bergman"
+          }
+        ]
+      },
+      "genres": [
+        {
+          "name": "Fantasy"
+        },
+        {
+          "name": "Dramma"
+        }
+      ],
+      "id": 490,
+      "original_title": "Det sjunde inseglet",
+      "overview": "La morte appare ad un cavaliere al suo ritorno dalla battaglia e cerca di portarlo via. Il cavaliere sfida la morte ad una partita a scacchi.",
+      "poster_path": "/ojwrVRmNlwv0WeDKbEsNPRBae6W.jpg",
+      "release_date": "1957-02-16",
+      "runtime": 98,
+      "title": "Il settimo sigillo",
+      "translations": {
+        "translations": [
+          {
+            "data": {
+              "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+              "title": "The Seventh Seal"
             },
             "iso_639_1": "en"
           }
@@ -35460,6 +35535,7 @@
         "title": "Giurato numero 2"
       }
     ],
+    "gli anni del padre|": [],
     "gli spietati|": [
       {
         "id": 33,
@@ -35483,6 +35559,15 @@
         "popularity": 0.6727,
         "release_date": "1988-05-05",
         "title": "Gli spostati di North Avenue"
+      }
+    ],
+    "gli uccelli del monte qaf|": [
+      {
+        "id": 1510562,
+        "original_title": "گذشته آینده استمراری",
+        "popularity": 0.2568,
+        "release_date": "2025-09-01",
+        "title": "گذشته آینده استمراری"
       }
     ],
     "godzilla minus zero|": [
@@ -38292,6 +38377,15 @@
         "title": "Il sentiero azzurro"
       }
     ],
+    "il settimo sigillo|": [
+      {
+        "id": 490,
+        "original_title": "Det sjunde inseglet",
+        "popularity": 5.4511,
+        "release_date": "1958-08-05",
+        "title": "Il settimo sigillo"
+      }
+    ],
     "il signore del male|": [
       {
         "id": 8852,
@@ -40464,6 +40558,7 @@
         "title": "L'ultima missione: Project Hail Mary"
       }
     ],
+    "l ultimo tiziano|": [],
     "l uomo che poteva cambiare il mondo|": [
       {
         "id": 1000834,
@@ -51346,6 +51441,7 @@
     ],
     "pre roll 2 stefano arienti corrado levi|": [],
     "pre roll 4 riccardo fasana|": [],
+    "premiazione filmmaker tutti frutti|": [],
     "presentazione il morandini|": [],
     "presentazione libro essere nuvola di chandra|": [],
     "primavera estate autunno inverno e ancora primavera|": [
@@ -52062,6 +52158,7 @@
         "title": "Pusher - L'inizio"
       }
     ],
+    "quadri sonori|": [],
     "quarto potere|": [
       {
         "id": 15,
@@ -56123,6 +56220,15 @@
         "popularity": 0.9598,
         "release_date": "1990-04-14",
         "title": "Revenge of Lady Street Fighter"
+      }
+    ],
+    "succedera questa notte|": [
+      {
+        "id": 1499546,
+        "original_title": "Succederà questa notte",
+        "popularity": 1.3476,
+        "release_date": "2026-12-03",
+        "title": "Succederà questa notte"
       }
     ],
     "suicide club|": [
